@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 19 Aug 2026 13:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 13:05:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Gizem Çetin ile Parantez</title>
+      <link>https://www.youtube.com/watch?v=Q5RDkUcUSz8</link>
+      <guid isPermaLink="false">Q5RDkUcUSz8</guid>
+      <pubDate>Wed, 19 Aug 2026 13:00:55 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Gizem Çetin ile Parantez</description>
+    </item>
+    <item>
+      <title>Halk TV: YENİ PARTİ'YE BAĞIŞ YAĞMURU! İnanılmaz rakamı Zeynel Emre açıkladı! Duyunca dudağınız uçuklayacak!</title>
+      <link>https://www.youtube.com/watch?v=RT_ASAUaIJY</link>
+      <guid isPermaLink="false">RT_ASAUaIJY</guid>
+      <pubDate>Wed, 19 Aug 2026 13:00:10 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YENİ PARTİ'YE BAĞIŞ YAĞMURU! İnanılmaz rakamı Zeynel Emre açıkladı! Duyunca dudağınız uçuklayacak!</description>
+    </item>
     <item>
       <title>Cumhuriyet: Kredi çekecekler dikkat! Ekonomist Şirin'den kritik analiz: Faizler düşecek mi?</title>
       <link>https://www.youtube.com/watch?v=z7txPTiOM9Y</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">X3BVy2gpfO0</guid>
       <pubDate>Wed, 19 Aug 2026 10:45:37 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SİLİVRİ'DE NEFESLER TUTULDU! İBB duruşmasının final tarihi açıklandı! Gamze Altunay'dan son bilgiler</description>
-    </item>
-    <item>
-      <title>Halk TV: Yılmaz Büyükerşen'in kardeşi Güzin Büyükerşen için cenaze töreni düzenleniyor</title>
-      <link>https://www.youtube.com/watch?v=fy-OIe6isPk</link>
-      <guid isPermaLink="false">fy-OIe6isPk</guid>
-      <pubDate>Wed, 19 Aug 2026 10:44:20 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Yılmaz Büyükerşen'in kardeşi Güzin Büyükerşen için cenaze töreni düzenleniyor</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Yılmaz Büyükerşen'in kardeşi Güzin Büyükerşen için cenaze töreni düzenleniyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=UZ6smIyw6yg</link>
-      <guid isPermaLink="false">UZ6smIyw6yg</guid>
-      <pubDate>Wed, 19 Aug 2026 10:42:24 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Yılmaz Büyükerşen'in kardeşi Güzin Büyükerşen için cenaze töreni düzenleniyor #Canlı</description>
     </item>
   </channel>
 </rss>
