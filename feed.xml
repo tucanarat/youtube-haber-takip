@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 19 Aug 2026 21:56:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 22:00:49 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: #CANLI S Raporu | Dilan Polat</title>
+      <link>https://www.youtube.com/watch?v=ea0B0F_lXNw</link>
+      <guid isPermaLink="false">ea0B0F_lXNw</guid>
+      <pubDate>Wed, 19 Aug 2026 21:57:53 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: #CANLI S Raporu | Dilan Polat</description>
+    </item>
     <item>
       <title>Halk TV: Erzurum’da ilginç görüntü! Yola harç döken beton mikserine ceza!</title>
       <link>https://www.youtube.com/shorts/Kxkh2DfUjKI</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">z9-Tt1rDPDw</guid>
       <pubDate>Wed, 19 Aug 2026 17:00:08 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (19 Ağustos 2026)</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: 1.8 Trilyonluk Faiz! Mahmut Aydoğmuş'tan Vergi Gerçekleri | Mahmut Aydoğmuş | Vergi Kafe</title>
-      <link>https://www.youtube.com/watch?v=-BS9ohZcfK4</link>
-      <guid isPermaLink="false">-BS9ohZcfK4</guid>
-      <pubDate>Wed, 19 Aug 2026 17:00:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: 1.8 Trilyonluk Faiz! Mahmut Aydoğmuş'tan Vergi Gerçekleri | Mahmut Aydoğmuş | Vergi Kafe</description>
     </item>
   </channel>
 </rss>
