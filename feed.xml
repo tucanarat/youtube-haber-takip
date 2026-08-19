@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 19 Aug 2026 15:20:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 15:25:28 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: BAHÇELİ'YE MEMLEKETİNDEN BÜYÜK ŞOK! İnşaatta çalışan emekliden kahreden sözler! Cumhur iyi dinlesin!</title>
+      <link>https://www.youtube.com/watch?v=mGiVfYDVzl0</link>
+      <guid isPermaLink="false">mGiVfYDVzl0</guid>
+      <pubDate>Wed, 19 Aug 2026 15:15:25 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BAHÇELİ'YE MEMLEKETİNDEN BÜYÜK ŞOK! İnşaatta çalışan emekliden kahreden sözler! Cumhur iyi dinlesin!</description>
+    </item>
     <item>
       <title>Halk TV: Süleymancılar cemaatinden sonra Furkancılara da operasyon: Çarpıcı detaylar ortaya çıktı!</title>
       <link>https://www.youtube.com/watch?v=Qa2Ie7NXHks</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">d3sMtWT2VTg</guid>
       <pubDate>Wed, 19 Aug 2026 12:08:05 +0000</pubDate>
       <description>Halk TV kanalından yeni video: POLİS ER GAZİLERİN ETRAFINI KUŞATTI! Barikatlar Kuruldu, Yollar Kapatıldı! Ankara Ayakta!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Er Şehit Yakınları ve Er Gazilerin Yürüyüşüne Polis Engeli</title>
-      <link>https://www.youtube.com/watch?v=NhFg6YT8h9U</link>
-      <guid isPermaLink="false">NhFg6YT8h9U</guid>
-      <pubDate>Wed, 19 Aug 2026 12:07:52 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Er Şehit Yakınları ve Er Gazilerin Yürüyüşüne Polis Engeli</description>
     </item>
   </channel>
 </rss>
