@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 19 Aug 2026 16:50:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 16:55:25 +0000</lastBuildDate>
     <item>
-      <title>SÖZCÜ TV: #CANLI Sözcü Ana Haber | Can Coşkun</title>
+      <title>SÖZCÜ TV: Sözcü Ana Haber | Can Coşkun | 19 Ağustos</title>
       <link>https://www.youtube.com/watch?v=Iyc9-EQq85U</link>
       <guid isPermaLink="false">Iyc9-EQq85U</guid>
       <pubDate>Wed, 19 Aug 2026 16:49:47 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: #CANLI Sözcü Ana Haber | Can Coşkun</description>
+      <description>SÖZCÜ TV kanalından yeni video: Sözcü Ana Haber | Can Coşkun | 19 Ağustos</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Alparslan Kuytul neden gözaltında? Akın Gürlek'ten açıklama! Oktay Saral paylaşımını kaldırdı!</title>
+      <link>https://www.youtube.com/watch?v=SxkX2Q0tRas</link>
+      <guid isPermaLink="false">SxkX2Q0tRas</guid>
+      <pubDate>Wed, 19 Aug 2026 16:47:36 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Alparslan Kuytul neden gözaltında? Akın Gürlek'ten açıklama! Oktay Saral paylaşımını kaldırdı!</description>
     </item>
     <item>
       <title>Halk TV: ORTALIĞI TOZU DUMANA KATACAK! Operasyonlar o belediyeye uzanabilir! Ertan Aksoy'dan kritik senaryo!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">L8KNDXWso48</guid>
       <pubDate>Wed, 19 Aug 2026 13:30:10 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Savcı, İBB davasında savunma yaparken o isme tutuklama istedi! Zeynel Emre skandala ateş püskürdü!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: GAZETECİLERİN TANITTIĞI PARTİ! Faruk Bildirici'den çok kritik 'Yerli ve Milli Parti' açıklaması...</title>
-      <link>https://www.youtube.com/watch?v=45ax54FEpk8</link>
-      <guid isPermaLink="false">45ax54FEpk8</guid>
-      <pubDate>Wed, 19 Aug 2026 13:30:00 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: GAZETECİLERİN TANITTIĞI PARTİ! Faruk Bildirici'den çok kritik 'Yerli ve Milli Parti' açıklaması...</description>
     </item>
   </channel>
 </rss>
