@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 19 Aug 2026 16:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 16:40:31 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Mühendislikten Cemaat Liderliğine! Alparslan Kuytul ve Furkan Vakfı Gerçeği! Ekrem Açıkel İfşa Etti</title>
+      <link>https://www.youtube.com/watch?v=xN48MDde8zw</link>
+      <guid isPermaLink="false">xN48MDde8zw</guid>
+      <pubDate>Wed, 19 Aug 2026 16:30:28 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Mühendislikten Cemaat Liderliğine! Alparslan Kuytul ve Furkan Vakfı Gerçeği! Ekrem Açıkel İfşa Etti</description>
+    </item>
     <item>
       <title>Halk TV: YENİ Parti Sözcüsü Zeynel Emre, partisinin Kurultay takvimini açıkladı! #shorts</title>
       <link>https://www.youtube.com/shorts/nypmq62rjvw</link>
@@ -20,6 +27,13 @@
       <guid isPermaLink="false">fMyfVknuLzI</guid>
       <pubDate>Wed, 19 Aug 2026 16:30:09 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Cemaatlere operasyon silsilesi onlara da uzanacak mı? Sait Çamlıca'dan 'Menzil' için bomba sözler!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Yeni Partili Meriç'i bıçaklayan CHP'li Keleş'in ifadesi ortaya çıktı! Meriç'in sağlık durumu nasıl?</title>
+      <link>https://www.youtube.com/watch?v=kFnxR6jIeHM</link>
+      <guid isPermaLink="false">kFnxR6jIeHM</guid>
+      <pubDate>Wed, 19 Aug 2026 16:25:38 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Yeni Partili Meriç'i bıçaklayan CHP'li Keleş'in ifadesi ortaya çıktı! Meriç'in sağlık durumu nasıl?</description>
     </item>
     <item>
       <title>Tele2 Haber: #CANLI YENİ Parti İstanbul İl Başkanlığı'ndan Çekmeköy'de "Millet İradesine Saygı Yürüyüşü"</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">-BS9ohZcfK4</guid>
       <pubDate>Wed, 19 Aug 2026 13:05:44 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: 1.8 Trilyonluk Faiz! Mahmut Aydoğmuş'tan Vergi Gerçekleri | Mahmut Aydoğmuş | Vergi Kafe</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: BİZE ZEHİR YEDİRMİŞLER Ünlü Markaların Şeker Oyununu Murat Ağırel İfşa Etti!</title>
-      <link>https://www.youtube.com/watch?v=jNgWsvxIrKw</link>
-      <guid isPermaLink="false">jNgWsvxIrKw</guid>
-      <pubDate>Wed, 19 Aug 2026 13:00:30 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: BİZE ZEHİR YEDİRMİŞLER Ünlü Markaların Şeker Oyununu Murat Ağırel İfşa Etti!</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ PARTİ'YE BAĞIŞ YAĞMURU! İnanılmaz rakamı Zeynel Emre açıkladı! Duyunca dudağınız uçuklayacak!</title>
-      <link>https://www.youtube.com/watch?v=RT_ASAUaIJY</link>
-      <guid isPermaLink="false">RT_ASAUaIJY</guid>
-      <pubDate>Wed, 19 Aug 2026 13:00:10 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ PARTİ'YE BAĞIŞ YAĞMURU! İnanılmaz rakamı Zeynel Emre açıkladı! Duyunca dudağınız uçuklayacak!</description>
     </item>
   </channel>
 </rss>
