@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 19 Aug 2026 14:45:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 14:50:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Fenerbahçe Taraftarı: Bu Futbolculara Paramın Gitmesini İstemiyorum| Enes Köseoğlu ile Tribünün Sesi</title>
+      <link>https://www.youtube.com/watch?v=5gkRK_y_QAU</link>
+      <guid isPermaLink="false">5gkRK_y_QAU</guid>
+      <pubDate>Wed, 19 Aug 2026 14:45:22 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Fenerbahçe Taraftarı: Bu Futbolculara Paramın Gitmesini İstemiyorum| Enes Köseoğlu ile Tribünün Sesi</description>
+    </item>
     <item>
       <title>Halk TV: Babacan'a dert yanan vatandaştan yürek burkan sözler: Ekonomi düzelir ama psikolojimiz düzelmez</title>
       <link>https://www.youtube.com/shorts/m4-6DMtZzBo</link>
@@ -162,11 +169,11 @@
       <description>SÖZCÜ TV kanalından yeni video: 1.8 Trilyonluk Faiz! Mahmut Aydoğmuş'tan Vergi Gerçekleri | Mahmut Aydoğmuş | Vergi Kafe</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | Gizem Çetin ile Parantez</title>
+      <title>Halk TV: Gizem Çetin ile Parantez (19 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=Q5RDkUcUSz8</link>
       <guid isPermaLink="false">Q5RDkUcUSz8</guid>
       <pubDate>Wed, 19 Aug 2026 13:00:55 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Gizem Çetin ile Parantez</description>
+      <description>Halk TV kanalından yeni video: Gizem Çetin ile Parantez (19 Ağustos 2026)</description>
     </item>
     <item>
       <title>SÖZCÜ TV: BİZE ZEHİR YEDİRMİŞLER Ünlü Markaların Şeker Oyununu Murat Ağırel İfşa Etti!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ElLJkU-94A4</guid>
       <pubDate>Wed, 19 Aug 2026 11:45:20 +0000</pubDate>
       <description>Halk TV kanalından yeni video: O GÖRÜNTÜLER KAN DONDURDU! CHP'li ilçe başkanı, YENİ Partili vekili böyle bıçakladı! İşte son durumu</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Uludağ Yolu'nda gece tilki sürprizi!</title>
-      <link>https://www.youtube.com/shorts/YVuJvTmPEYc</link>
-      <guid isPermaLink="false">YVuJvTmPEYc</guid>
-      <pubDate>Wed, 19 Aug 2026 11:45:11 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Uludağ Yolu'nda gece tilki sürprizi!</description>
     </item>
   </channel>
 </rss>
