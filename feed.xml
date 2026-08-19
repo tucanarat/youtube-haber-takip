@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 19 Aug 2026 17:00:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 17:05:29 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Şehit Anaları Derneği Başkanı Pakize Akbaba'dan, Kemal Kılıçdaroğlu'na yönelik sert sözler! #shorts</title>
+      <link>https://www.youtube.com/shorts/fifHmapHiyA</link>
+      <guid isPermaLink="false">fifHmapHiyA</guid>
+      <pubDate>Wed, 19 Aug 2026 17:00:21 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Şehit Anaları Derneği Başkanı Pakize Akbaba'dan, Kemal Kılıçdaroğlu'na yönelik sert sözler! #shorts</description>
+    </item>
     <item>
       <title>Halk TV: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (19 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=z9-Tt1rDPDw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">1eFp-QHPPts</guid>
       <pubDate>Wed, 19 Aug 2026 13:40:53 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Gazilere polis müdahalesi: Bir gazi fenalık geçirdi</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Madencilerin direnişi devam ediyor: Tek kuruş alacağımız kalmayana kadar Ankara'dayız</title>
-      <link>https://www.youtube.com/watch?v=Dhqm8LSnrKY</link>
-      <guid isPermaLink="false">Dhqm8LSnrKY</guid>
-      <pubDate>Wed, 19 Aug 2026 13:39:44 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Madencilerin direnişi devam ediyor: Tek kuruş alacağımız kalmayana kadar Ankara'dayız</description>
     </item>
   </channel>
 </rss>
