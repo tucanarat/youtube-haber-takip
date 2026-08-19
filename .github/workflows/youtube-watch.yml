@@ -1,0 +1,39 @@
+name: YouTube RSS Watcher
+
+on:
+  schedule:
+    # Her 5 dakikada bir çalışır. Not: GitHub Actions cron zamanlaması
+    # yoğunluğa göre birkaç dakika (bazen daha fazla) gecikebilir, bu garanti
+    # bir "tam 5 dakika" değildir.
+    - cron: "*/5 * * * *"
+  workflow_dispatch: {}  # GitHub arayüzünden manuel olarak da tetikleyebilmek için
+
+# İş akışının repo'ya yazma (commit/push) yapabilmesi için izin
+permissions:
+  contents: write
+
+jobs:
+  check-new-videos:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repoyu indir
+        uses: actions/checkout@v4
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Kütüphaneleri kur
+        run: pip install -r requirements.txt
+
+      - name: Kanalları kontrol et ve site dosyalarını üret
+        run: python3 youtube_rss_watcher.py --once
+
+      - name: Değişiklikleri repoya kaydet
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add videos_store.json new_videos.log feed.xml index.html
+          git diff --staged --quiet || git commit -m "Otomatik güncelleme: yeni video kontrolü"
+          git push
