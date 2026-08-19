@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 19 Aug 2026 18:15:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 18:20:35 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: HARCAMALARI DUR DURAK BİLMİYOR! Mesut Özarslan AKP'ye geçti; pehlivanlara yüz binlerce dolar dağıttı</title>
+      <link>https://www.youtube.com/watch?v=g-OerH6WvOw</link>
+      <guid isPermaLink="false">g-OerH6WvOw</guid>
+      <pubDate>Wed, 19 Aug 2026 18:15:02 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: HARCAMALARI DUR DURAK BİLMİYOR! Mesut Özarslan AKP'ye geçti; pehlivanlara yüz binlerce dolar dağıttı</description>
+    </item>
     <item>
       <title>Halk TV: ''DAYATMAYLA İTTİFAK YAPMAM!'' İYİ Parti liderinden o isimlere çok çarpıcı 'İttifak' resti geldi!</title>
       <link>https://www.youtube.com/watch?v=nxifHmC8b6w</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">5gkRK_y_QAU</guid>
       <pubDate>Wed, 19 Aug 2026 14:45:22 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Fenerbahçe Taraftarı: Bu Futbolculara Paramın Gitmesini İstemiyorum| Enes Köseoğlu ile Tribünün Sesi</description>
-    </item>
-    <item>
-      <title>Halk TV: Babacan'a dert yanan vatandaştan yürek burkan sözler: Ekonomi düzelir ama psikolojimiz düzelmez</title>
-      <link>https://www.youtube.com/shorts/m4-6DMtZzBo</link>
-      <guid isPermaLink="false">m4-6DMtZzBo</guid>
-      <pubDate>Wed, 19 Aug 2026 14:38:42 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Babacan'a dert yanan vatandaştan yürek burkan sözler: Ekonomi düzelir ama psikolojimiz düzelmez</description>
     </item>
   </channel>
 </rss>
