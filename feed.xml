@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 19 Aug 2026 16:14:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 16:15:30 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: YENİ Parti İstanbul İl Başkanlığı'ndan Çekmeköy'de "Millet İradesine Saygı Yürüyüşü" #Canlı</title>
+      <link>https://www.youtube.com/watch?v=vtqvaeRGwqA</link>
+      <guid isPermaLink="false">vtqvaeRGwqA</guid>
+      <pubDate>Wed, 19 Aug 2026 16:12:27 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti İstanbul İl Başkanlığı'ndan Çekmeköy'de "Millet İradesine Saygı Yürüyüşü" #Canlı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İçinizden Biri | Ekrem Açıkel | 19 Ağustos</title>
       <link>https://www.youtube.com/watch?v=kQwSzlAbOQs</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">gyK0uB3Tqhg</guid>
       <pubDate>Wed, 19 Aug 2026 12:49:56 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Gazilerin yürüyüşüne damga vuran tartışma! "KILIÇDAROĞLU BİZİ SATTI"</description>
-    </item>
-    <item>
-      <title>Halk TV: POLİS ER GAZİLERİN ETRAFINI KUŞATTI! Barikatlar Kuruldu, Yollar Kapatıldı! Ankara Ayakta!</title>
-      <link>https://www.youtube.com/watch?v=6EE14_DpFaE</link>
-      <guid isPermaLink="false">6EE14_DpFaE</guid>
-      <pubDate>Wed, 19 Aug 2026 12:49:04 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: POLİS ER GAZİLERİN ETRAFINI KUŞATTI! Barikatlar Kuruldu, Yollar Kapatıldı! Ankara Ayakta!</description>
     </item>
   </channel>
 </rss>
