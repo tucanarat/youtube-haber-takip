@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 19 Aug 2026 20:30:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 20:35:23 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SİNİRDEN KIPKIRMIZI OLDU! AKP’ye geçen o vekillere Cemal Enginyurt’tan olay sözler!</title>
+      <link>https://www.youtube.com/watch?v=R05p2JRrElA</link>
+      <guid isPermaLink="false">R05p2JRrElA</guid>
+      <pubDate>Wed, 19 Aug 2026 20:30:01 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SİNİRDEN KIPKIRMIZI OLDU! AKP’ye geçen o vekillere Cemal Enginyurt’tan olay sözler!</description>
+    </item>
     <item>
       <title>Halk TV: ‘’BU HAK SANA HARAM OLSUN ORHAN!’’ Cemal Enginyurt’un bu sözleri tarihe geçecek! Son noktayı koydu!</title>
       <link>https://www.youtube.com/watch?v=JyMaHcUqV5I</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">U1CNnwN6RUc</guid>
       <pubDate>Wed, 19 Aug 2026 16:15:23 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Enerji Bakanlığı garantör olmasına rağmen Doruk Maden işçileri paralarını alamadı! #shorts</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İçinizden Biri | Ekrem Açıkel | 19 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=kQwSzlAbOQs</link>
-      <guid isPermaLink="false">kQwSzlAbOQs</guid>
-      <pubDate>Wed, 19 Aug 2026 16:04:49 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İçinizden Biri | Ekrem Açıkel | 19 Ağustos</description>
     </item>
   </channel>
 </rss>
