@@ -1598,5 +1598,29 @@
     "published": "2026-08-19T22:00:10+00:00",
     "published_ts": 1787176810,
     "channel_name": "SÖZCÜ TV"
+  },
+  "KfSnXkIVlRs": {
+    "id": "KfSnXkIVlRs",
+    "title": "Öğle Bülteni | Gülinay Selçuk",
+    "link": "https://www.youtube.com/watch?v=KfSnXkIVlRs",
+    "published": "2026-08-19T22:34:00+00:00",
+    "published_ts": 1787178840,
+    "channel_name": "SÖZCÜ TV"
+  },
+  "NMkk3z3Fagw": {
+    "id": "NMkk3z3Fagw",
+    "title": "Sözcü Masası | Senem Toluay Ilgaz",
+    "link": "https://www.youtube.com/watch?v=NMkk3z3Fagw",
+    "published": "2026-08-19T22:33:18+00:00",
+    "published_ts": 1787178798,
+    "channel_name": "SÖZCÜ TV"
+  },
+  "te9-DVE6v4Q": {
+    "id": "te9-DVE6v4Q",
+    "title": "Sözcü ile Uyanma Vakti | Ceylin Çağatay",
+    "link": "https://www.youtube.com/watch?v=te9-DVE6v4Q",
+    "published": "2026-08-19T22:32:53+00:00",
+    "published_ts": 1787178773,
+    "channel_name": "SÖZCÜ TV"
   }
 }

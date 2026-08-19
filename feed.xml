@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 19 Aug 2026 22:30:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 22:35:25 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Öğle Bülteni | Gülinay Selçuk</title>
+      <link>https://www.youtube.com/watch?v=KfSnXkIVlRs</link>
+      <guid isPermaLink="false">KfSnXkIVlRs</guid>
+      <pubDate>Wed, 19 Aug 2026 22:34:00 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Öğle Bülteni | Gülinay Selçuk</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Sözcü Masası | Senem Toluay Ilgaz</title>
+      <link>https://www.youtube.com/watch?v=NMkk3z3Fagw</link>
+      <guid isPermaLink="false">NMkk3z3Fagw</guid>
+      <pubDate>Wed, 19 Aug 2026 22:33:18 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Sözcü Masası | Senem Toluay Ilgaz</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Sözcü ile Uyanma Vakti | Ceylin Çağatay</title>
+      <link>https://www.youtube.com/watch?v=te9-DVE6v4Q</link>
+      <guid isPermaLink="false">te9-DVE6v4Q</guid>
+      <pubDate>Wed, 19 Aug 2026 22:32:53 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Sözcü ile Uyanma Vakti | Ceylin Çağatay</description>
+    </item>
     <item>
       <title>Halk TV: Kürşad Oğuz ile Rota (19 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=tyZDH0L-WnQ</link>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">-IzROzhGNRs</guid>
       <pubDate>Wed, 19 Aug 2026 17:21:18 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: MURAT TAYLAN'DAN ÇOK KRİTİK ALPARSLAN KUYTUL YORUMU!</description>
-    </item>
-    <item>
-      <title>Halk TV: Doruk Maden işçilerine destek olmak isteyen öğrencilere polis müdahalesi! #shorts</title>
-      <link>https://www.youtube.com/shorts/a3f90PNcsMQ</link>
-      <guid isPermaLink="false">a3f90PNcsMQ</guid>
-      <pubDate>Wed, 19 Aug 2026 17:15:24 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Doruk Maden işçilerine destek olmak isteyen öğrencilere polis müdahalesi! #shorts</description>
-    </item>
-    <item>
-      <title>Halk TV: ŞAFAK OPERASYONUYLA GÖZALTINA ALINDI! Alparslan Kuytul, Süleymancılara operasyonu böyle eleştirmişti</title>
-      <link>https://www.youtube.com/watch?v=sg2WLgiKzP4</link>
-      <guid isPermaLink="false">sg2WLgiKzP4</guid>
-      <pubDate>Wed, 19 Aug 2026 17:15:15 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ŞAFAK OPERASYONUYLA GÖZALTINA ALINDI! Alparslan Kuytul, Süleymancılara operasyonu böyle eleştirmişti</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti İstanbul İl Başkanlığı'ndan Çekmeköy'de "Millet İradesine Saygı Yürüyüşü"</title>
-      <link>https://www.youtube.com/watch?v=BJjUkD6WwGo</link>
-      <guid isPermaLink="false">BJjUkD6WwGo</guid>
-      <pubDate>Wed, 19 Aug 2026 17:10:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti İstanbul İl Başkanlığı'ndan Çekmeköy'de "Millet İradesine Saygı Yürüyüşü"</description>
     </item>
   </channel>
 </rss>
