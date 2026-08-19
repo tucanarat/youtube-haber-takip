@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 19 Aug 2026 16:30:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 16:35:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: YENİ Parti Sözcüsü Zeynel Emre, partisinin Kurultay takvimini açıkladı! #shorts</title>
+      <link>https://www.youtube.com/shorts/nypmq62rjvw</link>
+      <guid isPermaLink="false">nypmq62rjvw</guid>
+      <pubDate>Wed, 19 Aug 2026 16:30:13 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YENİ Parti Sözcüsü Zeynel Emre, partisinin Kurultay takvimini açıkladı! #shorts</description>
+    </item>
     <item>
       <title>Halk TV: Cemaatlere operasyon silsilesi onlara da uzanacak mı? Sait Çamlıca'dan 'Menzil' için bomba sözler!</title>
       <link>https://www.youtube.com/watch?v=fMyfVknuLzI</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">RT_ASAUaIJY</guid>
       <pubDate>Wed, 19 Aug 2026 13:00:10 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ PARTİ'YE BAĞIŞ YAĞMURU! İnanılmaz rakamı Zeynel Emre açıkladı! Duyunca dudağınız uçuklayacak!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Kredi çekecekler dikkat! Ekonomist Şirin'den kritik analiz: Faizler düşecek mi?</title>
-      <link>https://www.youtube.com/watch?v=z7txPTiOM9Y</link>
-      <guid isPermaLink="false">z7txPTiOM9Y</guid>
-      <pubDate>Wed, 19 Aug 2026 13:00:06 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Kredi çekecekler dikkat! Ekonomist Şirin'den kritik analiz: Faizler düşecek mi?</description>
     </item>
   </channel>
 </rss>
