@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 19 Aug 2026 13:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 13:40:32 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI Zeynel Lüle ve Faruk Bildirici ile Medyamorfoz (19.08.26)</title>
+      <link>https://www.youtube.com/watch?v=BnSUMscqunY</link>
+      <guid isPermaLink="false">BnSUMscqunY</guid>
+      <pubDate>Wed, 19 Aug 2026 13:37:33 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Zeynel Lüle ve Faruk Bildirici ile Medyamorfoz (19.08.26)</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | CHP'nin Butlan Sözcüsü Müslim Sarı, MYK Gündemiyle İlgili Açıklama Yapıyor!</title>
       <link>https://www.youtube.com/watch?v=4fx9Vw7DVYM</link>
       <guid isPermaLink="false">4fx9Vw7DVYM</guid>
       <pubDate>Wed, 19 Aug 2026 13:32:03 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | CHP'nin Butlan Sözcüsü Müslim Sarı, MYK Gündemiyle İlgili Açıklama Yapıyor!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Murat Ağırel O Dosyayı Açtı! BİLDİKLERİNİ ANLATACAKTI, ÖLDÜRÜLDÜ! Milyonluk FETÖ Çarkı İfşa Oldu</title>
+      <link>https://www.youtube.com/watch?v=_k0UJgrp7ks</link>
+      <guid isPermaLink="false">_k0UJgrp7ks</guid>
+      <pubDate>Wed, 19 Aug 2026 13:30:12 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Murat Ağırel O Dosyayı Açtı! BİLDİKLERİNİ ANLATACAKTI, ÖLDÜRÜLDÜ! Milyonluk FETÖ Çarkı İfşa Oldu</description>
     </item>
     <item>
       <title>Halk TV: Savcı, İBB davasında savunma yaparken o isme tutuklama istedi! Zeynel Emre skandala ateş püskürdü!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">NE35eE6o8eE</guid>
       <pubDate>Wed, 19 Aug 2026 11:00:19 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: TÜRKİYE SINIRINA 70 KM MESAFEDE İSRAİL FÜZELERİ! "Türkiye Uçakları Vurabilirdi!"</description>
-    </item>
-    <item>
-      <title>Halk TV: KILIÇDAROĞLU UYKU UYUYAMAZ! Arka planda öyle dolaplar dönüyormuş ki! Mehmet Tezkan bir bir anlattı!</title>
-      <link>https://www.youtube.com/watch?v=yLhf17Mkhm8</link>
-      <guid isPermaLink="false">yLhf17Mkhm8</guid>
-      <pubDate>Wed, 19 Aug 2026 10:55:53 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KILIÇDAROĞLU UYKU UYUYAMAZ! Arka planda öyle dolaplar dönüyormuş ki! Mehmet Tezkan bir bir anlattı!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: "Westside ve 500 bin TL iddiası: Herkes suçlamayı 'bir başkasından' duymuş!"</title>
-      <link>https://www.youtube.com/shorts/4DEK-Cosa8k</link>
-      <guid isPermaLink="false">4DEK-Cosa8k</guid>
-      <pubDate>Wed, 19 Aug 2026 10:54:01 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: "Westside ve 500 bin TL iddiası: Herkes suçlamayı 'bir başkasından' duymuş!"</description>
     </item>
   </channel>
 </rss>
