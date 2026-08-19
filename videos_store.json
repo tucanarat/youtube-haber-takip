@@ -241,10 +241,10 @@
   },
   "BafKmHn_gm4": {
     "id": "BafKmHn_gm4",
-    "title": "#CANLI | İrem Sansak ile Haber Masası",
+    "title": "İrem Sansak ile Haber Masası (19 Ağustos 2026)",
     "link": "https://www.youtube.com/watch?v=BafKmHn_gm4",
-    "published": "2026-08-19T09:52:37+00:00",
-    "published_ts": 1787133157,
+    "published": "2026-08-19T12:58:36+00:00",
+    "published_ts": 1787144316,
     "channel_name": "Halk TV"
   },
   "OrBWT2EWKAA": {
@@ -507,8 +507,8 @@
     "id": "z7txPTiOM9Y",
     "title": "Kredi çekecekler dikkat! Ekonomist Şirin'den kritik analiz: Faizler düşecek mi?",
     "link": "https://www.youtube.com/watch?v=z7txPTiOM9Y",
-    "published": "2026-08-19T11:11:50+00:00",
-    "published_ts": 1787137910,
+    "published": "2026-08-19T13:00:06+00:00",
+    "published_ts": 1787144406,
     "channel_name": "Cumhuriyet"
   },
   "U_iS5tc9wt8": {
@@ -585,10 +585,10 @@
   },
   "6EE14_DpFaE": {
     "id": "6EE14_DpFaE",
-    "title": "#CANLI | POLİS ER GAZİLERİN ETRAFINI KUŞATTI! Barikatlar Kuruldu, Yollar Kapatıldı! Ankara Ayakta!",
+    "title": "POLİS ER GAZİLERİN ETRAFINI KUŞATTI! Barikatlar Kuruldu, Yollar Kapatıldı! Ankara Ayakta!",
     "link": "https://www.youtube.com/watch?v=6EE14_DpFaE",
-    "published": "2026-08-19T12:13:15+00:00",
-    "published_ts": 1787141595,
+    "published": "2026-08-19T12:49:04+00:00",
+    "published_ts": 1787143744,
     "channel_name": "Halk TV"
   },
   "8fww36ZFQgk": {
@@ -774,5 +774,37 @@
     "published": "2026-08-19T12:45:28+00:00",
     "published_ts": 1787143528,
     "channel_name": "Halk TV"
+  },
+  "gyK0uB3Tqhg": {
+    "id": "gyK0uB3Tqhg",
+    "title": "Gazilerin yürüyüşüne damga vuran tartışma! \"KILIÇDAROĞLU BİZİ SATTI\"",
+    "link": "https://www.youtube.com/watch?v=gyK0uB3Tqhg",
+    "published": "2026-08-19T12:49:56+00:00",
+    "published_ts": 1787143796,
+    "channel_name": "Cumhuriyet"
+  },
+  "AVgIcarrD3U": {
+    "id": "AVgIcarrD3U",
+    "title": "CHP Genel Başkan Yardımcısı Semra Dinçer, İçişleri Bakanlığı önünde açıklama yapıyor #Canlı",
+    "link": "https://www.youtube.com/watch?v=AVgIcarrD3U",
+    "published": "2026-08-19T12:55:40+00:00",
+    "published_ts": 1787144140,
+    "channel_name": "ANKA Haber Ajansı"
+  },
+  "7D9RVbVvSPI": {
+    "id": "7D9RVbVvSPI",
+    "title": "CHP Sözcüsü Müslim Sarı, MYK gündemiyle ilgili basın açıklaması yapıyor #Canlı",
+    "link": "https://www.youtube.com/watch?v=7D9RVbVvSPI",
+    "published": "2026-08-19T12:54:13+00:00",
+    "published_ts": 1787144053,
+    "channel_name": "ANKA Haber Ajansı"
+  },
+  "FtfkGihT_Tw": {
+    "id": "FtfkGihT_Tw",
+    "title": "Gümrükçü \"Kaybetmeye Alışın!\" Demişti Çağlayan'dan Cevap! \"İktidarla İş Tutmuyoruz Dİyeceksiniz...\"",
+    "link": "https://www.youtube.com/watch?v=FtfkGihT_Tw",
+    "published": "2026-08-19T12:57:39+00:00",
+    "published_ts": 1787144259,
+    "channel_name": "Tele2 Haber"
   }
 }
