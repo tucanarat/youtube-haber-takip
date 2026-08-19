@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 19 Aug 2026 22:00:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 22:05:27 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Kürşad Oğuz ile Rota (19 Ağustos 2026)</title>
+      <link>https://www.youtube.com/watch?v=tyZDH0L-WnQ</link>
+      <guid isPermaLink="false">tyZDH0L-WnQ</guid>
+      <pubDate>Wed, 19 Aug 2026 22:03:26 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Kürşad Oğuz ile Rota (19 Ağustos 2026)</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: NETANYAHU'NUN HEDEFİ TÜRKİYE Mİ? İsrail'den Küstah Tehdit! Türkiye Harekete Geçebilir!</title>
+      <link>https://www.youtube.com/watch?v=mq-CjUDFRj4</link>
+      <guid isPermaLink="false">mq-CjUDFRj4</guid>
+      <pubDate>Wed, 19 Aug 2026 22:00:10 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: NETANYAHU'NUN HEDEFİ TÜRKİYE Mİ? İsrail'den Küstah Tehdit! Türkiye Harekete Geçebilir!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: #CANLI S Raporu | Dilan Polat</title>
       <link>https://www.youtube.com/watch?v=ea0B0F_lXNw</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">BJjUkD6WwGo</guid>
       <pubDate>Wed, 19 Aug 2026 17:10:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Parti İstanbul İl Başkanlığı'ndan Çekmeköy'de "Millet İradesine Saygı Yürüyüşü"</description>
-    </item>
-    <item>
-      <title>Halk TV: Şehit Anaları Derneği Başkanı Pakize Akbaba'dan, Kemal Kılıçdaroğlu'na yönelik sert sözler! #shorts</title>
-      <link>https://www.youtube.com/shorts/fifHmapHiyA</link>
-      <guid isPermaLink="false">fifHmapHiyA</guid>
-      <pubDate>Wed, 19 Aug 2026 17:00:21 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Şehit Anaları Derneği Başkanı Pakize Akbaba'dan, Kemal Kılıçdaroğlu'na yönelik sert sözler! #shorts</description>
-    </item>
-    <item>
-      <title>Halk TV: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (19 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=z9-Tt1rDPDw</link>
-      <guid isPermaLink="false">z9-Tt1rDPDw</guid>
-      <pubDate>Wed, 19 Aug 2026 17:00:08 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (19 Ağustos 2026)</description>
     </item>
   </channel>
 </rss>
