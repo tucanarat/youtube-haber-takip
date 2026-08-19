@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 19 Aug 2026 19:50:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 19:55:27 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ORHAN ÇERKEZ’E KABUS OLACAK TABLO! Çerkezköy tek ses oldu; ‘Hain Orhan’ sloganı meydanı inletti!</title>
+      <link>https://www.youtube.com/watch?v=71SZLuvwVpE</link>
+      <guid isPermaLink="false">71SZLuvwVpE</guid>
+      <pubDate>Wed, 19 Aug 2026 19:45:28 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ORHAN ÇERKEZ’E KABUS OLACAK TABLO! Çerkezköy tek ses oldu; ‘Hain Orhan’ sloganı meydanı inletti!</description>
+    </item>
     <item>
       <title>Halk TV: BUTLAN CHP’SİNDEN İTİRAF GELDİ! Talimat verilmiş ama meclis üyeleri ‘Butlan’ı dinlememiş!</title>
       <link>https://www.youtube.com/watch?v=GZJzr122frw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">QWNlX0s0TCA</guid>
       <pubDate>Wed, 19 Aug 2026 16:00:12 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Süleymancıların Altınları Menzil'i Karıştırdı! 200 Kilo Altın Kimin? Menzil'de Taht Kavgası</description>
-    </item>
-    <item>
-      <title>Halk TV: İBB DAVASINDA SICAK DAKİKALAR! 67. gününde neler yaşandı? Gamze Altunay dakika dakika anlattı!</title>
-      <link>https://www.youtube.com/watch?v=xqZ4gAgMXwA</link>
-      <guid isPermaLink="false">xqZ4gAgMXwA</guid>
-      <pubDate>Wed, 19 Aug 2026 16:00:04 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İBB DAVASINDA SICAK DAKİKALAR! 67. gününde neler yaşandı? Gamze Altunay dakika dakika anlattı!</description>
     </item>
   </channel>
 </rss>
