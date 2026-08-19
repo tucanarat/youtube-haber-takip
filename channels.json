@@ -15,8 +15,10 @@
     {
       "name": "ANKA Haber Ajansı",
       "channel_id": "UCO9AQtN33IP53uiImJ_59OQ"
+    },
+    {
+      "name": "Tele2 Haber",
+      "channel_id": "UCAbieDfnJVCSfWYBanP8diw"
     }
   ]
 }
- { "name": "Tele2 Haber", 
-   "channel_id": "UCAbieDfnJVCSfWYBanP8diw" }
