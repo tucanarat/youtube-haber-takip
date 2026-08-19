@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 19 Aug 2026 19:05:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 19:10:33 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: #CANLI Onur Öncü ile Sabah Pusulası (20.08.26)</title>
       <link>https://www.youtube.com/watch?v=SZO76_Hg3B0</link>
       <guid isPermaLink="false">SZO76_Hg3B0</guid>
       <pubDate>Wed, 19 Aug 2026 19:01:01 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Onur Öncü ile Sabah Pusulası (20.08.26)</description>
+    </item>
+    <item>
+      <title>Halk TV: İLK İCRAATI ATATÜRK PORTRESİ OLDU! AKP’ye geçen Çerkez, makam odasında Atatürk değişikliği yaptı!</title>
+      <link>https://www.youtube.com/watch?v=zbDD_LKO9i0</link>
+      <guid isPermaLink="false">zbDD_LKO9i0</guid>
+      <pubDate>Wed, 19 Aug 2026 19:00:03 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İLK İCRAATI ATATÜRK PORTRESİ OLDU! AKP’ye geçen Çerkez, makam odasında Atatürk değişikliği yaptı!</description>
     </item>
     <item>
       <title>Tele2 Haber: #CANLI Ülkü Çoban ile Manşet Ötesi | Konuk: Sertaç Eş (20.08.26)</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Mr_WmLM3R9g</guid>
       <pubDate>Wed, 19 Aug 2026 15:30:14 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Emekli Tümamiral'den Çarpıcı Uyarı! Neden Ebu Zuhur Üssü? Netanyahu Bunu Planlıyor!</description>
-    </item>
-    <item>
-      <title>Halk TV: Süleymancıların eski lideri Denizolgun'un ölümünde cinayet şüphesi! Sait Çamlıca neler anlattı neler</title>
-      <link>https://www.youtube.com/watch?v=L4EZBliYvQU</link>
-      <guid isPermaLink="false">L4EZBliYvQU</guid>
-      <pubDate>Wed, 19 Aug 2026 15:30:08 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Süleymancıların eski lideri Denizolgun'un ölümünde cinayet şüphesi! Sait Çamlıca neler anlattı neler</description>
     </item>
   </channel>
 </rss>
