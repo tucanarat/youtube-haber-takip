@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 19 Aug 2026 13:55:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 14:00:27 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: KILIÇDAROĞLU UYKU UYUYAMAZ! Arka planda öyle dolaplar dönüyormuş ki! Mehmet Tezkan bir bir anlattı!</title>
+      <link>https://www.youtube.com/watch?v=yLhf17Mkhm8</link>
+      <guid isPermaLink="false">yLhf17Mkhm8</guid>
+      <pubDate>Wed, 19 Aug 2026 13:45:06 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KILIÇDAROĞLU UYKU UYUYAMAZ! Arka planda öyle dolaplar dönüyormuş ki! Mehmet Tezkan bir bir anlattı!</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Gazilere polis müdahalesi: Bir gazi fenalık geçirdi</title>
+      <link>https://www.youtube.com/shorts/1eFp-QHPPts</link>
+      <guid isPermaLink="false">1eFp-QHPPts</guid>
+      <pubDate>Wed, 19 Aug 2026 13:40:53 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Gazilere polis müdahalesi: Bir gazi fenalık geçirdi</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Madencilerin direnişi devam ediyor: Tek kuruş alacağımız kalmayana kadar Ankara'dayız</title>
+      <link>https://www.youtube.com/watch?v=Dhqm8LSnrKY</link>
+      <guid isPermaLink="false">Dhqm8LSnrKY</guid>
+      <pubDate>Wed, 19 Aug 2026 13:39:44 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Madencilerin direnişi devam ediyor: Tek kuruş alacağımız kalmayana kadar Ankara'dayız</description>
+    </item>
     <item>
       <title>Tele2 Haber: Dini cemaat ya da tarikat diyemediler! Zeynel Lüle ve Faruk Bildirici ile Medyamorfoz (19.08.26)</title>
       <link>https://www.youtube.com/watch?v=BnSUMscqunY</link>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">qt-CmfUS5cM</guid>
       <pubDate>Wed, 19 Aug 2026 11:03:53 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Duruşmada Tutuklama İstemi Hakkında Çağlayan'dan Çarpıcı Yorum! "Hukuki Değil Siyasi Strateji!"</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Öğle Bülteni | Gülinay Selçuk | 19 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=Hil6XqS7bUc</link>
-      <guid isPermaLink="false">Hil6XqS7bUc</guid>
-      <pubDate>Wed, 19 Aug 2026 11:03:47 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Öğle Bülteni | Gülinay Selçuk | 19 Ağustos</description>
-    </item>
-    <item>
-      <title>Halk TV: İBB DAVASI TEL TEL DÖKÜLMEYE BAŞLADI! İmamoğlu'na bir iftira daha! Seraf Özer'den çarpıcı sözler!</title>
-      <link>https://www.youtube.com/watch?v=HlatZwQwzRY</link>
-      <guid isPermaLink="false">HlatZwQwzRY</guid>
-      <pubDate>Wed, 19 Aug 2026 11:00:40 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İBB DAVASI TEL TEL DÖKÜLMEYE BAŞLADI! İmamoğlu'na bir iftira daha! Seraf Özer'den çarpıcı sözler!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: TÜRKİYE SINIRINA 70 KM MESAFEDE İSRAİL FÜZELERİ! "Türkiye Uçakları Vurabilirdi!"</title>
-      <link>https://www.youtube.com/watch?v=NE35eE6o8eE</link>
-      <guid isPermaLink="false">NE35eE6o8eE</guid>
-      <pubDate>Wed, 19 Aug 2026 11:00:19 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: TÜRKİYE SINIRINA 70 KM MESAFEDE İSRAİL FÜZELERİ! "Türkiye Uçakları Vurabilirdi!"</description>
     </item>
   </channel>
 </rss>
