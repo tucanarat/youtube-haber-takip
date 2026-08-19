@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 19 Aug 2026 19:42:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 19:45:32 +0000</lastBuildDate>
     <item>
       <title>Halk TV: BUTLAN CHP’SİNDEN İTİRAF GELDİ! Talimat verilmiş ama meclis üyeleri ‘Butlan’ı dinlememiş!</title>
       <link>https://www.youtube.com/watch?v=GZJzr122frw</link>
       <guid isPermaLink="false">GZJzr122frw</guid>
       <pubDate>Wed, 19 Aug 2026 19:30:13 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BUTLAN CHP’SİNDEN İTİRAF GELDİ! Talimat verilmiş ama meclis üyeleri ‘Butlan’ı dinlememiş!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Sıra Onlara da Gelecek mi? Tarikatların Dev Serveti - Süleymancılar ve Furkan Vakfı Operasyonu</title>
+      <link>https://www.youtube.com/watch?v=Hxc-2y5dIco</link>
+      <guid isPermaLink="false">Hxc-2y5dIco</guid>
+      <pubDate>Wed, 19 Aug 2026 19:30:09 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Sıra Onlara da Gelecek mi? Tarikatların Dev Serveti - Süleymancılar ve Furkan Vakfı Operasyonu</description>
     </item>
     <item>
       <title>Tele2 Haber: Seçim sistemi değişiyor mu? Bahçeli'den işaret fişeği! Hukukçu Bülent Yücetürk yorumluyor</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">xqZ4gAgMXwA</guid>
       <pubDate>Wed, 19 Aug 2026 16:00:04 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İBB DAVASINDA SICAK DAKİKALAR! 67. gününde neler yaşandı? Gamze Altunay dakika dakika anlattı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Şehit Anaları Derneği Başkanı Pakize Akbaba, Kılıçdaroğlu'na yönelik çok sert ifadeler kullandı!</title>
-      <link>https://www.youtube.com/watch?v=j8EH587pqy0</link>
-      <guid isPermaLink="false">j8EH587pqy0</guid>
-      <pubDate>Wed, 19 Aug 2026 15:45:24 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Şehit Anaları Derneği Başkanı Pakize Akbaba, Kılıçdaroğlu'na yönelik çok sert ifadeler kullandı!</description>
     </item>
   </channel>
 </rss>
