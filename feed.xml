@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 19 Aug 2026 19:30:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 19:35:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: BUTLAN CHP’SİNDEN İTİRAF GELDİ! Talimat verilmiş ama meclis üyeleri ‘Butlan’ı dinlememiş!</title>
+      <link>https://www.youtube.com/watch?v=GZJzr122frw</link>
+      <guid isPermaLink="false">GZJzr122frw</guid>
+      <pubDate>Wed, 19 Aug 2026 19:30:13 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BUTLAN CHP’SİNDEN İTİRAF GELDİ! Talimat verilmiş ama meclis üyeleri ‘Butlan’ı dinlememiş!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Seçim sistemi değişiyor mu? Bahçeli'den işaret fişeği! Hukukçu Bülent Yücetürk yorumluyor</title>
       <link>https://www.youtube.com/watch?v=GPRVaGl_OOM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">j8EH587pqy0</guid>
       <pubDate>Wed, 19 Aug 2026 15:45:24 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Şehit Anaları Derneği Başkanı Pakize Akbaba, Kılıçdaroğlu'na yönelik çok sert ifadeler kullandı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Önceki gün gözaltına alınmıştı! Cemal Enginyurt'un oğlu adli kontrol kararıyla serbest bırakıldı!</title>
-      <link>https://www.youtube.com/watch?v=KZfyXNNoBpQ</link>
-      <guid isPermaLink="false">KZfyXNNoBpQ</guid>
-      <pubDate>Wed, 19 Aug 2026 15:45:22 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Önceki gün gözaltına alınmıştı! Cemal Enginyurt'un oğlu adli kontrol kararıyla serbest bırakıldı!</description>
     </item>
   </channel>
 </rss>
