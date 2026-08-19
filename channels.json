@@ -1,0 +1,20 @@
+{
+  "channels": [
+    {
+      "name": "Cumhuriyet",
+      "channel_id": "UCgnTQ4IeDnrnocBaiHHJsNg"
+    },
+    {
+      "name": "SÖZCÜ TV",
+      "channel_id": "UCOulx_rep5O4i9y6AyDqVvw"
+    },
+    {
+      "name": "Halk TV",
+      "channel_id": "UCf_ResXZzE-o18zACUEmyvQ"
+    },
+    {
+      "name": "ANKA Haber Ajansı",
+      "channel_id": "UCO9AQtN33IP53uiImJ_59OQ"
+    }
+  ]
+}
