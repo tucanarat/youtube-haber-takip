@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 19 Aug 2026 17:20:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 17:25:26 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: YENİ Parti İstanbul İl Başkanlığı'ndan Çekmeköy'de "Millet İradesine Saygı Yürüyüşü" #Canlı</title>
+      <link>https://www.youtube.com/watch?v=vtqvaeRGwqA</link>
+      <guid isPermaLink="false">vtqvaeRGwqA</guid>
+      <pubDate>Wed, 19 Aug 2026 17:25:06 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti İstanbul İl Başkanlığı'ndan Çekmeköy'de "Millet İradesine Saygı Yürüyüşü" #Canlı</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Saral 'suyun ısındı' dedi Kuytul gözaltına alındı! Murat Taylan ile Haber-Yorum (19.08.2026)</title>
+      <link>https://www.youtube.com/watch?v=zRspeUmdgLY</link>
+      <guid isPermaLink="false">zRspeUmdgLY</guid>
+      <pubDate>Wed, 19 Aug 2026 17:24:01 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Saral 'suyun ısındı' dedi Kuytul gözaltına alındı! Murat Taylan ile Haber-Yorum (19.08.2026)</description>
+    </item>
     <item>
       <title>Halk TV: Doruk Maden işçilerine destek olmak isteyen öğrencilere polis müdahalesi! #shorts</title>
       <link>https://www.youtube.com/shorts/a3f90PNcsMQ</link>
@@ -132,13 +146,6 @@
       <guid isPermaLink="false">U1CNnwN6RUc</guid>
       <pubDate>Wed, 19 Aug 2026 16:15:23 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Enerji Bakanlığı garantör olmasına rağmen Doruk Maden işçileri paralarını alamadı! #shorts</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: YENİ Parti İstanbul İl Başkanlığı'ndan Çekmeköy'de "Millet İradesine Saygı Yürüyüşü" #Canlı</title>
-      <link>https://www.youtube.com/watch?v=vtqvaeRGwqA</link>
-      <guid isPermaLink="false">vtqvaeRGwqA</guid>
-      <pubDate>Wed, 19 Aug 2026 16:12:27 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti İstanbul İl Başkanlığı'ndan Çekmeköy'de "Millet İradesine Saygı Yürüyüşü" #Canlı</description>
     </item>
     <item>
       <title>SÖZCÜ TV: İçinizden Biri | Ekrem Açıkel | 19 Ağustos</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Mpsap01hO_o</guid>
       <pubDate>Wed, 19 Aug 2026 14:00:16 +0000</pubDate>
       <description>Halk TV kanalından yeni video: AKP VE BUTLAN CHP'Sİ DUVARA FENA TOSLADI! Menderes seçimi mahkemeye taşınacak! Yer yerinden oynadı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: 'Eğer AKP...' Furkancılar Operasyonun Bomba Perde Arkası! Alparslan Kuytul'dan Sonra Hedef Kim?</title>
-      <link>https://www.youtube.com/watch?v=kgv_JOW2F0s</link>
-      <guid isPermaLink="false">kgv_JOW2F0s</guid>
-      <pubDate>Wed, 19 Aug 2026 14:00:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: 'Eğer AKP...' Furkancılar Operasyonun Bomba Perde Arkası! Alparslan Kuytul'dan Sonra Hedef Kim?</description>
     </item>
   </channel>
 </rss>
