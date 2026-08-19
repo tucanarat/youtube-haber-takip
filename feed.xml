@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 19 Aug 2026 19:10:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 19:14:17 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: #CANLI Onur Öncü ile Sabah Pusulası (20.08.26)</title>
       <link>https://www.youtube.com/watch?v=SZO76_Hg3B0</link>
       <guid isPermaLink="false">SZO76_Hg3B0</guid>
       <pubDate>Wed, 19 Aug 2026 19:01:01 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Onur Öncü ile Sabah Pusulası (20.08.26)</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: TARİKATLARDA NELER OLUYOR? 200 Kilo Altın, Milyonlarca Lira ve Perde Arkasındaki Gerçekler!</title>
+      <link>https://www.youtube.com/watch?v=sjkt1UFtihk</link>
+      <guid isPermaLink="false">sjkt1UFtihk</guid>
+      <pubDate>Wed, 19 Aug 2026 19:00:09 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: TARİKATLARDA NELER OLUYOR? 200 Kilo Altın, Milyonlarca Lira ve Perde Arkasındaki Gerçekler!</description>
     </item>
     <item>
       <title>Halk TV: İLK İCRAATI ATATÜRK PORTRESİ OLDU! AKP’ye geçen Çerkez, makam odasında Atatürk değişikliği yaptı!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">u8XZX4sLcmI</guid>
       <pubDate>Wed, 19 Aug 2026 15:33:49 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Ekrem İmamoğlu İBB davasının 67. gününde sitem etti</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Emekli Tümamiral'den Çarpıcı Uyarı! Neden Ebu Zuhur Üssü? Netanyahu Bunu Planlıyor!</title>
-      <link>https://www.youtube.com/watch?v=Mr_WmLM3R9g</link>
-      <guid isPermaLink="false">Mr_WmLM3R9g</guid>
-      <pubDate>Wed, 19 Aug 2026 15:30:14 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Emekli Tümamiral'den Çarpıcı Uyarı! Neden Ebu Zuhur Üssü? Netanyahu Bunu Planlıyor!</description>
     </item>
   </channel>
 </rss>
