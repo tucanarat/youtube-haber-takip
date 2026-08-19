@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 19 Aug 2026 12:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 12:40:30 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Furkan Vakfı Operasyonunda Akılalmaz İddia! Milyonluk Senet Elektroşok ve Zorla Çekilen Videolar</title>
+      <link>https://www.youtube.com/watch?v=O7OHAC7OqvE</link>
+      <guid isPermaLink="false">O7OHAC7OqvE</guid>
+      <pubDate>Wed, 19 Aug 2026 12:30:34 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Furkan Vakfı Operasyonunda Akılalmaz İddia! Milyonluk Senet Elektroşok ve Zorla Çekilen Videolar</description>
+    </item>
+    <item>
+      <title>Halk TV: 'Ege'nin Maldivleri' olarak bilinen Kalem Adası Süleymancıların çıktı! Bedeli dudak uçuklatacak!</title>
+      <link>https://www.youtube.com/watch?v=gmZ--P39F-k</link>
+      <guid isPermaLink="false">gmZ--P39F-k</guid>
+      <pubDate>Wed, 19 Aug 2026 12:30:18 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: 'Ege'nin Maldivleri' olarak bilinen Kalem Adası Süleymancıların çıktı! Bedeli dudak uçuklatacak!</description>
+    </item>
     <item>
       <title>Tele2 Haber: "İzin Alan Hakim Yerine Başkası Çıksa Anlamayabiliriz!" Çağlayan'dan Silivri'deki Yeni Salona Tepki!</title>
       <link>https://www.youtube.com/watch?v=LPdIuulk7fc</link>
@@ -27,6 +41,13 @@
       <guid isPermaLink="false">a1ziFBPhqxM</guid>
       <pubDate>Wed, 19 Aug 2026 12:23:06 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Er şehit yakınları ve er gazilerin yürüyüşüne polis engeli / Ankara #Canlı</description>
+    </item>
+    <item>
+      <title>Halk TV: Süleymancılar cemaatinden sonra Furkancılara da operasyon: Çarpıcı detaylar ortaya çıktı!</title>
+      <link>https://www.youtube.com/watch?v=Qa2Ie7NXHks</link>
+      <guid isPermaLink="false">Qa2Ie7NXHks</guid>
+      <pubDate>Wed, 19 Aug 2026 12:22:44 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Süleymancılar cemaatinden sonra Furkancılara da operasyon: Çarpıcı detaylar ortaya çıktı!</description>
     </item>
     <item>
       <title>Cumhuriyet: ŞEHİT YAKINLARI VE GAZİLERE POLİS ENGELİ! "Rahatsızlanan arkadaşlarımıza ambulans gelmiyor"</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">ySFVvygFgg4</guid>
       <pubDate>Wed, 19 Aug 2026 10:25:47 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: YENİ Parti Milletvekili Melih Meriç'in sağlık durumu nasıl? Gaziantep Valisi Çeber açıkladı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Sözcü ile Uyanma Vakti | Ceylin Çağatay | 19 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=KB0dkRw8eDQ</link>
-      <guid isPermaLink="false">KB0dkRw8eDQ</guid>
-      <pubDate>Wed, 19 Aug 2026 10:21:14 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Sözcü ile Uyanma Vakti | Ceylin Çağatay | 19 Ağustos</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İSRAİL ATEŞLE OYNUYOR! Türkiye'ye Hadsiz Gözdağı! Burnumuzun Dibine Füze Yağmuru</title>
-      <link>https://www.youtube.com/watch?v=PZWTSt1qiXo</link>
-      <guid isPermaLink="false">PZWTSt1qiXo</guid>
-      <pubDate>Wed, 19 Aug 2026 10:20:16 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İSRAİL ATEŞLE OYNUYOR! Türkiye'ye Hadsiz Gözdağı! Burnumuzun Dibine Füze Yağmuru</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Yılmaz Büyükerşen'in kardeşi Güzin Büyükerşen için cenaze töreni düzenleniyor</title>
-      <link>https://www.youtube.com/watch?v=BZ3rHkHthH4</link>
-      <guid isPermaLink="false">BZ3rHkHthH4</guid>
-      <pubDate>Wed, 19 Aug 2026 10:17:49 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Yılmaz Büyükerşen'in kardeşi Güzin Büyükerşen için cenaze töreni düzenleniyor</description>
     </item>
   </channel>
 </rss>
