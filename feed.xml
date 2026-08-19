@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 19 Aug 2026 19:00:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 19:05:27 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI Onur Öncü ile Sabah Pusulası (20.08.26)</title>
+      <link>https://www.youtube.com/watch?v=SZO76_Hg3B0</link>
+      <guid isPermaLink="false">SZO76_Hg3B0</guid>
+      <pubDate>Wed, 19 Aug 2026 19:01:01 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Onur Öncü ile Sabah Pusulası (20.08.26)</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI Ülkü Çoban ile Manşet Ötesi | Konuk: Sertaç Eş (20.08.26)</title>
       <link>https://www.youtube.com/watch?v=FEPYDvFcEmc</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">L4EZBliYvQU</guid>
       <pubDate>Wed, 19 Aug 2026 15:30:08 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Süleymancıların eski lideri Denizolgun'un ölümünde cinayet şüphesi! Sait Çamlıca neler anlattı neler</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: İBB davasında 67. gün! Ekrem İmamoğlu'ndan flaş tepki</title>
-      <link>https://www.youtube.com/watch?v=mXfV8RRih8U</link>
-      <guid isPermaLink="false">mXfV8RRih8U</guid>
-      <pubDate>Wed, 19 Aug 2026 15:20:21 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: İBB davasında 67. gün! Ekrem İmamoğlu'ndan flaş tepki</description>
     </item>
   </channel>
 </rss>
