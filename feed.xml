@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 19 Aug 2026 21:15:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 21:20:31 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: #CANLI Masada Ne Var? | Burak Tatari</title>
+      <link>https://www.youtube.com/watch?v=AXvnojwesa4</link>
+      <guid isPermaLink="false">AXvnojwesa4</guid>
+      <pubDate>Wed, 19 Aug 2026 21:06:19 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: #CANLI Masada Ne Var? | Burak Tatari</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Devlet Bahçeli Düğmeye Bastı! Ankara'da Erken Seçim Sesleri! Erdoğan'ın Yeni Planı Deşifre Oldu</title>
+      <link>https://www.youtube.com/watch?v=Duac7e44MgM</link>
+      <guid isPermaLink="false">Duac7e44MgM</guid>
+      <pubDate>Wed, 19 Aug 2026 21:00:14 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Devlet Bahçeli Düğmeye Bastı! Ankara'da Erken Seçim Sesleri! Erdoğan'ın Yeni Planı Deşifre Oldu</description>
+    </item>
     <item>
       <title>Halk TV: YENİ PARTİ ANKETLERDE NE KADAR OY ALIYOR? YENİ Partili Murat Emir canlı yayında anlattı!</title>
       <link>https://www.youtube.com/watch?v=OJw7RO-_c1g</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">SxkX2Q0tRas</guid>
       <pubDate>Wed, 19 Aug 2026 16:47:36 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Alparslan Kuytul neden gözaltında? Akın Gürlek'ten açıklama! Oktay Saral paylaşımını kaldırdı!</description>
-    </item>
-    <item>
-      <title>Halk TV: ORTALIĞI TOZU DUMANA KATACAK! Operasyonlar o belediyeye uzanabilir! Ertan Aksoy'dan kritik senaryo!</title>
-      <link>https://www.youtube.com/watch?v=mIENFR56Rug</link>
-      <guid isPermaLink="false">mIENFR56Rug</guid>
-      <pubDate>Wed, 19 Aug 2026 16:45:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ORTALIĞI TOZU DUMANA KATACAK! Operasyonlar o belediyeye uzanabilir! Ertan Aksoy'dan kritik senaryo!</description>
-    </item>
-    <item>
-      <title>Halk TV: Erdem Çerçioğlu: "İçişleri Bakanımız '38 günlük süre baya yeterli, o yüzden kaldırdık' dedi."</title>
-      <link>https://www.youtube.com/shorts/OYyHdWM7nho</link>
-      <guid isPermaLink="false">OYyHdWM7nho</guid>
-      <pubDate>Wed, 19 Aug 2026 16:45:02 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Erdem Çerçioğlu: "İçişleri Bakanımız '38 günlük süre baya yeterli, o yüzden kaldırdık' dedi."</description>
     </item>
   </channel>
 </rss>
