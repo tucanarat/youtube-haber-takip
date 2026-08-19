@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 19 Aug 2026 21:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 21:45:28 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: MHP lideri Bahçeli’nin ‘seçim sistemi’ çağrısına YENİ Partili Bülent Tezcan’dan olay yorum!</title>
+      <link>https://www.youtube.com/watch?v=VMj20TRzo88</link>
+      <guid isPermaLink="false">VMj20TRzo88</guid>
+      <pubDate>Wed, 19 Aug 2026 21:34:18 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: MHP lideri Bahçeli’nin ‘seçim sistemi’ çağrısına YENİ Partili Bülent Tezcan’dan olay yorum!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İsrail'den Türkiye Sınırına Şok Saldırı! Ahmet Kamil Erozan Perde Arkasını Anlattı</title>
       <link>https://www.youtube.com/watch?v=HXSKOd7w1nY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">tyZDH0L-WnQ</guid>
       <pubDate>Wed, 19 Aug 2026 16:51:38 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | Kürşad Oğuz ile Rota | #HalkTV</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Sözcü Ana Haber | Can Coşkun | 19 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=Iyc9-EQq85U</link>
-      <guid isPermaLink="false">Iyc9-EQq85U</guid>
-      <pubDate>Wed, 19 Aug 2026 16:49:47 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Sözcü Ana Haber | Can Coşkun | 19 Ağustos</description>
     </item>
   </channel>
 </rss>
