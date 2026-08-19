@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 19 Aug 2026 20:00:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 20:05:28 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: BU SÖZLER GÜNDEME BOMBA GİBİ DÜŞECEK! Cemal Enginyurt'tan Orhan Çerkez'e zehir zemberek çıkış!</title>
+      <link>https://www.youtube.com/watch?v=SMlvmv5UYNs</link>
+      <guid isPermaLink="false">SMlvmv5UYNs</guid>
+      <pubDate>Wed, 19 Aug 2026 20:00:02 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BU SÖZLER GÜNDEME BOMBA GİBİ DÜŞECEK! Cemal Enginyurt'tan Orhan Çerkez'e zehir zemberek çıkış!</description>
+    </item>
     <item>
       <title>Halk TV: ORHAN ÇERKEZ’E KABUS OLACAK TABLO! Çerkezköy tek ses oldu; ‘Hain Orhan’ sloganı meydanı inletti!</title>
       <link>https://www.youtube.com/watch?v=71SZLuvwVpE</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">BR0SXuWMHcA</guid>
       <pubDate>Wed, 19 Aug 2026 16:00:30 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Birleşik Metal İş örgütlü olduğu bütün fabrikalarda madenciler için eylemde! #shorts</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Süleymancıların Altınları Menzil'i Karıştırdı! 200 Kilo Altın Kimin? Menzil'de Taht Kavgası</title>
-      <link>https://www.youtube.com/watch?v=QWNlX0s0TCA</link>
-      <guid isPermaLink="false">QWNlX0s0TCA</guid>
-      <pubDate>Wed, 19 Aug 2026 16:00:12 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Süleymancıların Altınları Menzil'i Karıştırdı! 200 Kilo Altın Kimin? Menzil'de Taht Kavgası</description>
     </item>
   </channel>
 </rss>
