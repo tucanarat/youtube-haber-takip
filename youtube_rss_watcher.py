@@ -30,8 +30,12 @@ from datetime import datetime, timezone
 from email.utils import format_datetime
 from pathlib import Path
 from xml.sax.saxutils import escape
+from zoneinfo import ZoneInfo
 
 import feedparser
+
+# Sitede gösterilen saatler için (RSS feed.xml standart gereği UTC kalır)
+TURKEY_TZ = ZoneInfo("Europe/Istanbul")
 
 # ---------- Ayarlar ----------
 CHECK_INTERVAL_SECONDS = 5 * 60          # 5 dakika
@@ -200,12 +204,12 @@ def build_feed_xml(videos: list[dict]) -> str:
 
 def build_index_html(videos: list[dict]) -> str:
     """Video listesinden basit, okunabilir bir HTML sayfası üretir."""
-    now_str = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    now_str = datetime.now(TURKEY_TZ).strftime("%Y-%m-%d %H:%M") + " (TSİ)"
 
     rows = []
     for v in videos:
-        pub_dt = datetime.fromtimestamp(v["published_ts"], tz=timezone.utc)
-        pub_str = pub_dt.strftime("%Y-%m-%d %H:%M UTC")
+        pub_dt = datetime.fromtimestamp(v["published_ts"], tz=TURKEY_TZ)
+        pub_str = pub_dt.strftime("%Y-%m-%d %H:%M") + " (TSİ)"
         rows.append(
             "      <li class=\"video\">\n"
             f"        <span class=\"channel\">{escape(v['channel_name'])}</span>\n"
@@ -252,16 +256,6 @@ def build_index_html(videos: list[dict]) -> str:
       margin: 0;
       color: var(--muted);
       font-size: 0.9rem;
-    }}
-    header a.feed-link {{
-      display: inline-block;
-      margin-top: 10px;
-      color: var(--accent);
-      text-decoration: none;
-      font-size: 0.85rem;
-      border: 1px solid var(--accent);
-      padding: 4px 10px;
-      border-radius: 20px;
     }}
     main {{
       max-width: 780px;
@@ -319,7 +313,6 @@ def build_index_html(videos: list[dict]) -> str:
   <header>
     <h1>{escape(FEED_TITLE)}</h1>
     <p>{escape(FEED_DESCRIPTION)} · Son güncelleme: {now_str}</p>
-    <a class="feed-link" href="feed.xml">RSS feed: feed.xml</a>
   </header>
   <main>
     <ul class="videos">
