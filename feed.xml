@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 19 Aug 2026 15:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 15:05:27 +0000</lastBuildDate>
     <item>
       <title>Halk TV: Süleymancılar cemaatinden sonra Furkancılara da operasyon: Çarpıcı detaylar ortaya çıktı!</title>
       <link>https://www.youtube.com/watch?v=Qa2Ie7NXHks</link>
       <guid isPermaLink="false">Qa2Ie7NXHks</guid>
       <pubDate>Wed, 19 Aug 2026 15:00:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Süleymancılar cemaatinden sonra Furkancılara da operasyon: Çarpıcı detaylar ortaya çıktı!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: AKP'de Eski Defterler Açıldı! Erkan Mumcu Şamil Tayyar ve Bülent Arınç Birbirine Girdi!</title>
+      <link>https://www.youtube.com/watch?v=Bzhp081VYQE</link>
+      <guid isPermaLink="false">Bzhp081VYQE</guid>
+      <pubDate>Wed, 19 Aug 2026 15:00:03 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: AKP'de Eski Defterler Açıldı! Erkan Mumcu Şamil Tayyar ve Bülent Arınç Birbirine Girdi!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Haber Bülteni | Serap Belovacıklı | 19 Ağustos</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">NhFg6YT8h9U</guid>
       <pubDate>Wed, 19 Aug 2026 12:07:52 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Er Şehit Yakınları ve Er Gazilerin Yürüyüşüne Polis Engeli</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: ANKARA'DA YÜREKLERİ SIZLATAN ANLAR! Bir Gazi Fenalaştı! Bir Gazi Köprü Üzerine Çıktı!</title>
-      <link>https://www.youtube.com/watch?v=rR4PBwBfNVA</link>
-      <guid isPermaLink="false">rR4PBwBfNVA</guid>
-      <pubDate>Wed, 19 Aug 2026 12:00:29 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: ANKARA'DA YÜREKLERİ SIZLATAN ANLAR! Bir Gazi Fenalaştı! Bir Gazi Köprü Üzerine Çıktı!</description>
     </item>
   </channel>
 </rss>
