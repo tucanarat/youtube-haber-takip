@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 19 Aug 2026 14:20:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 14:25:27 +0000</lastBuildDate>
     <item>
       <title>Halk TV: Cemaat gruplarına operasyonlar hız kesmiyor! Sait Çamlıca'dan Süleymancılar için dikkat çeken sözler</title>
       <link>https://www.youtube.com/watch?v=I3rabbCcSTg</link>
       <guid isPermaLink="false">I3rabbCcSTg</guid>
       <pubDate>Wed, 19 Aug 2026 14:15:37 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Cemaat gruplarına operasyonlar hız kesmiyor! Sait Çamlıca'dan Süleymancılar için dikkat çeken sözler</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Türkiye'nin Harcama Problemi: 70 Milyar Dolarlık Faiz Yükü! | Vergi Kafe #shorts</title>
+      <link>https://www.youtube.com/shorts/W-0vhlqdarI</link>
+      <guid isPermaLink="false">W-0vhlqdarI</guid>
+      <pubDate>Wed, 19 Aug 2026 14:12:38 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Türkiye'nin Harcama Problemi: 70 Milyar Dolarlık Faiz Yükü! | Vergi Kafe #shorts</description>
     </item>
     <item>
       <title>Halk TV: Sezgin Tanrıkulu'dan 'sendikal baskı' uyarısı!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">EYBZbWO1-P0</guid>
       <pubDate>Wed, 19 Aug 2026 11:31:07 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI Şehit yakınları ve gazilerin yürüşüne polis engeli</description>
-    </item>
-    <item>
-      <title>Halk TV: BAKANLIK KAPIYI YÜZLERİNE KAPATTI! Maden işçileri 112'i aradı, polisi bakanlığın kapısına çağırdı!</title>
-      <link>https://www.youtube.com/watch?v=t999sKmI9r8</link>
-      <guid isPermaLink="false">t999sKmI9r8</guid>
-      <pubDate>Wed, 19 Aug 2026 11:30:00 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BAKANLIK KAPIYI YÜZLERİNE KAPATTI! Maden işçileri 112'i aradı, polisi bakanlığın kapısına çağırdı!</description>
     </item>
   </channel>
 </rss>
