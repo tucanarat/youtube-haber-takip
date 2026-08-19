@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 19 Aug 2026 14:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 14:05:24 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: 'Eğer AKP...' Furkancılar Operasyonun Bomba Perde Arkası! Alparslan Kuytul'dan Sonra Hedef Kim?</title>
+      <link>https://www.youtube.com/watch?v=kgv_JOW2F0s</link>
+      <guid isPermaLink="false">kgv_JOW2F0s</guid>
+      <pubDate>Wed, 19 Aug 2026 14:00:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: 'Eğer AKP...' Furkancılar Operasyonun Bomba Perde Arkası! Alparslan Kuytul'dan Sonra Hedef Kim?</description>
+    </item>
     <item>
       <title>Halk TV: KILIÇDAROĞLU UYKU UYUYAMAZ! Arka planda öyle dolaplar dönüyormuş ki! Mehmet Tezkan bir bir anlattı!</title>
       <link>https://www.youtube.com/watch?v=yLhf17Mkhm8</link>
@@ -69,6 +76,13 @@
       <guid isPermaLink="false">5PIAZn4c6Vk</guid>
       <pubDate>Wed, 19 Aug 2026 13:15:18 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Partili Melih Meriç'i bıçaklayıp dehşet saçtı! O saldırgan ilk kez konuştu! "O BENİM ARKADAŞIM"</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: 1.8 Trilyonluk Faiz! Mahmut Aydoğmuş'tan Vergi Gerçekleri | Mahmut Aydoğmuş | Vergi Kafe</title>
+      <link>https://www.youtube.com/watch?v=-BS9ohZcfK4</link>
+      <guid isPermaLink="false">-BS9ohZcfK4</guid>
+      <pubDate>Wed, 19 Aug 2026 13:05:44 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: 1.8 Trilyonluk Faiz! Mahmut Aydoğmuş'tan Vergi Gerçekleri | Mahmut Aydoğmuş | Vergi Kafe</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | Gizem Çetin ile Parantez</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">iemtKbY6604</guid>
       <pubDate>Wed, 19 Aug 2026 11:13:36 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Dilovası'nda hayatını kaybeden işçilerin yakınları adalet arıyor! "BENİ DE KIZIM GİBİ YAKSINLAR"</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti Sözcüsü Zeynel Emre TBMM'de Açıklama Yaptı! (19 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=ZFg5NEtHg1s</link>
-      <guid isPermaLink="false">ZFg5NEtHg1s</guid>
-      <pubDate>Wed, 19 Aug 2026 11:05:03 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti Sözcüsü Zeynel Emre TBMM'de Açıklama Yaptı! (19 Ağustos 2026)</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Duruşmada Tutuklama İstemi Hakkında Çağlayan'dan Çarpıcı Yorum! "Hukuki Değil Siyasi Strateji!"</title>
-      <link>https://www.youtube.com/watch?v=qt-CmfUS5cM</link>
-      <guid isPermaLink="false">qt-CmfUS5cM</guid>
-      <pubDate>Wed, 19 Aug 2026 11:03:53 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Duruşmada Tutuklama İstemi Hakkında Çağlayan'dan Çarpıcı Yorum! "Hukuki Değil Siyasi Strateji!"</description>
     </item>
   </channel>
 </rss>
