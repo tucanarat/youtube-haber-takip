@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 19 Aug 2026 18:50:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 18:55:26 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: Bülent Yücetürk'ten butlan CHP'sine sert sözler: AKP'YE KOLTUK DEĞNEĞİ OLACAK DEMİŞTİK</title>
       <link>https://www.youtube.com/watch?v=jyfdZLyIyQM</link>
       <guid isPermaLink="false">jyfdZLyIyQM</guid>
       <pubDate>Wed, 19 Aug 2026 18:50:07 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Bülent Yücetürk'ten butlan CHP'sine sert sözler: AKP'YE KOLTUK DEĞNEĞİ OLACAK DEMİŞTİK</description>
+    </item>
+    <item>
+      <title>Halk TV: AKP’DE ‘7 SENELİK RÖPORTAJ’ KRİZİ! O isimler birbirine girdi! Mumcu, Arınç’ı düelloya davet etti!</title>
+      <link>https://www.youtube.com/watch?v=9Wd6tMOYrh0</link>
+      <guid isPermaLink="false">9Wd6tMOYrh0</guid>
+      <pubDate>Wed, 19 Aug 2026 18:45:28 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: AKP’DE ‘7 SENELİK RÖPORTAJ’ KRİZİ! O isimler birbirine girdi! Mumcu, Arınç’ı düelloya davet etti!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: CEMAATLERE PEŞ PEŞE OPERASYON! Süleymancılar ve Furkan Vakfına Neden Şimdi Girildi?</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">mGiVfYDVzl0</guid>
       <pubDate>Wed, 19 Aug 2026 15:15:25 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BAHÇELİ'YE MEMLEKETİNDEN BÜYÜK ŞOK! İnşaatta çalışan emekliden kahreden sözler! Cumhur iyi dinlesin!</description>
-    </item>
-    <item>
-      <title>Halk TV: Süleymancılar cemaatinden sonra Furkancılara da operasyon: Çarpıcı detaylar ortaya çıktı!</title>
-      <link>https://www.youtube.com/watch?v=Qa2Ie7NXHks</link>
-      <guid isPermaLink="false">Qa2Ie7NXHks</guid>
-      <pubDate>Wed, 19 Aug 2026 15:00:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Süleymancılar cemaatinden sonra Furkancılara da operasyon: Çarpıcı detaylar ortaya çıktı!</description>
     </item>
   </channel>
 </rss>
