@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 19 Aug 2026 20:10:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 20:15:32 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Fatih Erbakan Düğmeye Bastı! AKP ve Erdoğan'ın Uykularını Kaçıracak İttifak İfşa Oldu!</title>
+      <link>https://www.youtube.com/watch?v=79qnZySX12A</link>
+      <guid isPermaLink="false">79qnZySX12A</guid>
+      <pubDate>Wed, 19 Aug 2026 20:00:21 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Fatih Erbakan Düğmeye Bastı! AKP ve Erdoğan'ın Uykularını Kaçıracak İttifak İfşa Oldu!</description>
+    </item>
     <item>
       <title>Halk TV: BU SÖZLER GÜNDEME BOMBA GİBİ DÜŞECEK! Cemal Enginyurt'tan Orhan Çerkez'e zehir zemberek çıkış!</title>
       <link>https://www.youtube.com/watch?v=SMlvmv5UYNs</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">jwjEKMvYX0Q</guid>
       <pubDate>Wed, 19 Aug 2026 16:00:36 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI İBB davasında 67. gün! İmamoğlu’ndan etkin pişmanlıkçıya: “Telefonu neden sakladın?”</description>
-    </item>
-    <item>
-      <title>Halk TV: Birleşik Metal İş örgütlü olduğu bütün fabrikalarda madenciler için eylemde! #shorts</title>
-      <link>https://www.youtube.com/shorts/BR0SXuWMHcA</link>
-      <guid isPermaLink="false">BR0SXuWMHcA</guid>
-      <pubDate>Wed, 19 Aug 2026 16:00:30 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Birleşik Metal İş örgütlü olduğu bütün fabrikalarda madenciler için eylemde! #shorts</description>
     </item>
   </channel>
 </rss>
