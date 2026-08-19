@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 19 Aug 2026 18:25:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 18:30:44 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Önce Alihan Kuriş şimdi Alparslan Kuytul... Bülent Yücetürk'ten Adalet Bakanı'na cemaat sorusu!</title>
+      <link>https://www.youtube.com/watch?v=0lSjUMOUVeQ</link>
+      <guid isPermaLink="false">0lSjUMOUVeQ</guid>
+      <pubDate>Wed, 19 Aug 2026 18:30:06 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Önce Alihan Kuriş şimdi Alparslan Kuytul... Bülent Yücetürk'ten Adalet Bakanı'na cemaat sorusu!</description>
+    </item>
     <item>
       <title>Halk TV: HARCAMALARI DUR DURAK BİLMİYOR! Mesut Özarslan AKP'ye geçti; pehlivanlara yüz binlerce dolar dağıttı</title>
       <link>https://www.youtube.com/watch?v=g-OerH6WvOw</link>
@@ -41,6 +48,13 @@
       <guid isPermaLink="false">vMW68xcgdM0</guid>
       <pubDate>Wed, 19 Aug 2026 17:57:14 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: İBB DAVAS İLE SEÇİM ARASINDA BAĞ VAR MI? KAYHAN AYHAN AKTARDI...</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Bülent Yücetürk'ten butlan CHP'sine sert sözler: AKP'YE KOLTUK DEĞNEĞİ OLACAK DEMİŞTİK</title>
+      <link>https://www.youtube.com/watch?v=jyfdZLyIyQM</link>
+      <guid isPermaLink="false">jyfdZLyIyQM</guid>
+      <pubDate>Wed, 19 Aug 2026 17:55:26 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Bülent Yücetürk'ten butlan CHP'sine sert sözler: AKP'YE KOLTUK DEĞNEĞİ OLACAK DEMİŞTİK</description>
     </item>
     <item>
       <title>Halk TV: Turgutlu’da makilik alan alevlere teslim oldu! Yangını kontrol altına alma çalışmaları sürüyor!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">Q5RDkUcUSz8</guid>
       <pubDate>Wed, 19 Aug 2026 14:55:59 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Gizem Çetin ile Parantez (19 Ağustos 2026)</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: YENİ PARTİ'YE REKOR KATILIM! Zeynel Lüle ile Ankara Günlüğü | Konuk: Utku Çakırözer (19.08.26)</title>
-      <link>https://www.youtube.com/watch?v=Nfjqvseuxv4</link>
-      <guid isPermaLink="false">Nfjqvseuxv4</guid>
-      <pubDate>Wed, 19 Aug 2026 14:51:24 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: YENİ PARTİ'YE REKOR KATILIM! Zeynel Lüle ile Ankara Günlüğü | Konuk: Utku Çakırözer (19.08.26)</description>
-    </item>
-    <item>
-      <title>Halk TV: Fenerbahçe Taraftarı: Bu Futbolculara Paramın Gitmesini İstemiyorum| Enes Köseoğlu ile Tribünün Sesi</title>
-      <link>https://www.youtube.com/watch?v=5gkRK_y_QAU</link>
-      <guid isPermaLink="false">5gkRK_y_QAU</guid>
-      <pubDate>Wed, 19 Aug 2026 14:45:22 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Fenerbahçe Taraftarı: Bu Futbolculara Paramın Gitmesini İstemiyorum| Enes Köseoğlu ile Tribünün Sesi</description>
     </item>
   </channel>
 </rss>
