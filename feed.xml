@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 19 Aug 2026 17:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 17:30:43 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti İstanbul İl Başkanlığı'ndan Çekmeköy'de "Millet İradesine Saygı Yürüyüşü" #Canlı</title>
       <link>https://www.youtube.com/watch?v=vtqvaeRGwqA</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">zRspeUmdgLY</guid>
       <pubDate>Wed, 19 Aug 2026 17:24:01 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Saral 'suyun ısındı' dedi Kuytul gözaltına alındı! Murat Taylan ile Haber-Yorum (19.08.2026)</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: MURAT TAYLAN'DAN ÇOK KRİTİK ALPARSLAN KUYTUL YORUMU!</title>
+      <link>https://www.youtube.com/shorts/-IzROzhGNRs</link>
+      <guid isPermaLink="false">-IzROzhGNRs</guid>
+      <pubDate>Wed, 19 Aug 2026 17:21:18 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: MURAT TAYLAN'DAN ÇOK KRİTİK ALPARSLAN KUYTUL YORUMU!</description>
     </item>
     <item>
       <title>Halk TV: Doruk Maden işçilerine destek olmak isteyen öğrencilere polis müdahalesi! #shorts</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">qrVQNo0tcok</guid>
       <pubDate>Wed, 19 Aug 2026 14:00:26 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Utku Çakırözer madenciler, şehit aileleri ve gaziler için iktidara seslendi!</description>
-    </item>
-    <item>
-      <title>Halk TV: AKP VE BUTLAN CHP'Sİ DUVARA FENA TOSLADI! Menderes seçimi mahkemeye taşınacak! Yer yerinden oynadı!</title>
-      <link>https://www.youtube.com/watch?v=Mpsap01hO_o</link>
-      <guid isPermaLink="false">Mpsap01hO_o</guid>
-      <pubDate>Wed, 19 Aug 2026 14:00:16 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: AKP VE BUTLAN CHP'Sİ DUVARA FENA TOSLADI! Menderes seçimi mahkemeye taşınacak! Yer yerinden oynadı!</description>
     </item>
   </channel>
 </rss>
