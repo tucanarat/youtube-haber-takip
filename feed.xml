@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 19 Aug 2026 14:50:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 14:55:25 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: YENİ PARTİ'YE REKOR KATILIM! Zeynel Lüle ile Ankara Günlüğü | Konuk: Utku Çakırözer (19.08.26)</title>
+      <link>https://www.youtube.com/watch?v=Nfjqvseuxv4</link>
+      <guid isPermaLink="false">Nfjqvseuxv4</guid>
+      <pubDate>Wed, 19 Aug 2026 14:51:24 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: YENİ PARTİ'YE REKOR KATILIM! Zeynel Lüle ile Ankara Günlüğü | Konuk: Utku Çakırözer (19.08.26)</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Sinem Fıstıkoğlu ile Halk Ana Haber | #yeterlimi?</title>
+      <link>https://www.youtube.com/watch?v=v5Ar8FYirTk</link>
+      <guid isPermaLink="false">v5Ar8FYirTk</guid>
+      <pubDate>Wed, 19 Aug 2026 14:47:05 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Sinem Fıstıkoğlu ile Halk Ana Haber | #yeterlimi?</description>
+    </item>
     <item>
       <title>Halk TV: Fenerbahçe Taraftarı: Bu Futbolculara Paramın Gitmesini İstemiyorum| Enes Köseoğlu ile Tribünün Sesi</title>
       <link>https://www.youtube.com/watch?v=5gkRK_y_QAU</link>
@@ -20,6 +34,13 @@
       <guid isPermaLink="false">m4-6DMtZzBo</guid>
       <pubDate>Wed, 19 Aug 2026 14:38:42 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Babacan'a dert yanan vatandaştan yürek burkan sözler: Ekonomi düzelir ama psikolojimiz düzelmez</description>
+    </item>
+    <item>
+      <title>Halk TV: İSRAİL SURİYE’DE HAVA ÜSSÜNÜ YERLE BİR ETTİ! Kıyamet çanları çalıyor! Hasan Ünal neler anlattı neler</title>
+      <link>https://www.youtube.com/watch?v=dhAsf_9z72o</link>
+      <guid isPermaLink="false">dhAsf_9z72o</guid>
+      <pubDate>Wed, 19 Aug 2026 14:36:46 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İSRAİL SURİYE’DE HAVA ÜSSÜNÜ YERLE BİR ETTİ! Kıyamet çanları çalıyor! Hasan Ünal neler anlattı neler</description>
     </item>
     <item>
       <title>Halk TV: "MHP'DEKİ BU ZATIN..." Ümit Özdağ'dan Bahçeli'yi küplere bindirecek sözler! Ortalığı kasıp kavurur!</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">xYFP-4NMFA0</guid>
       <pubDate>Wed, 19 Aug 2026 12:00:14 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "BENİM SAYEMDE OTURUYORSUN O KOLTUKTA" Polis müdahalesine uğrayan gazi, İdris Şahin'e isyan etti!</description>
-    </item>
-    <item>
-      <title>Halk TV: FACİADAN KIL PAYI DÖNÜLDÜ! Bir gazi köprüye çıkıp intihar girişiminde bulundu! Sarsıcı görüntüler!</title>
-      <link>https://www.youtube.com/watch?v=1zFUUXZIndk</link>
-      <guid isPermaLink="false">1zFUUXZIndk</guid>
-      <pubDate>Wed, 19 Aug 2026 12:00:12 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: FACİADAN KIL PAYI DÖNÜLDÜ! Bir gazi köprüye çıkıp intihar girişiminde bulundu! Sarsıcı görüntüler!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "İBB YARGILAMALARINI CUMHURBAŞKANLIĞI SARAYINDA YAPIN!" Ülkü Çoban ile Manşet Ötesi</title>
-      <link>https://www.youtube.com/watch?v=HcW-By6zTkc</link>
-      <guid isPermaLink="false">HcW-By6zTkc</guid>
-      <pubDate>Wed, 19 Aug 2026 11:54:42 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "İBB YARGILAMALARINI CUMHURBAŞKANLIĞI SARAYINDA YAPIN!" Ülkü Çoban ile Manşet Ötesi</description>
-    </item>
-    <item>
-      <title>Halk TV: O GÖRÜNTÜLER KAN DONDURDU! CHP'li ilçe başkanı, YENİ Partili vekili böyle bıçakladı! İşte son durumu</title>
-      <link>https://www.youtube.com/watch?v=ElLJkU-94A4</link>
-      <guid isPermaLink="false">ElLJkU-94A4</guid>
-      <pubDate>Wed, 19 Aug 2026 11:45:20 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: O GÖRÜNTÜLER KAN DONDURDU! CHP'li ilçe başkanı, YENİ Partili vekili böyle bıçakladı! İşte son durumu</description>
     </item>
   </channel>
 </rss>
