@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 19 Aug 2026 17:55:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 18:00:48 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: İBB DAVAS İLE SEÇİM ARASINDA BAĞ VAR MI? KAYHAN AYHAN AKTARDI...</title>
+      <link>https://www.youtube.com/shorts/vMW68xcgdM0</link>
+      <guid isPermaLink="false">vMW68xcgdM0</guid>
+      <pubDate>Wed, 19 Aug 2026 17:57:14 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: İBB DAVAS İLE SEÇİM ARASINDA BAĞ VAR MI? KAYHAN AYHAN AKTARDI...</description>
+    </item>
     <item>
       <title>Halk TV: Turgutlu’da makilik alan alevlere teslim oldu! Yangını kontrol altına alma çalışmaları sürüyor!</title>
       <link>https://www.youtube.com/shorts/inTUXq4p8oM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">I3rabbCcSTg</guid>
       <pubDate>Wed, 19 Aug 2026 14:15:37 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Cemaat gruplarına operasyonlar hız kesmiyor! Sait Çamlıca'dan Süleymancılar için dikkat çeken sözler</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Türkiye'nin Harcama Problemi: 70 Milyar Dolarlık Faiz Yükü! | Vergi Kafe #shorts</title>
-      <link>https://www.youtube.com/shorts/W-0vhlqdarI</link>
-      <guid isPermaLink="false">W-0vhlqdarI</guid>
-      <pubDate>Wed, 19 Aug 2026 14:12:38 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Türkiye'nin Harcama Problemi: 70 Milyar Dolarlık Faiz Yükü! | Vergi Kafe #shorts</description>
     </item>
   </channel>
 </rss>
