@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 18:35:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 18:40:34 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: İSRAİL ÜSSÜ VURDU, ANKARA AYAĞA KALKTI! MSB'den Kritik 'Suriye' Açıklaması</title>
       <link>https://www.youtube.com/watch?v=FaKjp0SehuY</link>
       <guid isPermaLink="false">FaKjp0SehuY</guid>
       <pubDate>Thu, 20 Aug 2026 18:30:31 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İSRAİL ÜSSÜ VURDU, ANKARA AYAĞA KALKTI! MSB'den Kritik 'Suriye' Açıklaması</description>
+    </item>
+    <item>
+      <title>Halk TV: İSRAİL SURİYE'DE ÜSSÜ VURDU! Gerilim tırmandı! Ankara’nın tepkisini Barçın Yinanç değerlendirdi!</title>
+      <link>https://www.youtube.com/watch?v=2xDBCZzW-rM</link>
+      <guid isPermaLink="false">2xDBCZzW-rM</guid>
+      <pubDate>Thu, 20 Aug 2026 18:30:26 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İSRAİL SURİYE'DE ÜSSÜ VURDU! Gerilim tırmandı! Ankara’nın tepkisini Barçın Yinanç değerlendirdi!</description>
     </item>
     <item>
       <title>Tele2 Haber: Engin Solakoğlu'ndan çarpıcı 'Daron Acemoğlu ve Öcalan' yorumu: "İKİSİ DE DELİ SAÇMASI"</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">goHRbc70kak</guid>
       <pubDate>Thu, 20 Aug 2026 15:00:33 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Barış Atay'dan AKP sıralarına: Çocuklarınız sizden utanacak! #ARŞİV</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: MİLYONLARCA MÜRİDİ VAR! Devlet Menzil'e Neden Dokunamıyor? Fatih Ergenekon'dan Olay Olacak Sözler</title>
-      <link>https://www.youtube.com/watch?v=qSW19zWl6-o</link>
-      <guid isPermaLink="false">qSW19zWl6-o</guid>
-      <pubDate>Thu, 20 Aug 2026 15:00:09 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: MİLYONLARCA MÜRİDİ VAR! Devlet Menzil'e Neden Dokunamıyor? Fatih Ergenekon'dan Olay Olacak Sözler</description>
     </item>
   </channel>
 </rss>
