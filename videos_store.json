@@ -2345,7 +2345,7 @@
   },
   "PoThdMBN-A8": {
     "id": "PoThdMBN-A8",
-    "title": "#CANLI | Aile Dayanışma Ağı, 42. Buluşmasını Silivri’de Gerçekleştiriyor!",
+    "title": "Aile Dayanışma Ağı, 42. Buluşmasını Silivri’de Gerçekleştirildi (20 Ağustos 2026)",
     "link": "https://www.youtube.com/watch?v=PoThdMBN-A8",
     "published": "2026-08-20T11:19:18+00:00",
     "published_ts": 1787224758,
@@ -2405,6 +2405,22 @@
     "link": "https://www.youtube.com/watch?v=y7W4JmcoV78",
     "published": "2026-08-20T11:06:00+00:00",
     "published_ts": 1787223960,
+    "channel_name": "Halk TV"
+  },
+  "NyKVLQGCLUQ": {
+    "id": "NyKVLQGCLUQ",
+    "title": "Katil Netanyahu'dan Türkiye'ye Tehdit! \"Mesajımızı Duymadılar Daha İyi Anlattık\"",
+    "link": "https://www.youtube.com/watch?v=NyKVLQGCLUQ",
+    "published": "2026-08-20T11:20:06+00:00",
+    "published_ts": 1787224806,
+    "channel_name": "SÖZCÜ TV"
+  },
+  "UHPcPNY2dwU": {
+    "id": "UHPcPNY2dwU",
+    "title": "GÖZLER ÖZGÜR ÖZEL'DE! İmralı'nın 'İmamoğlu' çıkışına cevap verecek mi? Mehmet Tezkan'dan flaş sözler",
+    "link": "https://www.youtube.com/watch?v=UHPcPNY2dwU",
+    "published": "2026-08-20T11:20:29+00:00",
+    "published_ts": 1787224829,
     "channel_name": "Halk TV"
   }
 }

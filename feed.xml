@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 11:20:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 11:25:26 +0000</lastBuildDate>
     <item>
-      <title>Halk TV: #CANLI | Aile Dayanışma Ağı, 42. Buluşmasını Silivri’de Gerçekleştiriyor!</title>
+      <title>Halk TV: GÖZLER ÖZGÜR ÖZEL'DE! İmralı'nın 'İmamoğlu' çıkışına cevap verecek mi? Mehmet Tezkan'dan flaş sözler</title>
+      <link>https://www.youtube.com/watch?v=UHPcPNY2dwU</link>
+      <guid isPermaLink="false">UHPcPNY2dwU</guid>
+      <pubDate>Thu, 20 Aug 2026 11:20:29 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: GÖZLER ÖZGÜR ÖZEL'DE! İmralı'nın 'İmamoğlu' çıkışına cevap verecek mi? Mehmet Tezkan'dan flaş sözler</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Katil Netanyahu'dan Türkiye'ye Tehdit! "Mesajımızı Duymadılar Daha İyi Anlattık"</title>
+      <link>https://www.youtube.com/watch?v=NyKVLQGCLUQ</link>
+      <guid isPermaLink="false">NyKVLQGCLUQ</guid>
+      <pubDate>Thu, 20 Aug 2026 11:20:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Katil Netanyahu'dan Türkiye'ye Tehdit! "Mesajımızı Duymadılar Daha İyi Anlattık"</description>
+    </item>
+    <item>
+      <title>Halk TV: Aile Dayanışma Ağı, 42. Buluşmasını Silivri’de Gerçekleştirildi (20 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=PoThdMBN-A8</link>
       <guid isPermaLink="false">PoThdMBN-A8</guid>
       <pubDate>Thu, 20 Aug 2026 11:19:18 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Aile Dayanışma Ağı, 42. Buluşmasını Silivri’de Gerçekleştiriyor!</description>
+      <description>Halk TV kanalından yeni video: Aile Dayanışma Ağı, 42. Buluşmasını Silivri’de Gerçekleştirildi (20 Ağustos 2026)</description>
     </item>
     <item>
       <title>Cumhuriyet: Umut Akdoğan'dan, madencilerin bakanlık önündeki eylemine destek: "Madenci hakkını arıyor"</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">oo-WI3aPDZ0</guid>
       <pubDate>Thu, 20 Aug 2026 09:15:01 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SON DAKİKA! YÜREKLERİ AĞZA GETİREN KAZA! Beyoğlu'nda tramvay yoldan çıktı!</description>
-    </item>
-    <item>
-      <title>Halk TV: "BUKALEMUN GİBİ ŞEKİL DEĞİŞTİREN ORHAN.." Özgür Çelik'ten altından kalkılmayacak sözler! Dönüşü yok!</title>
-      <link>https://www.youtube.com/watch?v=sMCe0nUe3AA</link>
-      <guid isPermaLink="false">sMCe0nUe3AA</guid>
-      <pubDate>Thu, 20 Aug 2026 09:05:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: "BUKALEMUN GİBİ ŞEKİL DEĞİŞTİREN ORHAN.." Özgür Çelik'ten altından kalkılmayacak sözler! Dönüşü yok!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İBB Davasında Hakimden Olay Ekrem İmamoğlu Kararı! Soru Sorması Yasaklandı! Silivri'de Gergin Anlar</title>
-      <link>https://www.youtube.com/watch?v=MTbUjGZvncY</link>
-      <guid isPermaLink="false">MTbUjGZvncY</guid>
-      <pubDate>Thu, 20 Aug 2026 09:00:35 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İBB Davasında Hakimden Olay Ekrem İmamoğlu Kararı! Soru Sorması Yasaklandı! Silivri'de Gergin Anlar</description>
     </item>
   </channel>
 </rss>
