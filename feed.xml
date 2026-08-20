@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 16:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 16:40:35 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: NETANYAHU'DAN KÜSTAH TÜRKİYE TEHDİDİ! Sınırda Sıcak Çatışmaya Ramak Kaldı</title>
       <link>https://www.youtube.com/watch?v=bmzVBFaFk6w</link>
       <guid isPermaLink="false">bmzVBFaFk6w</guid>
       <pubDate>Thu, 20 Aug 2026 16:30:29 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: NETANYAHU'DAN KÜSTAH TÜRKİYE TEHDİDİ! Sınırda Sıcak Çatışmaya Ramak Kaldı</description>
+    </item>
+    <item>
+      <title>Halk TV: YENİ PARTİ’DE BİR İLK! Kongre takvimi başlıyor; Delege sistemi sona eriyor! İşte çarpıcı detaylar!</title>
+      <link>https://www.youtube.com/watch?v=Te3N6lYpvkY</link>
+      <guid isPermaLink="false">Te3N6lYpvkY</guid>
+      <pubDate>Thu, 20 Aug 2026 16:30:09 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YENİ PARTİ’DE BİR İLK! Kongre takvimi başlıyor; Delege sistemi sona eriyor! İşte çarpıcı detaylar!</description>
     </item>
     <item>
       <title>Halk TV: SON DAKİKA! Çiğli Belediye Başkanı Onur Emrah Yıldız'IN makam aracına silahlı saldırı!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">5T0Dkwwg2j8</guid>
       <pubDate>Thu, 20 Aug 2026 13:35:15 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ERDOĞAN'A NE YAPACAĞINI ŞAŞIRTIR! Babacan'ın göndermesi ortalığı ateşe verecek! Saray ayaklanacak!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Dilek İmamoğlu'ndan çarpıcı "barış" çıkışı!</title>
-      <link>https://www.youtube.com/shorts/XBKXMXJ40eQ</link>
-      <guid isPermaLink="false">XBKXMXJ40eQ</guid>
-      <pubDate>Thu, 20 Aug 2026 13:32:51 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Dilek İmamoğlu'ndan çarpıcı "barış" çıkışı!</description>
     </item>
   </channel>
 </rss>
