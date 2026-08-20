@@ -3614,5 +3614,21 @@
     "published": "2026-08-20T22:50:08+00:00",
     "published_ts": 1787266208,
     "channel_name": "SÖZCÜ TV"
+  },
+  "12q9tOjS01o": {
+    "id": "12q9tOjS01o",
+    "title": "Haber Bülteni | Serap Belovacıklı",
+    "link": "https://www.youtube.com/watch?v=12q9tOjS01o",
+    "published": "2026-08-20T22:59:04+00:00",
+    "published_ts": 1787266744,
+    "channel_name": "SÖZCÜ TV"
+  },
+  "zHP-VU2Hpz0": {
+    "id": "zHP-VU2Hpz0",
+    "title": "Öğle Bülteni | Gülinay Selçuk",
+    "link": "https://www.youtube.com/watch?v=zHP-VU2Hpz0",
+    "published": "2026-08-20T22:57:13+00:00",
+    "published_ts": 1787266633,
+    "channel_name": "SÖZCÜ TV"
   }
 }

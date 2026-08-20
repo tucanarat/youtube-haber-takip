@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 23:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 23:00:49 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Haber Bülteni | Serap Belovacıklı</title>
+      <link>https://www.youtube.com/watch?v=12q9tOjS01o</link>
+      <guid isPermaLink="false">12q9tOjS01o</guid>
+      <pubDate>Thu, 20 Aug 2026 22:59:04 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Haber Bülteni | Serap Belovacıklı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Öğle Bülteni | Gülinay Selçuk</title>
+      <link>https://www.youtube.com/watch?v=zHP-VU2Hpz0</link>
+      <guid isPermaLink="false">zHP-VU2Hpz0</guid>
+      <pubDate>Thu, 20 Aug 2026 22:57:13 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Öğle Bülteni | Gülinay Selçuk</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Sözcü Masası | Senem Toluay Ilgaz</title>
       <link>https://www.youtube.com/watch?v=SwWTiWpNbj8</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">AS54nVyyDAw</guid>
       <pubDate>Thu, 20 Aug 2026 18:00:02 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Madencilere polisten sert müdahale! 100 kişi gözaltına alındı!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Bakanlık önünde madencilere polis müdahalesi! 100 GÖZALTI!</title>
-      <link>https://www.youtube.com/watch?v=nnOKOEJMZR0</link>
-      <guid isPermaLink="false">nnOKOEJMZR0</guid>
-      <pubDate>Thu, 20 Aug 2026 17:49:11 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Bakanlık önünde madencilere polis müdahalesi! 100 GÖZALTI!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Haldun Solmaztürk direkt Erdoğan'a isyan etti: Bu daha ne kadar devam edecek?</title>
-      <link>https://www.youtube.com/watch?v=8wDjso0YDGA</link>
-      <guid isPermaLink="false">8wDjso0YDGA</guid>
-      <pubDate>Thu, 20 Aug 2026 17:45:20 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Haldun Solmaztürk direkt Erdoğan'a isyan etti: Bu daha ne kadar devam edecek?</description>
     </item>
   </channel>
 </rss>
