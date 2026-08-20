@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 14:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 14:20:30 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: "DAHA FAZLA DUYMAZDAN GELEMEZ!" Aylin Nazlıkaya Bakanlık önünden Mahinur Özdemir Göktaş'a seslendi!</title>
       <link>https://www.youtube.com/watch?v=MNUYW7RPXuU</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">IKsF3WmlAsQ</guid>
       <pubDate>Thu, 20 Aug 2026 14:07:26 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: TÜLAY HATİMOĞULLARI'NDAN ÇOK KRİTİK YENİDEN YAPILANMA VE ÖCALAN AÇIKLAMASI!</description>
+    </item>
+    <item>
+      <title>Halk TV: İMAMOĞLU'NA BİR KUMPAS DAHA ÇÖKTÜ! İBB davasında tansiyon yükseldi! Silivri'de neler yaşanmış neler!</title>
+      <link>https://www.youtube.com/watch?v=4MYWu-X51yc</link>
+      <guid isPermaLink="false">4MYWu-X51yc</guid>
+      <pubDate>Thu, 20 Aug 2026 14:05:03 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İMAMOĞLU'NA BİR KUMPAS DAHA ÇÖKTÜ! İBB davasında tansiyon yükseldi! Silivri'de neler yaşanmış neler!</description>
     </item>
     <item>
       <title>Tele2 Haber: Abdullah Öcalan Özgür Özel'e Seslendi! "Demokrasinin Yolu Silivri'den Değil İmralı'dan Geçer!"</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">I7f3DgoOZUs</guid>
       <pubDate>Thu, 20 Aug 2026 12:05:21 +0000</pubDate>
       <description>Halk TV kanalından yeni video: CHP'DE YENİ ÇATLAK! Tutuklu başkan Kılıçdaroğlu'na resti çekip istifa etti!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Devlet İçindeki Güç Savaşını Mustafa Balbay Anlattı! "FETÖ GİDER SETÖ GELİR" Tarikatlar Savaşı</title>
-      <link>https://www.youtube.com/watch?v=Vll34snAhQk</link>
-      <guid isPermaLink="false">Vll34snAhQk</guid>
-      <pubDate>Thu, 20 Aug 2026 12:00:25 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Devlet İçindeki Güç Savaşını Mustafa Balbay Anlattı! "FETÖ GİDER SETÖ GELİR" Tarikatlar Savaşı</description>
     </item>
   </channel>
 </rss>
