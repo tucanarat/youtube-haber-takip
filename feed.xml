@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 11:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 11:30:45 +0000</lastBuildDate>
     <item>
       <title>Halk TV: GÖZLER ÖZGÜR ÖZEL'DE! İmralı'nın 'İmamoğlu' çıkışına cevap verecek mi? Mehmet Tezkan'dan flaş sözler</title>
       <link>https://www.youtube.com/watch?v=UHPcPNY2dwU</link>
@@ -27,6 +27,20 @@
       <guid isPermaLink="false">PoThdMBN-A8</guid>
       <pubDate>Thu, 20 Aug 2026 11:19:18 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Aile Dayanışma Ağı, 42. Buluşmasını Silivri’de Gerçekleştirildi (20 Ağustos 2026)</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Dilek İmamoğlu Silivri'den seslendi: “Kuyu tipi duruşma salonu”</title>
+      <link>https://www.youtube.com/watch?v=IxL-lkmxfXE</link>
+      <guid isPermaLink="false">IxL-lkmxfXE</guid>
+      <pubDate>Thu, 20 Aug 2026 11:16:11 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Dilek İmamoğlu Silivri'den seslendi: “Kuyu tipi duruşma salonu”</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Sertaç Eş AKP'nin YENİ Parti Algılarını Başlarına Yıktı! "SORUNLARIN SORUMLUSU ERDOĞAN'IN PARTİSİ!"</title>
+      <link>https://www.youtube.com/watch?v=0HQyybVLnlg</link>
+      <guid isPermaLink="false">0HQyybVLnlg</guid>
+      <pubDate>Thu, 20 Aug 2026 11:15:11 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Sertaç Eş AKP'nin YENİ Parti Algılarını Başlarına Yıktı! "SORUNLARIN SORUMLUSU ERDOĞAN'IN PARTİSİ!"</description>
     </item>
     <item>
       <title>Cumhuriyet: Umut Akdoğan'dan, madencilerin bakanlık önündeki eylemine destek: "Madenci hakkını arıyor"</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">1uH9gWH_y9M</guid>
       <pubDate>Thu, 20 Aug 2026 09:20:26 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkan Yardımcısı Orhan Sarıbal, madencilerle birlikte açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "Ne Pisliğe Bulaştınız da Saraya Yancı Oldunuz!" Enginyurt AKP'ye Geçenleri Yerin Dibine Soktu!</title>
-      <link>https://www.youtube.com/watch?v=kbv7E6bhbXE</link>
-      <guid isPermaLink="false">kbv7E6bhbXE</guid>
-      <pubDate>Thu, 20 Aug 2026 09:20:13 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "Ne Pisliğe Bulaştınız da Saraya Yancı Oldunuz!" Enginyurt AKP'ye Geçenleri Yerin Dibine Soktu!</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! YÜREKLERİ AĞZA GETİREN KAZA! Beyoğlu'nda tramvay yoldan çıktı!</title>
-      <link>https://www.youtube.com/watch?v=oo-WI3aPDZ0</link>
-      <guid isPermaLink="false">oo-WI3aPDZ0</guid>
-      <pubDate>Thu, 20 Aug 2026 09:15:01 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! YÜREKLERİ AĞZA GETİREN KAZA! Beyoğlu'nda tramvay yoldan çıktı!</description>
     </item>
   </channel>
 </rss>
