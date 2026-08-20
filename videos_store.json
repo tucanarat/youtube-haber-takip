@@ -1417,7 +1417,7 @@
   },
   "FEPYDvFcEmc": {
     "id": "FEPYDvFcEmc",
-    "title": "#CANLI Ülkü Çoban ile Manşet Ötesi | Konuk: Sertaç Eş ve İlhan Uzgel (20.08.26)",
+    "title": "Ülkü Çoban ile Manşet Ötesi | Konuk: Sertaç Eş ve İlhan Uzgel (20.08.26)",
     "link": "https://www.youtube.com/watch?v=FEPYDvFcEmc",
     "published": "2026-08-19T18:59:30+00:00",
     "published_ts": 1787165970,
@@ -1427,8 +1427,8 @@
     "id": "SZO76_Hg3B0",
     "title": "#CANLI Emeklinin Durumu Vahim! Onur Öncü ile Sabah Pusulası (20.08.26)",
     "link": "https://www.youtube.com/watch?v=SZO76_Hg3B0",
-    "published": "2026-08-19T19:01:01+00:00",
-    "published_ts": 1787166061,
+    "published": "2026-08-20T08:23:53+00:00",
+    "published_ts": 1787214233,
     "channel_name": "Tele2 Haber"
   },
   "zbDD_LKO9i0": {
@@ -1910,5 +1910,45 @@
     "published": "2026-08-20T08:05:15+00:00",
     "published_ts": 1787213115,
     "channel_name": "Halk TV"
+  },
+  "bXKJxcx38S0": {
+    "id": "bXKJxcx38S0",
+    "title": "#CANLI | YENİ Partili Umut Akdoğan Madencilerle Birlikte Bakanlığı Önünde Açıklama Yapıyor!",
+    "link": "https://www.youtube.com/watch?v=bXKJxcx38S0",
+    "published": "2026-08-20T08:02:22+00:00",
+    "published_ts": 1787212942,
+    "channel_name": "Halk TV"
+  },
+  "jptutPiKJcg": {
+    "id": "jptutPiKJcg",
+    "title": "Butlan CHP'sinin AKP'yle iş birliği ifşa oldu! Seraf Özer demediğini bırakmadı! Stüdyoyu inletti!",
+    "link": "https://www.youtube.com/watch?v=jptutPiKJcg",
+    "published": "2026-08-20T08:20:34+00:00",
+    "published_ts": 1787214034,
+    "channel_name": "Halk TV"
+  },
+  "rWE0V14p9F8": {
+    "id": "rWE0V14p9F8",
+    "title": "Bağımsız Maden-İş üyesi madenciler Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor",
+    "link": "https://www.youtube.com/watch?v=rWE0V14p9F8",
+    "published": "2026-08-20T08:20:22+00:00",
+    "published_ts": 1787214022,
+    "channel_name": "ANKA Haber Ajansı"
+  },
+  "JsjYlPOPww0": {
+    "id": "JsjYlPOPww0",
+    "title": "Anahtar Parti Genel Başkanı Yavuz Ağıralioğlu, basın toplantısı düzenliyor #Canlı",
+    "link": "https://www.youtube.com/watch?v=JsjYlPOPww0",
+    "published": "2026-08-20T08:11:44+00:00",
+    "published_ts": 1787213504,
+    "channel_name": "ANKA Haber Ajansı"
+  },
+  "Q4QMZIK6KdI": {
+    "id": "Q4QMZIK6KdI",
+    "title": "#CANLI Umut Akdoğan Madencilerle Açıklama Yapıyor!",
+    "link": "https://www.youtube.com/watch?v=Q4QMZIK6KdI",
+    "published": "2026-08-20T08:22:32+00:00",
+    "published_ts": 1787214152,
+    "channel_name": "Tele2 Haber"
   }
 }
