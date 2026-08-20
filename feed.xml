@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 16:40:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 16:45:30 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: NETANYAHU'DAN KÜSTAH TÜRKİYE TEHDİDİ! Sınırda Sıcak Çatışmaya Ramak Kaldı</title>
       <link>https://www.youtube.com/watch?v=bmzVBFaFk6w</link>
@@ -22,11 +22,25 @@
       <description>Halk TV kanalından yeni video: YENİ PARTİ’DE BİR İLK! Kongre takvimi başlıyor; Delege sistemi sona eriyor! İşte çarpıcı detaylar!</description>
     </item>
     <item>
+      <title>Tele2 Haber: Merdan Yanardağ'dan ezber bozan 'Özgür Özel-EVET kararı' yaklaşımı!</title>
+      <link>https://www.youtube.com/watch?v=k2InvESNi7A</link>
+      <guid isPermaLink="false">k2InvESNi7A</guid>
+      <pubDate>Thu, 20 Aug 2026 16:30:02 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Merdan Yanardağ'dan ezber bozan 'Özgür Özel-EVET kararı' yaklaşımı!</description>
+    </item>
+    <item>
       <title>Halk TV: SON DAKİKA! Çiğli Belediye Başkanı Onur Emrah Yıldız'IN makam aracına silahlı saldırı!</title>
       <link>https://www.youtube.com/watch?v=VXj5ZalLoiM</link>
       <guid isPermaLink="false">VXj5ZalLoiM</guid>
       <pubDate>Thu, 20 Aug 2026 16:15:10 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SON DAKİKA! Çiğli Belediye Başkanı Onur Emrah Yıldız'IN makam aracına silahlı saldırı!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: AKP teşkilatlarının "Öcalan" hazırlığı! Murat Taylan 'süreç bilgilendirme notuna' dikkat çekti!</title>
+      <link>https://www.youtube.com/watch?v=MevQf1c55sU</link>
+      <guid isPermaLink="false">MevQf1c55sU</guid>
+      <pubDate>Thu, 20 Aug 2026 16:13:09 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: AKP teşkilatlarının "Öcalan" hazırlığı! Murat Taylan 'süreç bilgilendirme notuna' dikkat çekti!</description>
     </item>
     <item>
       <title>Tele2 Haber: ÖCALAN'IN YENİ YAPILANMADA ROLÜ NE OLACAK? MURAT TAYLAN YORUMLADI</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">THuhGzNYzNk</guid>
       <pubDate>Thu, 20 Aug 2026 13:50:26 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ÖZGÜR ÖZEL DÜĞMEYE BASIYOR! Erdoğan'ın memleketini ayağa kaldıracak hamle yolda! İşte detaylar!</description>
-    </item>
-    <item>
-      <title>Halk TV: "TEK HEDEFİ CHP'Yİ KÜÇÜLTMEK!" Kılıçdaroğlu bu sözlerin altından kalkamaz! Küçükşahin ateş püskürdü!</title>
-      <link>https://www.youtube.com/watch?v=pYEFgRw3Y9M</link>
-      <guid isPermaLink="false">pYEFgRw3Y9M</guid>
-      <pubDate>Thu, 20 Aug 2026 13:35:44 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: "TEK HEDEFİ CHP'Yİ KÜÇÜLTMEK!" Kılıçdaroğlu bu sözlerin altından kalkamaz! Küçükşahin ateş püskürdü!</description>
-    </item>
-    <item>
-      <title>Halk TV: ERDOĞAN'A NE YAPACAĞINI ŞAŞIRTIR! Babacan'ın göndermesi ortalığı ateşe verecek! Saray ayaklanacak!</title>
-      <link>https://www.youtube.com/watch?v=5T0Dkwwg2j8</link>
-      <guid isPermaLink="false">5T0Dkwwg2j8</guid>
-      <pubDate>Thu, 20 Aug 2026 13:35:15 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ERDOĞAN'A NE YAPACAĞINI ŞAŞIRTIR! Babacan'ın göndermesi ortalığı ateşe verecek! Saray ayaklanacak!</description>
     </item>
   </channel>
 </rss>
