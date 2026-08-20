@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 10:49:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 10:50:34 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: #CANLI Er şehit yakınları ve er gaziler Aile ve Sosyal Hizmetler Bakanlığı önünde açıklama yapıyor</title>
       <link>https://www.youtube.com/watch?v=VeCmfSjYeto</link>
@@ -20,13 +20,6 @@
       <guid isPermaLink="false">yXwfGPTjiWg</guid>
       <pubDate>Thu, 20 Aug 2026 10:45:53 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Er Şehit Yakınları Ve Er Gaziler Aile Ve Sosyal Hizmetler Bakanlığı Önünde Açıklama Yaptı!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Er şehit yakınları ve er gaziler Aile ve Sosyal Hizmetler Bakanlığı önünde açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=0c-L6YDv9D4</link>
-      <guid isPermaLink="false">0c-L6YDv9D4</guid>
-      <pubDate>Thu, 20 Aug 2026 10:45:44 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Er şehit yakınları ve er gaziler Aile ve Sosyal Hizmetler Bakanlığı önünde açıklama yapıyor #Canlı</description>
     </item>
     <item>
       <title>Halk TV: Özgür Çelik: "Günü geldiğinde, bir bayram havasında, bir pazar günü sandıklara gideceğiz"</title>
@@ -300,6 +293,13 @@
       <guid isPermaLink="false">bXKJxcx38S0</guid>
       <pubDate>Thu, 20 Aug 2026 08:57:48 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Partili Umut Akdoğan Madencilerle Birlikte Bakanlığı Önünde Açıklama Yaptı! (20 Ağustos 2026)</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: Er şehit yakınları ve er gaziler Aile ve Sosyal Hizmetler Bakanlığı önünde açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=0c-L6YDv9D4</link>
+      <guid isPermaLink="false">0c-L6YDv9D4</guid>
+      <pubDate>Thu, 20 Aug 2026 08:57:21 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Er şehit yakınları ve er gaziler Aile ve Sosyal Hizmetler Bakanlığı önünde açıklama yapıyor #Canlı</description>
     </item>
     <item>
       <title>Tele2 Haber: "Ekip Gelsin Tutanak Tutulsun" Umut Akdoğan'dan Bağımsız Maden İş'e Bağlı Madencilere Destek!</title>
