@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 14:25:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 14:30:44 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: İBB DAVASINDA SAVCIDAN ŞOK TALEP! Muzaffer Beyaz'ın tutuklanma talebi bir kez daha reddedildi!</title>
+      <link>https://www.youtube.com/watch?v=z1GNA67xEj4</link>
+      <guid isPermaLink="false">z1GNA67xEj4</guid>
+      <pubDate>Thu, 20 Aug 2026 14:20:38 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İBB DAVASINDA SAVCIDAN ŞOK TALEP! Muzaffer Beyaz'ın tutuklanma talebi bir kez daha reddedildi!</description>
+    </item>
     <item>
       <title>Tele2 Haber: "DAHA FAZLA DUYMAZDAN GELEMEZ!" Aylin Nazlıkaya Bakanlık önünden Mahinur Özdemir Göktaş'a seslendi!</title>
       <link>https://www.youtube.com/watch?v=MNUYW7RPXuU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">NuxAcdwa3oI</guid>
       <pubDate>Thu, 20 Aug 2026 12:15:10 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Madencileri ziyaret eden YENİ Partili Umut Akdoğan, polisten yeniden tutanak tutulmasını talep etti!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI DEM Parti Eş Genel Başkanı Tülay Hatimoğulları, Silivri’de açıklama yapıyor</title>
-      <link>https://www.youtube.com/watch?v=oeKxD-3Mi-I</link>
-      <guid isPermaLink="false">oeKxD-3Mi-I</guid>
-      <pubDate>Thu, 20 Aug 2026 12:10:03 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI DEM Parti Eş Genel Başkanı Tülay Hatimoğulları, Silivri’de açıklama yapıyor</description>
     </item>
   </channel>
 </rss>
