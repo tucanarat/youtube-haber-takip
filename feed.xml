@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 09:30:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 09:35:28 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: AZİZ İHSAN AKTAŞ SALONA GİRDİ, SİLİVRİ AYAKTA! Gözler savunmaya kilitlendi! Gamze Altunay aktardı!</title>
+      <link>https://www.youtube.com/watch?v=eVLB6C5kg-g</link>
+      <guid isPermaLink="false">eVLB6C5kg-g</guid>
+      <pubDate>Thu, 20 Aug 2026 09:30:29 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: AZİZ İHSAN AKTAŞ SALONA GİRDİ, SİLİVRİ AYAKTA! Gözler savunmaya kilitlendi! Gamze Altunay aktardı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Menzil, Süleymancılar, Furkancılar... Saygı Öztürk Tarikatların Gizli Dosyalarını Açtı!</title>
       <link>https://www.youtube.com/watch?v=Iu2p_nEu-RA</link>
@@ -50,11 +57,11 @@
       <description>Halk TV kanalından yeni video: #CANLI | Anahtar Parti Genel Başkanı Yavuz Ağıralioğlu, Basın Toplantısı Düzenliyor</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | Butlan CHP'si Genel Başkan Yardımcısı Necdet Saraç, Basın Toplantısı Düzenliyor!</title>
+      <title>Halk TV: Butlan CHP'si Genel Başkan Yardımcısı Necdet Saraç, Basın Toplantısı Düzenledi! (20 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=_Ht_d6HU2Bg</link>
       <guid isPermaLink="false">_Ht_d6HU2Bg</guid>
       <pubDate>Thu, 20 Aug 2026 09:02:16 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Butlan CHP'si Genel Başkan Yardımcısı Necdet Saraç, Basın Toplantısı Düzenliyor!</description>
+      <description>Halk TV kanalından yeni video: Butlan CHP'si Genel Başkan Yardımcısı Necdet Saraç, Basın Toplantısı Düzenledi! (20 Ağustos 2026)</description>
     </item>
     <item>
       <title>SÖZCÜ TV: İBB Davasında Hakimden Olay Ekrem İmamoğlu Kararı! Soru Sorması Yasaklandı! Silivri'de Gergin Anlar</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Tb2E7y9hI54</guid>
       <pubDate>Thu, 20 Aug 2026 06:30:05 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İBB DAVASINDA DANANIN KUYRUĞU KOPACAK! Kritik eşik için o tarih işaret edildi! Silivri alev aldı!</description>
-    </item>
-    <item>
-      <title>Halk TV: VATANDAŞI ELEKTRİK DEĞİL ZAM ÇARPACAK! Faturalarda öyle bir artış olacak ki.. İşte çarpıcı detaylar!</title>
-      <link>https://www.youtube.com/watch?v=DOufHLv7h3o</link>
-      <guid isPermaLink="false">DOufHLv7h3o</guid>
-      <pubDate>Thu, 20 Aug 2026 06:12:39 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: VATANDAŞI ELEKTRİK DEĞİL ZAM ÇARPACAK! Faturalarda öyle bir artış olacak ki.. İşte çarpıcı detaylar!</description>
     </item>
   </channel>
 </rss>
