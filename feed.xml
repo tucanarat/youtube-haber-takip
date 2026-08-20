@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 20:20:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 20:25:22 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Haldun Solmaztürk'ten iktidara İsrail tepkisi! Üs saldırısı ve Netanyahu'nun Türkiye'yi hedef alışı!</title>
+      <link>https://www.youtube.com/watch?v=ej8nx8HEWJY</link>
+      <guid isPermaLink="false">ej8nx8HEWJY</guid>
+      <pubDate>Thu, 20 Aug 2026 20:19:06 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Haldun Solmaztürk'ten iktidara İsrail tepkisi! Üs saldırısı ve Netanyahu'nun Türkiye'yi hedef alışı!</description>
+    </item>
     <item>
       <title>Halk TV: SICAK GÖRÜNTÜLER! Madencilere bakanlık önünde sert polis müdahalesi! En az 100 kişi gözaltında!</title>
       <link>https://www.youtube.com/watch?v=E1RcSf-rep0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">k2InvESNi7A</guid>
       <pubDate>Thu, 20 Aug 2026 16:30:02 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Merdan Yanardağ'dan ezber bozan 'Özgür Özel-EVET kararı' yaklaşımı!</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! Çiğli Belediye Başkanı Onur Emrah Yıldız'IN makam aracına silahlı saldırı!</title>
-      <link>https://www.youtube.com/watch?v=VXj5ZalLoiM</link>
-      <guid isPermaLink="false">VXj5ZalLoiM</guid>
-      <pubDate>Thu, 20 Aug 2026 16:15:10 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! Çiğli Belediye Başkanı Onur Emrah Yıldız'IN makam aracına silahlı saldırı!</description>
     </item>
   </channel>
 </rss>
