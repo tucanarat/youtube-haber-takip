@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 19:10:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 19:15:33 +0000</lastBuildDate>
     <item>
       <title>Halk TV: Cemal Enginyurt: Devlet okuluna kayıt için istenen paralar can yakıyor! #shorts</title>
       <link>https://www.youtube.com/shorts/_w-W3-9e6yM</link>
       <guid isPermaLink="false">_w-W3-9e6yM</guid>
       <pubDate>Thu, 20 Aug 2026 19:00:37 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Cemal Enginyurt: Devlet okuluna kayıt için istenen paralar can yakıyor! #shorts</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İRAN KÖŞEYE SIKIŞTI! Hürmüz'de Gizli Petrol Oyunu Ortaya Çıktı! Tahran Harekete Geçti</title>
+      <link>https://www.youtube.com/watch?v=D92Kwy6Isrg</link>
+      <guid isPermaLink="false">D92Kwy6Isrg</guid>
+      <pubDate>Thu, 20 Aug 2026 19:00:37 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İRAN KÖŞEYE SIKIŞTI! Hürmüz'de Gizli Petrol Oyunu Ortaya Çıktı! Tahran Harekete Geçti</description>
     </item>
     <item>
       <title>Halk TV: SARAY'DA DEPREM ETKİSİ YARATACAK İSYAN! Madenci eşleri Erdoğan'a böyle seslendi! "Unutmayacağız!"</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">JhYp-DHgq5c</guid>
       <pubDate>Thu, 20 Aug 2026 15:35:55 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Zeynel Lüle ile Ankara Günlüğü | Konuk: Saruhan Oluç (21.08.26)</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Mustafa Varank'a Trabzon'da şok tepki! #ARŞİV</title>
-      <link>https://www.youtube.com/shorts/6qz95JXk72g</link>
-      <guid isPermaLink="false">6qz95JXk72g</guid>
-      <pubDate>Thu, 20 Aug 2026 15:30:34 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Mustafa Varank'a Trabzon'da şok tepki! #ARŞİV</description>
     </item>
   </channel>
 </rss>
