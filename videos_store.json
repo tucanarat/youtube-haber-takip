@@ -1601,7 +1601,7 @@
   },
   "KfSnXkIVlRs": {
     "id": "KfSnXkIVlRs",
-    "title": "#CANLI Öğle Bülteni | Gülinay Selçuk",
+    "title": "Öğle Bülteni | Gülinay Selçuk | 20 Ağustos",
     "link": "https://www.youtube.com/watch?v=KfSnXkIVlRs",
     "published": "2026-08-19T22:34:00+00:00",
     "published_ts": 1787178840,
@@ -2067,8 +2067,8 @@
     "id": "0c-L6YDv9D4",
     "title": "Er şehit yakınları ve er gaziler Aile ve Sosyal Hizmetler Bakanlığı önünde açıklama yapıyor #Canlı",
     "link": "https://www.youtube.com/watch?v=0c-L6YDv9D4",
-    "published": "2026-08-20T08:57:21+00:00",
-    "published_ts": 1787216241,
+    "published": "2026-08-20T10:45:44+00:00",
+    "published_ts": 1787222744,
     "channel_name": "ANKA Haber Ajansı"
   },
   "MTbUjGZvncY": {
@@ -2309,6 +2309,38 @@
     "link": "https://www.youtube.com/shorts/3xpYZgg_tGY",
     "published": "2026-08-20T10:45:34+00:00",
     "published_ts": 1787222734,
+    "channel_name": "Halk TV"
+  },
+  "Q6WxkvCEgHk": {
+    "id": "Q6WxkvCEgHk",
+    "title": "Korkuyla umut arasında...-Zeynep Oral",
+    "link": "https://www.youtube.com/watch?v=Q6WxkvCEgHk",
+    "published": "2026-08-20T10:42:38+00:00",
+    "published_ts": 1787222558,
+    "channel_name": "Cumhuriyet"
+  },
+  "gYQZlgFahFo": {
+    "id": "gYQZlgFahFo",
+    "title": "İsmail Kartal fazla kalmaz-Hilmi Türkay",
+    "link": "https://www.youtube.com/watch?v=gYQZlgFahFo",
+    "published": "2026-08-20T10:42:36+00:00",
+    "published_ts": 1787222556,
+    "channel_name": "Cumhuriyet"
+  },
+  "sNWYHplAEMw": {
+    "id": "sNWYHplAEMw",
+    "title": "İmamoğlu’nun savunma hakkı ve Bay Kemal duruşu-Bedri Baykam",
+    "link": "https://www.youtube.com/watch?v=sNWYHplAEMw",
+    "published": "2026-08-20T10:42:34+00:00",
+    "published_ts": 1787222554,
+    "channel_name": "Cumhuriyet"
+  },
+  "xPAPoDCaw1g": {
+    "id": "xPAPoDCaw1g",
+    "title": "BEŞTEPE'Yİ KORKU ESİR ALACAK! Özgür Özel, Erdoğan'ın memleketinde  fırtına kopartacak! Dönüşü yok!",
+    "link": "https://www.youtube.com/watch?v=xPAPoDCaw1g",
+    "published": "2026-08-20T10:50:28+00:00",
+    "published_ts": 1787223028,
     "channel_name": "Halk TV"
   }
 }
