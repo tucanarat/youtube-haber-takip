@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 18:20:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 18:25:26 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: Öcalan'ın rolü!  Murat Taylan ile Haber-Yorum (20.08.26)</title>
       <link>https://www.youtube.com/watch?v=1dEzNyJ6vAw</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">aNkw6ZL4HbU</guid>
       <pubDate>Thu, 20 Aug 2026 18:15:11 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Daron Acemoğlu ve The Economist savaşı! Prof. Dr. Ersin Kalaycıoğlu işçi liberalizmine dikkat çekti</description>
+    </item>
+    <item>
+      <title>Halk TV: TİCARET BAKANI DUT YEMİŞ BÜLBÜLE DÖNDÜ! Bahçıvan o sözleriyle şoke etti! Bu anlar çok konuşulur!</title>
+      <link>https://www.youtube.com/watch?v=rpb_TG7-Xq0</link>
+      <guid isPermaLink="false">rpb_TG7-Xq0</guid>
+      <pubDate>Thu, 20 Aug 2026 18:15:03 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: TİCARET BAKANI DUT YEMİŞ BÜLBÜLE DÖNDÜ! Bahçıvan o sözleriyle şoke etti! Bu anlar çok konuşulur!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Ümit Özdağ'dan Yeni İttifak Çağrısı! Müsavat Dervişoğlu Düğmeye Bastı! Erdoğan'ın Uykuları Kaçacak</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">2MmoQUxW5Nk</guid>
       <pubDate>Thu, 20 Aug 2026 14:53:23 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Haber Saati | Serap Belovacıklı | 20 Ağustos</description>
-    </item>
-    <item>
-      <title>Halk TV: 'DENİZOLGU'NUN BOYNUNDA EZİLMELER VAR' İDDİASI! Otopsi videoları da ortada yok! Gündemi sarsacak!</title>
-      <link>https://www.youtube.com/watch?v=nJEx32P-P7s</link>
-      <guid isPermaLink="false">nJEx32P-P7s</guid>
-      <pubDate>Thu, 20 Aug 2026 14:50:27 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: 'DENİZOLGU'NUN BOYNUNDA EZİLMELER VAR' İDDİASI! Otopsi videoları da ortada yok! Gündemi sarsacak!</description>
     </item>
   </channel>
 </rss>
