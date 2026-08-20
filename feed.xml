@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 12:45:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 12:50:32 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: "Türkiye'nin Payına Düşen ABD'nin İşlerini Yapmak!" İlhan Uzgel'den Çarpıcı Ortadoğu Analizi!</title>
+      <link>https://www.youtube.com/watch?v=8CAZe5RD_5w</link>
+      <guid isPermaLink="false">8CAZe5RD_5w</guid>
+      <pubDate>Thu, 20 Aug 2026 12:45:32 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "Türkiye'nin Payına Düşen ABD'nin İşlerini Yapmak!" İlhan Uzgel'den Çarpıcı Ortadoğu Analizi!</description>
+    </item>
     <item>
       <title>Cumhuriyet: Madenciler kıyafetlerini kapıya astı: "Satın borçlarınızı ödeyin!"</title>
       <link>https://www.youtube.com/shorts/SzUo_erJpy0</link>
@@ -57,11 +64,11 @@
       <description>Halk TV kanalından yeni video: AKP'YE GEÇİNCE MİLYONLAR AKTI! Mesut Özarslan güreşçilere bakın ne kadar dağıttı! Rezillik diz boyu!</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | YENİ Parti Grup Başkanvekili Murat Emir madencilerle birlikte açıklama yapıyor</title>
+      <title>Halk TV: YENİ Parti Grup Başkanvekili Murat Emir Madencilerle Birlikte Açıklama Yapıyor! (20 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=cILEXpYRAiY</link>
       <guid isPermaLink="false">cILEXpYRAiY</guid>
       <pubDate>Thu, 20 Aug 2026 12:35:18 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti Grup Başkanvekili Murat Emir madencilerle birlikte açıklama yapıyor</description>
+      <description>Halk TV kanalından yeni video: YENİ Parti Grup Başkanvekili Murat Emir Madencilerle Birlikte Açıklama Yapıyor! (20 Ağustos 2026)</description>
     </item>
     <item>
       <title>SÖZCÜ TV: ÖCALAN İÇİN BOMBA KARAR! İmralı'nın Kapıları Açılıyor! Yeni Statüsü Belli Oldu</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">qylFD3G42lM</guid>
       <pubDate>Thu, 20 Aug 2026 10:39:44 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: ‘Kürt sorunu’ nedir? (6)-Emre Kongar</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: ‘25 yıl’ ve ‘odanın ortasındaki fil’-Ergin Yıldızoğlu</title>
-      <link>https://www.youtube.com/watch?v=KRp9On5M06I</link>
-      <guid isPermaLink="false">KRp9On5M06I</guid>
-      <pubDate>Thu, 20 Aug 2026 10:39:42 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: ‘25 yıl’ ve ‘odanın ortasındaki fil’-Ergin Yıldızoğlu</description>
     </item>
   </channel>
 </rss>
