@@ -2113,7 +2113,7 @@
   },
   "kCbD15PL3AM": {
     "id": "kCbD15PL3AM",
-    "title": "#CANLI | İrem Sansak ile Haber Masası",
+    "title": "İrem Sansak ile Haber Masası (20 Ağustos 2026)",
     "link": "https://www.youtube.com/watch?v=kCbD15PL3AM",
     "published": "2026-08-20T09:24:17+00:00",
     "published_ts": 1787217857,
@@ -2555,8 +2555,8 @@
     "id": "ZYRzSjzwFWE",
     "title": "YENİ Parti Grup Başkanvekili Murat Emir madencilerle birlikte açıklama yapıyor #Canlı",
     "link": "https://www.youtube.com/watch?v=ZYRzSjzwFWE",
-    "published": "2026-08-20T12:14:09+00:00",
-    "published_ts": 1787228049,
+    "published": "2026-08-20T12:52:46+00:00",
+    "published_ts": 1787230366,
     "channel_name": "ANKA Haber Ajansı"
   },
   "6P7fuBYw3gw": {
@@ -2579,8 +2579,8 @@
     "id": "cILEXpYRAiY",
     "title": "YENİ Parti Grup Başkanvekili Murat Emir Madencilerle Birlikte Açıklama Yapıyor! (20 Ağustos 2026)",
     "link": "https://www.youtube.com/watch?v=cILEXpYRAiY",
-    "published": "2026-08-20T12:35:18+00:00",
-    "published_ts": 1787229318,
+    "published": "2026-08-20T12:51:04+00:00",
+    "published_ts": 1787230264,
     "channel_name": "Halk TV"
   },
   "vMoGrNbSwmo": {
@@ -2630,5 +2630,53 @@
     "published": "2026-08-20T12:45:32+00:00",
     "published_ts": 1787229932,
     "channel_name": "Tele2 Haber"
+  },
+  "_LSi792Py2c": {
+    "id": "_LSi792Py2c",
+    "title": "#CANLI | Gizem Çetin ile Parantez",
+    "link": "https://www.youtube.com/watch?v=_LSi792Py2c",
+    "published": "2026-08-20T12:51:50+00:00",
+    "published_ts": 1787230310,
+    "channel_name": "Halk TV"
+  },
+  "Qcf-GGBCmg4": {
+    "id": "Qcf-GGBCmg4",
+    "title": "BU TEPKİ ANKARA'YI SALLAR! YENİ Partili Umut Akdoğan'dan madenciler için görülmemiş protesto!",
+    "link": "https://www.youtube.com/watch?v=Qcf-GGBCmg4",
+    "published": "2026-08-20T12:50:05+00:00",
+    "published_ts": 1787230205,
+    "channel_name": "Halk TV"
+  },
+  "aJo7poCDOX8": {
+    "id": "aJo7poCDOX8",
+    "title": "YENİ Partili Tanrıkulu'nun vatandaşla güldüren sohbeti! \"Siz de benim gibi atom karıncasınız!\"",
+    "link": "https://www.youtube.com/shorts/aJo7poCDOX8",
+    "published": "2026-08-20T12:48:24+00:00",
+    "published_ts": 1787230104,
+    "channel_name": "Halk TV"
+  },
+  "DGMPRXWGm60": {
+    "id": "DGMPRXWGm60",
+    "title": "Kartal'da otoyolda kamyonet alev aldı!",
+    "link": "https://www.youtube.com/shorts/DGMPRXWGm60",
+    "published": "2026-08-20T12:46:30+00:00",
+    "published_ts": 1787229990,
+    "channel_name": "Halk TV"
+  },
+  "JkRov7TaexM": {
+    "id": "JkRov7TaexM",
+    "title": "Sezgin Tanrıkulu: Pazarda yurttaşlarımız alışveriş yapamıyor. Esnaf da aldığını satamıyor!",
+    "link": "https://www.youtube.com/shorts/JkRov7TaexM",
+    "published": "2026-08-20T12:45:55+00:00",
+    "published_ts": 1787229955,
+    "channel_name": "Halk TV"
+  },
+  "QaQ_gUl5GZ8": {
+    "id": "QaQ_gUl5GZ8",
+    "title": "Türkiye’ye veda vakti: Gurbetçilerin dönüş yolculuğu sürüyor!",
+    "link": "https://www.youtube.com/shorts/QaQ_gUl5GZ8",
+    "published": "2026-08-20T12:45:34+00:00",
+    "published_ts": 1787229934,
+    "channel_name": "Halk TV"
   }
 }
