@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 16:15:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 16:20:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SON DAKİKA! Çiğli Belediye Başkanı'nın makam aracına silahlı saldırı! Çarpıcı görüntüler!</title>
+      <link>https://www.youtube.com/watch?v=VXj5ZalLoiM</link>
+      <guid isPermaLink="false">VXj5ZalLoiM</guid>
+      <pubDate>Thu, 20 Aug 2026 16:15:10 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! Çiğli Belediye Başkanı'nın makam aracına silahlı saldırı! Çarpıcı görüntüler!</description>
+    </item>
     <item>
       <title>Tele2 Haber: ÖCALAN'IN YENİ YAPILANMADA ROLÜ NE OLACAK? MURAT TAYLAN YORUMLADI</title>
       <link>https://www.youtube.com/shorts/Qttti_zeGFk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">VsJVTwzlFjk</guid>
       <pubDate>Thu, 20 Aug 2026 13:30:27 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Menzil'i Süleymancılar Korkusu Sardı! 'Kayıp Altın' Depremi! Kardeşlerin Taht ve Para Kavgası</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: AYLİN NAZLIKAYA BAKANLIK ÖNÜNDEN MAHİNUR ÖZDEMİR GÖKTAŞ'A SESLENDİ!</title>
-      <link>https://www.youtube.com/shorts/NBVQJS3ZpHA</link>
-      <guid isPermaLink="false">NBVQJS3ZpHA</guid>
-      <pubDate>Thu, 20 Aug 2026 13:29:59 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: AYLİN NAZLIKAYA BAKANLIK ÖNÜNDEN MAHİNUR ÖZDEMİR GÖKTAŞ'A SESLENDİ!</description>
     </item>
   </channel>
 </rss>
