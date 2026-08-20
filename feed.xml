@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 17:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 17:25:25 +0000</lastBuildDate>
     <item>
       <title>Halk TV: İSTANBUL 48 SAATTE 117 KEZ SALLANDI! Adalar açıklarındaki deprem fırtınasına uzman isimden uyarı!</title>
       <link>https://www.youtube.com/watch?v=G4P6BTI0MC0</link>
       <guid isPermaLink="false">G4P6BTI0MC0</guid>
       <pubDate>Thu, 20 Aug 2026 17:15:23 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İSTANBUL 48 SAATTE 117 KEZ SALLANDI! Adalar açıklarındaki deprem fırtınasına uzman isimden uyarı!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: İsrail, Suriye'deki üssü vurdu! Türk askeri var mıydı? MSB'den açıklama geldi!</title>
+      <link>https://www.youtube.com/watch?v=2C6vKaFnOMY</link>
+      <guid isPermaLink="false">2C6vKaFnOMY</guid>
+      <pubDate>Thu, 20 Aug 2026 17:15:00 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: İsrail, Suriye'deki üssü vurdu! Türk askeri var mıydı? MSB'den açıklama geldi!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Bir köpeğin yavru kedileri emzirdiği görüntü yürekleri ısıttı!</title>
+      <link>https://www.youtube.com/shorts/jOxkcmXoVH8</link>
+      <guid isPermaLink="false">jOxkcmXoVH8</guid>
+      <pubDate>Thu, 20 Aug 2026 17:12:18 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Bir köpeğin yavru kedileri emzirdiği görüntü yürekleri ısıttı!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: "Hayatta Olmamızın Aslında Hiçbir Anlamı Yok" | Mahir Ünsal Eriş | İpek Özbey ile Nasıl Olacak?</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">z1GNA67xEj4</guid>
       <pubDate>Thu, 20 Aug 2026 14:20:38 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İBB DAVASINDA SAVCIDAN ŞOK TALEP! Muzaffer Beyaz'ın tutuklanma talebi bir kez daha reddedildi!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "DAHA FAZLA DUYMAZDAN GELEMEZ!" Aylin Nazlıaka Bakanlık önünden Mahinur Özdemir Göktaş'a seslendi!</title>
-      <link>https://www.youtube.com/watch?v=MNUYW7RPXuU</link>
-      <guid isPermaLink="false">MNUYW7RPXuU</guid>
-      <pubDate>Thu, 20 Aug 2026 14:15:02 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "DAHA FAZLA DUYMAZDAN GELEMEZ!" Aylin Nazlıaka Bakanlık önünden Mahinur Özdemir Göktaş'a seslendi!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: İsrail, Türkiye sınırındaki Ebu Zuhur Askeri Üssü’nü neden vurdu? Türkiye’yi ne bekliyor?</title>
-      <link>https://www.youtube.com/watch?v=_3BjDpha2L4</link>
-      <guid isPermaLink="false">_3BjDpha2L4</guid>
-      <pubDate>Thu, 20 Aug 2026 14:14:21 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: İsrail, Türkiye sınırındaki Ebu Zuhur Askeri Üssü’nü neden vurdu? Türkiye’yi ne bekliyor?</description>
     </item>
   </channel>
 </rss>
