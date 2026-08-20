@@ -1625,7 +1625,7 @@
   },
   "JyPnC0PdCGA": {
     "id": "JyPnC0PdCGA",
-    "title": "İçinizden Biri | Ekrem Açıkel",
+    "title": "#CANLI İçinizden Biri | Ekrem Açıkel",
     "link": "https://www.youtube.com/watch?v=JyPnC0PdCGA",
     "published": "2026-08-19T22:37:54+00:00",
     "published_ts": 1787179074,
@@ -1635,8 +1635,8 @@
     "id": "2MmoQUxW5Nk",
     "title": "Haber Saati | Serap Belovacıklı | 20 Ağustos",
     "link": "https://www.youtube.com/watch?v=2MmoQUxW5Nk",
-    "published": "2026-08-19T22:36:27+00:00",
-    "published_ts": 1787178987,
+    "published": "2026-08-20T14:53:23+00:00",
+    "published_ts": 1787237603,
     "channel_name": "SÖZCÜ TV"
   },
   "buFUK5b_KSA": {
@@ -2635,8 +2635,8 @@
     "id": "_LSi792Py2c",
     "title": "Gizem Çetin ile Parantez (20 Ağustos 2026)",
     "link": "https://www.youtube.com/watch?v=_LSi792Py2c",
-    "published": "2026-08-20T12:51:50+00:00",
-    "published_ts": 1787230310,
+    "published": "2026-08-20T14:55:03+00:00",
+    "published_ts": 1787237703,
     "channel_name": "Halk TV"
   },
   "Qcf-GGBCmg4": {
@@ -2965,6 +2965,30 @@
     "link": "https://www.youtube.com/shorts/tQ2ooPS7Wb4",
     "published": "2026-08-20T14:42:51+00:00",
     "published_ts": 1787236971,
+    "channel_name": "Halk TV"
+  },
+  "T1L-rJcNA_0": {
+    "id": "T1L-rJcNA_0",
+    "title": "5 farklı ifade veren sanık Kameroğlu neler söyledi? Cumhuriyet TV Silivri'den aktardı",
+    "link": "https://www.youtube.com/shorts/T1L-rJcNA_0",
+    "published": "2026-08-20T14:46:25+00:00",
+    "published_ts": 1787237185,
+    "channel_name": "Cumhuriyet"
+  },
+  "L_L6NVH1OfQ": {
+    "id": "L_L6NVH1OfQ",
+    "title": "Tarafsızlığın, Gerçeğin, Haberin Merkezi: Sözcü Televizyonu!",
+    "link": "https://www.youtube.com/watch?v=L_L6NVH1OfQ",
+    "published": "2026-08-20T14:45:01+00:00",
+    "published_ts": 1787237101,
+    "channel_name": "SÖZCÜ TV"
+  },
+  "nJEx32P-P7s": {
+    "id": "nJEx32P-P7s",
+    "title": "'DENİZOLGU'NUN BOYNUNDA EZİLMELER VAR' İDDİASI! Otopsi videoları da ortada yok! Gündemi sarsacak!",
+    "link": "https://www.youtube.com/watch?v=nJEx32P-P7s",
+    "published": "2026-08-20T14:50:27+00:00",
+    "published_ts": 1787237427,
     "channel_name": "Halk TV"
   }
 }
