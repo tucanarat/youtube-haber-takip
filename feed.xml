@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 07:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 07:30:42 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: CHP Genel Başkan Yardımcısı Orhan Sarıbal basın toplantısı düzenliyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=Gks2Qv2xYH4</link>
+      <guid isPermaLink="false">Gks2Qv2xYH4</guid>
+      <pubDate>Thu, 20 Aug 2026 07:24:22 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkan Yardımcısı Orhan Sarıbal basın toplantısı düzenliyor #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: GENEL MERKEZ'DE KIYAMET O GÜN KOPACAK! YENİ Parti tarihi duyurdu! Özgür Özel nefesleri tutturdu!</title>
       <link>https://www.youtube.com/watch?v=DVTNMVXfRLY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">SMlvmv5UYNs</guid>
       <pubDate>Wed, 19 Aug 2026 20:00:02 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BU SÖZLER GÜNDEME BOMBA GİBİ DÜŞECEK! Cemal Enginyurt'tan Orhan Çerkez'e zehir zemberek çıkış!</description>
-    </item>
-    <item>
-      <title>Halk TV: ORHAN ÇERKEZ’E KABUS OLACAK TABLO! Çerkezköy tek ses oldu; ‘Hain Orhan’ sloganı meydanı inletti!</title>
-      <link>https://www.youtube.com/watch?v=71SZLuvwVpE</link>
-      <guid isPermaLink="false">71SZLuvwVpE</guid>
-      <pubDate>Wed, 19 Aug 2026 19:45:28 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ORHAN ÇERKEZ’E KABUS OLACAK TABLO! Çerkezköy tek ses oldu; ‘Hain Orhan’ sloganı meydanı inletti!</description>
     </item>
   </channel>
 </rss>
