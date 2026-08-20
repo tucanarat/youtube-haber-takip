@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 13:40:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 13:45:27 +0000</lastBuildDate>
     <item>
       <title>Halk TV: "TEK HEDEFİ CHP'Yİ KÜÇÜLTMEK!" Kılıçdaroğlu bu sözlerin altından kalkamaz! Küçükşahin ateş püskürdü!</title>
       <link>https://www.youtube.com/watch?v=pYEFgRw3Y9M</link>
@@ -27,6 +27,13 @@
       <guid isPermaLink="false">XBKXMXJ40eQ</guid>
       <pubDate>Thu, 20 Aug 2026 13:32:51 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Dilek İmamoğlu'ndan çarpıcı "barış" çıkışı!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Menzil'i Süleymancılar Korkusu Sardı! 'Kayıp Altın' Depremi! Kardeşlerin Taht ve Para Kavgası</title>
+      <link>https://www.youtube.com/watch?v=VsJVTwzlFjk</link>
+      <guid isPermaLink="false">VsJVTwzlFjk</guid>
+      <pubDate>Thu, 20 Aug 2026 13:30:27 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Menzil'i Süleymancılar Korkusu Sardı! 'Kayıp Altın' Depremi! Kardeşlerin Taht ve Para Kavgası</description>
     </item>
     <item>
       <title>Tele2 Haber: AYLİN NAZLIKAYA BAKANLIK ÖNÜNDEN MAHİNUR ÖZDEMİR GÖKTAŞ'A SESLENDİ!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">NyKVLQGCLUQ</guid>
       <pubDate>Thu, 20 Aug 2026 11:20:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Katil Netanyahu'dan Türkiye'ye Tehdit! "Mesajımızı Duymadılar Daha İyi Anlattık"</description>
-    </item>
-    <item>
-      <title>Halk TV: Aile Dayanışma Ağı, 42. Buluşmasını Silivri’de Gerçekleştirildi! (20 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=PoThdMBN-A8</link>
-      <guid isPermaLink="false">PoThdMBN-A8</guid>
-      <pubDate>Thu, 20 Aug 2026 11:19:18 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Aile Dayanışma Ağı, 42. Buluşmasını Silivri’de Gerçekleştirildi! (20 Ağustos 2026)</description>
     </item>
   </channel>
 </rss>
