@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 10:55:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 11:00:52 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Aile Dayanışma Ağı, 42. Buluşmasını Silivri’de Gerçekleştiriyor!</title>
+      <link>https://www.youtube.com/watch?v=PoThdMBN-A8</link>
+      <guid isPermaLink="false">PoThdMBN-A8</guid>
+      <pubDate>Thu, 20 Aug 2026 10:57:13 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Aile Dayanışma Ağı, 42. Buluşmasını Silivri’de Gerçekleştiriyor!</description>
+    </item>
     <item>
       <title>Halk TV: BEŞTEPE'Yİ KORKU ESİR ALACAK! Özgür Özel, Erdoğan'ın memleketinde  fırtına kopartacak! Dönüşü yok!</title>
       <link>https://www.youtube.com/watch?v=xPAPoDCaw1g</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Q4QMZIK6KdI</guid>
       <pubDate>Thu, 20 Aug 2026 08:50:55 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Umut Akdoğan Madencilerle Açıklama Yapıyor!</description>
-    </item>
-    <item>
-      <title>Halk TV: İBB DAVASINDA ŞOK! İmamoğlu'nun o hamlesi tüm dengeleri değiştirdi! Mahkeme başkanından flaş karar!</title>
-      <link>https://www.youtube.com/watch?v=eQC87zNzNOA</link>
-      <guid isPermaLink="false">eQC87zNzNOA</guid>
-      <pubDate>Thu, 20 Aug 2026 08:50:00 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İBB DAVASINDA ŞOK! İmamoğlu'nun o hamlesi tüm dengeleri değiştirdi! Mahkeme başkanından flaş karar!</description>
     </item>
   </channel>
 </rss>
