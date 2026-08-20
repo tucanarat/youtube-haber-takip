@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 12:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 12:40:34 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: DEM Parti Eş Genel Başkanı Tülay Hatimoğulları, Silivri’de açıklama yapıyor / İstanbul #Canlı</title>
+      <link>https://www.youtube.com/watch?v=yulwO3gIWwU</link>
+      <guid isPermaLink="false">yulwO3gIWwU</guid>
+      <pubDate>Thu, 20 Aug 2026 12:36:56 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: DEM Parti Eş Genel Başkanı Tülay Hatimoğulları, Silivri’de açıklama yapıyor / İstanbul #Canlı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: ÖCALAN İÇİN BOMBA KARAR! İmralı'nın Kapıları Açılıyor! Yeni Statüsü Belli Oldu</title>
+      <link>https://www.youtube.com/watch?v=6P7fuBYw3gw</link>
+      <guid isPermaLink="false">6P7fuBYw3gw</guid>
+      <pubDate>Thu, 20 Aug 2026 12:35:14 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: ÖCALAN İÇİN BOMBA KARAR! İmralı'nın Kapıları Açılıyor! Yeni Statüsü Belli Oldu</description>
+    </item>
     <item>
       <title>Halk TV: DEM Parti Eş Genel Başkanı Tülay Hatimoğulları, Silivri’de Açıklama Yaptı! (20 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=D8I8zq15aTE</link>
@@ -83,13 +97,6 @@
       <guid isPermaLink="false">SnYvUQAJLy0</guid>
       <pubDate>Thu, 20 Aug 2026 11:50:21 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YATIRIMCILAR İZLEMEDEN GEÇMESİN! Altın iyice uçtu, yıl sonu o seviye görülebilir! Piyasalar yanıyor!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: DEM Parti Eş Genel Başkanı Tülay Hatimoğulları, Silivri’de açıklama yapıyor / İstanbul #Canlı</title>
-      <link>https://www.youtube.com/watch?v=yulwO3gIWwU</link>
-      <guid isPermaLink="false">yulwO3gIWwU</guid>
-      <pubDate>Thu, 20 Aug 2026 11:46:20 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: DEM Parti Eş Genel Başkanı Tülay Hatimoğulları, Silivri’de açıklama yapıyor / İstanbul #Canlı</description>
     </item>
     <item>
       <title>Tele2 Haber: "Kılıçdaroğlu Vatan Haini!" Tepkisini Eş Yorumladı! "Önce Kendisine Destek Veren Gazileri Dinlesin!"</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">KP29J22BWOM</guid>
       <pubDate>Thu, 20 Aug 2026 10:17:38 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Güller, Kalaycıoğlu, Solmaztürk ve Solakoğlu ile Türkiye'nin Yönü (20.08.26)</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Murat Taylan ile Haber-Yorum (20.08.2026)</title>
-      <link>https://www.youtube.com/watch?v=1dEzNyJ6vAw</link>
-      <guid isPermaLink="false">1dEzNyJ6vAw</guid>
-      <pubDate>Thu, 20 Aug 2026 10:15:32 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Murat Taylan ile Haber-Yorum (20.08.2026)</description>
     </item>
   </channel>
 </rss>
