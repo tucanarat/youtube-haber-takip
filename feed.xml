@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 11:40:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 11:45:30 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: "Kılıçdaroğlu Vatan Haini!" Tepkisini Eş Yorumladı! "Önce Kendisine Destek Veren Gazileri Dinlesin!"</title>
+      <link>https://www.youtube.com/watch?v=_YW03s-yRRM</link>
+      <guid isPermaLink="false">_YW03s-yRRM</guid>
+      <pubDate>Thu, 20 Aug 2026 11:45:00 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "Kılıçdaroğlu Vatan Haini!" Tepkisini Eş Yorumladı! "Önce Kendisine Destek Veren Gazileri Dinlesin!"</description>
+    </item>
     <item>
       <title>Halk TV: BAHÇELİ'DEN KULİSLERİ SALLAYAN ÇIKIŞ! Seçim düğmesine basıldı mı? Ankara bu sözleri konuşuyor!</title>
       <link>https://www.youtube.com/watch?v=B0cnRjM_NPc</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">eVLB6C5kg-g</guid>
       <pubDate>Thu, 20 Aug 2026 09:30:29 +0000</pubDate>
       <description>Halk TV kanalından yeni video: AZİZ İHSAN AKTAŞ SALONA GİRDİ, SİLİVRİ AYAKTA! Gözler savunmaya kilitlendi! Gamze Altunay aktardı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Menzil, Süleymancılar, Furkancılar... Saygı Öztürk Tarikatların Gizli Dosyalarını Açtı!</title>
-      <link>https://www.youtube.com/watch?v=Iu2p_nEu-RA</link>
-      <guid isPermaLink="false">Iu2p_nEu-RA</guid>
-      <pubDate>Thu, 20 Aug 2026 09:30:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Menzil, Süleymancılar, Furkancılar... Saygı Öztürk Tarikatların Gizli Dosyalarını Açtı!</description>
     </item>
   </channel>
 </rss>
