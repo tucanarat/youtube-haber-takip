@@ -6,13 +6,34 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 13:25:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 13:30:42 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: AYLİN NAZLIKAYA BAKANLIK ÖNÜNDEN MAHİNUR ÖZDEMİR GÖKTAŞ'A SESLENDİ!</title>
+      <link>https://www.youtube.com/shorts/NBVQJS3ZpHA</link>
+      <guid isPermaLink="false">NBVQJS3ZpHA</guid>
+      <pubDate>Thu, 20 Aug 2026 13:29:59 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: AYLİN NAZLIKAYA BAKANLIK ÖNÜNDEN MAHİNUR ÖZDEMİR GÖKTAŞ'A SESLENDİ!</description>
+    </item>
+    <item>
+      <title>Halk TV: DOSYAYI AÇTI, AKP BİRBİRİNE GİRER! Ümit Özdağ'ın sözleri salona buz kestirdi! Kaçacak yer bırakmaz!</title>
+      <link>https://www.youtube.com/watch?v=Ro4_-Y5M45A</link>
+      <guid isPermaLink="false">Ro4_-Y5M45A</guid>
+      <pubDate>Thu, 20 Aug 2026 13:20:04 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: DOSYAYI AÇTI, AKP BİRBİRİNE GİRER! Ümit Özdağ'ın sözleri salona buz kestirdi! Kaçacak yer bırakmaz!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Er gazi: Benim gibi fakirin çocuğu dağa gider, zenginin çocuğu tezkere alır #shorts</title>
       <link>https://www.youtube.com/shorts/af06WSdP5sM</link>
       <guid isPermaLink="false">af06WSdP5sM</guid>
       <pubDate>Thu, 20 Aug 2026 13:15:15 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Er gazi: Benim gibi fakirin çocuğu dağa gider, zenginin çocuğu tezkere alır #shorts</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Ülkücü başkan Remzi Çayır’dan seçim çıkışı: "Türkiye'nin derhal erken seçime ihtiyacı var"</title>
+      <link>https://www.youtube.com/watch?v=TsX6UIcXJHk</link>
+      <guid isPermaLink="false">TsX6UIcXJHk</guid>
+      <pubDate>Thu, 20 Aug 2026 13:14:46 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Ülkücü başkan Remzi Çayır’dan seçim çıkışı: "Türkiye'nin derhal erken seçime ihtiyacı var"</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Er gazi: Dün gece Uyum Evi’ne alınmadık, kendi evimize bizi almadılar #shorts</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">KU8yY4Nll3o</guid>
       <pubDate>Thu, 20 Aug 2026 11:09:17 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Umut Akdoğan'dan, madencilerin bakanlık önündeki eylemine destek: "Madenci hakkını arıyor"</description>
-    </item>
-    <item>
-      <title>Halk TV: AKP'YE GEÇTİ ATATÜRK'Ü SİLDİ! Mehmet Tezkan'ın AKP'ye topuklayan başkana sözleri gündemi sarsacak!</title>
-      <link>https://www.youtube.com/watch?v=y7W4JmcoV78</link>
-      <guid isPermaLink="false">y7W4JmcoV78</guid>
-      <pubDate>Thu, 20 Aug 2026 11:06:00 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: AKP'YE GEÇTİ ATATÜRK'Ü SİLDİ! Mehmet Tezkan'ın AKP'ye topuklayan başkana sözleri gündemi sarsacak!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: #CANLI İBB Davasında 68. gün! “Bu telefon beni 11 ay oğlumdan ayırdı”</title>
-      <link>https://www.youtube.com/watch?v=ywL5OJ_1nEg</link>
-      <guid isPermaLink="false">ywL5OJ_1nEg</guid>
-      <pubDate>Thu, 20 Aug 2026 11:03:56 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI İBB Davasında 68. gün! “Bu telefon beni 11 ay oğlumdan ayırdı”</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Türkiye'nin Sözü | Ekrem Açıkel</title>
-      <link>https://www.youtube.com/watch?v=5EOOnTF9GUI</link>
-      <guid isPermaLink="false">5EOOnTF9GUI</guid>
-      <pubDate>Thu, 20 Aug 2026 11:03:45 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Türkiye'nin Sözü | Ekrem Açıkel</description>
     </item>
   </channel>
 </rss>
