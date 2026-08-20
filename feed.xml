@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 14:55:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 15:01:04 +0000</lastBuildDate>
     <item>
       <title>Halk TV: Gizem Çetin ile Parantez (20 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=_LSi792Py2c</link>
@@ -104,6 +104,13 @@
       <guid isPermaLink="false">z1GNA67xEj4</guid>
       <pubDate>Thu, 20 Aug 2026 14:20:38 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İBB DAVASINDA SAVCIDAN ŞOK TALEP! Muzaffer Beyaz'ın tutuklanma talebi bir kez daha reddedildi!</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Sinem Fıstıkoğlu ile Halk Ana Haber | #HalkTV</title>
+      <link>https://www.youtube.com/watch?v=VksVNeTARhA</link>
+      <guid isPermaLink="false">VksVNeTARhA</guid>
+      <pubDate>Thu, 20 Aug 2026 14:17:02 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Sinem Fıstıkoğlu ile Halk Ana Haber | #HalkTV</description>
     </item>
     <item>
       <title>Tele2 Haber: "DAHA FAZLA DUYMAZDAN GELEMEZ!" Aylin Nazlıkaya Bakanlık önünden Mahinur Özdemir Göktaş'a seslendi!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">JkRov7TaexM</guid>
       <pubDate>Thu, 20 Aug 2026 12:45:55 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Sezgin Tanrıkulu: Pazarda yurttaşlarımız alışveriş yapamıyor. Esnaf da aldığını satamıyor!</description>
-    </item>
-    <item>
-      <title>Halk TV: Türkiye’ye veda vakti: Gurbetçilerin dönüş yolculuğu sürüyor!</title>
-      <link>https://www.youtube.com/shorts/QaQ_gUl5GZ8</link>
-      <guid isPermaLink="false">QaQ_gUl5GZ8</guid>
-      <pubDate>Thu, 20 Aug 2026 12:45:34 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Türkiye’ye veda vakti: Gurbetçilerin dönüş yolculuğu sürüyor!</description>
     </item>
   </channel>
 </rss>
