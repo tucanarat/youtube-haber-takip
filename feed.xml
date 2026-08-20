@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 22:20:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 22:25:29 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Anahtar Parti Genel Başkanı Yavuz Ağıralioğlu, basın toplantısı düzenliyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=JsjYlPOPww0</link>
+      <guid isPermaLink="false">JsjYlPOPww0</guid>
+      <pubDate>Thu, 20 Aug 2026 22:10:43 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Anahtar Parti Genel Başkanı Yavuz Ağıralioğlu, basın toplantısı düzenliyor #Canlı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: #CANLI S Raporu | Dilan Polat</title>
       <link>https://www.youtube.com/watch?v=C-8D5qndArc</link>
@@ -267,11 +274,11 @@
       <description>Tele2 Haber kanalından yeni video: Engin Solakoğlu'ndan çarpıcı 'Daron Acemoğlu ve Öcalan' yorumu: "İKİSİ DE DELİ SAÇMASI"</description>
     </item>
     <item>
-      <title>Tele2 Haber: Öcalan'ın rolü!  Murat Taylan ile Haber-Yorum (20.08.26)</title>
+      <title>Tele2 Haber: Öcalan'ın rolü! Murat Taylan ile Haber-Yorum (20.08.26)</title>
       <link>https://www.youtube.com/watch?v=1dEzNyJ6vAw</link>
       <guid isPermaLink="false">1dEzNyJ6vAw</guid>
       <pubDate>Thu, 20 Aug 2026 18:16:11 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Öcalan'ın rolü!  Murat Taylan ile Haber-Yorum (20.08.26)</description>
+      <description>Tele2 Haber kanalından yeni video: Öcalan'ın rolü! Murat Taylan ile Haber-Yorum (20.08.26)</description>
     </item>
     <item>
       <title>Tele2 Haber: Daron Acemoğlu ve The Economist savaşı! Prof. Dr. Ersin Kalaycıoğlu işçi liberalizmine dikkat çekti</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">uzgmx-7SjsM</guid>
       <pubDate>Thu, 20 Aug 2026 17:30:03 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BU SÖZLER MİLYONLARI AĞLATACAK! 85 yaşındaki Ümran teyze, İmamoğlu özlemini gözyaşlarıyla anlattı!</description>
-    </item>
-    <item>
-      <title>Halk TV: İSTANBUL 48 SAATTE 117 KEZ SALLANDI! Adalar açıklarındaki deprem fırtınasına uzman isimden uyarı!</title>
-      <link>https://www.youtube.com/watch?v=G4P6BTI0MC0</link>
-      <guid isPermaLink="false">G4P6BTI0MC0</guid>
-      <pubDate>Thu, 20 Aug 2026 17:15:23 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İSTANBUL 48 SAATTE 117 KEZ SALLANDI! Adalar açıklarındaki deprem fırtınasına uzman isimden uyarı!</description>
     </item>
   </channel>
 </rss>
