@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 03:15:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 03:20:31 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: CHP Sözcüsü Müslim Sarı, MYK gündemiyle ilgili basın açıklaması yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=7D9RVbVvSPI</link>
@@ -34,6 +34,13 @@
       <guid isPermaLink="false">fiEs7WfnG5k</guid>
       <pubDate>Wed, 19 Aug 2026 22:53:40 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Türk Maden İş’e bağlı Doruk Maden işçileri, Çankaya Belediyesi önünde açıklama yapıyor #Canlı</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Süheyla Demir ile Günaydın Türkiye</title>
+      <link>https://www.youtube.com/watch?v=vOsUjDSgRH4</link>
+      <guid isPermaLink="false">vOsUjDSgRH4</guid>
+      <pubDate>Wed, 19 Aug 2026 22:46:14 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Süheyla Demir ile Günaydın Türkiye</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Sözcü Ana Haber | Serap Belovacıklı | 20 Ağustos</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">qWRcopLqS80</guid>
       <pubDate>Wed, 19 Aug 2026 17:45:14 +0000</pubDate>
       <description>Halk TV kanalından yeni video: O GÖRÜNTÜLER ORTAYA ÇIKTI! Disipline sevk edilen CHP’li meclis üyesi AKP’nin kutlamasında!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: İmamoğlu'ndan sert tepki! İBB davası için kritik tarih! Seçim mi düşünülüyor? Kayhan Ayhan aktarıyor</title>
-      <link>https://www.youtube.com/watch?v=7BeoL-KioUY</link>
-      <guid isPermaLink="false">7BeoL-KioUY</guid>
-      <pubDate>Wed, 19 Aug 2026 17:45:11 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: İmamoğlu'ndan sert tepki! İBB davası için kritik tarih! Seçim mi düşünülüyor? Kayhan Ayhan aktarıyor</description>
     </item>
   </channel>
 </rss>
