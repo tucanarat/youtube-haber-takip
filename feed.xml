@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 15:15:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 15:20:14 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Ahmet Şık AKP panosuna sprey boyayla yazdı: Yargılanacaksınız #ARŞİV</title>
+      <link>https://www.youtube.com/shorts/v-j174ER0AE</link>
+      <guid isPermaLink="false">v-j174ER0AE</guid>
+      <pubDate>Thu, 20 Aug 2026 15:15:31 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Ahmet Şık AKP panosuna sprey boyayla yazdı: Yargılanacaksınız #ARŞİV</description>
+    </item>
     <item>
       <title>Halk TV: Okulları kana bulayan katliamlar sonrası flaş adım! İşte milyonları ilgilendiren o düzenlemeler!</title>
       <link>https://www.youtube.com/watch?v=t8CmGyGaRoA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">cILEXpYRAiY</guid>
       <pubDate>Thu, 20 Aug 2026 12:51:04 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Parti Grup Başkanvekili Murat Emir Madencilerle Birlikte Açıklama Yapıyor! (20 Ağustos 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: BU TEPKİ ANKARA'YI SALLAR! YENİ Partili Umut Akdoğan'dan madenciler için görülmemiş protesto!</title>
-      <link>https://www.youtube.com/watch?v=Qcf-GGBCmg4</link>
-      <guid isPermaLink="false">Qcf-GGBCmg4</guid>
-      <pubDate>Thu, 20 Aug 2026 12:50:05 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BU TEPKİ ANKARA'YI SALLAR! YENİ Partili Umut Akdoğan'dan madenciler için görülmemiş protesto!</description>
     </item>
   </channel>
 </rss>
