@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 13:05:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 13:10:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ÖZGÜR ÖZEL O TARİHTE DÜĞMEYE BASIYOR! Ankara'da ortalık yangın yeri! YENİ Parti'de bir ilk olacak!</title>
+      <link>https://www.youtube.com/watch?v=FXlLVvwtAZw</link>
+      <guid isPermaLink="false">FXlLVvwtAZw</guid>
+      <pubDate>Thu, 20 Aug 2026 13:05:06 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ÖZGÜR ÖZEL O TARİHTE DÜĞMEYE BASIYOR! Ankara'da ortalık yangın yeri! YENİ Parti'de bir ilk olacak!</description>
+    </item>
     <item>
       <title>Halk TV: İrem Sansak ile Haber Masası (20 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=kCbD15PL3AM</link>
       <guid isPermaLink="false">kCbD15PL3AM</guid>
       <pubDate>Thu, 20 Aug 2026 13:01:40 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İrem Sansak ile Haber Masası (20 Ağustos 2026)</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Türkiye'den Netanyahu'yu Titretecek Cevap! Suriye Kaynıyor! İşte Ebu Zuhur Gerçekleri</title>
+      <link>https://www.youtube.com/watch?v=uJxVqbtjn00</link>
+      <guid isPermaLink="false">uJxVqbtjn00</guid>
+      <pubDate>Thu, 20 Aug 2026 13:00:23 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Türkiye'den Netanyahu'yu Titretecek Cevap! Suriye Kaynıyor! İşte Ebu Zuhur Gerçekleri</description>
     </item>
     <item>
       <title>Tele2 Haber: "NEDEN EVİNİZDE SAKLADINIZ?" Ekrem İmamoğlu'ndan, itirafçıya çok kritik 'TELEFON' sorusu!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">VeCmfSjYeto</guid>
       <pubDate>Thu, 20 Aug 2026 10:46:35 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Er şehit yakınları ve er gaziler Aile ve Sosyal Hizmetler Bakanlığı önünde açıklama yapıyor</description>
-    </item>
-    <item>
-      <title>Halk TV: Er Şehit Yakınları Ve Er Gaziler Aile Ve Sosyal Hizmetler Bakanlığı Önünde Açıklama Yaptı!</title>
-      <link>https://www.youtube.com/watch?v=yXwfGPTjiWg</link>
-      <guid isPermaLink="false">yXwfGPTjiWg</guid>
-      <pubDate>Thu, 20 Aug 2026 10:45:53 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Er Şehit Yakınları Ve Er Gaziler Aile Ve Sosyal Hizmetler Bakanlığı Önünde Açıklama Yaptı!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Er şehit yakınları ve er gaziler, Aile ve Sosyal Hizmetler Bakanlığı önünde açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=0c-L6YDv9D4</link>
-      <guid isPermaLink="false">0c-L6YDv9D4</guid>
-      <pubDate>Thu, 20 Aug 2026 10:45:44 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Er şehit yakınları ve er gaziler, Aile ve Sosyal Hizmetler Bakanlığı önünde açıklama yapıyor #Canlı</description>
     </item>
   </channel>
 </rss>
