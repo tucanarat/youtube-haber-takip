@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 18:01:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 18:05:23 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: Ümit Özdağ'dan Yeni İttifak Çağrısı! Müsavat Dervişoğlu Düğmeye Bastı! Erdoğan'ın Uykuları Kaçacak</title>
       <link>https://www.youtube.com/watch?v=uDN1w2zKZD0</link>
       <guid isPermaLink="false">uDN1w2zKZD0</guid>
       <pubDate>Thu, 20 Aug 2026 18:00:17 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Ümit Özdağ'dan Yeni İttifak Çağrısı! Müsavat Dervişoğlu Düğmeye Bastı! Erdoğan'ın Uykuları Kaçacak</description>
+    </item>
+    <item>
+      <title>Halk TV: BUTLANA ŞOK ETKİSİ YARATACAK SÖZLER! Tutuklu Belediye Başkanı’ndan Kılıçdaroğlu’na ‘İşgalci’ çıkışı!</title>
+      <link>https://www.youtube.com/watch?v=nsjt5XRmTa0</link>
+      <guid isPermaLink="false">nsjt5XRmTa0</guid>
+      <pubDate>Thu, 20 Aug 2026 18:00:10 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BUTLANA ŞOK ETKİSİ YARATACAK SÖZLER! Tutuklu Belediye Başkanı’ndan Kılıçdaroğlu’na ‘İşgalci’ çıkışı!</description>
     </item>
     <item>
       <title>Tele2 Haber: Madencilere polisten sert müdahale! 100 kişi gözaltına alındı!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">L_L6NVH1OfQ</guid>
       <pubDate>Thu, 20 Aug 2026 14:45:01 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Tarafsızlığın, Gerçeğin, Haberin Merkezi: Sözcü Televizyonu!</description>
-    </item>
-    <item>
-      <title>Halk TV: Güvenlik soruşturması gerekçesiyle işten çıkarılan İBB Ağaç AŞ işçileri 10 gündür açlık grevinde!</title>
-      <link>https://www.youtube.com/shorts/XjhLvAk_F_0</link>
-      <guid isPermaLink="false">XjhLvAk_F_0</guid>
-      <pubDate>Thu, 20 Aug 2026 14:42:53 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Güvenlik soruşturması gerekçesiyle işten çıkarılan İBB Ağaç AŞ işçileri 10 gündür açlık grevinde!</description>
     </item>
   </channel>
 </rss>
