@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 15:10:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 15:15:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Okulları kana bulayan katliamlar sonrası flaş adım! İşte milyonları ilgilendiren o düzenlemeler!</title>
+      <link>https://www.youtube.com/watch?v=t8CmGyGaRoA</link>
+      <guid isPermaLink="false">t8CmGyGaRoA</guid>
+      <pubDate>Thu, 20 Aug 2026 15:05:19 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Okulları kana bulayan katliamlar sonrası flaş adım! İşte milyonları ilgilendiren o düzenlemeler!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Barış Atay'dan AKP sıralarına: Çocuklarınız sizden utanacak! #ARŞİV</title>
       <link>https://www.youtube.com/shorts/goHRbc70kak</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Qcf-GGBCmg4</guid>
       <pubDate>Thu, 20 Aug 2026 12:50:05 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BU TEPKİ ANKARA'YI SALLAR! YENİ Partili Umut Akdoğan'dan madenciler için görülmemiş protesto!</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Partili Tanrıkulu'nun vatandaşla güldüren sohbeti! "Siz de benim gibi atom karıncasınız!"</title>
-      <link>https://www.youtube.com/shorts/aJo7poCDOX8</link>
-      <guid isPermaLink="false">aJo7poCDOX8</guid>
-      <pubDate>Thu, 20 Aug 2026 12:48:24 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Partili Tanrıkulu'nun vatandaşla güldüren sohbeti! "Siz de benim gibi atom karıncasınız!"</description>
     </item>
   </channel>
 </rss>
