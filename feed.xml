@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 16:30:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 16:35:26 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: NETANYAHU'DAN KÜSTAH TÜRKİYE TEHDİDİ! Sınırda Sıcak Çatışmaya Ramak Kaldı</title>
+      <link>https://www.youtube.com/watch?v=bmzVBFaFk6w</link>
+      <guid isPermaLink="false">bmzVBFaFk6w</guid>
+      <pubDate>Thu, 20 Aug 2026 16:30:29 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: NETANYAHU'DAN KÜSTAH TÜRKİYE TEHDİDİ! Sınırda Sıcak Çatışmaya Ramak Kaldı</description>
+    </item>
     <item>
       <title>Halk TV: SON DAKİKA! Çiğli Belediye Başkanı Onur Emrah Yıldız'IN makam aracına silahlı saldırı!</title>
       <link>https://www.youtube.com/watch?v=VXj5ZalLoiM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">XBKXMXJ40eQ</guid>
       <pubDate>Thu, 20 Aug 2026 13:32:51 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Dilek İmamoğlu'ndan çarpıcı "barış" çıkışı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Menzil'i Süleymancılar Korkusu Sardı! 'Kayıp Altın' Depremi! Kardeşlerin Taht ve Para Kavgası</title>
-      <link>https://www.youtube.com/watch?v=VsJVTwzlFjk</link>
-      <guid isPermaLink="false">VsJVTwzlFjk</guid>
-      <pubDate>Thu, 20 Aug 2026 13:30:27 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Menzil'i Süleymancılar Korkusu Sardı! 'Kayıp Altın' Depremi! Kardeşlerin Taht ve Para Kavgası</description>
     </item>
   </channel>
 </rss>
