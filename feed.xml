@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 10:20:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 10:25:27 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Cemal Enginyurt'tan Orhan Çerkez'e sert sözler: "İlk seçimde seni de AKP'yi de sandığa gömeceğiz"</title>
+      <link>https://www.youtube.com/shorts/rAsl9DdiFlA</link>
+      <guid isPermaLink="false">rAsl9DdiFlA</guid>
+      <pubDate>Thu, 20 Aug 2026 10:22:31 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Cemal Enginyurt'tan Orhan Çerkez'e sert sözler: "İlk seçimde seni de AKP'yi de sandığa gömeceğiz"</description>
+    </item>
     <item>
       <title>Halk TV: HULUSİ AKAR BU SÖZLERİN ALTINDA EZİLİR! Mehmet Tezkan'dan uyku uyutmayacak sorular! Ortalık kızışır!</title>
       <link>https://www.youtube.com/watch?v=9wA55DoRmYs</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">bJ6k4kGRR34</guid>
       <pubDate>Thu, 20 Aug 2026 07:38:00 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: AKP'nin 'altın yılları'... Hapishane nüfusu patladı</description>
-    </item>
-    <item>
-      <title>Halk TV: TRUMP'IN BÜYÜK OYUNU KENDİSİNİ VURDU! İran'dan bir türlü kurtulamıyor! ABD'nin planları altüst oldu!</title>
-      <link>https://www.youtube.com/watch?v=EK59M8HWjCg</link>
-      <guid isPermaLink="false">EK59M8HWjCg</guid>
-      <pubDate>Thu, 20 Aug 2026 07:35:25 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: TRUMP'IN BÜYÜK OYUNU KENDİSİNİ VURDU! İran'dan bir türlü kurtulamıyor! ABD'nin planları altüst oldu!</description>
     </item>
   </channel>
 </rss>
