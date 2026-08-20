@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 15:50:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 15:54:14 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: İçinizden Biri | Ekrem Açıkel | 20 Ağustos</title>
+      <link>https://www.youtube.com/watch?v=JyPnC0PdCGA</link>
+      <guid isPermaLink="false">JyPnC0PdCGA</guid>
+      <pubDate>Thu, 20 Aug 2026 15:51:43 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İçinizden Biri | Ekrem Açıkel | 20 Ağustos</description>
+    </item>
     <item>
       <title>Halk TV: BUTLANCILAR GENEL MERKEZE TIKILI KALDI! YENİ Parti'de felç edecek o süreç işliyor! Zaman daralıyor!</title>
       <link>https://www.youtube.com/watch?v=DogOJdxuYro</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">DxwBezg1vVs</guid>
       <pubDate>Thu, 20 Aug 2026 13:14:27 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Er gazi: Dün gece Uyum Evi’ne alınmadık, kendi evimize bizi almadılar #shorts</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Enerji ve Tabii Kaynaklar Bakanlığı önünde haklarını arayan madenciler, kıyafetlerini attı #shorts</title>
-      <link>https://www.youtube.com/shorts/nIZ-3J4bZks</link>
-      <guid isPermaLink="false">nIZ-3J4bZks</guid>
-      <pubDate>Thu, 20 Aug 2026 13:13:02 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Enerji ve Tabii Kaynaklar Bakanlığı önünde haklarını arayan madenciler, kıyafetlerini attı #shorts</description>
     </item>
   </channel>
 </rss>
