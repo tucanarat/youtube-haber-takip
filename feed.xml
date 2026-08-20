@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 21:10:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 21:15:28 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Türkiye'nin Sözü | Ekrem Açıkel | 20 Ağustos</title>
+      <link>https://www.youtube.com/watch?v=5EOOnTF9GUI</link>
+      <guid isPermaLink="false">5EOOnTF9GUI</guid>
+      <pubDate>Thu, 20 Aug 2026 21:12:21 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Türkiye'nin Sözü | Ekrem Açıkel | 20 Ağustos</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Uğur Poyraz'dan Mansur Yavaş ve Özgür Özel Çıkışı! AKP'nin Planını İfşa Etti</title>
       <link>https://www.youtube.com/watch?v=3hAAeF0btwU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">b5XOHmh6KjE</guid>
       <pubDate>Thu, 20 Aug 2026 16:51:44 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | Gökmen Karadağ ile Açıkça | #HalkTV</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: AKP teşkilatlarının "Öcalan" hazırlığı! Murat Taylan 'süreç bilgilendirme notuna' dikkat çekti!</title>
-      <link>https://www.youtube.com/watch?v=MevQf1c55sU</link>
-      <guid isPermaLink="false">MevQf1c55sU</guid>
-      <pubDate>Thu, 20 Aug 2026 16:50:06 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: AKP teşkilatlarının "Öcalan" hazırlığı! Murat Taylan 'süreç bilgilendirme notuna' dikkat çekti!</description>
     </item>
   </channel>
 </rss>
