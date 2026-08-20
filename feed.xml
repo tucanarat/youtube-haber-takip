@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 21:30:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 21:35:25 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: CHP Genel Başkan Yardımcısı Necdet Saraç, basın toplantısı düzenliyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=Nk5zpdXt7Ek</link>
+      <guid isPermaLink="false">Nk5zpdXt7Ek</guid>
+      <pubDate>Thu, 20 Aug 2026 21:33:10 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkan Yardımcısı Necdet Saraç, basın toplantısı düzenliyor #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: SICAK DAKİKALAR! İBB davası devam ediyor! Aziz İhsan Aktaş savunmasını yapıyor! İşte detaylar!</title>
       <link>https://www.youtube.com/watch?v=UImDJuHI658</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">buFUK5b_KSA</guid>
       <pubDate>Thu, 20 Aug 2026 16:58:05 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Sözcü Ana Haber | Serap Belovacıklı | 20 Ağustos</description>
-    </item>
-    <item>
-      <title>Halk TV: Çiğli Belediye Başkanı'nın makam aracına yapılan silahlı saldırının kamera görüntüsü ortaya çıktı!</title>
-      <link>https://www.youtube.com/shorts/4hQZEEBLcnA</link>
-      <guid isPermaLink="false">4hQZEEBLcnA</guid>
-      <pubDate>Thu, 20 Aug 2026 16:57:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Çiğli Belediye Başkanı'nın makam aracına yapılan silahlı saldırının kamera görüntüsü ortaya çıktı!</description>
     </item>
   </channel>
 </rss>
