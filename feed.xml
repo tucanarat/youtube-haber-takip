@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 13:30:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 13:35:27 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Dilek İmamoğlu'ndan çarpıcı "barış" çıkışı!</title>
+      <link>https://www.youtube.com/shorts/XBKXMXJ40eQ</link>
+      <guid isPermaLink="false">XBKXMXJ40eQ</guid>
+      <pubDate>Thu, 20 Aug 2026 13:32:51 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Dilek İmamoğlu'ndan çarpıcı "barış" çıkışı!</description>
+    </item>
     <item>
       <title>Tele2 Haber: AYLİN NAZLIKAYA BAKANLIK ÖNÜNDEN MAHİNUR ÖZDEMİR GÖKTAŞ'A SESLENDİ!</title>
       <link>https://www.youtube.com/shorts/NBVQJS3ZpHA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">0HQyybVLnlg</guid>
       <pubDate>Thu, 20 Aug 2026 11:15:11 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Sertaç Eş AKP'nin YENİ Parti Algılarını Başlarına Yıktı! "SORUNLARIN SORUMLUSU ERDOĞAN'IN PARTİSİ!"</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Umut Akdoğan'dan, madencilerin bakanlık önündeki eylemine destek: "Madenci hakkını arıyor"</title>
-      <link>https://www.youtube.com/watch?v=KU8yY4Nll3o</link>
-      <guid isPermaLink="false">KU8yY4Nll3o</guid>
-      <pubDate>Thu, 20 Aug 2026 11:09:17 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Umut Akdoğan'dan, madencilerin bakanlık önündeki eylemine destek: "Madenci hakkını arıyor"</description>
     </item>
   </channel>
 </rss>
