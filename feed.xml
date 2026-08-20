@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 22:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 22:05:22 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: #CANLI S Raporu | Dilan Polat</title>
+      <link>https://www.youtube.com/watch?v=C-8D5qndArc</link>
+      <guid isPermaLink="false">C-8D5qndArc</guid>
+      <pubDate>Thu, 20 Aug 2026 22:01:52 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: #CANLI S Raporu | Dilan Polat</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: SÖZCÜ TV DUYURDU, BAKANLIK HAREKETE GEÇTİ! 86 Yaşındaki Annenin Dramı Bitti</title>
+      <link>https://www.youtube.com/watch?v=atdOBC4obmk</link>
+      <guid isPermaLink="false">atdOBC4obmk</guid>
+      <pubDate>Thu, 20 Aug 2026 22:00:18 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: SÖZCÜ TV DUYURDU, BAKANLIK HAREKETE GEÇTİ! 86 Yaşındaki Annenin Dramı Bitti</description>
+    </item>
     <item>
       <title>Halk TV: Madenciler bakanlık önünde gözaltına alındı! Basın mensuplarının darp edildiği iddiası! #shorts</title>
       <link>https://www.youtube.com/shorts/UsoDOSdk5PM</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">G4P6BTI0MC0</guid>
       <pubDate>Thu, 20 Aug 2026 17:15:23 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İSTANBUL 48 SAATTE 117 KEZ SALLANDI! Adalar açıklarındaki deprem fırtınasına uzman isimden uyarı!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: İsrail, Suriye'deki üssü vurdu! Türk askeri var mıydı? MSB'den açıklama geldi!</title>
-      <link>https://www.youtube.com/watch?v=2C6vKaFnOMY</link>
-      <guid isPermaLink="false">2C6vKaFnOMY</guid>
-      <pubDate>Thu, 20 Aug 2026 17:15:00 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: İsrail, Suriye'deki üssü vurdu! Türk askeri var mıydı? MSB'den açıklama geldi!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Bir köpeğin yavru kedileri emzirdiği görüntü yürekleri ısıttı!</title>
-      <link>https://www.youtube.com/shorts/jOxkcmXoVH8</link>
-      <guid isPermaLink="false">jOxkcmXoVH8</guid>
-      <pubDate>Thu, 20 Aug 2026 17:12:18 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Bir köpeğin yavru kedileri emzirdiği görüntü yürekleri ısıttı!</description>
     </item>
   </channel>
 </rss>
