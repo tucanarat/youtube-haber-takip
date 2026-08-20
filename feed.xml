@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 13:50:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 13:55:25 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ÖZGÜR ÖZEL DÜĞMEYE BASIYOR! Erdoğan'ın memleketini ayağa kaldıracak hamle yolda! İşte detaylar!</title>
+      <link>https://www.youtube.com/watch?v=THuhGzNYzNk</link>
+      <guid isPermaLink="false">THuhGzNYzNk</guid>
+      <pubDate>Thu, 20 Aug 2026 13:50:26 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ÖZGÜR ÖZEL DÜĞMEYE BASIYOR! Erdoğan'ın memleketini ayağa kaldıracak hamle yolda! İşte detaylar!</description>
+    </item>
     <item>
       <title>Halk TV: "TEK HEDEFİ CHP'Yİ KÜÇÜLTMEK!" Kılıçdaroğlu bu sözlerin altından kalkamaz! Küçükşahin ateş püskürdü!</title>
       <link>https://www.youtube.com/watch?v=pYEFgRw3Y9M</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">UHPcPNY2dwU</guid>
       <pubDate>Thu, 20 Aug 2026 11:20:29 +0000</pubDate>
       <description>Halk TV kanalından yeni video: GÖZLER ÖZGÜR ÖZEL'DE! İmralı'nın 'İmamoğlu' çıkışına cevap verecek mi? Mehmet Tezkan'dan flaş sözler</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Katil Netanyahu'dan Türkiye'ye Tehdit! "Mesajımızı Duymadılar Daha İyi Anlattık"</title>
-      <link>https://www.youtube.com/watch?v=NyKVLQGCLUQ</link>
-      <guid isPermaLink="false">NyKVLQGCLUQ</guid>
-      <pubDate>Thu, 20 Aug 2026 11:20:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Katil Netanyahu'dan Türkiye'ye Tehdit! "Mesajımızı Duymadılar Daha İyi Anlattık"</description>
     </item>
   </channel>
 </rss>
