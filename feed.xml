@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 23:00:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 23:05:23 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: İçinizden Biri | Ekrem Açıkel</title>
+      <link>https://www.youtube.com/watch?v=6Zfqghv7iG8</link>
+      <guid isPermaLink="false">6Zfqghv7iG8</guid>
+      <pubDate>Thu, 20 Aug 2026 23:01:24 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İçinizden Biri | Ekrem Açıkel</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İş Çıkışı | Burak Tatari</title>
+      <link>https://www.youtube.com/watch?v=4tCt8iDLW98</link>
+      <guid isPermaLink="false">4tCt8iDLW98</guid>
+      <pubDate>Thu, 20 Aug 2026 23:00:32 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İş Çıkışı | Burak Tatari</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: AKP'nin Ekrem İmamoğlu Planı Buymuş! Uğur Poyraz Neler Anlattı Neler!</title>
+      <link>https://www.youtube.com/watch?v=1dqo5EMgZ6k</link>
+      <guid isPermaLink="false">1dqo5EMgZ6k</guid>
+      <pubDate>Thu, 20 Aug 2026 23:00:15 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: AKP'nin Ekrem İmamoğlu Planı Buymuş! Uğur Poyraz Neler Anlattı Neler!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Haber Bülteni | Serap Belovacıklı</title>
       <link>https://www.youtube.com/watch?v=12q9tOjS01o</link>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">rpb_TG7-Xq0</guid>
       <pubDate>Thu, 20 Aug 2026 18:15:03 +0000</pubDate>
       <description>Halk TV kanalından yeni video: TİCARET BAKANI DUT YEMİŞ BÜLBÜLE DÖNDÜ! Bahçıvan o sözleriyle şoke etti! Bu anlar çok konuşulur!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Ümit Özdağ'dan Yeni İttifak Çağrısı! Müsavat Dervişoğlu Düğmeye Bastı! Erdoğan'ın Uykuları Kaçacak</title>
-      <link>https://www.youtube.com/watch?v=uDN1w2zKZD0</link>
-      <guid isPermaLink="false">uDN1w2zKZD0</guid>
-      <pubDate>Thu, 20 Aug 2026 18:00:17 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Ümit Özdağ'dan Yeni İttifak Çağrısı! Müsavat Dervişoğlu Düğmeye Bastı! Erdoğan'ın Uykuları Kaçacak</description>
-    </item>
-    <item>
-      <title>Halk TV: BUTLANA ŞOK ETKİSİ YARATACAK SÖZLER! Tutuklu Belediye Başkanı’ndan Kılıçdaroğlu’na ‘İşgalci’ çıkışı!</title>
-      <link>https://www.youtube.com/watch?v=nsjt5XRmTa0</link>
-      <guid isPermaLink="false">nsjt5XRmTa0</guid>
-      <pubDate>Thu, 20 Aug 2026 18:00:10 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BUTLANA ŞOK ETKİSİ YARATACAK SÖZLER! Tutuklu Belediye Başkanı’ndan Kılıçdaroğlu’na ‘İşgalci’ çıkışı!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Madencilere polisten sert müdahale! 100 kişi gözaltına alındı!</title>
-      <link>https://www.youtube.com/shorts/AS54nVyyDAw</link>
-      <guid isPermaLink="false">AS54nVyyDAw</guid>
-      <pubDate>Thu, 20 Aug 2026 18:00:02 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Madencilere polisten sert müdahale! 100 kişi gözaltına alındı!</description>
     </item>
   </channel>
 </rss>
