@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 19:15:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 19:20:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: DEM Partili Hatimoğulları gazetecinin 'İmralı' sorusuna öyle bir yanıt verdi ki... Gündemi sarsacak!</title>
+      <link>https://www.youtube.com/watch?v=d2Eg11wyH0k</link>
+      <guid isPermaLink="false">d2Eg11wyH0k</guid>
+      <pubDate>Thu, 20 Aug 2026 19:15:27 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: DEM Partili Hatimoğulları gazetecinin 'İmralı' sorusuna öyle bir yanıt verdi ki... Gündemi sarsacak!</description>
+    </item>
     <item>
       <title>Halk TV: Cemal Enginyurt: Devlet okuluna kayıt için istenen paralar can yakıyor! #shorts</title>
       <link>https://www.youtube.com/shorts/_w-W3-9e6yM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">uKYOLAPQMy4</guid>
       <pubDate>Thu, 20 Aug 2026 15:39:55 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Onur Öncü ile Sabah Pusulası (21.08.26)</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Zeynel Lüle ile Ankara Günlüğü | Konuk: Saruhan Oluç (21.08.26)</title>
-      <link>https://www.youtube.com/watch?v=JhYp-DHgq5c</link>
-      <guid isPermaLink="false">JhYp-DHgq5c</guid>
-      <pubDate>Thu, 20 Aug 2026 15:35:55 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Zeynel Lüle ile Ankara Günlüğü | Konuk: Saruhan Oluç (21.08.26)</description>
     </item>
   </channel>
 </rss>
