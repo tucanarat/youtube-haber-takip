@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 12:05:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 12:10:35 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI DEM Parti Eş Genel Başkanı Tülay Hatimoğulları, Silivri’de açıklama yapıyor</title>
+      <link>https://www.youtube.com/watch?v=oeKxD-3Mi-I</link>
+      <guid isPermaLink="false">oeKxD-3Mi-I</guid>
+      <pubDate>Thu, 20 Aug 2026 12:10:03 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI DEM Parti Eş Genel Başkanı Tülay Hatimoğulları, Silivri’de açıklama yapıyor</description>
+    </item>
+    <item>
+      <title>Halk TV: CHP'DE YENİ ÇATLAK! Tutuklu başkan Kılıçdaroğlu'na resti çekip istifa etti!</title>
+      <link>https://www.youtube.com/watch?v=I7f3DgoOZUs</link>
+      <guid isPermaLink="false">I7f3DgoOZUs</guid>
+      <pubDate>Thu, 20 Aug 2026 12:05:21 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: CHP'DE YENİ ÇATLAK! Tutuklu başkan Kılıçdaroğlu'na resti çekip istifa etti!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Dilek İmamoğlu Silivri'den seslendi! "Hak, hukuk ve adalet demekten asla vazgeçmeyeceğiz"</title>
       <link>https://www.youtube.com/watch?v=ImdCdDWITI0</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">AfbthLaJCvc</guid>
       <pubDate>Thu, 20 Aug 2026 09:57:09 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Partili Cemal Enginyurt, AKP'ye geçen Eren Ali Bingöl'e olay olacak bir lakap taktı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Sındırgı’daki orman yangını 2’nci gününde kontrol altına alındı!</title>
-      <link>https://www.youtube.com/shorts/1awQQuKLph8</link>
-      <guid isPermaLink="false">1awQQuKLph8</guid>
-      <pubDate>Thu, 20 Aug 2026 09:56:49 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Sındırgı’daki orman yangını 2’nci gününde kontrol altına alındı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Sanatçı Menderes Samancılar'dan, haklarını alabilmek için direnen işçilere destek!</title>
-      <link>https://www.youtube.com/shorts/blkJExsUlMY</link>
-      <guid isPermaLink="false">blkJExsUlMY</guid>
-      <pubDate>Thu, 20 Aug 2026 09:56:29 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Sanatçı Menderes Samancılar'dan, haklarını alabilmek için direnen işçilere destek!</description>
     </item>
   </channel>
 </rss>
