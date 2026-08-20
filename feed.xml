@@ -6,14 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 21:40:35 +0000</lastBuildDate>
-    <item>
-      <title>ANKA Haber Ajansı: CHP Genel Başkan Yardımcısı Necdet Saraç, basın toplantısı düzenliyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=Nk5zpdXt7Ek</link>
-      <guid isPermaLink="false">Nk5zpdXt7Ek</guid>
-      <pubDate>Thu, 20 Aug 2026 21:33:10 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkan Yardımcısı Necdet Saraç, basın toplantısı düzenliyor #Canlı</description>
-    </item>
+    <lastBuildDate>Thu, 20 Aug 2026 21:45:29 +0000</lastBuildDate>
     <item>
       <title>Halk TV: 100 madenci gözaltında! Başaran Aksu ayrı araca konuldu! #shorts</title>
       <link>https://www.youtube.com/shorts/QkqsVIwloUU</link>
@@ -356,6 +349,13 @@
       <guid isPermaLink="false">LFvAdyd43cU</guid>
       <pubDate>Thu, 20 Aug 2026 17:00:00 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (20 Ağustos 2026)</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Sözcü Ana Haber | Serap Belovacıklı | 20 Ağustos</title>
+      <link>https://www.youtube.com/watch?v=buFUK5b_KSA</link>
+      <guid isPermaLink="false">buFUK5b_KSA</guid>
+      <pubDate>Thu, 20 Aug 2026 16:58:05 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Sözcü Ana Haber | Serap Belovacıklı | 20 Ağustos</description>
     </item>
   </channel>
 </rss>
