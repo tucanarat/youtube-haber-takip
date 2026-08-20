@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 12:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 12:05:27 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Dilek İmamoğlu Silivri'den seslendi! "Hak, hukuk ve adalet demekten asla vazgeçmeyeceğiz"</title>
+      <link>https://www.youtube.com/watch?v=ImdCdDWITI0</link>
+      <guid isPermaLink="false">ImdCdDWITI0</guid>
+      <pubDate>Thu, 20 Aug 2026 12:00:15 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Dilek İmamoğlu Silivri'den seslendi! "Hak, hukuk ve adalet demekten asla vazgeçmeyeceğiz"</description>
+    </item>
     <item>
       <title>Tele2 Haber: Öcalan'dan Özgür Özel'e mesaj! I Şehit annesi: Kılıçdaroğlu kim ya! | Ülkü Çoban ile Manşet Ötesi</title>
       <link>https://www.youtube.com/watch?v=FEPYDvFcEmc</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">blkJExsUlMY</guid>
       <pubDate>Thu, 20 Aug 2026 09:56:29 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Sanatçı Menderes Samancılar'dan, haklarını alabilmek için direnen işçilere destek!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Petrol istasyonunda korku dolu anlar! Dev yılan panik yarattı</title>
-      <link>https://www.youtube.com/shorts/aMAc8VJbmeQ</link>
-      <guid isPermaLink="false">aMAc8VJbmeQ</guid>
-      <pubDate>Thu, 20 Aug 2026 09:55:29 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Petrol istasyonunda korku dolu anlar! Dev yılan panik yarattı</description>
     </item>
   </channel>
 </rss>
