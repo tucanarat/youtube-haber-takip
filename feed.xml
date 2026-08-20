@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 10:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 10:20:31 +0000</lastBuildDate>
     <item>
       <title>Halk TV: HULUSİ AKAR BU SÖZLERİN ALTINDA EZİLİR! Mehmet Tezkan'dan uyku uyutmayacak sorular! Ortalık kızışır!</title>
       <link>https://www.youtube.com/watch?v=9wA55DoRmYs</link>
       <guid isPermaLink="false">9wA55DoRmYs</guid>
       <pubDate>Thu, 20 Aug 2026 10:15:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: HULUSİ AKAR BU SÖZLERİN ALTINDA EZİLİR! Mehmet Tezkan'dan uyku uyutmayacak sorular! Ortalık kızışır!</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Beyoğlu'nda tramvay raydan çıktı: Yolcular tahliye edildi</title>
+      <link>https://www.youtube.com/shorts/Vp3v1z5dmqg</link>
+      <guid isPermaLink="false">Vp3v1z5dmqg</guid>
+      <pubDate>Thu, 20 Aug 2026 10:05:34 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Beyoğlu'nda tramvay raydan çıktı: Yolcular tahliye edildi</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Menzil'in Kirli Çarkı! Gizli Şirket Ağı! Murat Ağırel İfşa Etti! 'PARALEL DEVLET YAPILANMASI!"</title>
@@ -64,11 +71,11 @@
       <description>Cumhuriyet kanalından yeni video: Petrol istasyonunda korku dolu anlar! Dev yılan panik yarattı</description>
     </item>
     <item>
-      <title>Cumhuriyet: #CANLI İBB Davasında 68. gün! “Rüşvet isteseydi kavga ederdik”</title>
+      <title>Cumhuriyet: #CANLI İBB Davasında 68. gün! “Bu telefon beni 11 ay oğlumdan ayırdı”</title>
       <link>https://www.youtube.com/watch?v=ywL5OJ_1nEg</link>
       <guid isPermaLink="false">ywL5OJ_1nEg</guid>
       <pubDate>Thu, 20 Aug 2026 09:54:28 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI İBB Davasında 68. gün! “Rüşvet isteseydi kavga ederdik”</description>
+      <description>Cumhuriyet kanalından yeni video: #CANLI İBB Davasında 68. gün! “Bu telefon beni 11 ay oğlumdan ayırdı”</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Aile Dayanışma Ağı, 42. buluşmasını Silivri’de gerçekleştiriyor  #Canlı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">EK59M8HWjCg</guid>
       <pubDate>Thu, 20 Aug 2026 07:35:25 +0000</pubDate>
       <description>Halk TV kanalından yeni video: TRUMP'IN BÜYÜK OYUNU KENDİSİNİ VURDU! İran'dan bir türlü kurtulamıyor! ABD'nin planları altüst oldu!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Isparta’da ulaşım zammına yurttaşlar tepki gösterdi: “2 adımlık yere 42 lira verilir mi?”</title>
-      <link>https://www.youtube.com/shorts/oo0MRHx-B_g</link>
-      <guid isPermaLink="false">oo0MRHx-B_g</guid>
-      <pubDate>Thu, 20 Aug 2026 07:34:01 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Isparta’da ulaşım zammına yurttaşlar tepki gösterdi: “2 adımlık yere 42 lira verilir mi?”</description>
     </item>
   </channel>
 </rss>
