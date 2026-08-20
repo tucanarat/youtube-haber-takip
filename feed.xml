@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 07:40:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 07:45:31 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Özgür Çelik Çekmeköy'den seslendi: Millet cevabını demokrasi tokadıyla verecek!</title>
+      <link>https://www.youtube.com/watch?v=K-d8PAok6LA</link>
+      <guid isPermaLink="false">K-d8PAok6LA</guid>
+      <pubDate>Thu, 20 Aug 2026 07:43:56 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Özgür Çelik Çekmeköy'den seslendi: Millet cevabını demokrasi tokadıyla verecek!</description>
+    </item>
     <item>
       <title>Cumhuriyet: Toplu taşımaya dev zam! Yurttaş isyan etti: "İki adımlık yere 42 lira!"</title>
       <link>https://www.youtube.com/watch?v=Tto47wlgPJo</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">BPR3B0fhzxQ</guid>
       <pubDate>Wed, 19 Aug 2026 20:48:39 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Alparslan Kuytul, gözaltına alınmadan bir gün önce bu konuşmasını kayda aldı ve yayımladı! #shorts</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Dilovası'ndaki fabrika yangın davasıyla ilgili Gebze Adliyesi önünde açıklama yapılıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=9WpnYAvjJs0</link>
-      <guid isPermaLink="false">9WpnYAvjJs0</guid>
-      <pubDate>Wed, 19 Aug 2026 20:47:24 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Dilovası'ndaki fabrika yangın davasıyla ilgili Gebze Adliyesi önünde açıklama yapılıyor #Canlı</description>
     </item>
   </channel>
 </rss>
