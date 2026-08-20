@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 20:30:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 20:34:08 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: Haldun Solmaztürk'ten iktidara İsrail tepkisi! Üs saldırısı ve Netanyahu'nun Türkiye'yi hedef alışı!</title>
       <link>https://www.youtube.com/watch?v=ej8nx8HEWJY</link>
@@ -83,6 +83,13 @@
       <guid isPermaLink="false">V_0tff_vct8</guid>
       <pubDate>Thu, 20 Aug 2026 19:25:18 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Bayramiç'te yürekleri ısıtan anlar! Anne köpek, yavru kedilere sahip çıktı! #shorts</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Engin Solakoğlu'ndan flaş Mekke İttifakı ve İsrail'in üs saldırısı yorumu!</title>
+      <link>https://www.youtube.com/watch?v=Dbrx-PSyy7s</link>
+      <guid isPermaLink="false">Dbrx-PSyy7s</guid>
+      <pubDate>Thu, 20 Aug 2026 19:20:40 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Engin Solakoğlu'ndan flaş Mekke İttifakı ve İsrail'in üs saldırısı yorumu!</description>
     </item>
     <item>
       <title>Tele2 Haber: Öcalan'a aranan statü bulundu! Haldun Solmaztürk anlattı!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Te3N6lYpvkY</guid>
       <pubDate>Thu, 20 Aug 2026 16:30:09 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ PARTİ’DE BİR İLK! Kongre takvimi başlıyor; Delege sistemi sona eriyor! İşte çarpıcı detaylar!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Merdan Yanardağ'dan ezber bozan 'Özgür Özel-EVET kararı' yaklaşımı!</title>
-      <link>https://www.youtube.com/watch?v=k2InvESNi7A</link>
-      <guid isPermaLink="false">k2InvESNi7A</guid>
-      <pubDate>Thu, 20 Aug 2026 16:30:02 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Merdan Yanardağ'dan ezber bozan 'Özgür Özel-EVET kararı' yaklaşımı!</description>
     </item>
   </channel>
 </rss>
