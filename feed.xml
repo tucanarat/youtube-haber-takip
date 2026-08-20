@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 23:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 23:20:36 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Sözcü Ana Haber | Senem Toluay Ilgaz</title>
+      <link>https://www.youtube.com/watch?v=ja5LLZ_W9bU</link>
+      <guid isPermaLink="false">ja5LLZ_W9bU</guid>
+      <pubDate>Thu, 20 Aug 2026 23:04:33 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Sözcü Ana Haber | Senem Toluay Ilgaz</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İçinizden Biri | Ekrem Açıkel</title>
       <link>https://www.youtube.com/watch?v=6Zfqghv7iG8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">aNkw6ZL4HbU</guid>
       <pubDate>Thu, 20 Aug 2026 18:15:11 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Daron Acemoğlu ve The Economist savaşı! Prof. Dr. Ersin Kalaycıoğlu işçi liberalizmine dikkat çekti</description>
-    </item>
-    <item>
-      <title>Halk TV: TİCARET BAKANI DUT YEMİŞ BÜLBÜLE DÖNDÜ! Bahçıvan o sözleriyle şoke etti! Bu anlar çok konuşulur!</title>
-      <link>https://www.youtube.com/watch?v=rpb_TG7-Xq0</link>
-      <guid isPermaLink="false">rpb_TG7-Xq0</guid>
-      <pubDate>Thu, 20 Aug 2026 18:15:03 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: TİCARET BAKANI DUT YEMİŞ BÜLBÜLE DÖNDÜ! Bahçıvan o sözleriyle şoke etti! Bu anlar çok konuşulur!</description>
     </item>
   </channel>
 </rss>
