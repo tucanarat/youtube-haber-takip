@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 21:25:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 21:30:48 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SICAK DAKİKALAR! İBB davası devam ediyor! Aziz İhsan Aktaş savunmasını yapıyor! İşte detaylar!</title>
+      <link>https://www.youtube.com/watch?v=UImDJuHI658</link>
+      <guid isPermaLink="false">UImDJuHI658</guid>
+      <pubDate>Thu, 20 Aug 2026 21:27:13 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SICAK DAKİKALAR! İBB davası devam ediyor! Aziz İhsan Aktaş savunmasını yapıyor! İşte detaylar!</description>
+    </item>
+    <item>
+      <title>Halk TV: Madenciler gözaltında! Bağımsız Maden İş'ten bakanlıklara tepki! #shorts</title>
+      <link>https://www.youtube.com/shorts/BV-WCn-YGyE</link>
+      <guid isPermaLink="false">BV-WCn-YGyE</guid>
+      <pubDate>Thu, 20 Aug 2026 21:15:30 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Madenciler gözaltında! Bağımsız Maden İş'ten bakanlıklara tepki! #shorts</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Türkiye'nin Sözü | Ekrem Açıkel | 20 Ağustos</title>
       <link>https://www.youtube.com/watch?v=5EOOnTF9GUI</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">4hQZEEBLcnA</guid>
       <pubDate>Thu, 20 Aug 2026 16:57:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Çiğli Belediye Başkanı'nın makam aracına yapılan silahlı saldırının kamera görüntüsü ortaya çıktı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Sinem Fıstıkoğlu ile Halk Ana Haber (20 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=VksVNeTARhA</link>
-      <guid isPermaLink="false">VksVNeTARhA</guid>
-      <pubDate>Thu, 20 Aug 2026 16:57:02 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Sinem Fıstıkoğlu ile Halk Ana Haber (20 Ağustos 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Gökmen Karadağ ile Açıkça | #HalkTV</title>
-      <link>https://www.youtube.com/watch?v=b5XOHmh6KjE</link>
-      <guid isPermaLink="false">b5XOHmh6KjE</guid>
-      <pubDate>Thu, 20 Aug 2026 16:51:44 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Gökmen Karadağ ile Açıkça | #HalkTV</description>
     </item>
   </channel>
 </rss>
