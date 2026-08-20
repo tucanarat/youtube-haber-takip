@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 07:30:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 07:35:23 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Isparta’da ulaşım zammına yurttaşlar tepki gösterdi: “2 adımlık yere 42 lira verilir mi?”</title>
+      <link>https://www.youtube.com/shorts/oo0MRHx-B_g</link>
+      <guid isPermaLink="false">oo0MRHx-B_g</guid>
+      <pubDate>Thu, 20 Aug 2026 07:34:01 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Isparta’da ulaşım zammına yurttaşlar tepki gösterdi: “2 adımlık yere 42 lira verilir mi?”</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Trump Çıldırdı! İran’a Eşi Benzeri Görülmemiş Darbe! Dünyaya Ekonomik Savaş İlanı!</title>
+      <link>https://www.youtube.com/watch?v=ApLsiGD7nkA</link>
+      <guid isPermaLink="false">ApLsiGD7nkA</guid>
+      <pubDate>Thu, 20 Aug 2026 07:30:10 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Trump Çıldırdı! İran’a Eşi Benzeri Görülmemiş Darbe! Dünyaya Ekonomik Savaş İlanı!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: CHP Genel Başkan Yardımcısı Orhan Sarıbal basın toplantısı düzenliyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=Gks2Qv2xYH4</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">JyMaHcUqV5I</guid>
       <pubDate>Wed, 19 Aug 2026 20:15:20 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ‘’BU HAK SANA HARAM OLSUN ORHAN!’’ Cemal Enginyurt’un bu sözleri tarihe geçecek! Son noktayı koydu!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Fatih Erbakan Düğmeye Bastı! AKP ve Erdoğan'ın Uykularını Kaçıracak İttifak İfşa Oldu!</title>
-      <link>https://www.youtube.com/watch?v=79qnZySX12A</link>
-      <guid isPermaLink="false">79qnZySX12A</guid>
-      <pubDate>Wed, 19 Aug 2026 20:00:21 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Fatih Erbakan Düğmeye Bastı! AKP ve Erdoğan'ın Uykularını Kaçıracak İttifak İfşa Oldu!</description>
-    </item>
-    <item>
-      <title>Halk TV: BU SÖZLER GÜNDEME BOMBA GİBİ DÜŞECEK! Cemal Enginyurt'tan Orhan Çerkez'e zehir zemberek çıkış!</title>
-      <link>https://www.youtube.com/watch?v=SMlvmv5UYNs</link>
-      <guid isPermaLink="false">SMlvmv5UYNs</guid>
-      <pubDate>Wed, 19 Aug 2026 20:00:02 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BU SÖZLER GÜNDEME BOMBA GİBİ DÜŞECEK! Cemal Enginyurt'tan Orhan Çerkez'e zehir zemberek çıkış!</description>
     </item>
   </channel>
 </rss>
