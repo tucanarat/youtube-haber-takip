@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 14:20:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 14:25:29 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: "DAHA FAZLA DUYMAZDAN GELEMEZ!" Aylin Nazlıkaya Bakanlık önünden Mahinur Özdemir Göktaş'a seslendi!</title>
       <link>https://www.youtube.com/watch?v=MNUYW7RPXuU</link>
       <guid isPermaLink="false">MNUYW7RPXuU</guid>
       <pubDate>Thu, 20 Aug 2026 14:15:02 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "DAHA FAZLA DUYMAZDAN GELEMEZ!" Aylin Nazlıkaya Bakanlık önünden Mahinur Özdemir Göktaş'a seslendi!</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: İsrail, Türkiye sınırındaki Ebu Zuhur Askeri Üssü’nü neden vurdu? Türkiye’yi ne bekliyor?</title>
+      <link>https://www.youtube.com/watch?v=_3BjDpha2L4</link>
+      <guid isPermaLink="false">_3BjDpha2L4</guid>
+      <pubDate>Thu, 20 Aug 2026 14:14:21 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: İsrail, Türkiye sınırındaki Ebu Zuhur Askeri Üssü’nü neden vurdu? Türkiye’yi ne bekliyor?</description>
     </item>
     <item>
       <title>Tele2 Haber: TÜLAY HATİMOĞULLARI'NDAN ÇOK KRİTİK YENİDEN YAPILANMA VE ÖCALAN AÇIKLAMASI!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">oeKxD-3Mi-I</guid>
       <pubDate>Thu, 20 Aug 2026 12:10:03 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI DEM Parti Eş Genel Başkanı Tülay Hatimoğulları, Silivri’de açıklama yapıyor</description>
-    </item>
-    <item>
-      <title>Halk TV: CHP'DE YENİ ÇATLAK! Tutuklu başkan Kılıçdaroğlu'na resti çekip istifa etti!</title>
-      <link>https://www.youtube.com/watch?v=I7f3DgoOZUs</link>
-      <guid isPermaLink="false">I7f3DgoOZUs</guid>
-      <pubDate>Thu, 20 Aug 2026 12:05:21 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: CHP'DE YENİ ÇATLAK! Tutuklu başkan Kılıçdaroğlu'na resti çekip istifa etti!</description>
     </item>
   </channel>
 </rss>
