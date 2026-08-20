@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 23:20:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 23:25:29 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Aile Dayanışma Ağı, 42. buluşmasını Silivri’de gerçekleştiriyor  #Canlı</title>
+      <link>https://www.youtube.com/watch?v=652wdqKPtBI</link>
+      <guid isPermaLink="false">652wdqKPtBI</guid>
+      <pubDate>Thu, 20 Aug 2026 23:21:46 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Aile Dayanışma Ağı, 42. buluşmasını Silivri’de gerçekleştiriyor  #Canlı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Sözcü Ana Haber | Senem Toluay Ilgaz</title>
       <link>https://www.youtube.com/watch?v=ja5LLZ_W9bU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">1dEzNyJ6vAw</guid>
       <pubDate>Thu, 20 Aug 2026 18:16:11 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Öcalan'ın rolü! Murat Taylan ile Haber-Yorum (20.08.26)</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Daron Acemoğlu ve The Economist savaşı! Prof. Dr. Ersin Kalaycıoğlu işçi liberalizmine dikkat çekti</title>
-      <link>https://www.youtube.com/watch?v=aNkw6ZL4HbU</link>
-      <guid isPermaLink="false">aNkw6ZL4HbU</guid>
-      <pubDate>Thu, 20 Aug 2026 18:15:11 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Daron Acemoğlu ve The Economist savaşı! Prof. Dr. Ersin Kalaycıoğlu işçi liberalizmine dikkat çekti</description>
     </item>
   </channel>
 </rss>
