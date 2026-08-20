@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 02:05:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 02:10:32 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: CHP Sözcüsü Müslim Sarı, MYK gündemiyle ilgili basın açıklaması yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=7D9RVbVvSPI</link>
+      <guid isPermaLink="false">7D9RVbVvSPI</guid>
+      <pubDate>Thu, 20 Aug 2026 02:09:07 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: CHP Sözcüsü Müslim Sarı, MYK gündemiyle ilgili basın açıklaması yapıyor #Canlı</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Şehit Aileleri ve Gaziler Derneği Genel Başkanı Erdem Çerçioğlu, açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=AVgIcarrD3U</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">7BeoL-KioUY</guid>
       <pubDate>Wed, 19 Aug 2026 17:45:11 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: İmamoğlu'ndan sert tepki! İBB davası için kritik tarih! Seçim mi düşünülüyor? Kayhan Ayhan aktarıyor</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI YENİ Parti İstanbul İl Başkanlığı'ndan Çekmeköy'de "Millet İradesine Saygı Yürüyüşü"</title>
-      <link>https://www.youtube.com/watch?v=xmaxsW97cP8</link>
-      <guid isPermaLink="false">xmaxsW97cP8</guid>
-      <pubDate>Wed, 19 Aug 2026 17:34:31 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti İstanbul İl Başkanlığı'ndan Çekmeköy'de "Millet İradesine Saygı Yürüyüşü"</description>
     </item>
   </channel>
 </rss>
