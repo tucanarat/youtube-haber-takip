@@ -3598,5 +3598,21 @@
     "published": "2026-08-20T22:30:09+00:00",
     "published_ts": 1787265009,
     "channel_name": "SÖZCÜ TV"
+  },
+  "SwWTiWpNbj8": {
+    "id": "SwWTiWpNbj8",
+    "title": "Sözcü Masası | Senem Toluay Ilgaz",
+    "link": "https://www.youtube.com/watch?v=SwWTiWpNbj8",
+    "published": "2026-08-20T22:53:21+00:00",
+    "published_ts": 1787266401,
+    "channel_name": "SÖZCÜ TV"
+  },
+  "T3wwvLkiDoo": {
+    "id": "T3wwvLkiDoo",
+    "title": "Sözcü ile Uyanma Vakti | Ceylin Çağatay",
+    "link": "https://www.youtube.com/watch?v=T3wwvLkiDoo",
+    "published": "2026-08-20T22:50:08+00:00",
+    "published_ts": 1787266208,
+    "channel_name": "SÖZCÜ TV"
   }
 }

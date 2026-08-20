@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 22:50:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 22:55:22 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Sözcü Masası | Senem Toluay Ilgaz</title>
+      <link>https://www.youtube.com/watch?v=SwWTiWpNbj8</link>
+      <guid isPermaLink="false">SwWTiWpNbj8</guid>
+      <pubDate>Thu, 20 Aug 2026 22:53:21 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Sözcü Masası | Senem Toluay Ilgaz</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Sözcü ile Uyanma Vakti | Ceylin Çağatay</title>
+      <link>https://www.youtube.com/watch?v=T3wwvLkiDoo</link>
+      <guid isPermaLink="false">T3wwvLkiDoo</guid>
+      <pubDate>Thu, 20 Aug 2026 22:50:08 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Sözcü ile Uyanma Vakti | Ceylin Çağatay</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: SİYASETE BOMBA GİBİ DÜŞECEK SENARYO! Erdoğan ve AKP'yi Titretecek İttifak Ortaya Çıktı</title>
       <link>https://www.youtube.com/watch?v=nKijAnURRFs</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">8wDjso0YDGA</guid>
       <pubDate>Thu, 20 Aug 2026 17:45:20 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Haldun Solmaztürk direkt Erdoğan'a isyan etti: Bu daha ne kadar devam edecek?</description>
-    </item>
-    <item>
-      <title>Halk TV: MADENCİLERDEN BENZERSİZ PROTESTO! Bakanlığın bahçesine kıyafetlerini attılar! Ankara alev alev!</title>
-      <link>https://www.youtube.com/watch?v=u0SBSCBd-lA</link>
-      <guid isPermaLink="false">u0SBSCBd-lA</guid>
-      <pubDate>Thu, 20 Aug 2026 17:45:04 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: MADENCİLERDEN BENZERSİZ PROTESTO! Bakanlığın bahçesine kıyafetlerini attılar! Ankara alev alev!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: İBB davasına 'İmamoğlu'nun telefonu' damga vurdu! Kadriye Kasapoğlu'ndan gündem olan isyan!</title>
-      <link>https://www.youtube.com/watch?v=q6SkPw6CXVE</link>
-      <guid isPermaLink="false">q6SkPw6CXVE</guid>
-      <pubDate>Thu, 20 Aug 2026 17:30:19 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: İBB davasına 'İmamoğlu'nun telefonu' damga vurdu! Kadriye Kasapoğlu'ndan gündem olan isyan!</description>
     </item>
   </channel>
 </rss>
