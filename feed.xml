@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 12:10:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 12:15:31 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: #CANLI DEM Parti Eş Genel Başkanı Tülay Hatimoğulları, Silivri’de açıklama yapıyor</title>
       <link>https://www.youtube.com/watch?v=oeKxD-3Mi-I</link>
@@ -15,11 +15,25 @@
       <description>Tele2 Haber kanalından yeni video: #CANLI DEM Parti Eş Genel Başkanı Tülay Hatimoğulları, Silivri’de açıklama yapıyor</description>
     </item>
     <item>
+      <title>Halk TV: #CANLI | DEM Parti Eş Genel Başkanı Tülay Hatimoğulları, Silivri’de Açıklama Yapıyor!</title>
+      <link>https://www.youtube.com/watch?v=D8I8zq15aTE</link>
+      <guid isPermaLink="false">D8I8zq15aTE</guid>
+      <pubDate>Thu, 20 Aug 2026 12:09:55 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | DEM Parti Eş Genel Başkanı Tülay Hatimoğulları, Silivri’de Açıklama Yapıyor!</description>
+    </item>
+    <item>
       <title>Halk TV: CHP'DE YENİ ÇATLAK! Tutuklu başkan Kılıçdaroğlu'na resti çekip istifa etti!</title>
       <link>https://www.youtube.com/watch?v=I7f3DgoOZUs</link>
       <guid isPermaLink="false">I7f3DgoOZUs</guid>
       <pubDate>Thu, 20 Aug 2026 12:05:21 +0000</pubDate>
       <description>Halk TV kanalından yeni video: CHP'DE YENİ ÇATLAK! Tutuklu başkan Kılıçdaroğlu'na resti çekip istifa etti!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Devlet İçindeki Güç Savaşını Mustafa Balbay Anlattı! "FETÖ GİDER SETÖ GELİR" Tarikatlar Savaşı</title>
+      <link>https://www.youtube.com/watch?v=Vll34snAhQk</link>
+      <guid isPermaLink="false">Vll34snAhQk</guid>
+      <pubDate>Thu, 20 Aug 2026 12:00:25 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Devlet İçindeki Güç Savaşını Mustafa Balbay Anlattı! "FETÖ GİDER SETÖ GELİR" Tarikatlar Savaşı</description>
     </item>
     <item>
       <title>Tele2 Haber: Dilek İmamoğlu Silivri'den seslendi! "Hak, hukuk ve adalet demekten asla vazgeçmeyeceğiz"</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">LNSTVOpeH-M</guid>
       <pubDate>Thu, 20 Aug 2026 10:00:24 +0000</pubDate>
       <description>Halk TV kanalından yeni video: HAFTALARDIR DİRENİYORLAR, DUYAN YOK! Madenciler baretlerini yere vurarak haykırıyor! Vicdan yaralar!</description>
-    </item>
-    <item>
-      <title>Halk TV: Bilge Yurtdagülen ile Neden Sonuç | Mehmet Tezkan (20 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=6HwoYCIDrQw</link>
-      <guid isPermaLink="false">6HwoYCIDrQw</guid>
-      <pubDate>Thu, 20 Aug 2026 09:57:23 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Bilge Yurtdagülen ile Neden Sonuç | Mehmet Tezkan (20 Ağustos 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Partili Cemal Enginyurt, AKP'ye geçen Eren Ali Bingöl'e olay olacak bir lakap taktı!</title>
-      <link>https://www.youtube.com/shorts/AfbthLaJCvc</link>
-      <guid isPermaLink="false">AfbthLaJCvc</guid>
-      <pubDate>Thu, 20 Aug 2026 09:57:09 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Partili Cemal Enginyurt, AKP'ye geçen Eren Ali Bingöl'e olay olacak bir lakap taktı!</description>
     </item>
   </channel>
 </rss>
