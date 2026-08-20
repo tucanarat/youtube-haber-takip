@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 15:01:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 15:05:27 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Barış Atay'dan AKP sıralarına: Çocuklarınız sizden utanacak! #ARŞİV</title>
+      <link>https://www.youtube.com/shorts/goHRbc70kak</link>
+      <guid isPermaLink="false">goHRbc70kak</guid>
+      <pubDate>Thu, 20 Aug 2026 15:00:33 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Barış Atay'dan AKP sıralarına: Çocuklarınız sizden utanacak! #ARŞİV</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: MİLYONLARCA MÜRİDİ VAR! Devlet Menzil'e Neden Dokunamıyor? Fatih Ergenekon'dan Olay Olacak Sözler</title>
+      <link>https://www.youtube.com/watch?v=qSW19zWl6-o</link>
+      <guid isPermaLink="false">qSW19zWl6-o</guid>
+      <pubDate>Thu, 20 Aug 2026 15:00:09 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: MİLYONLARCA MÜRİDİ VAR! Devlet Menzil'e Neden Dokunamıyor? Fatih Ergenekon'dan Olay Olacak Sözler</description>
+    </item>
     <item>
       <title>Halk TV: Gizem Çetin ile Parantez (20 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=_LSi792Py2c</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">aJo7poCDOX8</guid>
       <pubDate>Thu, 20 Aug 2026 12:48:24 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Partili Tanrıkulu'nun vatandaşla güldüren sohbeti! "Siz de benim gibi atom karıncasınız!"</description>
-    </item>
-    <item>
-      <title>Halk TV: Kartal'da otoyolda kamyonet alev aldı!</title>
-      <link>https://www.youtube.com/shorts/DGMPRXWGm60</link>
-      <guid isPermaLink="false">DGMPRXWGm60</guid>
-      <pubDate>Thu, 20 Aug 2026 12:46:30 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Kartal'da otoyolda kamyonet alev aldı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Sezgin Tanrıkulu: Pazarda yurttaşlarımız alışveriş yapamıyor. Esnaf da aldığını satamıyor!</title>
-      <link>https://www.youtube.com/shorts/JkRov7TaexM</link>
-      <guid isPermaLink="false">JkRov7TaexM</guid>
-      <pubDate>Thu, 20 Aug 2026 12:45:55 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Sezgin Tanrıkulu: Pazarda yurttaşlarımız alışveriş yapamıyor. Esnaf da aldığını satamıyor!</description>
     </item>
   </channel>
 </rss>
