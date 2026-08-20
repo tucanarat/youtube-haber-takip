@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 14:10:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 14:15:30 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: "DAHA FAZLA DUYMAZDAN GELEMEZ!" Aylin Nazlıkaya Bakanlık önünden Mahinur Özdemir Göktaş'a seslendi!</title>
+      <link>https://www.youtube.com/watch?v=MNUYW7RPXuU</link>
+      <guid isPermaLink="false">MNUYW7RPXuU</guid>
+      <pubDate>Thu, 20 Aug 2026 14:15:02 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "DAHA FAZLA DUYMAZDAN GELEMEZ!" Aylin Nazlıkaya Bakanlık önünden Mahinur Özdemir Göktaş'a seslendi!</description>
+    </item>
     <item>
       <title>Tele2 Haber: TÜLAY HATİMOĞULLARI'NDAN ÇOK KRİTİK YENİDEN YAPILANMA VE ÖCALAN AÇIKLAMASI!</title>
       <link>https://www.youtube.com/shorts/IKsF3WmlAsQ</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Vll34snAhQk</guid>
       <pubDate>Thu, 20 Aug 2026 12:00:25 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Devlet İçindeki Güç Savaşını Mustafa Balbay Anlattı! "FETÖ GİDER SETÖ GELİR" Tarikatlar Savaşı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Dilek İmamoğlu Silivri'den seslendi: Bir kesime düşman hukuku uygulayarak barışı tesis edemezsiniz!</title>
-      <link>https://www.youtube.com/watch?v=ImdCdDWITI0</link>
-      <guid isPermaLink="false">ImdCdDWITI0</guid>
-      <pubDate>Thu, 20 Aug 2026 12:00:15 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Dilek İmamoğlu Silivri'den seslendi: Bir kesime düşman hukuku uygulayarak barışı tesis edemezsiniz!</description>
     </item>
   </channel>
 </rss>
