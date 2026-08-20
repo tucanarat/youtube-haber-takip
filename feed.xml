@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 21:00:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 21:05:30 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Uğur Poyraz'dan Mansur Yavaş ve Özgür Özel Çıkışı! AKP'nin Planını İfşa Etti</title>
+      <link>https://www.youtube.com/watch?v=3hAAeF0btwU</link>
+      <guid isPermaLink="false">3hAAeF0btwU</guid>
+      <pubDate>Thu, 20 Aug 2026 21:00:02 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Uğur Poyraz'dan Mansur Yavaş ve Özgür Özel Çıkışı! AKP'nin Planını İfşa Etti</description>
+    </item>
     <item>
       <title>Tele2 Haber: Engin Solakoğlu'ndan flaş Mekke İttifakı ve İsrail'in üs saldırısı yorumu!</title>
       <link>https://www.youtube.com/watch?v=Dbrx-PSyy7s</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">MevQf1c55sU</guid>
       <pubDate>Thu, 20 Aug 2026 16:50:06 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: AKP teşkilatlarının "Öcalan" hazırlığı! Murat Taylan 'süreç bilgilendirme notuna' dikkat çekti!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Öğle Bülteni | Gülinay Selçuk | 20 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=KfSnXkIVlRs</link>
-      <guid isPermaLink="false">KfSnXkIVlRs</guid>
-      <pubDate>Thu, 20 Aug 2026 16:48:10 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Öğle Bülteni | Gülinay Selçuk | 20 Ağustos</description>
     </item>
   </channel>
 </rss>
