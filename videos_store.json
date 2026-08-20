@@ -1633,7 +1633,7 @@
   },
   "2MmoQUxW5Nk": {
     "id": "2MmoQUxW5Nk",
-    "title": "Haber Bülteni | Serap Belovacıklı",
+    "title": "#CANLI Haber Saati | Serap Belovacıklı",
     "link": "https://www.youtube.com/watch?v=2MmoQUxW5Nk",
     "published": "2026-08-19T22:36:27+00:00",
     "published_ts": 1787178987,
@@ -2065,7 +2065,7 @@
   },
   "0c-L6YDv9D4": {
     "id": "0c-L6YDv9D4",
-    "title": "Er şehit yakınları ve er gaziler Aile ve Sosyal Hizmetler Bakanlığı önünde açıklama yapıyor #Canlı",
+    "title": "Er şehit yakınları ve er gaziler, Aile ve Sosyal Hizmetler Bakanlığı önünde açıklama yapıyor #Canlı",
     "link": "https://www.youtube.com/watch?v=0c-L6YDv9D4",
     "published": "2026-08-20T10:45:44+00:00",
     "published_ts": 1787222744,
@@ -2350,5 +2350,37 @@
     "published": "2026-08-20T10:57:13+00:00",
     "published_ts": 1787223433,
     "channel_name": "Halk TV"
+  },
+  "5EOOnTF9GUI": {
+    "id": "5EOOnTF9GUI",
+    "title": "Türkiye'nin Sözü | Ekrem Açıkel",
+    "link": "https://www.youtube.com/watch?v=5EOOnTF9GUI",
+    "published": "2026-08-20T11:03:45+00:00",
+    "published_ts": 1787223825,
+    "channel_name": "SÖZCÜ TV"
+  },
+  "0xWiwYo6dnI": {
+    "id": "0xWiwYo6dnI",
+    "title": "Altın Çıldırdı Trump Düğmeye Bastı! Gram Altın Rekor Kırdı! Son 3 Ayın Zirvesinde",
+    "link": "https://www.youtube.com/watch?v=0xWiwYo6dnI",
+    "published": "2026-08-20T11:00:36+00:00",
+    "published_ts": 1787223636,
+    "channel_name": "SÖZCÜ TV"
+  },
+  "FnLyV6N4cRw": {
+    "id": "FnLyV6N4cRw",
+    "title": "Cemal Enginyurt: \"Seni unutursak kanımız kurusun Orhan\"",
+    "link": "https://www.youtube.com/shorts/FnLyV6N4cRw",
+    "published": "2026-08-20T11:00:35+00:00",
+    "published_ts": 1787223635,
+    "channel_name": "Halk TV"
+  },
+  "NsI1jESv9PQ": {
+    "id": "NsI1jESv9PQ",
+    "title": "#CANLI Aile Dayanışma Ağı, 42. buluşmasını Silivri’de gerçekleştiriyor",
+    "link": "https://www.youtube.com/watch?v=NsI1jESv9PQ",
+    "published": "2026-08-20T10:56:57+00:00",
+    "published_ts": 1787223417,
+    "channel_name": "Tele2 Haber"
   }
 }
