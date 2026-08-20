@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 09:10:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 09:15:31 +0000</lastBuildDate>
     <item>
       <title>Halk TV: "BUKALEMUN GİBİ ŞEKİL DEĞİŞTİREN ORHAN.." Özgür Çelik'ten altından kalkılmayacak sözler! Dönüşü yok!</title>
       <link>https://www.youtube.com/watch?v=sMCe0nUe3AA</link>
@@ -27,6 +27,13 @@
       <guid isPermaLink="false">_Ht_d6HU2Bg</guid>
       <pubDate>Thu, 20 Aug 2026 09:02:16 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | Butlan CHP'si Genel Başkan Yardımcısı Necdet Saraç, Basın Toplantısı Düzenliyor!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İBB Davasında Hakimden Olay Ekrem İmamoğlu Kararı! Soru Sorması Yasaklandı! Silivri'de Gergin Anlar</title>
+      <link>https://www.youtube.com/watch?v=MTbUjGZvncY</link>
+      <guid isPermaLink="false">MTbUjGZvncY</guid>
+      <pubDate>Thu, 20 Aug 2026 09:00:35 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İBB Davasında Hakimden Olay Ekrem İmamoğlu Kararı! Soru Sorması Yasaklandı! Silivri'de Gergin Anlar</description>
     </item>
     <item>
       <title>Tele2 Haber: Tarihi Anlar Kameralara Yansıdı Umut Akdoğan Bakanlığı Polise İhbaer Etti!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Sd9IErBiRPY</guid>
       <pubDate>Thu, 20 Aug 2026 06:00:05 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Ezilmekten Saniyelerle Böyle Kurtuldular! #shorts</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Açlıktan ve Yorgunluktan Bitkin Düşmüştü! Şarkışla’da Peçeli Baykuş Operasyonu! #shorts</title>
-      <link>https://www.youtube.com/shorts/XkKVRe5EEhc</link>
-      <guid isPermaLink="false">XkKVRe5EEhc</guid>
-      <pubDate>Thu, 20 Aug 2026 05:40:23 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Açlıktan ve Yorgunluktan Bitkin Düşmüştü! Şarkışla’da Peçeli Baykuş Operasyonu! #shorts</description>
     </item>
   </channel>
 </rss>
