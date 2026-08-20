@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 13:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 13:05:25 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: İrem Sansak ile Haber Masası (20 Ağustos 2026)</title>
+      <link>https://www.youtube.com/watch?v=kCbD15PL3AM</link>
+      <guid isPermaLink="false">kCbD15PL3AM</guid>
+      <pubDate>Thu, 20 Aug 2026 13:01:40 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İrem Sansak ile Haber Masası (20 Ağustos 2026)</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: "NEDEN EVİNİZDE SAKLADINIZ?" Ekrem İmamoğlu'ndan, itirafçıya çok kritik 'TELEFON' sorusu!</title>
+      <link>https://www.youtube.com/watch?v=THiNaDGkZqg</link>
+      <guid isPermaLink="false">THiNaDGkZqg</guid>
+      <pubDate>Thu, 20 Aug 2026 13:00:09 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "NEDEN EVİNİZDE SAKLADINIZ?" Ekrem İmamoğlu'ndan, itirafçıya çok kritik 'TELEFON' sorusu!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti Grup Başkanvekili Murat Emir madencilerle birlikte açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=ZYRzSjzwFWE</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">0c-L6YDv9D4</guid>
       <pubDate>Thu, 20 Aug 2026 10:45:44 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Er şehit yakınları ve er gaziler, Aile ve Sosyal Hizmetler Bakanlığı önünde açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Çelik: "Günü geldiğinde, bir bayram havasında, bir pazar günü sandıklara gideceğiz"</title>
-      <link>https://www.youtube.com/shorts/3xpYZgg_tGY</link>
-      <guid isPermaLink="false">3xpYZgg_tGY</guid>
-      <pubDate>Thu, 20 Aug 2026 10:45:34 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Çelik: "Günü geldiğinde, bir bayram havasında, bir pazar günü sandıklara gideceğiz"</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "CHP'yi Yok Edelim Devlet Aklı Değil Parti Aklıdır!" Sertaç Eş'ten Butlancılara Çok Sert Tepki!</title>
-      <link>https://www.youtube.com/watch?v=qKQumPlIj1w</link>
-      <guid isPermaLink="false">qKQumPlIj1w</guid>
-      <pubDate>Thu, 20 Aug 2026 10:45:09 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "CHP'yi Yok Edelim Devlet Aklı Değil Parti Aklıdır!" Sertaç Eş'ten Butlancılara Çok Sert Tepki!</description>
     </item>
   </channel>
 </rss>
