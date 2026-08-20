@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 08:35:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 08:40:43 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Bağımsız Maden-İş üyesi madenciler Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor</title>
+      <link>https://www.youtube.com/watch?v=rWE0V14p9F8</link>
+      <guid isPermaLink="false">rWE0V14p9F8</guid>
+      <pubDate>Thu, 20 Aug 2026 08:39:26 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Bağımsız Maden-İş üyesi madenciler Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor</description>
+    </item>
+    <item>
+      <title>Halk TV: "SENİ DE AKP'Yİ DE SANDIĞA GÖMECEĞİZ ORHAN!" Cemal Enginyurt'tan Orhan Çerkez'e tokat gibi sözler!</title>
+      <link>https://www.youtube.com/watch?v=v9_GM2dI6Z4</link>
+      <guid isPermaLink="false">v9_GM2dI6Z4</guid>
+      <pubDate>Thu, 20 Aug 2026 08:35:13 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: "SENİ DE AKP'Yİ DE SANDIĞA GÖMECEĞİZ ORHAN!" Cemal Enginyurt'tan Orhan Çerkez'e tokat gibi sözler!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: "Türkiye Manzarası: 75 Yaşındaki Emekli İnşaatta Çalışıyor!" Onur Öncü'den Rejime Emekli Tepkisi!</title>
+      <link>https://www.youtube.com/watch?v=YJ6649YffYk</link>
+      <guid isPermaLink="false">YJ6649YffYk</guid>
+      <pubDate>Thu, 20 Aug 2026 08:33:15 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "Türkiye Manzarası: 75 Yaşındaki Emekli İnşaatta Çalışıyor!" Onur Öncü'den Rejime Emekli Tepkisi!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İsrail’den Sınırda Füze Saldırısı! Netanyahu'nun Hain Planı! Hedef Türkiye mi? Murat Ağırel Anlattı</title>
       <link>https://www.youtube.com/watch?v=I_ycQKB4JB0</link>
@@ -34,13 +55,6 @@
       <guid isPermaLink="false">jptutPiKJcg</guid>
       <pubDate>Thu, 20 Aug 2026 08:20:34 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Butlan CHP'sinin AKP'yle iş birliği ifşa oldu! Seraf Özer demediğini bırakmadı! Stüdyoyu inletti!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Bağımsız Maden-İş üyesi madenciler Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor</title>
-      <link>https://www.youtube.com/watch?v=rWE0V14p9F8</link>
-      <guid isPermaLink="false">rWE0V14p9F8</guid>
-      <pubDate>Thu, 20 Aug 2026 08:20:22 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Bağımsız Maden-İş üyesi madenciler Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Anahtar Parti Genel Başkanı Yavuz Ağıralioğlu, basın toplantısı düzenliyor #Canlı</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">buFUK5b_KSA</guid>
       <pubDate>Wed, 19 Aug 2026 22:41:27 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Sözcü Ana Haber | Serap Belovacıklı | 20 Ağustos</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İçinizden Biri | Ekrem Açıkel</title>
-      <link>https://www.youtube.com/watch?v=JyPnC0PdCGA</link>
-      <guid isPermaLink="false">JyPnC0PdCGA</guid>
-      <pubDate>Wed, 19 Aug 2026 22:37:54 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İçinizden Biri | Ekrem Açıkel</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Haber Bülteni | Serap Belovacıklı</title>
-      <link>https://www.youtube.com/watch?v=2MmoQUxW5Nk</link>
-      <guid isPermaLink="false">2MmoQUxW5Nk</guid>
-      <pubDate>Wed, 19 Aug 2026 22:36:27 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Haber Bülteni | Serap Belovacıklı</description>
     </item>
   </channel>
 </rss>
