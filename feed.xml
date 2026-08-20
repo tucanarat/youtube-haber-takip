@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 11:35:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 11:40:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: BAHÇELİ'DEN KULİSLERİ SALLAYAN ÇIKIŞ! Seçim düğmesine basıldı mı? Ankara bu sözleri konuşuyor!</title>
+      <link>https://www.youtube.com/watch?v=B0cnRjM_NPc</link>
+      <guid isPermaLink="false">B0cnRjM_NPc</guid>
+      <pubDate>Thu, 20 Aug 2026 11:35:38 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BAHÇELİ'DEN KULİSLERİ SALLAYAN ÇIKIŞ! Seçim düğmesine basıldı mı? Ankara bu sözleri konuşuyor!</description>
+    </item>
+    <item>
+      <title>Halk TV: Dün sabah Güvenpark'tan zorla çıkarılan gaziler Aile Bakanlığı önünde bir araya gelecek!</title>
+      <link>https://www.youtube.com/shorts/EbfFVIoRTwg</link>
+      <guid isPermaLink="false">EbfFVIoRTwg</guid>
+      <pubDate>Thu, 20 Aug 2026 11:29:25 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Dün sabah Güvenpark'tan zorla çıkarılan gaziler Aile Bakanlığı önünde bir araya gelecek!</description>
+    </item>
     <item>
       <title>Halk TV: GÖZLER ÖZGÜR ÖZEL'DE! İmralı'nın 'İmamoğlu' çıkışına cevap verecek mi? Mehmet Tezkan'dan flaş sözler</title>
       <link>https://www.youtube.com/watch?v=UHPcPNY2dwU</link>
@@ -225,11 +239,11 @@
       <description>Halk TV kanalından yeni video: Cemal Enginyurt'tan Orhan Çerkez'e sert sözler: "İlk seçimde seni de AKP'yi de sandığa gömeceğiz"</description>
     </item>
     <item>
-      <title>Tele2 Haber: "PKK ile Müzakarelere Destek Verin Kaybedersiniz Tehdidi!" Eş Öcalan'ın Özel'e Çağrısını Yorumladı!</title>
+      <title>Tele2 Haber: "PKK İLE MÜZAKARELERE DESTEK VERİN KAYBEDERSİNİZ TEHDİDİ!" Eş Öcalan'ın Özel'e Çağrısını Yorumladı!</title>
       <link>https://www.youtube.com/watch?v=s6NBoQ0AJJc</link>
       <guid isPermaLink="false">s6NBoQ0AJJc</guid>
       <pubDate>Thu, 20 Aug 2026 10:18:44 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "PKK ile Müzakarelere Destek Verin Kaybedersiniz Tehdidi!" Eş Öcalan'ın Özel'e Çağrısını Yorumladı!</description>
+      <description>Tele2 Haber kanalından yeni video: "PKK İLE MÜZAKARELERE DESTEK VERİN KAYBEDERSİNİZ TEHDİDİ!" Eş Öcalan'ın Özel'e Çağrısını Yorumladı!</description>
     </item>
     <item>
       <title>Tele2 Haber: #CANLI Güller, Kalaycıoğlu, Solmaztürk ve Solakoğlu ile Türkiye'nin Yönü (20.08.26)</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">Iu2p_nEu-RA</guid>
       <pubDate>Thu, 20 Aug 2026 09:30:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Menzil, Süleymancılar, Furkancılar... Saygı Öztürk Tarikatların Gizli Dosyalarını Açtı!</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | İrem Sansak ile Haber Masası</title>
-      <link>https://www.youtube.com/watch?v=kCbD15PL3AM</link>
-      <guid isPermaLink="false">kCbD15PL3AM</guid>
-      <pubDate>Thu, 20 Aug 2026 09:24:17 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | İrem Sansak ile Haber Masası</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: CHP Genel Başkan Yardımcısı Orhan Sarıbal, madencilerle birlikte açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=1uH9gWH_y9M</link>
-      <guid isPermaLink="false">1uH9gWH_y9M</guid>
-      <pubDate>Thu, 20 Aug 2026 09:20:26 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkan Yardımcısı Orhan Sarıbal, madencilerle birlikte açıklama yapıyor #Canlı</description>
     </item>
   </channel>
 </rss>
