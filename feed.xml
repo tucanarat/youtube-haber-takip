@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 17:30:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 17:35:24 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: İNTİHAR MI, CİNAYET Mİ? Darıca sahilinde 3 cansız beden kardeş çıktı! 4'üncü kardeş ise sağ bulundu!</title>
+      <link>https://www.youtube.com/watch?v=ZeFrJWnN8gc</link>
+      <guid isPermaLink="false">ZeFrJWnN8gc</guid>
+      <pubDate>Fri, 21 Aug 2026 17:30:40 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İNTİHAR MI, CİNAYET Mİ? Darıca sahilinde 3 cansız beden kardeş çıktı! 4'üncü kardeş ise sağ bulundu!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İSRAİL BASININDAN KÜSTAH TÜRKİYE ÇIKIŞI! NATO 5. Madde Devreye Girecek Mi?</title>
+      <link>https://www.youtube.com/watch?v=7SN2p-DfE1Q</link>
+      <guid isPermaLink="false">7SN2p-DfE1Q</guid>
+      <pubDate>Fri, 21 Aug 2026 17:30:04 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İSRAİL BASININDAN KÜSTAH TÜRKİYE ÇIKIŞI! NATO 5. Madde Devreye Girecek Mi?</description>
+    </item>
     <item>
       <title>Halk TV: ÖCALAN'A STATÜ MÜ VERİLECEK! İbrahim Uslu gündem olacak değerlendirmelerde bulundu!</title>
       <link>https://www.youtube.com/watch?v=FO0dycQZt_c</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">5kS2-BqG8cw</guid>
       <pubDate>Fri, 21 Aug 2026 13:54:57 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Özel, YENİ Parti Genel Başkanı olarak ilk saha çalışması kapsamında yurttaşlara seslendi</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti Lideri Özgür Özel'in Trabzon'daki esnaf ziyaretlerinde renkli anlar kayda girdi!</title>
-      <link>https://www.youtube.com/shorts/GpEz9eBIUB4</link>
-      <guid isPermaLink="false">GpEz9eBIUB4</guid>
-      <pubDate>Fri, 21 Aug 2026 13:54:55 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti Lideri Özgür Özel'in Trabzon'daki esnaf ziyaretlerinde renkli anlar kayda girdi!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Haber Saati | Serap Belovacıklı | 21 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=12q9tOjS01o</link>
-      <guid isPermaLink="false">12q9tOjS01o</guid>
-      <pubDate>Fri, 21 Aug 2026 13:52:54 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Haber Saati | Serap Belovacıklı | 21 Ağustos</description>
     </item>
   </channel>
 </rss>
