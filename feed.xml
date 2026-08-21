@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 21:35:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 21:40:32 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: Madenciler, Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=X3KPHghrphA</link>
       <guid isPermaLink="false">X3KPHghrphA</guid>
       <pubDate>Fri, 21 Aug 2026 21:35:22 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Madenciler, Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor #Canlı</description>
+    </item>
+    <item>
+      <title>Halk TV: SICAK GELİŞME! Ankara Valisi'nden hastane önünde çarpıcı açıklama! İşte maden göçüğünün sebebi!</title>
+      <link>https://www.youtube.com/watch?v=3-mlII3Gisc</link>
+      <guid isPermaLink="false">3-mlII3Gisc</guid>
+      <pubDate>Fri, 21 Aug 2026 21:28:43 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SICAK GELİŞME! Ankara Valisi'nden hastane önünde çarpıcı açıklama! İşte maden göçüğünün sebebi!</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Trabzon'da karşılanıyor #Canlı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ja5LLZ_W9bU</guid>
       <pubDate>Fri, 21 Aug 2026 16:54:45 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Sözcü Ana Haber | Senem Toluay Ilgaz  | 21 Ağustos</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Burçin Atılgan ile Gündem Özel | #HalkTV</title>
-      <link>https://www.youtube.com/watch?v=ikAMA04ZqHQ</link>
-      <guid isPermaLink="false">ikAMA04ZqHQ</guid>
-      <pubDate>Fri, 21 Aug 2026 16:54:10 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Burçin Atılgan ile Gündem Özel | #HalkTV</description>
     </item>
   </channel>
 </rss>
