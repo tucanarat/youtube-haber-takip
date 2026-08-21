@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 10:15:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 10:20:28 +0000</lastBuildDate>
     <item>
       <title>Halk TV: MİLYONLAR AYAKLANACAK! İmralı Heyeti o haberi verdi! Mehmet Tezkan, Pervin Buldan'a ateş püskürdü!</title>
       <link>https://www.youtube.com/watch?v=IkOMdI3CCJM</link>
@@ -36,6 +36,13 @@
       <description>SÖZCÜ TV kanalından yeni video: Erzurumspor FK-Galatasaray Maç Sonu Yayını | Maç Varsa Erman Hoca Var</description>
     </item>
     <item>
+      <title>Cumhuriyet: Şehit yakınları ve gazilerden bakanlığa tepki: "Ankara'nın her yerini barikatla mı kapatacaksınız?"</title>
+      <link>https://www.youtube.com/shorts/9FOJYcuemTA</link>
+      <guid isPermaLink="false">9FOJYcuemTA</guid>
+      <pubDate>Fri, 21 Aug 2026 10:07:06 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Şehit yakınları ve gazilerden bakanlığa tepki: "Ankara'nın her yerini barikatla mı kapatacaksınız?"</description>
+    </item>
+    <item>
       <title>Halk TV: Menteşe Belediye Başkanı Aras, 22 meclis üyesiyle CHP’den istifa etti, YENİ Parti’ye katıldı!</title>
       <link>https://www.youtube.com/shorts/XOI8cQS3NzY</link>
       <guid isPermaLink="false">XOI8cQS3NzY</guid>
@@ -55,6 +62,13 @@
       <guid isPermaLink="false">jttQFVnW1PI</guid>
       <pubDate>Fri, 21 Aug 2026 10:04:56 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Özel: Yol haritamızı anlatmaya, iktidarımızı nasıl kuracağımızı anlatmaya ihtiyaç var!</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Klima ünitesinde mahsur kalan kediyi plaj çantasıyla kurtardı</title>
+      <link>https://www.youtube.com/shorts/nicDirsd9m0</link>
+      <guid isPermaLink="false">nicDirsd9m0</guid>
+      <pubDate>Fri, 21 Aug 2026 10:04:54 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Klima ünitesinde mahsur kalan kediyi plaj çantasıyla kurtardı</description>
     </item>
     <item>
       <title>Halk TV: Alihan Kuriş'in kardeşi yakalandı!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">Lvlh2ByJRlI</guid>
       <pubDate>Fri, 21 Aug 2026 08:29:36 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Van Gölü’nün mucizevi etkisi: Sodalı suda yüzen çocukların saçları yine sarıya döndü</description>
-    </item>
-    <item>
-      <title>Halk TV: Tarihi Anlar! O Konuştu Herkes Sustu...Yaptığı Konuşmayla İtirafçıları Yerin Dibine Soktu!</title>
-      <link>https://www.youtube.com/watch?v=P7BO4IF25z0</link>
-      <guid isPermaLink="false">P7BO4IF25z0</guid>
-      <pubDate>Fri, 21 Aug 2026 08:27:46 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Tarihi Anlar! O Konuştu Herkes Sustu...Yaptığı Konuşmayla İtirafçıları Yerin Dibine Soktu!</description>
-    </item>
-    <item>
-      <title>Halk TV: AKP'Yİ EN HASSAS YERİNDEN VURDU! Oğuz Demir'in Mehmet Şimşek sözleri ortalığı yıkar! Maskeler düştü!</title>
-      <link>https://www.youtube.com/watch?v=lecGg4WloAo</link>
-      <guid isPermaLink="false">lecGg4WloAo</guid>
-      <pubDate>Fri, 21 Aug 2026 08:20:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: AKP'Yİ EN HASSAS YERİNDEN VURDU! Oğuz Demir'in Mehmet Şimşek sözleri ortalığı yıkar! Maskeler düştü!</description>
     </item>
   </channel>
 </rss>
