@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 07:10:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 07:15:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | BilgeYurtdagülen ile Neden Sonuç | Mehmet Tezkan</title>
+      <link>https://www.youtube.com/watch?v=x9eYY-mL1_Q</link>
+      <guid isPermaLink="false">x9eYY-mL1_Q</guid>
+      <pubDate>Fri, 21 Aug 2026 07:12:07 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | BilgeYurtdagülen ile Neden Sonuç | Mehmet Tezkan</description>
+    </item>
+    <item>
+      <title>Halk TV: YUMURTAYA ZAM ÜSTÜNE ZAM! Yurttaşlar isyan bayrağını çekti! "Aç kalacağız! Aç!"</title>
+      <link>https://www.youtube.com/watch?v=rM-ZffvIdPY</link>
+      <guid isPermaLink="false">rM-ZffvIdPY</guid>
+      <pubDate>Fri, 21 Aug 2026 07:10:29 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YUMURTAYA ZAM ÜSTÜNE ZAM! Yurttaşlar isyan bayrağını çekti! "Aç kalacağız! Aç!"</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Devlet Menzil'e Neden Dokunamıyor? Tarikatın Akılalmaz Kirli Çarkı! Fatih Ergenekon'dan Bomba Sözler</title>
       <link>https://www.youtube.com/watch?v=tBwJj0wWQxI</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">KP29J22BWOM</guid>
       <pubDate>Thu, 20 Aug 2026 19:37:15 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: ÖCALAN'IN STATÜSÜ BELLİ OLDU! Güller, Kalaycıoğlu, Solmaztürk ve Solakoğlu ile Türkiye'nin Yönü</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Ekrem İmamoğlu Konuştu Silivri Yıkıldı! O İDDİALARA ÖYLE ŞEYLER SÖYLEDİ Kİ! Uğur Poyraz Yorumladı</title>
-      <link>https://www.youtube.com/watch?v=3OuNQhAUX1c</link>
-      <guid isPermaLink="false">3OuNQhAUX1c</guid>
-      <pubDate>Thu, 20 Aug 2026 19:30:12 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Ekrem İmamoğlu Konuştu Silivri Yıkıldı! O İDDİALARA ÖYLE ŞEYLER SÖYLEDİ Kİ! Uğur Poyraz Yorumladı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "Cumhuriyet, Lozan düşmanı 3 siyasi akım" Engin Solakoğlu'ndan çok net 'barış süreci' analizi!</title>
-      <link>https://www.youtube.com/watch?v=op_M-J8ERMU</link>
-      <guid isPermaLink="false">op_M-J8ERMU</guid>
-      <pubDate>Thu, 20 Aug 2026 19:30:12 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "Cumhuriyet, Lozan düşmanı 3 siyasi akım" Engin Solakoğlu'ndan çok net 'barış süreci' analizi!</description>
     </item>
   </channel>
 </rss>
