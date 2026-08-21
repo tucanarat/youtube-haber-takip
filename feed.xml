@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 09:52:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 09:55:23 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Bilge Yurtdagülen ile Neden Sonuç | Mehmet Tezkan (21 Ağustos 2026)</title>
+      <link>https://www.youtube.com/watch?v=x9eYY-mL1_Q</link>
+      <guid isPermaLink="false">x9eYY-mL1_Q</guid>
+      <pubDate>Fri, 21 Aug 2026 09:52:41 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Bilge Yurtdagülen ile Neden Sonuç | Mehmet Tezkan (21 Ağustos 2026)</description>
+    </item>
     <item>
       <title>Halk TV: 3 BİN LİRAYI GÖZDEN ÇIKARIN! Sinemaya gitmenin maliyeti dudak uçuklatıyor!</title>
       <link>https://www.youtube.com/watch?v=3n7wDU1MJRg</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">pbpbtSMIHGQ</guid>
       <pubDate>Fri, 21 Aug 2026 07:36:07 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İBB DAVASINDA TARİHİ SAVUNMA! İmamoğlu'nun özel kalemi mahkemeye buz kestirdi! Boğazlar düğümlendi!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Sınırda Bekleyen Büyük Tehlike! ABD ve İsrail'in Kirli Planı Murat Ağırel'den Tüyler Ürperten İddia!</title>
-      <link>https://www.youtube.com/watch?v=tkOjFXpYpNc</link>
-      <guid isPermaLink="false">tkOjFXpYpNc</guid>
-      <pubDate>Fri, 21 Aug 2026 07:30:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Sınırda Bekleyen Büyük Tehlike! ABD ve İsrail'in Kirli Planı Murat Ağırel'den Tüyler Ürperten İddia!</description>
     </item>
   </channel>
 </rss>
