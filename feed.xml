@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 14:00:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 14:01:46 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: İBB DAVASINDA GECE YARISI KRİTİK SAVUNMA! Rüşvet iddialarındaki detayları Mehmet Tezkan anlattı!</title>
+      <link>https://www.youtube.com/watch?v=LPY77ODCRzQ</link>
+      <guid isPermaLink="false">LPY77ODCRzQ</guid>
+      <pubDate>Fri, 21 Aug 2026 14:00:12 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İBB DAVASINDA GECE YARISI KRİTİK SAVUNMA! Rüşvet iddialarındaki detayları Mehmet Tezkan anlattı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Yavuz Ağıralioğlu'ndan Ümit Özdağ ve Müsavat Dervişoğlu Açıklaması! Tarihe Geçecek İttifak Çıkışı</title>
       <link>https://www.youtube.com/watch?v=g5KjchQbGe8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Igv-kH7jFoA</guid>
       <pubDate>Fri, 21 Aug 2026 11:50:31 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Özel'e Trabzon'da Görkemli Karşılama! Binlerce Kişi Havalimanına Akın Etti!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Özgür Özel, küçük Çınar ile röportaj yaptı: "Ekrem İmamoğlu'nu Cumhurbaşkanı yapacağız!"</title>
-      <link>https://www.youtube.com/shorts/no8kuSFD3F0</link>
-      <guid isPermaLink="false">no8kuSFD3F0</guid>
-      <pubDate>Fri, 21 Aug 2026 11:46:15 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Özgür Özel, küçük Çınar ile röportaj yaptı: "Ekrem İmamoğlu'nu Cumhurbaşkanı yapacağız!"</description>
     </item>
   </channel>
 </rss>
