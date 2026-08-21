@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 21:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 21:05:25 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Süleymancılar ve Furkancılar Hedefte! Operasyonların Perde Arkasını Şükrü Küçükşahin Araladı</title>
+      <link>https://www.youtube.com/watch?v=90nxP8di9_Y</link>
+      <guid isPermaLink="false">90nxP8di9_Y</guid>
+      <pubDate>Fri, 21 Aug 2026 21:00:14 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Süleymancılar ve Furkancılar Hedefte! Operasyonların Perde Arkasını Şükrü Küçükşahin Araladı</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: MADEN-İŞ Orta Anadolu Şube Başkanı Talih Kocabıyık açıklama yapıyor/ Ankara #Canlı</title>
       <link>https://www.youtube.com/watch?v=mtmL17Ocr8M</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">wh4jXKHFe90</guid>
       <pubDate>Fri, 21 Aug 2026 16:40:05 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Trabzon’da, bir yurttaşın Özgür Özel’e söylediği “Ekrem’i unutma” sözü güne damga vurdu! #shorts</description>
-    </item>
-    <item>
-      <title>Halk TV: BU DA OLDU: 5 yıldızlı Lykia World sahili kazıp çöplük yaptı! Kaplumbağa dostu sertifikasına iptal!</title>
-      <link>https://www.youtube.com/watch?v=gUF4M_MdFc0</link>
-      <guid isPermaLink="false">gUF4M_MdFc0</guid>
-      <pubDate>Fri, 21 Aug 2026 16:30:48 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BU DA OLDU: 5 yıldızlı Lykia World sahili kazıp çöplük yaptı! Kaplumbağa dostu sertifikasına iptal!</description>
     </item>
   </channel>
 </rss>
