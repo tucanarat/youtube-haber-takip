@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 13:25:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 13:30:40 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Diyarbakır'da 2024’te öldürülen Narin Güran, kabri başında anılıyor  #Canlı</title>
+      <link>https://www.youtube.com/watch?v=eMusvkOaMRs</link>
+      <guid isPermaLink="false">eMusvkOaMRs</guid>
+      <pubDate>Fri, 21 Aug 2026 13:26:39 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Diyarbakır'da 2024’te öldürülen Narin Güran, kabri başında anılıyor  #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: ÖZGÜR ÖZEL HERKESİ KAHKAHAYA BOĞDU! Cemal Enginyurt'a 'sütlaç' esprisi ortalığı kırdı geçirdi!</title>
       <link>https://www.youtube.com/watch?v=TaD7UzZqdpc</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">VWyN8Qf_N3s</guid>
       <pubDate>Fri, 21 Aug 2026 10:50:54 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Özgür Özel’den Trabzon’da iddialı iktidar mesajı: "Yeni Parti'yi iktidar olsun diye kurduk"</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Özgür Özel'den Öcalan'a Çarpıcı Demokrasi Cevabı! "Yolu TBMM'den Geçer!"</title>
-      <link>https://www.youtube.com/watch?v=kALgTvauSR0</link>
-      <guid isPermaLink="false">kALgTvauSR0</guid>
-      <pubDate>Fri, 21 Aug 2026 10:49:22 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Özgür Özel'den Öcalan'a Çarpıcı Demokrasi Cevabı! "Yolu TBMM'den Geçer!"</description>
     </item>
   </channel>
 </rss>
