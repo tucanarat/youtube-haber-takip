@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 21:30:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 21:35:25 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Madenciler, Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=X3KPHghrphA</link>
+      <guid isPermaLink="false">X3KPHghrphA</guid>
+      <pubDate>Fri, 21 Aug 2026 21:35:22 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Madenciler, Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor #Canlı</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Trabzon'da karşılanıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=uhtMGIDJmXU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ikAMA04ZqHQ</guid>
       <pubDate>Fri, 21 Aug 2026 16:54:10 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | Burçin Atılgan ile Gündem Özel | #HalkTV</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Süleymancıların kaçış aracı AKP'li bakanın çıktı! Murat Taylan ile Haber-Yorum (21.08.26)</title>
-      <link>https://www.youtube.com/watch?v=E7le9eGnadA</link>
-      <guid isPermaLink="false">E7le9eGnadA</guid>
-      <pubDate>Fri, 21 Aug 2026 16:51:03 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Süleymancıların kaçış aracı AKP'li bakanın çıktı! Murat Taylan ile Haber-Yorum (21.08.26)</description>
     </item>
   </channel>
 </rss>
