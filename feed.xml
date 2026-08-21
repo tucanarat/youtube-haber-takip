@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 16:24:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 16:25:23 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: "Demokrasi'nin yolu İmralı'dan geçer!" YENİ Parti Lideri Özgür Özel'den çok çarpıcı 'yanıt' geldi!</title>
+      <link>https://www.youtube.com/watch?v=VORH9wFPBfU</link>
+      <guid isPermaLink="false">VORH9wFPBfU</guid>
+      <pubDate>Fri, 21 Aug 2026 16:15:29 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: "Demokrasi'nin yolu İmralı'dan geçer!" YENİ Parti Lideri Özgür Özel'den çok çarpıcı 'yanıt' geldi!</description>
+    </item>
     <item>
       <title>Tele2 Haber: "MESAJ TÜRKİYE'YE" İsrail-Suriye telefon görüşmesi ortaya çıktı! Murat Taylan arka planını anlattı</title>
       <link>https://www.youtube.com/watch?v=GbvLgSpwgRA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">TaD7UzZqdpc</guid>
       <pubDate>Fri, 21 Aug 2026 13:15:23 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ÖZGÜR ÖZEL HERKESİ KAHKAHAYA BOĞDU! Cemal Enginyurt'a 'sütlaç' esprisi ortalığı kırdı geçirdi!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Saruhan Oluç: "Öcalan'ın Kendi Örgütüyle İletişim İmkanının Azami Ölçüde Olması Gerekiyor!"</title>
-      <link>https://www.youtube.com/watch?v=cKF3OQMRDRk</link>
-      <guid isPermaLink="false">cKF3OQMRDRk</guid>
-      <pubDate>Fri, 21 Aug 2026 13:12:01 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Saruhan Oluç: "Öcalan'ın Kendi Örgütüyle İletişim İmkanının Azami Ölçüde Olması Gerekiyor!"</description>
     </item>
   </channel>
 </rss>
