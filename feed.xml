@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 07:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 07:20:29 +0000</lastBuildDate>
     <item>
       <title>Halk TV: #CANLI | BilgeYurtdagülen ile Neden Sonuç | Mehmet Tezkan</title>
       <link>https://www.youtube.com/watch?v=x9eYY-mL1_Q</link>
@@ -76,6 +76,13 @@
       <guid isPermaLink="false">slVXVPsq-P8</guid>
       <pubDate>Fri, 21 Aug 2026 06:20:05 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Türkiye Maden-İş Sendikası üyeleri, Yıldızlar SSS Holding önünde açıklama yapıyor #Canlı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Sınırda Bekleyen Büyük Tehlike! ABD ve İsrail'in Kirli Planı Murat Ağırel'den Tüyler Ürperten İddia!</title>
+      <link>https://www.youtube.com/watch?v=tkOjFXpYpNc</link>
+      <guid isPermaLink="false">tkOjFXpYpNc</guid>
+      <pubDate>Fri, 21 Aug 2026 06:15:33 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Sınırda Bekleyen Büyük Tehlike! ABD ve İsrail'in Kirli Planı Murat Ağırel'den Tüyler Ürperten İddia!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Denizli'de Polisten Kaçan Alkollü Sürücü 4 Araca Çarptı! | 450 Bin TL Ceza #shorts</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">5LTsiCBKfOI</guid>
       <pubDate>Thu, 20 Aug 2026 19:45:13 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BU ANKET GÜNDEMİ SARSACAK! Bu pazar Cumhurbaşkanı 2. tur seçimi olsa.. Erdoğan’a büyük fark!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: ÖCALAN'IN STATÜSÜ BELLİ OLDU! Güller, Kalaycıoğlu, Solmaztürk ve Solakoğlu ile Türkiye'nin Yönü</title>
-      <link>https://www.youtube.com/watch?v=KP29J22BWOM</link>
-      <guid isPermaLink="false">KP29J22BWOM</guid>
-      <pubDate>Thu, 20 Aug 2026 19:37:15 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: ÖCALAN'IN STATÜSÜ BELLİ OLDU! Güller, Kalaycıoğlu, Solmaztürk ve Solakoğlu ile Türkiye'nin Yönü</description>
     </item>
   </channel>
 </rss>
