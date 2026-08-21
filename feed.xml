@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 17:15:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 17:20:35 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ÖCALAN'A STATÜ MÜ VERİLECEK! İbrahim Uslu gündem olacak değerlendirmelerde bulundu!</title>
+      <link>https://www.youtube.com/watch?v=FO0dycQZt_c</link>
+      <guid isPermaLink="false">FO0dycQZt_c</guid>
+      <pubDate>Fri, 21 Aug 2026 17:15:26 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ÖCALAN'A STATÜ MÜ VERİLECEK! İbrahim Uslu gündem olacak değerlendirmelerde bulundu!</description>
+    </item>
     <item>
       <title>Halk TV: Adım atmakta zorlandı YENİ Parti Lideri Özgür Özel’e Trabzon’da büyük ilgi! #shorts</title>
       <link>https://www.youtube.com/shorts/fmGbLqLLabk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">12q9tOjS01o</guid>
       <pubDate>Fri, 21 Aug 2026 13:52:54 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Haber Saati | Serap Belovacıklı | 21 Ağustos</description>
-    </item>
-    <item>
-      <title>Halk TV: ÖZGÜR ÖZEL'DEN MANSUR YAVAŞ AÇIKLAMASI! Gündem bununla sallanacak! Mustafa Balbay tek tek anlattı!</title>
-      <link>https://www.youtube.com/watch?v=HYhWxEd62pQ</link>
-      <guid isPermaLink="false">HYhWxEd62pQ</guid>
-      <pubDate>Fri, 21 Aug 2026 13:45:33 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ÖZGÜR ÖZEL'DEN MANSUR YAVAŞ AÇIKLAMASI! Gündem bununla sallanacak! Mustafa Balbay tek tek anlattı!</description>
     </item>
   </channel>
 </rss>
