@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 09:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 09:40:32 +0000</lastBuildDate>
     <item>
       <title>Halk TV: TRABZON ÖZGÜR ÖZEL İLE YIKILIYOR! Adım atar atmaz tüm vatandaşlar yanına koştu! Butlana kabus olur!</title>
       <link>https://www.youtube.com/watch?v=MsYMYsQnw5I</link>
       <guid isPermaLink="false">MsYMYsQnw5I</guid>
       <pubDate>Fri, 21 Aug 2026 09:30:18 +0000</pubDate>
       <description>Halk TV kanalından yeni video: TRABZON ÖZGÜR ÖZEL İLE YIKILIYOR! Adım atar atmaz tüm vatandaşlar yanına koştu! Butlana kabus olur!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Nevzat Çiçek'ten Tarihi Kulis! Eylül Ayına Dikkat! Demirtaş Çıkıyor mu? Öcalan Detayı Olay Olur</title>
+      <link>https://www.youtube.com/watch?v=KMlsZFgBchA</link>
+      <guid isPermaLink="false">KMlsZFgBchA</guid>
+      <pubDate>Fri, 21 Aug 2026 09:30:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Nevzat Çiçek'ten Tarihi Kulis! Eylül Ayına Dikkat! Demirtaş Çıkıyor mu? Öcalan Detayı Olay Olur</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Er şehit yakınları ve er gaziler, Kurtuluş Parkı’nda açıklama yapıyor #Canlı</title>
@@ -69,6 +76,13 @@
       <guid isPermaLink="false">laRmk_J4tSQ</guid>
       <pubDate>Fri, 21 Aug 2026 09:13:07 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Özel, YENİ Parti Genel Başkanı olarak ilk saha çalışması için Trabzon'a gitti! #shorts</description>
+    </item>
+    <item>
+      <title>Halk TV: MİLYONLAR AYAKLANACAK! İmralı Heyeti o haberi verdi! Mehmet Tezkan, Pervin Buldan'a ateş püskürdü!</title>
+      <link>https://www.youtube.com/watch?v=IkOMdI3CCJM</link>
+      <guid isPermaLink="false">IkOMdI3CCJM</guid>
+      <pubDate>Fri, 21 Aug 2026 09:10:37 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: MİLYONLAR AYAKLANACAK! İmralı Heyeti o haberi verdi! Mehmet Tezkan, Pervin Buldan'a ateş püskürdü!</description>
     </item>
     <item>
       <title>Tele2 Haber: #CANLI Maden işçileri, Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">slVXVPsq-P8</guid>
       <pubDate>Fri, 21 Aug 2026 07:28:57 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Türkiye Maden-İş Sendikası üyeleri, Yıldızlar SSS Holding önünde açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: Türkiye Maden-İş Sendikası Üyeleri, Yıldızlar SSS Holding Önünde Açıklama Yaptı!</title>
-      <link>https://www.youtube.com/watch?v=7ccCSp-UKVg</link>
-      <guid isPermaLink="false">7ccCSp-UKVg</guid>
-      <pubDate>Fri, 21 Aug 2026 07:27:31 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Türkiye Maden-İş Sendikası Üyeleri, Yıldızlar SSS Holding Önünde Açıklama Yaptı!</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Bilge Yurtdagülen ile Neden Sonuç | Mehmet Tezkan</title>
-      <link>https://www.youtube.com/watch?v=x9eYY-mL1_Q</link>
-      <guid isPermaLink="false">x9eYY-mL1_Q</guid>
-      <pubDate>Fri, 21 Aug 2026 07:12:07 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Bilge Yurtdagülen ile Neden Sonuç | Mehmet Tezkan</description>
     </item>
   </channel>
 </rss>
