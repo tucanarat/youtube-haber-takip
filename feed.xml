@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 16:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 16:40:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: BU DA OLDU: 5 yıldızlı Lykia World sahili kazıp çöplük yaptı! Kaplumbağa dostu sertifikasına iptal!</title>
+      <link>https://www.youtube.com/watch?v=gUF4M_MdFc0</link>
+      <guid isPermaLink="false">gUF4M_MdFc0</guid>
+      <pubDate>Fri, 21 Aug 2026 16:30:48 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BU DA OLDU: 5 yıldızlı Lykia World sahili kazıp çöplük yaptı! Kaplumbağa dostu sertifikasına iptal!</description>
+    </item>
     <item>
       <title>Tele2 Haber: "MESAJ TÜRKİYE'YE" İsrail-Suriye telefon görüşmesi ortaya çıktı! Murat Taylan arka planını anlattı</title>
       <link>https://www.youtube.com/watch?v=GbvLgSpwgRA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">eMusvkOaMRs</guid>
       <pubDate>Fri, 21 Aug 2026 13:26:39 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Diyarbakır'da 2024’te öldürülen Narin Güran, kabri başında anılıyor  #Canlı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Madencilerden 'haklar ödendi' haberlerine sert tepki: "Holding tetikçisi misiniz?"</title>
-      <link>https://www.youtube.com/watch?v=g7zhChzxnYA</link>
-      <guid isPermaLink="false">g7zhChzxnYA</guid>
-      <pubDate>Fri, 21 Aug 2026 13:16:08 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Madencilerden 'haklar ödendi' haberlerine sert tepki: "Holding tetikçisi misiniz?"</description>
     </item>
   </channel>
 </rss>
