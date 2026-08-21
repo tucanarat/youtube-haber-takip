@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 18:20:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 18:25:31 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Bahçeli 50+1'den vazgeçecek mi? Seçim sistemi nasıl olacak? Tuba Torun ve Bülent Mumay yorumladı</title>
+      <link>https://www.youtube.com/watch?v=Xmlw1XZDj_Q</link>
+      <guid isPermaLink="false">Xmlw1XZDj_Q</guid>
+      <pubDate>Fri, 21 Aug 2026 18:20:30 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Bahçeli 50+1'den vazgeçecek mi? Seçim sistemi nasıl olacak? Tuba Torun ve Bülent Mumay yorumladı</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Ankara'da maden ocağında göçük: 1 işçi öldü, 20 kişi etkilendi</title>
+      <link>https://www.youtube.com/watch?v=J0Kk3ELOpC4</link>
+      <guid isPermaLink="false">J0Kk3ELOpC4</guid>
+      <pubDate>Fri, 21 Aug 2026 18:19:53 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Ankara'da maden ocağında göçük: 1 işçi öldü, 20 kişi etkilendi</description>
+    </item>
     <item>
       <title>Halk TV: Çiğli Belediye Başkanı'nın aracına silahlı saldırı düzenlemişti! O saldırgan suç makinesi çıktı!</title>
       <link>https://www.youtube.com/watch?v=HyRIBc14_8Y</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">y3jALiSj3EI</guid>
       <pubDate>Fri, 21 Aug 2026 14:21:39 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Trabzon'da fındık işçilerini ziyaret ediyor #Canlı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Altında Yeni Zirvenin Tarihini Ünlü Ekonomist Açıkladı! Gram Altında Rekor Üstüne Rekor</title>
-      <link>https://www.youtube.com/watch?v=4OJUzNfKQ0c</link>
-      <guid isPermaLink="false">4OJUzNfKQ0c</guid>
-      <pubDate>Fri, 21 Aug 2026 14:20:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Altında Yeni Zirvenin Tarihini Ünlü Ekonomist Açıkladı! Gram Altında Rekor Üstüne Rekor</description>
-    </item>
-    <item>
-      <title>Halk TV: Diyarbakır'da 2024’te Öldürülen Narin Güran, Kabri Başında Anıldı!</title>
-      <link>https://www.youtube.com/watch?v=kFrbM4oPu-o</link>
-      <guid isPermaLink="false">kFrbM4oPu-o</guid>
-      <pubDate>Fri, 21 Aug 2026 14:16:03 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Diyarbakır'da 2024’te Öldürülen Narin Güran, Kabri Başında Anıldı!</description>
     </item>
   </channel>
 </rss>
