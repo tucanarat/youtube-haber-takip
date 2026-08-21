@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 20:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 20:05:27 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: DİYANET'İN SÜLEYMANCILAR RAPORU ORTAYA ÇIKTI: İkinci FETÖ Tehlikesi Mi? Süheyl Batum Anlattı</title>
+      <link>https://www.youtube.com/watch?v=AuG10QiYlB4</link>
+      <guid isPermaLink="false">AuG10QiYlB4</guid>
+      <pubDate>Fri, 21 Aug 2026 20:00:22 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: DİYANET'İN SÜLEYMANCILAR RAPORU ORTAYA ÇIKTI: İkinci FETÖ Tehlikesi Mi? Süheyl Batum Anlattı</description>
+    </item>
     <item>
       <title>Tele2 Haber: İmamoğlu'na duruşma salonunda ne oldu? Tuba Torun sessizliğe şaşkınlığını böyle anlattı!</title>
       <link>https://www.youtube.com/watch?v=fchfGp5TQZs</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">EWwmVM5SoB4</guid>
       <pubDate>Fri, 21 Aug 2026 15:45:28 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Alihan Kuriş'in kardeşi Marmaris'te yakalanmıştı: Eski Bakan İdris Naim Şahin Halk TV'ye konuştu!</description>
-    </item>
-    <item>
-      <title>Halk TV: "MEYDANLAR YENİ PARTİ DİYOR!" Trabzon'da Cemal Enginyurt’tan YENİ Parti mesajı! #shorts</title>
-      <link>https://www.youtube.com/shorts/OO8OhxRA5os</link>
-      <guid isPermaLink="false">OO8OhxRA5os</guid>
-      <pubDate>Fri, 21 Aug 2026 15:43:19 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: "MEYDANLAR YENİ PARTİ DİYOR!" Trabzon'da Cemal Enginyurt’tan YENİ Parti mesajı! #shorts</description>
     </item>
   </channel>
 </rss>
