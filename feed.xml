@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 21:05:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 21:10:29 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Trabzon'da karşılanıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=uhtMGIDJmXU</link>
+      <guid isPermaLink="false">uhtMGIDJmXU</guid>
+      <pubDate>Fri, 21 Aug 2026 21:08:04 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Trabzon'da karşılanıyor #Canlı</description>
+    </item>
+    <item>
+      <title>Halk TV: SON DAKİKA! Beypazarın’daki maden ocağında göçük! 4 madenci ağır yaralı! İşte son bilgiler!</title>
+      <link>https://www.youtube.com/watch?v=lgxtgR0X9Es</link>
+      <guid isPermaLink="false">lgxtgR0X9Es</guid>
+      <pubDate>Fri, 21 Aug 2026 21:02:35 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! Beypazarın’daki maden ocağında göçük! 4 madenci ağır yaralı! İşte son bilgiler!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Süleymancılar ve Furkancılar Hedefte! Operasyonların Perde Arkasını Şükrü Küçükşahin Araladı</title>
       <link>https://www.youtube.com/watch?v=90nxP8di9_Y</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">E7le9eGnadA</guid>
       <pubDate>Fri, 21 Aug 2026 16:51:03 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Süleymancıların kaçış aracı AKP'li bakanın çıktı! Murat Taylan ile Haber-Yorum (21.08.26)</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! Ankara’da feci olay! Nallıhan’’da maden ocağında göçük! 1 kişi hayatını kaybetti…</title>
-      <link>https://www.youtube.com/watch?v=HAAlFaJGMMg</link>
-      <guid isPermaLink="false">HAAlFaJGMMg</guid>
-      <pubDate>Fri, 21 Aug 2026 16:45:04 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! Ankara’da feci olay! Nallıhan’’da maden ocağında göçük! 1 kişi hayatını kaybetti…</description>
-    </item>
-    <item>
-      <title>Halk TV: Trabzon’da, bir yurttaşın Özgür Özel’e söylediği “Ekrem’i unutma” sözü güne damga vurdu! #shorts</title>
-      <link>https://www.youtube.com/shorts/wh4jXKHFe90</link>
-      <guid isPermaLink="false">wh4jXKHFe90</guid>
-      <pubDate>Fri, 21 Aug 2026 16:40:05 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Trabzon’da, bir yurttaşın Özgür Özel’e söylediği “Ekrem’i unutma” sözü güne damga vurdu! #shorts</description>
     </item>
   </channel>
 </rss>
