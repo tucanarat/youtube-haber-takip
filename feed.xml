@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 11:25:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 11:30:38 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: "Ekrem İmamoğlu'nu Cumhurbaşkanı Yapacağız Çınar!" Özgür Özel Küçük Çınar ile Röportaj Yaptı!</title>
+      <link>https://www.youtube.com/watch?v=eZJgQwIz4tg</link>
+      <guid isPermaLink="false">eZJgQwIz4tg</guid>
+      <pubDate>Fri, 21 Aug 2026 11:25:37 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "Ekrem İmamoğlu'nu Cumhurbaşkanı Yapacağız Çınar!" Özgür Özel Küçük Çınar ile Röportaj Yaptı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Sözcü Masası | Senem Toluay Ilgaz | 19 Ağustos</title>
       <link>https://www.youtube.com/watch?v=NAkyA63lBTo</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">vzuKSx787O0</guid>
       <pubDate>Fri, 21 Aug 2026 09:09:17 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Özgür Özel Trabzon'da karşılanıyor</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel'e Trabzon'da Görkemli Karşılama! Binlerce Kişi Havalimanına Akın Etti!</title>
-      <link>https://www.youtube.com/watch?v=SP4-Cx1isNQ</link>
-      <guid isPermaLink="false">SP4-Cx1isNQ</guid>
-      <pubDate>Fri, 21 Aug 2026 09:09:11 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel'e Trabzon'da Görkemli Karşılama! Binlerce Kişi Havalimanına Akın Etti!</description>
     </item>
   </channel>
 </rss>
