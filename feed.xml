@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 17:37:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 17:40:34 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: TUBA TORUN'DAN ÖCALAN'IN 'SİLİVRİ' SÖZLERİNE TEPKİ!</title>
+      <link>https://www.youtube.com/shorts/wDMrf6dEG90</link>
+      <guid isPermaLink="false">wDMrf6dEG90</guid>
+      <pubDate>Fri, 21 Aug 2026 17:37:57 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: TUBA TORUN'DAN ÖCALAN'IN 'SİLİVRİ' SÖZLERİNE TEPKİ!</description>
+    </item>
     <item>
       <title>Halk TV: İNTİHAR MI, CİNAYET Mİ? Darıca sahilinde 3 cansız beden kardeş çıktı! 4'üncü kardeş ise sağ bulundu!</title>
       <link>https://www.youtube.com/watch?v=ZeFrJWnN8gc</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">kXW7p24kNEI</guid>
       <pubDate>Fri, 21 Aug 2026 13:55:10 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Özel’in konuştuğu sırada ses sisteminde sorun çıktı, dinleyicilerden biri eşini suçladı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel, YENİ Parti Genel Başkanı olarak ilk saha çalışması kapsamında yurttaşlara seslendi</title>
-      <link>https://www.youtube.com/shorts/5kS2-BqG8cw</link>
-      <guid isPermaLink="false">5kS2-BqG8cw</guid>
-      <pubDate>Fri, 21 Aug 2026 13:54:57 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel, YENİ Parti Genel Başkanı olarak ilk saha çalışması kapsamında yurttaşlara seslendi</description>
     </item>
   </channel>
 </rss>
