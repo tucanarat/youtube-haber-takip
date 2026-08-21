@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 10:35:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 10:40:30 +0000</lastBuildDate>
     <item>
       <title>Halk TV: BU DALGA KILIÇDAROĞLU'NU YUTACAK! Menteşe Belediyesi de artık YENİ Parti'nin! Genel Merkez kitlendi!</title>
       <link>https://www.youtube.com/watch?v=87gt2w9QgLU</link>
       <guid isPermaLink="false">87gt2w9QgLU</guid>
       <pubDate>Fri, 21 Aug 2026 10:30:15 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BU DALGA KILIÇDAROĞLU'NU YUTACAK! Menteşe Belediyesi de artık YENİ Parti'nin! Genel Merkez kitlendi!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: MOSSAD'DAN ŞAM'A GİZLİ TELEFON! Hedef Türkiye! Netanyahu'nun Kirli Oyunu Açığa Çıktı</title>
+      <link>https://www.youtube.com/watch?v=6J3Zi5M35p8</link>
+      <guid isPermaLink="false">6J3Zi5M35p8</guid>
+      <pubDate>Fri, 21 Aug 2026 10:30:03 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: MOSSAD'DAN ŞAM'A GİZLİ TELEFON! Hedef Türkiye! Netanyahu'nun Kirli Oyunu Açığa Çıktı</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | Özgür Özel'e Trabzon'da Görkemli Karşılama! Binlerce Kişi Havalimanına Akın Etti!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">uhtMGIDJmXU</guid>
       <pubDate>Fri, 21 Aug 2026 08:33:18 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Trabzon'da karşılanıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Maden işçileri Yıldızlar SSS Holding önünde: Yasal alacaklarımızı almadan Ankara’dan ayrılmayacağız</title>
-      <link>https://www.youtube.com/watch?v=TSRIsT7GZWs</link>
-      <guid isPermaLink="false">TSRIsT7GZWs</guid>
-      <pubDate>Fri, 21 Aug 2026 08:32:22 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Maden işçileri Yıldızlar SSS Holding önünde: Yasal alacaklarımızı almadan Ankara’dan ayrılmayacağız</description>
     </item>
   </channel>
 </rss>
