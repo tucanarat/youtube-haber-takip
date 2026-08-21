@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 11:00:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 11:05:26 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: AVRUPA HER GÜN ÖLÜYOR! 25 Bin Kişi Sıcaktan Öldü Dev Ülkeler Harekete Geçti!</title>
+      <link>https://www.youtube.com/watch?v=P3mWjN7KtZU</link>
+      <guid isPermaLink="false">P3mWjN7KtZU</guid>
+      <pubDate>Fri, 21 Aug 2026 11:00:14 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: AVRUPA HER GÜN ÖLÜYOR! 25 Bin Kişi Sıcaktan Öldü Dev Ülkeler Harekete Geçti!</description>
+    </item>
+    <item>
+      <title>Halk TV: İSRAİL'İN SALDIRISI TÜRKİYE'Yİ AYAĞA KALDIRDI! Devlet Bahçeli'den Netanyahu'ya zehir zemberek sözler</title>
+      <link>https://www.youtube.com/watch?v=ppDLD36tfe8</link>
+      <guid isPermaLink="false">ppDLD36tfe8</guid>
+      <pubDate>Fri, 21 Aug 2026 11:00:05 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İSRAİL'İN SALDIRISI TÜRKİYE'Yİ AYAĞA KALDIRDI! Devlet Bahçeli'den Netanyahu'ya zehir zemberek sözler</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Öğle Bülteni | Gülinay Selçuk | 21 Ağustos</title>
       <link>https://www.youtube.com/watch?v=zHP-VU2Hpz0</link>
@@ -92,11 +106,11 @@
       <description>Tele2 Haber kanalından yeni video: "HOLDİNG TETİKÇİSİ MİSİNİZ TERBİYESİZ HERİFLER!" Başaran Aksu Yandaş Medyaya Ateş Püskürdü!</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: Erzurumspor FK-Galatasaray Maç Sonu Yayını | Maç Varsa Erman Hoca Var</title>
+      <title>SÖZCÜ TV: Erzurumspor FK - Galatasaray Maç Sonu | Maç Varsa Erman Hoca Var</title>
       <link>https://www.youtube.com/watch?v=dSo4Fg7ywj8</link>
       <guid isPermaLink="false">dSo4Fg7ywj8</guid>
       <pubDate>Fri, 21 Aug 2026 10:07:57 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Erzurumspor FK-Galatasaray Maç Sonu Yayını | Maç Varsa Erman Hoca Var</description>
+      <description>SÖZCÜ TV kanalından yeni video: Erzurumspor FK - Galatasaray Maç Sonu | Maç Varsa Erman Hoca Var</description>
     </item>
     <item>
       <title>Cumhuriyet: Şehit yakınları ve gazilerden bakanlığa tepki: "Ankara'nın her yerini barikatla mı kapatacaksınız?"</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">vPCnp7D420Q</guid>
       <pubDate>Fri, 21 Aug 2026 08:44:15 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Geçmiş iktidar kurgusu - Sertaç Eş</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Burhaniye Cahit Sıtkı Müzesi - Tolga Aydoğan</title>
-      <link>https://www.youtube.com/watch?v=EzVUi7JnReQ</link>
-      <guid isPermaLink="false">EzVUi7JnReQ</guid>
-      <pubDate>Fri, 21 Aug 2026 08:44:12 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Burhaniye Cahit Sıtkı Müzesi - Tolga Aydoğan</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: 1 maç kaldı - Gülengül Altınsay</title>
-      <link>https://www.youtube.com/watch?v=lyTR95mc9Bg</link>
-      <guid isPermaLink="false">lyTR95mc9Bg</guid>
-      <pubDate>Fri, 21 Aug 2026 08:43:29 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: 1 maç kaldı - Gülengül Altınsay</description>
     </item>
   </channel>
 </rss>
