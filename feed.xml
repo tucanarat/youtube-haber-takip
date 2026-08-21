@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 08:10:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 08:15:36 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Görenler dönüp bir daha bakıyor: Mezarlık manzaralı sıfır daireler şaşırtıyor</title>
+      <link>https://www.youtube.com/shorts/S9pLWhjKtyw</link>
+      <guid isPermaLink="false">S9pLWhjKtyw</guid>
+      <pubDate>Fri, 21 Aug 2026 08:07:49 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Görenler dönüp bir daha bakıyor: Mezarlık manzaralı sıfır daireler şaşırtıyor</description>
+    </item>
     <item>
       <title>Halk TV: SON DAKİKA! KILIÇDAROĞLU BU SEFER KURTULAMAZ! Ayşe Ünlüce CHP’den istifa edip YENİ Parti’ye katıldı!</title>
       <link>https://www.youtube.com/watch?v=wKfLNA7wNzs</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">V09GFs5rk2o</guid>
       <pubDate>Thu, 20 Aug 2026 21:30:22 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Ankara'yı Sarsacak İttifak Hazırlığı! Milliyetçi Cephe Birleşiyor mu? Erdoğan'ın Uykuları Kaçacak!</description>
-    </item>
-    <item>
-      <title>Halk TV: 100 madenci gözaltında! Başaran Aksu ayrı araca konuldu! #shorts</title>
-      <link>https://www.youtube.com/shorts/QkqsVIwloUU</link>
-      <guid isPermaLink="false">QkqsVIwloUU</guid>
-      <pubDate>Thu, 20 Aug 2026 21:30:18 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: 100 madenci gözaltında! Başaran Aksu ayrı araca konuldu! #shorts</description>
     </item>
   </channel>
 </rss>
