@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 18:01:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 18:05:28 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: SÜLEYMANCILARIN KARANLIK KAÇIŞ ROTASI: Çakarlı Araç ve 206 Kilo Altın Sırrı Türkiye'yi Sarsar</title>
+      <link>https://www.youtube.com/watch?v=iF-BbH6YDLc</link>
+      <guid isPermaLink="false">iF-BbH6YDLc</guid>
+      <pubDate>Fri, 21 Aug 2026 18:00:24 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: SÜLEYMANCILARIN KARANLIK KAÇIŞ ROTASI: Çakarlı Araç ve 206 Kilo Altın Sırrı Türkiye'yi Sarsar</description>
+    </item>
     <item>
       <title>Tele2 Haber: Bülent Mumay'dan sürece karşı çarpıcı çıkış: Demokrasinin yolu İmralı'dan geçmez!</title>
       <link>https://www.youtube.com/watch?v=MiCaO-vcUWI</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">46p9hOMK5tY</guid>
       <pubDate>Fri, 21 Aug 2026 14:12:21 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Özgür Özel'in Trabzon'da fındık toplayışı herkesi güldürdü: Başak burcuyum kafam takılır ona</description>
-    </item>
-    <item>
-      <title>Halk TV: İBB DAVASINDA GECE YARISI KRİTİK SAVUNMA! Rüşvet iddialarındaki detayları Mehmet Tezkan anlattı!</title>
-      <link>https://www.youtube.com/watch?v=LPY77ODCRzQ</link>
-      <guid isPermaLink="false">LPY77ODCRzQ</guid>
-      <pubDate>Fri, 21 Aug 2026 14:00:12 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İBB DAVASINDA GECE YARISI KRİTİK SAVUNMA! Rüşvet iddialarındaki detayları Mehmet Tezkan anlattı!</description>
     </item>
   </channel>
 </rss>
