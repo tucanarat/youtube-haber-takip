@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 13:45:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 13:50:28 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ÖZGÜR ÖZEL'DEN MANSUR YAVAŞ AÇIKLAMASI! Gündem bununla sallanacak! Mustafa Balbay tek tek anlattı!</title>
+      <link>https://www.youtube.com/watch?v=HYhWxEd62pQ</link>
+      <guid isPermaLink="false">HYhWxEd62pQ</guid>
+      <pubDate>Fri, 21 Aug 2026 13:45:33 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ÖZGÜR ÖZEL'DEN MANSUR YAVAŞ AÇIKLAMASI! Gündem bununla sallanacak! Mustafa Balbay tek tek anlattı!</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Trabzon'da Fındık İşçilerini Ziyaret Ediyor</title>
+      <link>https://www.youtube.com/watch?v=Xd5-VTsQ3Ds</link>
+      <guid isPermaLink="false">Xd5-VTsQ3Ds</guid>
+      <pubDate>Fri, 21 Aug 2026 13:44:12 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Trabzon'da Fındık İşçilerini Ziyaret Ediyor</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Trabzon'da fındık işçilerini ziyaret ediyor</title>
       <link>https://www.youtube.com/watch?v=XXihi14v3nc</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">3e-yqTRyQT0</guid>
       <pubDate>Fri, 21 Aug 2026 11:30:09 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ANKARA BU İDDİAYLA SALLANACAK! Öcalan'a İmralı'da yeni bina yapılmış! Kulislerden neler sızdı neler!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Suudi Arabistan Vuruldu! Yeni Savaş Başlıyor! Husilerden Daha Önce Görülmemiş Saldırı!</title>
-      <link>https://www.youtube.com/watch?v=z1-S_9Fe4A8</link>
-      <guid isPermaLink="false">z1-S_9Fe4A8</guid>
-      <pubDate>Fri, 21 Aug 2026 11:30:07 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Suudi Arabistan Vuruldu! Yeni Savaş Başlıyor! Husilerden Daha Önce Görülmemiş Saldırı!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "Ekrem İmamoğlu'nu Cumhurbaşkanı Yapacağız Çınar!" Özgür Özel Küçük Çınar ile Röportaj Yaptı!</title>
-      <link>https://www.youtube.com/watch?v=eZJgQwIz4tg</link>
-      <guid isPermaLink="false">eZJgQwIz4tg</guid>
-      <pubDate>Fri, 21 Aug 2026 11:25:37 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "Ekrem İmamoğlu'nu Cumhurbaşkanı Yapacağız Çınar!" Özgür Özel Küçük Çınar ile Röportaj Yaptı!</description>
     </item>
   </channel>
 </rss>
