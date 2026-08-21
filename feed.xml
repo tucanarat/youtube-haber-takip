@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 16:40:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 16:45:35 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Trabzon’da, bir yurttaşın Özgür Özel’e söylediği “Ekrem’i unutma” sözü güne damga vurdu! #shorts</title>
+      <link>https://www.youtube.com/shorts/wh4jXKHFe90</link>
+      <guid isPermaLink="false">wh4jXKHFe90</guid>
+      <pubDate>Fri, 21 Aug 2026 16:40:05 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Trabzon’da, bir yurttaşın Özgür Özel’e söylediği “Ekrem’i unutma” sözü güne damga vurdu! #shorts</description>
+    </item>
     <item>
       <title>Halk TV: BU DA OLDU: 5 yıldızlı Lykia World sahili kazıp çöplük yaptı! Kaplumbağa dostu sertifikasına iptal!</title>
       <link>https://www.youtube.com/watch?v=gUF4M_MdFc0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">wPDl0-sxqvo</guid>
       <pubDate>Fri, 21 Aug 2026 13:30:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Arif Ahmet Denizolgun'un Ölümündeki Gizemli 4 Saat ve Kayıp Görüntüler! Adli Tıp Uzmanı Anlattı</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Diyarbakır'da 2024’te öldürülen Narin Güran, kabri başında anılıyor  #Canlı</title>
-      <link>https://www.youtube.com/watch?v=eMusvkOaMRs</link>
-      <guid isPermaLink="false">eMusvkOaMRs</guid>
-      <pubDate>Fri, 21 Aug 2026 13:26:39 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Diyarbakır'da 2024’te öldürülen Narin Güran, kabri başında anılıyor  #Canlı</description>
     </item>
   </channel>
 </rss>
