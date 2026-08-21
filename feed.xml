@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 14:45:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 14:47:32 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: NETANYAHU'NUN TÜRKİYE HEDEFİ! Zeynel Lüle ile Ankara Günlüğü | Konuk: Selim Kuneralp (21.08.26)</title>
+      <link>https://www.youtube.com/watch?v=pC9HrgMGILY</link>
+      <guid isPermaLink="false">pC9HrgMGILY</guid>
+      <pubDate>Fri, 21 Aug 2026 14:46:12 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: NETANYAHU'NUN TÜRKİYE HEDEFİ! Zeynel Lüle ile Ankara Günlüğü | Konuk: Selim Kuneralp (21.08.26)</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Yavuz Ağıralioğlu'ndan Erdoğan ve Bahçeli'ye Tarihi Sözler! "Yenilmişiz Gibi Masaya Oturtulduk"</title>
       <link>https://www.youtube.com/watch?v=eD-E8f9LaAg</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">q4XiQCMMxs4</guid>
       <pubDate>Fri, 21 Aug 2026 12:17:16 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Özgür Özel Trabzon'da! I Özel'den Öcalan yanıtı: Radarımda değil! Manşet Ötesi</description>
-    </item>
-    <item>
-      <title>Halk TV: AĞLAYARAK ÖZGÜR ÖZEL'İN BOYNUNA ATLADI! O gencin isteği yürekleri dağladı! Duygulanmamak elde değil!</title>
-      <link>https://www.youtube.com/watch?v=UZxI3JvGUYA</link>
-      <guid isPermaLink="false">UZxI3JvGUYA</guid>
-      <pubDate>Fri, 21 Aug 2026 12:15:04 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: AĞLAYARAK ÖZGÜR ÖZEL'İN BOYNUNA ATLADI! O gencin isteği yürekleri dağladı! Duygulanmamak elde değil!</description>
     </item>
   </channel>
 </rss>
