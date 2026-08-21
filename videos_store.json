@@ -3657,10 +3657,10 @@
   },
   "ja5LLZ_W9bU": {
     "id": "ja5LLZ_W9bU",
-    "title": "#CANLI Sözcü Ana Haber | Senem Toluay Ilgaz",
+    "title": "Sözcü Ana Haber | Senem Toluay Ilgaz  | 21 Ağustos",
     "link": "https://www.youtube.com/watch?v=ja5LLZ_W9bU",
-    "published": "2026-08-20T23:04:33+00:00",
-    "published_ts": 1787267073,
+    "published": "2026-08-21T16:54:45+00:00",
+    "published_ts": 1787331285,
     "channel_name": "SÖZCÜ TV"
   },
   "CV5d7XZxs7A": {
@@ -3705,7 +3705,7 @@
   },
   "tEyIBFpjpF8": {
     "id": "tEyIBFpjpF8",
-    "title": "Aklın Yolu | Serap Belovacıklı",
+    "title": "#CANLI Aklın Yolu | Serap Belovacıklı",
     "link": "https://www.youtube.com/watch?v=tEyIBFpjpF8",
     "published": "2026-08-21T05:09:39+00:00",
     "published_ts": 1787288979,
@@ -3763,8 +3763,8 @@
     "id": "E7le9eGnadA",
     "title": "#CANLI Süleymancıların kaçış aracı AKP'li bakanın çıktı! Murat Taylan ile Haber-Yorum (21.08.26)",
     "link": "https://www.youtube.com/watch?v=E7le9eGnadA",
-    "published": "2026-08-21T06:52:18+00:00",
-    "published_ts": 1787295138,
+    "published": "2026-08-21T16:51:03+00:00",
+    "published_ts": 1787331063,
     "channel_name": "Tele2 Haber"
   },
   "tBwJj0wWQxI": {
@@ -4929,7 +4929,7 @@
   },
   "6iaKd4zxDCw": {
     "id": "6iaKd4zxDCw",
-    "title": "#CANLI | Sinem Fıstıkoğlu ile Halk Ana Haber | #eşik",
+    "title": "Sinem Fıstıkoğlu ile Halk Ana Haber (21 Ağustos 2026)",
     "link": "https://www.youtube.com/watch?v=6iaKd4zxDCw",
     "published": "2026-08-21T14:49:55+00:00",
     "published_ts": 1787323795,
@@ -5085,6 +5085,22 @@
     "link": "https://www.youtube.com/shorts/wh4jXKHFe90",
     "published": "2026-08-21T16:40:05+00:00",
     "published_ts": 1787330405,
+    "channel_name": "Halk TV"
+  },
+  "ikAMA04ZqHQ": {
+    "id": "ikAMA04ZqHQ",
+    "title": "#CANLI | Burçin Atılgan ile Gündem Özel | #HalkTV",
+    "link": "https://www.youtube.com/watch?v=ikAMA04ZqHQ",
+    "published": "2026-08-21T16:54:10+00:00",
+    "published_ts": 1787331250,
+    "channel_name": "Halk TV"
+  },
+  "HAAlFaJGMMg": {
+    "id": "HAAlFaJGMMg",
+    "title": "SON DAKİKA! Ankara’da feci olay! Nallıhan’’da maden ocağında göçük! 1 kişi hayatını kaybetti…",
+    "link": "https://www.youtube.com/watch?v=HAAlFaJGMMg",
+    "published": "2026-08-21T16:45:04+00:00",
+    "published_ts": 1787330704,
     "channel_name": "Halk TV"
   }
 }
