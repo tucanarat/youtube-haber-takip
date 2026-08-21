@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 23:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 23:10:31 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Hafta Sonu Ana Haber | Serap Belovacıklı</title>
+      <link>https://www.youtube.com/watch?v=IFNjO3dZEeg</link>
+      <guid isPermaLink="false">IFNjO3dZEeg</guid>
+      <pubDate>Fri, 21 Aug 2026 23:08:37 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Hafta Sonu Ana Haber | Serap Belovacıklı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Haber Bülteni | Gülinay Selçuk</title>
+      <link>https://www.youtube.com/watch?v=foXjwgm4o5s</link>
+      <guid isPermaLink="false">foXjwgm4o5s</guid>
+      <pubDate>Fri, 21 Aug 2026 23:07:57 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Haber Bülteni | Gülinay Selçuk</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Sabah Kahvesi | Nagihan Turhan</title>
+      <link>https://www.youtube.com/watch?v=i0DesXcqvJw</link>
+      <guid isPermaLink="false">i0DesXcqvJw</guid>
+      <pubDate>Fri, 21 Aug 2026 23:07:14 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Sabah Kahvesi | Nagihan Turhan</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: S Raporu | Nagihan Turhan | 22 Ağustos</title>
       <link>https://www.youtube.com/watch?v=yI_NwbTsY6w</link>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">c1gUJAypBVs</guid>
       <pubDate>Fri, 21 Aug 2026 17:45:28 +0000</pubDate>
       <description>Halk TV kanalından yeni video: MADENCİLERİN NE ÇİLESİ BİTİYOR NE DE POLİS ŞİDDETİ... Madencilerle ilgili flaş gelişme!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Tuba Torun'dan Öcalan'ın 'demokrasinin yolu Silivri'den geçmez' sözlerine tepki!</title>
-      <link>https://www.youtube.com/watch?v=rDnx9jv2o0Y</link>
-      <guid isPermaLink="false">rDnx9jv2o0Y</guid>
-      <pubDate>Fri, 21 Aug 2026 17:40:27 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Tuba Torun'dan Öcalan'ın 'demokrasinin yolu Silivri'den geçmez' sözlerine tepki!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: TUBA TORUN'DAN ÖCALAN'IN 'SİLİVRİ' SÖZLERİNE TEPKİ!</title>
-      <link>https://www.youtube.com/shorts/wDMrf6dEG90</link>
-      <guid isPermaLink="false">wDMrf6dEG90</guid>
-      <pubDate>Fri, 21 Aug 2026 17:37:57 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: TUBA TORUN'DAN ÖCALAN'IN 'SİLİVRİ' SÖZLERİNE TEPKİ!</description>
-    </item>
-    <item>
-      <title>Halk TV: İNTİHAR MI, CİNAYET Mİ? Darıca sahilinde 3 cansız beden kardeş çıktı! 4'üncü kardeş ise sağ bulundu!</title>
-      <link>https://www.youtube.com/watch?v=ZeFrJWnN8gc</link>
-      <guid isPermaLink="false">ZeFrJWnN8gc</guid>
-      <pubDate>Fri, 21 Aug 2026 17:30:40 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İNTİHAR MI, CİNAYET Mİ? Darıca sahilinde 3 cansız beden kardeş çıktı! 4'üncü kardeş ise sağ bulundu!</description>
     </item>
   </channel>
 </rss>
