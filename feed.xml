@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 20:10:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 20:15:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Çayırhan maden kazası sonrası Beypazarı Devlet Hatanesi önünde son durum!</title>
+      <link>https://www.youtube.com/watch?v=-VLmlm531cY</link>
+      <guid isPermaLink="false">-VLmlm531cY</guid>
+      <pubDate>Fri, 21 Aug 2026 20:10:50 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Çayırhan maden kazası sonrası Beypazarı Devlet Hatanesi önünde son durum!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Çayırhan maden kazası sonrası Beypazarı Devlet Hatanesi önü / Ankara #Canlı</title>
       <link>https://www.youtube.com/watch?v=1TopMNfBP0c</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">22KSBBwydXo</guid>
       <pubDate>Fri, 21 Aug 2026 16:00:36 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BUTLANCILARIN KİRLİ TEZGAHI İFŞA OLDU! Özgür Özel zehir zemberek sözlerle yüklendi! Olay olacak!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: "TÜRKİYE BAŞKA ÜLKEYE BENZEMEZ!" Emekli Başkonsolos Netanyahu'ya Hodri Meydan Dedi!</title>
-      <link>https://www.youtube.com/watch?v=EHh9XsIw4kc</link>
-      <guid isPermaLink="false">EHh9XsIw4kc</guid>
-      <pubDate>Fri, 21 Aug 2026 16:00:35 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: "TÜRKİYE BAŞKA ÜLKEYE BENZEMEZ!" Emekli Başkonsolos Netanyahu'ya Hodri Meydan Dedi!</description>
     </item>
   </channel>
 </rss>
