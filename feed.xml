@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 18:05:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 18:10:30 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: BÜLENT MUMAY'DAN ÇOK ÇARPICI 'ÇERÇEVE YASA' SÜRECİ YORUMU!</title>
+      <link>https://www.youtube.com/shorts/ykG60jT-USU</link>
+      <guid isPermaLink="false">ykG60jT-USU</guid>
+      <pubDate>Fri, 21 Aug 2026 18:06:26 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: BÜLENT MUMAY'DAN ÇOK ÇARPICI 'ÇERÇEVE YASA' SÜRECİ YORUMU!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: SÜLEYMANCILARIN KARANLIK KAÇIŞ ROTASI: Çakarlı Araç ve 206 Kilo Altın Sırrı Türkiye'yi Sarsar</title>
       <link>https://www.youtube.com/watch?v=iF-BbH6YDLc</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">TWVGtSCVPuA</guid>
       <pubDate>Fri, 21 Aug 2026 14:15:24 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Yurttaşa "Takla At" Diyen İdris Naim Şahin'in Tahsisli Aracından Kaçan Süleymancı Çıktı İddiası!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Özgür Özel'in Trabzon'da fındık toplayışı herkesi güldürdü: Başak burcuyum kafam takılır ona</title>
-      <link>https://www.youtube.com/watch?v=46p9hOMK5tY</link>
-      <guid isPermaLink="false">46p9hOMK5tY</guid>
-      <pubDate>Fri, 21 Aug 2026 14:12:21 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Özgür Özel'in Trabzon'da fındık toplayışı herkesi güldürdü: Başak burcuyum kafam takılır ona</description>
     </item>
   </channel>
 </rss>
