@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 11:10:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 11:15:29 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Özgür Özel ve küçük Çınar, güldüren anlara sebep oldu!</title>
+      <link>https://www.youtube.com/shorts/W1SjQVwMiNw</link>
+      <guid isPermaLink="false">W1SjQVwMiNw</guid>
+      <pubDate>Fri, 21 Aug 2026 11:13:27 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Özgür Özel ve küçük Çınar, güldüren anlara sebep oldu!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Trabzon'da Özgür Özel İzdihamı! "Ekrem İmamoğlu'na Selam Söyleyin!"</title>
+      <link>https://www.youtube.com/watch?v=gWqPDCoRQcE</link>
+      <guid isPermaLink="false">gWqPDCoRQcE</guid>
+      <pubDate>Fri, 21 Aug 2026 11:05:35 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Trabzon'da Özgür Özel İzdihamı! "Ekrem İmamoğlu'na Selam Söyleyin!"</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: AVRUPA HER GÜN ÖLÜYOR! 25 Bin Kişi Sıcaktan Öldü Dev Ülkeler Harekete Geçti!</title>
       <link>https://www.youtube.com/watch?v=P3mWjN7KtZU</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">eCpxqgCCrp8</guid>
       <pubDate>Fri, 21 Aug 2026 08:45:04 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: İklim krizi de ekonomik kriz de yurttaşı zorluyor - Mehmet Şakir Örs</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Bağımsız Maden İş'e bağlı madenciler, Bakanlığa gidiyor."Bakan korkma, insan yemeyiz!"</title>
-      <link>https://www.youtube.com/shorts/jbucgiyTd78</link>
-      <guid isPermaLink="false">jbucgiyTd78</guid>
-      <pubDate>Fri, 21 Aug 2026 08:44:25 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Bağımsız Maden İş'e bağlı madenciler, Bakanlığa gidiyor."Bakan korkma, insan yemeyiz!"</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Geçmiş iktidar kurgusu - Sertaç Eş</title>
-      <link>https://www.youtube.com/watch?v=vPCnp7D420Q</link>
-      <guid isPermaLink="false">vPCnp7D420Q</guid>
-      <pubDate>Fri, 21 Aug 2026 08:44:15 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Geçmiş iktidar kurgusu - Sertaç Eş</description>
     </item>
   </channel>
 </rss>
