@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 17:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 18:00:49 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Bülent Mumay'dan sürece karşı çarpıcı çıkış: Demokrasinin yolu İmralı'dan geçmez!</title>
+      <link>https://www.youtube.com/watch?v=MiCaO-vcUWI</link>
+      <guid isPermaLink="false">MiCaO-vcUWI</guid>
+      <pubDate>Fri, 21 Aug 2026 18:00:17 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Bülent Mumay'dan sürece karşı çarpıcı çıkış: Demokrasinin yolu İmralı'dan geçmez!</description>
+    </item>
+    <item>
+      <title>Halk TV: MADENCİLERİN NE ÇİLESİ BİTİYOR NE DE POLİS ŞİDDETİ... Madencilerle ilgili flaş gelişme!</title>
+      <link>https://www.youtube.com/watch?v=c1gUJAypBVs</link>
+      <guid isPermaLink="false">c1gUJAypBVs</guid>
+      <pubDate>Fri, 21 Aug 2026 17:45:28 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: MADENCİLERİN NE ÇİLESİ BİTİYOR NE DE POLİS ŞİDDETİ... Madencilerle ilgili flaş gelişme!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Tuba Torun'dan Öcalan'ın 'demokrasinin yolu Silivri'den geçmez' sözlerine tepki!</title>
       <link>https://www.youtube.com/watch?v=rDnx9jv2o0Y</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">LPY77ODCRzQ</guid>
       <pubDate>Fri, 21 Aug 2026 14:00:12 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İBB DAVASINDA GECE YARISI KRİTİK SAVUNMA! Rüşvet iddialarındaki detayları Mehmet Tezkan anlattı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Yavuz Ağıralioğlu'ndan Ümit Özdağ ve Müsavat Dervişoğlu Açıklaması! Tarihe Geçecek İttifak Çıkışı</title>
-      <link>https://www.youtube.com/watch?v=g5KjchQbGe8</link>
-      <guid isPermaLink="false">g5KjchQbGe8</guid>
-      <pubDate>Fri, 21 Aug 2026 14:00:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Yavuz Ağıralioğlu'ndan Ümit Özdağ ve Müsavat Dervişoğlu Açıklaması! Tarihe Geçecek İttifak Çıkışı</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti Genel Başkanı Özgür Özel, Trabzon'da Fındık İşçilerini Ziyaret Etti!</title>
-      <link>https://www.youtube.com/watch?v=Xd5-VTsQ3Ds</link>
-      <guid isPermaLink="false">Xd5-VTsQ3Ds</guid>
-      <pubDate>Fri, 21 Aug 2026 13:59:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Trabzon'da Fındık İşçilerini Ziyaret Etti!</description>
     </item>
   </channel>
 </rss>
