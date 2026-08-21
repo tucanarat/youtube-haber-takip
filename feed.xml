@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 04:05:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 04:10:29 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Süheyla Demir ile Günaydın Türkiye</title>
+      <link>https://www.youtube.com/watch?v=CV5d7XZxs7A</link>
+      <guid isPermaLink="false">CV5d7XZxs7A</guid>
+      <pubDate>Fri, 21 Aug 2026 02:57:59 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Süheyla Demir ile Günaydın Türkiye</description>
+    </item>
     <item>
       <title>Halk TV: Gökmen Karadağ ile Açıkça (20 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=b5XOHmh6KjE</link>
@@ -71,11 +78,11 @@
       <description>SÖZCÜ TV kanalından yeni video: Sözcü Masası | Senem Toluay Ilgaz</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: Sözcü ile Uyanma Vakti | Ceylin Çağatay</title>
+      <title>SÖZCÜ TV: #CANLI Sözcü ile Uyanma Vakti | Ceylin Çağatay</title>
       <link>https://www.youtube.com/watch?v=T3wwvLkiDoo</link>
       <guid isPermaLink="false">T3wwvLkiDoo</guid>
       <pubDate>Thu, 20 Aug 2026 22:50:08 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Sözcü ile Uyanma Vakti | Ceylin Çağatay</description>
+      <description>SÖZCÜ TV kanalından yeni video: #CANLI Sözcü ile Uyanma Vakti | Ceylin Çağatay</description>
     </item>
     <item>
       <title>SÖZCÜ TV: SİYASETE BOMBA GİBİ DÜŞECEK SENARYO! Erdoğan ve AKP'yi Titretecek İttifak Ortaya Çıktı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">2xDBCZzW-rM</guid>
       <pubDate>Thu, 20 Aug 2026 18:30:26 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İSRAİL SURİYE'DE ÜSSÜ VURDU! Gerilim tırmandı! Ankara’nın tepkisini Barçın Yinanç değerlendirdi!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Engin Solakoğlu'ndan çarpıcı 'Daron Acemoğlu ve Öcalan' yorumu: "İKİSİ DE DELİ SAÇMASI"</title>
-      <link>https://www.youtube.com/watch?v=T63aM6ED8zY</link>
-      <guid isPermaLink="false">T63aM6ED8zY</guid>
-      <pubDate>Thu, 20 Aug 2026 18:30:14 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Engin Solakoğlu'ndan çarpıcı 'Daron Acemoğlu ve Öcalan' yorumu: "İKİSİ DE DELİ SAÇMASI"</description>
     </item>
   </channel>
 </rss>

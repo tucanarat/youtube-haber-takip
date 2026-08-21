@@ -3609,7 +3609,7 @@
   },
   "T3wwvLkiDoo": {
     "id": "T3wwvLkiDoo",
-    "title": "Sözcü ile Uyanma Vakti | Ceylin Çağatay",
+    "title": "#CANLI Sözcü ile Uyanma Vakti | Ceylin Çağatay",
     "link": "https://www.youtube.com/watch?v=T3wwvLkiDoo",
     "published": "2026-08-20T22:50:08+00:00",
     "published_ts": 1787266208,
@@ -3662,5 +3662,13 @@
     "published": "2026-08-20T23:04:33+00:00",
     "published_ts": 1787267073,
     "channel_name": "SÖZCÜ TV"
+  },
+  "CV5d7XZxs7A": {
+    "id": "CV5d7XZxs7A",
+    "title": "#CANLI | Süheyla Demir ile Günaydın Türkiye",
+    "link": "https://www.youtube.com/watch?v=CV5d7XZxs7A",
+    "published": "2026-08-21T02:57:59+00:00",
+    "published_ts": 1787281079,
+    "channel_name": "Halk TV"
   }
 }
