@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 14:30:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 14:35:24 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ORTALIK YIKILDI! Küçük çocuk Özel’e ‘Biz adama böyle forma giydiririz’ deyince kahkahalar koptu!</title>
+      <link>https://www.youtube.com/watch?v=2jIcW9QTDP4</link>
+      <guid isPermaLink="false">2jIcW9QTDP4</guid>
+      <pubDate>Fri, 21 Aug 2026 14:30:31 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ORTALIK YIKILDI! Küçük çocuk Özel’e ‘Biz adama böyle forma giydiririz’ deyince kahkahalar koptu!</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Sokağa emekli maaşlarını sorduk… ‘Emeklinin gelecekten umudu yok!’</title>
+      <link>https://www.youtube.com/watch?v=o7q-weKVYTg</link>
+      <guid isPermaLink="false">o7q-weKVYTg</guid>
+      <pubDate>Fri, 21 Aug 2026 14:23:09 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Sokağa emekli maaşlarını sorduk… ‘Emeklinin gelecekten umudu yok!’</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Trabzon'da fındık işçilerini ziyaret ediyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=y3jALiSj3EI</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">wgu-jw29sBQ</guid>
       <pubDate>Fri, 21 Aug 2026 12:12:12 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Yavuz Ağıralioğlu Esti Gürledi Çileden Çıktı! "Evlatlarımızın Katillerini Affedemezsiniz!"</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Trabzon'da esnaf ve yurttaşlarla bir araya geldi #Canlı</title>
-      <link>https://www.youtube.com/watch?v=6U4fk7jYk9s</link>
-      <guid isPermaLink="false">6U4fk7jYk9s</guid>
-      <pubDate>Fri, 21 Aug 2026 12:07:33 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Trabzon'da esnaf ve yurttaşlarla bir araya geldi #Canlı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Özgür Özel'den Butlancıları Üzecek Mansur Yavaş Çıkışı! "Uzun Uzun Türkiye'yi Konuştuk!"</title>
-      <link>https://www.youtube.com/watch?v=3Hlqv5y9i3M</link>
-      <guid isPermaLink="false">3Hlqv5y9i3M</guid>
-      <pubDate>Fri, 21 Aug 2026 12:03:14 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Özgür Özel'den Butlancıları Üzecek Mansur Yavaş Çıkışı! "Uzun Uzun Türkiye'yi Konuştuk!"</description>
     </item>
   </channel>
 </rss>
