@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 21:45:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 21:50:16 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SON DAKİKA! Ankara Valisi Canbolat’tan maden kazası açıklaması! 1 madenci hayatını kaybetti!</title>
+      <link>https://www.youtube.com/shorts/lA4ydxtWPKg</link>
+      <guid isPermaLink="false">lA4ydxtWPKg</guid>
+      <pubDate>Fri, 21 Aug 2026 21:46:18 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! Ankara Valisi Canbolat’tan maden kazası açıklaması! 1 madenci hayatını kaybetti!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Madenciler, Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=X3KPHghrphA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">6iaKd4zxDCw</guid>
       <pubDate>Fri, 21 Aug 2026 16:57:08 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Sinem Fıstıkoğlu ile Halk Ana Haber (21 Ağustos 2026)</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Sözcü Ana Haber | Senem Toluay Ilgaz  | 21 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=ja5LLZ_W9bU</link>
-      <guid isPermaLink="false">ja5LLZ_W9bU</guid>
-      <pubDate>Fri, 21 Aug 2026 16:54:45 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Sözcü Ana Haber | Senem Toluay Ilgaz  | 21 Ağustos</description>
     </item>
   </channel>
 </rss>
