@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 18:30:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 18:35:28 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Ankara Ayağa Kalkacak! Yavuz Ağıralioğlu Ümit Özdağ ve Dervişoğlu! AKP'nin Uykuları Kaçacak</title>
+      <link>https://www.youtube.com/watch?v=UANiSh584wk</link>
+      <guid isPermaLink="false">UANiSh584wk</guid>
+      <pubDate>Fri, 21 Aug 2026 18:30:39 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Ankara Ayağa Kalkacak! Yavuz Ağıralioğlu Ümit Özdağ ve Dervişoğlu! AKP'nin Uykuları Kaçacak</description>
+    </item>
+    <item>
+      <title>Halk TV: SARAY, GÖZÜNÜ YURTTAŞIN ALTININA DİKTİ! Piyasalardaki son durumu uzman isim aktardı!</title>
+      <link>https://www.youtube.com/watch?v=g1cXQQhymkQ</link>
+      <guid isPermaLink="false">g1cXQQhymkQ</guid>
+      <pubDate>Fri, 21 Aug 2026 18:30:39 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SARAY, GÖZÜNÜ YURTTAŞIN ALTININA DİKTİ! Piyasalardaki son durumu uzman isim aktardı!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Bahçeli 50+1'den vazgeçecek mi? Seçim sistemi nasıl olacak? Tuba Torun ve Bülent Mumay yorumladı</title>
       <link>https://www.youtube.com/watch?v=Xmlw1XZDj_Q</link>
@@ -15,11 +29,11 @@
       <description>Tele2 Haber kanalından yeni video: Bahçeli 50+1'den vazgeçecek mi? Seçim sistemi nasıl olacak? Tuba Torun ve Bülent Mumay yorumladı</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | Ankara'da maden ocağında göçük: 1 işçi öldü, 20 kişi etkilendi</title>
+      <title>Halk TV: Ankara'da maden ocağında göçük: 1 işçi öldü, 20 kişi etkilendi</title>
       <link>https://www.youtube.com/watch?v=J0Kk3ELOpC4</link>
       <guid isPermaLink="false">J0Kk3ELOpC4</guid>
       <pubDate>Fri, 21 Aug 2026 18:19:53 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Ankara'da maden ocağında göçük: 1 işçi öldü, 20 kişi etkilendi</description>
+      <description>Halk TV kanalından yeni video: Ankara'da maden ocağında göçük: 1 işçi öldü, 20 kişi etkilendi</description>
     </item>
     <item>
       <title>Halk TV: Çiğli Belediye Başkanı'nın aracına silahlı saldırı düzenlemişti! O saldırgan suç makinesi çıktı!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">TTm-zxrGnzU</guid>
       <pubDate>Fri, 21 Aug 2026 14:27:20 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "ÖCALAN'A STATÜ VERMEK TÜRKİYE'Yİ DİNAMİTLEMEYE KALKIŞMAKTIR!" Namık Koçak ve Özdemir İnce ile Forum</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Sokağa emekli maaşlarını sorduk… ‘Emeklinin gelecekten umudu yok!’</title>
-      <link>https://www.youtube.com/watch?v=o7q-weKVYTg</link>
-      <guid isPermaLink="false">o7q-weKVYTg</guid>
-      <pubDate>Fri, 21 Aug 2026 14:23:09 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Sokağa emekli maaşlarını sorduk… ‘Emeklinin gelecekten umudu yok!’</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Trabzon'da fındık işçilerini ziyaret ediyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=y3jALiSj3EI</link>
-      <guid isPermaLink="false">y3jALiSj3EI</guid>
-      <pubDate>Fri, 21 Aug 2026 14:21:39 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Trabzon'da fındık işçilerini ziyaret ediyor #Canlı</description>
     </item>
   </channel>
 </rss>
