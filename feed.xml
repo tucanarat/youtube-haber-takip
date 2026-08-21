@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 12:45:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 12:50:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: BUTLAN BU GÖRÜNTÜLERİ HAZMEDEMEYECEK! Özgür Özel 'İmamoğlu' der demez olanlar oldu! Meydan yıkıldı!</title>
+      <link>https://www.youtube.com/watch?v=nJsvcBW8AmE</link>
+      <guid isPermaLink="false">nJsvcBW8AmE</guid>
+      <pubDate>Fri, 21 Aug 2026 12:45:35 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BUTLAN BU GÖRÜNTÜLERİ HAZMEDEMEYECEK! Özgür Özel 'İmamoğlu' der demez olanlar oldu! Meydan yıkıldı!</description>
+    </item>
     <item>
       <title>Halk TV: Özgür Özel'den asgari ücret mesajı: "YENİ Parti kuruldu diye kimse sözümüzü unuttuk sanmasın!"</title>
       <link>https://www.youtube.com/shorts/yDM86ejIbrs</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">DU6IXIP9l0E</guid>
       <pubDate>Fri, 21 Aug 2026 10:20:50 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: 4 Bin PKK'lı Hapisten Çıkacak Öcalan'a Statü Verilecek! Ankara'yı Sarsan O Plan!</description>
-    </item>
-    <item>
-      <title>Halk TV: MİLYONLAR AYAKLANACAK! İmralı Heyeti o haberi verdi! Mehmet Tezkan, Pervin Buldan'a ateş püskürdü!</title>
-      <link>https://www.youtube.com/watch?v=IkOMdI3CCJM</link>
-      <guid isPermaLink="false">IkOMdI3CCJM</guid>
-      <pubDate>Fri, 21 Aug 2026 10:15:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: MİLYONLAR AYAKLANACAK! İmralı Heyeti o haberi verdi! Mehmet Tezkan, Pervin Buldan'a ateş püskürdü!</description>
     </item>
   </channel>
 </rss>
