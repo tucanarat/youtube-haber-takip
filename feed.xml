@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 13:00:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 13:05:24 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ÖZGÜR ÖZEL'DEN EMEKLİLERE FLAŞ SÖZ! En düşük emekli maaşı için rakam verdi!</title>
+      <link>https://www.youtube.com/watch?v=d1zVVeDqUEE</link>
+      <guid isPermaLink="false">d1zVVeDqUEE</guid>
+      <pubDate>Fri, 21 Aug 2026 13:00:39 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ÖZGÜR ÖZEL'DEN EMEKLİLERE FLAŞ SÖZ! En düşük emekli maaşı için rakam verdi!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: 4 Bin PKK'lı Hapisten Çıkacak Öcalan'a Statü Verilecek! Ankara'yı Sarsan O Plan!</title>
       <link>https://www.youtube.com/watch?v=DU6IXIP9l0E</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">6XLcZ8NowOo</guid>
       <pubDate>Fri, 21 Aug 2026 10:40:37 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Ünlü şarkıcı Mabel Matiz adliyede: Soruşturma kapsamında savcılığa ifade verdi</description>
-    </item>
-    <item>
-      <title>Halk TV: BU DALGA KILIÇDAROĞLU'NU YUTACAK! Menteşe Belediyesi de artık YENİ Parti'nin! Genel Merkez kitlendi!</title>
-      <link>https://www.youtube.com/watch?v=87gt2w9QgLU</link>
-      <guid isPermaLink="false">87gt2w9QgLU</guid>
-      <pubDate>Fri, 21 Aug 2026 10:30:15 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BU DALGA KILIÇDAROĞLU'NU YUTACAK! Menteşe Belediyesi de artık YENİ Parti'nin! Genel Merkez kitlendi!</description>
     </item>
   </channel>
 </rss>
