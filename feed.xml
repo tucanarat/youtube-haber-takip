@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 11:48:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 11:50:31 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Özgür Özel, küçük Çınar ile röportaj yaptı: "Ekrem İmamoğlu'nu Cumhurbaşkanı yapacağız!"</title>
+      <link>https://www.youtube.com/shorts/no8kuSFD3F0</link>
+      <guid isPermaLink="false">no8kuSFD3F0</guid>
+      <pubDate>Fri, 21 Aug 2026 11:46:15 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Özgür Özel, küçük Çınar ile röportaj yaptı: "Ekrem İmamoğlu'nu Cumhurbaşkanı yapacağız!"</description>
+    </item>
     <item>
       <title>Tele2 Haber: Özgür Özel: "Netenyahu Erdoğan'a Saldırıyor Diye Bundan Medet Umacak YENİ Partili Yoktur!"</title>
       <link>https://www.youtube.com/watch?v=apX1qGCU4Pc</link>
       <guid isPermaLink="false">apX1qGCU4Pc</guid>
       <pubDate>Fri, 21 Aug 2026 11:42:55 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Özgür Özel: "Netenyahu Erdoğan'a Saldırıyor Diye Bundan Medet Umacak YENİ Partili Yoktur!"</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Madencilerden 'haklar ödendi' haberlerine sert tepki: "Holding tetikçisi misiniz?"</title>
+      <link>https://www.youtube.com/shorts/8pt1r4t_gzs</link>
+      <guid isPermaLink="false">8pt1r4t_gzs</guid>
+      <pubDate>Fri, 21 Aug 2026 11:41:24 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Madencilerden 'haklar ödendi' haberlerine sert tepki: "Holding tetikçisi misiniz?"</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Özgür Özel, Trabzon'da Toprak Ana Kadın Kooperatifi'ni ziyaret ediyor #Canlı</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">j-tv-RW9GwE</guid>
       <pubDate>Fri, 21 Aug 2026 09:27:24 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Özgür Özel Trabzon'da Yoğun İlgiyle Karşılandı!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Yozgatlı çiftçinin isyanı: “Borcumu ödemek için traktörümü sattım”</title>
-      <link>https://www.youtube.com/shorts/ReK2mZhI-I4</link>
-      <guid isPermaLink="false">ReK2mZhI-I4</guid>
-      <pubDate>Fri, 21 Aug 2026 09:18:25 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Yozgatlı çiftçinin isyanı: “Borcumu ödemek için traktörümü sattım”</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Özgür Özel'den Trabzon'da İktidarı Korkutacak Sözler! "YENİ Parti Muhalefet Partisi Değil!"</title>
-      <link>https://www.youtube.com/watch?v=_pNzS7uGW8w</link>
-      <guid isPermaLink="false">_pNzS7uGW8w</guid>
-      <pubDate>Fri, 21 Aug 2026 09:17:18 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Özgür Özel'den Trabzon'da İktidarı Korkutacak Sözler! "YENİ Parti Muhalefet Partisi Değil!"</description>
     </item>
   </channel>
 </rss>
