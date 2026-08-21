@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 07:05:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 07:10:34 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Devlet Menzil'e Neden Dokunamıyor? Tarikatın Akılalmaz Kirli Çarkı! Fatih Ergenekon'dan Bomba Sözler</title>
+      <link>https://www.youtube.com/watch?v=tBwJj0wWQxI</link>
+      <guid isPermaLink="false">tBwJj0wWQxI</guid>
+      <pubDate>Fri, 21 Aug 2026 07:00:39 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Devlet Menzil'e Neden Dokunamıyor? Tarikatın Akılalmaz Kirli Çarkı! Fatih Ergenekon'dan Bomba Sözler</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI Namık Koçak ve Hüsnü Mahalli ile Forum (21.08.26)</title>
       <link>https://www.youtube.com/watch?v=Cx2DYwzezsw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">op_M-J8ERMU</guid>
       <pubDate>Thu, 20 Aug 2026 19:30:12 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "Cumhuriyet, Lozan düşmanı 3 siyasi akım" Engin Solakoğlu'ndan çok net 'barış süreci' analizi!</description>
-    </item>
-    <item>
-      <title>Halk TV: RUSYA RESMEN ÇARESİZ KALDI! Ukrayna'dan Rusya'ya 726 İHA'yla misilleme! Gerilim artıyor!</title>
-      <link>https://www.youtube.com/watch?v=Vi7leJ2qSKw</link>
-      <guid isPermaLink="false">Vi7leJ2qSKw</guid>
-      <pubDate>Thu, 20 Aug 2026 19:30:11 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: RUSYA RESMEN ÇARESİZ KALDI! Ukrayna'dan Rusya'ya 726 İHA'yla misilleme! Gerilim artıyor!</description>
     </item>
   </channel>
 </rss>
