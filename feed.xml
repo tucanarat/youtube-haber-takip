@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 18:15:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 18:20:29 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Çiğli Belediye Başkanı'nın aracına silahlı saldırı düzenlemişti! O saldırgan suç makinesi çıktı!</title>
+      <link>https://www.youtube.com/watch?v=HyRIBc14_8Y</link>
+      <guid isPermaLink="false">HyRIBc14_8Y</guid>
+      <pubDate>Fri, 21 Aug 2026 18:15:13 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Çiğli Belediye Başkanı'nın aracına silahlı saldırı düzenlemişti! O saldırgan suç makinesi çıktı!</description>
+    </item>
     <item>
       <title>Tele2 Haber: BÜLENT MUMAY'DAN ÇOK ÇARPICI 'ÇERÇEVE YASA' SÜRECİ YORUMU!</title>
       <link>https://www.youtube.com/shorts/ykG60jT-USU</link>
       <guid isPermaLink="false">ykG60jT-USU</guid>
       <pubDate>Fri, 21 Aug 2026 18:06:26 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: BÜLENT MUMAY'DAN ÇOK ÇARPICI 'ÇERÇEVE YASA' SÜRECİ YORUMU!</description>
+    </item>
+    <item>
+      <title>Halk TV: YENİ Parti'ye üye sayısı da bağış miktarı da artıyor: Son rakamları Gökhan Günaydın açıkladı!</title>
+      <link>https://www.youtube.com/watch?v=qv_34mIS_vA</link>
+      <guid isPermaLink="false">qv_34mIS_vA</guid>
+      <pubDate>Fri, 21 Aug 2026 18:00:37 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YENİ Parti'ye üye sayısı da bağış miktarı da artıyor: Son rakamları Gökhan Günaydın açıkladı!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: SÜLEYMANCILARIN KARANLIK KAÇIŞ ROTASI: Çakarlı Araç ve 206 Kilo Altın Sırrı Türkiye'yi Sarsar</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">kFrbM4oPu-o</guid>
       <pubDate>Fri, 21 Aug 2026 14:16:03 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Diyarbakır'da 2024’te Öldürülen Narin Güran, Kabri Başında Anıldı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Süleymancıların kaçtığı araç, eski İçişleri Bakanı İdris Naim Şahin’e tahsisli çıktı! İşte detaylar!</title>
-      <link>https://www.youtube.com/watch?v=9dlQnG9q35w</link>
-      <guid isPermaLink="false">9dlQnG9q35w</guid>
-      <pubDate>Fri, 21 Aug 2026 14:15:32 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Süleymancıların kaçtığı araç, eski İçişleri Bakanı İdris Naim Şahin’e tahsisli çıktı! İşte detaylar!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Yurttaşa "Takla At" Diyen İdris Naim Şahin'in Tahsisli Aracından Kaçan Süleymancı Çıktı İddiası!</title>
-      <link>https://www.youtube.com/watch?v=TWVGtSCVPuA</link>
-      <guid isPermaLink="false">TWVGtSCVPuA</guid>
-      <pubDate>Fri, 21 Aug 2026 14:15:24 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Yurttaşa "Takla At" Diyen İdris Naim Şahin'in Tahsisli Aracından Kaçan Süleymancı Çıktı İddiası!</description>
     </item>
   </channel>
 </rss>
