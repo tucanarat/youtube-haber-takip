@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 17:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 17:00:52 +0000</lastBuildDate>
     <item>
       <title>Halk TV: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (21 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=qLxi-gi7SJs</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">6iaKd4zxDCw</guid>
       <pubDate>Fri, 21 Aug 2026 16:57:08 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Sinem Fıstıkoğlu ile Halk Ana Haber (21 Ağustos 2026)</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Sözcü Ana Haber | Senem Toluay Ilgaz  | 21 Ağustos</title>
+      <link>https://www.youtube.com/watch?v=ja5LLZ_W9bU</link>
+      <guid isPermaLink="false">ja5LLZ_W9bU</guid>
+      <pubDate>Fri, 21 Aug 2026 16:54:45 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Sözcü Ana Haber | Senem Toluay Ilgaz  | 21 Ağustos</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | Burçin Atılgan ile Gündem Özel | #HalkTV</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">vLvkxtL37RM</guid>
       <pubDate>Fri, 21 Aug 2026 13:42:51 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Bahçeli’nin “Seçim Sistemi Yeniden Düzenlenmeli” açıklaması “Sultanizm”e mi işaret ediyor?</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Özgür Özel’den Netanyahu’ya sert tepki: "Filistinli bebeklerin katili iç politikamıza alet olamaz"</title>
-      <link>https://www.youtube.com/watch?v=SWpf1fHbf-o</link>
-      <guid isPermaLink="false">SWpf1fHbf-o</guid>
-      <pubDate>Fri, 21 Aug 2026 13:42:40 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Özgür Özel’den Netanyahu’ya sert tepki: "Filistinli bebeklerin katili iç politikamıza alet olamaz"</description>
     </item>
   </channel>
 </rss>
