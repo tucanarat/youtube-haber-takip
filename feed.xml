@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 20:05:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 20:10:29 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Çayırhan maden kazası sonrası Beypazarı Devlet Hatanesi önü / Ankara #Canlı</title>
+      <link>https://www.youtube.com/watch?v=1TopMNfBP0c</link>
+      <guid isPermaLink="false">1TopMNfBP0c</guid>
+      <pubDate>Fri, 21 Aug 2026 20:03:09 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Çayırhan maden kazası sonrası Beypazarı Devlet Hatanesi önü / Ankara #Canlı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: DİYANET'İN SÜLEYMANCILAR RAPORU ORTAYA ÇIKTI: İkinci FETÖ Tehlikesi Mi? Süheyl Batum Anlattı</title>
       <link>https://www.youtube.com/watch?v=AuG10QiYlB4</link>
@@ -20,6 +27,13 @@
       <guid isPermaLink="false">fchfGp5TQZs</guid>
       <pubDate>Fri, 21 Aug 2026 20:00:06 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: İmamoğlu'na duruşma salonunda ne oldu? Tuba Torun sessizliğe şaşkınlığını böyle anlattı!</description>
+    </item>
+    <item>
+      <title>Halk TV: CANLI YAYINDA AÇIKLADI! Özgür Özel'den vekillere 'Butlan' talimatı! Bülent Yücetürk anlattı!</title>
+      <link>https://www.youtube.com/watch?v=tg7N6AG_2lE</link>
+      <guid isPermaLink="false">tg7N6AG_2lE</guid>
+      <pubDate>Fri, 21 Aug 2026 20:00:06 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: CANLI YAYINDA AÇIKLADI! Özgür Özel'den vekillere 'Butlan' talimatı! Bülent Yücetürk anlattı!</description>
     </item>
     <item>
       <title>Halk TV: SON DAKİKA! ANKARA VALİLİĞİ’NDEN İLK AÇIKLAMA! Maden ocağı göçüğünde 1 ölü, 20 yaralı!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">EHh9XsIw4kc</guid>
       <pubDate>Fri, 21 Aug 2026 16:00:35 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: "TÜRKİYE BAŞKA ÜLKEYE BENZEMEZ!" Emekli Başkonsolos Netanyahu'ya Hodri Meydan Dedi!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İçinizden Biri | Ekrem Açıkel | 21 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=6Zfqghv7iG8</link>
-      <guid isPermaLink="false">6Zfqghv7iG8</guid>
-      <pubDate>Fri, 21 Aug 2026 15:49:46 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İçinizden Biri | Ekrem Açıkel | 21 Ağustos</description>
-    </item>
-    <item>
-      <title>Halk TV: Alihan Kuriş'in kardeşi Marmaris'te yakalanmıştı: Eski Bakan İdris Naim Şahin Halk TV'ye konuştu!</title>
-      <link>https://www.youtube.com/watch?v=EWwmVM5SoB4</link>
-      <guid isPermaLink="false">EWwmVM5SoB4</guid>
-      <pubDate>Fri, 21 Aug 2026 15:45:28 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Alihan Kuriş'in kardeşi Marmaris'te yakalanmıştı: Eski Bakan İdris Naim Şahin Halk TV'ye konuştu!</description>
     </item>
   </channel>
 </rss>
