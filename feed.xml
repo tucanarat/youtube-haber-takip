@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 19:20:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 19:25:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Ankara Valisi Yakup Canbolat, maden ocağındaki olaya ilişkin açıklamalarda bulunuyor</title>
+      <link>https://www.youtube.com/watch?v=_S19vwIjRYs</link>
+      <guid isPermaLink="false">_S19vwIjRYs</guid>
+      <pubDate>Fri, 21 Aug 2026 19:20:25 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Ankara Valisi Yakup Canbolat, maden ocağındaki olaya ilişkin açıklamalarda bulunuyor</description>
+    </item>
+    <item>
+      <title>Halk TV: ''BUGÜN BİZİM İÇİN KIYAMETTİR'' Baba Güran’dan, kızı Narin Güran’ın mezarı başında adalet çağrısı!</title>
+      <link>https://www.youtube.com/watch?v=-cf_XN1s_Zs</link>
+      <guid isPermaLink="false">-cf_XN1s_Zs</guid>
+      <pubDate>Fri, 21 Aug 2026 19:15:05 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ''BUGÜN BİZİM İÇİN KIYAMETTİR'' Baba Güran’dan, kızı Narin Güran’ın mezarı başında adalet çağrısı!</description>
+    </item>
     <item>
       <title>Tele2 Haber: İSRAİL VE AKP GERÇEKLERİ! Namık Koçak ve Hüsnü Mahalli ile Forum (21.08.26)</title>
       <link>https://www.youtube.com/watch?v=Cx2DYwzezsw</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">qRF2_GKUAcA</guid>
       <pubDate>Fri, 21 Aug 2026 15:00:37 +0000</pubDate>
       <description>Halk TV kanalından yeni video: 13 YAŞINDAKİ İDRİS'TEN ACI HABER! Futbol oynarken kalbine yenik düştü! Babası gözyaşlarıyla anlattı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: KAVRULACAĞIZ! 45 Dereceyi Aşacak! İşte En Sıcak Olacak Günler! Afrika Sıcağı Kapıda</title>
-      <link>https://www.youtube.com/watch?v=STeAi3Z_9A4</link>
-      <guid isPermaLink="false">STeAi3Z_9A4</guid>
-      <pubDate>Fri, 21 Aug 2026 15:00:24 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: KAVRULACAĞIZ! 45 Dereceyi Aşacak! İşte En Sıcak Olacak Günler! Afrika Sıcağı Kapıda</description>
-    </item>
-    <item>
-      <title>Halk TV: Madencilerden Enerji Bakanı'na: Korkma Bayraktar, insan yemeyiz!</title>
-      <link>https://www.youtube.com/shorts/Vxgp5gWoJ3U</link>
-      <guid isPermaLink="false">Vxgp5gWoJ3U</guid>
-      <pubDate>Fri, 21 Aug 2026 14:56:01 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Madencilerden Enerji Bakanı'na: Korkma Bayraktar, insan yemeyiz!</description>
     </item>
   </channel>
 </rss>
