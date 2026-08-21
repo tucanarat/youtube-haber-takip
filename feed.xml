@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 15:25:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 15:30:48 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Yavuz Ağıralioğlu Esti Gürledi Çileden Çıktı! "Evlatlarımızın Katillerini Affedemezsiniz!"</title>
+      <link>https://www.youtube.com/watch?v=wgu-jw29sBQ</link>
+      <guid isPermaLink="false">wgu-jw29sBQ</guid>
+      <pubDate>Fri, 21 Aug 2026 15:30:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Yavuz Ağıralioğlu Esti Gürledi Çileden Çıktı! "Evlatlarımızın Katillerini Affedemezsiniz!"</description>
+    </item>
+    <item>
+      <title>Halk TV: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (21 Ağustos 2026)</title>
+      <link>https://www.youtube.com/watch?v=qLxi-gi7SJs</link>
+      <guid isPermaLink="false">qLxi-gi7SJs</guid>
+      <pubDate>Fri, 21 Aug 2026 15:20:52 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (21 Ağustos 2026)</description>
+    </item>
     <item>
       <title>Halk TV: KIZI PARA GÖRÜNTÜLERİNİ YALANLAMIŞTI! Alparslan Kuytul başlarına gelecekleri tek tek anlatmış!</title>
       <link>https://www.youtube.com/watch?v=qd7-XZPW_kg</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">KpMKVGdO5As</guid>
       <pubDate>Fri, 21 Aug 2026 12:38:53 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Atatürk posteriyle Özgür Özel'e seslenen vatandaş: Dik dur! Hiçbir zaman geri durma!</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel: "İlk seçimde iktidar olacağız, Ekrem İmamoğlu'nu Cumhurbaşkanı yapacağız"</title>
-      <link>https://www.youtube.com/shorts/3BU1ol9HrsU</link>
-      <guid isPermaLink="false">3BU1ol9HrsU</guid>
-      <pubDate>Fri, 21 Aug 2026 12:38:27 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel: "İlk seçimde iktidar olacağız, Ekrem İmamoğlu'nu Cumhurbaşkanı yapacağız"</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel'den hediye edilen kalem için: "YENİ Parti'nin ilk kalemiyle İlk imzamızı atacağız"</title>
-      <link>https://www.youtube.com/shorts/0Pvq0l63W-w</link>
-      <guid isPermaLink="false">0Pvq0l63W-w</guid>
-      <pubDate>Fri, 21 Aug 2026 12:38:05 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel'den hediye edilen kalem için: "YENİ Parti'nin ilk kalemiyle İlk imzamızı atacağız"</description>
     </item>
   </channel>
 </rss>
