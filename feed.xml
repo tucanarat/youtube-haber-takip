@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 13:50:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 13:55:23 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Haber Saati | Serap Belovacıklı | 21 Ağustos</title>
+      <link>https://www.youtube.com/watch?v=12q9tOjS01o</link>
+      <guid isPermaLink="false">12q9tOjS01o</guid>
+      <pubDate>Fri, 21 Aug 2026 13:52:54 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Haber Saati | Serap Belovacıklı | 21 Ağustos</description>
+    </item>
     <item>
       <title>Halk TV: ÖZGÜR ÖZEL'DEN MANSUR YAVAŞ AÇIKLAMASI! Gündem bununla sallanacak! Mustafa Balbay tek tek anlattı!</title>
       <link>https://www.youtube.com/watch?v=HYhWxEd62pQ</link>
@@ -27,6 +34,20 @@
       <guid isPermaLink="false">XXihi14v3nc</guid>
       <pubDate>Fri, 21 Aug 2026 13:43:07 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Trabzon'da fındık işçilerini ziyaret ediyor</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Bahçeli’nin “Seçim Sistemi Yeniden Düzenlenmeli” açıklaması “Sultanizm”e mi işaret ediyor?</title>
+      <link>https://www.youtube.com/watch?v=vLvkxtL37RM</link>
+      <guid isPermaLink="false">vLvkxtL37RM</guid>
+      <pubDate>Fri, 21 Aug 2026 13:42:51 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Bahçeli’nin “Seçim Sistemi Yeniden Düzenlenmeli” açıklaması “Sultanizm”e mi işaret ediyor?</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Özgür Özel’den Netanyahu’ya sert tepki: "Filistinli bebeklerin katili iç politikamıza alet olamaz"</title>
+      <link>https://www.youtube.com/watch?v=SWpf1fHbf-o</link>
+      <guid isPermaLink="false">SWpf1fHbf-o</guid>
+      <pubDate>Fri, 21 Aug 2026 13:42:40 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Özgür Özel’den Netanyahu’ya sert tepki: "Filistinli bebeklerin katili iç politikamıza alet olamaz"</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | Diyarbakır'da 2024’te Öldürülen Narin Güran, Kabri Başında Anılıyor</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">8pt1r4t_gzs</guid>
       <pubDate>Fri, 21 Aug 2026 11:41:24 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Madencilerden 'haklar ödendi' haberlerine sert tepki: "Holding tetikçisi misiniz?"</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Trabzon'da fındık işçilerini ziyaret ediyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=ijnMcXOKoCw</link>
-      <guid isPermaLink="false">ijnMcXOKoCw</guid>
-      <pubDate>Fri, 21 Aug 2026 11:40:53 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Trabzon'da fındık işçilerini ziyaret ediyor #Canlı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Özgür Özel, Trabzon'da: “YENİ Parti muhalefet etmek için değil, iktidar olmak için kuruldu”</title>
-      <link>https://www.youtube.com/shorts/TnazEbfa3dI</link>
-      <guid isPermaLink="false">TnazEbfa3dI</guid>
-      <pubDate>Fri, 21 Aug 2026 11:35:07 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Özgür Özel, Trabzon'da: “YENİ Parti muhalefet etmek için değil, iktidar olmak için kuruldu”</description>
-    </item>
-    <item>
-      <title>Halk TV: ANKARA BU İDDİAYLA SALLANACAK! Öcalan'a İmralı'da yeni bina yapılmış! Kulislerden neler sızdı neler!</title>
-      <link>https://www.youtube.com/watch?v=3e-yqTRyQT0</link>
-      <guid isPermaLink="false">3e-yqTRyQT0</guid>
-      <pubDate>Fri, 21 Aug 2026 11:30:09 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ANKARA BU İDDİAYLA SALLANACAK! Öcalan'a İmralı'da yeni bina yapılmış! Kulislerden neler sızdı neler!</description>
     </item>
   </channel>
 </rss>

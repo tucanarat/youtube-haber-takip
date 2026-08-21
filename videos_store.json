@@ -3619,8 +3619,8 @@
     "id": "12q9tOjS01o",
     "title": "Haber Saati | Serap Belovacıklı | 21 Ağustos",
     "link": "https://www.youtube.com/watch?v=12q9tOjS01o",
-    "published": "2026-08-20T22:59:04+00:00",
-    "published_ts": 1787266744,
+    "published": "2026-08-21T13:52:54+00:00",
+    "published_ts": 1787320374,
     "channel_name": "SÖZCÜ TV"
   },
   "zHP-VU2Hpz0": {
@@ -4814,5 +4814,21 @@
     "published": "2026-08-21T13:45:33+00:00",
     "published_ts": 1787319933,
     "channel_name": "Halk TV"
+  },
+  "vLvkxtL37RM": {
+    "id": "vLvkxtL37RM",
+    "title": "Bahçeli’nin “Seçim Sistemi Yeniden Düzenlenmeli” açıklaması “Sultanizm”e mi işaret ediyor?",
+    "link": "https://www.youtube.com/watch?v=vLvkxtL37RM",
+    "published": "2026-08-21T13:42:51+00:00",
+    "published_ts": 1787319771,
+    "channel_name": "Cumhuriyet"
+  },
+  "SWpf1fHbf-o": {
+    "id": "SWpf1fHbf-o",
+    "title": "Özgür Özel’den Netanyahu’ya sert tepki: \"Filistinli bebeklerin katili iç politikamıza alet olamaz\"",
+    "link": "https://www.youtube.com/watch?v=SWpf1fHbf-o",
+    "published": "2026-08-21T13:42:40+00:00",
+    "published_ts": 1787319760,
+    "channel_name": "Cumhuriyet"
   }
 }
