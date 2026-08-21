@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 22:45:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 22:50:32 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: CHP Genel Başkan Yardımcıları Semra Dinçer ve Deniz Demir açıklama yapıyor/ Ankara #Canlı</title>
+      <link>https://www.youtube.com/watch?v=jK4F1YXEQNU</link>
+      <guid isPermaLink="false">jK4F1YXEQNU</guid>
+      <pubDate>Fri, 21 Aug 2026 22:40:06 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkan Yardımcıları Semra Dinçer ve Deniz Demir açıklama yapıyor/ Ankara #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: Burçin Atılgan ile Gündem Özel (21 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=ikAMA04ZqHQ</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ZeFrJWnN8gc</guid>
       <pubDate>Fri, 21 Aug 2026 17:30:40 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İNTİHAR MI, CİNAYET Mİ? Darıca sahilinde 3 cansız beden kardeş çıktı! 4'üncü kardeş ise sağ bulundu!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İSRAİL BASININDAN KÜSTAH TÜRKİYE ÇIKIŞI! NATO 5. Madde Devreye Girecek Mi?</title>
-      <link>https://www.youtube.com/watch?v=7SN2p-DfE1Q</link>
-      <guid isPermaLink="false">7SN2p-DfE1Q</guid>
-      <pubDate>Fri, 21 Aug 2026 17:30:04 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İSRAİL BASININDAN KÜSTAH TÜRKİYE ÇIKIŞI! NATO 5. Madde Devreye Girecek Mi?</description>
     </item>
   </channel>
 </rss>
