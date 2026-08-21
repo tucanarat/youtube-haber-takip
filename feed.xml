@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 19:00:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 19:05:28 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: TUTUKLULARIN DURUMU NE OLACAK? DEM Partili Tuncer Bakırhan'dan çok kritik 'Demirtaş' açıklaması!</title>
+      <link>https://www.youtube.com/watch?v=Zt6F5cmemqw</link>
+      <guid isPermaLink="false">Zt6F5cmemqw</guid>
+      <pubDate>Fri, 21 Aug 2026 19:00:12 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: TUTUKLULARIN DURUMU NE OLACAK? DEM Partili Tuncer Bakırhan'dan çok kritik 'Demirtaş' açıklaması!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: HÜSNÜ MAHALLİ, TÜRKİYE-İSRAİL-SURİYE ÜÇGENİNDE YAŞANANLARI ANLATTI!</title>
+      <link>https://www.youtube.com/shorts/wFlrmaFOUSI</link>
+      <guid isPermaLink="false">wFlrmaFOUSI</guid>
+      <pubDate>Fri, 21 Aug 2026 18:55:18 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: HÜSNÜ MAHALLİ, TÜRKİYE-İSRAİL-SURİYE ÜÇGENİNDE YAŞANANLARI ANLATTI!</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI Namık Koçak - Hüsnü Mahalli ile Forum 23.08.26</title>
       <link>https://www.youtube.com/watch?v=yAxksE_nPGg</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">PVAzVJnzVo0</guid>
       <pubDate>Fri, 21 Aug 2026 14:50:06 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: İsrail'in hedefi Türkiye mi? Emekli Büyükelçi Selim Kuneralp Netanyahu'nun planını deşifre etti</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İş Çıkışı | Burak Tatari | 21 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=4tCt8iDLW98</link>
-      <guid isPermaLink="false">4tCt8iDLW98</guid>
-      <pubDate>Fri, 21 Aug 2026 14:49:15 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İş Çıkışı | Burak Tatari | 21 Ağustos</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: NETANYAHU'NUN TÜRKİYE HEDEFİ! Zeynel Lüle ile Ankara Günlüğü | Konuk: Selim Kuneralp (21.08.26)</title>
-      <link>https://www.youtube.com/watch?v=pC9HrgMGILY</link>
-      <guid isPermaLink="false">pC9HrgMGILY</guid>
-      <pubDate>Fri, 21 Aug 2026 14:46:12 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: NETANYAHU'NUN TÜRKİYE HEDEFİ! Zeynel Lüle ile Ankara Günlüğü | Konuk: Selim Kuneralp (21.08.26)</description>
     </item>
   </channel>
 </rss>
