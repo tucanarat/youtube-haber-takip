@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 06:20:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 06:25:24 +0000</lastBuildDate>
     <item>
-      <title>Halk TV: #CANLI | Süheyla Demir ile Günaydın Türkiye</title>
+      <title>Halk TV: Süheyla Demir ile Günaydın Türkiye (21 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=CV5d7XZxs7A</link>
       <guid isPermaLink="false">CV5d7XZxs7A</guid>
-      <pubDate>Fri, 21 Aug 2026 02:57:59 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Süheyla Demir ile Günaydın Türkiye</description>
+      <pubDate>Fri, 21 Aug 2026 05:12:03 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Süheyla Demir ile Günaydın Türkiye (21 Ağustos 2026)</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Gökhan Kayış ile Para Siyaset | Seraf Özer - Oğuz Demir</title>
+      <link>https://www.youtube.com/watch?v=bbpMefF_f0U</link>
+      <guid isPermaLink="false">bbpMefF_f0U</guid>
+      <pubDate>Fri, 21 Aug 2026 02:59:16 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Gökhan Kayış ile Para Siyaset | Seraf Özer - Oğuz Demir</description>
     </item>
     <item>
       <title>Halk TV: Gökmen Karadağ ile Açıkça (20 Ağustos 2026)</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">FaKjp0SehuY</guid>
       <pubDate>Thu, 20 Aug 2026 18:30:31 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İSRAİL ÜSSÜ VURDU, ANKARA AYAĞA KALKTI! MSB'den Kritik 'Suriye' Açıklaması</description>
-    </item>
-    <item>
-      <title>Halk TV: İSRAİL SURİYE'DE ÜSSÜ VURDU! Gerilim tırmandı! Ankara’nın tepkisini Barçın Yinanç değerlendirdi!</title>
-      <link>https://www.youtube.com/watch?v=2xDBCZzW-rM</link>
-      <guid isPermaLink="false">2xDBCZzW-rM</guid>
-      <pubDate>Thu, 20 Aug 2026 18:30:26 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İSRAİL SURİYE'DE ÜSSÜ VURDU! Gerilim tırmandı! Ankara’nın tepkisini Barçın Yinanç değerlendirdi!</description>
     </item>
   </channel>
 </rss>
