@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 11:20:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 11:21:37 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: Sözcü Masası | Senem Toluay Ilgaz | 19 Ağustos</title>
       <link>https://www.youtube.com/watch?v=NAkyA63lBTo</link>
@@ -27,6 +27,13 @@
       <guid isPermaLink="false">bWXYBb3o6v0</guid>
       <pubDate>Fri, 21 Aug 2026 11:15:02 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Kocaeli'de Yangın Sırasında Korkunç Patlama! O Anlar Kamerada! #shorts</description>
+    </item>
+    <item>
+      <title>Halk TV: YANKESİCİLERE FİLM SAHNELERİNİ ARATMAYAN OPERASYON! Taraftar grupları deşifre edildi!</title>
+      <link>https://www.youtube.com/watch?v=5gS7VyJoUDk</link>
+      <guid isPermaLink="false">5gS7VyJoUDk</guid>
+      <pubDate>Fri, 21 Aug 2026 11:15:00 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YANKESİCİLERE FİLM SAHNELERİNİ ARATMAYAN OPERASYON! Taraftar grupları deşifre edildi!</description>
     </item>
     <item>
       <title>Tele2 Haber: Özgür Özel ve küçük Çınar, güldüren anlara sebep oldu!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">SP4-Cx1isNQ</guid>
       <pubDate>Fri, 21 Aug 2026 09:09:11 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Özel'e Trabzon'da Görkemli Karşılama! Binlerce Kişi Havalimanına Akın Etti!</description>
-    </item>
-    <item>
-      <title>Halk TV: BU TARİHTE SEÇİME GİDEBİLİRİZ! Erdoğan'ın planı canlı yayında suçüstü yakalandı! Oğuz Demir anlattı!</title>
-      <link>https://www.youtube.com/watch?v=mJ6KhEaepQ4</link>
-      <guid isPermaLink="false">mJ6KhEaepQ4</guid>
-      <pubDate>Fri, 21 Aug 2026 09:00:21 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BU TARİHTE SEÇİME GİDEBİLİRİZ! Erdoğan'ın planı canlı yayında suçüstü yakalandı! Oğuz Demir anlattı!</description>
     </item>
   </channel>
 </rss>
