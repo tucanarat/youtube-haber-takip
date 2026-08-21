@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 12:25:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 12:30:41 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Balıkesir'de sürpriz misafir: Yavru vatoz kıyıya geldi</title>
+      <link>https://www.youtube.com/shorts/_ZkedLv8twI</link>
+      <guid isPermaLink="false">_ZkedLv8twI</guid>
+      <pubDate>Fri, 21 Aug 2026 12:26:16 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Balıkesir'de sürpriz misafir: Yavru vatoz kıyıya geldi</description>
+    </item>
     <item>
       <title>Tele2 Haber: Özgür Özel Trabzon'da! I Özel'den Öcalan yanıtı: Radarımda değil! Manşet Ötesi</title>
       <link>https://www.youtube.com/watch?v=q4XiQCMMxs4</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">R6XLLgsKMsk</guid>
       <pubDate>Fri, 21 Aug 2026 09:57:38 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | İrem Sansak ile Haber Masası</description>
-    </item>
-    <item>
-      <title>Halk TV: Bilge Yurtdagülen ile Neden Sonuç | Mehmet Tezkan (21 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=x9eYY-mL1_Q</link>
-      <guid isPermaLink="false">x9eYY-mL1_Q</guid>
-      <pubDate>Fri, 21 Aug 2026 09:52:41 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Bilge Yurtdagülen ile Neden Sonuç | Mehmet Tezkan (21 Ağustos 2026)</description>
     </item>
   </channel>
 </rss>
