@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 14:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 15:00:52 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Madencilerden Enerji Bakanı'na: Korkma Bayraktar, insan yemeyiz!</title>
+      <link>https://www.youtube.com/shorts/Vxgp5gWoJ3U</link>
+      <guid isPermaLink="false">Vxgp5gWoJ3U</guid>
+      <pubDate>Fri, 21 Aug 2026 14:56:01 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Madencilerden Enerji Bakanı'na: Korkma Bayraktar, insan yemeyiz!</description>
+    </item>
+    <item>
+      <title>Halk TV: YENİ Parti İzmir İl Başkanı Çağatay Güç’ten, ‘26 Ağustos’a kadar üye olun’ çağrısı!</title>
+      <link>https://www.youtube.com/shorts/glk8BI9qtvQ</link>
+      <guid isPermaLink="false">glk8BI9qtvQ</guid>
+      <pubDate>Fri, 21 Aug 2026 14:55:22 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YENİ Parti İzmir İl Başkanı Çağatay Güç’ten, ‘26 Ağustos’a kadar üye olun’ çağrısı!</description>
+    </item>
     <item>
       <title>Halk TV: Gizem Çetin ile Parantez (21 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=UFDG-C-zoeU</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">IP9UUvUWHMk</guid>
       <pubDate>Fri, 21 Aug 2026 12:35:08 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Mabel Matiz hakkında ‘yurt dışı çıkış yasağı’ kararı verildi!</description>
-    </item>
-    <item>
-      <title>Halk TV: Netanyahu ortalığı karıştırmaya devam ediyor: Özgür Özel'den gündemi sarsacak çıkış geldi!</title>
-      <link>https://www.youtube.com/watch?v=kBEkK4rKtgg</link>
-      <guid isPermaLink="false">kBEkK4rKtgg</guid>
-      <pubDate>Fri, 21 Aug 2026 12:30:38 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Netanyahu ortalığı karıştırmaya devam ediyor: Özgür Özel'den gündemi sarsacak çıkış geldi!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Altın Uzmanı Ons Altın ve Gram Altın Tahminini Açıkladı! Altın Fiyatında Yeni Fırtına Geliyor</title>
-      <link>https://www.youtube.com/watch?v=t9Pk9IYd1IE</link>
-      <guid isPermaLink="false">t9Pk9IYd1IE</guid>
-      <pubDate>Fri, 21 Aug 2026 12:30:26 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Altın Uzmanı Ons Altın ve Gram Altın Tahminini Açıkladı! Altın Fiyatında Yeni Fırtına Geliyor</description>
     </item>
   </channel>
 </rss>
