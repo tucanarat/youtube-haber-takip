@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 20:20:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 20:25:23 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Çayırhan maden kazası sonrası Beypazarı Devlet Hatanesi önü / Ankara #Canlı</title>
+      <link>https://www.youtube.com/watch?v=1TopMNfBP0c</link>
+      <guid isPermaLink="false">1TopMNfBP0c</guid>
+      <pubDate>Fri, 21 Aug 2026 20:25:18 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Çayırhan maden kazası sonrası Beypazarı Devlet Hatanesi önü / Ankara #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: SICAK GÖRÜNTÜLER! Çayırhan maden kazası sonrası Beypazarı Devlet Hatanesi önünde son durum!</title>
       <link>https://www.youtube.com/watch?v=sangwXAm_yE</link>
@@ -20,13 +27,6 @@
       <guid isPermaLink="false">-VLmlm531cY</guid>
       <pubDate>Fri, 21 Aug 2026 20:10:50 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | Çayırhan maden kazası sonrası Beypazarı Devlet Hatanesi önünde son durum!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Çayırhan maden kazası sonrası Beypazarı Devlet Hatanesi önü / Ankara #Canlı</title>
-      <link>https://www.youtube.com/watch?v=1TopMNfBP0c</link>
-      <guid isPermaLink="false">1TopMNfBP0c</guid>
-      <pubDate>Fri, 21 Aug 2026 20:03:09 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Çayırhan maden kazası sonrası Beypazarı Devlet Hatanesi önü / Ankara #Canlı</description>
     </item>
     <item>
       <title>SÖZCÜ TV: DİYANET'İN SÜLEYMANCILAR RAPORU ORTAYA ÇIKTI: İkinci FETÖ Tehlikesi Mi? Süheyl Batum Anlattı</title>
@@ -106,11 +106,11 @@
       <description>Tele2 Haber kanalından yeni video: İSRAİL VE AKP GERÇEKLERİ! Namık Koçak ve Hüsnü Mahalli ile Forum (21.08.26)</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: RUSYA KİEV'İ YERLE BİR ETTİ: 16 ÖLÜ! DÜNYAYI SARSAN SALDIRI! Sivil Altyapıya Ağır Bombardıman</title>
+      <title>SÖZCÜ TV: RUSYA KİEV'İ YERLE BİR ETTİ DÜNYAYI SARSAN SALDIRI! Putin'den Ağır Bombardıman</title>
       <link>https://www.youtube.com/watch?v=98ihUFuLZ1w</link>
       <guid isPermaLink="false">98ihUFuLZ1w</guid>
       <pubDate>Fri, 21 Aug 2026 19:00:13 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: RUSYA KİEV'İ YERLE BİR ETTİ: 16 ÖLÜ! DÜNYAYI SARSAN SALDIRI! Sivil Altyapıya Ağır Bombardıman</description>
+      <description>SÖZCÜ TV kanalından yeni video: RUSYA KİEV'İ YERLE BİR ETTİ DÜNYAYI SARSAN SALDIRI! Putin'den Ağır Bombardıman</description>
     </item>
     <item>
       <title>Halk TV: TUTUKLULARIN DURUMU NE OLACAK? DEM Partili Tuncer Bakırhan'dan çok kritik 'Demirtaş' açıklaması!</title>
