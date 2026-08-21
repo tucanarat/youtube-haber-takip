@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 13:40:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 13:45:29 +0000</lastBuildDate>
     <item>
-      <title>Halk TV: #CANLI | Diyarbakır'da 2024’te öldürülen Narin Güran, kabri başında anılıyor</title>
+      <title>Tele2 Haber: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Trabzon'da fındık işçilerini ziyaret ediyor</title>
+      <link>https://www.youtube.com/watch?v=XXihi14v3nc</link>
+      <guid isPermaLink="false">XXihi14v3nc</guid>
+      <pubDate>Fri, 21 Aug 2026 13:43:07 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Trabzon'da fındık işçilerini ziyaret ediyor</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Diyarbakır'da 2024’te Öldürülen Narin Güran, Kabri Başında Anılıyor</title>
       <link>https://www.youtube.com/watch?v=kFrbM4oPu-o</link>
       <guid isPermaLink="false">kFrbM4oPu-o</guid>
       <pubDate>Fri, 21 Aug 2026 13:39:32 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Diyarbakır'da 2024’te öldürülen Narin Güran, kabri başında anılıyor</description>
+      <description>Halk TV kanalından yeni video: #CANLI | Diyarbakır'da 2024’te Öldürülen Narin Güran, Kabri Başında Anılıyor</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Trabzon'da fındık işçilerini ziyaret ediyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=y3jALiSj3EI</link>
+      <guid isPermaLink="false">y3jALiSj3EI</guid>
+      <pubDate>Fri, 21 Aug 2026 13:39:14 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Trabzon'da fındık işçilerini ziyaret ediyor #Canlı</description>
     </item>
     <item>
       <title>Tele2 Haber: "YAPILMASI GEREKEN ACILARI ORTAKLAŞTIRMAK!" Zeynel Lüle ile Ankara Günlüğü</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">eZJgQwIz4tg</guid>
       <pubDate>Fri, 21 Aug 2026 11:25:37 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "Ekrem İmamoğlu'nu Cumhurbaşkanı Yapacağız Çınar!" Özgür Özel Küçük Çınar ile Röportaj Yaptı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Sözcü Masası | Senem Toluay Ilgaz | 19 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=NAkyA63lBTo</link>
-      <guid isPermaLink="false">NAkyA63lBTo</guid>
-      <pubDate>Fri, 21 Aug 2026 11:18:21 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Sözcü Masası | Senem Toluay Ilgaz | 19 Ağustos</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Trabzonlu küçük Çınar, esnaf ziyareti yapan Özgür Özel'e mikrofon uzattı #shorts</title>
-      <link>https://www.youtube.com/shorts/-3IpphdEBA8</link>
-      <guid isPermaLink="false">-3IpphdEBA8</guid>
-      <pubDate>Fri, 21 Aug 2026 11:15:09 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Trabzonlu küçük Çınar, esnaf ziyareti yapan Özgür Özel'e mikrofon uzattı #shorts</description>
     </item>
   </channel>
 </rss>
