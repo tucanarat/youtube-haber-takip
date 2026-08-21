@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 08:40:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 08:45:32 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Bağımsız Maden İş'e bağlı madenciler, Bakanlığa gidiyor."Bakan korkma, insan yemeyiz!"</title>
+      <link>https://www.youtube.com/shorts/jbucgiyTd78</link>
+      <guid isPermaLink="false">jbucgiyTd78</guid>
+      <pubDate>Fri, 21 Aug 2026 08:44:25 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Bağımsız Maden İş'e bağlı madenciler, Bakanlığa gidiyor."Bakan korkma, insan yemeyiz!"</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #CANLI Zeynel Lüle ile Ankara Günlüğü | Konuk: Selim Kuneralp (21.08.26)</title>
+      <link>https://www.youtube.com/watch?v=pC9HrgMGILY</link>
+      <guid isPermaLink="false">pC9HrgMGILY</guid>
+      <pubDate>Fri, 21 Aug 2026 08:36:34 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Zeynel Lüle ile Ankara Günlüğü | Konuk: Selim Kuneralp (21.08.26)</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Er şehit yakınları ve er gaziler Kurtuluş Parkı’nda açıklama yapıyor  #Canlı</title>
       <link>https://www.youtube.com/watch?v=rEsbmiWSRQs</link>
@@ -20,6 +34,13 @@
       <guid isPermaLink="false">uKYOLAPQMy4</guid>
       <pubDate>Fri, 21 Aug 2026 08:36:16 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: İmralı Heyeti Gazetecilerle Görüştü! Onur Öncü ile Sabah Pusulası (21.08.26)</description>
+    </item>
+    <item>
+      <title>Halk TV: ERDOĞAN'I AYAKLANDIRACAK HAMLE BUGÜN ATILDI! Özgür Özel meydanları titretecek! Planlar sil baştan!</title>
+      <link>https://www.youtube.com/watch?v=sKlOgdyi6DE</link>
+      <guid isPermaLink="false">sKlOgdyi6DE</guid>
+      <pubDate>Fri, 21 Aug 2026 08:35:21 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ERDOĞAN'I AYAKLANDIRACAK HAMLE BUGÜN ATILDI! Özgür Özel meydanları titretecek! Planlar sil baştan!</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Trabzon'da karşılanıyor #Canlı</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">4tCt8iDLW98</guid>
       <pubDate>Thu, 20 Aug 2026 23:00:32 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İş Çıkışı | Burak Tatari</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: AKP'nin Ekrem İmamoğlu Planı Buymuş! Uğur Poyraz Neler Anlattı Neler!</title>
-      <link>https://www.youtube.com/watch?v=1dqo5EMgZ6k</link>
-      <guid isPermaLink="false">1dqo5EMgZ6k</guid>
-      <pubDate>Thu, 20 Aug 2026 23:00:15 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: AKP'nin Ekrem İmamoğlu Planı Buymuş! Uğur Poyraz Neler Anlattı Neler!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Haber Saati | Serap Belovacıklı</title>
-      <link>https://www.youtube.com/watch?v=12q9tOjS01o</link>
-      <guid isPermaLink="false">12q9tOjS01o</guid>
-      <pubDate>Thu, 20 Aug 2026 22:59:04 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Haber Saati | Serap Belovacıklı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: #CANLI Öğle Bülteni | Gülinay Selçuk</title>
-      <link>https://www.youtube.com/watch?v=zHP-VU2Hpz0</link>
-      <guid isPermaLink="false">zHP-VU2Hpz0</guid>
-      <pubDate>Thu, 20 Aug 2026 22:57:13 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: #CANLI Öğle Bülteni | Gülinay Selçuk</description>
     </item>
   </channel>
 </rss>
