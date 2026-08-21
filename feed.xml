@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 09:40:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 09:45:29 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Trabzon'da esnaf ve yurttaşlarla bir araya geldi #Canlı</title>
+      <link>https://www.youtube.com/watch?v=6U4fk7jYk9s</link>
+      <guid isPermaLink="false">6U4fk7jYk9s</guid>
+      <pubDate>Fri, 21 Aug 2026 09:42:51 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Trabzon'da esnaf ve yurttaşlarla bir araya geldi #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: TRABZON ÖZGÜR ÖZEL İLE YIKILIYOR! Adım atar atmaz tüm vatandaşlar yanına koştu! Butlana kabus olur!</title>
       <link>https://www.youtube.com/watch?v=MsYMYsQnw5I</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">X3KPHghrphA</guid>
       <pubDate>Fri, 21 Aug 2026 07:29:20 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Madenciler, Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Türkiye Maden-İş Sendikası üyeleri, Yıldızlar SSS Holding önünde açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=slVXVPsq-P8</link>
-      <guid isPermaLink="false">slVXVPsq-P8</guid>
-      <pubDate>Fri, 21 Aug 2026 07:28:57 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Türkiye Maden-İş Sendikası üyeleri, Yıldızlar SSS Holding önünde açıklama yapıyor #Canlı</description>
     </item>
   </channel>
 </rss>
