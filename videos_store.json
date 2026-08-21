@@ -3627,8 +3627,8 @@
     "id": "zHP-VU2Hpz0",
     "title": "Öğle Bülteni | Gülinay Selçuk | 21 Ağustos",
     "link": "https://www.youtube.com/watch?v=zHP-VU2Hpz0",
-    "published": "2026-08-20T22:57:13+00:00",
-    "published_ts": 1787266633,
+    "published": "2026-08-21T10:59:36+00:00",
+    "published_ts": 1787309976,
     "channel_name": "SÖZCÜ TV"
   },
   "6Zfqghv7iG8": {
@@ -4358,5 +4358,21 @@
     "published": "2026-08-21T10:45:24+00:00",
     "published_ts": 1787309124,
     "channel_name": "Halk TV"
+  },
+  "VWyN8Qf_N3s": {
+    "id": "VWyN8Qf_N3s",
+    "title": "Özgür Özel’den Trabzon’da iddialı iktidar mesajı: \"Yeni Parti'yi iktidar olsun diye kurduk\"",
+    "link": "https://www.youtube.com/shorts/VWyN8Qf_N3s",
+    "published": "2026-08-21T10:50:54+00:00",
+    "published_ts": 1787309454,
+    "channel_name": "Cumhuriyet"
+  },
+  "kALgTvauSR0": {
+    "id": "kALgTvauSR0",
+    "title": "Özgür Özel'den Öcalan'a Çarpıcı Demokrasi Cevabı! \"Yolu TBMM'den Geçer!\"",
+    "link": "https://www.youtube.com/watch?v=kALgTvauSR0",
+    "published": "2026-08-21T10:49:22+00:00",
+    "published_ts": 1787309362,
+    "channel_name": "Tele2 Haber"
   }
 }

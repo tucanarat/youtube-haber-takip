@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 10:55:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 11:00:49 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Öğle Bülteni | Gülinay Selçuk | 21 Ağustos</title>
+      <link>https://www.youtube.com/watch?v=zHP-VU2Hpz0</link>
+      <guid isPermaLink="false">zHP-VU2Hpz0</guid>
+      <pubDate>Fri, 21 Aug 2026 10:59:36 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Öğle Bülteni | Gülinay Selçuk | 21 Ağustos</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Özgür Özel’den Trabzon’da iddialı iktidar mesajı: "Yeni Parti'yi iktidar olsun diye kurduk"</title>
+      <link>https://www.youtube.com/shorts/VWyN8Qf_N3s</link>
+      <guid isPermaLink="false">VWyN8Qf_N3s</guid>
+      <pubDate>Fri, 21 Aug 2026 10:50:54 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Özgür Özel’den Trabzon’da iddialı iktidar mesajı: "Yeni Parti'yi iktidar olsun diye kurduk"</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Özgür Özel'den Öcalan'a Çarpıcı Demokrasi Cevabı! "Yolu TBMM'den Geçer!"</title>
+      <link>https://www.youtube.com/watch?v=kALgTvauSR0</link>
+      <guid isPermaLink="false">kALgTvauSR0</guid>
+      <pubDate>Fri, 21 Aug 2026 10:49:22 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Özgür Özel'den Öcalan'a Çarpıcı Demokrasi Cevabı! "Yolu TBMM'den Geçer!"</description>
+    </item>
     <item>
       <title>Halk TV: ORTALIK BUNUNLA YIKILDI! Özgür Özel'den 'İmralı'nın yolladığı özel selama' bomba yanıt! Olay olur!</title>
       <link>https://www.youtube.com/watch?v=MTWfWzO9L6A</link>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">lyTR95mc9Bg</guid>
       <pubDate>Fri, 21 Aug 2026 08:43:29 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: 1 maç kaldı - Gülengül Altınsay</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: ‘En kötü senaryo’ya doğru mu? (7) - Emre Kongar</title>
-      <link>https://www.youtube.com/watch?v=43h7TqiDT-I</link>
-      <guid isPermaLink="false">43h7TqiDT-I</guid>
-      <pubDate>Fri, 21 Aug 2026 08:43:26 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: ‘En kötü senaryo’ya doğru mu? (7) - Emre Kongar</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Zeynel Lüle ile Ankara Günlüğü | Konuk: Selim Kuneralp (21.08.26)</title>
-      <link>https://www.youtube.com/watch?v=pC9HrgMGILY</link>
-      <guid isPermaLink="false">pC9HrgMGILY</guid>
-      <pubDate>Fri, 21 Aug 2026 08:36:34 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Zeynel Lüle ile Ankara Günlüğü | Konuk: Selim Kuneralp (21.08.26)</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: İmralı Heyeti Gazetecilerle Görüştü! Onur Öncü ile Sabah Pusulası (21.08.26)</title>
-      <link>https://www.youtube.com/watch?v=uKYOLAPQMy4</link>
-      <guid isPermaLink="false">uKYOLAPQMy4</guid>
-      <pubDate>Fri, 21 Aug 2026 08:36:16 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: İmralı Heyeti Gazetecilerle Görüştü! Onur Öncü ile Sabah Pusulası (21.08.26)</description>
     </item>
   </channel>
 </rss>
