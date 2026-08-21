@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 12:50:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 12:55:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Gizem Çetin ile Parantez</title>
+      <link>https://www.youtube.com/watch?v=UFDG-C-zoeU</link>
+      <guid isPermaLink="false">UFDG-C-zoeU</guid>
+      <pubDate>Fri, 21 Aug 2026 12:52:44 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Gizem Çetin ile Parantez</description>
+    </item>
     <item>
       <title>Halk TV: BUTLAN BU GÖRÜNTÜLERİ HAZMEDEMEYECEK! Özgür Özel 'İmamoğlu' der demez olanlar oldu! Meydan yıkıldı!</title>
       <link>https://www.youtube.com/watch?v=nJsvcBW8AmE</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">rjvjltSTIwQ</guid>
       <pubDate>Fri, 21 Aug 2026 10:26:43 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Trabzon'da esnaf ve yurttaşlarla bir araya geldi</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: 4 Bin PKK'lı Hapisten Çıkacak Öcalan'a Statü Verilecek! Ankara'yı Sarsan O Plan!</title>
-      <link>https://www.youtube.com/watch?v=DU6IXIP9l0E</link>
-      <guid isPermaLink="false">DU6IXIP9l0E</guid>
-      <pubDate>Fri, 21 Aug 2026 10:20:50 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: 4 Bin PKK'lı Hapisten Çıkacak Öcalan'a Statü Verilecek! Ankara'yı Sarsan O Plan!</description>
     </item>
   </channel>
 </rss>
