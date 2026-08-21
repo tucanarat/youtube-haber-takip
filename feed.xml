@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 17:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 17:45:30 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Tuba Torun'dan Öcalan'ın 'demokrasinin yolu Silivri'den geçmez' sözlerine tepki!</title>
+      <link>https://www.youtube.com/watch?v=rDnx9jv2o0Y</link>
+      <guid isPermaLink="false">rDnx9jv2o0Y</guid>
+      <pubDate>Fri, 21 Aug 2026 17:40:27 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Tuba Torun'dan Öcalan'ın 'demokrasinin yolu Silivri'den geçmez' sözlerine tepki!</description>
+    </item>
     <item>
       <title>Tele2 Haber: TUBA TORUN'DAN ÖCALAN'IN 'SİLİVRİ' SÖZLERİNE TEPKİ!</title>
       <link>https://www.youtube.com/shorts/wDMrf6dEG90</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Xd5-VTsQ3Ds</guid>
       <pubDate>Fri, 21 Aug 2026 13:59:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Trabzon'da Fındık İşçilerini Ziyaret Etti!</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel’in konuştuğu sırada ses sisteminde sorun çıktı, dinleyicilerden biri eşini suçladı!</title>
-      <link>https://www.youtube.com/shorts/kXW7p24kNEI</link>
-      <guid isPermaLink="false">kXW7p24kNEI</guid>
-      <pubDate>Fri, 21 Aug 2026 13:55:10 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel’in konuştuğu sırada ses sisteminde sorun çıktı, dinleyicilerden biri eşini suçladı!</description>
     </item>
   </channel>
 </rss>
