@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 09:30:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 09:35:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: TRABZON ÖZGÜR ÖZEL İLE YIKILIYOR! Adım atar atmaz tüm vatandaşlar yanına koştu! Butlana kabus olur!</title>
+      <link>https://www.youtube.com/watch?v=MsYMYsQnw5I</link>
+      <guid isPermaLink="false">MsYMYsQnw5I</guid>
+      <pubDate>Fri, 21 Aug 2026 09:30:18 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: TRABZON ÖZGÜR ÖZEL İLE YIKILIYOR! Adım atar atmaz tüm vatandaşlar yanına koştu! Butlana kabus olur!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Er şehit yakınları ve er gaziler, Kurtuluş Parkı’nda açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=rEsbmiWSRQs</link>
@@ -20,6 +27,13 @@
       <guid isPermaLink="false">pEODtFXYqNk</guid>
       <pubDate>Fri, 21 Aug 2026 09:28:40 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Madenciler, Enerji ve Tabii Kaynaklar Bakanlığı Önünde Açıklama Yaptı (21 Ağustos 2026)</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Özgür Özel Trabzon'da Yoğun İlgiyle Karşılandı!</title>
+      <link>https://www.youtube.com/shorts/j-tv-RW9GwE</link>
+      <guid isPermaLink="false">j-tv-RW9GwE</guid>
+      <pubDate>Fri, 21 Aug 2026 09:27:24 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Özgür Özel Trabzon'da Yoğun İlgiyle Karşılandı!</description>
     </item>
     <item>
       <title>Cumhuriyet: Yozgatlı çiftçinin isyanı: “Borcumu ödemek için traktörümü sattım”</title>
@@ -36,11 +50,11 @@
       <description>Tele2 Haber kanalından yeni video: Özgür Özel'den Trabzon'da İktidarı Korkutacak Sözler! "YENİ Parti Muhalefet Partisi Değil!"</description>
     </item>
     <item>
-      <title>Cumhuriyet: Özgür Özel Trabzon'da: “YENİ Parti’yi iktidar olmak için kurduk”</title>
+      <title>Cumhuriyet: Özgür Özel’den Trabzon’da 'iktidar' mesajı: “YENİ Parti’yi iktidar olmak için kurduk”</title>
       <link>https://www.youtube.com/watch?v=gDuXUKTEZdI</link>
       <guid isPermaLink="false">gDuXUKTEZdI</guid>
       <pubDate>Fri, 21 Aug 2026 09:15:54 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Özgür Özel Trabzon'da: “YENİ Parti’yi iktidar olmak için kurduk”</description>
+      <description>Cumhuriyet kanalından yeni video: Özgür Özel’den Trabzon’da 'iktidar' mesajı: “YENİ Parti’yi iktidar olmak için kurduk”</description>
     </item>
     <item>
       <title>Halk TV: GENEL MERKEZ VE BEŞTEPE'DE HESAPLAR ŞAŞACAK! Özgür Özel milyonlara tarihi çağrıyı yaptı! Olay olur!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">x9eYY-mL1_Q</guid>
       <pubDate>Fri, 21 Aug 2026 07:12:07 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | Bilge Yurtdagülen ile Neden Sonuç | Mehmet Tezkan</description>
-    </item>
-    <item>
-      <title>Halk TV: YUMURTAYA ZAM ÜSTÜNE ZAM! Yurttaşlar isyan bayrağını çekti! "Aç kalacağız! Aç!"</title>
-      <link>https://www.youtube.com/watch?v=rM-ZffvIdPY</link>
-      <guid isPermaLink="false">rM-ZffvIdPY</guid>
-      <pubDate>Fri, 21 Aug 2026 07:10:29 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YUMURTAYA ZAM ÜSTÜNE ZAM! Yurttaşlar isyan bayrağını çekti! "Aç kalacağız! Aç!"</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Devlet Menzil'e Neden Dokunamıyor? Tarikatın Akılalmaz Kirli Çarkı! Fatih Ergenekon'dan Bomba Sözler</title>
-      <link>https://www.youtube.com/watch?v=tBwJj0wWQxI</link>
-      <guid isPermaLink="false">tBwJj0wWQxI</guid>
-      <pubDate>Fri, 21 Aug 2026 07:00:39 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Devlet Menzil'e Neden Dokunamıyor? Tarikatın Akılalmaz Kirli Çarkı! Fatih Ergenekon'dan Bomba Sözler</description>
     </item>
   </channel>
 </rss>
