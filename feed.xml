@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 16:00:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 16:05:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: BUTLANCILARIN KİRLİ TEZGAHI İFŞA OLDU! Özgür Özel zehir zemberek sözlerle yüklendi! Olay olacak!</title>
+      <link>https://www.youtube.com/watch?v=22KSBBwydXo</link>
+      <guid isPermaLink="false">22KSBBwydXo</guid>
+      <pubDate>Fri, 21 Aug 2026 16:00:36 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BUTLANCILARIN KİRLİ TEZGAHI İFŞA OLDU! Özgür Özel zehir zemberek sözlerle yüklendi! Olay olacak!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İçinizden Biri | Ekrem Açıkel | 21 Ağustos</title>
       <link>https://www.youtube.com/watch?v=6Zfqghv7iG8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">R6XLLgsKMsk</guid>
       <pubDate>Fri, 21 Aug 2026 12:59:24 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İrem Sansak ile Haber Masası (21 Ağustos 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: BUTLAN BU GÖRÜNTÜLERİ HAZMEDEMEYECEK! Özgür Özel 'İmamoğlu' der demez olanlar oldu! Meydan yıkıldı!</title>
-      <link>https://www.youtube.com/watch?v=nJsvcBW8AmE</link>
-      <guid isPermaLink="false">nJsvcBW8AmE</guid>
-      <pubDate>Fri, 21 Aug 2026 12:45:35 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BUTLAN BU GÖRÜNTÜLERİ HAZMEDEMEYECEK! Özgür Özel 'İmamoğlu' der demez olanlar oldu! Meydan yıkıldı!</description>
     </item>
   </channel>
 </rss>
