@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 16:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 16:20:30 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: "MESAJ TÜRKİYE'YE" İsrail-Suriye telefon görüşmesi ortaya çıktı! Murat Taylan arka planını anlattı</title>
+      <link>https://www.youtube.com/watch?v=GbvLgSpwgRA</link>
+      <guid isPermaLink="false">GbvLgSpwgRA</guid>
+      <pubDate>Fri, 21 Aug 2026 16:12:45 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "MESAJ TÜRKİYE'YE" İsrail-Suriye telefon görüşmesi ortaya çıktı! Murat Taylan arka planını anlattı</description>
+    </item>
     <item>
       <title>Tele2 Haber: Kardeş Kuriş'in kaçış aracı AKP'li bakanın çıktı! İdris Naim Şahin'den ilk açıklama geldi!</title>
       <link>https://www.youtube.com/watch?v=Gol7SQ65CZM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">cKF3OQMRDRk</guid>
       <pubDate>Fri, 21 Aug 2026 13:12:01 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Saruhan Oluç: "Öcalan'ın Kendi Örgütüyle İletişim İmkanının Azami Ölçüde Olması Gerekiyor!"</description>
-    </item>
-    <item>
-      <title>Halk TV: ÖZGÜR ÖZEL'DEN EMEKLİLERE FLAŞ SÖZ! En düşük emekli maaşı için rakam verdi!</title>
-      <link>https://www.youtube.com/watch?v=d1zVVeDqUEE</link>
-      <guid isPermaLink="false">d1zVVeDqUEE</guid>
-      <pubDate>Fri, 21 Aug 2026 13:00:39 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ÖZGÜR ÖZEL'DEN EMEKLİLERE FLAŞ SÖZ! En düşük emekli maaşı için rakam verdi!</description>
     </item>
   </channel>
 </rss>
