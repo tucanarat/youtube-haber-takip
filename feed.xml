@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 20:35:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 20:40:30 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: MADEN-İŞ Orta Anadolu Şube Başkanı Talih Kocabıyık açıklama yapıyor/ Ankara #Canlı</title>
+      <link>https://www.youtube.com/watch?v=mtmL17Ocr8M</link>
+      <guid isPermaLink="false">mtmL17Ocr8M</guid>
+      <pubDate>Fri, 21 Aug 2026 20:39:00 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: MADEN-İŞ Orta Anadolu Şube Başkanı Talih Kocabıyık açıklama yapıyor/ Ankara #Canlı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Aklın Yolu | Serap Belovacıklı | 21 Ağustos</title>
       <link>https://www.youtube.com/watch?v=tEyIBFpjpF8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">gUF4M_MdFc0</guid>
       <pubDate>Fri, 21 Aug 2026 16:30:48 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BU DA OLDU: 5 yıldızlı Lykia World sahili kazıp çöplük yaptı! Kaplumbağa dostu sertifikasına iptal!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "MESAJ TÜRKİYE'YE" İsrail-Suriye telefon görüşmesi ortaya çıktı! Murat Taylan arka planını anlattı</title>
-      <link>https://www.youtube.com/watch?v=GbvLgSpwgRA</link>
-      <guid isPermaLink="false">GbvLgSpwgRA</guid>
-      <pubDate>Fri, 21 Aug 2026 16:30:06 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "MESAJ TÜRKİYE'YE" İsrail-Suriye telefon görüşmesi ortaya çıktı! Murat Taylan arka planını anlattı</description>
     </item>
   </channel>
 </rss>
