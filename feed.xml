@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 15:15:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 15:18:13 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: KIZI PARA GÖRÜNTÜLERİNİ YALANLAMIŞTI! Alparslan Kuytul başlarına gelecekleri tek tek anlatmış!</title>
+      <link>https://www.youtube.com/watch?v=qd7-XZPW_kg</link>
+      <guid isPermaLink="false">qd7-XZPW_kg</guid>
+      <pubDate>Fri, 21 Aug 2026 15:15:36 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KIZI PARA GÖRÜNTÜLERİNİ YALANLAMIŞTI! Alparslan Kuytul başlarına gelecekleri tek tek anlatmış!</description>
+    </item>
     <item>
       <title>Halk TV: YENİ Parti Lideri Özel, ilk ülke içi gezisine Trabzon'da başladı On binlerce Trabzonlu sel oldu aktı</title>
       <link>https://www.youtube.com/shorts/ZdROzeCNYzo</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">0Pvq0l63W-w</guid>
       <pubDate>Fri, 21 Aug 2026 12:38:05 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Özel'den hediye edilen kalem için: "YENİ Parti'nin ilk kalemiyle İlk imzamızı atacağız"</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel'e sarılan Nurten teyze: Ekrem'i unutma!</title>
-      <link>https://www.youtube.com/shorts/WqyiOnHTe5s</link>
-      <guid isPermaLink="false">WqyiOnHTe5s</guid>
-      <pubDate>Fri, 21 Aug 2026 12:36:28 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel'e sarılan Nurten teyze: Ekrem'i unutma!</description>
     </item>
   </channel>
 </rss>
