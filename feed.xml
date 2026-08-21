@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 15:30:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 15:35:22 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: KIYAMET BU SÖZLERLE KOPACAK! Yavuz Ağıralioğlu'ndan AKP'ye bomba 'çerçeve yasa' tepkisi! Şok çıkış!</title>
+      <link>https://www.youtube.com/watch?v=catWctiqCzM</link>
+      <guid isPermaLink="false">catWctiqCzM</guid>
+      <pubDate>Fri, 21 Aug 2026 15:30:18 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KIYAMET BU SÖZLERLE KOPACAK! Yavuz Ağıralioğlu'ndan AKP'ye bomba 'çerçeve yasa' tepkisi! Şok çıkış!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Yavuz Ağıralioğlu Esti Gürledi Çileden Çıktı! "Evlatlarımızın Katillerini Affedemezsiniz!"</title>
       <link>https://www.youtube.com/watch?v=wgu-jw29sBQ</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">XZ1d_8Uq5IM</guid>
       <pubDate>Fri, 21 Aug 2026 12:39:27 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Özel: "YENİ Parti muhalefet etmek için kurulmadı! İktidar olmak için kuruldu!"</description>
-    </item>
-    <item>
-      <title>Halk TV: Atatürk posteriyle Özgür Özel'e seslenen vatandaş: Dik dur! Hiçbir zaman geri durma!</title>
-      <link>https://www.youtube.com/shorts/KpMKVGdO5As</link>
-      <guid isPermaLink="false">KpMKVGdO5As</guid>
-      <pubDate>Fri, 21 Aug 2026 12:38:53 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Atatürk posteriyle Özgür Özel'e seslenen vatandaş: Dik dur! Hiçbir zaman geri durma!</description>
     </item>
   </channel>
 </rss>
