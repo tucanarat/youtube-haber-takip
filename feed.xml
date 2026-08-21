@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 19:45:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 19:50:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SON DAKİKA! ANKARA VALİLİĞİ’NDEN İLK AÇIKLAMA! Maden ocağı göçüğünde 1 ölü, 20 yaralı!</title>
+      <link>https://www.youtube.com/watch?v=XMycDwEJld4</link>
+      <guid isPermaLink="false">XMycDwEJld4</guid>
+      <pubDate>Fri, 21 Aug 2026 19:45:16 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! ANKARA VALİLİĞİ’NDEN İLK AÇIKLAMA! Maden ocağı göçüğünde 1 ölü, 20 yaralı!</description>
+    </item>
     <item>
       <title>Halk TV: Rize Fındıklı’dan YENİ Parti Lideri Özgür Özel’e “Bize de gel” çağrısı! #shorts</title>
       <link>https://www.youtube.com/shorts/rnVZQgOFEpU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">OO8OhxRA5os</guid>
       <pubDate>Fri, 21 Aug 2026 15:43:19 +0000</pubDate>
       <description>Halk TV kanalından yeni video: "MEYDANLAR YENİ PARTİ DİYOR!" Trabzon'da Cemal Enginyurt’tan YENİ Parti mesajı! #shorts</description>
-    </item>
-    <item>
-      <title>Halk TV: KIYAMET BU SÖZLERLE KOPACAK! Yavuz Ağıralioğlu'ndan AKP'ye bomba 'çerçeve yasa' tepkisi! Şok çıkış!</title>
-      <link>https://www.youtube.com/watch?v=catWctiqCzM</link>
-      <guid isPermaLink="false">catWctiqCzM</guid>
-      <pubDate>Fri, 21 Aug 2026 15:30:18 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KIYAMET BU SÖZLERLE KOPACAK! Yavuz Ağıralioğlu'ndan AKP'ye bomba 'çerçeve yasa' tepkisi! Şok çıkış!</description>
     </item>
   </channel>
 </rss>
