@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 12:55:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 13:00:48 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Rize'de Balıkçılar köyünü ziyaret ediyor</title>
+      <link>https://www.youtube.com/watch?v=H5sQOpG6i5M</link>
+      <guid isPermaLink="false">H5sQOpG6i5M</guid>
+      <pubDate>Sat, 22 Aug 2026 12:58:22 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Rize'de Balıkçılar köyünü ziyaret ediyor</description>
+    </item>
     <item>
       <title>Tele2 Haber: Erdoğan'ın memleketinde "YENİ PARTİ" sesleri! Özgür Özel Rize'yi kasıp kavurdu!</title>
       <link>https://www.youtube.com/watch?v=L7wUuQnyRlA</link>
@@ -57,18 +64,11 @@
       <description>SÖZCÜ TV kanalından yeni video: Deniz Türkeri Yapay Zeka - Alemşah Öztürk | Geleceğin Meslekleri Neler? Diploma Devri Bitti mi?</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: Haber Bülteni | Gülinay Selçuk</title>
+      <title>SÖZCÜ TV: #CANLI Haber Bülteni | Gülinay Selçuk</title>
       <link>https://www.youtube.com/watch?v=SOQlGcD3ZDU</link>
       <guid isPermaLink="false">SOQlGcD3ZDU</guid>
       <pubDate>Sat, 22 Aug 2026 12:23:33 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Haber Bülteni | Gülinay Selçuk</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Rize'de Balıkçılar köyünü ziyaret ediyor</title>
-      <link>https://www.youtube.com/watch?v=H5sQOpG6i5M</link>
-      <guid isPermaLink="false">H5sQOpG6i5M</guid>
-      <pubDate>Sat, 22 Aug 2026 12:13:45 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Rize'de Balıkçılar köyünü ziyaret ediyor</description>
+      <description>SÖZCÜ TV kanalından yeni video: #CANLI Haber Bülteni | Gülinay Selçuk</description>
     </item>
     <item>
       <title>Halk TV: Özgür Özel'e Rizespor forması hediye edildi!</title>
