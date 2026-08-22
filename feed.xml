@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 11:45:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 11:50:29 +0000</lastBuildDate>
     <item>
       <title>Halk TV: SON DAKİKA! ALİHAN KURİŞ SORUŞTURASINDA İKİNCİ DALGA! 12 şüpheli gözaltına alındı, 1 kişi aranıyor!</title>
       <link>https://www.youtube.com/watch?v=zFc4MViqaCw</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">ToLcR4FmOPE</guid>
       <pubDate>Sat, 22 Aug 2026 11:30:12 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Süleymancıların Kirli İlişkileri Deşifre Oldu! Çakarlı Araçla Yurt Dışına Kaçış Kamerada!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Deniz Türkeri Yapay Zeka - Alemşah Öztürk | Geleceğin Meslekleri Neler? Diploma Devri Bitti mi?</title>
+      <link>https://www.youtube.com/watch?v=acBMrakK1d4</link>
+      <guid isPermaLink="false">acBMrakK1d4</guid>
+      <pubDate>Sat, 22 Aug 2026 11:24:55 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Deniz Türkeri Yapay Zeka - Alemşah Öztürk | Geleceğin Meslekleri Neler? Diploma Devri Bitti mi?</description>
     </item>
     <item>
       <title>Halk TV: SARAY'IN TÜM HESABINI ELİNDE PATLATTI! Özgür Özel'den Erdoğan'ı mat edecek vaatler! Meydan yıkıldı!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">BRwJFDHcnQQ</guid>
       <pubDate>Sat, 22 Aug 2026 08:25:26 +0000</pubDate>
       <description>Halk TV kanalından yeni video: AFYONKARAHİSAR'DA KATLİAM GİBİ KAZA! Devrilen yolcu otobüsü paramparça oldu! Çok sayıda yaralı var!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Trabzonlu küçük Çınar, esnaf ziyareti yapan Özgür Özel'e mikrofon uzattı!</title>
-      <link>https://www.youtube.com/shorts/Ej5OTzK5Lj8</link>
-      <guid isPermaLink="false">Ej5OTzK5Lj8</guid>
-      <pubDate>Sat, 22 Aug 2026 08:24:28 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Trabzonlu küçük Çınar, esnaf ziyareti yapan Özgür Özel'e mikrofon uzattı!</description>
     </item>
   </channel>
 </rss>
