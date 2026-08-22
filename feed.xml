@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 08:00:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 08:05:24 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: 2’nci Kardeş Göçerler Yörük Etkinliği #Canlı</title>
+      <link>https://www.youtube.com/watch?v=ANYb6VM0t_8</link>
+      <guid isPermaLink="false">ANYb6VM0t_8</guid>
+      <pubDate>Sat, 22 Aug 2026 08:02:57 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: 2’nci Kardeş Göçerler Yörük Etkinliği #Canlı</description>
+    </item>
+    <item>
+      <title>Halk TV: BEŞTEPE'Yİ ALARMA GEÇİRECEK! Özgür Özel'den Erdoğan'a Netanyahu salvosu! Bu sözlerin dönüşü yok!</title>
+      <link>https://www.youtube.com/watch?v=mRzE6GzObbE</link>
+      <guid isPermaLink="false">mRzE6GzObbE</guid>
+      <pubDate>Sat, 22 Aug 2026 08:00:29 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BEŞTEPE'Yİ ALARMA GEÇİRECEK! Özgür Özel'den Erdoğan'a Netanyahu salvosu! Bu sözlerin dönüşü yok!</description>
+    </item>
     <item>
       <title>Tele2 Haber: "ÖCALAN'A STATÜ VERMEK TÜRKİYE'Yİ DİNAMİTLEMEYE KALKIŞMAKTIR!" Namık Koçak ve Özdemir İnce ile Forum</title>
       <link>https://www.youtube.com/watch?v=TTm-zxrGnzU</link>
@@ -83,13 +97,6 @@
       <guid isPermaLink="false">vUeePpg64mg</guid>
       <pubDate>Sat, 22 Aug 2026 06:56:51 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: "Z kuşağı iş beğenmiyor" diyenlere gençlerden yanıt: "İş yok, maaş yok, geçim yok!"</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: 2’nci Kardeş Göçerler Yörük Etkinliği #Canlı</title>
-      <link>https://www.youtube.com/watch?v=ANYb6VM0t_8</link>
-      <guid isPermaLink="false">ANYb6VM0t_8</guid>
-      <pubDate>Sat, 22 Aug 2026 06:44:12 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: 2’nci Kardeş Göçerler Yörük Etkinliği #Canlı</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Tarihe Geçecek İttifak! Yavuz Ağıralioğlu Ümit Özdağ ve Dervişoğlu! Erdoğan ve Bahçeli'ye Sert Çıkış</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">HFOkWIyD5gU</guid>
       <pubDate>Fri, 21 Aug 2026 19:30:08 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: CEMAATLERE BÜYÜK OPERASYON! Sıra Menzil'e Gelecek mi? Eski AKP'li İsim Açıkladı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: PKK 'Öcalan zafer kazandı' havasında! Hüsnü Mahalli Mazlum Abdi'nin açıklamasına dikkat çekti</title>
-      <link>https://www.youtube.com/watch?v=w1MkcWeZH5U</link>
-      <guid isPermaLink="false">w1MkcWeZH5U</guid>
-      <pubDate>Fri, 21 Aug 2026 19:30:06 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: PKK 'Öcalan zafer kazandı' havasında! Hüsnü Mahalli Mazlum Abdi'nin açıklamasına dikkat çekti</description>
     </item>
   </channel>
 </rss>
