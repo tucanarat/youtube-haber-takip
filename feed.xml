@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 07:30:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 07:35:22 +0000</lastBuildDate>
     <item>
       <title>Cumhuriyet: Ankara’da maden ocağında göçük: 1 işçi hayatını kaybetti, çok sayıda yaralı</title>
       <link>https://www.youtube.com/watch?v=EESbN1Mtxfg</link>
       <guid isPermaLink="false">EESbN1Mtxfg</guid>
       <pubDate>Sat, 22 Aug 2026 07:25:15 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Ankara’da maden ocağında göçük: 1 işçi hayatını kaybetti, çok sayıda yaralı</description>
+    </item>
+    <item>
+      <title>Halk TV: ANKARA'YI KİLİTLEYEN 'DEMİRTAŞ' BOMBASI! Bakırhan'dan öyle bir açıklama geldi ki! Gözler o tarihte!</title>
+      <link>https://www.youtube.com/watch?v=U8vjpib73-A</link>
+      <guid isPermaLink="false">U8vjpib73-A</guid>
+      <pubDate>Sat, 22 Aug 2026 07:20:23 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ANKARA'YI KİLİTLEYEN 'DEMİRTAŞ' BOMBASI! Bakırhan'dan öyle bir açıklama geldi ki! Gözler o tarihte!</description>
     </item>
     <item>
       <title>Cumhuriyet: Kozak’ın Yeşilinde Bir Yolculuk: Madra Dağı’nın Saklı Hikâyeleri | İki Bavul Bir Mikrofon</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Cx2DYwzezsw</guid>
       <pubDate>Fri, 21 Aug 2026 19:13:06 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: İSRAİL VE AKP GERÇEKLERİ! Namık Koçak ve Hüsnü Mahalli ile Forum (21.08.26)</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: RUSYA KİEV'İ YERLE BİR ETTİ DÜNYAYI SARSAN SALDIRI! Putin'den Ağır Bombardıman</title>
-      <link>https://www.youtube.com/watch?v=98ihUFuLZ1w</link>
-      <guid isPermaLink="false">98ihUFuLZ1w</guid>
-      <pubDate>Fri, 21 Aug 2026 19:00:13 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: RUSYA KİEV'İ YERLE BİR ETTİ DÜNYAYI SARSAN SALDIRI! Putin'den Ağır Bombardıman</description>
     </item>
   </channel>
 </rss>
