@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 07:40:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 07:45:28 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Silivri'de Gece Yarısı Kritik Savunma! Aziz İhsan Aktaş Konuştu! Olay Olacak İmamoğlu İddiası!</title>
+      <link>https://www.youtube.com/watch?v=X-h6d4ECEYQ</link>
+      <guid isPermaLink="false">X-h6d4ECEYQ</guid>
+      <pubDate>Sat, 22 Aug 2026 07:30:39 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Silivri'de Gece Yarısı Kritik Savunma! Aziz İhsan Aktaş Konuştu! Olay Olacak İmamoğlu İddiası!</description>
+    </item>
     <item>
       <title>Cumhuriyet: Ankara’da maden ocağında göçük: 1 işçi hayatını kaybetti, çok sayıda yaralı</title>
       <link>https://www.youtube.com/watch?v=EESbN1Mtxfg</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">-cf_XN1s_Zs</guid>
       <pubDate>Fri, 21 Aug 2026 19:15:05 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ''BUGÜN BİZİM İÇİN KIYAMETTİR'' Baba Güran’dan, kızı Narin Güran’ın mezarı başında adalet çağrısı!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: İSRAİL VE AKP GERÇEKLERİ! Namık Koçak ve Hüsnü Mahalli ile Forum (21.08.26)</title>
-      <link>https://www.youtube.com/watch?v=Cx2DYwzezsw</link>
-      <guid isPermaLink="false">Cx2DYwzezsw</guid>
-      <pubDate>Fri, 21 Aug 2026 19:13:06 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: İSRAİL VE AKP GERÇEKLERİ! Namık Koçak ve Hüsnü Mahalli ile Forum (21.08.26)</description>
     </item>
   </channel>
 </rss>
