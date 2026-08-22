@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 08:35:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 08:40:30 +0000</lastBuildDate>
     <item>
       <title>Halk TV: #CANLI | CHP'nin Genel Başkanlığına Atanan Kılıçdaroğlu 2’nci Kardeş Göçerler Yörük Etkinliği'nde!</title>
       <link>https://www.youtube.com/watch?v=i3au5hlZETw</link>
@@ -15,11 +15,25 @@
       <description>Halk TV kanalından yeni video: #CANLI | CHP'nin Genel Başkanlığına Atanan Kılıçdaroğlu 2’nci Kardeş Göçerler Yörük Etkinliği'nde!</description>
     </item>
     <item>
+      <title>ANKA Haber Ajansı: CHP İstanbul İl Başkanı Gürsel Tekin, rozet takma töreninde açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=oGyc3JUwKLw</link>
+      <guid isPermaLink="false">oGyc3JUwKLw</guid>
+      <pubDate>Sat, 22 Aug 2026 08:26:07 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: CHP İstanbul İl Başkanı Gürsel Tekin, rozet takma töreninde açıklama yapıyor #Canlı</description>
+    </item>
+    <item>
       <title>Halk TV: AFYONKARAHİSAR'DA KATLİAM GİBİ KAZA! Devrilen yolcu otobüsü paramparça oldu! Çok sayıda yaralı var!</title>
       <link>https://www.youtube.com/watch?v=BRwJFDHcnQQ</link>
       <guid isPermaLink="false">BRwJFDHcnQQ</guid>
       <pubDate>Sat, 22 Aug 2026 08:25:26 +0000</pubDate>
       <description>Halk TV kanalından yeni video: AFYONKARAHİSAR'DA KATLİAM GİBİ KAZA! Devrilen yolcu otobüsü paramparça oldu! Çok sayıda yaralı var!</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Trabzonlu küçük Çınar, esnaf ziyareti yapan Özgür Özel'e mikrofon uzattı!</title>
+      <link>https://www.youtube.com/shorts/Ej5OTzK5Lj8</link>
+      <guid isPermaLink="false">Ej5OTzK5Lj8</guid>
+      <pubDate>Sat, 22 Aug 2026 08:24:28 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Trabzonlu küçük Çınar, esnaf ziyareti yapan Özgür Özel'e mikrofon uzattı!</description>
     </item>
     <item>
       <title>Halk TV: CHP'nin Genel Başkanlığına Atanan Kılıçdaroğlu 2’nci Kardeş Göçerler Yörük Etkinliği'nde!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">W2EppiAb2OE</guid>
       <pubDate>Fri, 21 Aug 2026 20:30:02 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Furkan Vakfı ve Süleymancılara Operasyon: İktidarın Yeni Tarikat Oyunu İfşa Oldu</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Çayırhan maden kazası sonrası Beypazarı Devlet Hatanesi önü / Ankara #Canlı</title>
-      <link>https://www.youtube.com/watch?v=1TopMNfBP0c</link>
-      <guid isPermaLink="false">1TopMNfBP0c</guid>
-      <pubDate>Fri, 21 Aug 2026 20:25:18 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Çayırhan maden kazası sonrası Beypazarı Devlet Hatanesi önü / Ankara #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: SICAK GÖRÜNTÜLER! Çayırhan maden kazası sonrası Beypazarı Devlet Hatanesi önünde son durum!</title>
-      <link>https://www.youtube.com/watch?v=sangwXAm_yE</link>
-      <guid isPermaLink="false">sangwXAm_yE</guid>
-      <pubDate>Fri, 21 Aug 2026 20:15:25 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SICAK GÖRÜNTÜLER! Çayırhan maden kazası sonrası Beypazarı Devlet Hatanesi önünde son durum!</description>
     </item>
   </channel>
 </rss>
