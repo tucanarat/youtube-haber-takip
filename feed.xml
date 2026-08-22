@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 18:45:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 18:50:31 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Özgür Özel'den Erdoğan'a Rize'den Tarihi Yanıt! Mustafa Balbay AKP'nin Uykularını Kaçıracak!</title>
+      <link>https://www.youtube.com/watch?v=3S7K-hQWRjM</link>
+      <guid isPermaLink="false">3S7K-hQWRjM</guid>
+      <pubDate>Sat, 22 Aug 2026 18:40:20 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Özgür Özel'den Erdoğan'a Rize'den Tarihi Yanıt! Mustafa Balbay AKP'nin Uykularını Kaçıracak!</description>
+    </item>
     <item>
       <title>Halk TV: KARTAL'DA DEHŞET ANLAR! Çevrede insanların bulunduğu sırada tüfekle rastgele ateş açtı!</title>
       <link>https://www.youtube.com/shorts/CBUjAY_W-rE</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">n5NcGoWBUrE</guid>
       <pubDate>Sat, 22 Aug 2026 13:30:30 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Özgür Özel'den Rize'de güldüren Erdoğan göndermesi!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: ALTIN DAHA NE KADAR YÜKSELECEK? Ünlü Ekonomist Rakam ve Tarih Vererek Açıkladı!</title>
-      <link>https://www.youtube.com/watch?v=zHwetRzTj48</link>
-      <guid isPermaLink="false">zHwetRzTj48</guid>
-      <pubDate>Sat, 22 Aug 2026 13:30:12 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: ALTIN DAHA NE KADAR YÜKSELECEK? Ünlü Ekonomist Rakam ve Tarih Vererek Açıkladı!</description>
     </item>
   </channel>
 </rss>
