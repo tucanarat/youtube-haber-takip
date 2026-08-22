@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 14:30:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 14:35:24 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Alparslan Kuytul Operasyonunda İkinci Dalga! Şifreli Kapılar ve Kaçırılan Hard Diskler Ele Geçirildi</title>
+      <link>https://www.youtube.com/watch?v=gbxdsdf4jfQ</link>
+      <guid isPermaLink="false">gbxdsdf4jfQ</guid>
+      <pubDate>Sat, 22 Aug 2026 14:30:20 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Alparslan Kuytul Operasyonunda İkinci Dalga! Şifreli Kapılar ve Kaçırılan Hard Diskler Ele Geçirildi</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | RİZE BÖYLE KALABALIK GÖRMEDİ! Özgür Özel Eylem Yapan Kadın Balıkçılarla Bir Araya Geldi!</title>
       <link>https://www.youtube.com/watch?v=wFVuBOauUwE</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">-1vroql1A3E</guid>
       <pubDate>Sat, 22 Aug 2026 10:30:13 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: ALTIN ZİRVEDEYKEN KRİTİK KARAR! Uzman İsim Uyardı! Gram Altını Olanlar Buna Çok Dikkat Etsin</description>
-    </item>
-    <item>
-      <title>Halk TV: ERDOĞAN BU ANLARI HAZMEDEMEZ! Rizeliler Özel’in yanına koşup ‘Kurtar bizi’ diye haykırdı! Olay olur!</title>
-      <link>https://www.youtube.com/watch?v=8nW4lS42_5I</link>
-      <guid isPermaLink="false">8nW4lS42_5I</guid>
-      <pubDate>Sat, 22 Aug 2026 10:30:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ERDOĞAN BU ANLARI HAZMEDEMEZ! Rizeliler Özel’in yanına koşup ‘Kurtar bizi’ diye haykırdı! Olay olur!</description>
     </item>
   </channel>
 </rss>
