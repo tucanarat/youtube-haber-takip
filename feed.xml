@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 07:45:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 07:50:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: BİTİRİCİ HAMLE GELDİ ÇATTI! Özgür Özel’den kaçacak yer aratacak yol haritası! Neler sıraladı neler!</title>
+      <link>https://www.youtube.com/watch?v=vI-usg3L5LY</link>
+      <guid isPermaLink="false">vI-usg3L5LY</guid>
+      <pubDate>Sat, 22 Aug 2026 07:40:30 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BİTİRİCİ HAMLE GELDİ ÇATTI! Özgür Özel’den kaçacak yer aratacak yol haritası! Neler sıraladı neler!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Silivri'de Gece Yarısı Kritik Savunma! Aziz İhsan Aktaş Konuştu! Olay Olacak İmamoğlu İddiası!</title>
       <link>https://www.youtube.com/watch?v=X-h6d4ECEYQ</link>
@@ -281,11 +288,11 @@
       <description>Halk TV kanalından yeni video: SICAK GÖRÜNTÜLER! Çayırhan maden kazası sonrası Beypazarı Devlet Hatanesi önünde son durum!</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | Çayırhan maden kazası sonrası Beypazarı Devlet Hatanesi önünde son durum!</title>
+      <title>Halk TV: #CANLI | CHP'nin Genel Başkanlığına Atanan Kemal Kılıçdaroğlu Soruları Yanıtlıyor!</title>
       <link>https://www.youtube.com/watch?v=-VLmlm531cY</link>
       <guid isPermaLink="false">-VLmlm531cY</guid>
       <pubDate>Fri, 21 Aug 2026 20:10:50 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Çayırhan maden kazası sonrası Beypazarı Devlet Hatanesi önünde son durum!</description>
+      <description>Halk TV kanalından yeni video: #CANLI | CHP'nin Genel Başkanlığına Atanan Kemal Kılıçdaroğlu Soruları Yanıtlıyor!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: DİYANET'İN SÜLEYMANCILAR RAPORU ORTAYA ÇIKTI: İkinci FETÖ Tehlikesi Mi? Süheyl Batum Anlattı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">_S19vwIjRYs</guid>
       <pubDate>Fri, 21 Aug 2026 19:20:25 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Ankara Valisi Yakup Canbolat, maden ocağındaki olaya ilişkin açıklamalarda bulunuyor</description>
-    </item>
-    <item>
-      <title>Halk TV: ''BUGÜN BİZİM İÇİN KIYAMETTİR'' Baba Güran’dan, kızı Narin Güran’ın mezarı başında adalet çağrısı!</title>
-      <link>https://www.youtube.com/watch?v=-cf_XN1s_Zs</link>
-      <guid isPermaLink="false">-cf_XN1s_Zs</guid>
-      <pubDate>Fri, 21 Aug 2026 19:15:05 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ''BUGÜN BİZİM İÇİN KIYAMETTİR'' Baba Güran’dan, kızı Narin Güran’ın mezarı başında adalet çağrısı!</description>
     </item>
   </channel>
 </rss>
