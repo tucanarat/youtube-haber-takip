@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 12:35:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 12:40:31 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Haber Bülteni | Gülinay Selçuk | 22 Ağustos</title>
+      <link>https://www.youtube.com/watch?v=foXjwgm4o5s</link>
+      <guid isPermaLink="false">foXjwgm4o5s</guid>
+      <pubDate>Sat, 22 Aug 2026 12:35:23 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Haber Bülteni | Gülinay Selçuk | 22 Ağustos</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Özgür Özel, Erdoğan'a memleketinde yanıt verdi: 'Siyaset transferlerle kazanılmaz'</title>
+      <link>https://www.youtube.com/watch?v=AF-WNpaQXbY</link>
+      <guid isPermaLink="false">AF-WNpaQXbY</guid>
+      <pubDate>Sat, 22 Aug 2026 12:31:43 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Özgür Özel, Erdoğan'a memleketinde yanıt verdi: 'Siyaset transferlerle kazanılmaz'</description>
+    </item>
     <item>
       <title>Halk TV: GÜNÜN BOMBASI PATLADI! Alihan Kuriş’in telefon hattı o ismin üzerine kayıtlı çıktı! Pes dedirtir!</title>
       <link>https://www.youtube.com/watch?v=GK87XFGJam0</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">NahnOSQ4E8s</guid>
       <pubDate>Sat, 22 Aug 2026 09:15:22 +0000</pubDate>
       <description>Halk TV kanalından yeni video: TÜRKİYE SARSILACAK! Denizolgun'un ölümünü aydınlatacak videolar ortaya çıktı! Tüyleriniz ürperecek!</description>
-    </item>
-    <item>
-      <title>Halk TV: CHP'nin Genel Başkanlığına Atanan Kılıçdaroğlu 2’nci Kardeş Göçerler Yörük Etkinliği'nde!</title>
-      <link>https://www.youtube.com/watch?v=i3au5hlZETw</link>
-      <guid isPermaLink="false">i3au5hlZETw</guid>
-      <pubDate>Sat, 22 Aug 2026 09:01:25 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: CHP'nin Genel Başkanlığına Atanan Kılıçdaroğlu 2’nci Kardeş Göçerler Yörük Etkinliği'nde!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Günde 5 Sigara İçenler Dikkat: Tuzağa Düşmeyin! Beyniniz Sizi Kandırıyor! Tayfun Uzbay Anlatıyor</title>
-      <link>https://www.youtube.com/watch?v=rPUvfyBX4WE</link>
-      <guid isPermaLink="false">rPUvfyBX4WE</guid>
-      <pubDate>Sat, 22 Aug 2026 09:00:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Günde 5 Sigara İçenler Dikkat: Tuzağa Düşmeyin! Beyniniz Sizi Kandırıyor! Tayfun Uzbay Anlatıyor</description>
     </item>
   </channel>
 </rss>
