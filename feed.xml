@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 09:20:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 09:25:25 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: TÜRKİYE SARSILACAK! Denizolgun'un ölümünü aydınlatacak videolar ortaya çıktı! Tüyleriniz ürperecek!</title>
+      <link>https://www.youtube.com/watch?v=NahnOSQ4E8s</link>
+      <guid isPermaLink="false">NahnOSQ4E8s</guid>
+      <pubDate>Sat, 22 Aug 2026 09:15:22 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: TÜRKİYE SARSILACAK! Denizolgun'un ölümünü aydınlatacak videolar ortaya çıktı! Tüyleriniz ürperecek!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel Rize'de #Canlı</title>
       <link>https://www.youtube.com/watch?v=rvJPwoYMuyk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">c0tncCTFP38</guid>
       <pubDate>Fri, 21 Aug 2026 21:55:09 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Çayırhan’da maden faciası! 1 madenci hayatını kaybetti, 12 işçi yaralı! #shorts</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! Ankara Valisi Canbolat’tan maden kazası açıklaması! 1 madenci hayatını kaybetti!</title>
-      <link>https://www.youtube.com/shorts/lA4ydxtWPKg</link>
-      <guid isPermaLink="false">lA4ydxtWPKg</guid>
-      <pubDate>Fri, 21 Aug 2026 21:46:18 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! Ankara Valisi Canbolat’tan maden kazası açıklaması! 1 madenci hayatını kaybetti!</description>
     </item>
   </channel>
 </rss>
