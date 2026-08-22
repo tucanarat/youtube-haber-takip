@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 22:00:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 22:05:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Gökmen Karadağ ile Açıkça (22 Ağustos 2026)</title>
+      <link>https://www.youtube.com/watch?v=rSbLOqSScMk</link>
+      <guid isPermaLink="false">rSbLOqSScMk</guid>
+      <pubDate>Sat, 22 Aug 2026 22:01:52 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Gökmen Karadağ ile Açıkça (22 Ağustos 2026)</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Fenerbahçe - Konyaspor Maç Sonu Yayını | Maç Varsa Erman Toroğlu Var</title>
+      <link>https://www.youtube.com/watch?v=qUipW6Oeg54</link>
+      <guid isPermaLink="false">qUipW6Oeg54</guid>
+      <pubDate>Sat, 22 Aug 2026 21:57:51 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Fenerbahçe - Konyaspor Maç Sonu Yayını | Maç Varsa Erman Toroğlu Var</description>
+    </item>
     <item>
       <title>Halk TV: "NETANYAHU TÜRKİYE'Yİ TAHRİK EDİYOR!" İsrail, Türkiye'ye kafa mı tutuyor? İşte şok edici detaylar!</title>
       <link>https://www.youtube.com/watch?v=gz-tuIzeUlk</link>
@@ -288,13 +302,6 @@
       <description>SÖZCÜ TV kanalından yeni video: DÜNYA AYAKTA! Rusya AVM'yi Hedef Aldı! Putin Ukrayna'ya Cehennemi Yaşattı</description>
     </item>
     <item>
-      <title>Halk TV: Gökmen Karadağ ile Açıkça (22 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=rSbLOqSScMk</link>
-      <guid isPermaLink="false">rSbLOqSScMk</guid>
-      <pubDate>Sat, 22 Aug 2026 16:29:59 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Gökmen Karadağ ile Açıkça (22 Ağustos 2026)</description>
-    </item>
-    <item>
       <title>Halk TV: 3 KARDEŞİN ÖLÜMÜNDE KAHREDEN DETAY! Aile 10 yıl arayla aynı acıyı bir kez daha yaşamış!</title>
       <link>https://www.youtube.com/watch?v=2luaCTzx2e0</link>
       <guid isPermaLink="false">2luaCTzx2e0</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">IUHff9m-Dho</guid>
       <pubDate>Sat, 22 Aug 2026 15:12:40 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Madencilerden Bakanlık önünde tepki: Holdinglerin mezbahanesi olmuş ülke!</description>
-    </item>
-    <item>
-      <title>Halk TV: Deprem konutlarında çalışan işçiler ödeme bekliyor: "Evime ekmek mi götüreyim, faiz mi ödeyeyim?"</title>
-      <link>https://www.youtube.com/shorts/SfSVtezk8D8</link>
-      <guid isPermaLink="false">SfSVtezk8D8</guid>
-      <pubDate>Sat, 22 Aug 2026 15:08:16 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Deprem konutlarında çalışan işçiler ödeme bekliyor: "Evime ekmek mi götüreyim, faiz mi ödeyeyim?"</description>
     </item>
   </channel>
 </rss>
