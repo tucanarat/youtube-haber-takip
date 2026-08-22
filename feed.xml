@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 16:45:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 16:50:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Beşiktaş, yarın oynayacağı Corendon Alanyaspor maçı için uçakla Antalya Gazipaşa’ya geldi!</title>
+      <link>https://www.youtube.com/shorts/LTMkXeKKBws</link>
+      <guid isPermaLink="false">LTMkXeKKBws</guid>
+      <pubDate>Sat, 22 Aug 2026 16:45:05 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Beşiktaş, yarın oynayacağı Corendon Alanyaspor maçı için uçakla Antalya Gazipaşa’ya geldi!</description>
+    </item>
+    <item>
+      <title>Halk TV: ANKARA'DA DENGELER DEĞİŞİYOR! Gelecek Partisi kendini feshetti! Davutoğlu tarihe mi karışacak?</title>
+      <link>https://www.youtube.com/watch?v=H39RyCFDRQs</link>
+      <guid isPermaLink="false">H39RyCFDRQs</guid>
+      <pubDate>Sat, 22 Aug 2026 16:40:12 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ANKARA'DA DENGELER DEĞİŞİYOR! Gelecek Partisi kendini feshetti! Davutoğlu tarihe mi karışacak?</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Gökmen Karadağ ile Açıkça | #HalkTV</title>
       <link>https://www.youtube.com/watch?v=rSbLOqSScMk</link>
@@ -141,11 +155,11 @@
       <description>SÖZCÜ TV kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel Erdoğan'ın Kalesi Rize'de! Vatandaşlardan Sevgi Seli!</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | Gülşah Ekinci ile Hafta Sonu Ana Haber | #HalkTV</title>
+      <title>Halk TV: Gülşah Ekinci ile Hafta Sonu Ana Haber (22 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=l77tBHoE74U</link>
       <guid isPermaLink="false">l77tBHoE74U</guid>
       <pubDate>Sat, 22 Aug 2026 14:35:34 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Gülşah Ekinci ile Hafta Sonu Ana Haber | #HalkTV</description>
+      <description>Halk TV kanalından yeni video: Gülşah Ekinci ile Hafta Sonu Ana Haber (22 Ağustos 2026)</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Alparslan Kuytul Operasyonunda İkinci Dalga! Şifreli Kapılar ve Kaçırılan Hard Diskler Ele Geçirildi</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">_YO523grGLA</guid>
       <pubDate>Sat, 22 Aug 2026 12:05:58 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ERDOĞAN FENA YAKALANDI! Özgür Özel tek sözüyle Rize'yi yıktı geçti! Saray'da alarm zilleri çalacak!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: SON DAKİKA! Giresun'da Helikopter Düştü! Olay Yerine Ekipler Sevk Edildi! İlk Görüntüler!</title>
-      <link>https://www.youtube.com/watch?v=_W65iFu1wMo</link>
-      <guid isPermaLink="false">_W65iFu1wMo</guid>
-      <pubDate>Sat, 22 Aug 2026 11:51:02 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: SON DAKİKA! Giresun'da Helikopter Düştü! Olay Yerine Ekipler Sevk Edildi! İlk Görüntüler!</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! GİRESUN'DA FECİ KAZA! Helikopter düştü, bölgeye ekipler sevk edildi! Dehşet anları!</title>
-      <link>https://www.youtube.com/watch?v=1nozRCrJ6Vw</link>
-      <guid isPermaLink="false">1nozRCrJ6Vw</guid>
-      <pubDate>Sat, 22 Aug 2026 11:50:01 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! GİRESUN'DA FECİ KAZA! Helikopter düştü, bölgeye ekipler sevk edildi! Dehşet anları!</description>
     </item>
   </channel>
 </rss>
