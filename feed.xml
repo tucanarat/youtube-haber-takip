@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 09:10:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 09:15:33 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel Rize'de #Canlı</title>
+      <link>https://www.youtube.com/watch?v=rvJPwoYMuyk</link>
+      <guid isPermaLink="false">rvJPwoYMuyk</guid>
+      <pubDate>Sat, 22 Aug 2026 09:09:29 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel Rize'de #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Butlancı Gürsel Tekin, Rozet Takma Töreninde Açıklama Yapıyor!</title>
       <link>https://www.youtube.com/watch?v=ngz7EKRaB7U</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">lA4ydxtWPKg</guid>
       <pubDate>Fri, 21 Aug 2026 21:46:18 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SON DAKİKA! Ankara Valisi Canbolat’tan maden kazası açıklaması! 1 madenci hayatını kaybetti!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Madenciler, Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=X3KPHghrphA</link>
-      <guid isPermaLink="false">X3KPHghrphA</guid>
-      <pubDate>Fri, 21 Aug 2026 21:35:22 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Madenciler, Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor #Canlı</description>
     </item>
   </channel>
 </rss>
