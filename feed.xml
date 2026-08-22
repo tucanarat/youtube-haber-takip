@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 07:00:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 07:05:23 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ERDOĞAN VE KILIÇDAROĞLU HESABINI ŞİMDİ YAPSIN! Özgür Özel'den masaları dağıtacak hamle! Olay olacak!</title>
+      <link>https://www.youtube.com/watch?v=SbskzO7kI2k</link>
+      <guid isPermaLink="false">SbskzO7kI2k</guid>
+      <pubDate>Sat, 22 Aug 2026 07:00:36 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ERDOĞAN VE KILIÇDAROĞLU HESABINI ŞİMDİ YAPSIN! Özgür Özel'den masaları dağıtacak hamle! Olay olacak!</description>
+    </item>
     <item>
       <title>Halk TV: Nevra Öner ile Hafta Sonu Sabah (22 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=PaaRgJRfyvM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">R2nza-nwyco</guid>
       <pubDate>Fri, 21 Aug 2026 18:45:39 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Burdur Belediye Başkanı Ali Orkun Ercengiz, 15 meclis üyesinin tamamı ile YENİ Parti'ye geçti!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Özgür Özel'den Öcalan'a yanıt! Evren Özalkuş ile Gerçek |Konuklar: Bülent Mumay, Tuba Torun 21.08.26</title>
-      <link>https://www.youtube.com/watch?v=4uOto11vnpw</link>
-      <guid isPermaLink="false">4uOto11vnpw</guid>
-      <pubDate>Fri, 21 Aug 2026 18:40:37 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Özgür Özel'den Öcalan'a yanıt! Evren Özalkuş ile Gerçek |Konuklar: Bülent Mumay, Tuba Torun 21.08.26</description>
     </item>
   </channel>
 </rss>
