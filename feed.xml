@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 11:40:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 11:45:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SON DAKİKA! ALİHAN KURİŞ SORUŞTURASINDA İKİNCİ DALGA! 12 şüpheli gözaltına alındı, 1 kişi aranıyor!</title>
+      <link>https://www.youtube.com/watch?v=zFc4MViqaCw</link>
+      <guid isPermaLink="false">zFc4MViqaCw</guid>
+      <pubDate>Sat, 22 Aug 2026 11:35:22 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! ALİHAN KURİŞ SORUŞTURASINDA İKİNCİ DALGA! 12 şüpheli gözaltına alındı, 1 kişi aranıyor!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Süleymancıların Kirli İlişkileri Deşifre Oldu! Çakarlı Araçla Yurt Dışına Kaçış Kamerada!</title>
+      <link>https://www.youtube.com/watch?v=ToLcR4FmOPE</link>
+      <guid isPermaLink="false">ToLcR4FmOPE</guid>
+      <pubDate>Sat, 22 Aug 2026 11:30:12 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Süleymancıların Kirli İlişkileri Deşifre Oldu! Çakarlı Araçla Yurt Dışına Kaçış Kamerada!</description>
+    </item>
     <item>
       <title>Halk TV: SARAY'IN TÜM HESABINI ELİNDE PATLATTI! Özgür Özel'den Erdoğan'ı mat edecek vaatler! Meydan yıkıldı!</title>
       <link>https://www.youtube.com/watch?v=zEtzXZpAtts</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">Ej5OTzK5Lj8</guid>
       <pubDate>Sat, 22 Aug 2026 08:24:28 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Trabzonlu küçük Çınar, esnaf ziyareti yapan Özgür Özel'e mikrofon uzattı!</description>
-    </item>
-    <item>
-      <title>Halk TV: CHP'nin Genel Başkanlığına Atanan Kılıçdaroğlu 2’nci Kardeş Göçerler Yörük Etkinliği'nde!</title>
-      <link>https://www.youtube.com/watch?v=-VLmlm531cY</link>
-      <guid isPermaLink="false">-VLmlm531cY</guid>
-      <pubDate>Sat, 22 Aug 2026 08:16:41 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: CHP'nin Genel Başkanlığına Atanan Kılıçdaroğlu 2’nci Kardeş Göçerler Yörük Etkinliği'nde!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Özgür Özel Trabzon'da işçilerle fındık topladı: "Ben başak burcuyum kafam takılır"</title>
-      <link>https://www.youtube.com/shorts/0_grOOOVzKc</link>
-      <guid isPermaLink="false">0_grOOOVzKc</guid>
-      <pubDate>Sat, 22 Aug 2026 08:16:17 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Özgür Özel Trabzon'da işçilerle fındık topladı: "Ben başak burcuyum kafam takılır"</description>
     </item>
   </channel>
 </rss>
