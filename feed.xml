@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 23:00:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 23:05:23 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: #CANLI Haber Bülteni | Nagihan Turhan</title>
+      <link>https://www.youtube.com/watch?v=3s4ZdwpbqOw</link>
+      <guid isPermaLink="false">3s4ZdwpbqOw</guid>
+      <pubDate>Sat, 22 Aug 2026 23:00:12 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: #CANLI Haber Bülteni | Nagihan Turhan</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Madenciler, Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=sOzeaiukiIU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">0Wphz4p2EtY</guid>
       <pubDate>Sat, 22 Aug 2026 15:35:12 +0000</pubDate>
       <description>Halk TV kanalından yeni video: GÜRSEL TEKİN BİLE KULAKLARINA İNANAMADI! Butlancı Şimşek Kılıçdaroğlu'nu bakın ne ilan etti! Pes!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Fındıklı Festival Alanı'nda konuşuyor  #Canlı</title>
-      <link>https://www.youtube.com/watch?v=aP9ssKbMFPg</link>
-      <guid isPermaLink="false">aP9ssKbMFPg</guid>
-      <pubDate>Sat, 22 Aug 2026 15:26:28 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Fındıklı Festival Alanı'nda konuşuyor  #Canlı</description>
     </item>
   </channel>
 </rss>
