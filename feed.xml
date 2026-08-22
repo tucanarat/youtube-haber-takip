@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 20:19:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 20:20:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: GÜNDEM OLAN ANLAR! YENİ Parti lideri Özgür Özel, Rize'de Rize simidi ve Anzer balıyla karşılandı!</title>
+      <link>https://www.youtube.com/shorts/6kwaqBDJNCw</link>
+      <guid isPermaLink="false">6kwaqBDJNCw</guid>
+      <pubDate>Sat, 22 Aug 2026 20:15:04 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: GÜNDEM OLAN ANLAR! YENİ Parti lideri Özgür Özel, Rize'de Rize simidi ve Anzer balıyla karşılandı!</description>
+    </item>
     <item>
       <title>Halk TV: KARADENİZ'DE DEĞİŞİM RÜZGARI! Yeni Partili Tahsin Ocaklı canlı yayında çok net konuştu!</title>
       <link>https://www.youtube.com/watch?v=r6_6CC8K2Lw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ZVP1Ws_EomM</guid>
       <pubDate>Sat, 22 Aug 2026 14:36:47 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel Erdoğan'ın Kalesi Rize'de! Vatandaşlardan Sevgi Seli!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Alparslan Kuytul Operasyonunda İkinci Dalga! Şifreli Kapılar ve Kaçırılan Hard Diskler Ele Geçirildi</title>
-      <link>https://www.youtube.com/watch?v=gbxdsdf4jfQ</link>
-      <guid isPermaLink="false">gbxdsdf4jfQ</guid>
-      <pubDate>Sat, 22 Aug 2026 14:30:20 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Alparslan Kuytul Operasyonunda İkinci Dalga! Şifreli Kapılar ve Kaçırılan Hard Diskler Ele Geçirildi</description>
     </item>
   </channel>
 </rss>
