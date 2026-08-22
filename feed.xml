@@ -6,13 +6,13 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 09:50:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 09:55:24 +0000</lastBuildDate>
     <item>
-      <title>Halk TV: YER YERİNDEN OYNAYACAK! Süleymancıların firar ettikleri bakan aracında bakın ne çıktı! Şoke edecek!</title>
+      <title>Halk TV: YER YERİNDEN OYNAYACAK! Süleymancıların firar ettikleri bakan aracından bakın ne çıktı! Şoke edecek!</title>
       <link>https://www.youtube.com/watch?v=jpD_hfkSEpY</link>
       <guid isPermaLink="false">jpD_hfkSEpY</guid>
       <pubDate>Sat, 22 Aug 2026 09:45:33 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YER YERİNDEN OYNAYACAK! Süleymancıların firar ettikleri bakan aracında bakın ne çıktı! Şoke edecek!</description>
+      <description>Halk TV kanalından yeni video: YER YERİNDEN OYNAYACAK! Süleymancıların firar ettikleri bakan aracından bakın ne çıktı! Şoke edecek!</description>
     </item>
     <item>
       <title>Halk TV: AKP'li seçmenden YENİ Partili Gökhan Günaydın'a: Sende yürek de var, insanlık da var!</title>
@@ -20,6 +20,20 @@
       <guid isPermaLink="false">FvgCL4m1c1I</guid>
       <pubDate>Sat, 22 Aug 2026 09:40:18 +0000</pubDate>
       <description>Halk TV kanalından yeni video: AKP'li seçmenden YENİ Partili Gökhan Günaydın'a: Sende yürek de var, insanlık da var!</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: Madenciler, Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=sOzeaiukiIU</link>
+      <guid isPermaLink="false">sOzeaiukiIU</guid>
+      <pubDate>Sat, 22 Aug 2026 09:38:52 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Madenciler, Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor #Canlı</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: Yaşamını yitiren Prof. Dr. Gülten Kazgan için cenaze töreni düzenleniyor  #Canlı</title>
+      <link>https://www.youtube.com/watch?v=wiPF05r3ydE</link>
+      <guid isPermaLink="false">wiPF05r3ydE</guid>
+      <pubDate>Sat, 22 Aug 2026 09:38:47 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Yaşamını yitiren Prof. Dr. Gülten Kazgan için cenaze töreni düzenleniyor  #Canlı</description>
     </item>
     <item>
       <title>SÖZCÜ TV: AKP'nin Gizli Planı! TÜRKİYE'Yİ AYAĞA KALDIRACAK İDDİA! APO Kurul Başkanı mı Oluyor?</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">foXjwgm4o5s</guid>
       <pubDate>Fri, 21 Aug 2026 23:07:57 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: #CANLI Haber Bülteni | Gülinay Selçuk</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: S Raporu | Nagihan Turhan | 22 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=yI_NwbTsY6w</link>
-      <guid isPermaLink="false">yI_NwbTsY6w</guid>
-      <pubDate>Fri, 21 Aug 2026 22:57:17 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: S Raporu | Nagihan Turhan | 22 Ağustos</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: CHP Genel Başkan Yardımcıları Semra Dinçer ve Deniz Demir, Beypazarı'nda açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=jK4F1YXEQNU</link>
-      <guid isPermaLink="false">jK4F1YXEQNU</guid>
-      <pubDate>Fri, 21 Aug 2026 22:53:20 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkan Yardımcıları Semra Dinçer ve Deniz Demir, Beypazarı'nda açıklama yapıyor #Canlı</description>
     </item>
   </channel>
 </rss>
