@@ -6750,5 +6750,29 @@
     "published": "2026-08-22T21:40:29+00:00",
     "published_ts": 1787434829,
     "channel_name": "Halk TV"
+  },
+  "hmJrZO3m3HQ": {
+    "id": "hmJrZO3m3HQ",
+    "title": "Hafta Sonu Ana Haber | Senem Toluay Ilgaz",
+    "link": "https://www.youtube.com/watch?v=hmJrZO3m3HQ",
+    "published": "2026-08-22T23:29:26+00:00",
+    "published_ts": 1787441366,
+    "channel_name": "SÖZCÜ TV"
+  },
+  "LIky84vyuSk": {
+    "id": "LIky84vyuSk",
+    "title": "Haber Bülteni | Gülinay Selçuk",
+    "link": "https://www.youtube.com/watch?v=LIky84vyuSk",
+    "published": "2026-08-22T23:27:44+00:00",
+    "published_ts": 1787441264,
+    "channel_name": "SÖZCÜ TV"
+  },
+  "n4yfhpfs9Sw": {
+    "id": "n4yfhpfs9Sw",
+    "title": "Sabah Kahvesi | Nagihan Turhan",
+    "link": "https://www.youtube.com/watch?v=n4yfhpfs9Sw",
+    "published": "2026-08-22T23:27:17+00:00",
+    "published_ts": 1787441237,
+    "channel_name": "SÖZCÜ TV"
   }
 }
