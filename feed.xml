@@ -6,13 +6,34 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 14:35:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 14:40:31 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: YENİ Parti Genel Başkanı Özgür Özel Erdoğan'ın Kalesi Rize'de! Vatandaşlardan Sevgi Seli!</title>
+      <link>https://www.youtube.com/watch?v=ZVP1Ws_EomM</link>
+      <guid isPermaLink="false">ZVP1Ws_EomM</guid>
+      <pubDate>Sat, 22 Aug 2026 14:36:47 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel Erdoğan'ın Kalesi Rize'de! Vatandaşlardan Sevgi Seli!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #CANLI Özgür Özel, Rize Fındıklı Festival Alanı'nda konuşuyor</title>
+      <link>https://www.youtube.com/watch?v=bdD-Cv1cCr0</link>
+      <guid isPermaLink="false">bdD-Cv1cCr0</guid>
+      <pubDate>Sat, 22 Aug 2026 14:31:58 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Özgür Özel, Rize Fındıklı Festival Alanı'nda konuşuyor</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Alparslan Kuytul Operasyonunda İkinci Dalga! Şifreli Kapılar ve Kaçırılan Hard Diskler Ele Geçirildi</title>
       <link>https://www.youtube.com/watch?v=gbxdsdf4jfQ</link>
       <guid isPermaLink="false">gbxdsdf4jfQ</guid>
       <pubDate>Sat, 22 Aug 2026 14:30:20 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Alparslan Kuytul Operasyonunda İkinci Dalga! Şifreli Kapılar ve Kaçırılan Hard Diskler Ele Geçirildi</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Fındıklı Festival Alanı'nda konuşuyor  #Canlı</title>
+      <link>https://www.youtube.com/watch?v=aP9ssKbMFPg</link>
+      <guid isPermaLink="false">aP9ssKbMFPg</guid>
+      <pubDate>Sat, 22 Aug 2026 14:27:04 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Fındıklı Festival Alanı'nda konuşuyor  #Canlı</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | RİZE BÖYLE KALABALIK GÖRMEDİ! Özgür Özel Eylem Yapan Kadın Balıkçılarla Bir Araya Geldi!</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">23i_MGLPWZE</guid>
       <pubDate>Sat, 22 Aug 2026 10:42:10 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel Erdoğan'ın Kalesi Rize'de! Vatandaşlardan Sevgi Seli!</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti lideri Özgür Özel'e Rize'de sevgi seli!</title>
-      <link>https://www.youtube.com/shorts/0jPaSi6ihg0</link>
-      <guid isPermaLink="false">0jPaSi6ihg0</guid>
-      <pubDate>Sat, 22 Aug 2026 10:37:01 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti lideri Özgür Özel'e Rize'de sevgi seli!</description>
-    </item>
-    <item>
-      <title>Halk TV: Erdoğan'ın memleketi Rize'de Özgür Özel adım atacak yer bulamadı!</title>
-      <link>https://www.youtube.com/shorts/PeNf94iF1og</link>
-      <guid isPermaLink="false">PeNf94iF1og</guid>
-      <pubDate>Sat, 22 Aug 2026 10:34:27 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Erdoğan'ın memleketi Rize'de Özgür Özel adım atacak yer bulamadı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: ALTIN ZİRVEDEYKEN KRİTİK KARAR! Uzman İsim Uyardı! Gram Altını Olanlar Buna Çok Dikkat Etsin</title>
-      <link>https://www.youtube.com/watch?v=-1vroql1A3E</link>
-      <guid isPermaLink="false">-1vroql1A3E</guid>
-      <pubDate>Sat, 22 Aug 2026 10:30:13 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: ALTIN ZİRVEDEYKEN KRİTİK KARAR! Uzman İsim Uyardı! Gram Altını Olanlar Buna Çok Dikkat Etsin</description>
     </item>
   </channel>
 </rss>
