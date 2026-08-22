@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 11:55:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 12:00:52 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: SON DAKİKA! Giresun'da Helikopter Düştü! Olay Yerine Ekipler Sevk Edildi! İlk Görüntüler!</title>
+      <link>https://www.youtube.com/watch?v=_W65iFu1wMo</link>
+      <guid isPermaLink="false">_W65iFu1wMo</guid>
+      <pubDate>Sat, 22 Aug 2026 11:51:02 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: SON DAKİKA! Giresun'da Helikopter Düştü! Olay Yerine Ekipler Sevk Edildi! İlk Görüntüler!</description>
+    </item>
+    <item>
+      <title>Halk TV: SON DAKİKA! GİRESUN'DA FECİ KAZA! Helikopter düştü, bölgeye ekipler sevk edildi! Dehşet anları!</title>
+      <link>https://www.youtube.com/watch?v=1nozRCrJ6Vw</link>
+      <guid isPermaLink="false">1nozRCrJ6Vw</guid>
+      <pubDate>Sat, 22 Aug 2026 11:50:01 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! GİRESUN'DA FECİ KAZA! Helikopter düştü, bölgeye ekipler sevk edildi! Dehşet anları!</description>
+    </item>
     <item>
       <title>Halk TV: SON DAKİKA! ALİHAN KURİŞ SORUŞTURASINDA İKİNCİ DALGA! 12 şüpheli gözaltına alındı, 1 kişi aranıyor!</title>
       <link>https://www.youtube.com/watch?v=zFc4MViqaCw</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">pJxRhWfRVkM</guid>
       <pubDate>Sat, 22 Aug 2026 08:30:13 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: KAPALIÇARŞI'DA GRAM ALTIN ATEŞİ! Cevdet Yılmaz'ın Altın Çağrısı! Uzman İsim Tarih Vererek Uyardı!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: CHP İstanbul İl Başkanı Gürsel Tekin, rozet takma töreninde açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=oGyc3JUwKLw</link>
-      <guid isPermaLink="false">oGyc3JUwKLw</guid>
-      <pubDate>Sat, 22 Aug 2026 08:26:07 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP İstanbul İl Başkanı Gürsel Tekin, rozet takma töreninde açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: AFYONKARAHİSAR'DA KATLİAM GİBİ KAZA! Devrilen yolcu otobüsü paramparça oldu! Çok sayıda yaralı var!</title>
-      <link>https://www.youtube.com/watch?v=BRwJFDHcnQQ</link>
-      <guid isPermaLink="false">BRwJFDHcnQQ</guid>
-      <pubDate>Sat, 22 Aug 2026 08:25:26 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: AFYONKARAHİSAR'DA KATLİAM GİBİ KAZA! Devrilen yolcu otobüsü paramparça oldu! Çok sayıda yaralı var!</description>
     </item>
   </channel>
 </rss>
