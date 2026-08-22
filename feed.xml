@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 11:05:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 11:10:29 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Romatizma ve Şeker Hastalığının Asıl Sebebi | Mikrobiyolog Ali Rıza Akın'dan Ezber Bozan Açıklama</title>
+      <link>https://www.youtube.com/watch?v=JfVQXhY7pg4</link>
+      <guid isPermaLink="false">JfVQXhY7pg4</guid>
+      <pubDate>Sat, 22 Aug 2026 11:00:35 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Romatizma ve Şeker Hastalığının Asıl Sebebi | Mikrobiyolog Ali Rıza Akın'dan Ezber Bozan Açıklama</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Özdemir İnce, AKP'nin 25 yılını ve Recep Tayyip Erdoğan'ı yorumladı!</title>
+      <link>https://www.youtube.com/watch?v=0F481w1nJK0</link>
+      <guid isPermaLink="false">0F481w1nJK0</guid>
+      <pubDate>Sat, 22 Aug 2026 11:00:15 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Özdemir İnce, AKP'nin 25 yılını ve Recep Tayyip Erdoğan'ı yorumladı!</description>
+    </item>
     <item>
       <title>Cumhuriyet: YENİ Parti Genel Başkanı Özgür Özel, Rize'de esnaf ve yurttaşlarla bir araya geldi</title>
       <link>https://www.youtube.com/watch?v=oZksooQPUtI</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">X7K6r-DEmHI</guid>
       <pubDate>Sat, 22 Aug 2026 08:03:29 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Üniversite tercih sonuçlarının ardından spotçularda hareketlilik: Öğrencinin ev kurma maliyeti ne?</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: CHP Genel Başkanı Kemal Kılıçdaroğlu, 2’nci Kardeş Göçerler Yörük Etkinliği'nde #Canlı</title>
-      <link>https://www.youtube.com/watch?v=ANYb6VM0t_8</link>
-      <guid isPermaLink="false">ANYb6VM0t_8</guid>
-      <pubDate>Sat, 22 Aug 2026 08:02:57 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkanı Kemal Kılıçdaroğlu, 2’nci Kardeş Göçerler Yörük Etkinliği'nde #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: BEŞTEPE'Yİ ALARMA GEÇİRECEK! Özgür Özel'den Erdoğan'a Netanyahu salvosu! Bu sözlerin dönüşü yok!</title>
-      <link>https://www.youtube.com/watch?v=mRzE6GzObbE</link>
-      <guid isPermaLink="false">mRzE6GzObbE</guid>
-      <pubDate>Sat, 22 Aug 2026 08:00:29 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BEŞTEPE'Yİ ALARMA GEÇİRECEK! Özgür Özel'den Erdoğan'a Netanyahu salvosu! Bu sözlerin dönüşü yok!</description>
     </item>
   </channel>
 </rss>
