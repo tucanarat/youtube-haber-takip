@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 14:51:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 14:55:25 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI Özgür Özel, Rize Fındıklı Festival Alanı'nda konuşuyor</title>
+      <link>https://www.youtube.com/watch?v=bdD-Cv1cCr0</link>
+      <guid isPermaLink="false">bdD-Cv1cCr0</guid>
+      <pubDate>Sat, 22 Aug 2026 14:55:04 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Özgür Özel, Rize Fındıklı Festival Alanı'nda konuşuyor</description>
+    </item>
+    <item>
+      <title>Halk TV: Gökhan Kayış ile Hafta Sonu Raporu (22 Ağustos 2026)</title>
+      <link>https://www.youtube.com/watch?v=LqUru8MF4f8</link>
+      <guid isPermaLink="false">LqUru8MF4f8</guid>
+      <pubDate>Sat, 22 Aug 2026 14:54:54 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Gökhan Kayış ile Hafta Sonu Raporu (22 Ağustos 2026)</description>
+    </item>
     <item>
       <title>Tele2 Haber: Özgür Özel'den Erdoğan'a Kamer Genç göndermesi!</title>
       <link>https://www.youtube.com/shorts/G9Eq1YKLt-A</link>
@@ -48,13 +62,6 @@
       <guid isPermaLink="false">l77tBHoE74U</guid>
       <pubDate>Sat, 22 Aug 2026 14:35:34 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | Gülşah Ekinci ile Hafta Sonu Ana Haber</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Özgür Özel, Rize Fındıklı Festival Alanı'nda konuşuyor</title>
-      <link>https://www.youtube.com/watch?v=bdD-Cv1cCr0</link>
-      <guid isPermaLink="false">bdD-Cv1cCr0</guid>
-      <pubDate>Sat, 22 Aug 2026 14:31:58 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Özgür Özel, Rize Fındıklı Festival Alanı'nda konuşuyor</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Alparslan Kuytul Operasyonunda İkinci Dalga! Şifreli Kapılar ve Kaçırılan Hard Diskler Ele Geçirildi</title>
@@ -125,13 +132,6 @@
       <guid isPermaLink="false">LqvS9IjpDtY</guid>
       <pubDate>Sat, 22 Aug 2026 13:55:08 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ERDOĞAN'DAN CHP'Lİ BAŞKANA AYAKÜSTÜ TRANSFER TEKLİFİ! Özgür Özel'den sert sözler! Çok ses getirir!</description>
-    </item>
-    <item>
-      <title>Halk TV: Gökhan Kayış ile Hafta Sonu Raporu (22 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=LqUru8MF4f8</link>
-      <guid isPermaLink="false">LqUru8MF4f8</guid>
-      <pubDate>Sat, 22 Aug 2026 13:52:12 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Gökhan Kayış ile Hafta Sonu Raporu (22 Ağustos 2026)</description>
     </item>
     <item>
       <title>Tele2 Haber: Özgür Özel'den Rize'de Erdoğan'a: Belediyeler transferle kazanılmaz!</title>
@@ -246,11 +246,11 @@
       <description>SÖZCÜ TV kanalından yeni video: Deniz Türkeri Yapay Zeka - Alemşah Öztürk | Geleceğin Meslekleri Neler? Diploma Devri Bitti mi?</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: #CANLI Haber Bülteni | Gülinay Selçuk</title>
+      <title>SÖZCÜ TV: Haber Bülteni | Gülinay Selçuk | 22 Ağustos</title>
       <link>https://www.youtube.com/watch?v=SOQlGcD3ZDU</link>
       <guid isPermaLink="false">SOQlGcD3ZDU</guid>
       <pubDate>Sat, 22 Aug 2026 12:23:33 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: #CANLI Haber Bülteni | Gülinay Selçuk</description>
+      <description>SÖZCÜ TV kanalından yeni video: Haber Bülteni | Gülinay Selçuk | 22 Ağustos</description>
     </item>
     <item>
       <title>Halk TV: Özgür Özel'e Rizespor forması hediye edildi!</title>
