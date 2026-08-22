@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 13:35:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 13:40:05 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ERDOĞAN KENDİNİ BÖYLE YALANLAMIŞ! Özgür Özel’in sözleri Rize meydanına buz kestirdi! Meğer o yıl...</title>
+      <link>https://www.youtube.com/watch?v=Yrq8kuDmSnQ</link>
+      <guid isPermaLink="false">Yrq8kuDmSnQ</guid>
+      <pubDate>Sat, 22 Aug 2026 13:35:06 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ERDOĞAN KENDİNİ BÖYLE YALANLAMIŞ! Özgür Özel’in sözleri Rize meydanına buz kestirdi! Meğer o yıl...</description>
+    </item>
     <item>
       <title>Tele2 Haber: Özgür Özel'den Rize'de güldüren Erdoğan göndermesi!</title>
       <link>https://www.youtube.com/watch?v=n5NcGoWBUrE</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">URtey8HNH4g</guid>
       <pubDate>Sat, 22 Aug 2026 10:08:34 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: ‘Böyle gelmiş böyle gitmez’-Öner Yağcı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Teselli-Gülengül Altınsay</title>
-      <link>https://www.youtube.com/watch?v=-4vE_WjlsqE</link>
-      <guid isPermaLink="false">-4vE_WjlsqE</guid>
-      <pubDate>Sat, 22 Aug 2026 10:08:15 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Teselli-Gülengül Altınsay</description>
     </item>
   </channel>
 </rss>
