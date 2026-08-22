@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 12:15:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 12:20:32 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Rize'de Balıkçılar köyünü ziyaret ediyor</title>
+      <link>https://www.youtube.com/watch?v=H5sQOpG6i5M</link>
+      <guid isPermaLink="false">H5sQOpG6i5M</guid>
+      <pubDate>Sat, 22 Aug 2026 12:13:45 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Rize'de Balıkçılar köyünü ziyaret ediyor</description>
+    </item>
     <item>
       <title>Halk TV: Özgür Özel'e Rizespor forması hediye edildi!</title>
       <link>https://www.youtube.com/shorts/2ZBbSe6k8Ts</link>
       <guid isPermaLink="false">2ZBbSe6k8Ts</guid>
       <pubDate>Sat, 22 Aug 2026 12:13:34 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Özel'e Rizespor forması hediye edildi!</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Erdoğan memleketi Rize'de Özgür Özel'e sevgi seli: "Ben çok seviyorum bunları ya"</title>
+      <link>https://www.youtube.com/shorts/x6CHZLSiFmI</link>
+      <guid isPermaLink="false">x6CHZLSiFmI</guid>
+      <pubDate>Sat, 22 Aug 2026 12:08:15 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Erdoğan memleketi Rize'de Özgür Özel'e sevgi seli: "Ben çok seviyorum bunları ya"</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | RİZE BÖYLE KALABALIK GÖRMEDİ! Özgür Özel'den Erdoğan'ın Memleketinde Gövde Gösterisi!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">70bI0IXHz8s</guid>
       <pubDate>Sat, 22 Aug 2026 08:56:12 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Hatay'da yüzleri gülümseten anlar: Çalan oyun havasını duydular, inşaatın terasında oynadılar!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Sabah Kahvesi | Nagihan Turhan 22 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=i0DesXcqvJw</link>
-      <guid isPermaLink="false">i0DesXcqvJw</guid>
-      <pubDate>Sat, 22 Aug 2026 08:55:56 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Sabah Kahvesi | Nagihan Turhan 22 Ağustos</description>
-    </item>
-    <item>
-      <title>Halk TV: KILIÇDAROĞLU VE ERDOĞAN KALA KALACAK! Özgür Özel tüm dengeleri yıkacak çağrıyı yaptı! Kabus olur!</title>
-      <link>https://www.youtube.com/watch?v=qYYnbQEQzX8</link>
-      <guid isPermaLink="false">qYYnbQEQzX8</guid>
-      <pubDate>Sat, 22 Aug 2026 08:55:33 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KILIÇDAROĞLU VE ERDOĞAN KALA KALACAK! Özgür Özel tüm dengeleri yıkacak çağrıyı yaptı! Kabus olur!</description>
     </item>
   </channel>
 </rss>
