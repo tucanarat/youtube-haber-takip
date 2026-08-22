@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 13:45:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 13:50:31 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Özgür Özel'den Rize'de Erdoğan'a: Belediyeler transferle kazanılmaz!</title>
+      <link>https://www.youtube.com/shorts/3Jwn4nhjaK8</link>
+      <guid isPermaLink="false">3Jwn4nhjaK8</guid>
+      <pubDate>Sat, 22 Aug 2026 13:50:01 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Özgür Özel'den Rize'de Erdoğan'a: Belediyeler transferle kazanılmaz!</description>
+    </item>
     <item>
       <title>Halk TV: ERDOĞAN KENDİNİ BÖYLE YALANLAMIŞ! Özgür Özel’in sözleri Rize meydanına buz kestirdi! Meğer o yıl...</title>
       <link>https://www.youtube.com/watch?v=Yrq8kuDmSnQ</link>
@@ -162,11 +169,11 @@
       <description>Halk TV kanalından yeni video: ERDOĞAN FENA YAKALANDI! Özgür Özel tek sözüyle Rize'yi yıktı geçti! Saray'da alarm zilleri çalacak!</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | Kürşak Oğuz ile Gelecek Fikirler | Konuk: David Le Breton</title>
+      <title>Halk TV: Kürşak Oğuz ile Gelecek Fikirler | Konuk: David Le Breton  (22 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=KryNHL5Y2N0</link>
       <guid isPermaLink="false">KryNHL5Y2N0</guid>
       <pubDate>Sat, 22 Aug 2026 12:01:59 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Kürşak Oğuz ile Gelecek Fikirler | Konuk: David Le Breton</description>
+      <description>Halk TV kanalından yeni video: Kürşak Oğuz ile Gelecek Fikirler | Konuk: David Le Breton  (22 Ağustos 2026)</description>
     </item>
     <item>
       <title>SÖZCÜ TV: SON DAKİKA! Giresun'da Helikopter Düştü! Olay Yerine Ekipler Sevk Edildi! İlk Görüntüler!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">tXHefcY884s</guid>
       <pubDate>Sat, 22 Aug 2026 10:08:39 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Türker Ertürk’ün tutuklanması-Örsan K. Öymen</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Suriye’de iki nüfuz alanı sorunu-Mehmet Ali Güller</title>
-      <link>https://www.youtube.com/watch?v=IY068KL0HvQ</link>
-      <guid isPermaLink="false">IY068KL0HvQ</guid>
-      <pubDate>Sat, 22 Aug 2026 10:08:37 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Suriye’de iki nüfuz alanı sorunu-Mehmet Ali Güller</description>
     </item>
   </channel>
 </rss>
