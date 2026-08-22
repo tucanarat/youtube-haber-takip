@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 11:10:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 11:15:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Rizeliler Özgür Özel'e sarılmak için yarıştı, 'İktidar' sloganları attı!</title>
+      <link>https://www.youtube.com/shorts/MVYm6xzN0as</link>
+      <guid isPermaLink="false">MVYm6xzN0as</guid>
+      <pubDate>Sat, 22 Aug 2026 11:05:32 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Rizeliler Özgür Özel'e sarılmak için yarıştı, 'İktidar' sloganları attı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Romatizma ve Şeker Hastalığının Asıl Sebebi | Mikrobiyolog Ali Rıza Akın'dan Ezber Bozan Açıklama</title>
       <link>https://www.youtube.com/watch?v=JfVQXhY7pg4</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">OUVMWpTRroI</guid>
       <pubDate>Sat, 22 Aug 2026 08:11:21 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Trabzonlu çocuktan Özgür Özel'i güldüren sözler: "Biz adama formayı böyle giydiririz"</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Üniversite tercih sonuçlarının ardından spotçularda hareketlilik: Öğrencinin ev kurma maliyeti ne?</title>
-      <link>https://www.youtube.com/watch?v=X7K6r-DEmHI</link>
-      <guid isPermaLink="false">X7K6r-DEmHI</guid>
-      <pubDate>Sat, 22 Aug 2026 08:03:29 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Üniversite tercih sonuçlarının ardından spotçularda hareketlilik: Öğrencinin ev kurma maliyeti ne?</description>
     </item>
   </channel>
 </rss>
