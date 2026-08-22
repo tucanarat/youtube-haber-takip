@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 09:05:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 09:10:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Butlancı Gürsel Tekin, Rozet Takma Töreninde Açıklama Yapıyor!</title>
+      <link>https://www.youtube.com/watch?v=ngz7EKRaB7U</link>
+      <guid isPermaLink="false">ngz7EKRaB7U</guid>
+      <pubDate>Sat, 22 Aug 2026 09:04:56 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Butlancı Gürsel Tekin, Rozet Takma Töreninde Açıklama Yapıyor!</description>
+    </item>
     <item>
       <title>Halk TV: CHP'nin Genel Başkanlığına Atanan Kılıçdaroğlu 2’nci Kardeş Göçerler Yörük Etkinliği'nde!</title>
       <link>https://www.youtube.com/watch?v=i3au5hlZETw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">X3KPHghrphA</guid>
       <pubDate>Fri, 21 Aug 2026 21:35:22 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Madenciler, Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: SICAK GELİŞME! Ankara Valisi'nden hastane önünde çarpıcı açıklama! İşte maden göçüğünün sebebi!</title>
-      <link>https://www.youtube.com/watch?v=3-mlII3Gisc</link>
-      <guid isPermaLink="false">3-mlII3Gisc</guid>
-      <pubDate>Fri, 21 Aug 2026 21:28:43 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SICAK GELİŞME! Ankara Valisi'nden hastane önünde çarpıcı açıklama! İşte maden göçüğünün sebebi!</description>
     </item>
   </channel>
 </rss>
