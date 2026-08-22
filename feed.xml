@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 07:25:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 07:26:07 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Ankara’da maden ocağında göçük: 1 işçi hayatını kaybetti, çok sayıda yaralı</title>
+      <link>https://www.youtube.com/watch?v=EESbN1Mtxfg</link>
+      <guid isPermaLink="false">EESbN1Mtxfg</guid>
+      <pubDate>Sat, 22 Aug 2026 07:25:15 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Ankara’da maden ocağında göçük: 1 işçi hayatını kaybetti, çok sayıda yaralı</description>
+    </item>
     <item>
       <title>Cumhuriyet: Kozak’ın Yeşilinde Bir Yolculuk: Madra Dağı’nın Saklı Hikâyeleri | İki Bavul Bir Mikrofon</title>
       <link>https://www.youtube.com/watch?v=tGJH3YWETZU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">98ihUFuLZ1w</guid>
       <pubDate>Fri, 21 Aug 2026 19:00:13 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: RUSYA KİEV'İ YERLE BİR ETTİ DÜNYAYI SARSAN SALDIRI! Putin'den Ağır Bombardıman</description>
-    </item>
-    <item>
-      <title>Halk TV: TUTUKLULARIN DURUMU NE OLACAK? DEM Partili Tuncer Bakırhan'dan çok kritik 'Demirtaş' açıklaması!</title>
-      <link>https://www.youtube.com/watch?v=Zt6F5cmemqw</link>
-      <guid isPermaLink="false">Zt6F5cmemqw</guid>
-      <pubDate>Fri, 21 Aug 2026 19:00:12 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: TUTUKLULARIN DURUMU NE OLACAK? DEM Partili Tuncer Bakırhan'dan çok kritik 'Demirtaş' açıklaması!</description>
     </item>
   </channel>
 </rss>
