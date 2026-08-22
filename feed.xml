@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 15:30:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 15:34:46 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Fındıklı Festival Alanı'nda konuşuyor  #Canlı</title>
       <link>https://www.youtube.com/watch?v=aP9ssKbMFPg</link>
       <guid isPermaLink="false">aP9ssKbMFPg</guid>
       <pubDate>Sat, 22 Aug 2026 15:26:28 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Fındıklı Festival Alanı'nda konuşuyor  #Canlı</description>
+    </item>
+    <item>
+      <title>Halk TV: "KILIÇDAROĞLU'NUN ŞANSI YOK..." Gürsel Tekin Genel Merkez'i kavgaya tutuşturmaya kararlı! Şok çıkış!</title>
+      <link>https://www.youtube.com/watch?v=pgXgeQSaHew</link>
+      <guid isPermaLink="false">pgXgeQSaHew</guid>
+      <pubDate>Sat, 22 Aug 2026 15:20:11 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: "KILIÇDAROĞLU'NUN ŞANSI YOK..." Gürsel Tekin Genel Merkez'i kavgaya tutuşturmaya kararlı! Şok çıkış!</description>
     </item>
     <item>
       <title>Halk TV: Madencilerden Bakanlık önünde tepki: Holdinglerin mezbahanesi olmuş ülke!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">0F481w1nJK0</guid>
       <pubDate>Sat, 22 Aug 2026 11:00:15 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Özdemir İnce, AKP'nin 25 yılını ve Recep Tayyip Erdoğan'ı yorumladı!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: YENİ Parti Genel Başkanı Özgür Özel, Rize'de esnaf ve yurttaşlarla bir araya geldi</title>
-      <link>https://www.youtube.com/watch?v=oZksooQPUtI</link>
-      <guid isPermaLink="false">oZksooQPUtI</guid>
-      <pubDate>Sat, 22 Aug 2026 10:56:58 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Rize'de esnaf ve yurttaşlarla bir araya geldi</description>
     </item>
   </channel>
 </rss>
