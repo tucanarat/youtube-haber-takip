@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 17:55:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 18:00:49 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Beş siyasi parti liderinin toplantısı sonrası açıklama  / Ankara #Canlı</title>
+      <link>https://www.youtube.com/watch?v=VOdyeDw1U8c</link>
+      <guid isPermaLink="false">VOdyeDw1U8c</guid>
+      <pubDate>Sat, 22 Aug 2026 17:59:46 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Beş siyasi parti liderinin toplantısı sonrası açıklama  / Ankara #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: KADIKÖY'DE FECİ OLAY! Metruk bir binada ceset bulundu! Kimlik tespiti için çalışma başlatıldı!</title>
       <link>https://www.youtube.com/shorts/k612nIkSr7Y</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">H5sQOpG6i5M</guid>
       <pubDate>Sat, 22 Aug 2026 12:58:22 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Rize'de Balıkçılar köyünü ziyaret ediyor</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Erdoğan'ın memleketinde "YENİ PARTİ" sesleri! Özgür Özel Rize'yi kasıp kavurdu!</title>
-      <link>https://www.youtube.com/watch?v=L7wUuQnyRlA</link>
-      <guid isPermaLink="false">L7wUuQnyRlA</guid>
-      <pubDate>Sat, 22 Aug 2026 12:52:01 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Erdoğan'ın memleketinde "YENİ PARTİ" sesleri! Özgür Özel Rize'yi kasıp kavurdu!</description>
     </item>
   </channel>
 </rss>
