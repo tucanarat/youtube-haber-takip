@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 22:30:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 22:35:25 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Madenciler, Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=sOzeaiukiIU</link>
+      <guid isPermaLink="false">sOzeaiukiIU</guid>
+      <pubDate>Sat, 22 Aug 2026 22:34:14 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Madenciler, Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor #Canlı</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: CHP İstanbul İl Başkanı Gürsel Tekin, rozet takma töreninde açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=oGyc3JUwKLw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">aP9ssKbMFPg</guid>
       <pubDate>Sat, 22 Aug 2026 15:26:28 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Fındıklı Festival Alanı'nda konuşuyor  #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: "KILIÇDAROĞLU'NUN ŞANSI YOK..." Gürsel Tekin Genel Merkez'i kavgaya tutuşturmaya kararlı! Şok çıkış!</title>
-      <link>https://www.youtube.com/watch?v=pgXgeQSaHew</link>
-      <guid isPermaLink="false">pgXgeQSaHew</guid>
-      <pubDate>Sat, 22 Aug 2026 15:20:11 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: "KILIÇDAROĞLU'NUN ŞANSI YOK..." Gürsel Tekin Genel Merkez'i kavgaya tutuşturmaya kararlı! Şok çıkış!</description>
     </item>
   </channel>
 </rss>
