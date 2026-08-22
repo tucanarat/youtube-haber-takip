@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 12:30:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 12:35:24 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: GÜNÜN BOMBASI PATLADI! Alihan Kuriş’in telefon hattı o ismin üzerine kayıtlı çıktı! Pes dedirtir!</title>
+      <link>https://www.youtube.com/watch?v=GK87XFGJam0</link>
+      <guid isPermaLink="false">GK87XFGJam0</guid>
+      <pubDate>Sat, 22 Aug 2026 12:30:34 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: GÜNÜN BOMBASI PATLADI! Alihan Kuriş’in telefon hattı o ismin üzerine kayıtlı çıktı! Pes dedirtir!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Deniz Türkeri Yapay Zeka - Alemşah Öztürk | Geleceğin Meslekleri Neler? Diploma Devri Bitti mi?</title>
       <link>https://www.youtube.com/watch?v=acBMrakK1d4</link>
       <guid isPermaLink="false">acBMrakK1d4</guid>
       <pubDate>Sat, 22 Aug 2026 12:30:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Deniz Türkeri Yapay Zeka - Alemşah Öztürk | Geleceğin Meslekleri Neler? Diploma Devri Bitti mi?</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Haber Bülteni | Gülinay Selçuk</title>
+      <link>https://www.youtube.com/watch?v=SOQlGcD3ZDU</link>
+      <guid isPermaLink="false">SOQlGcD3ZDU</guid>
+      <pubDate>Sat, 22 Aug 2026 12:23:33 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Haber Bülteni | Gülinay Selçuk</description>
     </item>
     <item>
       <title>Cumhuriyet: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Rize'de Balıkçılar köyünü ziyaret ediyor</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">rPUvfyBX4WE</guid>
       <pubDate>Sat, 22 Aug 2026 09:00:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Günde 5 Sigara İçenler Dikkat: Tuzağa Düşmeyin! Beyniniz Sizi Kandırıyor! Tayfun Uzbay Anlatıyor</description>
-    </item>
-    <item>
-      <title>Halk TV: Gökhan Günaydın: Allah kimseyi yanından 3 bin polis olmadan dışarı çıkamayanlardan etmesin!</title>
-      <link>https://www.youtube.com/shorts/0zvft5ibRy4</link>
-      <guid isPermaLink="false">0zvft5ibRy4</guid>
-      <pubDate>Sat, 22 Aug 2026 08:57:12 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Gökhan Günaydın: Allah kimseyi yanından 3 bin polis olmadan dışarı çıkamayanlardan etmesin!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Hatay'da yüzleri gülümseten anlar: Çalan oyun havasını duydular, inşaatın terasında oynadılar!</title>
-      <link>https://www.youtube.com/shorts/70bI0IXHz8s</link>
-      <guid isPermaLink="false">70bI0IXHz8s</guid>
-      <pubDate>Sat, 22 Aug 2026 08:56:12 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Hatay'da yüzleri gülümseten anlar: Çalan oyun havasını duydular, inşaatın terasında oynadılar!</description>
     </item>
   </channel>
 </rss>

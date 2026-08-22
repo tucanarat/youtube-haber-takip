@@ -6150,5 +6150,21 @@
     "published": "2026-08-22T12:08:15+00:00",
     "published_ts": 1787400495,
     "channel_name": "Cumhuriyet"
+  },
+  "SOQlGcD3ZDU": {
+    "id": "SOQlGcD3ZDU",
+    "title": "Haber Bülteni | Gülinay Selçuk",
+    "link": "https://www.youtube.com/watch?v=SOQlGcD3ZDU",
+    "published": "2026-08-22T12:23:33+00:00",
+    "published_ts": 1787401413,
+    "channel_name": "SÖZCÜ TV"
+  },
+  "GK87XFGJam0": {
+    "id": "GK87XFGJam0",
+    "title": "GÜNÜN BOMBASI PATLADI! Alihan Kuriş’in telefon hattı o ismin üzerine kayıtlı çıktı! Pes dedirtir!",
+    "link": "https://www.youtube.com/watch?v=GK87XFGJam0",
+    "published": "2026-08-22T12:30:34+00:00",
+    "published_ts": 1787401834,
+    "channel_name": "Halk TV"
   }
 }
