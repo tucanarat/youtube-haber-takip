@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 14:15:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 14:20:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: İSRAİL, TÜRKİYE'YE İLİŞKİN O HESABI YAPMIŞ BİLE! Arka kapı sırları döküldü! Serra Karaçam anlattı!</title>
+      <link>https://www.youtube.com/watch?v=8dTMk9XabVs</link>
+      <guid isPermaLink="false">8dTMk9XabVs</guid>
+      <pubDate>Sat, 22 Aug 2026 14:15:06 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İSRAİL, TÜRKİYE'YE İLİŞKİN O HESABI YAPMIŞ BİLE! Arka kapı sırları döküldü! Serra Karaçam anlattı!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Rize'de eylem yapan kadın balıkçılarla bir araya geldi #Canlı</title>
       <link>https://www.youtube.com/watch?v=2R_O4rlRKRk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">NFX0Kq-GyqU</guid>
       <pubDate>Sat, 22 Aug 2026 10:09:34 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Çöp Poşeti İnşası-Işık Kansu</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: FETÖ... SETÖ-METÖ!-Mustafa Balbay</title>
-      <link>https://www.youtube.com/watch?v=UyfJOwemOsY</link>
-      <guid isPermaLink="false">UyfJOwemOsY</guid>
-      <pubDate>Sat, 22 Aug 2026 10:09:32 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: FETÖ... SETÖ-METÖ!-Mustafa Balbay</description>
     </item>
   </channel>
 </rss>
