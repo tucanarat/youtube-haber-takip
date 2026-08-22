@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 13:40:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 13:45:28 +0000</lastBuildDate>
     <item>
       <title>Halk TV: ERDOĞAN KENDİNİ BÖYLE YALANLAMIŞ! Özgür Özel’in sözleri Rize meydanına buz kestirdi! Meğer o yıl...</title>
       <link>https://www.youtube.com/watch?v=Yrq8kuDmSnQ</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">n5NcGoWBUrE</guid>
       <pubDate>Sat, 22 Aug 2026 13:30:30 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Özgür Özel'den Rize'de güldüren Erdoğan göndermesi!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: ALTIN DAHA NE KADAR YÜKSELECEK? Ünlü Ekonomist Rakam ve Tarih Vererek Açıkladı!</title>
+      <link>https://www.youtube.com/watch?v=zHwetRzTj48</link>
+      <guid isPermaLink="false">zHwetRzTj48</guid>
+      <pubDate>Sat, 22 Aug 2026 13:30:12 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: ALTIN DAHA NE KADAR YÜKSELECEK? Ünlü Ekonomist Rakam ve Tarih Vererek Açıkladı!</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Rize'de Balıkçılar köyünü ziyaret ediyor #Canlı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">IY068KL0HvQ</guid>
       <pubDate>Sat, 22 Aug 2026 10:08:37 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Suriye’de iki nüfuz alanı sorunu-Mehmet Ali Güller</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: ‘Böyle gelmiş böyle gitmez’-Öner Yağcı</title>
-      <link>https://www.youtube.com/watch?v=URtey8HNH4g</link>
-      <guid isPermaLink="false">URtey8HNH4g</guid>
-      <pubDate>Sat, 22 Aug 2026 10:08:34 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: ‘Böyle gelmiş böyle gitmez’-Öner Yağcı</description>
     </item>
   </channel>
 </rss>
