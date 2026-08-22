@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 02:00:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 02:05:24 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Diyarbakır'da 2024’te öldürülen Narin Güran, kabri başında anılıyor  #Canlı</title>
+      <link>https://www.youtube.com/watch?v=eMusvkOaMRs</link>
+      <guid isPermaLink="false">eMusvkOaMRs</guid>
+      <pubDate>Sat, 22 Aug 2026 02:03:06 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Diyarbakır'da 2024’te öldürülen Narin Güran, kabri başında anılıyor  #Canlı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Hafta Sonu Ana Haber | Serap Belovacıklı</title>
       <link>https://www.youtube.com/watch?v=IFNjO3dZEeg</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">MiCaO-vcUWI</guid>
       <pubDate>Fri, 21 Aug 2026 18:00:17 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Bülent Mumay'dan sürece karşı çarpıcı çıkış: Demokrasinin yolu İmralı'dan geçmez!</description>
-    </item>
-    <item>
-      <title>Halk TV: MADENCİLERİN NE ÇİLESİ BİTİYOR NE DE POLİS ŞİDDETİ... Madencilerle ilgili flaş gelişme!</title>
-      <link>https://www.youtube.com/watch?v=c1gUJAypBVs</link>
-      <guid isPermaLink="false">c1gUJAypBVs</guid>
-      <pubDate>Fri, 21 Aug 2026 17:45:28 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: MADENCİLERİN NE ÇİLESİ BİTİYOR NE DE POLİS ŞİDDETİ... Madencilerle ilgili flaş gelişme!</description>
     </item>
   </channel>
 </rss>
