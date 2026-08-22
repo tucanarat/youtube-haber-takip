@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 17:30:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 17:30:59 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ÖZGÜR ÖZEL RİZE'DE FIRTINA ESTİRDİ! YENİ Parti liderinden siyaseti sallayacak konuşma!</title>
+      <link>https://www.youtube.com/shorts/6TOvetQ17OM</link>
+      <guid isPermaLink="false">6TOvetQ17OM</guid>
+      <pubDate>Sat, 22 Aug 2026 17:22:12 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ÖZGÜR ÖZEL RİZE'DE FIRTINA ESTİRDİ! YENİ Parti liderinden siyaseti sallayacak konuşma!</description>
+    </item>
+    <item>
+      <title>Halk TV: ÖZGÜR ÖZEL, ERDOĞAN'IN MEMLEKETİNDE RESTİ ÇEKTİ! CHP'li başkana AKP teklifine bomba yanıt!</title>
+      <link>https://www.youtube.com/watch?v=9vYL7Noeyu8</link>
+      <guid isPermaLink="false">9vYL7Noeyu8</guid>
+      <pubDate>Sat, 22 Aug 2026 17:20:08 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ÖZGÜR ÖZEL, ERDOĞAN'IN MEMLEKETİNDE RESTİ ÇEKTİ! CHP'li başkana AKP teklifine bomba yanıt!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: AKILALMAZ KAÇIŞ PLANI! Süleymancılar ve İdris Naim Şahin Bağlantısı Ne?</title>
       <link>https://www.youtube.com/watch?v=bM4LDMH4YxE</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">foXjwgm4o5s</guid>
       <pubDate>Sat, 22 Aug 2026 12:35:23 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Haber Bülteni | Gülinay Selçuk | 22 Ağustos</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Özgür Özel, Erdoğan'a memleketinde yanıt verdi: 'Siyaset transferlerle kazanılmaz'</title>
-      <link>https://www.youtube.com/watch?v=AF-WNpaQXbY</link>
-      <guid isPermaLink="false">AF-WNpaQXbY</guid>
-      <pubDate>Sat, 22 Aug 2026 12:31:43 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Özgür Özel, Erdoğan'a memleketinde yanıt verdi: 'Siyaset transferlerle kazanılmaz'</description>
-    </item>
-    <item>
-      <title>Halk TV: GÜNÜN BOMBASI PATLADI! Alihan Kuriş’in telefon hattı o ismin üzerine kayıtlı çıktı! Pes dedirtir!</title>
-      <link>https://www.youtube.com/watch?v=GK87XFGJam0</link>
-      <guid isPermaLink="false">GK87XFGJam0</guid>
-      <pubDate>Sat, 22 Aug 2026 12:30:34 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: GÜNÜN BOMBASI PATLADI! Alihan Kuriş’in telefon hattı o ismin üzerine kayıtlı çıktı! Pes dedirtir!</description>
     </item>
   </channel>
 </rss>
