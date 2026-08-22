@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 14:45:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 14:50:30 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Furkan Vakfı'na operasyon: Alparslan Kuytul ve eşi de aralarında 56 kişi adliyeye sevk edildi</title>
+      <link>https://www.youtube.com/shorts/b_WLAz9qiZc</link>
+      <guid isPermaLink="false">b_WLAz9qiZc</guid>
+      <pubDate>Sat, 22 Aug 2026 14:44:55 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Furkan Vakfı'na operasyon: Alparslan Kuytul ve eşi de aralarında 56 kişi adliyeye sevk edildi</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: YENİ Parti Genel Başkanı Özgür Özel Erdoğan'ın Kalesi Rize'de! Vatandaşlardan Sevgi Seli!</title>
       <link>https://www.youtube.com/watch?v=ZVP1Ws_EomM</link>
@@ -43,11 +50,11 @@
       <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Fındıklı Festival Alanı'nda konuşuyor  #Canlı</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | RİZE BÖYLE KALABALIK GÖRMEDİ! Özgür Özel Eylem Yapan Kadın Balıkçılarla Bir Araya Geldi!</title>
+      <title>Halk TV: RİZE BÖYLE KALABALIK GÖRMEDİ! Özgür Özel Eylem Yapan Kadın Balıkçılarla Bir Araya Geldi!</title>
       <link>https://www.youtube.com/watch?v=wFVuBOauUwE</link>
       <guid isPermaLink="false">wFVuBOauUwE</guid>
       <pubDate>Sat, 22 Aug 2026 14:26:38 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | RİZE BÖYLE KALABALIK GÖRMEDİ! Özgür Özel Eylem Yapan Kadın Balıkçılarla Bir Araya Geldi!</description>
+      <description>Halk TV kanalından yeni video: RİZE BÖYLE KALABALIK GÖRMEDİ! Özgür Özel Eylem Yapan Kadın Balıkçılarla Bir Araya Geldi!</description>
     </item>
     <item>
       <title>Tele2 Haber: Özgür Özel Kamer Genç'i hatırlattı: Tayyip Bey bu köprüleri Emine Hanım'ın bilezikleriyle yapmadın!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">inRrLOC18bU</guid>
       <pubDate>Sat, 22 Aug 2026 10:42:16 +0000</pubDate>
       <description>Halk TV kanalından yeni video: RİZE BÖYLE KALABALIK GÖRMEDİ! Özgür Özel'den Erdoğan'ın Memleketinde Gövde Gösterisi!</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti Lideri Özgür Özel: Rize'de YENİ Parti'ye gösterilen bu büyük ilgiden çok memnunuz!</title>
-      <link>https://www.youtube.com/shorts/DXDem-kJRqA</link>
-      <guid isPermaLink="false">DXDem-kJRqA</guid>
-      <pubDate>Sat, 22 Aug 2026 10:42:15 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti Lideri Özgür Özel: Rize'de YENİ Parti'ye gösterilen bu büyük ilgiden çok memnunuz!</description>
     </item>
   </channel>
 </rss>
