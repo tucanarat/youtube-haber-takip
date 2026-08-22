@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 18:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 19:00:47 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ÖZGÜR ÖZEL ERDOĞAN'IN MEMLEKETİNDE ŞOV YAPTI! Karadeniz tercihindeki şok detayı Fikret Bila aktardı!</title>
+      <link>https://www.youtube.com/watch?v=4EzWcXPliWM</link>
+      <guid isPermaLink="false">4EzWcXPliWM</guid>
+      <pubDate>Sat, 22 Aug 2026 18:45:39 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ÖZGÜR ÖZEL ERDOĞAN'IN MEMLEKETİNDE ŞOV YAPTI! Karadeniz tercihindeki şok detayı Fikret Bila aktardı!</description>
+    </item>
+    <item>
+      <title>Halk TV: ESENLER'DE ORTALIK KARIŞTI! Freni boşalan hafriyat kamyonu 7 araca çarptı!</title>
+      <link>https://www.youtube.com/shorts/mjJF7Ue5JrY</link>
+      <guid isPermaLink="false">mjJF7Ue5JrY</guid>
+      <pubDate>Sat, 22 Aug 2026 18:45:02 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ESENLER'DE ORTALIK KARIŞTI! Freni boşalan hafriyat kamyonu 7 araca çarptı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Özgür Özel'den Erdoğan'a Rize'den Tarihi Yanıt! Mustafa Balbay AKP'nin Uykularını Kaçıracak!</title>
       <link>https://www.youtube.com/watch?v=3S7K-hQWRjM</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">3Jwn4nhjaK8</guid>
       <pubDate>Sat, 22 Aug 2026 13:50:01 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Özgür Özel'den Rize'de Erdoğan'a: Belediyeler transferle kazanılmaz!</description>
-    </item>
-    <item>
-      <title>Halk TV: ERDOĞAN KENDİNİ BÖYLE YALANLAMIŞ! Özgür Özel’in sözleri Rize meydanına buz kestirdi! Meğer o yıl...</title>
-      <link>https://www.youtube.com/watch?v=Yrq8kuDmSnQ</link>
-      <guid isPermaLink="false">Yrq8kuDmSnQ</guid>
-      <pubDate>Sat, 22 Aug 2026 13:35:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ERDOĞAN KENDİNİ BÖYLE YALANLAMIŞ! Özgür Özel’in sözleri Rize meydanına buz kestirdi! Meğer o yıl...</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Özgür Özel'den Rize'de güldüren Erdoğan göndermesi!</title>
-      <link>https://www.youtube.com/watch?v=n5NcGoWBUrE</link>
-      <guid isPermaLink="false">n5NcGoWBUrE</guid>
-      <pubDate>Sat, 22 Aug 2026 13:30:30 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Özgür Özel'den Rize'de güldüren Erdoğan göndermesi!</description>
     </item>
   </channel>
 </rss>
