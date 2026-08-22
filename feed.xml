@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 21:40:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 21:45:28 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: "NETANYAHU TÜRKİYE'Yİ TAHRİK EDİYOR!" İsrail, Türkiye'ye kafa mı tutuyor? İşte şok edici detaylar!</title>
+      <link>https://www.youtube.com/watch?v=gz-tuIzeUlk</link>
+      <guid isPermaLink="false">gz-tuIzeUlk</guid>
+      <pubDate>Sat, 22 Aug 2026 21:40:29 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: "NETANYAHU TÜRKİYE'Yİ TAHRİK EDİYOR!" İsrail, Türkiye'ye kafa mı tutuyor? İşte şok edici detaylar!</description>
+    </item>
     <item>
       <title>Halk TV: SON DAKİKA! Rusya açıkladı! Ukrayna, Belgorod’a İHA’yla saldırı düzenledi!</title>
       <link>https://www.youtube.com/shorts/7BByglzdYNg</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">SfSVtezk8D8</guid>
       <pubDate>Sat, 22 Aug 2026 15:08:16 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Deprem konutlarında çalışan işçiler ödeme bekliyor: "Evime ekmek mi götüreyim, faiz mi ödeyeyim?"</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Netanyahu'nun Hedefi Türkiye! ABD'DEN İTİRAF GİBİ AÇIKLAMA! Sınırda Neler Oluyor? | Barçın Yinanç</title>
-      <link>https://www.youtube.com/watch?v=nWZZinUcEyA</link>
-      <guid isPermaLink="false">nWZZinUcEyA</guid>
-      <pubDate>Sat, 22 Aug 2026 15:00:20 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Netanyahu'nun Hedefi Türkiye! ABD'DEN İTİRAF GİBİ AÇIKLAMA! Sınırda Neler Oluyor? | Barçın Yinanç</description>
     </item>
   </channel>
 </rss>
