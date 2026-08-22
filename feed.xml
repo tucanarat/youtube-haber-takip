@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 07:55:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 08:00:47 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: "ÖCALAN'A STATÜ VERMEK TÜRKİYE'Yİ DİNAMİTLEMEYE KALKIŞMAKTIR!" Namık Koçak ve Özdemir İnce ile Forum</title>
+      <link>https://www.youtube.com/watch?v=TTm-zxrGnzU</link>
+      <guid isPermaLink="false">TTm-zxrGnzU</guid>
+      <pubDate>Sat, 22 Aug 2026 08:00:06 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "ÖCALAN'A STATÜ VERMEK TÜRKİYE'Yİ DİNAMİTLEMEYE KALKIŞMAKTIR!" Namık Koçak ve Özdemir İnce ile Forum</description>
+    </item>
     <item>
       <title>Halk TV: BİTİRİCİ HAMLE GELDİ ÇATTI! Özgür Özel’den kaçacak yer aratacak yol haritası! Neler sıraladı neler!</title>
       <link>https://www.youtube.com/watch?v=vI-usg3L5LY</link>
@@ -288,11 +295,11 @@
       <description>Halk TV kanalından yeni video: SICAK GÖRÜNTÜLER! Çayırhan maden kazası sonrası Beypazarı Devlet Hatanesi önünde son durum!</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | CHP'nin Genel Başkanlığına Atanan Kemal Kılıçdaroğlu Soruları Yanıtlıyor!</title>
+      <title>Halk TV: #CANLI | CHP'nin Genel Başkanlığına Atanan Kılıçdaroğlu 2’nci Kardeş Göçerler Yörük Etkinliği'nde!</title>
       <link>https://www.youtube.com/watch?v=-VLmlm531cY</link>
       <guid isPermaLink="false">-VLmlm531cY</guid>
       <pubDate>Fri, 21 Aug 2026 20:10:50 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | CHP'nin Genel Başkanlığına Atanan Kemal Kılıçdaroğlu Soruları Yanıtlıyor!</description>
+      <description>Halk TV kanalından yeni video: #CANLI | CHP'nin Genel Başkanlığına Atanan Kılıçdaroğlu 2’nci Kardeş Göçerler Yörük Etkinliği'nde!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: DİYANET'İN SÜLEYMANCILAR RAPORU ORTAYA ÇIKTI: İkinci FETÖ Tehlikesi Mi? Süheyl Batum Anlattı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">w1MkcWeZH5U</guid>
       <pubDate>Fri, 21 Aug 2026 19:30:06 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: PKK 'Öcalan zafer kazandı' havasında! Hüsnü Mahalli Mazlum Abdi'nin açıklamasına dikkat çekti</description>
-    </item>
-    <item>
-      <title>Halk TV: Ankara Valisi Yakup Canbolat, maden ocağındaki olaya ilişkin açıklamalarda bulunuyor</title>
-      <link>https://www.youtube.com/watch?v=_S19vwIjRYs</link>
-      <guid isPermaLink="false">_S19vwIjRYs</guid>
-      <pubDate>Fri, 21 Aug 2026 19:20:25 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ankara Valisi Yakup Canbolat, maden ocağındaki olaya ilişkin açıklamalarda bulunuyor</description>
     </item>
   </channel>
 </rss>
