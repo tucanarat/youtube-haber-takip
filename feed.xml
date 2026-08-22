@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 16:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 16:18:08 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: TRUMP DÜĞMEYE BASTI! ABD ve Kanada Arasında Ticaret Savaşı Resmen Başladı!</title>
+      <link>https://www.youtube.com/watch?v=WZxSNRfkCsk</link>
+      <guid isPermaLink="false">WZxSNRfkCsk</guid>
+      <pubDate>Sat, 22 Aug 2026 16:10:35 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: TRUMP DÜĞMEYE BASTI! ABD ve Kanada Arasında Ticaret Savaşı Resmen Başladı!</description>
+    </item>
     <item>
       <title>Halk TV: KILIÇDAROĞLU AĞZINDAKİ BAKLAYI ÇIKARDI! Yörüklerden öyle bir şey istedi ki! Tüm meydan şaştı kaldı!</title>
       <link>https://www.youtube.com/watch?v=TI_08vaSuPw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ToLcR4FmOPE</guid>
       <pubDate>Sat, 22 Aug 2026 11:30:12 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Süleymancıların Kirli İlişkileri Deşifre Oldu! Çakarlı Araçla Yurt Dışına Kaçış Kamerada!</description>
-    </item>
-    <item>
-      <title>Halk TV: SARAY'IN TÜM HESABINI ELİNDE PATLATTI! Özgür Özel'den Erdoğan'ı mat edecek vaatler! Meydan yıkıldı!</title>
-      <link>https://www.youtube.com/watch?v=zEtzXZpAtts</link>
-      <guid isPermaLink="false">zEtzXZpAtts</guid>
-      <pubDate>Sat, 22 Aug 2026 11:20:16 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SARAY'IN TÜM HESABINI ELİNDE PATLATTI! Özgür Özel'den Erdoğan'ı mat edecek vaatler! Meydan yıkıldı!</description>
     </item>
   </channel>
 </rss>
