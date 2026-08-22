@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 19:25:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 19:30:41 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ERDOĞAN'IN KENDİ MEMLEKETİNE SOKULMADIĞI GÜN! Saadet Partili Bülent Kaya canlı yayında patlattı!</title>
+      <link>https://www.youtube.com/watch?v=gbSnFbIpt88</link>
+      <guid isPermaLink="false">gbSnFbIpt88</guid>
+      <pubDate>Sat, 22 Aug 2026 19:15:08 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ERDOĞAN'IN KENDİ MEMLEKETİNE SOKULMADIĞI GÜN! Saadet Partili Bülent Kaya canlı yayında patlattı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: BİRİNE ROZET BİRİNE KELEPÇE! Mustafa Balbay'dan Gündem Yaratacak AKP İddiası</title>
       <link>https://www.youtube.com/watch?v=xBjUMtrizkM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">KryNHL5Y2N0</guid>
       <pubDate>Sat, 22 Aug 2026 14:02:42 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Kürşad Oğuz ile Gelecek Fikirler | Konuk: David Le Breton  (22 Ağustos 2026)</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Adnan Oktar Örgütü Nasıl İşliyordu? "Rüyamıza Bile Karışıyorlardı!" Özkan Mamati Anlatıyor</title>
-      <link>https://www.youtube.com/watch?v=dY3ST-0i4a0</link>
-      <guid isPermaLink="false">dY3ST-0i4a0</guid>
-      <pubDate>Sat, 22 Aug 2026 14:00:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Adnan Oktar Örgütü Nasıl İşliyordu? "Rüyamıza Bile Karışıyorlardı!" Özkan Mamati Anlatıyor</description>
     </item>
   </channel>
 </rss>
