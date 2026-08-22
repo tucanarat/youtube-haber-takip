@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 16:05:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 16:10:29 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: KILIÇDAROĞLU AĞZINDAKİ BAKLAYI ÇIKARDI! Yörüklerden öyle bir şey istedi ki! Tüm meydan şaştı kaldı!</title>
+      <link>https://www.youtube.com/watch?v=TI_08vaSuPw</link>
+      <guid isPermaLink="false">TI_08vaSuPw</guid>
+      <pubDate>Sat, 22 Aug 2026 15:55:45 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KILIÇDAROĞLU AĞZINDAKİ BAKLAYI ÇIKARDI! Yörüklerden öyle bir şey istedi ki! Tüm meydan şaştı kaldı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Fatih Altaylı'dan Bomba İddia: Rasim Ozan Kütahyalı Hangi 3 Kişiyi Yaktı? Türkiye Sallanacak</title>
       <link>https://www.youtube.com/watch?v=loJXFvF0KLc</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">zEtzXZpAtts</guid>
       <pubDate>Sat, 22 Aug 2026 11:20:16 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SARAY'IN TÜM HESABINI ELİNDE PATLATTI! Özgür Özel'den Erdoğan'ı mat edecek vaatler! Meydan yıkıldı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Rizeliler Özgür Özel'e sarılmak için yarıştı, 'İktidar' sloganları attı!</title>
-      <link>https://www.youtube.com/shorts/MVYm6xzN0as</link>
-      <guid isPermaLink="false">MVYm6xzN0as</guid>
-      <pubDate>Sat, 22 Aug 2026 11:05:32 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Rizeliler Özgür Özel'e sarılmak için yarıştı, 'İktidar' sloganları attı!</description>
     </item>
   </channel>
 </rss>
