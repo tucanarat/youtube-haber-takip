@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 14:40:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 14:45:29 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: YENİ Parti Genel Başkanı Özgür Özel Erdoğan'ın Kalesi Rize'de! Vatandaşlardan Sevgi Seli!</title>
       <link>https://www.youtube.com/watch?v=ZVP1Ws_EomM</link>
       <guid isPermaLink="false">ZVP1Ws_EomM</guid>
       <pubDate>Sat, 22 Aug 2026 14:36:47 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel Erdoğan'ın Kalesi Rize'de! Vatandaşlardan Sevgi Seli!</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Gülşah Ekinci ile Hafta Sonu Ana Haber</title>
+      <link>https://www.youtube.com/watch?v=l77tBHoE74U</link>
+      <guid isPermaLink="false">l77tBHoE74U</guid>
+      <pubDate>Sat, 22 Aug 2026 14:35:34 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Gülşah Ekinci ile Hafta Sonu Ana Haber</description>
     </item>
     <item>
       <title>Tele2 Haber: #CANLI Özgür Özel, Rize Fındıklı Festival Alanı'nda konuşuyor</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">DXDem-kJRqA</guid>
       <pubDate>Sat, 22 Aug 2026 10:42:15 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Parti Lideri Özgür Özel: Rize'de YENİ Parti'ye gösterilen bu büyük ilgiden çok memnunuz!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: YENİ Parti Genel Başkanı Özgür Özel Erdoğan'ın Kalesi Rize'de! Vatandaşlardan Sevgi Seli!</title>
-      <link>https://www.youtube.com/watch?v=23i_MGLPWZE</link>
-      <guid isPermaLink="false">23i_MGLPWZE</guid>
-      <pubDate>Sat, 22 Aug 2026 10:42:10 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel Erdoğan'ın Kalesi Rize'de! Vatandaşlardan Sevgi Seli!</description>
     </item>
   </channel>
 </rss>
