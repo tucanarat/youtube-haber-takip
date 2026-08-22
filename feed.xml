@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 08:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 08:58:45 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Sabah Kahvesi | Nagihan Turhan 22 Ağustos</title>
+      <link>https://www.youtube.com/watch?v=i0DesXcqvJw</link>
+      <guid isPermaLink="false">i0DesXcqvJw</guid>
+      <pubDate>Sat, 22 Aug 2026 08:55:56 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Sabah Kahvesi | Nagihan Turhan 22 Ağustos</description>
+    </item>
     <item>
       <title>Halk TV: AKP'li seçmen YENİ Partili Gökhan Günaydın'a dert yandı: 20 bin lirayla bir insan geçinebilir mi?</title>
       <link>https://www.youtube.com/shorts/z20JAbN3hFs</link>
@@ -253,18 +260,11 @@
       <description>SÖZCÜ TV kanalından yeni video: Hafta Sonu Ana Haber | Serap Belovacıklı</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: Haber Bülteni | Gülinay Selçuk</title>
+      <title>SÖZCÜ TV: #CANLI Haber Bülteni | Gülinay Selçuk</title>
       <link>https://www.youtube.com/watch?v=foXjwgm4o5s</link>
       <guid isPermaLink="false">foXjwgm4o5s</guid>
       <pubDate>Fri, 21 Aug 2026 23:07:57 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Haber Bülteni | Gülinay Selçuk</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Sabah Kahvesi | Nagihan Turhan 22 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=i0DesXcqvJw</link>
-      <guid isPermaLink="false">i0DesXcqvJw</guid>
-      <pubDate>Fri, 21 Aug 2026 23:07:14 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Sabah Kahvesi | Nagihan Turhan 22 Ağustos</description>
+      <description>SÖZCÜ TV kanalından yeni video: #CANLI Haber Bülteni | Gülinay Selçuk</description>
     </item>
     <item>
       <title>SÖZCÜ TV: S Raporu | Nagihan Turhan | 22 Ağustos</title>
