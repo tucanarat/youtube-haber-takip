@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 14:25:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 14:29:19 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | RİZE BÖYLE KALABALIK GÖRMEDİ! Özgür Özel Eylem Yapan Kadın Balıkçılarla Bir Araya Geldi!</title>
+      <link>https://www.youtube.com/watch?v=wFVuBOauUwE</link>
+      <guid isPermaLink="false">wFVuBOauUwE</guid>
+      <pubDate>Sat, 22 Aug 2026 14:26:38 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | RİZE BÖYLE KALABALIK GÖRMEDİ! Özgür Özel Eylem Yapan Kadın Balıkçılarla Bir Araya Geldi!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Özgür Özel Kamer Genç'i hatırlattı: Tayyip Bey bu köprüleri Emine Hanım'ın bilezikleriyle yapmadın!</title>
+      <link>https://www.youtube.com/watch?v=AbAHrKrkKFk</link>
+      <guid isPermaLink="false">AbAHrKrkKFk</guid>
+      <pubDate>Sat, 22 Aug 2026 14:16:01 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Özgür Özel Kamer Genç'i hatırlattı: Tayyip Bey bu köprüleri Emine Hanım'ın bilezikleriyle yapmadın!</description>
+    </item>
     <item>
       <title>Halk TV: İSRAİL, TÜRKİYE'YE İLİŞKİN O HESABI YAPMIŞ BİLE! Arka kapı sırları döküldü! Serra Karaçam anlattı!</title>
       <link>https://www.youtube.com/watch?v=8dTMk9XabVs</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">8nW4lS42_5I</guid>
       <pubDate>Sat, 22 Aug 2026 10:30:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ERDOĞAN BU ANLARI HAZMEDEMEZ! Rizeliler Özel’in yanına koşup ‘Kurtar bizi’ diye haykırdı! Olay olur!</description>
-    </item>
-    <item>
-      <title>Halk TV: Mahmut Arıkan keman çalan çocuğa takıldı: Fenerbahçeli olunca böyle dertli dertli çalıyorsun...</title>
-      <link>https://www.youtube.com/shorts/L23n2YuW4Z0</link>
-      <guid isPermaLink="false">L23n2YuW4Z0</guid>
-      <pubDate>Sat, 22 Aug 2026 10:27:54 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Mahmut Arıkan keman çalan çocuğa takıldı: Fenerbahçeli olunca böyle dertli dertli çalıyorsun...</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Çöp Poşeti İnşası-Işık Kansu</title>
-      <link>https://www.youtube.com/watch?v=NFX0Kq-GyqU</link>
-      <guid isPermaLink="false">NFX0Kq-GyqU</guid>
-      <pubDate>Sat, 22 Aug 2026 10:09:34 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Çöp Poşeti İnşası-Işık Kansu</description>
     </item>
   </channel>
 </rss>
