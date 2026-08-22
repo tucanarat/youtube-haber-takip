@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 08:05:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 08:10:30 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: 2’nci Kardeş Göçerler Yörük Etkinliği #Canlı</title>
       <link>https://www.youtube.com/watch?v=ANYb6VM0t_8</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">mRzE6GzObbE</guid>
       <pubDate>Sat, 22 Aug 2026 08:00:29 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BEŞTEPE'Yİ ALARMA GEÇİRECEK! Özgür Özel'den Erdoğan'a Netanyahu salvosu! Bu sözlerin dönüşü yok!</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: 2’nci Kardeş Göçerler Yörük Etkinliği / Mersin #Canlı</title>
+      <link>https://www.youtube.com/watch?v=oDYqi0HDOCA</link>
+      <guid isPermaLink="false">oDYqi0HDOCA</guid>
+      <pubDate>Sat, 22 Aug 2026 08:00:15 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: 2’nci Kardeş Göçerler Yörük Etkinliği / Mersin #Canlı</description>
     </item>
     <item>
       <title>Tele2 Haber: "ÖCALAN'A STATÜ VERMEK TÜRKİYE'Yİ DİNAMİTLEMEYE KALKIŞMAKTIR!" Namık Koçak ve Özdemir İnce ile Forum</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">0zy8O-_F-Fc</guid>
       <pubDate>Fri, 21 Aug 2026 19:30:29 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ‘’VİCDANLAR SIZLADI!’’ Ömer Faruk Gergerlioğlu’ndan tüyleri diken diken eden ‘Narin Güran’ konuşması</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: CEMAATLERE BÜYÜK OPERASYON! Sıra Menzil'e Gelecek mi? Eski AKP'li İsim Açıkladı</title>
-      <link>https://www.youtube.com/watch?v=HFOkWIyD5gU</link>
-      <guid isPermaLink="false">HFOkWIyD5gU</guid>
-      <pubDate>Fri, 21 Aug 2026 19:30:08 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: CEMAATLERE BÜYÜK OPERASYON! Sıra Menzil'e Gelecek mi? Eski AKP'li İsim Açıkladı</description>
     </item>
   </channel>
 </rss>
