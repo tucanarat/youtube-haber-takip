@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 16:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 16:40:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Gökmen Karadağ ile Açıkça | #HalkTV</title>
+      <link>https://www.youtube.com/watch?v=rSbLOqSScMk</link>
+      <guid isPermaLink="false">rSbLOqSScMk</guid>
+      <pubDate>Sat, 22 Aug 2026 16:29:59 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Gökmen Karadağ ile Açıkça | #HalkTV</description>
+    </item>
     <item>
       <title>Halk TV: 3 KARDEŞİN ÖLÜMÜNDE KAHREDEN DETAY! Aile 10 yıl arayla aynı acıyı bir kez daha yaşamış!</title>
       <link>https://www.youtube.com/watch?v=2luaCTzx2e0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">1nozRCrJ6Vw</guid>
       <pubDate>Sat, 22 Aug 2026 11:50:01 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SON DAKİKA! GİRESUN'DA FECİ KAZA! Helikopter düştü, bölgeye ekipler sevk edildi! Dehşet anları!</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! ALİHAN KURİŞ SORUŞTURASINDA İKİNCİ DALGA! 12 şüpheli gözaltına alındı, 1 kişi aranıyor!</title>
-      <link>https://www.youtube.com/watch?v=zFc4MViqaCw</link>
-      <guid isPermaLink="false">zFc4MViqaCw</guid>
-      <pubDate>Sat, 22 Aug 2026 11:35:22 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! ALİHAN KURİŞ SORUŞTURASINDA İKİNCİ DALGA! 12 şüpheli gözaltına alındı, 1 kişi aranıyor!</description>
     </item>
   </channel>
 </rss>
