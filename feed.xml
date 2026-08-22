@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 20:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 20:40:33 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: Masada Ne Var? | Burak Tatari | 22 Ağustos</title>
       <link>https://www.youtube.com/watch?v=UdjSyOzj8Tw</link>
       <guid isPermaLink="false">UdjSyOzj8Tw</guid>
       <pubDate>Sat, 22 Aug 2026 20:31:50 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Masada Ne Var? | Burak Tatari | 22 Ağustos</description>
+    </item>
+    <item>
+      <title>Halk TV: YENİ Parti lideri Özgür Özel’in, Rize’de esnafla o konuşması gündem oldu</title>
+      <link>https://www.youtube.com/shorts/L-37ZR8emXM</link>
+      <guid isPermaLink="false">L-37ZR8emXM</guid>
+      <pubDate>Sat, 22 Aug 2026 20:30:20 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YENİ Parti lideri Özgür Özel’in, Rize’de esnafla o konuşması gündem oldu</description>
     </item>
     <item>
       <title>Halk TV: GÜNDEM OLAN ANLAR! YENİ Parti lideri Özgür Özel, Rize'de Rize simidi ve Anzer balıyla karşılandı!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">phy2bdpqVb0</guid>
       <pubDate>Sat, 22 Aug 2026 14:50:00 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Bahçeli'nin hemşerisinin düşündüren isyanı: Konuşacak çok şey var ama korkuyoruz!</description>
-    </item>
-    <item>
-      <title>Halk TV: RİZE BÖYLE KALABALIK GÖRMEDİ! Özgür Özel Eylem Yapan Kadın Balıkçılarla Bir Araya Geldi!</title>
-      <link>https://www.youtube.com/watch?v=wFVuBOauUwE</link>
-      <guid isPermaLink="false">wFVuBOauUwE</guid>
-      <pubDate>Sat, 22 Aug 2026 14:45:55 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: RİZE BÖYLE KALABALIK GÖRMEDİ! Özgür Özel Eylem Yapan Kadın Balıkçılarla Bir Araya Geldi!</description>
     </item>
   </channel>
 </rss>
