@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 20:40:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 20:44:13 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: NETANYAHU'NUN SİNSİ PLANI NE? İsrail Neden Sınırımızda Suriye'yi Vurdu?</title>
+      <link>https://www.youtube.com/watch?v=UqmOeoMhVaU</link>
+      <guid isPermaLink="false">UqmOeoMhVaU</guid>
+      <pubDate>Sat, 22 Aug 2026 20:40:39 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: NETANYAHU'NUN SİNSİ PLANI NE? İsrail Neden Sınırımızda Suriye'yi Vurdu?</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Masada Ne Var? | Burak Tatari | 22 Ağustos</title>
       <link>https://www.youtube.com/watch?v=UdjSyOzj8Tw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">G9Eq1YKLt-A</guid>
       <pubDate>Sat, 22 Aug 2026 14:50:12 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Özgür Özel'den Erdoğan'a Kamer Genç göndermesi!</description>
-    </item>
-    <item>
-      <title>Halk TV: Bahçeli'nin hemşerisinin düşündüren isyanı: Konuşacak çok şey var ama korkuyoruz!</title>
-      <link>https://www.youtube.com/shorts/phy2bdpqVb0</link>
-      <guid isPermaLink="false">phy2bdpqVb0</guid>
-      <pubDate>Sat, 22 Aug 2026 14:50:00 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Bahçeli'nin hemşerisinin düşündüren isyanı: Konuşacak çok şey var ama korkuyoruz!</description>
     </item>
   </channel>
 </rss>
