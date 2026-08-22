@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 08:10:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 08:15:27 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Üniversite tercih sonuçlarının ardından spotçularda hareketlilik: Öğrencinin ev kurma maliyeti ne?</title>
+      <link>https://www.youtube.com/watch?v=X7K6r-DEmHI</link>
+      <guid isPermaLink="false">X7K6r-DEmHI</guid>
+      <pubDate>Sat, 22 Aug 2026 08:03:29 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Üniversite tercih sonuçlarının ardından spotçularda hareketlilik: Öğrencinin ev kurma maliyeti ne?</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: 2’nci Kardeş Göçerler Yörük Etkinliği #Canlı</title>
       <link>https://www.youtube.com/watch?v=ANYb6VM0t_8</link>
@@ -27,6 +34,13 @@
       <guid isPermaLink="false">oDYqi0HDOCA</guid>
       <pubDate>Sat, 22 Aug 2026 08:00:15 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: 2’nci Kardeş Göçerler Yörük Etkinliği / Mersin #Canlı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Uğur Mumcu'nun Bildiği Gaffar Okkan'ın Çözdüğü Gerçek Neydi? | Erol Mütercimler Dosyayı Açtı</title>
+      <link>https://www.youtube.com/watch?v=lwoIdNyvcrw</link>
+      <guid isPermaLink="false">lwoIdNyvcrw</guid>
+      <pubDate>Sat, 22 Aug 2026 08:00:14 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Uğur Mumcu'nun Bildiği Gaffar Okkan'ın Çözdüğü Gerçek Neydi? | Erol Mütercimler Dosyayı Açtı</description>
     </item>
     <item>
       <title>Tele2 Haber: "ÖCALAN'A STATÜ VERMEK TÜRKİYE'Yİ DİNAMİTLEMEYE KALKIŞMAKTIR!" Namık Koçak ve Özdemir İnce ile Forum</title>
@@ -309,11 +323,11 @@
       <description>Halk TV kanalından yeni video: SICAK GÖRÜNTÜLER! Çayırhan maden kazası sonrası Beypazarı Devlet Hatanesi önünde son durum!</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | CHP'nin Genel Başkanlığına Atanan Kılıçdaroğlu 2’nci Kardeş Göçerler Yörük Etkinliği'nde!</title>
+      <title>Halk TV: CHP'nin Genel Başkanlığına Atanan Kılıçdaroğlu 2’nci Kardeş Göçerler Yörük Etkinliği'nde!</title>
       <link>https://www.youtube.com/watch?v=-VLmlm531cY</link>
       <guid isPermaLink="false">-VLmlm531cY</guid>
       <pubDate>Fri, 21 Aug 2026 20:10:50 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | CHP'nin Genel Başkanlığına Atanan Kılıçdaroğlu 2’nci Kardeş Göçerler Yörük Etkinliği'nde!</description>
+      <description>Halk TV kanalından yeni video: CHP'nin Genel Başkanlığına Atanan Kılıçdaroğlu 2’nci Kardeş Göçerler Yörük Etkinliği'nde!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: DİYANET'İN SÜLEYMANCILAR RAPORU ORTAYA ÇIKTI: İkinci FETÖ Tehlikesi Mi? Süheyl Batum Anlattı</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">XMycDwEJld4</guid>
       <pubDate>Fri, 21 Aug 2026 19:45:16 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SON DAKİKA! ANKARA VALİLİĞİ’NDEN İLK AÇIKLAMA! Maden ocağı göçüğünde 1 ölü, 20 yaralı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Rize Fındıklı’dan YENİ Parti Lideri Özgür Özel’e “Bize de gel” çağrısı! #shorts</title>
-      <link>https://www.youtube.com/shorts/rnVZQgOFEpU</link>
-      <guid isPermaLink="false">rnVZQgOFEpU</guid>
-      <pubDate>Fri, 21 Aug 2026 19:39:05 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Rize Fındıklı’dan YENİ Parti Lideri Özgür Özel’e “Bize de gel” çağrısı! #shorts</description>
-    </item>
-    <item>
-      <title>Halk TV: ‘’VİCDANLAR SIZLADI!’’ Ömer Faruk Gergerlioğlu’ndan tüyleri diken diken eden ‘Narin Güran’ konuşması</title>
-      <link>https://www.youtube.com/watch?v=0zy8O-_F-Fc</link>
-      <guid isPermaLink="false">0zy8O-_F-Fc</guid>
-      <pubDate>Fri, 21 Aug 2026 19:30:29 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ‘’VİCDANLAR SIZLADI!’’ Ömer Faruk Gergerlioğlu’ndan tüyleri diken diken eden ‘Narin Güran’ konuşması</description>
     </item>
   </channel>
 </rss>
