@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 21:15:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 21:20:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SON DAKİKA! Rusya açıkladı! Ukrayna, Belgorod’a İHA’yla saldırı düzenledi!</title>
+      <link>https://www.youtube.com/shorts/7BByglzdYNg</link>
+      <guid isPermaLink="false">7BByglzdYNg</guid>
+      <pubDate>Sat, 22 Aug 2026 21:15:45 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! Rusya açıkladı! Ukrayna, Belgorod’a İHA’yla saldırı düzenledi!</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: 2’nci Kardeş Göçerler Yörük Etkinliği #Canlı</title>
+      <link>https://www.youtube.com/watch?v=oDYqi0HDOCA</link>
+      <guid isPermaLink="false">oDYqi0HDOCA</guid>
+      <pubDate>Sat, 22 Aug 2026 21:09:29 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: 2’nci Kardeş Göçerler Yörük Etkinliği #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: SARAY'IN MANSUR YAVAŞ PLANI! Yeni Partili Tahsin Ocaklı canlı yayında ifşa etti!</title>
       <link>https://www.youtube.com/watch?v=VBmL5w_4XN0</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">nWZZinUcEyA</guid>
       <pubDate>Sat, 22 Aug 2026 15:00:20 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Netanyahu'nun Hedefi Türkiye! ABD'DEN İTİRAF GİBİ AÇIKLAMA! Sınırda Neler Oluyor? | Barçın Yinanç</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Haber Bülteni | Gülinay Selçuk | 22 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=SOQlGcD3ZDU</link>
-      <guid isPermaLink="false">SOQlGcD3ZDU</guid>
-      <pubDate>Sat, 22 Aug 2026 14:57:19 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Haber Bülteni | Gülinay Selçuk | 22 Ağustos</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Özgür Özel, Rize Fındıklı Festival Alanı'nda konuşuyor</title>
-      <link>https://www.youtube.com/watch?v=bdD-Cv1cCr0</link>
-      <guid isPermaLink="false">bdD-Cv1cCr0</guid>
-      <pubDate>Sat, 22 Aug 2026 14:55:04 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Özgür Özel, Rize Fındıklı Festival Alanı'nda konuşuyor</description>
     </item>
   </channel>
 </rss>
