@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 19:50:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 19:54:57 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: İmralı Tartışmaları ve Erken Seçim Senaryolarını Mustafa Balbay Anlattı! Ankara Sallanacak</title>
+      <link>https://www.youtube.com/watch?v=tnuj_MN69os</link>
+      <guid isPermaLink="false">tnuj_MN69os</guid>
+      <pubDate>Sat, 22 Aug 2026 19:40:24 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İmralı Tartışmaları ve Erken Seçim Senaryolarını Mustafa Balbay Anlattı! Ankara Sallanacak</description>
+    </item>
     <item>
       <title>Halk TV: SORGUDA AVUKAT KRİZİ YAŞANMIŞTI! Furkan Vakfı Başkanı Alparslan Kuytul böyle görüntülendi!</title>
       <link>https://www.youtube.com/watch?v=kmVPdAh9_fw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">8dTMk9XabVs</guid>
       <pubDate>Sat, 22 Aug 2026 14:15:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İSRAİL, TÜRKİYE'YE İLİŞKİN O HESABI YAPMIŞ BİLE! Arka kapı sırları döküldü! Serra Karaçam anlattı!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Rize'de eylem yapan kadın balıkçılarla bir araya geldi #Canlı</title>
-      <link>https://www.youtube.com/watch?v=2R_O4rlRKRk</link>
-      <guid isPermaLink="false">2R_O4rlRKRk</guid>
-      <pubDate>Sat, 22 Aug 2026 14:14:14 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Rize'de eylem yapan kadın balıkçılarla bir araya geldi #Canlı</description>
     </item>
   </channel>
 </rss>
