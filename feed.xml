@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 20:05:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 20:10:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: KARADENİZ'DE DEĞİŞİM RÜZGARI! Yeni Partili Tahsin Ocaklı canlı yayında çok net konuştu!</title>
+      <link>https://www.youtube.com/watch?v=r6_6CC8K2Lw</link>
+      <guid isPermaLink="false">r6_6CC8K2Lw</guid>
+      <pubDate>Sat, 22 Aug 2026 20:00:30 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KARADENİZ'DE DEĞİŞİM RÜZGARI! Yeni Partili Tahsin Ocaklı canlı yayında çok net konuştu!</description>
+    </item>
+    <item>
+      <title>Halk TV: Göç yolundaki leylek sürüsü, İstanbul'un Kartal ilçesi semalarında görüntülendi.</title>
+      <link>https://www.youtube.com/shorts/EF7Mx7-Y6Zo</link>
+      <guid isPermaLink="false">EF7Mx7-Y6Zo</guid>
+      <pubDate>Sat, 22 Aug 2026 19:59:56 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Göç yolundaki leylek sürüsü, İstanbul'un Kartal ilçesi semalarında görüntülendi.</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İmralı Tartışmaları ve Erken Seçim Senaryolarını Mustafa Balbay Anlattı! Ankara Sallanacak</title>
       <link>https://www.youtube.com/watch?v=tnuj_MN69os</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">gbxdsdf4jfQ</guid>
       <pubDate>Sat, 22 Aug 2026 14:30:20 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Alparslan Kuytul Operasyonunda İkinci Dalga! Şifreli Kapılar ve Kaçırılan Hard Diskler Ele Geçirildi</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Özgür Özel Kamer Genç'i hatırlattı: Tayyip Bey bu köprüleri Emine Hanım'ın bilezikleriyle yapmadın!</title>
-      <link>https://www.youtube.com/watch?v=AbAHrKrkKFk</link>
-      <guid isPermaLink="false">AbAHrKrkKFk</guid>
-      <pubDate>Sat, 22 Aug 2026 14:16:01 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Özgür Özel Kamer Genç'i hatırlattı: Tayyip Bey bu köprüleri Emine Hanım'ın bilezikleriyle yapmadın!</description>
-    </item>
-    <item>
-      <title>Halk TV: İSRAİL, TÜRKİYE'YE İLİŞKİN O HESABI YAPMIŞ BİLE! Arka kapı sırları döküldü! Serra Karaçam anlattı!</title>
-      <link>https://www.youtube.com/watch?v=8dTMk9XabVs</link>
-      <guid isPermaLink="false">8dTMk9XabVs</guid>
-      <pubDate>Sat, 22 Aug 2026 14:15:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İSRAİL, TÜRKİYE'YE İLİŞKİN O HESABI YAPMIŞ BİLE! Arka kapı sırları döküldü! Serra Karaçam anlattı!</description>
     </item>
   </channel>
 </rss>
