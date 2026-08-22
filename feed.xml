@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 18:15:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 18:20:31 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: ÖZGÜR ÖZEL'İN KARADENİZ TURU VE CHP'DEKİ BÜYÜK ÇATLAK! Mustafa Balbay Anlattı</title>
+      <link>https://www.youtube.com/watch?v=Tu2r2tx6lRc</link>
+      <guid isPermaLink="false">Tu2r2tx6lRc</guid>
+      <pubDate>Sat, 22 Aug 2026 18:10:39 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: ÖZGÜR ÖZEL'İN KARADENİZ TURU VE CHP'DEKİ BÜYÜK ÇATLAK! Mustafa Balbay Anlattı</description>
+    </item>
     <item>
       <title>Halk TV: AKP'YE TOPUKLAYAN TOPUKLAYANA! Fikret Bila'dan AKP'ye geçen belediye başkanlarına şok sözler!</title>
       <link>https://www.youtube.com/watch?v=qFx4RrCPhWk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">VkL2-2_ZphY</guid>
       <pubDate>Sat, 22 Aug 2026 13:16:52 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Özel: YENİ Parti’nin yeni olan tarafı muhalefet partisi olmamasıdır!</description>
-    </item>
-    <item>
-      <title>Halk TV: Gülşah Ekinci ile Öğle Haberleri (22 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=eYYGCOnM9fo</link>
-      <guid isPermaLink="false">eYYGCOnM9fo</guid>
-      <pubDate>Sat, 22 Aug 2026 13:04:25 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Gülşah Ekinci ile Öğle Haberleri (22 Ağustos 2026)</description>
     </item>
   </channel>
 </rss>
