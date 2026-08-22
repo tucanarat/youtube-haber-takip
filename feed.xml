@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 21:05:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 21:10:29 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: 2’nci Kardeş Göçerler Yörük Etkinliği #Canlı</title>
+      <link>https://www.youtube.com/watch?v=oDYqi0HDOCA</link>
+      <guid isPermaLink="false">oDYqi0HDOCA</guid>
+      <pubDate>Sat, 22 Aug 2026 21:09:29 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: 2’nci Kardeş Göçerler Yörük Etkinliği #Canlı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: NETANYAHU'NUN SİNSİ PLANI NE? İsrail Neden Sınırımızda Suriye'yi Vurdu?</title>
       <link>https://www.youtube.com/watch?v=UqmOeoMhVaU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">bdD-Cv1cCr0</guid>
       <pubDate>Sat, 22 Aug 2026 14:55:04 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Özgür Özel, Rize Fındıklı Festival Alanı'nda konuşuyor</description>
-    </item>
-    <item>
-      <title>Halk TV: Gökhan Kayış ile Hafta Sonu Raporu (22 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=LqUru8MF4f8</link>
-      <guid isPermaLink="false">LqUru8MF4f8</guid>
-      <pubDate>Sat, 22 Aug 2026 14:54:54 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Gökhan Kayış ile Hafta Sonu Raporu (22 Ağustos 2026)</description>
     </item>
   </channel>
 </rss>
