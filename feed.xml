@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 09:40:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 09:45:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: AKP'li seçmenden YENİ Partili Gökhan Günaydın'a: Sende yürek de var, insanlık da var!</title>
+      <link>https://www.youtube.com/shorts/FvgCL4m1c1I</link>
+      <guid isPermaLink="false">FvgCL4m1c1I</guid>
+      <pubDate>Sat, 22 Aug 2026 09:40:18 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: AKP'li seçmenden YENİ Partili Gökhan Günaydın'a: Sende yürek de var, insanlık da var!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: AKP'nin Gizli Planı! TÜRKİYE'Yİ AYAĞA KALDIRACAK İDDİA! APO Kurul Başkanı mı Oluyor?</title>
       <link>https://www.youtube.com/watch?v=12ldOQ9s00s</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ikAMA04ZqHQ</guid>
       <pubDate>Fri, 21 Aug 2026 22:02:54 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Burçin Atılgan ile Gündem Özel (21 Ağustos 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: Şiddetli yağış New York’u vurdu! Metro istasyonunu su bastı! #shorts</title>
-      <link>https://www.youtube.com/shorts/o9j1HBBIFek</link>
-      <guid isPermaLink="false">o9j1HBBIFek</guid>
-      <pubDate>Fri, 21 Aug 2026 21:59:51 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Şiddetli yağış New York’u vurdu! Metro istasyonunu su bastı! #shorts</description>
     </item>
   </channel>
 </rss>
