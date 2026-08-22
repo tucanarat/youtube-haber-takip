@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 17:15:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 17:20:32 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: AKILALMAZ KAÇIŞ PLANI! Süleymancılar ve İdris Naim Şahin Bağlantısı Ne?</title>
+      <link>https://www.youtube.com/watch?v=bM4LDMH4YxE</link>
+      <guid isPermaLink="false">bM4LDMH4YxE</guid>
+      <pubDate>Sat, 22 Aug 2026 17:10:11 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: AKILALMAZ KAÇIŞ PLANI! Süleymancılar ve İdris Naim Şahin Bağlantısı Ne?</description>
+    </item>
     <item>
       <title>Halk TV: ERDOĞAN CHP'DEN TRANSFERLERE DOYMUYOR! CHP'li başkanı böyle davet etti!</title>
       <link>https://www.youtube.com/watch?v=z0zBh5WO3AI</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">GK87XFGJam0</guid>
       <pubDate>Sat, 22 Aug 2026 12:30:34 +0000</pubDate>
       <description>Halk TV kanalından yeni video: GÜNÜN BOMBASI PATLADI! Alihan Kuriş’in telefon hattı o ismin üzerine kayıtlı çıktı! Pes dedirtir!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Deniz Türkeri Yapay Zeka - Alemşah Öztürk | Geleceğin Meslekleri Neler? Diploma Devri Bitti mi?</title>
-      <link>https://www.youtube.com/watch?v=acBMrakK1d4</link>
-      <guid isPermaLink="false">acBMrakK1d4</guid>
-      <pubDate>Sat, 22 Aug 2026 12:30:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Deniz Türkeri Yapay Zeka - Alemşah Öztürk | Geleceğin Meslekleri Neler? Diploma Devri Bitti mi?</description>
     </item>
   </channel>
 </rss>
