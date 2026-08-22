@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 08:15:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 08:20:28 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Özgür Özel Trabzon'da işçilerle fındık topladı: "Ben başak burcuyum kafam takılır"</title>
+      <link>https://www.youtube.com/shorts/0_grOOOVzKc</link>
+      <guid isPermaLink="false">0_grOOOVzKc</guid>
+      <pubDate>Sat, 22 Aug 2026 08:16:17 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Özgür Özel Trabzon'da işçilerle fındık topladı: "Ben başak burcuyum kafam takılır"</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Trabzonlu çocuktan Özgür Özel'i güldüren sözler: "Biz adama formayı böyle giydiririz"</title>
+      <link>https://www.youtube.com/shorts/OUVMWpTRroI</link>
+      <guid isPermaLink="false">OUVMWpTRroI</guid>
+      <pubDate>Sat, 22 Aug 2026 08:11:21 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Trabzonlu çocuktan Özgür Özel'i güldüren sözler: "Biz adama formayı böyle giydiririz"</description>
+    </item>
     <item>
       <title>Cumhuriyet: Üniversite tercih sonuçlarının ardından spotçularda hareketlilik: Öğrencinin ev kurma maliyeti ne?</title>
       <link>https://www.youtube.com/watch?v=X7K6r-DEmHI</link>
@@ -323,11 +337,11 @@
       <description>Halk TV kanalından yeni video: SICAK GÖRÜNTÜLER! Çayırhan maden kazası sonrası Beypazarı Devlet Hatanesi önünde son durum!</description>
     </item>
     <item>
-      <title>Halk TV: CHP'nin Genel Başkanlığına Atanan Kılıçdaroğlu 2’nci Kardeş Göçerler Yörük Etkinliği'nde!</title>
+      <title>Halk TV: #CANLI | CHP'nin Genel Başkanlığına Atanan Kılıçdaroğlu 2’nci Kardeş Göçerler Yörük Etkinliği'nde!</title>
       <link>https://www.youtube.com/watch?v=-VLmlm531cY</link>
       <guid isPermaLink="false">-VLmlm531cY</guid>
       <pubDate>Fri, 21 Aug 2026 20:10:50 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: CHP'nin Genel Başkanlığına Atanan Kılıçdaroğlu 2’nci Kardeş Göçerler Yörük Etkinliği'nde!</description>
+      <description>Halk TV kanalından yeni video: #CANLI | CHP'nin Genel Başkanlığına Atanan Kılıçdaroğlu 2’nci Kardeş Göçerler Yörük Etkinliği'nde!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: DİYANET'İN SÜLEYMANCILAR RAPORU ORTAYA ÇIKTI: İkinci FETÖ Tehlikesi Mi? Süheyl Batum Anlattı</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">fchfGp5TQZs</guid>
       <pubDate>Fri, 21 Aug 2026 20:00:06 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: İmamoğlu'na duruşma salonunda ne oldu? Tuba Torun sessizliğe şaşkınlığını böyle anlattı!</description>
-    </item>
-    <item>
-      <title>Halk TV: CANLI YAYINDA AÇIKLADI! Özgür Özel'den vekillere 'Butlan' talimatı! Bülent Yücetürk anlattı!</title>
-      <link>https://www.youtube.com/watch?v=tg7N6AG_2lE</link>
-      <guid isPermaLink="false">tg7N6AG_2lE</guid>
-      <pubDate>Fri, 21 Aug 2026 20:00:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: CANLI YAYINDA AÇIKLADI! Özgür Özel'den vekillere 'Butlan' talimatı! Bülent Yücetürk anlattı!</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! ANKARA VALİLİĞİ’NDEN İLK AÇIKLAMA! Maden ocağı göçüğünde 1 ölü, 20 yaralı!</title>
-      <link>https://www.youtube.com/watch?v=XMycDwEJld4</link>
-      <guid isPermaLink="false">XMycDwEJld4</guid>
-      <pubDate>Fri, 21 Aug 2026 19:45:16 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! ANKARA VALİLİĞİ’NDEN İLK AÇIKLAMA! Maden ocağı göçüğünde 1 ölü, 20 yaralı!</description>
     </item>
   </channel>
 </rss>
