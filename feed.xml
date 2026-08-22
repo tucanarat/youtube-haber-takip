@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 20:20:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 20:25:26 +0000</lastBuildDate>
     <item>
       <title>Halk TV: GÜNDEM OLAN ANLAR! YENİ Parti lideri Özgür Özel, Rize'de Rize simidi ve Anzer balıyla karşılandı!</title>
       <link>https://www.youtube.com/shorts/6kwaqBDJNCw</link>
       <guid isPermaLink="false">6kwaqBDJNCw</guid>
       <pubDate>Sat, 22 Aug 2026 20:15:04 +0000</pubDate>
       <description>Halk TV kanalından yeni video: GÜNDEM OLAN ANLAR! YENİ Parti lideri Özgür Özel, Rize'de Rize simidi ve Anzer balıyla karşılandı!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: NETANYAHU'NUN TEHLİKELİ TÜRKİYE PLANI! Naim Babüroğlu MOSSAD Tehlikesini İfşa Etti!</title>
+      <link>https://www.youtube.com/watch?v=G3nzFKS7BZg</link>
+      <guid isPermaLink="false">G3nzFKS7BZg</guid>
+      <pubDate>Sat, 22 Aug 2026 20:10:16 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: NETANYAHU'NUN TEHLİKELİ TÜRKİYE PLANI! Naim Babüroğlu MOSSAD Tehlikesini İfşa Etti!</description>
     </item>
     <item>
       <title>Halk TV: KARADENİZ'DE DEĞİŞİM RÜZGARI! Yeni Partili Tahsin Ocaklı canlı yayında çok net konuştu!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">b_WLAz9qiZc</guid>
       <pubDate>Sat, 22 Aug 2026 14:44:55 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Furkan Vakfı'na operasyon: Alparslan Kuytul ve eşi de aralarında 56 kişi adliyeye sevk edildi</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: YENİ Parti Genel Başkanı Özgür Özel Erdoğan'ın Kalesi Rize'de! Vatandaşlardan Sevgi Seli!</title>
-      <link>https://www.youtube.com/watch?v=ZVP1Ws_EomM</link>
-      <guid isPermaLink="false">ZVP1Ws_EomM</guid>
-      <pubDate>Sat, 22 Aug 2026 14:36:47 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel Erdoğan'ın Kalesi Rize'de! Vatandaşlardan Sevgi Seli!</description>
     </item>
   </channel>
 </rss>
