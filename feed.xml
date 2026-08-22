@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 12:45:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 12:50:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ORTALIĞI YANGIN YERİNE ÇEVİRECEK STARTI VERDİ! Özgür Özel her şeyi bir bir anlattı! Bomba detay!</title>
+      <link>https://www.youtube.com/watch?v=VDRxyyc_QmE</link>
+      <guid isPermaLink="false">VDRxyyc_QmE</guid>
+      <pubDate>Sat, 22 Aug 2026 12:45:23 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ORTALIĞI YANGIN YERİNE ÇEVİRECEK STARTI VERDİ! Özgür Özel her şeyi bir bir anlattı! Bomba detay!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Haber Bülteni | Gülinay Selçuk | 22 Ağustos</title>
       <link>https://www.youtube.com/watch?v=foXjwgm4o5s</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">coRx_RoVkAU</guid>
       <pubDate>Sat, 22 Aug 2026 09:25:58 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Partili Asu Kaya: Önce milletle örgütleneceğiz, sonra bu milletle iktidar olacağız!</description>
-    </item>
-    <item>
-      <title>Halk TV: TÜRKİYE SARSILACAK! Denizolgun'un ölümünü aydınlatacak videolar ortaya çıktı! Tüyleriniz ürperecek!</title>
-      <link>https://www.youtube.com/watch?v=NahnOSQ4E8s</link>
-      <guid isPermaLink="false">NahnOSQ4E8s</guid>
-      <pubDate>Sat, 22 Aug 2026 09:15:22 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: TÜRKİYE SARSILACAK! Denizolgun'un ölümünü aydınlatacak videolar ortaya çıktı! Tüyleriniz ürperecek!</description>
     </item>
   </channel>
 </rss>
