@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 19:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 20:00:49 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SİYASETTE YENİ PERDE! Ayşen Şahin’den muhalefet için dikkat çeken sözler!</title>
+      <link>https://www.youtube.com/watch?v=6qohXityw-0</link>
+      <guid isPermaLink="false">6qohXityw-0</guid>
+      <pubDate>Sun, 23 Aug 2026 19:50:26 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SİYASETTE YENİ PERDE! Ayşen Şahin’den muhalefet için dikkat çeken sözler!</description>
+    </item>
     <item>
       <title>Halk TV: SON ANKETLERİ İŞARET ETTİ! Ertunç Özün’den yargı süreçlerine sert eleştiri!</title>
       <link>https://www.youtube.com/watch?v=HmLteqK9IPg</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">5NfISk4XlMU</guid>
       <pubDate>Sun, 23 Aug 2026 12:20:10 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İSRAİL GERİ ADIM ATTI! Suriye'deki askeri üssü bombaladıktan sonra o isimden bomba 'Türkiye' çıkışı!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Müsavat Dervişoğlu Çeltikçi'de çiftçilerle buluştu</title>
-      <link>https://www.youtube.com/watch?v=WLwa4gVLN2w</link>
-      <guid isPermaLink="false">WLwa4gVLN2w</guid>
-      <pubDate>Sun, 23 Aug 2026 12:18:01 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Müsavat Dervişoğlu Çeltikçi'de çiftçilerle buluştu</description>
     </item>
   </channel>
 </rss>
