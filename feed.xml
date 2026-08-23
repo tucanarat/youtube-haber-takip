@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 16:10:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 16:15:29 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Asgari ücrette 5 bin liralık erime oldu... YENİ Partili Gökhan Günaydın kritik çağrıda bulundu!</title>
+      <link>https://www.youtube.com/watch?v=FpkdZ9TqY_Y</link>
+      <guid isPermaLink="false">FpkdZ9TqY_Y</guid>
+      <pubDate>Sun, 23 Aug 2026 16:10:33 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Asgari ücrette 5 bin liralık erime oldu... YENİ Partili Gökhan Günaydın kritik çağrıda bulundu!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: 3T Mekanizması ve Çözüm Sürecinin Perde Arkası! Beştepe Kulisleri Çalkalanıyor! Uzman İsim Anlattı</title>
       <link>https://www.youtube.com/watch?v=XmbY_b0DxyQ</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">eyEKCbjKsmc</guid>
       <pubDate>Sun, 23 Aug 2026 10:30:26 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ERDOĞAN'I KARA KARA DÜŞÜNDÜRECEK TABLO! AKP'li yurttaş Rize'de demediğini bırakmadı! Şok sözler!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: 'TÜRK ORDUSU ÇOK GÜÇLÜ' Tom Barrack'tan İsrail'e Gözdağı! Netanyahu'ya Tokat Gibi Uyarı</title>
-      <link>https://www.youtube.com/watch?v=n2XmPaQbJY4</link>
-      <guid isPermaLink="false">n2XmPaQbJY4</guid>
-      <pubDate>Sun, 23 Aug 2026 10:30:14 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: 'TÜRK ORDUSU ÇOK GÜÇLÜ' Tom Barrack'tan İsrail'e Gözdağı! Netanyahu'ya Tokat Gibi Uyarı</description>
     </item>
   </channel>
 </rss>
