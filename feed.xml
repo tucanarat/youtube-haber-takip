@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 17:15:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 17:20:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Çerçeve yasa ile yeni aşama başlıyor! “İzleme Kurulu” hafta başında toplanıyor!</title>
+      <link>https://www.youtube.com/watch?v=gwD6Y9hZnx4</link>
+      <guid isPermaLink="false">gwD6Y9hZnx4</guid>
+      <pubDate>Sun, 23 Aug 2026 17:10:14 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Çerçeve yasa ile yeni aşama başlıyor! “İzleme Kurulu” hafta başında toplanıyor!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İMRALI'DA TUTANAK KRİZİ! O İddialar Yalanlandı | AKP ve MHP'den Yeni İnfaz Düzenlemesi</title>
       <link>https://www.youtube.com/watch?v=3QPX1PvVsvU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">hqTXI2dKZLc</guid>
       <pubDate>Sun, 23 Aug 2026 11:13:21 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Özel'den Erdoğan'ın memleketinde gövde gösterisi! Gören boynuna sarıldı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel'e Erdoğan'ın memleketi Rize'de yoğun ilgi!</title>
-      <link>https://www.youtube.com/shorts/XM2daOJbzas</link>
-      <guid isPermaLink="false">XM2daOJbzas</guid>
-      <pubDate>Sun, 23 Aug 2026 11:13:07 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel'e Erdoğan'ın memleketi Rize'de yoğun ilgi!</description>
     </item>
   </channel>
 </rss>
