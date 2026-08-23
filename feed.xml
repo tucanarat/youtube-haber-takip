@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 08:45:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 08:50:32 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Alparslan Kuytul ve eşi Semra Kuytul Tutuklandı!</title>
+      <link>https://www.youtube.com/watch?v=fpNLC_DvXKE</link>
+      <guid isPermaLink="false">fpNLC_DvXKE</guid>
+      <pubDate>Sun, 23 Aug 2026 08:47:23 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Alparslan Kuytul ve eşi Semra Kuytul Tutuklandı!</description>
+    </item>
     <item>
       <title>Tele2 Haber: AKP'ye Geçen Belediyelerle Bahçeli ve Kılıçdaroğlu'nun Dönüşümüne Mahalli'nin Tepkisi! "Akıl Almaz!</title>
       <link>https://www.youtube.com/watch?v=E1mWX-_9U5M</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">UqmOeoMhVaU</guid>
       <pubDate>Sat, 22 Aug 2026 20:40:39 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: NETANYAHU'NUN SİNSİ PLANI NE? İsrail Neden Sınırımızda Suriye'yi Vurdu?</description>
-    </item>
-    <item>
-      <title>Halk TV: MANSUR YAVAŞ'IN SESSİZLİĞİ BUTLAN CHP'SİNİ RAHATSIZ ETTİ! Fikret Bila'nın iddiası Ankara'yı sallar!</title>
-      <link>https://www.youtube.com/watch?v=Sbw10KC2NWs</link>
-      <guid isPermaLink="false">Sbw10KC2NWs</guid>
-      <pubDate>Sat, 22 Aug 2026 20:40:33 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: MANSUR YAVAŞ'IN SESSİZLİĞİ BUTLAN CHP'SİNİ RAHATSIZ ETTİ! Fikret Bila'nın iddiası Ankara'yı sallar!</description>
     </item>
   </channel>
 </rss>
