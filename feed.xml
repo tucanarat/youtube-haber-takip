@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 16:47:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 16:50:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Burçin Atılgan ile Gündem Özel</title>
+      <link>https://www.youtube.com/watch?v=kwqY2hchGdg</link>
+      <guid isPermaLink="false">kwqY2hchGdg</guid>
+      <pubDate>Sun, 23 Aug 2026 16:45:04 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Burçin Atılgan ile Gündem Özel</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İsrail'in Suriye Planı Deşifre Oldu! Hedefte Türkiye mi Var? Özgür Tör Gizli Planı Haritada Anlattı</title>
       <link>https://www.youtube.com/watch?v=bKFMktnVTVI</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">6C6ZY1Gb7qE</guid>
       <pubDate>Sun, 23 Aug 2026 11:10:59 +0000</pubDate>
       <description>Halk TV kanalından yeni video: RİZE'Yİ BÖYLE KIRDI GEÇİRDİ! Vatandaşın çıkışına Özgür Özel espriyi patlattı! Kahkaha tufanı koptu!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Su İçtiğimiz Halde Neden Vücudumuz Susuz Kalıyor? | Dr. Ayşegül Çoruhlu ile Longevity</title>
-      <link>https://www.youtube.com/watch?v=1BBbYVQD6jo</link>
-      <guid isPermaLink="false">1BBbYVQD6jo</guid>
-      <pubDate>Sun, 23 Aug 2026 11:01:16 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Su İçtiğimiz Halde Neden Vücudumuz Susuz Kalıyor? | Dr. Ayşegül Çoruhlu ile Longevity</description>
     </item>
   </channel>
 </rss>
