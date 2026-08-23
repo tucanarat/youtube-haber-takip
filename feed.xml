@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 10:15:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 10:20:32 +0000</lastBuildDate>
     <item>
       <title>Halk TV: BÖYLESİ NE GÖRÜLDÜ NE DUYULDU! Seri katil dehşeti 11 yıl sonra aydınlatıldı! Detaylar kan dondurur!</title>
       <link>https://www.youtube.com/watch?v=ZH49tAYFXCQ</link>
       <guid isPermaLink="false">ZH49tAYFXCQ</guid>
       <pubDate>Sun, 23 Aug 2026 10:05:35 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BÖYLESİ NE GÖRÜLDÜ NE DUYULDU! Seri katil dehşeti 11 yıl sonra aydınlatıldı! Detaylar kan dondurur!</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: Gökhan Günaydın "Tüketilme ve Yoksullaştırma Politikalarına Karşı Emek Buluşması"nda konuşuyor</title>
+      <link>https://www.youtube.com/watch?v=V2r6b549ISw</link>
+      <guid isPermaLink="false">V2r6b549ISw</guid>
+      <pubDate>Sun, 23 Aug 2026 10:04:05 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Gökhan Günaydın "Tüketilme ve Yoksullaştırma Politikalarına Karşı Emek Buluşması"nda konuşuyor</description>
     </item>
     <item>
       <title>SÖZCÜ TV: MÜJDE! Ev Hanımlarına Emeklilik Yolu Açılıyor! Primleri Devlet Ödeyecek</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">am9vYQ8UcyU</guid>
       <pubDate>Sun, 23 Aug 2026 07:22:01 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Şavşat pazarında hayat pahalılığı tepkisi: “Zor bir süreçten geçiyoruz"</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Bıçak kemiğe dayandı, sanayi darboğazda! Merkez Bankası faizleri indirecek mi?</title>
-      <link>https://www.youtube.com/watch?v=ZOVTTS_ioZU</link>
-      <guid isPermaLink="false">ZOVTTS_ioZU</guid>
-      <pubDate>Sun, 23 Aug 2026 07:12:47 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Bıçak kemiğe dayandı, sanayi darboğazda! Merkez Bankası faizleri indirecek mi?</description>
     </item>
   </channel>
 </rss>
