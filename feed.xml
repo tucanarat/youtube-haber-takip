@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 08:55:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 09:00:46 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Bağımsız Maden İş Sendikası üyesi madencilerin eylemi devam ediyor</title>
+      <link>https://www.youtube.com/watch?v=sVjWZn81V3w</link>
+      <guid isPermaLink="false">sVjWZn81V3w</guid>
+      <pubDate>Sun, 23 Aug 2026 08:59:28 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Bağımsız Maden İş Sendikası üyesi madencilerin eylemi devam ediyor</description>
+    </item>
     <item>
       <title>Tele2 Haber: Alparslan Kuytul ve eşi Semra Kuytul Tutuklandı!</title>
       <link>https://www.youtube.com/watch?v=fpNLC_DvXKE</link>
       <guid isPermaLink="false">fpNLC_DvXKE</guid>
       <pubDate>Sun, 23 Aug 2026 08:47:23 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Alparslan Kuytul ve eşi Semra Kuytul Tutuklandı!</description>
+    </item>
+    <item>
+      <title>Halk TV: ERDOĞAN'DAN CHP'Lİ BAŞKANA AYAK ÜSTÜ TRANSFER TEKLİFİ! Özgür Özel'den o sözlere zehir zemberek yanıt</title>
+      <link>https://www.youtube.com/watch?v=Mye1qdUQ5mI</link>
+      <guid isPermaLink="false">Mye1qdUQ5mI</guid>
+      <pubDate>Sun, 23 Aug 2026 08:40:28 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ERDOĞAN'DAN CHP'Lİ BAŞKANA AYAK ÜSTÜ TRANSFER TEKLİFİ! Özgür Özel'den o sözlere zehir zemberek yanıt</description>
     </item>
     <item>
       <title>Tele2 Haber: AKP'ye Geçen Belediyelerle Bahçeli ve Kılıçdaroğlu'nun Dönüşümüne Mahalli'nin Tepkisi! "Akıl Almaz!</title>
@@ -274,11 +288,11 @@
       <description>SÖZCÜ TV kanalından yeni video: Hafta Sonu Ana Haber | Senem Toluay Ilgaz</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: Haber Bülteni | Gülinay Selçuk</title>
+      <title>SÖZCÜ TV: #CANLI Haber Bülteni | Gülinay Selçuk</title>
       <link>https://www.youtube.com/watch?v=LIky84vyuSk</link>
       <guid isPermaLink="false">LIky84vyuSk</guid>
       <pubDate>Sat, 22 Aug 2026 23:27:44 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Haber Bülteni | Gülinay Selçuk</description>
+      <description>SÖZCÜ TV kanalından yeni video: #CANLI Haber Bülteni | Gülinay Selçuk</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Sabah Kahvesi | Nagihan Turhan 23 Ağustos</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">oDYqi0HDOCA</guid>
       <pubDate>Sat, 22 Aug 2026 21:09:29 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: 2’nci Kardeş Göçerler Yörük Etkinliği #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: SARAY'IN MANSUR YAVAŞ PLANI! Yeni Partili Tahsin Ocaklı canlı yayında ifşa etti!</title>
-      <link>https://www.youtube.com/watch?v=VBmL5w_4XN0</link>
-      <guid isPermaLink="false">VBmL5w_4XN0</guid>
-      <pubDate>Sat, 22 Aug 2026 21:00:16 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SARAY'IN MANSUR YAVAŞ PLANI! Yeni Partili Tahsin Ocaklı canlı yayında ifşa etti!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: NETANYAHU'NUN SİNSİ PLANI NE? İsrail Neden Sınırımızda Suriye'yi Vurdu?</title>
-      <link>https://www.youtube.com/watch?v=UqmOeoMhVaU</link>
-      <guid isPermaLink="false">UqmOeoMhVaU</guid>
-      <pubDate>Sat, 22 Aug 2026 20:40:39 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: NETANYAHU'NUN SİNSİ PLANI NE? İsrail Neden Sınırımızda Suriye'yi Vurdu?</description>
     </item>
   </channel>
 </rss>
