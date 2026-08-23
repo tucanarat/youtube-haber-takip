@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 08:10:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 08:15:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ANKARA KULİSLERİ ALEV ALEV! Siyasette 'Milliyetçi ittifak' doğuyor! Gündem o toplantıyla sarsıldı!</title>
+      <link>https://www.youtube.com/watch?v=cOrtzkR0FXs</link>
+      <guid isPermaLink="false">cOrtzkR0FXs</guid>
+      <pubDate>Sun, 23 Aug 2026 08:10:06 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ANKARA KULİSLERİ ALEV ALEV! Siyasette 'Milliyetçi ittifak' doğuyor! Gündem o toplantıyla sarsıldı!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Süleymancılar ve FETÖ Bağlantısı İfşa Oldu! Alihan Kuriş Dosyasında Şok Detaylar! Uzman İsim Anlattı</title>
+      <link>https://www.youtube.com/watch?v=vurm_zlXzcw</link>
+      <guid isPermaLink="false">vurm_zlXzcw</guid>
+      <pubDate>Sun, 23 Aug 2026 08:00:57 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Süleymancılar ve FETÖ Bağlantısı İfşa Oldu! Alihan Kuriş Dosyasında Şok Detaylar! Uzman İsim Anlattı</description>
+    </item>
     <item>
       <title>Cumhuriyet: Özgürlüklerin şairi yaşıyor - Nilgün Cerrahoğlu</title>
       <link>https://www.youtube.com/watch?v=dNfs27USlsY</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">G3nzFKS7BZg</guid>
       <pubDate>Sat, 22 Aug 2026 20:10:16 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: NETANYAHU'NUN TEHLİKELİ TÜRKİYE PLANI! Naim Babüroğlu MOSSAD Tehlikesini İfşa Etti!</description>
-    </item>
-    <item>
-      <title>Halk TV: KARADENİZ'DE DEĞİŞİM RÜZGARI! Yeni Partili Tahsin Ocaklı canlı yayında çok net konuştu!</title>
-      <link>https://www.youtube.com/watch?v=r6_6CC8K2Lw</link>
-      <guid isPermaLink="false">r6_6CC8K2Lw</guid>
-      <pubDate>Sat, 22 Aug 2026 20:00:30 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KARADENİZ'DE DEĞİŞİM RÜZGARI! Yeni Partili Tahsin Ocaklı canlı yayında çok net konuştu!</description>
-    </item>
-    <item>
-      <title>Halk TV: Göç yolundaki leylek sürüsü, İstanbul'un Kartal ilçesi semalarında görüntülendi.</title>
-      <link>https://www.youtube.com/shorts/EF7Mx7-Y6Zo</link>
-      <guid isPermaLink="false">EF7Mx7-Y6Zo</guid>
-      <pubDate>Sat, 22 Aug 2026 19:59:56 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Göç yolundaki leylek sürüsü, İstanbul'un Kartal ilçesi semalarında görüntülendi.</description>
     </item>
   </channel>
 </rss>
