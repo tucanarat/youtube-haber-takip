@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 16:50:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 16:55:25 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Gülşah Ekinci ile Hafta Sonu Ana Haber</title>
+      <link>https://www.youtube.com/watch?v=PYm-mgt80oE</link>
+      <guid isPermaLink="false">PYm-mgt80oE</guid>
+      <pubDate>Sun, 23 Aug 2026 16:55:07 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Gülşah Ekinci ile Hafta Sonu Ana Haber</description>
+    </item>
+    <item>
+      <title>Halk TV: Yeniden Refah Partisi’nden AKP’ye ters köşe! İl başkanı AKP’li vatandaşı yolda YRP’li yaptı!</title>
+      <link>https://www.youtube.com/watch?v=z_f8C6OrUdo</link>
+      <guid isPermaLink="false">z_f8C6OrUdo</guid>
+      <pubDate>Sun, 23 Aug 2026 16:50:09 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Yeniden Refah Partisi’nden AKP’ye ters köşe! İl başkanı AKP’li vatandaşı yolda YRP’li yaptı!</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Burçin Atılgan ile Gündem Özel</title>
       <link>https://www.youtube.com/watch?v=kwqY2hchGdg</link>
@@ -90,13 +104,6 @@
       <guid isPermaLink="false">LIky84vyuSk</guid>
       <pubDate>Sun, 23 Aug 2026 14:52:32 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Haber Bülteni | Gülinay Selçuk | 23 Ağustos</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Gülşah Ekinci ile Hafta Sonu Ana Haber</title>
-      <link>https://www.youtube.com/watch?v=PYm-mgt80oE</link>
-      <guid isPermaLink="false">PYm-mgt80oE</guid>
-      <pubDate>Sun, 23 Aug 2026 14:51:36 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Gülşah Ekinci ile Hafta Sonu Ana Haber</description>
     </item>
     <item>
       <title>Halk TV: ÖNCEKİ GÜN ENTÜBE EDİLMİŞTİ! İşte bıçaklı saldırıda yaralanan YENİ Partili Melih Meriç'in son durumu</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">CVNKDbeA4uE</guid>
       <pubDate>Sun, 23 Aug 2026 11:12:36 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Özel'e Rize'de emekli teyzeden duygulandıran hediye! "Bir aylığım var sana hediye edeceğim!"</description>
-    </item>
-    <item>
-      <title>Halk TV: RİZE'Yİ BÖYLE KIRDI GEÇİRDİ! Vatandaşın çıkışına Özgür Özel espriyi patlattı! Kahkaha tufanı koptu!</title>
-      <link>https://www.youtube.com/watch?v=6C6ZY1Gb7qE</link>
-      <guid isPermaLink="false">6C6ZY1Gb7qE</guid>
-      <pubDate>Sun, 23 Aug 2026 11:10:59 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: RİZE'Yİ BÖYLE KIRDI GEÇİRDİ! Vatandaşın çıkışına Özgür Özel espriyi patlattı! Kahkaha tufanı koptu!</description>
     </item>
   </channel>
 </rss>
