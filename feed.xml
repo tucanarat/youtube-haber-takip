@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 20:50:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 20:55:24 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Ankara’nın Mamak ilçesinde ağaçlık alanda çıkan yangına ekipler müdahale ediyor!</title>
+      <link>https://www.youtube.com/watch?v=w7Kjb6KAy48</link>
+      <guid isPermaLink="false">w7Kjb6KAy48</guid>
+      <pubDate>Sun, 23 Aug 2026 20:49:51 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Ankara’nın Mamak ilçesinde ağaçlık alanda çıkan yangına ekipler müdahale ediyor!</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Ankara’nın Mamak ilçesinde ağaçlık alanda çıkan yangına ekipler müdahale ediyor!</title>
+      <link>https://www.youtube.com/watch?v=2PWLSNaVlB4</link>
+      <guid isPermaLink="false">2PWLSNaVlB4</guid>
+      <pubDate>Sun, 23 Aug 2026 20:42:04 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Ankara’nın Mamak ilçesinde ağaçlık alanda çıkan yangına ekipler müdahale ediyor!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Ankara Mamak'ta Korkutan Yangın! Alevlerin İçinden Canlı Yayın! SÖZCÜ TV OLAY YERİNDE</title>
       <link>https://www.youtube.com/watch?v=hrPq7By0Ov0</link>
@@ -76,13 +90,6 @@
       <guid isPermaLink="false">IEGipAM1gZc</guid>
       <pubDate>Sun, 23 Aug 2026 18:50:38 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Partili Gizem Özcan’dan ezber bozacak iddia! “Siyasetin akışını tersine çevireceğiz!”</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Ankara’nın Mamak ilçesinde ağaçlık alanda çıkan yangına ekipler müdahale ediyor!</title>
-      <link>https://www.youtube.com/watch?v=w7Kjb6KAy48</link>
-      <guid isPermaLink="false">w7Kjb6KAy48</guid>
-      <pubDate>Sun, 23 Aug 2026 18:31:47 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Ankara’nın Mamak ilçesinde ağaçlık alanda çıkan yangına ekipler müdahale ediyor!</description>
     </item>
     <item>
       <title>Halk TV: Ayşen Şahin’den dikkat çeken değerlendirme! “Bir kuvvete daha ihtiyaç var!”</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">6cXQiYBB8pw</guid>
       <pubDate>Sun, 23 Aug 2026 13:21:05 +0000</pubDate>
       <description>Halk TV kanalından yeni video: O seri katille ilgili flaş bilgiler: Kurbanların pantolon ve iç çamaşırlarını dize kadar indiriyordu</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Fatih Ergin Tek Tek İfşa Etti! Cemaatler Böyle Suç Ağına Dönüşmüş! Sıradaki Tarikat Hangisi?</title>
-      <link>https://www.youtube.com/watch?v=Cr_ti3bcByU</link>
-      <guid isPermaLink="false">Cr_ti3bcByU</guid>
-      <pubDate>Sun, 23 Aug 2026 13:00:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Fatih Ergin Tek Tek İfşa Etti! Cemaatler Böyle Suç Ağına Dönüşmüş! Sıradaki Tarikat Hangisi?</description>
     </item>
   </channel>
 </rss>
