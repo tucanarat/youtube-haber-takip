@@ -6926,5 +6926,21 @@
     "published": "2026-08-23T07:47:35+00:00",
     "published_ts": 1787471255,
     "channel_name": "Halk TV"
+  },
+  "YW-IESrB3Kw": {
+    "id": "YW-IESrB3Kw",
+    "title": "#CANLI Ülkü Çoban ile Manşet Ötesi (23.08.2026)",
+    "link": "https://www.youtube.com/watch?v=YW-IESrB3Kw",
+    "published": "2026-08-23T07:55:57+00:00",
+    "published_ts": 1787471757,
+    "channel_name": "Tele2 Haber"
+  },
+  "43J8lgz9njE": {
+    "id": "43J8lgz9njE",
+    "title": "#CANLI Onur Öncü ile Sabah Pusulası (23.08.26)",
+    "link": "https://www.youtube.com/watch?v=43J8lgz9njE",
+    "published": "2026-08-23T07:54:04+00:00",
+    "published_ts": 1787471644,
+    "channel_name": "Tele2 Haber"
   }
 }

@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 07:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 08:00:50 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI Ülkü Çoban ile Manşet Ötesi (23.08.2026)</title>
+      <link>https://www.youtube.com/watch?v=YW-IESrB3Kw</link>
+      <guid isPermaLink="false">YW-IESrB3Kw</guid>
+      <pubDate>Sun, 23 Aug 2026 07:55:57 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Ülkü Çoban ile Manşet Ötesi (23.08.2026)</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #CANLI Onur Öncü ile Sabah Pusulası (23.08.26)</title>
+      <link>https://www.youtube.com/watch?v=43J8lgz9njE</link>
+      <guid isPermaLink="false">43J8lgz9njE</guid>
+      <pubDate>Sun, 23 Aug 2026 07:54:04 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Onur Öncü ile Sabah Pusulası (23.08.26)</description>
+    </item>
     <item>
       <title>Halk TV: 74 GÜNDÜR SIRRA KADEM BASMIŞTI! 'Öldü' denilen Kamerun'un 92 yaşındaki lideri sonunda ortaya çıktı!</title>
       <link>https://www.youtube.com/watch?v=9dsH-_kY-Fc</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">mjJF7Ue5JrY</guid>
       <pubDate>Sat, 22 Aug 2026 18:45:02 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ESENLER'DE ORTALIK KARIŞTI! Freni boşalan hafriyat kamyonu 7 araca çarptı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Özgür Özel'den Erdoğan'a Rize'den Tarihi Yanıt! Mustafa Balbay AKP'nin Uykularını Kaçıracak!</title>
-      <link>https://www.youtube.com/watch?v=3S7K-hQWRjM</link>
-      <guid isPermaLink="false">3S7K-hQWRjM</guid>
-      <pubDate>Sat, 22 Aug 2026 18:40:20 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Özgür Özel'den Erdoğan'a Rize'den Tarihi Yanıt! Mustafa Balbay AKP'nin Uykularını Kaçıracak!</description>
-    </item>
-    <item>
-      <title>Halk TV: KARTAL'DA DEHŞET ANLAR! Çevrede insanların bulunduğu sırada tüfekle rastgele ateş açtı!</title>
-      <link>https://www.youtube.com/shorts/CBUjAY_W-rE</link>
-      <guid isPermaLink="false">CBUjAY_W-rE</guid>
-      <pubDate>Sat, 22 Aug 2026 18:27:27 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KARTAL'DA DEHŞET ANLAR! Çevrede insanların bulunduğu sırada tüfekle rastgele ateş açtı!</description>
     </item>
   </channel>
 </rss>
