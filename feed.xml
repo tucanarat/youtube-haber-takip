@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 07:20:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 07:25:22 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Şavşat pazarında hayat pahalılığı tepkisi: “Zor bir süreçten geçiyoruz"</title>
+      <link>https://www.youtube.com/shorts/am9vYQ8UcyU</link>
+      <guid isPermaLink="false">am9vYQ8UcyU</guid>
+      <pubDate>Sun, 23 Aug 2026 07:22:01 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Şavşat pazarında hayat pahalılığı tepkisi: “Zor bir süreçten geçiyoruz"</description>
+    </item>
     <item>
       <title>Cumhuriyet: Bıçak kemiğe dayandı, sanayi darboğazda! Merkez Bankası faizleri indirecek mi?</title>
       <link>https://www.youtube.com/watch?v=ZOVTTS_ioZU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">z0zBh5WO3AI</guid>
       <pubDate>Sat, 22 Aug 2026 17:00:23 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ERDOĞAN CHP'DEN TRANSFERLERE DOYMUYOR! CHP'li başkanı böyle davet etti!</description>
-    </item>
-    <item>
-      <title>Halk TV: Gülşah Ekinci ile Hafta Sonu Ana Haber (22 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=l77tBHoE74U</link>
-      <guid isPermaLink="false">l77tBHoE74U</guid>
-      <pubDate>Sat, 22 Aug 2026 16:54:58 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Gülşah Ekinci ile Hafta Sonu Ana Haber (22 Ağustos 2026)</description>
     </item>
   </channel>
 </rss>
