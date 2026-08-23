@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 23:10:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 23:15:30 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: İMRALI'DAN 75 BİN DOSYA ÇIKIŞI! Mehmet Uçum'dan Türkiye'yi Sarsacak Çerçeve Yasa Sözleri</title>
       <link>https://www.youtube.com/watch?v=Hbg_KEAkl44</link>
       <guid isPermaLink="false">Hbg_KEAkl44</guid>
       <pubDate>Sun, 23 Aug 2026 23:00:39 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İMRALI'DAN 75 BİN DOSYA ÇIKIŞI! Mehmet Uçum'dan Türkiye'yi Sarsacak Çerçeve Yasa Sözleri</description>
+    </item>
+    <item>
+      <title>Halk TV: Yavuz Ağıralioğlu’ndan enflasyon çıkışı! “Enflasyonun sebebi hükümet!” #shorts</title>
+      <link>https://www.youtube.com/shorts/-dowo_GqQYY</link>
+      <guid isPermaLink="false">-dowo_GqQYY</guid>
+      <pubDate>Sun, 23 Aug 2026 23:00:28 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Yavuz Ağıralioğlu’ndan enflasyon çıkışı! “Enflasyonun sebebi hükümet!” #shorts</description>
     </item>
     <item>
       <title>Halk TV: Alparslan Kuytul ve eşi Semra  Kuytul’un tutuklanması, Furkan mensupları tarafından protesto edildi!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">FpkdZ9TqY_Y</guid>
       <pubDate>Sun, 23 Aug 2026 16:10:33 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Asgari ücrette 5 bin liralık erime oldu... YENİ Partili Gökhan Günaydın kritik çağrıda bulundu!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: 3T Mekanizması ve Çözüm Sürecinin Perde Arkası! Beştepe Kulisleri Çalkalanıyor! Uzman İsim Anlattı</title>
-      <link>https://www.youtube.com/watch?v=XmbY_b0DxyQ</link>
-      <guid isPermaLink="false">XmbY_b0DxyQ</guid>
-      <pubDate>Sun, 23 Aug 2026 16:00:01 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: 3T Mekanizması ve Çözüm Sürecinin Perde Arkası! Beştepe Kulisleri Çalkalanıyor! Uzman İsim Anlattı</description>
     </item>
   </channel>
 </rss>
