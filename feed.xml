@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 11:41:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 11:45:27 +0000</lastBuildDate>
     <item>
       <title>Halk TV: RİZE 'İKTİDAR' SESİYLE İNLEDİ! Özel'in yanına gelen vatandaştan Erdoğan'ı hüsrana uğratacak sözler!</title>
       <link>https://www.youtube.com/watch?v=FQRkADMkEdQ</link>
       <guid isPermaLink="false">FQRkADMkEdQ</guid>
       <pubDate>Sun, 23 Aug 2026 11:33:34 +0000</pubDate>
       <description>Halk TV kanalından yeni video: RİZE 'İKTİDAR' SESİYLE İNLEDİ! Özel'in yanına gelen vatandaştan Erdoğan'ı hüsrana uğratacak sözler!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Fatih Ergenekon Tarikatların Karanlık Yüzünü Anlattı! Kilo Kilo Altınlar Lüks Araçlar!</title>
+      <link>https://www.youtube.com/watch?v=QTTgCryyM6A</link>
+      <guid isPermaLink="false">QTTgCryyM6A</guid>
+      <pubDate>Sun, 23 Aug 2026 11:30:01 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Fatih Ergenekon Tarikatların Karanlık Yüzünü Anlattı! Kilo Kilo Altınlar Lüks Araçlar!</description>
     </item>
     <item>
       <title>Cumhuriyet: Madencilerin Bakanlık önündeki eylemi sürüyor: 'Yarın direnişin 5. etabına geçiyoruz'</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">gC_uvSpR0pM</guid>
       <pubDate>Sun, 23 Aug 2026 07:56:56 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Bilgesu O Erenus’la... - Zeynep Oral</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Maliyetler altında ezilen çiftçi kan ağlıyor! "Para etmediği için kimse ekmiyor"</title>
-      <link>https://www.youtube.com/watch?v=_MkhRcM_fuY</link>
-      <guid isPermaLink="false">_MkhRcM_fuY</guid>
-      <pubDate>Sun, 23 Aug 2026 07:56:21 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Maliyetler altında ezilen çiftçi kan ağlıyor! "Para etmediği için kimse ekmiyor"</description>
     </item>
   </channel>
 </rss>
