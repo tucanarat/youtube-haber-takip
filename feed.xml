@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 22:30:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 22:35:24 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: AKP'li belediye 'kadınlara yasak' tesisi kadın sunucuya tanıttı! #shorts</title>
+      <link>https://www.youtube.com/shorts/6HyBM-odQ_8</link>
+      <guid isPermaLink="false">6HyBM-odQ_8</guid>
+      <pubDate>Sun, 23 Aug 2026 22:30:08 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: AKP'li belediye 'kadınlara yasak' tesisi kadın sunucuya tanıttı! #shorts</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Öncesi Sonrası | Senem Toluay Ilgaz</title>
       <link>https://www.youtube.com/watch?v=6C6o3mRhqLY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">QufEvaF8yg8</guid>
       <pubDate>Sun, 23 Aug 2026 14:50:32 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ÖNCEKİ GÜN ENTÜBE EDİLMİŞTİ! İşte bıçaklı saldırıda yaralanan YENİ Partili Melih Meriç'in son durumu</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Sadece Su İçerek Cilt Nemlenmez! Gençliğin Nobel Ödüllü Sırrı | Dr. Ayşegül Çoruhlu ile Longevity</title>
-      <link>https://www.youtube.com/watch?v=tsH-Zb9cvvU</link>
-      <guid isPermaLink="false">tsH-Zb9cvvU</guid>
-      <pubDate>Sun, 23 Aug 2026 14:40:17 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Sadece Su İçerek Cilt Nemlenmez! Gençliğin Nobel Ödüllü Sırrı | Dr. Ayşegül Çoruhlu ile Longevity</description>
     </item>
   </channel>
 </rss>
