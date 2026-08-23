@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 09:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 09:10:31 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: Sabah Kahvesi | Nagihan Turhan 23 Ağustos</title>
       <link>https://www.youtube.com/watch?v=n4yfhpfs9Sw</link>
@@ -41,6 +41,13 @@
       <guid isPermaLink="false">sVjWZn81V3w</guid>
       <pubDate>Sun, 23 Aug 2026 08:59:28 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Bağımsız Maden İş Sendikası üyesi madencilerin eylemi devam ediyor</description>
+    </item>
+    <item>
+      <title>Halk TV: BİR DEVİR SONA ERDİ! Gelecek Partisi resmen feshedildi! Davutoğlu'ndan giderayak çarpıcı sözler!</title>
+      <link>https://www.youtube.com/watch?v=QPB2zCjB3nM</link>
+      <guid isPermaLink="false">QPB2zCjB3nM</guid>
+      <pubDate>Sun, 23 Aug 2026 08:55:37 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BİR DEVİR SONA ERDİ! Gelecek Partisi resmen feshedildi! Davutoğlu'ndan giderayak çarpıcı sözler!</description>
     </item>
     <item>
       <title>Tele2 Haber: Alparslan Kuytul ve eşi Semra Kuytul Tutuklandı!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">rSbLOqSScMk</guid>
       <pubDate>Sat, 22 Aug 2026 22:01:52 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Gökmen Karadağ ile Açıkça (22 Ağustos 2026)</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Fenerbahçe - Konyaspor Maç Sonu Yayını | Maç Varsa Erman Toroğlu Var</title>
-      <link>https://www.youtube.com/watch?v=qUipW6Oeg54</link>
-      <guid isPermaLink="false">qUipW6Oeg54</guid>
-      <pubDate>Sat, 22 Aug 2026 21:57:51 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Fenerbahçe - Konyaspor Maç Sonu Yayını | Maç Varsa Erman Toroğlu Var</description>
     </item>
   </channel>
 </rss>
