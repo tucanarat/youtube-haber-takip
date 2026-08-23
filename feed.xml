@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 20:55:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 21:00:51 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Ersin Eroğlu’ndan çarpıcı iddia! “Türkiye’nin en az %10’u cemaat ya da tarikat mensubu!”</title>
+      <link>https://www.youtube.com/watch?v=R9_8_frcFE8</link>
+      <guid isPermaLink="false">R9_8_frcFE8</guid>
+      <pubDate>Sun, 23 Aug 2026 20:50:12 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Ersin Eroğlu’ndan çarpıcı iddia! “Türkiye’nin en az %10’u cemaat ya da tarikat mensubu!”</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Ankara’nın Mamak ilçesinde ağaçlık alanda çıkan yangına ekipler müdahale ediyor!</title>
       <link>https://www.youtube.com/watch?v=w7Kjb6KAy48</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">5yncDnFKN34</guid>
       <pubDate>Sun, 23 Aug 2026 13:30:12 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: 'İDLİB'TEN İSTANBULA SALDIRIRIZ' İsrail'den Türkiye'ye Saldırı Hazırlığı İddiası! Küstah Tehdit</description>
-    </item>
-    <item>
-      <title>Halk TV: O seri katille ilgili flaş bilgiler: Kurbanların pantolon ve iç çamaşırlarını dize kadar indiriyordu</title>
-      <link>https://www.youtube.com/watch?v=6cXQiYBB8pw</link>
-      <guid isPermaLink="false">6cXQiYBB8pw</guid>
-      <pubDate>Sun, 23 Aug 2026 13:21:05 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: O seri katille ilgili flaş bilgiler: Kurbanların pantolon ve iç çamaşırlarını dize kadar indiriyordu</description>
     </item>
   </channel>
 </rss>
