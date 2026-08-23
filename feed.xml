@@ -6,13 +6,34 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 22:20:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 22:25:27 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Öncesi Sonrası | Senem Toluay Ilgaz</title>
+      <link>https://www.youtube.com/watch?v=6C6o3mRhqLY</link>
+      <guid isPermaLink="false">6C6o3mRhqLY</guid>
+      <pubDate>Sun, 23 Aug 2026 22:21:40 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Öncesi Sonrası | Senem Toluay Ilgaz</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Sözcü Masası | Damla Doğan Tuncel</title>
+      <link>https://www.youtube.com/watch?v=-mMZytqDV6E</link>
+      <guid isPermaLink="false">-mMZytqDV6E</guid>
+      <pubDate>Sun, 23 Aug 2026 22:19:17 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Sözcü Masası | Damla Doğan Tuncel</description>
+    </item>
     <item>
       <title>Halk TV: YENİ Partili Gökhan Günaydın: AKP, seçim öncesi yol temizliği yapma derdinde!</title>
       <link>https://www.youtube.com/shorts/Q3xCDskorL4</link>
       <guid isPermaLink="false">Q3xCDskorL4</guid>
       <pubDate>Sun, 23 Aug 2026 22:15:01 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Partili Gökhan Günaydın: AKP, seçim öncesi yol temizliği yapma derdinde!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Sözcü ile Uyanma Vakti | Dilan Polat</title>
+      <link>https://www.youtube.com/watch?v=ndoyG_FmzFg</link>
+      <guid isPermaLink="false">ndoyG_FmzFg</guid>
+      <pubDate>Sun, 23 Aug 2026 22:11:49 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Sözcü ile Uyanma Vakti | Dilan Polat</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | Burçin Atılgan ile Gündem Özel</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">tsH-Zb9cvvU</guid>
       <pubDate>Sun, 23 Aug 2026 14:40:17 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Sadece Su İçerek Cilt Nemlenmez! Gençliğin Nobel Ödüllü Sırrı | Dr. Ayşegül Çoruhlu ile Longevity</description>
-    </item>
-    <item>
-      <title>Halk TV: Kirazlı Manastırı’nda geleneksel ‘Meryem Ana Ayini'ni Fener Rum Patriği Bartholomeos yönetti!</title>
-      <link>https://www.youtube.com/shorts/1G3O4woioNk</link>
-      <guid isPermaLink="false">1G3O4woioNk</guid>
-      <pubDate>Sun, 23 Aug 2026 14:39:17 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Kirazlı Manastırı’nda geleneksel ‘Meryem Ana Ayini'ni Fener Rum Patriği Bartholomeos yönetti!</description>
-    </item>
-    <item>
-      <title>Halk TV: Madenci Eyüp Can: Üç bakanlık garantör oldukları halde Sabahattin Yıldız’dan çok mu korkuyorlar?</title>
-      <link>https://www.youtube.com/shorts/4d62zR6geEQ</link>
-      <guid isPermaLink="false">4d62zR6geEQ</guid>
-      <pubDate>Sun, 23 Aug 2026 14:36:54 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Madenci Eyüp Can: Üç bakanlık garantör oldukları halde Sabahattin Yıldız’dan çok mu korkuyorlar?</description>
-    </item>
-    <item>
-      <title>Halk TV: KILIÇDAROĞLU BUNU BEKLEMİYORDU! Özgür Özel fırtına estiriyor! YENİ Parti'den çarpıcı başlangıç!</title>
-      <link>https://www.youtube.com/watch?v=Gc8JyxiS80I</link>
-      <guid isPermaLink="false">Gc8JyxiS80I</guid>
-      <pubDate>Sun, 23 Aug 2026 14:35:35 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KILIÇDAROĞLU BUNU BEKLEMİYORDU! Özgür Özel fırtına estiriyor! YENİ Parti'den çarpıcı başlangıç!</description>
     </item>
   </channel>
 </rss>

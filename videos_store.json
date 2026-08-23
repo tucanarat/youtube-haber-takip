@@ -7870,5 +7870,29 @@
     "published": "2026-08-23T22:15:01+00:00",
     "published_ts": 1787523301,
     "channel_name": "Halk TV"
+  },
+  "6C6o3mRhqLY": {
+    "id": "6C6o3mRhqLY",
+    "title": "Öncesi Sonrası | Senem Toluay Ilgaz",
+    "link": "https://www.youtube.com/watch?v=6C6o3mRhqLY",
+    "published": "2026-08-23T22:21:40+00:00",
+    "published_ts": 1787523700,
+    "channel_name": "SÖZCÜ TV"
+  },
+  "-mMZytqDV6E": {
+    "id": "-mMZytqDV6E",
+    "title": "Sözcü Masası | Damla Doğan Tuncel",
+    "link": "https://www.youtube.com/watch?v=-mMZytqDV6E",
+    "published": "2026-08-23T22:19:17+00:00",
+    "published_ts": 1787523557,
+    "channel_name": "SÖZCÜ TV"
+  },
+  "ndoyG_FmzFg": {
+    "id": "ndoyG_FmzFg",
+    "title": "Sözcü ile Uyanma Vakti | Dilan Polat",
+    "link": "https://www.youtube.com/watch?v=ndoyG_FmzFg",
+    "published": "2026-08-23T22:11:49+00:00",
+    "published_ts": 1787523109,
+    "channel_name": "SÖZCÜ TV"
   }
 }
