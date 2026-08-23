@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 05:05:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 05:09:41 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Nevra Öner ile Hafta Sonu Sabah</title>
+      <link>https://www.youtube.com/watch?v=h_bNKAp7lvw</link>
+      <guid isPermaLink="false">h_bNKAp7lvw</guid>
+      <pubDate>Sun, 23 Aug 2026 04:57:32 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Nevra Öner ile Hafta Sonu Sabah</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Hafta Sonu Ana Haber | Senem Toluay Ilgaz</title>
       <link>https://www.youtube.com/watch?v=hmJrZO3m3HQ</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">2luaCTzx2e0</guid>
       <pubDate>Sat, 22 Aug 2026 16:20:29 +0000</pubDate>
       <description>Halk TV kanalından yeni video: 3 KARDEŞİN ÖLÜMÜNDE KAHREDEN DETAY! Aile 10 yıl arayla aynı acıyı bir kez daha yaşamış!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: TRUMP DÜĞMEYE BASTI! ABD ve Kanada Arasında Ticaret Savaşı Resmen Başladı!</title>
-      <link>https://www.youtube.com/watch?v=WZxSNRfkCsk</link>
-      <guid isPermaLink="false">WZxSNRfkCsk</guid>
-      <pubDate>Sat, 22 Aug 2026 16:10:35 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: TRUMP DÜĞMEYE BASTI! ABD ve Kanada Arasında Ticaret Savaşı Resmen Başladı!</description>
     </item>
   </channel>
 </rss>
