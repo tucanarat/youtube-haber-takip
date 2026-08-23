@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 12:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 12:25:24 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Müsavat Dervişoğlu Çeltikçi'de çiftçilerle buluştu</title>
+      <link>https://www.youtube.com/watch?v=WLwa4gVLN2w</link>
+      <guid isPermaLink="false">WLwa4gVLN2w</guid>
+      <pubDate>Sun, 23 Aug 2026 12:18:01 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Müsavat Dervişoğlu Çeltikçi'de çiftçilerle buluştu</description>
+    </item>
     <item>
       <title>Halk TV: KILIÇDAROĞLU'NDAN GÖZDAĞI GİBİ SÖZLER! Kendisine hediye edilen sopayı görünce bakın ne tepki verdi!</title>
       <link>https://www.youtube.com/watch?v=Tm60d90Ah5c</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">d-imwl3O_OQ</guid>
       <pubDate>Sun, 23 Aug 2026 07:57:29 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: YENİ Parti ve siyasetin dili - Özdemir İnce</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: TC vatandaşları aptal değildir! - Emre Kongar</title>
-      <link>https://www.youtube.com/watch?v=g8ZzBe0yD1M</link>
-      <guid isPermaLink="false">g8ZzBe0yD1M</guid>
-      <pubDate>Sun, 23 Aug 2026 07:57:04 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: TC vatandaşları aptal değildir! - Emre Kongar</description>
     </item>
   </channel>
 </rss>
