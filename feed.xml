@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 18:10:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 18:15:27 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: "Adından kuruluşuna, halkın istediği bir şeydi!" Ersin Eroğlu’ndan YENİ Parti mesajı!</title>
+      <link>https://www.youtube.com/watch?v=uVz8rKeFgSE</link>
+      <guid isPermaLink="false">uVz8rKeFgSE</guid>
+      <pubDate>Sun, 23 Aug 2026 18:10:05 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: "Adından kuruluşuna, halkın istediği bir şeydi!" Ersin Eroğlu’ndan YENİ Parti mesajı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Erdoğan Bunu  Beklemiyordu! Somali'den Türkiye'ye Küstah Yanıt! KKTC'ye İhanet</title>
       <link>https://www.youtube.com/watch?v=c2pT6ad-xFU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">FQRkADMkEdQ</guid>
       <pubDate>Sun, 23 Aug 2026 11:33:34 +0000</pubDate>
       <description>Halk TV kanalından yeni video: RİZE 'İKTİDAR' SESİYLE İNLEDİ! Özel'in yanına gelen vatandaştan Erdoğan'ı hüsrana uğratacak sözler!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Fatih Ergenekon Tarikatların Karanlık Yüzünü Anlattı! Kilo Kilo Altınlar Lüks Araçlar!</title>
-      <link>https://www.youtube.com/watch?v=QTTgCryyM6A</link>
-      <guid isPermaLink="false">QTTgCryyM6A</guid>
-      <pubDate>Sun, 23 Aug 2026 11:30:01 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Fatih Ergenekon Tarikatların Karanlık Yüzünü Anlattı! Kilo Kilo Altınlar Lüks Araçlar!</description>
     </item>
   </channel>
 </rss>
