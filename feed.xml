@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 23:30:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 23:35:23 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Binlerce öğrenci arayışta : İBB Yurtları’na başvurular devam ediyor! #shorts</title>
+      <link>https://www.youtube.com/shorts/zdUWCh-e740</link>
+      <guid isPermaLink="false">zdUWCh-e740</guid>
+      <pubDate>Sun, 23 Aug 2026 23:30:27 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Binlerce öğrenci arayışta : İBB Yurtları’na başvurular devam ediyor! #shorts</description>
+    </item>
     <item>
       <title>Halk TV: Müsavat Dervişoğlu’ndan çiftçi borcu tepkisi! “Çiftçilerin bankalara borcu 1,5 trilyon lirayı aştı!”</title>
       <link>https://www.youtube.com/shorts/zsgFS7losqc</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ZxSd9NNSb8I</guid>
       <pubDate>Sun, 23 Aug 2026 16:30:27 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Kocaeli Gebze’de ormanlık alan alevlere teslim oldu! Ekiplerin yoğun müdahalesi sürüyor!</description>
-    </item>
-    <item>
-      <title>Halk TV: Kocaeli’nin Dilovası ilçesinde çıkan orman yangınına ekiplerin havadan ve karadan müdahalesi sürüyor</title>
-      <link>https://www.youtube.com/watch?v=0pyO3W8vh94</link>
-      <guid isPermaLink="false">0pyO3W8vh94</guid>
-      <pubDate>Sun, 23 Aug 2026 16:27:37 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Kocaeli’nin Dilovası ilçesinde çıkan orman yangınına ekiplerin havadan ve karadan müdahalesi sürüyor</description>
     </item>
   </channel>
 </rss>
