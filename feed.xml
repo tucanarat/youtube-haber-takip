@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 13:45:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 13:50:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Yıllarca AKP'ye oy veren vatandaştan Erdoğan'ı şoke edecek çıkış! YENİ Partili Günaydın'a dert yandı</title>
+      <link>https://www.youtube.com/watch?v=8x8wQNwaJPA</link>
+      <guid isPermaLink="false">8x8wQNwaJPA</guid>
+      <pubDate>Sun, 23 Aug 2026 13:40:12 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Yıllarca AKP'ye oy veren vatandaştan Erdoğan'ı şoke edecek çıkış! YENİ Partili Günaydın'a dert yandı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: 'İDLİB'TEN İSTANBULA SALDIRIRIZ' İsrail'den Türkiye'ye Saldırı Hazırlığı İddiası! Küstah Tehdit</title>
       <link>https://www.youtube.com/watch?v=5yncDnFKN34</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">QPB2zCjB3nM</guid>
       <pubDate>Sun, 23 Aug 2026 08:55:37 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BİR DEVİR SONA ERDİ! Gelecek Partisi resmen feshedildi! Davutoğlu'ndan giderayak çarpıcı sözler!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Alparslan Kuytul ve eşi Semra Kuytul Tutuklandı!</title>
-      <link>https://www.youtube.com/watch?v=fpNLC_DvXKE</link>
-      <guid isPermaLink="false">fpNLC_DvXKE</guid>
-      <pubDate>Sun, 23 Aug 2026 08:47:23 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Alparslan Kuytul ve eşi Semra Kuytul Tutuklandı!</description>
     </item>
   </channel>
 </rss>
