@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 15:45:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 15:50:29 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: KULİSLER HAREKETLENDİ... 5 siyasi parti lideri, Ümit Özdağ'ın ev sahipliğinde bir araya geldi!</title>
+      <link>https://www.youtube.com/watch?v=RO2HaJZGwuo</link>
+      <guid isPermaLink="false">RO2HaJZGwuo</guid>
+      <pubDate>Sun, 23 Aug 2026 15:42:29 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KULİSLER HAREKETLENDİ... 5 siyasi parti lideri, Ümit Özdağ'ın ev sahipliğinde bir araya geldi!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İsrail'in Hayalleri Suya Düşecek! Türkiye'nin Orta Doğu'yu Sallaycak Planı! Özgür Tör Anlattı</title>
       <link>https://www.youtube.com/watch?v=8VXBFA2n89A</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Z-l1BPFn3A4</guid>
       <pubDate>Sun, 23 Aug 2026 10:20:51 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Oto lastikçisi damada esprili hediye: Düğünde takılan hediye görenleri güldürdü</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Müsavat Dervişoğlu, Celal Bayar’ın anıt mezarını ziyaret etti</title>
-      <link>https://www.youtube.com/shorts/p-pHH5g-i7A</link>
-      <guid isPermaLink="false">p-pHH5g-i7A</guid>
-      <pubDate>Sun, 23 Aug 2026 10:10:37 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Müsavat Dervişoğlu, Celal Bayar’ın anıt mezarını ziyaret etti</description>
     </item>
   </channel>
 </rss>
