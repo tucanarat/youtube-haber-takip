@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 14:35:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 14:40:31 +0000</lastBuildDate>
     <item>
       <title>Halk TV: Dilovası İlçesinde Çıkan Orman Yangınına Ekipler Havadan ve Karadan Müdahale Etti (23 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=-eQTxJCQsGI</link>
       <guid isPermaLink="false">-eQTxJCQsGI</guid>
       <pubDate>Sun, 23 Aug 2026 14:30:27 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Dilovası İlçesinde Çıkan Orman Yangınına Ekipler Havadan ve Karadan Müdahale Etti (23 Ağustos 2026)</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Dervişoğlu Çeltikçi'de çiftçilerle buluştu: 'Devlet çiftçiye borçludur'</title>
+      <link>https://www.youtube.com/watch?v=Peo1aIhf86A</link>
+      <guid isPermaLink="false">Peo1aIhf86A</guid>
+      <pubDate>Sun, 23 Aug 2026 14:24:15 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Dervişoğlu Çeltikçi'de çiftçilerle buluştu: 'Devlet çiftçiye borçludur'</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Gökhan Günaydın'dan asgari ücret iddiası: 'Bölgesel asgari ücret açıklamaya hazırlanıyorlar'</title>
+      <link>https://www.youtube.com/watch?v=aFGaIx8vLB4</link>
+      <guid isPermaLink="false">aFGaIx8vLB4</guid>
+      <pubDate>Sun, 23 Aug 2026 14:21:12 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Gökhan Günaydın'dan asgari ücret iddiası: 'Bölgesel asgari ücret açıklamaya hazırlanıyorlar'</description>
     </item>
     <item>
       <title>Halk TV: GEBZE'DE KORKUTAN GÖRÜNTÜLER! Ormanlık alanda başlayan yangın büyüdü! Ekipler müdahale ediyor!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">sVjWZn81V3w</guid>
       <pubDate>Sun, 23 Aug 2026 09:23:03 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Bağımsız Maden İş Sendikası üyesi madencilerin eylemi devam ediyor</description>
-    </item>
-    <item>
-      <title>Halk TV: Madencilerin, Enerji ve Tabii Kaynaklar Bakanlığı Önündeki Eylemi Devam Ediyor</title>
-      <link>https://www.youtube.com/watch?v=CI46wPGJxw0</link>
-      <guid isPermaLink="false">CI46wPGJxw0</guid>
-      <pubDate>Sun, 23 Aug 2026 09:15:11 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Madencilerin, Enerji ve Tabii Kaynaklar Bakanlığı Önündeki Eylemi Devam Ediyor</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "Saldırıyorlar Adice Terbiyesizce!" Mahalli Yandaş Medyaya Ateş Püskürdü Gülşah Durbay'ı Hatılattı!</title>
-      <link>https://www.youtube.com/watch?v=fqvWf5z7o4M</link>
-      <guid isPermaLink="false">fqvWf5z7o4M</guid>
-      <pubDate>Sun, 23 Aug 2026 09:14:30 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "Saldırıyorlar Adice Terbiyesizce!" Mahalli Yandaş Medyaya Ateş Püskürdü Gülşah Durbay'ı Hatılattı!</description>
     </item>
   </channel>
 </rss>
