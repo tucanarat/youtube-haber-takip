@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 22:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 22:06:10 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: #CANLI Haber Bülteni | Dilan Polat</title>
       <link>https://www.youtube.com/watch?v=cv_vnFz5NKg</link>
       <guid isPermaLink="false">cv_vnFz5NKg</guid>
       <pubDate>Sun, 23 Aug 2026 22:00:56 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: #CANLI Haber Bülteni | Dilan Polat</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: TÜRKİYE'YE LÜBNAN MODELİ Mİ DAYATILIYOR? Haritadaki Gizli Bölünme Planı Uzman İsim Uyardı</title>
+      <link>https://www.youtube.com/watch?v=Eny59QAije0</link>
+      <guid isPermaLink="false">Eny59QAije0</guid>
+      <pubDate>Sun, 23 Aug 2026 22:00:28 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: TÜRKİYE'YE LÜBNAN MODELİ Mİ DAYATILIYOR? Haritadaki Gizli Bölünme Planı Uzman İsim Uyardı</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | Ankara’nın Mamak ilçesinde ağaçlık alanda çıkan yangına ekipler müdahale ediyor!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">-eQTxJCQsGI</guid>
       <pubDate>Sun, 23 Aug 2026 14:30:27 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Dilovası İlçesinde Çıkan Orman Yangınına Ekipler Havadan ve Karadan Müdahale Etti (23 Ağustos 2026)</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Dervişoğlu Çeltikçi'de çiftçilerle buluştu: 'Devlet çiftçiye borçludur'</title>
-      <link>https://www.youtube.com/watch?v=Peo1aIhf86A</link>
-      <guid isPermaLink="false">Peo1aIhf86A</guid>
-      <pubDate>Sun, 23 Aug 2026 14:24:15 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Dervişoğlu Çeltikçi'de çiftçilerle buluştu: 'Devlet çiftçiye borçludur'</description>
     </item>
   </channel>
 </rss>
