@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 06:50:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 06:55:24 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Nevra Öner ile Hafta Sonu Sabah (23 Ağustos 2026)</title>
+      <link>https://www.youtube.com/watch?v=h_bNKAp7lvw</link>
+      <guid isPermaLink="false">h_bNKAp7lvw</guid>
+      <pubDate>Sun, 23 Aug 2026 06:54:30 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Nevra Öner ile Hafta Sonu Sabah (23 Ağustos 2026)</description>
+    </item>
+    <item>
+      <title>Halk TV: SON GÖRÜNTÜLERİ ORTAYA ÇIKTI! Denizde cansız bedenleri bulunan 3 kardeş ölüme kol kola böyle gitmiş!</title>
+      <link>https://www.youtube.com/watch?v=62fhYtgwObk</link>
+      <guid isPermaLink="false">62fhYtgwObk</guid>
+      <pubDate>Sun, 23 Aug 2026 06:46:17 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON GÖRÜNTÜLERİ ORTAYA ÇIKTI! Denizde cansız bedenleri bulunan 3 kardeş ölüme kol kola böyle gitmiş!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Altın Fiyatlarında Tarihi Kırılma! Kritik 15 Kasım Uyarısı! Erdal Özel'den Çarpıcı Analiz</title>
       <link>https://www.youtube.com/watch?v=RwR1wps3-HY</link>
@@ -20,13 +34,6 @@
       <guid isPermaLink="false">_dcFGBBDIqs</guid>
       <pubDate>Sun, 23 Aug 2026 06:28:45 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Furkan Vakfı soruşturmasında çarpıcı gelişme! Alparslan Kuytul ve eşi Semra Kuytul tutuklandı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Nevra Öner ile Hafta Sonu Sabah (23 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=h_bNKAp7lvw</link>
-      <guid isPermaLink="false">h_bNKAp7lvw</guid>
-      <pubDate>Sun, 23 Aug 2026 04:57:32 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Nevra Öner ile Hafta Sonu Sabah (23 Ağustos 2026)</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Hafta Sonu Ana Haber | Senem Toluay Ilgaz</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">LTMkXeKKBws</guid>
       <pubDate>Sat, 22 Aug 2026 16:45:05 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Beşiktaş, yarın oynayacağı Corendon Alanyaspor maçı için uçakla Antalya Gazipaşa’ya geldi!</description>
-    </item>
-    <item>
-      <title>Halk TV: ANKARA'DA DENGELER DEĞİŞİYOR! Gelecek Partisi kendini feshetti! Davutoğlu tarihe mi karışacak?</title>
-      <link>https://www.youtube.com/watch?v=H39RyCFDRQs</link>
-      <guid isPermaLink="false">H39RyCFDRQs</guid>
-      <pubDate>Sat, 22 Aug 2026 16:40:12 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ANKARA'DA DENGELER DEĞİŞİYOR! Gelecek Partisi kendini feshetti! Davutoğlu tarihe mi karışacak?</description>
     </item>
   </channel>
 </rss>
