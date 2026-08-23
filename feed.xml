@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 20:35:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 20:40:33 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: Ankara Mamak'ta Korkutan Yangın! Alevlerin İçinden Canlı Yayın! SÖZCÜ TV OLAY YERİNDE</title>
       <link>https://www.youtube.com/watch?v=hrPq7By0Ov0</link>
       <guid isPermaLink="false">hrPq7By0Ov0</guid>
       <pubDate>Sun, 23 Aug 2026 20:30:50 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Ankara Mamak'ta Korkutan Yangın! Alevlerin İçinden Canlı Yayın! SÖZCÜ TV OLAY YERİNDE</description>
+    </item>
+    <item>
+      <title>Halk TV: Murat Kubilay’dan olay olacak sözler! “Her ne pahasına olursa olsun iktidarda kalmak istiyorlar...”</title>
+      <link>https://www.youtube.com/watch?v=gFEe-vjdACM</link>
+      <guid isPermaLink="false">gFEe-vjdACM</guid>
+      <pubDate>Sun, 23 Aug 2026 20:30:39 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Murat Kubilay’dan olay olacak sözler! “Her ne pahasına olursa olsun iktidarda kalmak istiyorlar...”</description>
     </item>
     <item>
       <title>Halk TV: Günlerce AKP’ye geçeceği konuldu… Ümit Dikbayır, Erdoğan ile yaptığı o görüşmeyi ilk kez anlattı!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Cr_ti3bcByU</guid>
       <pubDate>Sun, 23 Aug 2026 13:00:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Fatih Ergin Tek Tek İfşa Etti! Cemaatler Böyle Suç Ağına Dönüşmüş! Sıradaki Tarikat Hangisi?</description>
-    </item>
-    <item>
-      <title>Halk TV: KULİSLERİ SALLAYAN İDDİA! SDG lideri Mazlum Abdi, Öcalan ile görüşmek için Türkiye'ye mi geliyor?</title>
-      <link>https://www.youtube.com/watch?v=70TH2591I9w</link>
-      <guid isPermaLink="false">70TH2591I9w</guid>
-      <pubDate>Sun, 23 Aug 2026 12:56:33 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KULİSLERİ SALLAYAN İDDİA! SDG lideri Mazlum Abdi, Öcalan ile görüşmek için Türkiye'ye mi geliyor?</description>
     </item>
   </channel>
 </rss>
