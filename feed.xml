@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 20:05:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 20:10:33 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: ÖCALAN "KURUL BAŞKANI" MI OLUYOR? Uğur Poyraz'dan Çarpıcı Süreç Çıkışı!</title>
+      <link>https://www.youtube.com/watch?v=Ox0VHrwYS6Y</link>
+      <guid isPermaLink="false">Ox0VHrwYS6Y</guid>
+      <pubDate>Sun, 23 Aug 2026 20:00:07 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: ÖCALAN "KURUL BAŞKANI" MI OLUYOR? Uğur Poyraz'dan Çarpıcı Süreç Çıkışı!</description>
+    </item>
     <item>
       <title>Halk TV: SİYASETTE YENİ PERDE! Ayşen Şahin’den muhalefet için dikkat çeken sözler!</title>
       <link>https://www.youtube.com/watch?v=6qohXityw-0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">mr-u05gOBZo</guid>
       <pubDate>Sun, 23 Aug 2026 12:30:11 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: FETÖ'den Sonra Ne Değişti? Tarikatların "Masa, Kasa, Nisa" Üçgeni! Fatih Ergenekon Tek Tek Anlattı</description>
-    </item>
-    <item>
-      <title>Halk TV: İSRAİL GERİ ADIM ATTI! Suriye'deki askeri üssü bombaladıktan sonra o isimden bomba 'Türkiye' çıkışı!</title>
-      <link>https://www.youtube.com/watch?v=5NfISk4XlMU</link>
-      <guid isPermaLink="false">5NfISk4XlMU</guid>
-      <pubDate>Sun, 23 Aug 2026 12:20:10 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İSRAİL GERİ ADIM ATTI! Suriye'deki askeri üssü bombaladıktan sonra o isimden bomba 'Türkiye' çıkışı!</description>
     </item>
   </channel>
 </rss>
