@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 13:50:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 13:54:39 +0000</lastBuildDate>
     <item>
       <title>Halk TV: Yıllarca AKP'ye oy veren vatandaştan Erdoğan'ı şoke edecek çıkış! YENİ Partili Günaydın'a dert yandı</title>
       <link>https://www.youtube.com/watch?v=8x8wQNwaJPA</link>
@@ -239,6 +239,13 @@
       <description>SÖZCÜ TV kanalından yeni video: İSRAİL'DEN İDLİB'E SÜRPRİZ HAMLE! Türkiye Savaşa mı Girecek? Naim Babüroğlu Haritada Anlattı</description>
     </item>
     <item>
+      <title>SÖZCÜ TV: ERDOĞAN'A BÜYÜK ŞOK! Mustafa Balbay Bombayı Patlattı! Özgür Özel, Ekrem İmamoğlu ve Öcalan</title>
+      <link>https://www.youtube.com/watch?v=OjotS4VuLo4</link>
+      <guid isPermaLink="false">OjotS4VuLo4</guid>
+      <pubDate>Sun, 23 Aug 2026 10:07:05 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: ERDOĞAN'A BÜYÜK ŞOK! Mustafa Balbay Bombayı Patlattı! Özgür Özel, Ekrem İmamoğlu ve Öcalan</description>
+    </item>
+    <item>
       <title>Halk TV: BÖYLESİ NE GÖRÜLDÜ NE DUYULDU! Seri katil dehşeti 11 yıl sonra aydınlatıldı! Detaylar kan dondurur!</title>
       <link>https://www.youtube.com/watch?v=ZH49tAYFXCQ</link>
       <guid isPermaLink="false">ZH49tAYFXCQ</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">xKi9WZD9TLA</guid>
       <pubDate>Sun, 23 Aug 2026 09:00:11 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Ekrem İmamoğlu Düğmeye Bastı! Yeni Parti İçin Harekete Geçti! Tarihi Hamle Gündemi Salladı</description>
-    </item>
-    <item>
-      <title>Halk TV: BİR DEVİR SONA ERDİ! Gelecek Partisi resmen feshedildi! Davutoğlu'ndan giderayak çarpıcı sözler!</title>
-      <link>https://www.youtube.com/watch?v=QPB2zCjB3nM</link>
-      <guid isPermaLink="false">QPB2zCjB3nM</guid>
-      <pubDate>Sun, 23 Aug 2026 08:55:37 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BİR DEVİR SONA ERDİ! Gelecek Partisi resmen feshedildi! Davutoğlu'ndan giderayak çarpıcı sözler!</description>
     </item>
   </channel>
 </rss>
