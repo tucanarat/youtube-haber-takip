@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 22:50:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 22:55:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Alparslan Kuytul ve eşi Semra  Kuytul’un tutuklanması, Furkan mensupları tarafından protesto edildi!</title>
+      <link>https://www.youtube.com/shorts/3Nblp4seYZo</link>
+      <guid isPermaLink="false">3Nblp4seYZo</guid>
+      <pubDate>Sun, 23 Aug 2026 22:45:06 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Alparslan Kuytul ve eşi Semra  Kuytul’un tutuklanması, Furkan mensupları tarafından protesto edildi!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Sözcü Ana Haber | Serap Belovacıklı</title>
       <link>https://www.youtube.com/watch?v=H3o8K3ddkRM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">RO2HaJZGwuo</guid>
       <pubDate>Sun, 23 Aug 2026 15:42:29 +0000</pubDate>
       <description>Halk TV kanalından yeni video: KULİSLER HAREKETLENDİ... 5 siyasi parti lideri, Ümit Özdağ'ın ev sahipliğinde bir araya geldi!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İsrail'in Hayalleri Suya Düşecek! Türkiye'nin Orta Doğu'yu Sallaycak Planı! Özgür Tör Anlattı</title>
-      <link>https://www.youtube.com/watch?v=8VXBFA2n89A</link>
-      <guid isPermaLink="false">8VXBFA2n89A</guid>
-      <pubDate>Sun, 23 Aug 2026 15:30:16 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İsrail'in Hayalleri Suya Düşecek! Türkiye'nin Orta Doğu'yu Sallaycak Planı! Özgür Tör Anlattı</description>
     </item>
   </channel>
 </rss>
