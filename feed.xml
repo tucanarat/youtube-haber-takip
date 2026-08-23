@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 15:02:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 15:05:22 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: İSRAİL'DEN İDLİB'E SÜRPRİZ HAMLE! Türkiye Savaşa mı Girecek? Naim Babüroğlu Haritada Anlattı</title>
+      <link>https://www.youtube.com/watch?v=BaWNkznpfI0</link>
+      <guid isPermaLink="false">BaWNkznpfI0</guid>
+      <pubDate>Sun, 23 Aug 2026 15:00:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İSRAİL'DEN İDLİB'E SÜRPRİZ HAMLE! Türkiye Savaşa mı Girecek? Naim Babüroğlu Haritada Anlattı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Haber Bülteni | Gülinay Selçuk | 23 Ağustos</title>
       <link>https://www.youtube.com/watch?v=LIky84vyuSk</link>
@@ -328,13 +335,6 @@
       <guid isPermaLink="false">p-pHH5g-i7A</guid>
       <pubDate>Sun, 23 Aug 2026 10:10:37 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Müsavat Dervişoğlu, Celal Bayar’ın anıt mezarını ziyaret etti</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İSRAİL'DEN İDLİB'E SÜRPRİZ HAMLE! Türkiye Savaşa mı Girecek? Naim Babüroğlu Haritada Anlattı</title>
-      <link>https://www.youtube.com/watch?v=BaWNkznpfI0</link>
-      <guid isPermaLink="false">BaWNkznpfI0</guid>
-      <pubDate>Sun, 23 Aug 2026 10:09:47 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İSRAİL'DEN İDLİB'E SÜRPRİZ HAMLE! Türkiye Savaşa mı Girecek? Naim Babüroğlu Haritada Anlattı</description>
     </item>
     <item>
       <title>Halk TV: BÖYLESİ NE GÖRÜLDÜ NE DUYULDU! Seri katil dehşeti 11 yıl sonra aydınlatıldı! Detaylar kan dondurur!</title>
