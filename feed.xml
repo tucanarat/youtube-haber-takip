@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 19:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 19:10:29 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SON DAKİKA! Ankara’da alevler her yeri sardı! Ağaçlık alan bir anda alevlere teslim oldu!</title>
+      <link>https://www.youtube.com/watch?v=MB31sM2EkeM</link>
+      <guid isPermaLink="false">MB31sM2EkeM</guid>
+      <pubDate>Sun, 23 Aug 2026 19:05:18 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! Ankara’da alevler her yeri sardı! Ağaçlık alan bir anda alevlere teslim oldu!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Netanyahu'dan Türkiye'ye Küstah Tehdit! İdlib'den İstanbul'a Vururuz" Ankara Düğmeye Bastı</title>
+      <link>https://www.youtube.com/watch?v=u_gbbS4gHVE</link>
+      <guid isPermaLink="false">u_gbbS4gHVE</guid>
+      <pubDate>Sun, 23 Aug 2026 19:00:10 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Netanyahu'dan Türkiye'ye Küstah Tehdit! İdlib'den İstanbul'a Vururuz" Ankara Düğmeye Bastı</description>
+    </item>
     <item>
       <title>Halk TV: YENİ Partili Gizem Özcan’dan ezber bozacak iddia! “Siyasetin akışını tersine çevireceğiz!”</title>
       <link>https://www.youtube.com/watch?v=IEGipAM1gZc</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">fuSrO_Qznvk</guid>
       <pubDate>Sun, 23 Aug 2026 12:00:24 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Devletin Zirvesinde Cemaat Krizi! Fatih Ergin'den Şok FETÖ ve Tarikat İddiaları "İKTİDAR SIKIŞTI!"</description>
-    </item>
-    <item>
-      <title>Halk TV: Gülşah Ekinci ile Öğle Haberleri (23 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=wp5m0KIClTY</link>
-      <guid isPermaLink="false">wp5m0KIClTY</guid>
-      <pubDate>Sun, 23 Aug 2026 11:57:11 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Gülşah Ekinci ile Öğle Haberleri (23 Ağustos 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Partili Gökhan Günaydın'a dert yanan Yozgatlı yurttaşın sözleri gündem olur!</title>
-      <link>https://www.youtube.com/shorts/dgVn1M5aHLs</link>
-      <guid isPermaLink="false">dgVn1M5aHLs</guid>
-      <pubDate>Sun, 23 Aug 2026 11:54:24 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Partili Gökhan Günaydın'a dert yanan Yozgatlı yurttaşın sözleri gündem olur!</description>
     </item>
   </channel>
 </rss>
