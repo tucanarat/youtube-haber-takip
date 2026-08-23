@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 20:30:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 20:35:27 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Ankara Mamak'ta Korkutan Yangın! Alevlerin İçinden Canlı Yayın! SÖZCÜ TV OLAY YERİNDE</title>
+      <link>https://www.youtube.com/watch?v=hrPq7By0Ov0</link>
+      <guid isPermaLink="false">hrPq7By0Ov0</guid>
+      <pubDate>Sun, 23 Aug 2026 20:30:50 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Ankara Mamak'ta Korkutan Yangın! Alevlerin İçinden Canlı Yayın! SÖZCÜ TV OLAY YERİNDE</description>
+    </item>
     <item>
       <title>Halk TV: Günlerce AKP’ye geçeceği konuldu… Ümit Dikbayır, Erdoğan ile yaptığı o görüşmeyi ilk kez anlattı!</title>
       <link>https://www.youtube.com/watch?v=uiEZaHkiuA4</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">70TH2591I9w</guid>
       <pubDate>Sun, 23 Aug 2026 12:56:33 +0000</pubDate>
       <description>Halk TV kanalından yeni video: KULİSLERİ SALLAYAN İDDİA! SDG lideri Mazlum Abdi, Öcalan ile görüşmek için Türkiye'ye mi geliyor?</description>
-    </item>
-    <item>
-      <title>Halk TV: BU ÇIKIŞ ANKARA'DA DEPREM ETKİSİ YARATACAK! Haklarını arayan madencilerin tepkisi yeri göğü inletti!</title>
-      <link>https://www.youtube.com/watch?v=N7j1YAHWQKY</link>
-      <guid isPermaLink="false">N7j1YAHWQKY</guid>
-      <pubDate>Sun, 23 Aug 2026 12:42:05 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BU ÇIKIŞ ANKARA'DA DEPREM ETKİSİ YARATACAK! Haklarını arayan madencilerin tepkisi yeri göğü inletti!</description>
     </item>
   </channel>
 </rss>
