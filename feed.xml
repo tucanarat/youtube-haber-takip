@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 09:10:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 09:11:51 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI Türkiye-Katar İlişkileri Bozulacak mı? Namık Koçak - Hüsnü Mahalli ile Forum 23.08.26</title>
+      <link>https://www.youtube.com/watch?v=yAxksE_nPGg</link>
+      <guid isPermaLink="false">yAxksE_nPGg</guid>
+      <pubDate>Sun, 23 Aug 2026 09:11:25 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Türkiye-Katar İlişkileri Bozulacak mı? Namık Koçak - Hüsnü Mahalli ile Forum 23.08.26</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Sabah Kahvesi | Nagihan Turhan 23 Ağustos</title>
       <link>https://www.youtube.com/watch?v=n4yfhpfs9Sw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">oGyc3JUwKLw</guid>
       <pubDate>Sat, 22 Aug 2026 22:19:12 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: CHP İstanbul İl Başkanı Gürsel Tekin, rozet takma töreninde açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: Gökmen Karadağ ile Açıkça (22 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=rSbLOqSScMk</link>
-      <guid isPermaLink="false">rSbLOqSScMk</guid>
-      <pubDate>Sat, 22 Aug 2026 22:01:52 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Gökmen Karadağ ile Açıkça (22 Ağustos 2026)</description>
     </item>
   </channel>
 </rss>
