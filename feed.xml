@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 17:00:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 17:05:25 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: İMRALI'DA TUTANAK KRİZİ! O İddialar Yalanlandı | AKP ve MHP'den Yeni İnfaz Düzenlemesi</title>
+      <link>https://www.youtube.com/watch?v=3QPX1PvVsvU</link>
+      <guid isPermaLink="false">3QPX1PvVsvU</guid>
+      <pubDate>Sun, 23 Aug 2026 17:00:22 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İMRALI'DA TUTANAK KRİZİ! O İddialar Yalanlandı | AKP ve MHP'den Yeni İnfaz Düzenlemesi</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Hafta Sonu Ana Haber | Senem Toluay Ilgaz  | 23 Ağustos</title>
+      <link>https://www.youtube.com/watch?v=hmJrZO3m3HQ</link>
+      <guid isPermaLink="false">hmJrZO3m3HQ</guid>
+      <pubDate>Sun, 23 Aug 2026 16:57:03 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Hafta Sonu Ana Haber | Senem Toluay Ilgaz  | 23 Ağustos</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Gülşah Ekinci ile Hafta Sonu Ana Haber</title>
       <link>https://www.youtube.com/watch?v=PYm-mgt80oE</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">XM2daOJbzas</guid>
       <pubDate>Sun, 23 Aug 2026 11:13:07 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Özel'e Erdoğan'ın memleketi Rize'de yoğun ilgi!</description>
-    </item>
-    <item>
-      <title>Halk TV: Artvin Şavşat'taki köy pazarında üretici ve tüketiciler artan hayat pahalılığından dert yandı!</title>
-      <link>https://www.youtube.com/shorts/LElOEq5OgVU</link>
-      <guid isPermaLink="false">LElOEq5OgVU</guid>
-      <pubDate>Sun, 23 Aug 2026 11:12:50 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Artvin Şavşat'taki köy pazarında üretici ve tüketiciler artan hayat pahalılığından dert yandı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel'e Rize'de emekli teyzeden duygulandıran hediye! "Bir aylığım var sana hediye edeceğim!"</title>
-      <link>https://www.youtube.com/shorts/CVNKDbeA4uE</link>
-      <guid isPermaLink="false">CVNKDbeA4uE</guid>
-      <pubDate>Sun, 23 Aug 2026 11:12:36 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel'e Rize'de emekli teyzeden duygulandıran hediye! "Bir aylığım var sana hediye edeceğim!"</description>
     </item>
   </channel>
 </rss>
