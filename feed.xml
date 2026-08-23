@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 12:45:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 12:50:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: BU ÇIKIŞ ANKARA'DA DEPREM ETKİSİ YARATACAK! Haklarını arayan madencilerin tepkisi yeri göğü inletti!</title>
+      <link>https://www.youtube.com/watch?v=N7j1YAHWQKY</link>
+      <guid isPermaLink="false">N7j1YAHWQKY</guid>
+      <pubDate>Sun, 23 Aug 2026 12:42:05 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BU ÇIKIŞ ANKARA'DA DEPREM ETKİSİ YARATACAK! Haklarını arayan madencilerin tepkisi yeri göğü inletti!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: FETÖ'den Sonra Ne Değişti? Tarikatların "Masa, Kasa, Nisa" Üçgeni! Fatih Ergenekon Tek Tek Anlattı</title>
       <link>https://www.youtube.com/watch?v=mr-u05gOBZo</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">cOrtzkR0FXs</guid>
       <pubDate>Sun, 23 Aug 2026 08:10:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ANKARA KULİSLERİ ALEV ALEV! Siyasette 'Milliyetçi ittifak' doğuyor! Gündem o toplantıyla sarsıldı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Süleymancılar ve FETÖ Bağlantısı İfşa Oldu! Alihan Kuriş Dosyasında Şok Detaylar! Uzman İsim Anlattı</title>
-      <link>https://www.youtube.com/watch?v=vurm_zlXzcw</link>
-      <guid isPermaLink="false">vurm_zlXzcw</guid>
-      <pubDate>Sun, 23 Aug 2026 08:00:57 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Süleymancılar ve FETÖ Bağlantısı İfşa Oldu! Alihan Kuriş Dosyasında Şok Detaylar! Uzman İsim Anlattı</description>
     </item>
   </channel>
 </rss>
