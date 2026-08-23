@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 18:35:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 18:40:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Ankara’nın Mamak ilçesinde ağaçlık alanda çıkan yangına ekipler müdahale ediyor!</title>
+      <link>https://www.youtube.com/watch?v=w7Kjb6KAy48</link>
+      <guid isPermaLink="false">w7Kjb6KAy48</guid>
+      <pubDate>Sun, 23 Aug 2026 18:31:47 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Ankara’nın Mamak ilçesinde ağaçlık alanda çıkan yangına ekipler müdahale ediyor!</description>
+    </item>
+    <item>
+      <title>Halk TV: Ayşen Şahin’den dikkat çeken değerlendirme! “Bir kuvvete daha ihtiyaç var!”</title>
+      <link>https://www.youtube.com/watch?v=KbqPqnLal-Q</link>
+      <guid isPermaLink="false">KbqPqnLal-Q</guid>
+      <pubDate>Sun, 23 Aug 2026 18:30:10 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Ayşen Şahin’den dikkat çeken değerlendirme! “Bir kuvvete daha ihtiyaç var!”</description>
+    </item>
     <item>
       <title>Halk TV: "Adından kuruluşuna, halkın istediği bir şeydi!" Ersin Eroğlu’ndan YENİ Parti mesajı!</title>
       <link>https://www.youtube.com/watch?v=uVz8rKeFgSE</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">Kmb_foALWeE</guid>
       <pubDate>Sun, 23 Aug 2026 11:54:11 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Doruk Maden işçisinden sarsıcı sözler: Ben sağlığımı kaybettim, beyefendi hala itibar diyor!</description>
-    </item>
-    <item>
-      <title>Halk TV: Mahkeme kararı ile koltuğa oturtulan Kemal Kılıçdaroğlu'ndan, bir garip 'sopa' esprisi!</title>
-      <link>https://www.youtube.com/shorts/JgMq0So4O_s</link>
-      <guid isPermaLink="false">JgMq0So4O_s</guid>
-      <pubDate>Sun, 23 Aug 2026 11:53:54 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Mahkeme kararı ile koltuğa oturtulan Kemal Kılıçdaroğlu'ndan, bir garip 'sopa' esprisi!</description>
-    </item>
-    <item>
-      <title>Halk TV: RİZE 'İKTİDAR' SESİYLE İNLEDİ! Özel'in yanına gelen vatandaştan Erdoğan'ı hüsrana uğratacak sözler!</title>
-      <link>https://www.youtube.com/watch?v=FQRkADMkEdQ</link>
-      <guid isPermaLink="false">FQRkADMkEdQ</guid>
-      <pubDate>Sun, 23 Aug 2026 11:33:34 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: RİZE 'İKTİDAR' SESİYLE İNLEDİ! Özel'in yanına gelen vatandaştan Erdoğan'ı hüsrana uğratacak sözler!</description>
     </item>
   </channel>
 </rss>
