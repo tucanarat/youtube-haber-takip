@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 06:30:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 06:35:24 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Altın Fiyatlarında Tarihi Kırılma! Kritik 15 Kasım Uyarısı! Erdal Özel'den Çarpıcı Analiz</title>
+      <link>https://www.youtube.com/watch?v=RwR1wps3-HY</link>
+      <guid isPermaLink="false">RwR1wps3-HY</guid>
+      <pubDate>Sun, 23 Aug 2026 06:30:33 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Altın Fiyatlarında Tarihi Kırılma! Kritik 15 Kasım Uyarısı! Erdal Özel'den Çarpıcı Analiz</description>
+    </item>
+    <item>
+      <title>Halk TV: Furkan Vakfı soruşturmasında çarpıcı gelişme! Alparslan Kuytul ve eşi Semra Kuytul tutuklandı!</title>
+      <link>https://www.youtube.com/watch?v=_dcFGBBDIqs</link>
+      <guid isPermaLink="false">_dcFGBBDIqs</guid>
+      <pubDate>Sun, 23 Aug 2026 06:28:45 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Furkan Vakfı soruşturmasında çarpıcı gelişme! Alparslan Kuytul ve eşi Semra Kuytul tutuklandı!</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Nevra Öner ile Hafta Sonu Sabah</title>
       <link>https://www.youtube.com/watch?v=h_bNKAp7lvw</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">H39RyCFDRQs</guid>
       <pubDate>Sat, 22 Aug 2026 16:40:12 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ANKARA'DA DENGELER DEĞİŞİYOR! Gelecek Partisi kendini feshetti! Davutoğlu tarihe mi karışacak?</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: DÜNYA AYAKTA! Rusya AVM'yi Hedef Aldı! Putin Ukrayna'ya Cehennemi Yaşattı</title>
-      <link>https://www.youtube.com/watch?v=FZJrEVC0atU</link>
-      <guid isPermaLink="false">FZJrEVC0atU</guid>
-      <pubDate>Sat, 22 Aug 2026 16:40:08 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: DÜNYA AYAKTA! Rusya AVM'yi Hedef Aldı! Putin Ukrayna'ya Cehennemi Yaşattı</description>
-    </item>
-    <item>
-      <title>Halk TV: 3 KARDEŞİN ÖLÜMÜNDE KAHREDEN DETAY! Aile 10 yıl arayla aynı acıyı bir kez daha yaşamış!</title>
-      <link>https://www.youtube.com/watch?v=2luaCTzx2e0</link>
-      <guid isPermaLink="false">2luaCTzx2e0</guid>
-      <pubDate>Sat, 22 Aug 2026 16:20:29 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: 3 KARDEŞİN ÖLÜMÜNDE KAHREDEN DETAY! Aile 10 yıl arayla aynı acıyı bir kez daha yaşamış!</description>
     </item>
   </channel>
 </rss>
