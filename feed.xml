@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 13:40:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 13:45:35 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: 'İDLİB'TEN İSTANBULA SALDIRIRIZ' İsrail'den Türkiye'ye Saldırı Hazırlığı İddiası! Küstah Tehdit</title>
       <link>https://www.youtube.com/watch?v=5yncDnFKN34</link>
@@ -225,6 +225,13 @@
       <description>Cumhuriyet kanalından yeni video: Müsavat Dervişoğlu, Celal Bayar’ın anıt mezarını ziyaret etti</description>
     </item>
     <item>
+      <title>SÖZCÜ TV: İSRAİL'DEN İDLİB'E SÜRPRİZ HAMLE! Türkiye Savaşa mı Girecek? Naim Babüroğlu Haritada Anlattı</title>
+      <link>https://www.youtube.com/watch?v=BaWNkznpfI0</link>
+      <guid isPermaLink="false">BaWNkznpfI0</guid>
+      <pubDate>Sun, 23 Aug 2026 10:09:47 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İSRAİL'DEN İDLİB'E SÜRPRİZ HAMLE! Türkiye Savaşa mı Girecek? Naim Babüroğlu Haritada Anlattı</description>
+    </item>
+    <item>
       <title>Halk TV: BÖYLESİ NE GÖRÜLDÜ NE DUYULDU! Seri katil dehşeti 11 yıl sonra aydınlatıldı! Detaylar kan dondurur!</title>
       <link>https://www.youtube.com/watch?v=ZH49tAYFXCQ</link>
       <guid isPermaLink="false">ZH49tAYFXCQ</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">fpNLC_DvXKE</guid>
       <pubDate>Sun, 23 Aug 2026 08:47:23 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Alparslan Kuytul ve eşi Semra Kuytul Tutuklandı!</description>
-    </item>
-    <item>
-      <title>Halk TV: ERDOĞAN'DAN CHP'Lİ BAŞKANA AYAK ÜSTÜ TRANSFER TEKLİFİ! Özgür Özel'den o sözlere zehir zemberek yanıt</title>
-      <link>https://www.youtube.com/watch?v=Mye1qdUQ5mI</link>
-      <guid isPermaLink="false">Mye1qdUQ5mI</guid>
-      <pubDate>Sun, 23 Aug 2026 08:40:28 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ERDOĞAN'DAN CHP'Lİ BAŞKANA AYAK ÜSTÜ TRANSFER TEKLİFİ! Özgür Özel'den o sözlere zehir zemberek yanıt</description>
     </item>
   </channel>
 </rss>
