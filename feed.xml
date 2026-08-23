@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 23:50:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 23:55:22 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Sorun çözülmezse, Doruk Maden işçileri Çarşamba günü Saray’a gidecek! #shorts</title>
+      <link>https://www.youtube.com/shorts/Is_OM5ahe2M</link>
+      <guid isPermaLink="false">Is_OM5ahe2M</guid>
+      <pubDate>Sun, 23 Aug 2026 23:45:23 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Sorun çözülmezse, Doruk Maden işçileri Çarşamba günü Saray’a gidecek! #shorts</description>
+    </item>
     <item>
       <title>Halk TV: Binlerce öğrenci arayışta : İBB Yurtları’na başvurular devam ediyor! #shorts</title>
       <link>https://www.youtube.com/shorts/zdUWCh-e740</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">bKFMktnVTVI</guid>
       <pubDate>Sun, 23 Aug 2026 16:30:34 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İsrail'in Suriye Planı Deşifre Oldu! Hedefte Türkiye mi Var? Özgür Tör Gizli Planı Haritada Anlattı</description>
-    </item>
-    <item>
-      <title>Halk TV: Kocaeli Gebze’de ormanlık alan alevlere teslim oldu! Ekiplerin yoğun müdahalesi sürüyor!</title>
-      <link>https://www.youtube.com/watch?v=ZxSd9NNSb8I</link>
-      <guid isPermaLink="false">ZxSd9NNSb8I</guid>
-      <pubDate>Sun, 23 Aug 2026 16:30:27 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Kocaeli Gebze’de ormanlık alan alevlere teslim oldu! Ekiplerin yoğun müdahalesi sürüyor!</description>
     </item>
   </channel>
 </rss>
