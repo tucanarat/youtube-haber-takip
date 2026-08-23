@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 11:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 11:40:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: RİZE 'İKTİDAR' SESİYLE İNLEDİ! Özel'in yanına gelen vatandaştan Erdoğan'ı hüsrana uğratacak sözler!</title>
+      <link>https://www.youtube.com/watch?v=FQRkADMkEdQ</link>
+      <guid isPermaLink="false">FQRkADMkEdQ</guid>
+      <pubDate>Sun, 23 Aug 2026 11:33:34 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: RİZE 'İKTİDAR' SESİYLE İNLEDİ! Özel'in yanına gelen vatandaştan Erdoğan'ı hüsrana uğratacak sözler!</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Madencilerin Bakanlık önündeki eylemi sürüyor: 'Yarın direnişin 5. etabına geçiyoruz'</title>
+      <link>https://www.youtube.com/watch?v=ZOACM-cg4kU</link>
+      <guid isPermaLink="false">ZOACM-cg4kU</guid>
+      <pubDate>Sun, 23 Aug 2026 11:25:54 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Madencilerin Bakanlık önündeki eylemi sürüyor: 'Yarın direnişin 5. etabına geçiyoruz'</description>
+    </item>
     <item>
       <title>Halk TV: Özgür Özel: "Rize başbakan çıkarmış bir memleket. YENİ Parti'ye gösterilen bu ilgi umut verici"</title>
       <link>https://www.youtube.com/shorts/brBbkHif3qw</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">_MkhRcM_fuY</guid>
       <pubDate>Sun, 23 Aug 2026 07:56:21 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Maliyetler altında ezilen çiftçi kan ağlıyor! "Para etmediği için kimse ekmiyor"</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Ülkü Çoban ile Manşet Ötesi (23.08.2026)</title>
-      <link>https://www.youtube.com/watch?v=YW-IESrB3Kw</link>
-      <guid isPermaLink="false">YW-IESrB3Kw</guid>
-      <pubDate>Sun, 23 Aug 2026 07:55:57 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Ülkü Çoban ile Manşet Ötesi (23.08.2026)</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Onur Öncü ile Sabah Pusulası (23.08.26)</title>
-      <link>https://www.youtube.com/watch?v=43J8lgz9njE</link>
-      <guid isPermaLink="false">43J8lgz9njE</guid>
-      <pubDate>Sun, 23 Aug 2026 07:54:04 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Onur Öncü ile Sabah Pusulası (23.08.26)</description>
     </item>
   </channel>
 </rss>
