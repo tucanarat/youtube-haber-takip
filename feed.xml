@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 09:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 09:25:24 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Bağımsız Maden İş Sendikası üyesi madencilerin eylemi devam ediyor</title>
+      <link>https://www.youtube.com/watch?v=sVjWZn81V3w</link>
+      <guid isPermaLink="false">sVjWZn81V3w</guid>
+      <pubDate>Sun, 23 Aug 2026 09:23:03 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Bağımsız Maden İş Sendikası üyesi madencilerin eylemi devam ediyor</description>
+    </item>
     <item>
       <title>Halk TV: Madencilerin, Enerji ve Tabii Kaynaklar Bakanlığı Önündeki Eylemi Devam Ediyor</title>
       <link>https://www.youtube.com/watch?v=CI46wPGJxw0</link>
@@ -55,13 +62,6 @@
       <guid isPermaLink="false">xKi9WZD9TLA</guid>
       <pubDate>Sun, 23 Aug 2026 09:00:11 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Ekrem İmamoğlu Düğmeye Bastı! Yeni Parti İçin Harekete Geçti! Tarihi Hamle Gündemi Salladı</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Bağımsız Maden İş Sendikası üyesi madencilerin eylemi devam ediyor</title>
-      <link>https://www.youtube.com/watch?v=sVjWZn81V3w</link>
-      <guid isPermaLink="false">sVjWZn81V3w</guid>
-      <pubDate>Sun, 23 Aug 2026 08:59:28 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Bağımsız Maden İş Sendikası üyesi madencilerin eylemi devam ediyor</description>
     </item>
     <item>
       <title>Halk TV: BİR DEVİR SONA ERDİ! Gelecek Partisi resmen feshedildi! Davutoğlu'ndan giderayak çarpıcı sözler!</title>
