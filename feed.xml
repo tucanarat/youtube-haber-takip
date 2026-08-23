@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 10:10:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 10:15:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: BÖYLESİ NE GÖRÜLDÜ NE DUYULDU! Seri katil dehşeti 11 yıl sonra aydınlatıldı! Detaylar kan dondurur!</title>
+      <link>https://www.youtube.com/watch?v=ZH49tAYFXCQ</link>
+      <guid isPermaLink="false">ZH49tAYFXCQ</guid>
+      <pubDate>Sun, 23 Aug 2026 10:05:35 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BÖYLESİ NE GÖRÜLDÜ NE DUYULDU! Seri katil dehşeti 11 yıl sonra aydınlatıldı! Detaylar kan dondurur!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: MÜJDE! Ev Hanımlarına Emeklilik Yolu Açılıyor! Primleri Devlet Ödeyecek</title>
       <link>https://www.youtube.com/watch?v=U7SED0epMAI</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ZOVTTS_ioZU</guid>
       <pubDate>Sun, 23 Aug 2026 07:12:47 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Bıçak kemiğe dayandı, sanayi darboğazda! Merkez Bankası faizleri indirecek mi?</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Alparslan Kuytul ve Eşi Tutuklandı! Kan Donduran FETÖ İzi! Furkancılar Operasyonunun Perde Arkası</title>
-      <link>https://www.youtube.com/watch?v=A-kwXFvsQ4U</link>
-      <guid isPermaLink="false">A-kwXFvsQ4U</guid>
-      <pubDate>Sun, 23 Aug 2026 07:00:12 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Alparslan Kuytul ve Eşi Tutuklandı! Kan Donduran FETÖ İzi! Furkancılar Operasyonunun Perde Arkası</description>
     </item>
   </channel>
 </rss>
