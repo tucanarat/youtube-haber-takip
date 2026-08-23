@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 09:11:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 09:15:29 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Madencilerin, Enerji ve Tabii Kaynaklar Bakanlığı Önündeki Eylemi Devam Ediyor</title>
+      <link>https://www.youtube.com/watch?v=CI46wPGJxw0</link>
+      <guid isPermaLink="false">CI46wPGJxw0</guid>
+      <pubDate>Sun, 23 Aug 2026 09:15:11 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Madencilerin, Enerji ve Tabii Kaynaklar Bakanlığı Önündeki Eylemi Devam Ediyor</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI Türkiye-Katar İlişkileri Bozulacak mı? Namık Koçak - Hüsnü Mahalli ile Forum 23.08.26</title>
       <link>https://www.youtube.com/watch?v=yAxksE_nPGg</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">sOzeaiukiIU</guid>
       <pubDate>Sat, 22 Aug 2026 22:34:14 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Madenciler, Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: CHP İstanbul İl Başkanı Gürsel Tekin, rozet takma töreninde açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=oGyc3JUwKLw</link>
-      <guid isPermaLink="false">oGyc3JUwKLw</guid>
-      <pubDate>Sat, 22 Aug 2026 22:19:12 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP İstanbul İl Başkanı Gürsel Tekin, rozet takma töreninde açıklama yapıyor #Canlı</description>
     </item>
   </channel>
 </rss>
