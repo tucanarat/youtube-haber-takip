@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 17:40:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 17:45:29 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: Erdoğan'ın Uykularını Kaçıracak İttifak! Ümit Özdağ Düğmeye Bastı! ANKARA'DA HESAPLAR DEĞİŞİYOR</title>
       <link>https://www.youtube.com/watch?v=VGiIGufUzpg</link>
       <guid isPermaLink="false">VGiIGufUzpg</guid>
       <pubDate>Sun, 23 Aug 2026 17:30:12 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Erdoğan'ın Uykularını Kaçıracak İttifak! Ümit Özdağ Düğmeye Bastı! ANKARA'DA HESAPLAR DEĞİŞİYOR</description>
+    </item>
+    <item>
+      <title>Halk TV: Kayıp gencin annesi beyin kanaması geçirdi! Dedesi gözyaşlarıyla seslendi!</title>
+      <link>https://www.youtube.com/watch?v=Mm-qxwB7_5I</link>
+      <guid isPermaLink="false">Mm-qxwB7_5I</guid>
+      <pubDate>Sun, 23 Aug 2026 17:30:05 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Kayıp gencin annesi beyin kanaması geçirdi! Dedesi gözyaşlarıyla seslendi!</description>
     </item>
     <item>
       <title>Halk TV: Çerçeve yasa ile yeni aşama başlıyor! “İzleme Kurulu” hafta başında toplanıyor!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">brBbkHif3qw</guid>
       <pubDate>Sun, 23 Aug 2026 11:14:16 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Özel: "Rize başbakan çıkarmış bir memleket. YENİ Parti'ye gösterilen bu ilgi umut verici"</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel: "Dik dur geri adım atma, sen yürü arkandayız" dediniz, ben yürüdüm arkamdan geldiniz!</title>
-      <link>https://www.youtube.com/shorts/Sds1uS59e_I</link>
-      <guid isPermaLink="false">Sds1uS59e_I</guid>
-      <pubDate>Sun, 23 Aug 2026 11:13:38 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel: "Dik dur geri adım atma, sen yürü arkandayız" dediniz, ben yürüdüm arkamdan geldiniz!</description>
     </item>
   </channel>
 </rss>
