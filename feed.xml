@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 16:00:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 16:05:24 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: 3T Mekanizması ve Çözüm Sürecinin Perde Arkası! Beştepe Kulisleri Çalkalanıyor! Uzman İsim Anlattı</title>
+      <link>https://www.youtube.com/watch?v=XmbY_b0DxyQ</link>
+      <guid isPermaLink="false">XmbY_b0DxyQ</guid>
+      <pubDate>Sun, 23 Aug 2026 16:00:01 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: 3T Mekanizması ve Çözüm Sürecinin Perde Arkası! Beştepe Kulisleri Çalkalanıyor! Uzman İsim Anlattı</description>
+    </item>
     <item>
       <title>Halk TV: KULİSLER HAREKETLENDİ... 5 siyasi parti lideri, Ümit Özdağ'ın ev sahipliğinde bir araya geldi!</title>
       <link>https://www.youtube.com/watch?v=RO2HaJZGwuo</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">n2XmPaQbJY4</guid>
       <pubDate>Sun, 23 Aug 2026 10:30:14 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: 'TÜRK ORDUSU ÇOK GÜÇLÜ' Tom Barrack'tan İsrail'e Gözdağı! Netanyahu'ya Tokat Gibi Uyarı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Oto lastikçisi damada esprili hediye: Düğünde takılan hediye görenleri güldürdü</title>
-      <link>https://www.youtube.com/shorts/Z-l1BPFn3A4</link>
-      <guid isPermaLink="false">Z-l1BPFn3A4</guid>
-      <pubDate>Sun, 23 Aug 2026 10:20:51 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Oto lastikçisi damada esprili hediye: Düğünde takılan hediye görenleri güldürdü</description>
     </item>
   </channel>
 </rss>
