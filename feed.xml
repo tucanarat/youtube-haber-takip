@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 18:55:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 19:00:48 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: YENİ Partili Gizem Özcan’dan ezber bozacak iddia! “Siyasetin akışını tersine çevireceğiz!”</title>
+      <link>https://www.youtube.com/watch?v=IEGipAM1gZc</link>
+      <guid isPermaLink="false">IEGipAM1gZc</guid>
+      <pubDate>Sun, 23 Aug 2026 18:50:38 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YENİ Partili Gizem Özcan’dan ezber bozacak iddia! “Siyasetin akışını tersine çevireceğiz!”</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Ankara’nın Mamak ilçesinde ağaçlık alanda çıkan yangına ekipler müdahale ediyor!</title>
       <link>https://www.youtube.com/watch?v=w7Kjb6KAy48</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">dgVn1M5aHLs</guid>
       <pubDate>Sun, 23 Aug 2026 11:54:24 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Partili Gökhan Günaydın'a dert yanan Yozgatlı yurttaşın sözleri gündem olur!</description>
-    </item>
-    <item>
-      <title>Halk TV: Doruk Maden işçisinden sarsıcı sözler: Ben sağlığımı kaybettim, beyefendi hala itibar diyor!</title>
-      <link>https://www.youtube.com/shorts/Kmb_foALWeE</link>
-      <guid isPermaLink="false">Kmb_foALWeE</guid>
-      <pubDate>Sun, 23 Aug 2026 11:54:11 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Doruk Maden işçisinden sarsıcı sözler: Ben sağlığımı kaybettim, beyefendi hala itibar diyor!</description>
     </item>
   </channel>
 </rss>
