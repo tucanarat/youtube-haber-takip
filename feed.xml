@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 21:05:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 21:10:31 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Sözün Aslı | Aslı Kurtuluş Mutlu | 23 Ağustos</title>
+      <link>https://www.youtube.com/watch?v=tMQ36EJlcpo</link>
+      <guid isPermaLink="false">tMQ36EJlcpo</guid>
+      <pubDate>Sun, 23 Aug 2026 21:04:27 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Sözün Aslı | Aslı Kurtuluş Mutlu | 23 Ağustos</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: BEŞTEPE'DE KRİTİK ZİRVE! Devlet Bahçeli ve Erdoğan'ın Planı Bu Olabilir! İmralı Detayı</title>
+      <link>https://www.youtube.com/watch?v=RGKNJFMZSn8</link>
+      <guid isPermaLink="false">RGKNJFMZSn8</guid>
+      <pubDate>Sun, 23 Aug 2026 21:00:02 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: BEŞTEPE'DE KRİTİK ZİRVE! Devlet Bahçeli ve Erdoğan'ın Planı Bu Olabilir! İmralı Detayı</description>
+    </item>
     <item>
       <title>Halk TV: Ersin Eroğlu’ndan çarpıcı iddia! “Türkiye’nin en az %10’u cemaat ya da tarikat mensubu!”</title>
       <link>https://www.youtube.com/watch?v=R9_8_frcFE8</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">OjotS4VuLo4</guid>
       <pubDate>Sun, 23 Aug 2026 14:00:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: ERDOĞAN'A BÜYÜK ŞOK! Mustafa Balbay Bombayı Patlattı! Özgür Özel, Ekrem İmamoğlu Kulisleri</description>
-    </item>
-    <item>
-      <title>Halk TV: Yıllarca AKP'ye oy veren vatandaştan Erdoğan'ı şoke edecek çıkış! YENİ Partili Günaydın'a dert yandı</title>
-      <link>https://www.youtube.com/watch?v=8x8wQNwaJPA</link>
-      <guid isPermaLink="false">8x8wQNwaJPA</guid>
-      <pubDate>Sun, 23 Aug 2026 13:40:12 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Yıllarca AKP'ye oy veren vatandaştan Erdoğan'ı şoke edecek çıkış! YENİ Partili Günaydın'a dert yandı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: 'İDLİB'TEN İSTANBULA SALDIRIRIZ' İsrail'den Türkiye'ye Saldırı Hazırlığı İddiası! Küstah Tehdit</title>
-      <link>https://www.youtube.com/watch?v=5yncDnFKN34</link>
-      <guid isPermaLink="false">5yncDnFKN34</guid>
-      <pubDate>Sun, 23 Aug 2026 13:30:12 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: 'İDLİB'TEN İSTANBULA SALDIRIRIZ' İsrail'den Türkiye'ye Saldırı Hazırlığı İddiası! Küstah Tehdit</description>
     </item>
   </channel>
 </rss>
