@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 21:50:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 21:50:28 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Ankara’nın Mamak ilçesinde ağaçlık alanda çıkan yangına ekipler müdahale ediyor!</title>
+      <link>https://www.youtube.com/watch?v=2PWLSNaVlB4</link>
+      <guid isPermaLink="false">2PWLSNaVlB4</guid>
+      <pubDate>Sun, 23 Aug 2026 21:46:39 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Ankara’nın Mamak ilçesinde ağaçlık alanda çıkan yangına ekipler müdahale ediyor!</description>
+    </item>
+    <item>
+      <title>Halk TV: SON DAKİKA! Halk TV olay yerinde! Mamak’taki yangının nedeni belli oldu!</title>
+      <link>https://www.youtube.com/watch?v=fYAEqIjxxA4</link>
+      <guid isPermaLink="false">fYAEqIjxxA4</guid>
+      <pubDate>Sun, 23 Aug 2026 21:40:17 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! Halk TV olay yerinde! Mamak’taki yangının nedeni belli oldu!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Yavuz Selim Demirağ'dan Ümit Dikbayır ve İYİ Parti Bombası! Ankara Kulisleri Yanacak</title>
       <link>https://www.youtube.com/watch?v=uLAYqyGpi-I</link>
@@ -54,13 +68,6 @@
       <link>https://www.youtube.com/watch?v=w7Kjb6KAy48</link>
       <guid isPermaLink="false">w7Kjb6KAy48</guid>
       <pubDate>Sun, 23 Aug 2026 20:49:51 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Ankara’nın Mamak ilçesinde ağaçlık alanda çıkan yangına ekipler müdahale ediyor!</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Ankara’nın Mamak ilçesinde ağaçlık alanda çıkan yangına ekipler müdahale ediyor!</title>
-      <link>https://www.youtube.com/watch?v=2PWLSNaVlB4</link>
-      <guid isPermaLink="false">2PWLSNaVlB4</guid>
-      <pubDate>Sun, 23 Aug 2026 20:42:04 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | Ankara’nın Mamak ilçesinde ağaçlık alanda çıkan yangına ekipler müdahale ediyor!</description>
     </item>
     <item>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">aFGaIx8vLB4</guid>
       <pubDate>Sun, 23 Aug 2026 14:21:12 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Gökhan Günaydın'dan asgari ücret iddiası: 'Bölgesel asgari ücret açıklamaya hazırlanıyorlar'</description>
-    </item>
-    <item>
-      <title>Halk TV: GEBZE'DE KORKUTAN GÖRÜNTÜLER! Ormanlık alanda başlayan yangın büyüdü! Ekipler müdahale ediyor!</title>
-      <link>https://www.youtube.com/watch?v=pGP6MV-OQmg</link>
-      <guid isPermaLink="false">pGP6MV-OQmg</guid>
-      <pubDate>Sun, 23 Aug 2026 14:20:26 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: GEBZE'DE KORKUTAN GÖRÜNTÜLER! Ormanlık alanda başlayan yangın büyüdü! Ekipler müdahale ediyor!</description>
     </item>
   </channel>
 </rss>
