@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 15:35:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 15:40:29 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: İsrail'in Hayalleri Suya Düşecek! Türkiye'nin Orta Doğu'yu Sallaycak Planı! Özgür Tör Anlattı</title>
+      <link>https://www.youtube.com/watch?v=8VXBFA2n89A</link>
+      <guid isPermaLink="false">8VXBFA2n89A</guid>
+      <pubDate>Sun, 23 Aug 2026 15:30:16 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İsrail'in Hayalleri Suya Düşecek! Türkiye'nin Orta Doğu'yu Sallaycak Planı! Özgür Tör Anlattı</description>
+    </item>
     <item>
       <title>Halk TV: Kocaeli’nin Dilovası ilçesinde çıkan orman yangınına ekiplerin havadan ve karadan müdahalesi sürüyor</title>
       <link>https://www.youtube.com/watch?v=0pyO3W8vh94</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">p-pHH5g-i7A</guid>
       <pubDate>Sun, 23 Aug 2026 10:10:37 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Müsavat Dervişoğlu, Celal Bayar’ın anıt mezarını ziyaret etti</description>
-    </item>
-    <item>
-      <title>Halk TV: BÖYLESİ NE GÖRÜLDÜ NE DUYULDU! Seri katil dehşeti 11 yıl sonra aydınlatıldı! Detaylar kan dondurur!</title>
-      <link>https://www.youtube.com/watch?v=ZH49tAYFXCQ</link>
-      <guid isPermaLink="false">ZH49tAYFXCQ</guid>
-      <pubDate>Sun, 23 Aug 2026 10:05:35 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BÖYLESİ NE GÖRÜLDÜ NE DUYULDU! Seri katil dehşeti 11 yıl sonra aydınlatıldı! Detaylar kan dondurur!</description>
     </item>
   </channel>
 </rss>
