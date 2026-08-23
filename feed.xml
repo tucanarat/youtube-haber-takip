@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 12:00:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 12:05:27 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: KILIÇDAROĞLU'NDAN GÖZDAĞI GİBİ SÖZLER! Kendisine hediye edilen sopayı görünce bakın ne tepki verdi!</title>
+      <link>https://www.youtube.com/watch?v=Tm60d90Ah5c</link>
+      <guid isPermaLink="false">Tm60d90Ah5c</guid>
+      <pubDate>Sun, 23 Aug 2026 12:04:09 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KILIÇDAROĞLU'NDAN GÖZDAĞI GİBİ SÖZLER! Kendisine hediye edilen sopayı görünce bakın ne tepki verdi!</description>
+    </item>
     <item>
       <title>Halk TV: Gülşah Ekinci ile Öğle Haberleri (23 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=wp5m0KIClTY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">vaFbYeuBSjs</guid>
       <pubDate>Sun, 23 Aug 2026 07:57:02 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Tarikatları dağıtacak bir iktidar lazım! - Zülal Kalkandelen</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Oyyy Rize! Haydi gidelim haydi! - Orhan Bursalı</title>
-      <link>https://www.youtube.com/watch?v=3ZYF9D_OwdY</link>
-      <guid isPermaLink="false">3ZYF9D_OwdY</guid>
-      <pubDate>Sun, 23 Aug 2026 07:57:01 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Oyyy Rize! Haydi gidelim haydi! - Orhan Bursalı</description>
     </item>
   </channel>
 </rss>
