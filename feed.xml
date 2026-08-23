@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 21:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 21:20:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SON DAKİKA! Halk TV yangın bölgesinde! Ekiplerin müdahalesi anbean kamerada!</title>
+      <link>https://www.youtube.com/watch?v=ZTNMtjK4m7M</link>
+      <guid isPermaLink="false">ZTNMtjK4m7M</guid>
+      <pubDate>Sun, 23 Aug 2026 21:05:01 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! Halk TV yangın bölgesinde! Ekiplerin müdahalesi anbean kamerada!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Sözün Aslı | Aslı Kurtuluş Mutlu | 23 Ağustos</title>
       <link>https://www.youtube.com/watch?v=tMQ36EJlcpo</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">OpDQ1Eg_nkw</guid>
       <pubDate>Sun, 23 Aug 2026 14:02:21 +0000</pubDate>
       <description>Halk TV kanalından yeni video: AKP KENDİ SİLAHIYLA VURULDU! Yeniden Refahlı isim AKP'li vatandaşı üye yapınca kıyameti kopardılar!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: ERDOĞAN'A BÜYÜK ŞOK! Mustafa Balbay Bombayı Patlattı! Özgür Özel, Ekrem İmamoğlu Kulisleri</title>
-      <link>https://www.youtube.com/watch?v=OjotS4VuLo4</link>
-      <guid isPermaLink="false">OjotS4VuLo4</guid>
-      <pubDate>Sun, 23 Aug 2026 14:00:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: ERDOĞAN'A BÜYÜK ŞOK! Mustafa Balbay Bombayı Patlattı! Özgür Özel, Ekrem İmamoğlu Kulisleri</description>
     </item>
   </channel>
 </rss>
