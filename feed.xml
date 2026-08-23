@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 08:30:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 08:35:22 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ERDOĞAN'A MEMLEKETİNDEN SOĞUK DUŞ! Özgür Özel Rize'de adım atacak yer bulamadı! İşte o görüntüler!</title>
+      <link>https://www.youtube.com/watch?v=7BUqE4LYcPw</link>
+      <guid isPermaLink="false">7BUqE4LYcPw</guid>
+      <pubDate>Sun, 23 Aug 2026 08:25:09 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ERDOĞAN'A MEMLEKETİNDEN SOĞUK DUŞ! Özgür Özel Rize'de adım atacak yer bulamadı! İşte o görüntüler!</description>
+    </item>
     <item>
       <title>Halk TV: ANKARA KULİSLERİ ALEV ALEV! Siyasette 'Milliyetçi ittifak' doğuyor! Gündem o toplantıyla sarsıldı!</title>
       <link>https://www.youtube.com/watch?v=cOrtzkR0FXs</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">6kwaqBDJNCw</guid>
       <pubDate>Sat, 22 Aug 2026 20:15:04 +0000</pubDate>
       <description>Halk TV kanalından yeni video: GÜNDEM OLAN ANLAR! YENİ Parti lideri Özgür Özel, Rize'de Rize simidi ve Anzer balıyla karşılandı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: NETANYAHU'NUN TEHLİKELİ TÜRKİYE PLANI! Naim Babüroğlu MOSSAD Tehlikesini İfşa Etti!</title>
-      <link>https://www.youtube.com/watch?v=G3nzFKS7BZg</link>
-      <guid isPermaLink="false">G3nzFKS7BZg</guid>
-      <pubDate>Sat, 22 Aug 2026 20:10:16 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: NETANYAHU'NUN TEHLİKELİ TÜRKİYE PLANI! Naim Babüroğlu MOSSAD Tehlikesini İfşa Etti!</description>
     </item>
   </channel>
 </rss>
