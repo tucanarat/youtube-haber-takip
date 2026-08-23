@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 07:00:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 07:05:24 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Alparslan Kuytul ve Eşi Tutuklandı! Kan Donduran FETÖ İzi! Furkancılar Operasyonunun Perde Arkası</title>
+      <link>https://www.youtube.com/watch?v=A-kwXFvsQ4U</link>
+      <guid isPermaLink="false">A-kwXFvsQ4U</guid>
+      <pubDate>Sun, 23 Aug 2026 07:00:12 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Alparslan Kuytul ve Eşi Tutuklandı! Kan Donduran FETÖ İzi! Furkancılar Operasyonunun Perde Arkası</description>
+    </item>
     <item>
       <title>Halk TV: Nevra Öner ile Hafta Sonu Sabah (23 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=h_bNKAp7lvw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">IFNjO3dZEeg</guid>
       <pubDate>Sat, 22 Aug 2026 16:54:36 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Hafta Sonu Ana Haber | Serap Belovacıklı 22 Ağustos</description>
-    </item>
-    <item>
-      <title>Halk TV: Beşiktaş, yarın oynayacağı Corendon Alanyaspor maçı için uçakla Antalya Gazipaşa’ya geldi!</title>
-      <link>https://www.youtube.com/shorts/LTMkXeKKBws</link>
-      <guid isPermaLink="false">LTMkXeKKBws</guid>
-      <pubDate>Sat, 22 Aug 2026 16:45:05 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Beşiktaş, yarın oynayacağı Corendon Alanyaspor maçı için uçakla Antalya Gazipaşa’ya geldi!</description>
     </item>
   </channel>
 </rss>
