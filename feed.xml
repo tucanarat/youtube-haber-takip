@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 10:00:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 10:02:04 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: MÜJDE! Ev Hanımlarına Emeklilik Yolu Açılıyor! Primleri Devlet Ödeyecek</title>
+      <link>https://www.youtube.com/watch?v=U7SED0epMAI</link>
+      <guid isPermaLink="false">U7SED0epMAI</guid>
+      <pubDate>Sun, 23 Aug 2026 10:00:15 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: MÜJDE! Ev Hanımlarına Emeklilik Yolu Açılıyor! Primleri Devlet Ödeyecek</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Gülşah Ekinci ile Öğle Haberleri</title>
       <link>https://www.youtube.com/watch?v=wp5m0KIClTY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">A-kwXFvsQ4U</guid>
       <pubDate>Sun, 23 Aug 2026 07:00:12 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Alparslan Kuytul ve Eşi Tutuklandı! Kan Donduran FETÖ İzi! Furkancılar Operasyonunun Perde Arkası</description>
-    </item>
-    <item>
-      <title>Halk TV: Nevra Öner ile Hafta Sonu Sabah (23 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=h_bNKAp7lvw</link>
-      <guid isPermaLink="false">h_bNKAp7lvw</guid>
-      <pubDate>Sun, 23 Aug 2026 06:54:30 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Nevra Öner ile Hafta Sonu Sabah (23 Ağustos 2026)</description>
     </item>
   </channel>
 </rss>
