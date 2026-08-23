@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 19:30:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 19:35:24 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SON ANKETLERİ İŞARET ETTİ! Ertunç Özün’den yargı süreçlerine sert eleştiri!</title>
+      <link>https://www.youtube.com/watch?v=HmLteqK9IPg</link>
+      <guid isPermaLink="false">HmLteqK9IPg</guid>
+      <pubDate>Sun, 23 Aug 2026 19:30:39 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON ANKETLERİ İŞARET ETTİ! Ertunç Özün’den yargı süreçlerine sert eleştiri!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: "AKP'ye Geçişimi Meral Akşener Engelledi!" Ümit Dikbayır'dan Türkiye'yi Sarsacak Açıklamalar</title>
+      <link>https://www.youtube.com/watch?v=XsC5Z3HqW3w</link>
+      <guid isPermaLink="false">XsC5Z3HqW3w</guid>
+      <pubDate>Sun, 23 Aug 2026 19:30:03 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: "AKP'ye Geçişimi Meral Akşener Engelledi!" Ümit Dikbayır'dan Türkiye'yi Sarsacak Açıklamalar</description>
+    </item>
     <item>
       <title>Halk TV: SON DAKİKA! Ankara’da alevler her yeri sardı! Ağaçlık alan bir anda alevlere teslim oldu!</title>
       <link>https://www.youtube.com/watch?v=MB31sM2EkeM</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">WLwa4gVLN2w</guid>
       <pubDate>Sun, 23 Aug 2026 12:18:01 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Müsavat Dervişoğlu Çeltikçi'de çiftçilerle buluştu</description>
-    </item>
-    <item>
-      <title>Halk TV: KILIÇDAROĞLU'NDAN GÖZDAĞI GİBİ SÖZLER! Kendisine hediye edilen sopayı görünce bakın ne tepki verdi!</title>
-      <link>https://www.youtube.com/watch?v=Tm60d90Ah5c</link>
-      <guid isPermaLink="false">Tm60d90Ah5c</guid>
-      <pubDate>Sun, 23 Aug 2026 12:04:09 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KILIÇDAROĞLU'NDAN GÖZDAĞI GİBİ SÖZLER! Kendisine hediye edilen sopayı görünce bakın ne tepki verdi!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Devletin Zirvesinde Cemaat Krizi! Fatih Ergin'den Şok FETÖ ve Tarikat İddiaları "İKTİDAR SIKIŞTI!"</title>
-      <link>https://www.youtube.com/watch?v=fuSrO_Qznvk</link>
-      <guid isPermaLink="false">fuSrO_Qznvk</guid>
-      <pubDate>Sun, 23 Aug 2026 12:00:24 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Devletin Zirvesinde Cemaat Krizi! Fatih Ergin'den Şok FETÖ ve Tarikat İddiaları "İKTİDAR SIKIŞTI!"</description>
     </item>
   </channel>
 </rss>
