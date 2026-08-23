@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 17:33:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 17:35:24 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Erdoğan'ın Uykularını Kaçıracak İttifak! Ümit Özdağ Düğmeye Bastı! ANKARA'DA HESAPLAR DEĞİŞİYOR</title>
+      <link>https://www.youtube.com/watch?v=VGiIGufUzpg</link>
+      <guid isPermaLink="false">VGiIGufUzpg</guid>
+      <pubDate>Sun, 23 Aug 2026 17:30:12 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Erdoğan'ın Uykularını Kaçıracak İttifak! Ümit Özdağ Düğmeye Bastı! ANKARA'DA HESAPLAR DEĞİŞİYOR</description>
+    </item>
     <item>
       <title>Halk TV: Çerçeve yasa ile yeni aşama başlıyor! “İzleme Kurulu” hafta başında toplanıyor!</title>
       <link>https://www.youtube.com/watch?v=gwD6Y9hZnx4</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Sds1uS59e_I</guid>
       <pubDate>Sun, 23 Aug 2026 11:13:38 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Özel: "Dik dur geri adım atma, sen yürü arkandayız" dediniz, ben yürüdüm arkamdan geldiniz!</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel'den Erdoğan'ın memleketinde gövde gösterisi! Gören boynuna sarıldı!</title>
-      <link>https://www.youtube.com/shorts/hqTXI2dKZLc</link>
-      <guid isPermaLink="false">hqTXI2dKZLc</guid>
-      <pubDate>Sun, 23 Aug 2026 11:13:21 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel'den Erdoğan'ın memleketinde gövde gösterisi! Gören boynuna sarıldı!</description>
     </item>
   </channel>
 </rss>
