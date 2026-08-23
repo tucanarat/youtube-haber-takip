@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 20:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 20:30:40 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Günlerce AKP’ye geçeceği konuldu… Ümit Dikbayır, Erdoğan ile yaptığı o görüşmeyi ilk kez anlattı!</title>
+      <link>https://www.youtube.com/watch?v=uiEZaHkiuA4</link>
+      <guid isPermaLink="false">uiEZaHkiuA4</guid>
+      <pubDate>Sun, 23 Aug 2026 20:10:39 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Günlerce AKP’ye geçeceği konuldu… Ümit Dikbayır, Erdoğan ile yaptığı o görüşmeyi ilk kez anlattı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: ÖCALAN "KURUL BAŞKANI" MI OLUYOR? Uğur Poyraz'dan Çarpıcı Süreç Çıkışı!</title>
       <link>https://www.youtube.com/watch?v=Ox0VHrwYS6Y</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">N7j1YAHWQKY</guid>
       <pubDate>Sun, 23 Aug 2026 12:42:05 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BU ÇIKIŞ ANKARA'DA DEPREM ETKİSİ YARATACAK! Haklarını arayan madencilerin tepkisi yeri göğü inletti!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: FETÖ'den Sonra Ne Değişti? Tarikatların "Masa, Kasa, Nisa" Üçgeni! Fatih Ergenekon Tek Tek Anlattı</title>
-      <link>https://www.youtube.com/watch?v=mr-u05gOBZo</link>
-      <guid isPermaLink="false">mr-u05gOBZo</guid>
-      <pubDate>Sun, 23 Aug 2026 12:30:11 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: FETÖ'den Sonra Ne Değişti? Tarikatların "Masa, Kasa, Nisa" Üçgeni! Fatih Ergenekon Tek Tek Anlattı</description>
     </item>
   </channel>
 </rss>
