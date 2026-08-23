@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 08:40:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 08:44:10 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: AKP'ye Geçen Belediyelerle Bahçeli ve Kılıçdaroğlu'nun Dönüşümüne Mahalli'nin Tepkisi! "Akıl Almaz!</title>
       <link>https://www.youtube.com/watch?v=E1mWX-_9U5M</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">7BUqE4LYcPw</guid>
       <pubDate>Sun, 23 Aug 2026 08:25:09 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ERDOĞAN'A MEMLEKETİNDEN SOĞUK DUŞ! Özgür Özel Rize'de adım atacak yer bulamadı! İşte o görüntüler!</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: PTT çalışanını kurtaran Heimlich manevrası kamerada</title>
+      <link>https://www.youtube.com/shorts/eAXBiVzS4B8</link>
+      <guid isPermaLink="false">eAXBiVzS4B8</guid>
+      <pubDate>Sun, 23 Aug 2026 08:24:08 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: PTT çalışanını kurtaran Heimlich manevrası kamerada</description>
     </item>
     <item>
       <title>Halk TV: ANKARA KULİSLERİ ALEV ALEV! Siyasette 'Milliyetçi ittifak' doğuyor! Gündem o toplantıyla sarsıldı!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">UdjSyOzj8Tw</guid>
       <pubDate>Sat, 22 Aug 2026 20:31:50 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Masada Ne Var? | Burak Tatari | 22 Ağustos</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti lideri Özgür Özel’in, Rize’de esnafla o konuşması gündem oldu</title>
-      <link>https://www.youtube.com/shorts/L-37ZR8emXM</link>
-      <guid isPermaLink="false">L-37ZR8emXM</guid>
-      <pubDate>Sat, 22 Aug 2026 20:30:20 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti lideri Özgür Özel’in, Rize’de esnafla o konuşması gündem oldu</description>
     </item>
   </channel>
 </rss>
