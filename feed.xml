@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 12:10:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 12:15:28 +0000</lastBuildDate>
     <item>
       <title>Halk TV: KILIÇDAROĞLU'NDAN GÖZDAĞI GİBİ SÖZLER! Kendisine hediye edilen sopayı görünce bakın ne tepki verdi!</title>
       <link>https://www.youtube.com/watch?v=Tm60d90Ah5c</link>
       <guid isPermaLink="false">Tm60d90Ah5c</guid>
       <pubDate>Sun, 23 Aug 2026 12:04:09 +0000</pubDate>
       <description>Halk TV kanalından yeni video: KILIÇDAROĞLU'NDAN GÖZDAĞI GİBİ SÖZLER! Kendisine hediye edilen sopayı görünce bakın ne tepki verdi!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Devletin Zirvesinde Cemaat Krizi! Fatih Ergin'den Şok FETÖ ve Tarikat İddiaları "İKTİDAR SIKIŞTI!"</title>
+      <link>https://www.youtube.com/watch?v=fuSrO_Qznvk</link>
+      <guid isPermaLink="false">fuSrO_Qznvk</guid>
+      <pubDate>Sun, 23 Aug 2026 12:00:24 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Devletin Zirvesinde Cemaat Krizi! Fatih Ergin'den Şok FETÖ ve Tarikat İddiaları "İKTİDAR SIKIŞTI!"</description>
     </item>
     <item>
       <title>Halk TV: Gülşah Ekinci ile Öğle Haberleri (23 Ağustos 2026)</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">g8ZzBe0yD1M</guid>
       <pubDate>Sun, 23 Aug 2026 07:57:04 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: TC vatandaşları aptal değildir! - Emre Kongar</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Tarikatları dağıtacak bir iktidar lazım! - Zülal Kalkandelen</title>
-      <link>https://www.youtube.com/watch?v=vaFbYeuBSjs</link>
-      <guid isPermaLink="false">vaFbYeuBSjs</guid>
-      <pubDate>Sun, 23 Aug 2026 07:57:02 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Tarikatları dağıtacak bir iktidar lazım! - Zülal Kalkandelen</description>
     </item>
   </channel>
 </rss>
