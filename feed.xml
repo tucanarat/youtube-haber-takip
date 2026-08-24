@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 10:45:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 10:50:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SİLİVRİ'DE NEFESLER TUTULDU! Aziz İhsan Aktaş davasında 200 kişi için karar günü! İşte tüm detaylar!</title>
+      <link>https://www.youtube.com/watch?v=Z8MIh5o1kVM</link>
+      <guid isPermaLink="false">Z8MIh5o1kVM</guid>
+      <pubDate>Mon, 24 Aug 2026 10:45:15 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SİLİVRİ'DE NEFESLER TUTULDU! Aziz İhsan Aktaş davasında 200 kişi için karar günü! İşte tüm detaylar!</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Kuşadası'nda Bülent Ersoy krizi: Sahneye geç çıkınca protesto edildi</title>
+      <link>https://www.youtube.com/shorts/G7UmJUTxEGE</link>
+      <guid isPermaLink="false">G7UmJUTxEGE</guid>
+      <pubDate>Mon, 24 Aug 2026 10:37:00 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Kuşadası'nda Bülent Ersoy krizi: Sahneye geç çıkınca protesto edildi</description>
+    </item>
     <item>
       <title>Halk TV: BOMBA DETAY AKP KULİSİNDEN SIZDI! Çerçeve yasanın uygulama ayrıntıları ortaya çıktı! Ankara ayakta!</title>
       <link>https://www.youtube.com/watch?v=vYUT5vS0_Cs</link>
@@ -41,6 +55,13 @@
       <guid isPermaLink="false">uonySPqnVyw</guid>
       <pubDate>Mon, 24 Aug 2026 10:15:02 +0000</pubDate>
       <description>Halk TV kanalından yeni video: VE O KİRLİ KUMPASI SİLİVRİ'DEN İFŞALADI! İmamoğlu bu sözlerle ortalığı sallar! Neler anlattı neler!</description>
+    </item>
+    <item>
+      <title>Halk TV: ERDOĞAN'A YOLUN SONU GÖZÜKTÜ! Mehmet Tezkan, Beştepe'ye acı reçeteyi yazdı! Tüm ezberler bozuldu!</title>
+      <link>https://www.youtube.com/watch?v=C59CHjt6DUk</link>
+      <guid isPermaLink="false">C59CHjt6DUk</guid>
+      <pubDate>Mon, 24 Aug 2026 10:13:02 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ERDOĞAN'A YOLUN SONU GÖZÜKTÜ! Mehmet Tezkan, Beştepe'ye acı reçeteyi yazdı! Tüm ezberler bozuldu!</description>
     </item>
     <item>
       <title>Cumhuriyet: Aziz İhsan Aktaş davasında karar günü | Avcılar Belediye Başkanı Çaykara:Beraat edeceğime inanıyorum</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">qUAhjd1fqUY</guid>
       <pubDate>Mon, 24 Aug 2026 08:02:02 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Ahmet Özer: Görevimizin başına dönmeyi, Esenyurt'a hizmet etmeyi bekliyoruz!</description>
-    </item>
-    <item>
-      <title>Halk TV: Ankara Mamak'ta ağaçlık alandaki yangının çıkış anı kamerada!</title>
-      <link>https://www.youtube.com/shorts/xGAiyeuEFck</link>
-      <guid isPermaLink="false">xGAiyeuEFck</guid>
-      <pubDate>Mon, 24 Aug 2026 08:01:39 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ankara Mamak'ta ağaçlık alandaki yangının çıkış anı kamerada!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Süleymancılar Dosyasında Çakarlı Araç Gizemi! İdris Naim Şahin'e Tahsisli Araçta FETÖ İzi</title>
-      <link>https://www.youtube.com/watch?v=fHV2v4FD9vM</link>
-      <guid isPermaLink="false">fHV2v4FD9vM</guid>
-      <pubDate>Mon, 24 Aug 2026 08:00:36 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Süleymancılar Dosyasında Çakarlı Araç Gizemi! İdris Naim Şahin'e Tahsisli Araçta FETÖ İzi</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Trabzonspor, Fabinho transferini resmen duyurdu: Uçaktan ilk mesajı verdi</title>
-      <link>https://www.youtube.com/shorts/sRx4bCEPmZA</link>
-      <guid isPermaLink="false">sRx4bCEPmZA</guid>
-      <pubDate>Mon, 24 Aug 2026 08:00:18 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Trabzonspor, Fabinho transferini resmen duyurdu: Uçaktan ilk mesajı verdi</description>
     </item>
   </channel>
 </rss>
