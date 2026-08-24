@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 19:30:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 19:35:27 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: Hilmi Hacaloğlu'ndan butlancılara şok soru: Aklan gel diyenler Zeydan Karalar'ı ihraç mı edecekler?</title>
       <link>https://www.youtube.com/watch?v=zknkUjSEcfQ</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">zp9wDVCc6jI</guid>
       <pubDate>Mon, 24 Aug 2026 19:22:24 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Polis müdahalesinde yaralanan İYİ Parti vekili Selçuk Türkoğlu: Çok ağır vurdular</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: 'Siyasallaştı' Bartu Soral AKP'deki Depremi Anlattı! 4 Trilyonluk Vergi Muhafiyeti Kime Gidiyor?</title>
+      <link>https://www.youtube.com/watch?v=fMR9zqC3WXs</link>
+      <guid isPermaLink="false">fMR9zqC3WXs</guid>
+      <pubDate>Mon, 24 Aug 2026 19:20:01 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: 'Siyasallaştı' Bartu Soral AKP'deki Depremi Anlattı! 4 Trilyonluk Vergi Muhafiyeti Kime Gidiyor?</description>
     </item>
     <item>
       <title>Halk TV: SON DAKİKA! Yeni Parti rekor üstüne rekor kırıyor! Bağış kampanyasında 26 günlük tutar açıklandı!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Ys4tKTgFrj0</guid>
       <pubDate>Mon, 24 Aug 2026 16:15:32 +0000</pubDate>
       <description>Halk TV kanalından yeni video: "GÖREVE DÖNÜŞÜMÜN ÖNÜNDE ENGEL DEĞİL!" Ahmet Özer, çıkan karara sert tepki gösterdi!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Er şehit yakınları ve er gaziler polis ablukasında</title>
-      <link>https://www.youtube.com/watch?v=PVSG2XmNwBw</link>
-      <guid isPermaLink="false">PVSG2XmNwBw</guid>
-      <pubDate>Mon, 24 Aug 2026 16:05:47 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Er şehit yakınları ve er gaziler polis ablukasında</description>
     </item>
   </channel>
 </rss>
