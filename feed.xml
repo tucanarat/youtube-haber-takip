@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 00:05:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 00:10:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Ankara Mamak'ta ağaçlık alanda çıkan yangına itfaiye ekiplerince müdahale ediliyor! #shorts</title>
+      <link>https://www.youtube.com/shorts/iz1tC6QFGsM</link>
+      <guid isPermaLink="false">iz1tC6QFGsM</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:25 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Ankara Mamak'ta ağaçlık alanda çıkan yangına itfaiye ekiplerince müdahale ediliyor! #shorts</description>
+    </item>
     <item>
       <title>Halk TV: Sorun çözülmezse, Doruk Maden işçileri Çarşamba günü Saray’a gidecek! #shorts</title>
       <link>https://www.youtube.com/shorts/Is_OM5ahe2M</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">z_f8C6OrUdo</guid>
       <pubDate>Sun, 23 Aug 2026 16:50:09 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Yeniden Refah Partisi’nden AKP’ye ters köşe! İl başkanı AKP’li vatandaşı yolda YRP’li yaptı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İsrail'in Suriye Planı Deşifre Oldu! Hedefte Türkiye mi Var? Özgür Tör Gizli Planı Haritada Anlattı</title>
-      <link>https://www.youtube.com/watch?v=bKFMktnVTVI</link>
-      <guid isPermaLink="false">bKFMktnVTVI</guid>
-      <pubDate>Sun, 23 Aug 2026 16:30:34 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İsrail'in Suriye Planı Deşifre Oldu! Hedefte Türkiye mi Var? Özgür Tör Gizli Planı Haritada Anlattı</description>
     </item>
   </channel>
 </rss>
