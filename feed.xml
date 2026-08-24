@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 17:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 17:37:35 +0000</lastBuildDate>
     <item>
       <title>Halk TV: NEFESLER TUTULDU! Aziz İhsan Aktaş Davasında Karar Açıklanıyor! İşte Anbean Gelişmeler!</title>
       <link>https://www.youtube.com/watch?v=CCQB379fmQk</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">ZN9omcjMV-U</guid>
       <pubDate>Mon, 24 Aug 2026 17:31:01 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Aziz İhsan Aktaş davası sonrası Gül Çiftci Silivri'de açıklama yapıyor #Canlı</description>
+    </item>
+    <item>
+      <title>Halk TV: GÖZLER AİHM KARARINDA! Osman Kavala için son söz yarın söylenecek: Ankara bu karar için teyakkuzda!</title>
+      <link>https://www.youtube.com/watch?v=204DYXYwoww</link>
+      <guid isPermaLink="false">204DYXYwoww</guid>
+      <pubDate>Mon, 24 Aug 2026 17:30:14 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: GÖZLER AİHM KARARINDA! Osman Kavala için son söz yarın söylenecek: Ankara bu karar için teyakkuzda!</description>
     </item>
     <item>
       <title>Tele2 Haber: SALİM ŞEN, ZEYDAN KARALAR'IN HAPİS CEZASINA İSYAN ETTİ!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ShK6-L7wiRU</guid>
       <pubDate>Mon, 24 Aug 2026 14:34:03 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Er şehit yakınları ve er gaziler polis ablukasında</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Er şehit yakınları ve er gaziler polis ablukasında / Ankara #Canlı</title>
-      <link>https://www.youtube.com/watch?v=Rrbl5K-rK9c</link>
-      <guid isPermaLink="false">Rrbl5K-rK9c</guid>
-      <pubDate>Mon, 24 Aug 2026 14:33:49 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Er şehit yakınları ve er gaziler polis ablukasında / Ankara #Canlı</description>
     </item>
   </channel>
 </rss>
