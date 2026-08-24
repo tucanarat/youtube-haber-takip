@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 15:15:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 15:20:31 +0000</lastBuildDate>
     <item>
-      <title>Halk TV: #CANLI | Aziz İhsan Aktaş davası sonrası Ahmet Özer Silivri’de açıklama yapıyor</title>
+      <title>Halk TV: Aziz İhsan Aktaş davası sonrası Ahmet Özer Silivri’de açıklama yaptı!</title>
       <link>https://www.youtube.com/watch?v=2Vxa_LPOe_g</link>
       <guid isPermaLink="false">2Vxa_LPOe_g</guid>
-      <pubDate>Mon, 24 Aug 2026 15:09:39 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Aziz İhsan Aktaş davası sonrası Ahmet Özer Silivri’de açıklama yapıyor</description>
+      <pubDate>Mon, 24 Aug 2026 15:18:02 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Aziz İhsan Aktaş davası sonrası Ahmet Özer Silivri’de açıklama yaptı!</description>
+    </item>
+    <item>
+      <title>Halk TV: 1 Eylül'den sonra ortalık hareketlenecek! Gazeteci Ersin Eroğlu, çarpıcı değerlendirmelerde bulundu!</title>
+      <link>https://www.youtube.com/watch?v=6wk9NtT7xOI</link>
+      <guid isPermaLink="false">6wk9NtT7xOI</guid>
+      <pubDate>Mon, 24 Aug 2026 15:10:11 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: 1 Eylül'den sonra ortalık hareketlenecek! Gazeteci Ersin Eroğlu, çarpıcı değerlendirmelerde bulundu!</description>
     </item>
     <item>
       <title>Tele2 Haber: #CANLI Aziz İhsan Aktaş davası sonrası Ahmet Özer Silivri’de açıklama yapıyor #Canlı</title>
@@ -20,6 +27,13 @@
       <guid isPermaLink="false">98aaKv8aTPc</guid>
       <pubDate>Mon, 24 Aug 2026 15:09:28 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Aziz İhsan Aktaş davası sonrası Ahmet Özer Silivri’de açıklama yapıyor #Canlı</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: Aziz İhsan Aktaş davası sonrası Ahmet Özer Silivri’de açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=dx66PTDqGyc</link>
+      <guid isPermaLink="false">dx66PTDqGyc</guid>
+      <pubDate>Mon, 24 Aug 2026 15:08:29 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Aziz İhsan Aktaş davası sonrası Ahmet Özer Silivri’de açıklama yapıyor #Canlı</description>
     </item>
     <item>
       <title>Halk TV: Şehit Aileleri Ve Gaziler Derneği Genel Başkanı Erdem Çerçioğlu Açıklama Yapıyor!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">SaYsNouTx_8</guid>
       <pubDate>Mon, 24 Aug 2026 13:00:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SARAY’IN SAKLADIĞI DETAYLARI DİKBAYIR PATLATTI! Erdoğan bunları demiş! Mehmet Tezkan'dan flaş sözler</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Erkan Baş Yıllardır Merak Edilen O Soruyu Yanıtladı: Parayı Bulan Solculuktan Vazgeçer mi?</title>
-      <link>https://www.youtube.com/watch?v=21tduxumeDk</link>
-      <guid isPermaLink="false">21tduxumeDk</guid>
-      <pubDate>Mon, 24 Aug 2026 13:00:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Erkan Baş Yıllardır Merak Edilen O Soruyu Yanıtladı: Parayı Bulan Solculuktan Vazgeçer mi?</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Aziz İhsan Aktaş Davasında karar günü! Muhabirimiz Batuhan Serim Silivri’de yaşananları anlattı</title>
-      <link>https://www.youtube.com/watch?v=mkSd8_IZ5o4</link>
-      <guid isPermaLink="false">mkSd8_IZ5o4</guid>
-      <pubDate>Mon, 24 Aug 2026 12:47:54 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Aziz İhsan Aktaş Davasında karar günü! Muhabirimiz Batuhan Serim Silivri’de yaşananları anlattı</description>
     </item>
   </channel>
 </rss>
