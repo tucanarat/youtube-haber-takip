@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 07:13:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 07:15:29 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Erdoğan'ın Korkulu Rüyası! Ümit Özdağ Liderleri Topladı! Milliyetçi İttifak mı Geliyor?</title>
+      <link>https://www.youtube.com/watch?v=Tu9-NTo89aA</link>
+      <guid isPermaLink="false">Tu9-NTo89aA</guid>
+      <pubDate>Mon, 24 Aug 2026 07:00:42 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Erdoğan'ın Korkulu Rüyası! Ümit Özdağ Liderleri Topladı! Milliyetçi İttifak mı Geliyor?</description>
+    </item>
     <item>
       <title>Halk TV: SÜREÇTE EN KRİTİK AŞAMA BAŞLIYOR! Öcalan'ın alacağı rol belli oldu! O aşamayı bizzat takip edecekmiş</title>
       <link>https://www.youtube.com/watch?v=MJnCfrqHt4Q</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">MB31sM2EkeM</guid>
       <pubDate>Sun, 23 Aug 2026 19:05:18 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SON DAKİKA! Ankara’da alevler her yeri sardı! Ağaçlık alan bir anda alevlere teslim oldu!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Netanyahu'dan Türkiye'ye Küstah Tehdit! İdlib'den İstanbul'a Vururuz" Ankara Düğmeye Bastı</title>
-      <link>https://www.youtube.com/watch?v=u_gbbS4gHVE</link>
-      <guid isPermaLink="false">u_gbbS4gHVE</guid>
-      <pubDate>Sun, 23 Aug 2026 19:00:10 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Netanyahu'dan Türkiye'ye Küstah Tehdit! İdlib'den İstanbul'a Vururuz" Ankara Düğmeye Bastı</description>
     </item>
   </channel>
 </rss>
