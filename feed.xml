@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 15:35:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 15:40:36 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: Aziz İhsan Aktaş davası sonrası Ahmet Özer Silivri’de açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=dx66PTDqGyc</link>
       <guid isPermaLink="false">dx66PTDqGyc</guid>
       <pubDate>Mon, 24 Aug 2026 15:33:56 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Aziz İhsan Aktaş davası sonrası Ahmet Özer Silivri’de açıklama yapıyor #Canlı</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Ahmet Özer'den Aziz İhsan Aktaş davası kararlarına ilk tepki: BARIŞÇIL ORTAMI SABOTE ETTİ</title>
+      <link>https://www.youtube.com/watch?v=qkp5dSbClvY</link>
+      <guid isPermaLink="false">qkp5dSbClvY</guid>
+      <pubDate>Mon, 24 Aug 2026 15:33:26 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Ahmet Özer'den Aziz İhsan Aktaş davası kararlarına ilk tepki: BARIŞÇIL ORTAMI SABOTE ETTİ</description>
     </item>
     <item>
       <title>Halk TV: Aziz İhsan Aktaş davası sonrası Gül Çiftci Silivri'de açıklama yapıyor</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">RU03OT1c9PU</guid>
       <pubDate>Mon, 24 Aug 2026 13:07:59 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Er Şehit Yakınları ve Er Gaziler Kurtuluş Parkı'nda Polis Ablukasında! (24 Ağustos 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti Sözcüsü Zeynel Emre TBMM'de Açıklama Yaptı! (24 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=stdK6TvZbRA</link>
-      <guid isPermaLink="false">stdK6TvZbRA</guid>
-      <pubDate>Mon, 24 Aug 2026 13:04:08 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti Sözcüsü Zeynel Emre TBMM'de Açıklama Yaptı! (24 Ağustos 2026)</description>
     </item>
   </channel>
 </rss>
