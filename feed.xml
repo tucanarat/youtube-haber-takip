@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 03:00:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 03:05:28 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: Gökhan Günaydın "Tüketilme ve Yoksullaştırma Politikalarına Karşı Emek Buluşması"nda konuşuyor</title>
       <link>https://www.youtube.com/watch?v=V2r6b549ISw</link>
@@ -62,6 +62,13 @@
       <guid isPermaLink="false">-dowo_GqQYY</guid>
       <pubDate>Sun, 23 Aug 2026 23:00:28 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Yavuz Ağıralioğlu’ndan enflasyon çıkışı! “Enflasyonun sebebi hükümet!” #shorts</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Süheyla Demir ile Günaydın Türkiye</title>
+      <link>https://www.youtube.com/watch?v=K3s658gWTGk</link>
+      <guid isPermaLink="false">K3s658gWTGk</guid>
+      <pubDate>Sun, 23 Aug 2026 22:46:01 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Süheyla Demir ile Günaydın Türkiye</description>
     </item>
     <item>
       <title>Halk TV: Alparslan Kuytul ve eşi Semra  Kuytul’un tutuklanması, Furkan mensupları tarafından protesto edildi!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">3QPX1PvVsvU</guid>
       <pubDate>Sun, 23 Aug 2026 17:00:22 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İMRALI'DA TUTANAK KRİZİ! O İddialar Yalanlandı | AKP ve MHP'den Yeni İnfaz Düzenlemesi</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Hafta Sonu Ana Haber | Senem Toluay Ilgaz  | 23 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=hmJrZO3m3HQ</link>
-      <guid isPermaLink="false">hmJrZO3m3HQ</guid>
-      <pubDate>Sun, 23 Aug 2026 16:57:03 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Hafta Sonu Ana Haber | Senem Toluay Ilgaz  | 23 Ağustos</description>
     </item>
   </channel>
 </rss>
