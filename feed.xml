@@ -6,13 +6,13 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 15:20:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 15:25:24 +0000</lastBuildDate>
     <item>
-      <title>Halk TV: Aziz İhsan Aktaş davası sonrası Ahmet Özer Silivri’de açıklama yaptı!</title>
-      <link>https://www.youtube.com/watch?v=2Vxa_LPOe_g</link>
-      <guid isPermaLink="false">2Vxa_LPOe_g</guid>
-      <pubDate>Mon, 24 Aug 2026 15:18:02 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Aziz İhsan Aktaş davası sonrası Ahmet Özer Silivri’de açıklama yaptı!</description>
+      <title>ANKA Haber Ajansı: Aziz İhsan Aktaş davası sonrası Gül Çiftci Silivri'de açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=ZN9omcjMV-U</link>
+      <guid isPermaLink="false">ZN9omcjMV-U</guid>
+      <pubDate>Mon, 24 Aug 2026 15:23:22 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Aziz İhsan Aktaş davası sonrası Gül Çiftci Silivri'de açıklama yapıyor #Canlı</description>
     </item>
     <item>
       <title>Halk TV: 1 Eylül'den sonra ortalık hareketlenecek! Gazeteci Ersin Eroğlu, çarpıcı değerlendirmelerde bulundu!</title>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">6wk9NtT7xOI</guid>
       <pubDate>Mon, 24 Aug 2026 15:10:11 +0000</pubDate>
       <description>Halk TV kanalından yeni video: 1 Eylül'den sonra ortalık hareketlenecek! Gazeteci Ersin Eroğlu, çarpıcı değerlendirmelerde bulundu!</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Aziz İhsan Aktaş davası sonrası Ahmet Özer Silivri’de açıklama yapıyor</title>
+      <link>https://www.youtube.com/watch?v=2Vxa_LPOe_g</link>
+      <guid isPermaLink="false">2Vxa_LPOe_g</guid>
+      <pubDate>Mon, 24 Aug 2026 15:09:39 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Aziz İhsan Aktaş davası sonrası Ahmet Özer Silivri’de açıklama yapıyor</description>
     </item>
     <item>
       <title>Tele2 Haber: #CANLI Aziz İhsan Aktaş davası sonrası Ahmet Özer Silivri’de açıklama yapıyor #Canlı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">5XkhkgMNst8</guid>
       <pubDate>Mon, 24 Aug 2026 13:01:02 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İrem Sansak ile Haber Masası (24 Ağustos 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: SARAY’IN SAKLADIĞI DETAYLARI DİKBAYIR PATLATTI! Erdoğan bunları demiş! Mehmet Tezkan'dan flaş sözler</title>
-      <link>https://www.youtube.com/watch?v=SaYsNouTx_8</link>
-      <guid isPermaLink="false">SaYsNouTx_8</guid>
-      <pubDate>Mon, 24 Aug 2026 13:00:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SARAY’IN SAKLADIĞI DETAYLARI DİKBAYIR PATLATTI! Erdoğan bunları demiş! Mehmet Tezkan'dan flaş sözler</description>
     </item>
   </channel>
 </rss>
