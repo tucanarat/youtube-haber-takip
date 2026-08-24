@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 17:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 17:25:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: DEMİRTAŞ BOMBAYI PATLATTI! 'Görev almak istiyorum' deyip orayı işaret etti! Yer yerinden oynayacak!</title>
+      <link>https://www.youtube.com/watch?v=qsqMGBXc-uQ</link>
+      <guid isPermaLink="false">qsqMGBXc-uQ</guid>
+      <pubDate>Mon, 24 Aug 2026 17:15:32 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: DEMİRTAŞ BOMBAYI PATLATTI! 'Görev almak istiyorum' deyip orayı işaret etti! Yer yerinden oynayacak!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Örgüt iddiası nasıl çöktü? Hukukçu Salim Şen Aziz İhsan Aktaş davası kararlarını değerlendirdi</title>
       <link>https://www.youtube.com/watch?v=cowNfKaRDXA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">BKi9JTcI2Zc</guid>
       <pubDate>Mon, 24 Aug 2026 14:20:18 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Madencilerin bakanlık önündeki eylemi 15. gününde:  "Benim yuvam yıkılmak üzere"</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! FLAŞ KARAR! 430 gün cezaevinde yatan Utku Caner Çaykara tüm suçlamalardan beraat etti!</title>
-      <link>https://www.youtube.com/watch?v=3JuWyxUFsrY</link>
-      <guid isPermaLink="false">3JuWyxUFsrY</guid>
-      <pubDate>Mon, 24 Aug 2026 14:10:39 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! FLAŞ KARAR! 430 gün cezaevinde yatan Utku Caner Çaykara tüm suçlamalardan beraat etti!</description>
     </item>
   </channel>
 </rss>
