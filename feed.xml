@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 23:40:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 23:45:29 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: İYİ Parti Sözcüsü Buğra Kavuncu, parti genel merkezinde basın açıklaması yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=CaL07cxIljQ</link>
+      <guid isPermaLink="false">CaL07cxIljQ</guid>
+      <pubDate>Mon, 24 Aug 2026 23:41:20 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: İYİ Parti Sözcüsü Buğra Kavuncu, parti genel merkezinde basın açıklaması yapıyor #Canlı</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: CHP İstanbul İl Başkanı Gürsel Tekin, İstanbul İş Adamları Derneği'ni ziyaret ediyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=1yG-FXAwKa0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">dKNSsO9XNig</guid>
       <pubDate>Mon, 24 Aug 2026 18:40:26 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Alper Taş'tan Gündem Olacak Aziz İhsan Aktaş Çıkışı! İmamoğlu'na Tuzak Uyarısı! Yeni Rejim İddiası</description>
-    </item>
-    <item>
-      <title>Halk TV: İYİ Parti Milletvekili Selçuk Türkoğlu ile danışmanının, polis tarafından darp edildiği öne sürüldü!</title>
-      <link>https://www.youtube.com/shorts/2CSQM5Eut8o</link>
-      <guid isPermaLink="false">2CSQM5Eut8o</guid>
-      <pubDate>Mon, 24 Aug 2026 18:35:24 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İYİ Parti Milletvekili Selçuk Türkoğlu ile danışmanının, polis tarafından darp edildiği öne sürüldü!</description>
     </item>
   </channel>
 </rss>
