@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 21:10:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 21:15:34 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: Hafta Başı | Ekrem Açıkel | 24 Ağustos</title>
       <link>https://www.youtube.com/watch?v=hFeyQ4qyYXc</link>
@@ -27,6 +27,13 @@
       <guid isPermaLink="false">nC42YXfhH1E</guid>
       <pubDate>Mon, 24 Aug 2026 21:00:26 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Ahmet Özer'in kızı Seraf Özer'den tepki: Koltuk hırslarının bedelini hayatlarımızla ödüyoruz.</description>
+    </item>
+    <item>
+      <title>Halk TV: YENİ PARTİ'DEN EYLÜL PLANI! Milletvekilleri 81 ilde sahaya iniyor!</title>
+      <link>https://www.youtube.com/watch?v=mTBqsVhzXz4</link>
+      <guid isPermaLink="false">mTBqsVhzXz4</guid>
+      <pubDate>Mon, 24 Aug 2026 21:00:13 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YENİ PARTİ'DEN EYLÜL PLANI! Milletvekilleri 81 ilde sahaya iniyor!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: #CANLI S Raporu | Dilan Polat</title>
@@ -288,11 +295,11 @@
       <description>SÖZCÜ TV kanalından yeni video: Trump'ın Netanyahu Sabrı Taştı! Ankara-Tel Aviv Hattında Suriye Gerginliği! Golan Tepeleri Şartı</description>
     </item>
     <item>
-      <title>Tele2 Haber: İYİ Parti Vekil Selçuk Türkoğlu'na gazileri ziyaretinde polis müdahalesi!</title>
+      <title>Tele2 Haber: İYİ Parti Vekili Selçuk Türkoğlu'na gazileri ziyaretinde polis müdahalesi!</title>
       <link>https://www.youtube.com/watch?v=DoGmA7Ne_5Q</link>
       <guid isPermaLink="false">DoGmA7Ne_5Q</guid>
       <pubDate>Mon, 24 Aug 2026 18:00:12 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: İYİ Parti Vekil Selçuk Türkoğlu'na gazileri ziyaretinde polis müdahalesi!</description>
+      <description>Tele2 Haber kanalından yeni video: İYİ Parti Vekili Selçuk Türkoğlu'na gazileri ziyaretinde polis müdahalesi!</description>
     </item>
     <item>
       <title>Tele2 Haber: #CANLI Ülkü Çoban ile Manşet Ötesi (25.08.26)</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ZN9omcjMV-U</guid>
       <pubDate>Mon, 24 Aug 2026 17:31:01 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Aziz İhsan Aktaş davası sonrası Gül Çiftci Silivri'de açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: GÖZLER AİHM KARARINDA! Osman Kavala için son söz yarın söylenecek: Ankara bu karar için teyakkuzda!</title>
-      <link>https://www.youtube.com/watch?v=204DYXYwoww</link>
-      <guid isPermaLink="false">204DYXYwoww</guid>
-      <pubDate>Mon, 24 Aug 2026 17:30:14 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: GÖZLER AİHM KARARINDA! Osman Kavala için son söz yarın söylenecek: Ankara bu karar için teyakkuzda!</description>
     </item>
   </channel>
 </rss>
