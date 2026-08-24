@@ -6,13 +6,13 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 14:10:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 14:15:30 +0000</lastBuildDate>
     <item>
-      <title>Halk TV: GÖZLER SİLİVRİ'YE KİLİTLENDİ! Aziz İhsan Aktaş Davasında Kararlar Açıklanıyor!</title>
-      <link>https://www.youtube.com/watch?v=CBDQoNDLIwY</link>
-      <guid isPermaLink="false">CBDQoNDLIwY</guid>
-      <pubDate>Mon, 24 Aug 2026 14:09:23 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: GÖZLER SİLİVRİ'YE KİLİTLENDİ! Aziz İhsan Aktaş Davasında Kararlar Açıklanıyor!</description>
+      <title>Tele2 Haber: #CANLI Er şehit yakınları ve er gaziler polis ablukasında</title>
+      <link>https://www.youtube.com/watch?v=PVSG2XmNwBw</link>
+      <guid isPermaLink="false">PVSG2XmNwBw</guid>
+      <pubDate>Mon, 24 Aug 2026 14:10:29 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Er şehit yakınları ve er gaziler polis ablukasında</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Er şehit yakınları ve er gaziler polis ablukasında #Canlı</title>
@@ -118,6 +118,13 @@
       <guid isPermaLink="false">MiCDEee98m4</guid>
       <pubDate>Mon, 24 Aug 2026 13:11:51 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Başaran Aksu: "İşçi çocuğunun geleceğine çökerek büyümüşler. Onların çocukları için kavga veriyoruz"</description>
+    </item>
+    <item>
+      <title>Halk TV: GÖZLER SİLİVRİ'YE KİLİTLENDİ! Aziz İhsan Aktaş Davasında Kararlar Açıklanıyor!</title>
+      <link>https://www.youtube.com/watch?v=CBDQoNDLIwY</link>
+      <guid isPermaLink="false">CBDQoNDLIwY</guid>
+      <pubDate>Mon, 24 Aug 2026 13:10:45 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: GÖZLER SİLİVRİ'YE KİLİTLENDİ! Aziz İhsan Aktaş Davasında Kararlar Açıklanıyor!</description>
     </item>
     <item>
       <title>Halk TV: Madenci: "Her felakette gönüllü olarak biz vardık. Bu kez biz çağırıyoruz. Lütfedip gelin Bakanlar"</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">qk37PPxLyss</guid>
       <pubDate>Mon, 24 Aug 2026 11:18:38 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Karma eğitim yine hedefte! Karaman'da erkek ve kız öğrencilerin pansiyonları ayrılacak</description>
-    </item>
-    <item>
-      <title>Halk TV: KRİTİK TOPLANTI BUGÜN! Süreç kurulu bu gündemle toplanıyor! Ankara kulislerini sarsan gelişmeler!</title>
-      <link>https://www.youtube.com/watch?v=3wgnJSE5oKs</link>
-      <guid isPermaLink="false">3wgnJSE5oKs</guid>
-      <pubDate>Mon, 24 Aug 2026 11:15:16 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KRİTİK TOPLANTI BUGÜN! Süreç kurulu bu gündemle toplanıyor! Ankara kulislerini sarsan gelişmeler!</description>
     </item>
   </channel>
 </rss>
