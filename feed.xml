@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 00:15:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 00:20:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Ankara Mamak'ta orman yangını! Yerleşim yerlerine yakın noktada yükselen alevler gökyüzünü kapladı!</title>
+      <link>https://www.youtube.com/shorts/ae_096W50V8</link>
+      <guid isPermaLink="false">ae_096W50V8</guid>
+      <pubDate>Mon, 24 Aug 2026 00:15:14 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Ankara Mamak'ta orman yangını! Yerleşim yerlerine yakın noktada yükselen alevler gökyüzünü kapladı!</description>
+    </item>
     <item>
       <title>Halk TV: Ankara Mamak'ta ağaçlık alanda çıkan yangına itfaiye ekiplerince müdahale ediliyor! #shorts</title>
       <link>https://www.youtube.com/shorts/iz1tC6QFGsM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">PYm-mgt80oE</guid>
       <pubDate>Sun, 23 Aug 2026 16:55:07 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | Gülşah Ekinci ile Hafta Sonu Ana Haber</description>
-    </item>
-    <item>
-      <title>Halk TV: Yeniden Refah Partisi’nden AKP’ye ters köşe! İl başkanı AKP’li vatandaşı yolda YRP’li yaptı!</title>
-      <link>https://www.youtube.com/watch?v=z_f8C6OrUdo</link>
-      <guid isPermaLink="false">z_f8C6OrUdo</guid>
-      <pubDate>Sun, 23 Aug 2026 16:50:09 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Yeniden Refah Partisi’nden AKP’ye ters köşe! İl başkanı AKP’li vatandaşı yolda YRP’li yaptı!</description>
     </item>
   </channel>
 </rss>
