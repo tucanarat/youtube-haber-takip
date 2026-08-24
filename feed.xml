@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 07:35:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 07:40:29 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: BU DA OLDU... Kayseri'de AKP'li belediyenin yaptırdığı dev havuz erkeklere serbest kadınlara yasak!</title>
+      <link>https://www.youtube.com/watch?v=l0kmY06QACs</link>
+      <guid isPermaLink="false">l0kmY06QACs</guid>
+      <pubDate>Mon, 24 Aug 2026 07:30:27 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BU DA OLDU... Kayseri'de AKP'li belediyenin yaptırdığı dev havuz erkeklere serbest kadınlara yasak!</description>
+    </item>
     <item>
       <title>Halk TV: Aziz İhsan Aktaş davasında karar günü: Zeydan Karalar Silivri'ye geldi!</title>
       <link>https://www.youtube.com/shorts/7KGeRX9hEkk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Ox0VHrwYS6Y</guid>
       <pubDate>Sun, 23 Aug 2026 20:00:07 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: ÖCALAN "KURUL BAŞKANI" MI OLUYOR? Uğur Poyraz'dan Çarpıcı Süreç Çıkışı!</description>
-    </item>
-    <item>
-      <title>Halk TV: SİYASETTE YENİ PERDE! Ayşen Şahin’den muhalefet için dikkat çeken sözler!</title>
-      <link>https://www.youtube.com/watch?v=6qohXityw-0</link>
-      <guid isPermaLink="false">6qohXityw-0</guid>
-      <pubDate>Sun, 23 Aug 2026 19:50:26 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SİYASETTE YENİ PERDE! Ayşen Şahin’den muhalefet için dikkat çeken sözler!</description>
     </item>
   </channel>
 </rss>
