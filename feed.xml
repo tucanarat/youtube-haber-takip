@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 16:45:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 16:50:31 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Er şehit yakınları ve er gaziler polis ablukasında #Canlı</title>
+      <link>https://www.youtube.com/watch?v=LuLo-VW6y5k</link>
+      <guid isPermaLink="false">LuLo-VW6y5k</guid>
+      <pubDate>Mon, 24 Aug 2026 16:48:53 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Er şehit yakınları ve er gaziler polis ablukasında #Canlı</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: 'İmralı görüşme notlarındaki' gariplik! Öcalan ne söyledi? DEM Parti'den 'ekleme-çıkarma' iddiası!</title>
+      <link>https://www.youtube.com/watch?v=rDrxcXLh9Dw</link>
+      <guid isPermaLink="false">rDrxcXLh9Dw</guid>
+      <pubDate>Mon, 24 Aug 2026 16:45:32 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: 'İmralı görüşme notlarındaki' gariplik! Öcalan ne söyledi? DEM Parti'den 'ekleme-çıkarma' iddiası!</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI Aziz İhsan Aktaş davası sonrası Ahmet Özer Silivri’de açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=98aaKv8aTPc</link>
@@ -295,13 +309,6 @@
       <description>Halk TV kanalından yeni video: GÖZLER SİLİVRİ'YE KİLİTLENDİ! Aziz İhsan Aktaş Davasında Kararlar Açıklanıyor! (24 Ağustos 2026)</description>
     </item>
     <item>
-      <title>ANKA Haber Ajansı: Er şehit yakınları ve er gaziler polis ablukasında #Canlı</title>
-      <link>https://www.youtube.com/watch?v=LuLo-VW6y5k</link>
-      <guid isPermaLink="false">LuLo-VW6y5k</guid>
-      <pubDate>Mon, 24 Aug 2026 14:07:44 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Er şehit yakınları ve er gaziler polis ablukasında #Canlı</description>
-    </item>
-    <item>
       <title>SÖZCÜ TV: Haber Bülteni | Burak Tatari | 24 Ağustos</title>
       <link>https://www.youtube.com/watch?v=VGhVH3R-OSA</link>
       <guid isPermaLink="false">VGhVH3R-OSA</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">qVbUFx4mgP4</guid>
       <pubDate>Mon, 24 Aug 2026 13:40:32 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Ağustos Ayında Bu Tarihlere Dikkat! Mars Yengeç Burcunda Neler Olacak? Öner Döşer Anlatıyor</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: ZEYNEL EMRE'DEN, İSAİL'İN PROVOKASYONUNA SERT TEPKİ!</title>
-      <link>https://www.youtube.com/shorts/XnC73n7E5sw</link>
-      <guid isPermaLink="false">XnC73n7E5sw</guid>
-      <pubDate>Mon, 24 Aug 2026 13:30:46 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: ZEYNEL EMRE'DEN, İSAİL'İN PROVOKASYONUNA SERT TEPKİ!</description>
     </item>
   </channel>
 </rss>
