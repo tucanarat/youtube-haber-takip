@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 07:50:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 07:55:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Gökhan Kayış ile Para Siyaset | Nesrin Nas - Öner Günçavdı (24 Ağustos 2026)</title>
+      <link>https://www.youtube.com/watch?v=6EIgZP3YaVw</link>
+      <guid isPermaLink="false">6EIgZP3YaVw</guid>
+      <pubDate>Mon, 24 Aug 2026 07:55:04 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Gökhan Kayış ile Para Siyaset | Nesrin Nas - Öner Günçavdı (24 Ağustos 2026)</description>
+    </item>
     <item>
       <title>Halk TV: İşte yoksulluğun geldiği tablo! Kırmızı et alamayan yurttaş, kasaplara "Kemik var mı" diye soruyor!</title>
       <link>https://www.youtube.com/watch?v=9Z2NjXB5DRk</link>
@@ -197,13 +204,6 @@
       <description>Halk TV kanalından yeni video: Yavuz Ağıralioğlu’ndan enflasyon çıkışı! “Enflasyonun sebebi hükümet!” #shorts</description>
     </item>
     <item>
-      <title>Halk TV: Gökhan Kayış ile Para Siyaset | Nesrin Nas - Öner Günçavdı (24 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=6EIgZP3YaVw</link>
-      <guid isPermaLink="false">6EIgZP3YaVw</guid>
-      <pubDate>Sun, 23 Aug 2026 22:47:11 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Gökhan Kayış ile Para Siyaset | Nesrin Nas - Öner Günçavdı (24 Ağustos 2026)</description>
-    </item>
-    <item>
       <title>Halk TV: Alparslan Kuytul ve eşi Semra  Kuytul’un tutuklanması, Furkan mensupları tarafından protesto edildi!</title>
       <link>https://www.youtube.com/shorts/3Nblp4seYZo</link>
       <guid isPermaLink="false">3Nblp4seYZo</guid>
@@ -260,11 +260,11 @@
       <description>SÖZCÜ TV kanalından yeni video: Öncesi Sonrası | Senem Toluay Ilgaz</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: #CANLI Sözcü Masası | Damla Doğan Tuncel</title>
+      <title>SÖZCÜ TV: Sözcü Masası | Damla Doğan Tuncel | 24 Ağustos</title>
       <link>https://www.youtube.com/watch?v=-mMZytqDV6E</link>
       <guid isPermaLink="false">-mMZytqDV6E</guid>
       <pubDate>Sun, 23 Aug 2026 22:19:17 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: #CANLI Sözcü Masası | Damla Doğan Tuncel</description>
+      <description>SÖZCÜ TV kanalından yeni video: Sözcü Masası | Damla Doğan Tuncel | 24 Ağustos</description>
     </item>
     <item>
       <title>Halk TV: YENİ Partili Gökhan Günaydın: AKP, seçim öncesi yol temizliği yapma derdinde!</title>
