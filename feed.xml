@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 09:30:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 09:35:25 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI Hilmi Hacaloğlu ve Ersin Eroğlu ile Kayıt Dışı (24.08.26)</title>
+      <link>https://www.youtube.com/watch?v=IVTD1p46MgI</link>
+      <guid isPermaLink="false">IVTD1p46MgI</guid>
+      <pubDate>Mon, 24 Aug 2026 09:34:21 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Hilmi Hacaloğlu ve Ersin Eroğlu ile Kayıt Dışı (24.08.26)</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #CANLI Murat Taylan ile Gerçek | Konuklar: Yaşar Aydın ve Emrah Gülsunar</title>
+      <link>https://www.youtube.com/watch?v=wH78D49KckQ</link>
+      <guid isPermaLink="false">wH78D49KckQ</guid>
+      <pubDate>Mon, 24 Aug 2026 09:31:59 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Murat Taylan ile Gerçek | Konuklar: Yaşar Aydın ve Emrah Gülsunar</description>
+    </item>
+    <item>
+      <title>Halk TV: CANLI YAYINDA ÇILGINA DÖNDÜ! Öner Günçavdı'dan AKP'nin kapısından dönen Ümit Dikbayır'a olay sözler!</title>
+      <link>https://www.youtube.com/watch?v=kkDvj6gT1uo</link>
+      <guid isPermaLink="false">kkDvj6gT1uo</guid>
+      <pubDate>Mon, 24 Aug 2026 09:30:08 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: CANLI YAYINDA ÇILGINA DÖNDÜ! Öner Günçavdı'dan AKP'nin kapısından dönen Ümit Dikbayır'a olay sözler!</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI Murat Taylan ile Haber-Yorum (24.08.26)</title>
       <link>https://www.youtube.com/watch?v=a8YBrO8Cd4s</link>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">ZNUIMkcGEeI</guid>
       <pubDate>Mon, 24 Aug 2026 07:30:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: "NATO BİZİ KORUMAZ" İsrail'in Suriye'deki Planı! Özgür Tör Haritada İsrail Tehlikesini Anlattı</description>
-    </item>
-    <item>
-      <title>Halk TV: Aziz İhsan Aktaş davasında karar günü: Zeydan Karalar Silivri'ye geldi!</title>
-      <link>https://www.youtube.com/shorts/7KGeRX9hEkk</link>
-      <guid isPermaLink="false">7KGeRX9hEkk</guid>
-      <pubDate>Mon, 24 Aug 2026 07:19:16 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Aziz İhsan Aktaş davasında karar günü: Zeydan Karalar Silivri'ye geldi!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: AKP'ye geçecek mi? Ümit Dikbayır'dan videolu açıklama: 'Teklif geldi, Erdoğan'la görüştüm'</title>
-      <link>https://www.youtube.com/watch?v=3cHzx7_HMPk</link>
-      <guid isPermaLink="false">3cHzx7_HMPk</guid>
-      <pubDate>Mon, 24 Aug 2026 07:14:32 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: AKP'ye geçecek mi? Ümit Dikbayır'dan videolu açıklama: 'Teklif geldi, Erdoğan'la görüştüm'</description>
-    </item>
-    <item>
-      <title>Halk TV: Zonguldak Alaplı'da korkutan gelişme! Şırnak Silopi'den gelen tarım işçileri taşlı saldırıya uğradı!</title>
-      <link>https://www.youtube.com/watch?v=CA0uoOc35xc</link>
-      <guid isPermaLink="false">CA0uoOc35xc</guid>
-      <pubDate>Mon, 24 Aug 2026 07:10:38 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Zonguldak Alaplı'da korkutan gelişme! Şırnak Silopi'den gelen tarım işçileri taşlı saldırıya uğradı!</description>
     </item>
   </channel>
 </rss>
