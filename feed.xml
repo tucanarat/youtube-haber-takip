@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 13:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 13:40:36 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: ZEYNEL EMRE'DEN, İSAİL'İN PROVOKASYONUNA SERT TEPKİ!</title>
       <link>https://www.youtube.com/shorts/XnC73n7E5sw</link>
       <guid isPermaLink="false">XnC73n7E5sw</guid>
       <pubDate>Mon, 24 Aug 2026 13:30:46 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: ZEYNEL EMRE'DEN, İSAİL'İN PROVOKASYONUNA SERT TEPKİ!</description>
+    </item>
+    <item>
+      <title>Halk TV: MİLYONLAR BU SKANDALLA SARSILACAK! Sebahattin Yıldız'ı yakacak belgeler ortalığa saçıldı!   Yok yok!</title>
+      <link>https://www.youtube.com/watch?v=w9fWpDP4zWs</link>
+      <guid isPermaLink="false">w9fWpDP4zWs</guid>
+      <pubDate>Mon, 24 Aug 2026 13:30:35 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: MİLYONLAR BU SKANDALLA SARSILACAK! Sebahattin Yıldız'ı yakacak belgeler ortalığa saçıldı!   Yok yok!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Cumhur İttifakı'nda Deprem! AKP ve MHP'yi Sallayan Anket! Çözüm Süreci Pahalıya Patladı</title>
@@ -64,11 +71,11 @@
       <description>Halk TV kanalından yeni video: Madenci: "Her felakette gönüllü olarak biz vardık. Bu kez biz çağırıyoruz. Lütfedip gelin Bakanlar"</description>
     </item>
     <item>
-      <title>Tele2 Haber: #CANLI Aziz İhsan Aktaş suç örgütüne ilişkin davada kararın açıklanması bekleniyor</title>
+      <title>Tele2 Haber: #CANLI Aziz İhsan Aktaş davasında kritik karar!</title>
       <link>https://www.youtube.com/watch?v=CgNH2uAeU90</link>
       <guid isPermaLink="false">CgNH2uAeU90</guid>
       <pubDate>Mon, 24 Aug 2026 13:10:11 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Aziz İhsan Aktaş suç örgütüne ilişkin davada kararın açıklanması bekleniyor</description>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Aziz İhsan Aktaş davasında kritik karar!</description>
     </item>
     <item>
       <title>Halk TV: "Bir gazeteci Sebahattin Yıldız'ın bu kadar serveti olduğunu biliyor da Bakanlık bilmiyor mu?"</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">vYUT5vS0_Cs</guid>
       <pubDate>Mon, 24 Aug 2026 10:30:28 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BOMBA DETAY AKP KULİSİNDEN SIZDI! Çerçeve yasanın uygulama ayrıntıları ortaya çıktı! Ankara ayakta!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: AVCILAR BELEDİYE BAŞKANI ÇAYKARA'DAN KARAR DURUŞMASI ÖNCESİ NET MESAJ!</title>
-      <link>https://www.youtube.com/shorts/56u2RvXunVY</link>
-      <guid isPermaLink="false">56u2RvXunVY</guid>
-      <pubDate>Mon, 24 Aug 2026 10:24:07 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: AVCILAR BELEDİYE BAŞKANI ÇAYKARA'DAN KARAR DURUŞMASI ÖNCESİ NET MESAJ!</description>
     </item>
   </channel>
 </rss>
