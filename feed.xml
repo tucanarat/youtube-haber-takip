@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 12:35:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 12:40:34 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: #CANLI YENİ Parti Sözcüsü Zeynel Emre TBMM'de açıklama yapıyor</title>
       <link>https://www.youtube.com/watch?v=QnAY7VEHftA</link>
       <guid isPermaLink="false">QnAY7VEHftA</guid>
       <pubDate>Mon, 24 Aug 2026 12:30:59 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti Sözcüsü Zeynel Emre TBMM'de açıklama yapıyor</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | YENİ Parti Sözcüsü Zeynel Emre TBMM'de Açıklama Yapıyor!</title>
+      <link>https://www.youtube.com/watch?v=stdK6TvZbRA</link>
+      <guid isPermaLink="false">stdK6TvZbRA</guid>
+      <pubDate>Mon, 24 Aug 2026 12:30:58 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti Sözcüsü Zeynel Emre TBMM'de Açıklama Yapıyor!</description>
+    </item>
+    <item>
+      <title>Halk TV: 200 KİŞİ İÇİN KARAR ÇIKACAK! Aziz İhsan Aktaş davasında kimin kaç yıl hapsi isteniyor? İşte detaylar</title>
+      <link>https://www.youtube.com/watch?v=GNwSvcBPeUU</link>
+      <guid isPermaLink="false">GNwSvcBPeUU</guid>
+      <pubDate>Mon, 24 Aug 2026 12:30:39 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: 200 KİŞİ İÇİN KARAR ÇIKACAK! Aziz İhsan Aktaş davasında kimin kaç yıl hapsi isteniyor? İşte detaylar</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: "33 haftalık hamileyim, 2,5 aydır kontrole gidemiyorum" #shorts</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">DKWXHi9Nyu8</guid>
       <pubDate>Mon, 24 Aug 2026 09:13:18 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Doruk Maden işçileri Yıldızlar Holding (SSS) önünde: "Mücadelemiz herkes için geçerli"</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Alev alan kamyonu dereye sürerek kurtardı!</title>
-      <link>https://www.youtube.com/shorts/Brji-Lp7h4s</link>
-      <guid isPermaLink="false">Brji-Lp7h4s</guid>
-      <pubDate>Mon, 24 Aug 2026 09:04:39 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Alev alan kamyonu dereye sürerek kurtardı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Utku Caner Çaykara: Beraat edeceğime yürekten inanıyorum!</title>
-      <link>https://www.youtube.com/shorts/3MQeJJS2P0E</link>
-      <guid isPermaLink="false">3MQeJJS2P0E</guid>
-      <pubDate>Mon, 24 Aug 2026 09:02:32 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Utku Caner Çaykara: Beraat edeceğime yürekten inanıyorum!</description>
     </item>
   </channel>
 </rss>
