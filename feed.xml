@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 09:10:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 09:15:32 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Alev alan kamyonu dereye sürerek kurtardı!</title>
+      <link>https://www.youtube.com/shorts/Brji-Lp7h4s</link>
+      <guid isPermaLink="false">Brji-Lp7h4s</guid>
+      <pubDate>Mon, 24 Aug 2026 09:04:39 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Alev alan kamyonu dereye sürerek kurtardı!</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Madenciler, Enerji Ve Tabii Kaynaklar Bakanlığı Önünde Açıklama Yapıyor!</title>
       <link>https://www.youtube.com/watch?v=PB1Cd8ArVr8</link>
@@ -20,6 +27,20 @@
       <guid isPermaLink="false">3MQeJJS2P0E</guid>
       <pubDate>Mon, 24 Aug 2026 09:02:32 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Utku Caner Çaykara: Beraat edeceğime yürekten inanıyorum!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #CANLI Maden işçileri, Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor</title>
+      <link>https://www.youtube.com/watch?v=qPOlEDlTFhM</link>
+      <guid isPermaLink="false">qPOlEDlTFhM</guid>
+      <pubDate>Mon, 24 Aug 2026 09:01:44 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Maden işçileri, Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: GİZLİ GÜÇ SAVAŞI! Saygı Öztürk'ten Tarikatlar Hakkında Çarpıcı İddia! Furkancılar, Süleymancılar...</title>
+      <link>https://www.youtube.com/watch?v=6seqAhD8Geo</link>
+      <guid isPermaLink="false">6seqAhD8Geo</guid>
+      <pubDate>Mon, 24 Aug 2026 09:00:36 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: GİZLİ GÜÇ SAVAŞI! Saygı Öztürk'ten Tarikatlar Hakkında Çarpıcı İddia! Furkancılar, Süleymancılar...</description>
     </item>
     <item>
       <title>Halk TV: SON DAKİKA! GÖREVİNDEN UZAKLAŞTIRILMIŞTI! Balçova Belediye Başkanı Onur Yiğit göreve iade edildi!</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">GYnqmvq8gQw</guid>
       <pubDate>Mon, 24 Aug 2026 06:41:25 +0000</pubDate>
       <description>Halk TV kanalından yeni video: 8 saatlik kabusun ilk saniyeleri ortaya çıktı: Mamak'taki yangının çıkış anı cep telefonuna yansıdı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Derin Devlet Değil Saklı Devlet! Erol Mütercimler Tüm Bildiklerini İlk Defa Anlattı!</title>
-      <link>https://www.youtube.com/watch?v=ZCHBlmiGWfw</link>
-      <guid isPermaLink="false">ZCHBlmiGWfw</guid>
-      <pubDate>Mon, 24 Aug 2026 06:30:26 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Derin Devlet Değil Saklı Devlet! Erol Mütercimler Tüm Bildiklerini İlk Defa Anlattı!</description>
-    </item>
-    <item>
-      <title>Halk TV: GÖZLER SİLİVRİ'DE! Aziz İhsan Aktaş davasında karar günü! Aylar süren yargılamada hüküm açıklanıyor!</title>
-      <link>https://www.youtube.com/watch?v=2-7U2yb2U0k</link>
-      <guid isPermaLink="false">2-7U2yb2U0k</guid>
-      <pubDate>Mon, 24 Aug 2026 06:28:18 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: GÖZLER SİLİVRİ'DE! Aziz İhsan Aktaş davasında karar günü! Aylar süren yargılamada hüküm açıklanıyor!</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | GÖZLER SİLİVRİ'DE! Aziz İhsan Aktaş Davasında Karar Günü! Yargılamada Hüküm Açıklanıyor!</title>
-      <link>https://www.youtube.com/watch?v=CCQB379fmQk</link>
-      <guid isPermaLink="false">CCQB379fmQk</guid>
-      <pubDate>Mon, 24 Aug 2026 05:46:35 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | GÖZLER SİLİVRİ'DE! Aziz İhsan Aktaş Davasında Karar Günü! Yargılamada Hüküm Açıklanıyor!</description>
     </item>
   </channel>
 </rss>
