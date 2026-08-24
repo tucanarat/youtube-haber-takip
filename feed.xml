@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 20:45:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 20:50:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: O İSİMLERE KABUS OLACAK ÇIKIŞ! Hukukçu Bahadır Erdem canlı yayında çileden çıktı!</title>
+      <link>https://www.youtube.com/watch?v=odZ4ECP_OLY</link>
+      <guid isPermaLink="false">odZ4ECP_OLY</guid>
+      <pubDate>Mon, 24 Aug 2026 20:45:32 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: O İSİMLERE KABUS OLACAK ÇIKIŞ! Hukukçu Bahadır Erdem canlı yayında çileden çıktı!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Turhan Çömez Ateş Püskürdü! İçişleri Bakanına Çağrı! Selçuk Türkoğlu Hastanelik Oldu</title>
+      <link>https://www.youtube.com/watch?v=KLeZ4D-RA0U</link>
+      <guid isPermaLink="false">KLeZ4D-RA0U</guid>
+      <pubDate>Mon, 24 Aug 2026 20:40:25 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Turhan Çömez Ateş Püskürdü! İçişleri Bakanına Çağrı! Selçuk Türkoğlu Hastanelik Oldu</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Türkiye Maden İş’e bağlı Doruk Maden işçileri, Yıldızlar Holding (SSS) önünde açıklama yapıyor</title>
       <link>https://www.youtube.com/watch?v=yJk1qrv32Ag</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">cowNfKaRDXA</guid>
       <pubDate>Mon, 24 Aug 2026 17:15:06 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Örgüt iddiası nasıl çöktü? Hukukçu Salim Şen Aziz İhsan Aktaş davası kararlarını değerlendirdi</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Kiralık Partili İfşası! CHP Etkinliğinde 250 Figüran Oyunu Bozuldu! Ajans Sahibinden Şok İtiraflar!</title>
-      <link>https://www.youtube.com/watch?v=jtUgUO5KDDI</link>
-      <guid isPermaLink="false">jtUgUO5KDDI</guid>
-      <pubDate>Mon, 24 Aug 2026 17:00:38 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Kiralık Partili İfşası! CHP Etkinliğinde 250 Figüran Oyunu Bozuldu! Ajans Sahibinden Şok İtiraflar!</description>
-    </item>
-    <item>
-      <title>Halk TV: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (24 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=CkQhRjENRVc</link>
-      <guid isPermaLink="false">CkQhRjENRVc</guid>
-      <pubDate>Mon, 24 Aug 2026 17:00:25 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (24 Ağustos 2026)</description>
     </item>
   </channel>
 </rss>
