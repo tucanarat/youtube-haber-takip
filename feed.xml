@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 14:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 14:07:07 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Haber Bülteni | Burak Tatari | 24 Ağustos</title>
+      <link>https://www.youtube.com/watch?v=VGhVH3R-OSA</link>
+      <guid isPermaLink="false">VGhVH3R-OSA</guid>
+      <pubDate>Mon, 24 Aug 2026 14:05:27 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Haber Bülteni | Burak Tatari | 24 Ağustos</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Belediye ekipleri 100 kediyle karşılaştı #shorts</title>
       <link>https://www.youtube.com/shorts/GHYN482tceg</link>
@@ -99,11 +106,11 @@
       <description>Halk TV kanalından yeni video: Başaran Aksu: "İşçi çocuğunun geleceğine çökerek büyümüşler. Onların çocukları için kavga veriyoruz"</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | GÖZLER SİLİVRİ'YE KİLİTLENDİ! Aziz İhsan Aktaş Davasında Kararlar Açıklanıyor!</title>
+      <title>Halk TV: GÖZLER SİLİVRİ'YE KİLİTLENDİ! Aziz İhsan Aktaş Davasında Kararlar Açıklanıyor!</title>
       <link>https://www.youtube.com/watch?v=CBDQoNDLIwY</link>
       <guid isPermaLink="false">CBDQoNDLIwY</guid>
       <pubDate>Mon, 24 Aug 2026 13:10:45 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | GÖZLER SİLİVRİ'YE KİLİTLENDİ! Aziz İhsan Aktaş Davasında Kararlar Açıklanıyor!</description>
+      <description>Halk TV kanalından yeni video: GÖZLER SİLİVRİ'YE KİLİTLENDİ! Aziz İhsan Aktaş Davasında Kararlar Açıklanıyor!</description>
     </item>
     <item>
       <title>Halk TV: Madenci: "Her felakette gönüllü olarak biz vardık. Bu kez biz çağırıyoruz. Lütfedip gelin Bakanlar"</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">o9SKSLNnRmA</guid>
       <pubDate>Mon, 24 Aug 2026 11:00:34 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Olağanüstü bir süreçten geçildiğini kaydeden YENİ Partili Gizem Özcan'dan çok çarpıcı sözler!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: AKP ve MHP'de Kulisler Kaynıyor! Ankara'da Neler Oluyor? Erdoğan ve Bahçeli'den Hamleler!</title>
-      <link>https://www.youtube.com/watch?v=L0rsWBULl90</link>
-      <guid isPermaLink="false">L0rsWBULl90</guid>
-      <pubDate>Mon, 24 Aug 2026 11:00:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: AKP ve MHP'de Kulisler Kaynıyor! Ankara'da Neler Oluyor? Erdoğan ve Bahçeli'den Hamleler!</description>
     </item>
   </channel>
 </rss>
