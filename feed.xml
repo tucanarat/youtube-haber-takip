@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 14:35:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 14:40:35 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: #CANLI Er şehit yakınları ve er gaziler polis ablukasında</title>
       <link>https://www.youtube.com/watch?v=ShK6-L7wiRU</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">Rrbl5K-rK9c</guid>
       <pubDate>Mon, 24 Aug 2026 14:33:49 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Er şehit yakınları ve er gaziler polis ablukasında / Ankara #Canlı</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: Er şehit yakınları ve er gaziler polis ablukasında #Canlı</title>
+      <link>https://www.youtube.com/watch?v=I5mx79qoYF0</link>
+      <guid isPermaLink="false">I5mx79qoYF0</guid>
+      <pubDate>Mon, 24 Aug 2026 14:33:41 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Er şehit yakınları ve er gaziler polis ablukasında #Canlı</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | Er Şehit Yakınları Ve Er Gaziler Polis Ablukasında!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">92nhis-EI_M</guid>
       <pubDate>Mon, 24 Aug 2026 12:14:57 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Er şehit yakınları ve er gaziler Kurtuluş Parkı'nda polis ablukasında #Canlı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Öncesi Sonrası | Senem Toluay Ilgaz 24 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=6C6o3mRhqLY</link>
-      <guid isPermaLink="false">6C6o3mRhqLY</guid>
-      <pubDate>Mon, 24 Aug 2026 12:01:21 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Öncesi Sonrası | Senem Toluay Ilgaz 24 Ağustos</description>
     </item>
   </channel>
 </rss>
