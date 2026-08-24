@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 11:44:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 11:45:31 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: "Adnan Oktar Serbest Kalsa 2 Saatte Ne Olur?" Eski Örgüt Üyesi Özkan Mamati Dehşeti Anlattı</title>
+      <link>https://www.youtube.com/watch?v=TgQHnmDrTF0</link>
+      <guid isPermaLink="false">TgQHnmDrTF0</guid>
+      <pubDate>Mon, 24 Aug 2026 11:40:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: "Adnan Oktar Serbest Kalsa 2 Saatte Ne Olur?" Eski Örgüt Üyesi Özkan Mamati Dehşeti Anlattı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Adnan Oktar'ın Tüyler Ürperten Gerçekleri! Bugün Saat 18.00'de #shorts</title>
       <link>https://www.youtube.com/shorts/fFOkp1iF8h4</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">M3NiUVG0CD4</guid>
       <pubDate>Mon, 24 Aug 2026 08:38:55 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Sanatoryum yaşamalı - Jale Özgentürk</description>
-    </item>
-    <item>
-      <title>Halk TV: Doruk Maden İşçileri, Yıldızlar Holding (SSS) Önünde Açıklama Yaptı! (24 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=n98y73umq-0</link>
-      <guid isPermaLink="false">n98y73umq-0</guid>
-      <pubDate>Mon, 24 Aug 2026 08:38:43 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Doruk Maden İşçileri, Yıldızlar Holding (SSS) Önünde Açıklama Yaptı! (24 Ağustos 2026)</description>
     </item>
   </channel>
 </rss>
