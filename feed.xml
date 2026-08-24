@@ -6,13 +6,34 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 07:40:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 07:45:29 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Ekrem İmamoğlu Silivri Zindanından Seslendi!  "Yeni Bir Şafakta Milletimizle Buluşmak Dileğiyle..."</title>
+      <link>https://www.youtube.com/watch?v=F3II9FdfBUE</link>
+      <guid isPermaLink="false">F3II9FdfBUE</guid>
+      <pubDate>Mon, 24 Aug 2026 07:44:23 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Ekrem İmamoğlu Silivri Zindanından Seslendi!  "Yeni Bir Şafakta Milletimizle Buluşmak Dileğiyle..."</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Gökhan Günaydın'dan cemaat operasyonları yorumu: "AKP, seçim öncesi yol temizliği yapma derdinde"</title>
+      <link>https://www.youtube.com/shorts/AXafiY6FymM</link>
+      <guid isPermaLink="false">AXafiY6FymM</guid>
+      <pubDate>Mon, 24 Aug 2026 07:34:04 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Gökhan Günaydın'dan cemaat operasyonları yorumu: "AKP, seçim öncesi yol temizliği yapma derdinde"</description>
+    </item>
     <item>
       <title>Halk TV: BU DA OLDU... Kayseri'de AKP'li belediyenin yaptırdığı dev havuz erkeklere serbest kadınlara yasak!</title>
       <link>https://www.youtube.com/watch?v=l0kmY06QACs</link>
       <guid isPermaLink="false">l0kmY06QACs</guid>
       <pubDate>Mon, 24 Aug 2026 07:30:27 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BU DA OLDU... Kayseri'de AKP'li belediyenin yaptırdığı dev havuz erkeklere serbest kadınlara yasak!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: "NATO BİZİ KORUMAZ" İsrail'in Suriye'deki Planı! Özgür Tör Haritada İsrail Tehlikesini Anlattı</title>
+      <link>https://www.youtube.com/watch?v=ZNUIMkcGEeI</link>
+      <guid isPermaLink="false">ZNUIMkcGEeI</guid>
+      <pubDate>Mon, 24 Aug 2026 07:30:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: "NATO BİZİ KORUMAZ" İsrail'in Suriye'deki Planı! Özgür Tör Haritada İsrail Tehlikesini Anlattı</description>
     </item>
     <item>
       <title>Halk TV: Aziz İhsan Aktaş davasında karar günü: Zeydan Karalar Silivri'ye geldi!</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">hrPq7By0Ov0</guid>
       <pubDate>Sun, 23 Aug 2026 20:30:50 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Ankara Mamak'ta Korkutan Yangın! Alevlerin İçinden Canlı Yayın! SÖZCÜ TV OLAY YERİNDE</description>
-    </item>
-    <item>
-      <title>Halk TV: Murat Kubilay’dan olay olacak sözler! “Her ne pahasına olursa olsun iktidarda kalmak istiyorlar...”</title>
-      <link>https://www.youtube.com/watch?v=gFEe-vjdACM</link>
-      <guid isPermaLink="false">gFEe-vjdACM</guid>
-      <pubDate>Sun, 23 Aug 2026 20:30:39 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Murat Kubilay’dan olay olacak sözler! “Her ne pahasına olursa olsun iktidarda kalmak istiyorlar...”</description>
-    </item>
-    <item>
-      <title>Halk TV: Günlerce AKP’ye geçeceği konuldu… Ümit Dikbayır, Erdoğan ile yaptığı o görüşmeyi ilk kez anlattı!</title>
-      <link>https://www.youtube.com/watch?v=uiEZaHkiuA4</link>
-      <guid isPermaLink="false">uiEZaHkiuA4</guid>
-      <pubDate>Sun, 23 Aug 2026 20:10:39 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Günlerce AKP’ye geçeceği konuldu… Ümit Dikbayır, Erdoğan ile yaptığı o görüşmeyi ilk kez anlattı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: ÖCALAN "KURUL BAŞKANI" MI OLUYOR? Uğur Poyraz'dan Çarpıcı Süreç Çıkışı!</title>
-      <link>https://www.youtube.com/watch?v=Ox0VHrwYS6Y</link>
-      <guid isPermaLink="false">Ox0VHrwYS6Y</guid>
-      <pubDate>Sun, 23 Aug 2026 20:00:07 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: ÖCALAN "KURUL BAŞKANI" MI OLUYOR? Uğur Poyraz'dan Çarpıcı Süreç Çıkışı!</description>
     </item>
   </channel>
 </rss>
