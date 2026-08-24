@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 13:20:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 13:25:25 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Cumhur İttifakı'nda Deprem! AKP ve MHP'yi Sallayan Anket! Çözüm Süreci Pahalıya Patladı</title>
+      <link>https://www.youtube.com/watch?v=U_g_QFWbYFM</link>
+      <guid isPermaLink="false">U_g_QFWbYFM</guid>
+      <pubDate>Mon, 24 Aug 2026 13:20:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Cumhur İttifakı'nda Deprem! AKP ve MHP'yi Sallayan Anket! Çözüm Süreci Pahalıya Patladı</description>
+    </item>
     <item>
       <title>Halk TV: 'FİGÜRAN' KRİZİNDE BOMBA İTİRAF! O isim CHP'lilerle kurduğu kirli tezgahı açıkladı! Şoke olacaksınız</title>
       <link>https://www.youtube.com/watch?v=HwztmNN4NPA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">IiTwpIyRiuU</guid>
       <pubDate>Mon, 24 Aug 2026 10:20:22 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Ahmet Özer'den Silivri'de Tarihi İsyan! Devlet Bahçeli Sözleri Olay Olur!</description>
-    </item>
-    <item>
-      <title>Halk TV: VE O KİRLİ KUMPASI SİLİVRİ'DEN İFŞALADI! İmamoğlu bu sözlerle ortalığı sallar! Neler anlattı neler!</title>
-      <link>https://www.youtube.com/watch?v=uonySPqnVyw</link>
-      <guid isPermaLink="false">uonySPqnVyw</guid>
-      <pubDate>Mon, 24 Aug 2026 10:15:02 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: VE O KİRLİ KUMPASI SİLİVRİ'DEN İFŞALADI! İmamoğlu bu sözlerle ortalığı sallar! Neler anlattı neler!</description>
     </item>
   </channel>
 </rss>
