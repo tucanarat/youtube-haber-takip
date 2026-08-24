@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 18:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 19:00:53 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: "Devletin MHP kadar güçlü ayağı olacağız" Öcalan'a hangi yol açılıyor? Emrah Gülsunar değerlendirdi</title>
+      <link>https://www.youtube.com/watch?v=fcKcxQlffzM</link>
+      <guid isPermaLink="false">fcKcxQlffzM</guid>
+      <pubDate>Mon, 24 Aug 2026 19:00:05 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "Devletin MHP kadar güçlü ayağı olacağız" Öcalan'a hangi yol açılıyor? Emrah Gülsunar değerlendirdi</description>
+    </item>
     <item>
       <title>Tele2 Haber: ÖRGÜT SUÇLAMASI ÇÖKTÜ:Aziz ihsan Aktaş davasında karar! Murat Taylan ile Haber-Yorum 24.08.26</title>
       <link>https://www.youtube.com/watch?v=a8YBrO8Cd4s</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">I5mx79qoYF0</guid>
       <pubDate>Mon, 24 Aug 2026 15:51:10 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Er şehit yakınları ve er gaziler polis ablukasında #Canlı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İçinizden Biri | Ekrem Açıkel | 24 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=7NZyuD7HBU8</link>
-      <guid isPermaLink="false">7NZyuD7HBU8</guid>
-      <pubDate>Mon, 24 Aug 2026 15:50:01 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İçinizden Biri | Ekrem Açıkel | 24 Ağustos</description>
     </item>
   </channel>
 </rss>
