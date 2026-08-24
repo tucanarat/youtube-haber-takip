@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 16:35:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 16:40:33 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: İYİ Parti heyetinden Selçuk Türkoğlu'nun sağlık durumuna ilişkin açıklama #Canlı</title>
+      <link>https://www.youtube.com/watch?v=Gl_85RtHo3Y</link>
+      <guid isPermaLink="false">Gl_85RtHo3Y</guid>
+      <pubDate>Mon, 24 Aug 2026 16:39:28 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: İYİ Parti heyetinden Selçuk Türkoğlu'nun sağlık durumuna ilişkin açıklama #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: "GÖREVE DÖNÜŞÜMÜN ÖNÜNDE ENGEL DEĞİL!" Ahmet Özer, çıkan karara sert tepki gösterdi!</title>
       <link>https://www.youtube.com/watch?v=Ys4tKTgFrj0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">U_g_QFWbYFM</guid>
       <pubDate>Mon, 24 Aug 2026 13:20:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Cumhur İttifakı'nda Deprem! AKP ve MHP'yi Sallayan Anket! Çözüm Süreci Pahalıya Patladı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: 'Lideri Ne Derse Onu Yapıyorlar' Ezber Bozan Röportaj Bu Akşam Saat 18'de Yayında! #shorts</title>
-      <link>https://www.youtube.com/shorts/h59txWj4V38</link>
-      <guid isPermaLink="false">h59txWj4V38</guid>
-      <pubDate>Mon, 24 Aug 2026 13:18:51 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: 'Lideri Ne Derse Onu Yapıyorlar' Ezber Bozan Röportaj Bu Akşam Saat 18'de Yayında! #shorts</description>
     </item>
   </channel>
 </rss>
