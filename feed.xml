@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 22:40:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 22:45:31 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: CHP İstanbul İl Başkanı Gürsel Tekin, İstanbul İş Adamları Derneği'ni ziyaret ediyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=1yG-FXAwKa0</link>
+      <guid isPermaLink="false">1yG-FXAwKa0</guid>
+      <pubDate>Mon, 24 Aug 2026 22:40:46 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: CHP İstanbul İl Başkanı Gürsel Tekin, İstanbul İş Adamları Derneği'ni ziyaret ediyor #Canlı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: ABD'nin "Yeşil Kuşak" Projesi Çöktü! Tarikatlar Cumhuriyeti Böyle Aşındırmış! Bartu Soral Anlattı</title>
       <link>https://www.youtube.com/watch?v=Tww0V_n_7a4</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">2CSQM5Eut8o</guid>
       <pubDate>Mon, 24 Aug 2026 18:35:24 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İYİ Parti Milletvekili Selçuk Türkoğlu ile danışmanının, polis tarafından darp edildiği öne sürüldü!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "ADALET ER GEÇ GELECEK" Çaykara ve Aydar "Aziz İhsan Aktaş davasında" verilen kararlara isyan etti!</title>
-      <link>https://www.youtube.com/watch?v=VlrnSKa2wAk</link>
-      <guid isPermaLink="false">VlrnSKa2wAk</guid>
-      <pubDate>Mon, 24 Aug 2026 18:30:39 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "ADALET ER GEÇ GELECEK" Çaykara ve Aydar "Aziz İhsan Aktaş davasında" verilen kararlara isyan etti!</description>
     </item>
   </channel>
 </rss>
