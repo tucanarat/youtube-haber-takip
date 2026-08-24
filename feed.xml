@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 06:30:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 06:35:23 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: GÖZLER SİLİVRİ'DE! Aziz İhsan Aktaş davasında karar günü! Aylar süren yargılamada hüküm açıklanıyor!</title>
+      <link>https://www.youtube.com/watch?v=2-7U2yb2U0k</link>
+      <guid isPermaLink="false">2-7U2yb2U0k</guid>
+      <pubDate>Mon, 24 Aug 2026 06:28:18 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: GÖZLER SİLİVRİ'DE! Aziz İhsan Aktaş davasında karar günü! Aylar süren yargılamada hüküm açıklanıyor!</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | GÖZLER SİLİVRİ'DE! Aziz İhsan Aktaş Davasında Karar Günü! Yargılamada Hüküm Açıklanıyor!</title>
       <link>https://www.youtube.com/watch?v=CCQB379fmQk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">c2pT6ad-xFU</guid>
       <pubDate>Sun, 23 Aug 2026 18:00:36 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Erdoğan Bunu  Beklemiyordu! Somali'den Türkiye'ye Küstah Yanıt! KKTC'ye İhanet</description>
-    </item>
-    <item>
-      <title>Halk TV: Trump’ın vize yasağına yargı engeli! ABD mahkemesi 75 ülkeye kısıtlamayı durdurdu!</title>
-      <link>https://www.youtube.com/watch?v=K1dSX_nus20</link>
-      <guid isPermaLink="false">K1dSX_nus20</guid>
-      <pubDate>Sun, 23 Aug 2026 17:50:03 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Trump’ın vize yasağına yargı engeli! ABD mahkemesi 75 ülkeye kısıtlamayı durdurdu!</description>
     </item>
   </channel>
 </rss>
