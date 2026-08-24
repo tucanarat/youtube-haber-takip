@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 12:45:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 12:50:31 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Aziz İhsan Aktaş Davasında karar günü! Muhabirimiz Batuhan Serim Silivri’de yaşananları anlattı</title>
+      <link>https://www.youtube.com/watch?v=mkSd8_IZ5o4</link>
+      <guid isPermaLink="false">mkSd8_IZ5o4</guid>
+      <pubDate>Mon, 24 Aug 2026 12:47:54 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Aziz İhsan Aktaş Davasında karar günü! Muhabirimiz Batuhan Serim Silivri’de yaşananları anlattı</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Er Şehit Yakınları ve Er Gaziler Kurtuluş Parkı'nda Polis Ablukasında!</title>
       <link>https://www.youtube.com/watch?v=RU03OT1c9PU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">qPOlEDlTFhM</guid>
       <pubDate>Mon, 24 Aug 2026 09:20:47 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Maden işçileri, Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Bağımsız Maden İş üyesi madenciler, Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor</title>
-      <link>https://www.youtube.com/watch?v=FEbW760X7JE</link>
-      <guid isPermaLink="false">FEbW760X7JE</guid>
-      <pubDate>Mon, 24 Aug 2026 09:20:04 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Bağımsız Maden İş üyesi madenciler, Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor</description>
     </item>
   </channel>
 </rss>
