@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 19:50:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 19:55:27 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: KİM NE KADAR CEZA ALDI? Aziz İhsan Aktaş davasında belediye başkanları hakkında karar açıklandı!</title>
+      <link>https://www.youtube.com/watch?v=3Uep7SLM3Hw</link>
+      <guid isPermaLink="false">3Uep7SLM3Hw</guid>
+      <pubDate>Mon, 24 Aug 2026 19:45:37 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KİM NE KADAR CEZA ALDI? Aziz İhsan Aktaş davasında belediye başkanları hakkında karar açıklandı!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Süleymancılarla İdris Naim Şahin'in ilişkisi ne? Ersin Eroğlu ve Hilmi Hacaloğlu analiz etti</title>
       <link>https://www.youtube.com/watch?v=ukzwtNIyN9Q</link>
@@ -20,6 +27,13 @@
       <guid isPermaLink="false">CspA0HRS6l8</guid>
       <pubDate>Mon, 24 Aug 2026 19:40:38 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: 'Adalet Çantayla İhaleyi Tostla!' Turhan Çömez'den Çarpıcı Aziz İhsan Aktaş Çıkışı! Sert AKP Sözleri</description>
+    </item>
+    <item>
+      <title>Halk TV: AJANS SAHİBİ HER ŞEYİ İTİRAF ETTİ! 'Figüran' oyunu böyle patladı! ''CHP'den para alabilmek için...''</title>
+      <link>https://www.youtube.com/watch?v=7m9Mf-BpuYQ</link>
+      <guid isPermaLink="false">7m9Mf-BpuYQ</guid>
+      <pubDate>Mon, 24 Aug 2026 19:40:23 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: AJANS SAHİBİ HER ŞEYİ İTİRAF ETTİ! 'Figüran' oyunu böyle patladı! ''CHP'den para alabilmek için...''</description>
     </item>
     <item>
       <title>Tele2 Haber: Hilmi Hacaloğlu'ndan butlancılara şok soru: Aklan gel diyenler Zeydan Karalar'ı ihraç mı edecekler?</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">rDrxcXLh9Dw</guid>
       <pubDate>Mon, 24 Aug 2026 16:45:32 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: 'İmralı görüşme notlarındaki' gariplik! Öcalan ne söyledi? DEM Parti'den 'ekleme-çıkarma' iddiası!</description>
-    </item>
-    <item>
-      <title>Halk TV: MESUT ÖZARSLAN ANKARA'NIN YENİ 'MELİH GÖKÇEK'İ OLDU! Bir yıllık satışı altı ayda yaptı! Paraya bak!</title>
-      <link>https://www.youtube.com/watch?v=S20nqwWorj8</link>
-      <guid isPermaLink="false">S20nqwWorj8</guid>
-      <pubDate>Mon, 24 Aug 2026 16:45:20 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: MESUT ÖZARSLAN ANKARA'NIN YENİ 'MELİH GÖKÇEK'İ OLDU! Bir yıllık satışı altı ayda yaptı! Paraya bak!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Aziz İhsan Aktaş davası sonrası Ahmet Özer Silivri’de açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=98aaKv8aTPc</link>
-      <guid isPermaLink="false">98aaKv8aTPc</guid>
-      <pubDate>Mon, 24 Aug 2026 16:44:03 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Aziz İhsan Aktaş davası sonrası Ahmet Özer Silivri’de açıklama yapıyor #Canlı</description>
     </item>
   </channel>
 </rss>
