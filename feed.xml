@@ -6,14 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 08:06:29 +0000</lastBuildDate>
-    <item>
-      <title>SÖZCÜ TV: Sözcü Masası | Damla Doğan Tuncel | 24 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=-mMZytqDV6E</link>
-      <guid isPermaLink="false">-mMZytqDV6E</guid>
-      <pubDate>Mon, 24 Aug 2026 08:03:59 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Sözcü Masası | Damla Doğan Tuncel | 24 Ağustos</description>
-    </item>
+    <lastBuildDate>Mon, 24 Aug 2026 08:10:32 +0000</lastBuildDate>
     <item>
       <title>Halk TV: Ahmet Özer: Görevimizin başına dönmeyi, Esenyurt'a hizmet etmeyi bekliyoruz!</title>
       <link>https://www.youtube.com/shorts/qUAhjd1fqUY</link>
@@ -342,6 +335,13 @@
       <guid isPermaLink="false">6C6o3mRhqLY</guid>
       <pubDate>Sun, 23 Aug 2026 22:21:40 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: #CANLI Öncesi Sonrası | Senem Toluay Ilgaz</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Sözcü Masası | Damla Doğan Tuncel | 24 Ağustos</title>
+      <link>https://www.youtube.com/watch?v=-mMZytqDV6E</link>
+      <guid isPermaLink="false">-mMZytqDV6E</guid>
+      <pubDate>Sun, 23 Aug 2026 22:19:17 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Sözcü Masası | Damla Doğan Tuncel | 24 Ağustos</description>
     </item>
     <item>
       <title>Halk TV: YENİ Partili Gökhan Günaydın: AKP, seçim öncesi yol temizliği yapma derdinde!</title>
