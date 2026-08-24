@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 16:55:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 16:58:54 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Sinem Fıstıkoğlu ile Halk Ana Haber (24 Ağustos 2026)</title>
+      <link>https://www.youtube.com/watch?v=9aeymK58DPo</link>
+      <guid isPermaLink="false">9aeymK58DPo</guid>
+      <pubDate>Mon, 24 Aug 2026 16:57:47 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Sinem Fıstıkoğlu ile Halk Ana Haber (24 Ağustos 2026)</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: SALİM ŞEN, ZEYDAN KARALAR'IN HAPİS CEZASINA İSYAN ETTİ!</title>
+      <link>https://www.youtube.com/shorts/5RekvVLpsDg</link>
+      <guid isPermaLink="false">5RekvVLpsDg</guid>
+      <pubDate>Mon, 24 Aug 2026 16:57:02 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: SALİM ŞEN, ZEYDAN KARALAR'IN HAPİS CEZASINA İSYAN ETTİ!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Sözcü Ana Haber | Serap Belovacıklı | 24 Ağustos</title>
+      <link>https://www.youtube.com/watch?v=H3o8K3ddkRM</link>
+      <guid isPermaLink="false">H3o8K3ddkRM</guid>
+      <pubDate>Mon, 24 Aug 2026 16:54:49 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Sözcü Ana Haber | Serap Belovacıklı | 24 Ağustos</description>
+    </item>
     <item>
       <title>Halk TV: İYİ Partili Cenk Özatıcı, Selçuk Türkoğlu'nun Sağlık Durumuna İlişkin Açıklama Yaptı!</title>
       <link>https://www.youtube.com/watch?v=Aa_-bfoqd3E</link>
@@ -267,13 +288,6 @@
       <description>SÖZCÜ TV kanalından yeni video: Avrupa'da "Türkiye" Çatlağı! Türk SİHA'ları NATO ve AB'yi Birbirine Kattı! İttifakta Büyük Kriz</description>
     </item>
     <item>
-      <title>Halk TV: Sinem Fıstıkoğlu ile Halk Ana Haber (24 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=9aeymK58DPo</link>
-      <guid isPermaLink="false">9aeymK58DPo</guid>
-      <pubDate>Mon, 24 Aug 2026 14:37:15 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Sinem Fıstıkoğlu ile Halk Ana Haber (24 Ağustos 2026)</description>
-    </item>
-    <item>
       <title>Tele2 Haber: #CANLI Er şehit yakınları ve er gaziler polis ablukasında</title>
       <link>https://www.youtube.com/watch?v=ShK6-L7wiRU</link>
       <guid isPermaLink="false">ShK6-L7wiRU</guid>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">GHYN482tceg</guid>
       <pubDate>Mon, 24 Aug 2026 14:01:04 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Belediye ekipleri 100 kediyle karşılaştı #shorts</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: MOSSAD Harekete Geçti Gizli Suriye Görüşmesi! HAİN PLANLAR! Barrack'ı Düşman İlan Ettiler</title>
-      <link>https://www.youtube.com/watch?v=nYS_pMIcCvM</link>
-      <guid isPermaLink="false">nYS_pMIcCvM</guid>
-      <pubDate>Mon, 24 Aug 2026 14:00:03 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: MOSSAD Harekete Geçti Gizli Suriye Görüşmesi! HAİN PLANLAR! Barrack'ı Düşman İlan Ettiler</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! TARİHİ DAVADA İLK KARARLAR ÇIKIYOR! Aziz İhsan Aktaş örgüt suçlamasından beraat etti!</title>
-      <link>https://www.youtube.com/watch?v=IN3c4DMQgFQ</link>
-      <guid isPermaLink="false">IN3c4DMQgFQ</guid>
-      <pubDate>Mon, 24 Aug 2026 13:54:51 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! TARİHİ DAVADA İLK KARARLAR ÇIKIYOR! Aziz İhsan Aktaş örgüt suçlamasından beraat etti!</description>
     </item>
   </channel>
 </rss>
