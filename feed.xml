@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 08:45:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 08:50:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Art arda yayımlanmaya başladılar! DEM Parti, 'İmralı tutanakları' ile ilgili kritik açıklama yaptı!</title>
+      <link>https://www.youtube.com/watch?v=8u0r1Rr63Ms</link>
+      <guid isPermaLink="false">8u0r1Rr63Ms</guid>
+      <pubDate>Mon, 24 Aug 2026 08:45:12 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Art arda yayımlanmaya başladılar! DEM Parti, 'İmralı tutanakları' ile ilgili kritik açıklama yaptı!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Butlancıların "Figüran" Skandalında Yeni Perde! Figüran Taşıyan Cast Ajansına Parasını Vermemişler!</title>
+      <link>https://www.youtube.com/watch?v=-MLC4hi8FPs</link>
+      <guid isPermaLink="false">-MLC4hi8FPs</guid>
+      <pubDate>Mon, 24 Aug 2026 08:44:23 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Butlancıların "Figüran" Skandalında Yeni Perde! Figüran Taşıyan Cast Ajansına Parasını Vermemişler!</description>
+    </item>
     <item>
       <title>Cumhuriyet: #CANLI Doruk Maden işçileri, Yıldızlar Holding (SSS) önünde açıklama yapıyor</title>
       <link>https://www.youtube.com/watch?v=h8T0gCEJ7U8</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">V2r6b549ISw</guid>
       <pubDate>Mon, 24 Aug 2026 00:45:44 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Gökhan Günaydın "Tüketilme ve Yoksullaştırma Politikalarına Karşı Emek Buluşması"nda konuşuyor</description>
-    </item>
-    <item>
-      <title>Halk TV: Ankara Mamak'ta orman yangını! Yerleşim yerlerine yakın noktada yükselen alevler gökyüzünü kapladı!</title>
-      <link>https://www.youtube.com/shorts/ae_096W50V8</link>
-      <guid isPermaLink="false">ae_096W50V8</guid>
-      <pubDate>Mon, 24 Aug 2026 00:15:14 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ankara Mamak'ta orman yangını! Yerleşim yerlerine yakın noktada yükselen alevler gökyüzünü kapladı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Ankara Mamak'ta ağaçlık alanda çıkan yangına itfaiye ekiplerince müdahale ediliyor! #shorts</title>
-      <link>https://www.youtube.com/shorts/iz1tC6QFGsM</link>
-      <guid isPermaLink="false">iz1tC6QFGsM</guid>
-      <pubDate>Mon, 24 Aug 2026 00:00:25 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ankara Mamak'ta ağaçlık alanda çıkan yangına itfaiye ekiplerince müdahale ediliyor! #shorts</description>
     </item>
   </channel>
 </rss>
