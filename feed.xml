@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 17:40:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 17:45:31 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Gizli Tanık 'Yaprak' Kim? İtirafçı Aktaş'ın Sözleriyle Gelen 50 Yıl Hapis! Mahkemenin Çarpıcı Kararı</title>
+      <link>https://www.youtube.com/watch?v=SKK0QlR5zLQ</link>
+      <guid isPermaLink="false">SKK0QlR5zLQ</guid>
+      <pubDate>Mon, 24 Aug 2026 17:40:36 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Gizli Tanık 'Yaprak' Kim? İtirafçı Aktaş'ın Sözleriyle Gelen 50 Yıl Hapis! Mahkemenin Çarpıcı Kararı</description>
+    </item>
     <item>
       <title>Tele2 Haber: 'Rüşvet alana' hapis; 'rüşvet verene' ceza yok! Emrah Gülsunar'dan Aziz İhsan Aktaş davası yorumu!</title>
       <link>https://www.youtube.com/watch?v=3_QP0nWabDU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">W6Fg27mtcss</guid>
       <pubDate>Mon, 24 Aug 2026 14:40:19 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Avrupa'da "Türkiye" Çatlağı! Türk SİHA'ları NATO ve AB'yi Birbirine Kattı! İttifakta Büyük Kriz</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Er şehit yakınları ve er gaziler polis ablukasında</title>
-      <link>https://www.youtube.com/watch?v=ShK6-L7wiRU</link>
-      <guid isPermaLink="false">ShK6-L7wiRU</guid>
-      <pubDate>Mon, 24 Aug 2026 14:34:03 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Er şehit yakınları ve er gaziler polis ablukasında</description>
     </item>
   </channel>
 </rss>
