@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 07:45:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 07:50:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: İşte yoksulluğun geldiği tablo! Kırmızı et alamayan yurttaş, kasaplara "Kemik var mı" diye soruyor!</title>
+      <link>https://www.youtube.com/watch?v=9Z2NjXB5DRk</link>
+      <guid isPermaLink="false">9Z2NjXB5DRk</guid>
+      <pubDate>Mon, 24 Aug 2026 07:45:13 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İşte yoksulluğun geldiği tablo! Kırmızı et alamayan yurttaş, kasaplara "Kemik var mı" diye soruyor!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Ekrem İmamoğlu Silivri Zindanından Seslendi!  "Yeni Bir Şafakta Milletimizle Buluşmak Dileğiyle..."</title>
       <link>https://www.youtube.com/watch?v=F3II9FdfBUE</link>
@@ -190,11 +197,11 @@
       <description>Halk TV kanalından yeni video: Yavuz Ağıralioğlu’ndan enflasyon çıkışı! “Enflasyonun sebebi hükümet!” #shorts</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | Gökhan Kayış ile Para Siyaset | Nesrin Nas - Öner Günçavdı</title>
+      <title>Halk TV: Gökhan Kayış ile Para Siyaset | Nesrin Nas - Öner Günçavdı (24 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=6EIgZP3YaVw</link>
       <guid isPermaLink="false">6EIgZP3YaVw</guid>
       <pubDate>Sun, 23 Aug 2026 22:47:11 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Gökhan Kayış ile Para Siyaset | Nesrin Nas - Öner Günçavdı</description>
+      <description>Halk TV kanalından yeni video: Gökhan Kayış ile Para Siyaset | Nesrin Nas - Öner Günçavdı (24 Ağustos 2026)</description>
     </item>
     <item>
       <title>Halk TV: Alparslan Kuytul ve eşi Semra  Kuytul’un tutuklanması, Furkan mensupları tarafından protesto edildi!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">w7Kjb6KAy48</guid>
       <pubDate>Sun, 23 Aug 2026 20:49:51 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | Ankara’nın Mamak ilçesinde ağaçlık alanda çıkan yangına ekipler müdahale ediyor!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Ankara Mamak'ta Korkutan Yangın! Alevlerin İçinden Canlı Yayın! SÖZCÜ TV OLAY YERİNDE</title>
-      <link>https://www.youtube.com/watch?v=hrPq7By0Ov0</link>
-      <guid isPermaLink="false">hrPq7By0Ov0</guid>
-      <pubDate>Sun, 23 Aug 2026 20:30:50 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Ankara Mamak'ta Korkutan Yangın! Alevlerin İçinden Canlı Yayın! SÖZCÜ TV OLAY YERİNDE</description>
     </item>
   </channel>
 </rss>
