@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 13:25:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 13:30:44 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: Cumhur İttifakı'nda Deprem! AKP ve MHP'yi Sallayan Anket! Çözüm Süreci Pahalıya Patladı</title>
       <link>https://www.youtube.com/watch?v=U_g_QFWbYFM</link>
@@ -146,6 +146,13 @@
       <guid isPermaLink="false">aidfLuF6zyY</guid>
       <pubDate>Mon, 24 Aug 2026 12:45:16 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Erdoğan'dan CHP'li belediye başkanına transfer teklifi! Mehmet Tezkan'dan Bahçeli'ye olay sözler!</description>
+    </item>
+    <item>
+      <title>Halk TV: ERDOĞAN O TUTANAKLARA ÇOK KIZMIŞ! 'Çerçeve yasa' AKP'yi iyice birbirine düşürdü! Ruhavioğlu anlattı</title>
+      <link>https://www.youtube.com/watch?v=GpYfiInXE5U</link>
+      <guid isPermaLink="false">GpYfiInXE5U</guid>
+      <pubDate>Mon, 24 Aug 2026 12:36:30 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ERDOĞAN O TUTANAKLARA ÇOK KIZMIŞ! 'Çerçeve yasa' AKP'yi iyice birbirine düşürdü! Ruhavioğlu anlattı</description>
     </item>
     <item>
       <title>Tele2 Haber: #CANLI YENİ Parti Sözcüsü Zeynel Emre TBMM'de açıklama yapıyor</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">0d1A_F_kHMQ</guid>
       <pubDate>Mon, 24 Aug 2026 10:23:18 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "Tapulu Malı Çankaya Büyüklüğünde!" Başaran Aksu Yıldız'ın Pes Dedirten Mal Varlığını Açıkladı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Ahmet Özer'den Silivri'de Tarihi İsyan! Devlet Bahçeli Sözleri Olay Olur!</title>
-      <link>https://www.youtube.com/watch?v=IiTwpIyRiuU</link>
-      <guid isPermaLink="false">IiTwpIyRiuU</guid>
-      <pubDate>Mon, 24 Aug 2026 10:20:22 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Ahmet Özer'den Silivri'de Tarihi İsyan! Devlet Bahçeli Sözleri Olay Olur!</description>
     </item>
   </channel>
 </rss>
