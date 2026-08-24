@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 08:40:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 08:45:29 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: #CANLI Doruk Maden işçileri, Yıldızlar Holding (SSS) önünde açıklama yapıyor</title>
+      <link>https://www.youtube.com/watch?v=h8T0gCEJ7U8</link>
+      <guid isPermaLink="false">h8T0gCEJ7U8</guid>
+      <pubDate>Mon, 24 Aug 2026 08:43:29 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI Doruk Maden işçileri, Yıldızlar Holding (SSS) önünde açıklama yapıyor</description>
+    </item>
     <item>
       <title>Cumhuriyet: Yine mi? - Gülengül Altınsay</title>
       <link>https://www.youtube.com/watch?v=R-p-AoNDxBM</link>
@@ -71,13 +78,6 @@
       <description>Cumhuriyet kanalından yeni video: Bir trilyon dolarlık büyük yarış - Orhan Bursalı</description>
     </item>
     <item>
-      <title>Cumhuriyet: #CANLI Doruk Maden işçileri, Yıldızlar Holding (SSS) önünde açıklama yapıyor</title>
-      <link>https://www.youtube.com/watch?v=h8T0gCEJ7U8</link>
-      <guid isPermaLink="false">h8T0gCEJ7U8</guid>
-      <pubDate>Mon, 24 Aug 2026 08:35:57 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI Doruk Maden işçileri, Yıldızlar Holding (SSS) önünde açıklama yapıyor</description>
-    </item>
-    <item>
       <title>Tele2 Haber: AZİZ İHSAN AKTAŞ DAVASINDA KARAR GÜNÜ! Onur Öncü ile Sabah Pusulası (23.08.26)</title>
       <link>https://www.youtube.com/watch?v=43J8lgz9njE</link>
       <guid isPermaLink="false">43J8lgz9njE</guid>
@@ -90,6 +90,13 @@
       <guid isPermaLink="false">HAO47azws48</guid>
       <pubDate>Mon, 24 Aug 2026 08:30:22 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SİLİVRİ'DE GERİ SAYIM BAŞLADI! Aktaş davasında karar her an açıklanabilir! Gamze Altunay aktardı!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: MENZİL'E DOKUNULMUYOR SÜLEYMANCILARA OPERASYON! Fatih Ergin Ankara Kulislerini Patlattı</title>
+      <link>https://www.youtube.com/watch?v=qxaYBm8IRIA</link>
+      <guid isPermaLink="false">qxaYBm8IRIA</guid>
+      <pubDate>Mon, 24 Aug 2026 08:30:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: MENZİL'E DOKUNULMUYOR SÜLEYMANCILARA OPERASYON! Fatih Ergin Ankara Kulislerini Patlattı</description>
     </item>
     <item>
       <title>Halk TV: Tutuklu İBB Başkanı Ekrem İmamoğlu, gençlere YENİ Parti'ye katılmaları çağrısı yaptı!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">iz1tC6QFGsM</guid>
       <pubDate>Mon, 24 Aug 2026 00:00:25 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Ankara Mamak'ta ağaçlık alanda çıkan yangına itfaiye ekiplerince müdahale ediliyor! #shorts</description>
-    </item>
-    <item>
-      <title>Halk TV: Sorun çözülmezse, Doruk Maden işçileri Çarşamba günü Saray’a gidecek! #shorts</title>
-      <link>https://www.youtube.com/shorts/Is_OM5ahe2M</link>
-      <guid isPermaLink="false">Is_OM5ahe2M</guid>
-      <pubDate>Sun, 23 Aug 2026 23:45:23 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Sorun çözülmezse, Doruk Maden işçileri Çarşamba günü Saray’a gidecek! #shorts</description>
     </item>
   </channel>
 </rss>
