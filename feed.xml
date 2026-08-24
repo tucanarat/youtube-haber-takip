@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 18:30:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 18:35:26 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: "ADALET ER GEÇ GELECEK" Çaykara ve Aydar "Aziz İhsan Aktaş davasında" verilen kararlara isyan etti!</title>
+      <link>https://www.youtube.com/watch?v=VlrnSKa2wAk</link>
+      <guid isPermaLink="false">VlrnSKa2wAk</guid>
+      <pubDate>Mon, 24 Aug 2026 18:30:39 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "ADALET ER GEÇ GELECEK" Çaykara ve Aydar "Aziz İhsan Aktaş davasında" verilen kararlara isyan etti!</description>
+    </item>
+    <item>
+      <title>Halk TV: FİLM GİBİ OLAY! Kağıthane’de milyonluk altınla kaybolan kuryeye dronlu operasyon! Çatıda yakalandı!</title>
+      <link>https://www.youtube.com/watch?v=g3j2jURx7ps</link>
+      <guid isPermaLink="false">g3j2jURx7ps</guid>
+      <pubDate>Mon, 24 Aug 2026 18:30:18 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: FİLM GİBİ OLAY! Kağıthane’de milyonluk altınla kaybolan kuryeye dronlu operasyon! Çatıda yakalandı!</description>
+    </item>
     <item>
       <title>Halk TV: Ceyhan Belediye Başkanı Kadir Aydar, kendisine verilen hapis cezasına tepki gösterdi!</title>
       <link>https://www.youtube.com/shorts/ba7zZI8T9ao</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">ET9-91o1Vo8</guid>
       <pubDate>Mon, 24 Aug 2026 15:30:46 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Aziz İhsan Aktaş Davası Sonrası Gül Çiftci Silivri'de Açıklama Yaptı! (24 Ağustos 2026)</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: PUTİN'E "KARA AĞUSTOS" ŞOKU! Ukrayna Rusya'yı Kalbinden Vurdu! Kremlin Alarm Düğmesine Bastı</title>
-      <link>https://www.youtube.com/watch?v=hboTXKLgiAc</link>
-      <guid isPermaLink="false">hboTXKLgiAc</guid>
-      <pubDate>Mon, 24 Aug 2026 15:30:26 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: PUTİN'E "KARA AĞUSTOS" ŞOKU! Ukrayna Rusya'yı Kalbinden Vurdu! Kremlin Alarm Düğmesine Bastı</description>
-    </item>
-    <item>
-      <title>Halk TV: MİLYONLAR SİLİVRİ'YE KİLİTLENDİ! Oya Tekin ve Rıza Akpolat hakkında tutukluluğa devam kararı!</title>
-      <link>https://www.youtube.com/watch?v=3CKoTDxL0mo</link>
-      <guid isPermaLink="false">3CKoTDxL0mo</guid>
-      <pubDate>Mon, 24 Aug 2026 15:30:04 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: MİLYONLAR SİLİVRİ'YE KİLİTLENDİ! Oya Tekin ve Rıza Akpolat hakkında tutukluluğa devam kararı!</description>
     </item>
   </channel>
 </rss>
