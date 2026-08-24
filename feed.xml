@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 11:25:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 11:30:45 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Karma eğitim yine hedefte! Karaman'da erkek ve kız öğrencilerin pansiyonları ayrılacak</title>
+      <link>https://www.youtube.com/watch?v=qk37PPxLyss</link>
+      <guid isPermaLink="false">qk37PPxLyss</guid>
+      <pubDate>Mon, 24 Aug 2026 11:18:38 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Karma eğitim yine hedefte! Karaman'da erkek ve kız öğrencilerin pansiyonları ayrılacak</description>
+    </item>
     <item>
       <title>Halk TV: KRİTİK TOPLANTI BUGÜN! Süreç kurulu bu gündemle toplanıyor! Ankara kulislerini sarsan gelişmeler!</title>
       <link>https://www.youtube.com/watch?v=3wgnJSE5oKs</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">vJPzLzZYv8M</guid>
       <pubDate>Mon, 24 Aug 2026 08:37:11 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Bir trilyon dolarlık büyük yarış - Orhan Bursalı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: AZİZ İHSAN AKTAŞ DAVASINDA KARAR GÜNÜ! Onur Öncü ile Sabah Pusulası (23.08.26)</title>
-      <link>https://www.youtube.com/watch?v=43J8lgz9njE</link>
-      <guid isPermaLink="false">43J8lgz9njE</guid>
-      <pubDate>Mon, 24 Aug 2026 08:33:21 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: AZİZ İHSAN AKTAŞ DAVASINDA KARAR GÜNÜ! Onur Öncü ile Sabah Pusulası (23.08.26)</description>
     </item>
   </channel>
 </rss>
