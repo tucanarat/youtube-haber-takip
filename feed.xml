@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 22:35:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 22:36:03 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: ABD'nin "Yeşil Kuşak" Projesi Çöktü! Tarikatlar Cumhuriyeti Böyle Aşındırmış! Bartu Soral Anlattı</title>
+      <link>https://www.youtube.com/watch?v=Tww0V_n_7a4</link>
+      <guid isPermaLink="false">Tww0V_n_7a4</guid>
+      <pubDate>Mon, 24 Aug 2026 22:30:22 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: ABD'nin "Yeşil Kuşak" Projesi Çöktü! Tarikatlar Cumhuriyeti Böyle Aşındırmış! Bartu Soral Anlattı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Sözcü Ana Haber | Senem Toluay Ilgaz</title>
       <link>https://www.youtube.com/watch?v=j1pdiNUD3Sc</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">VlrnSKa2wAk</guid>
       <pubDate>Mon, 24 Aug 2026 18:30:39 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "ADALET ER GEÇ GELECEK" Çaykara ve Aydar "Aziz İhsan Aktaş davasında" verilen kararlara isyan etti!</description>
-    </item>
-    <item>
-      <title>Halk TV: FİLM GİBİ OLAY! Kağıthane’de milyonluk altınla kaybolan kuryeye dronlu operasyon! Çatıda yakalandı!</title>
-      <link>https://www.youtube.com/watch?v=g3j2jURx7ps</link>
-      <guid isPermaLink="false">g3j2jURx7ps</guid>
-      <pubDate>Mon, 24 Aug 2026 18:30:18 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: FİLM GİBİ OLAY! Kağıthane’de milyonluk altınla kaybolan kuryeye dronlu operasyon! Çatıda yakalandı!</description>
     </item>
   </channel>
 </rss>
