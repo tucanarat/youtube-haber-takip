@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 16:00:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 16:05:27 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: PENTAGON ACI BİLANÇOYU AÇIKLADI! İran'dan ABD'ye Ağır Darbe! Trump'tan Körfezi Kavuracak Hamle</title>
+      <link>https://www.youtube.com/watch?v=V6tIQsVm8OY</link>
+      <guid isPermaLink="false">V6tIQsVm8OY</guid>
+      <pubDate>Mon, 24 Aug 2026 16:00:39 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: PENTAGON ACI BİLANÇOYU AÇIKLADI! İran'dan ABD'ye Ağır Darbe! Trump'tan Körfezi Kavuracak Hamle</description>
+    </item>
     <item>
       <title>Cumhuriyet: Saray'dan yastık altı altın çağrısı! | Şirin: "Doları baskılama sevdasıyla hatada ısrar ediliyor"</title>
       <link>https://www.youtube.com/watch?v=uohvM1YBdI8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">YaDsc78qePw</guid>
       <pubDate>Mon, 24 Aug 2026 13:10:35 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Madenci: "Her felakette gönüllü olarak biz vardık. Bu kez biz çağırıyoruz. Lütfedip gelin Bakanlar"</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Aziz İhsan Aktaş davasında kritik karar!</title>
-      <link>https://www.youtube.com/watch?v=CgNH2uAeU90</link>
-      <guid isPermaLink="false">CgNH2uAeU90</guid>
-      <pubDate>Mon, 24 Aug 2026 13:10:11 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Aziz İhsan Aktaş davasında kritik karar!</description>
     </item>
   </channel>
 </rss>
