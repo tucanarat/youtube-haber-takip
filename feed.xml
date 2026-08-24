@@ -6,13 +6,34 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 15:05:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 15:10:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Aziz İhsan Aktaş davası sonrası Ahmet Özer Silivri’de açıklama yapıyor</title>
+      <link>https://www.youtube.com/watch?v=2Vxa_LPOe_g</link>
+      <guid isPermaLink="false">2Vxa_LPOe_g</guid>
+      <pubDate>Mon, 24 Aug 2026 15:09:39 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Aziz İhsan Aktaş davası sonrası Ahmet Özer Silivri’de açıklama yapıyor</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #CANLI Aziz İhsan Aktaş davası sonrası Ahmet Özer Silivri’de açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=98aaKv8aTPc</link>
+      <guid isPermaLink="false">98aaKv8aTPc</guid>
+      <pubDate>Mon, 24 Aug 2026 15:09:28 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Aziz İhsan Aktaş davası sonrası Ahmet Özer Silivri’de açıklama yapıyor #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: Şehit Aileleri Ve Gaziler Derneği Genel Başkanı Erdem Çerçioğlu Açıklama Yapıyor!</title>
       <link>https://www.youtube.com/watch?v=9Z7UQCzDjA0</link>
       <guid isPermaLink="false">9Z7UQCzDjA0</guid>
       <pubDate>Mon, 24 Aug 2026 15:02:20 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Şehit Aileleri Ve Gaziler Derneği Genel Başkanı Erdem Çerçioğlu Açıklama Yapıyor!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Süleymancılar, Furkancılar ve Karanlık Ağları | Furkan Sezer | İpek Özbey ile Nasıl Olacak?</title>
+      <link>https://www.youtube.com/watch?v=P6LMJY1lrGk</link>
+      <guid isPermaLink="false">P6LMJY1lrGk</guid>
+      <pubDate>Mon, 24 Aug 2026 15:00:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Süleymancılar, Furkancılar ve Karanlık Ağları | Furkan Sezer | İpek Özbey ile Nasıl Olacak?</description>
     </item>
     <item>
       <title>Halk TV: Gizem Çetin ile Parantez (24 Ağustos 2026)</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">mkSd8_IZ5o4</guid>
       <pubDate>Mon, 24 Aug 2026 12:47:54 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Aziz İhsan Aktaş Davasında karar günü! Muhabirimiz Batuhan Serim Silivri’de yaşananları anlattı</description>
-    </item>
-    <item>
-      <title>Halk TV: Erdoğan'dan CHP'li belediye başkanına transfer teklifi! Mehmet Tezkan'dan Bahçeli'ye olay sözler!</title>
-      <link>https://www.youtube.com/watch?v=aidfLuF6zyY</link>
-      <guid isPermaLink="false">aidfLuF6zyY</guid>
-      <pubDate>Mon, 24 Aug 2026 12:45:16 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Erdoğan'dan CHP'li belediye başkanına transfer teklifi! Mehmet Tezkan'dan Bahçeli'ye olay sözler!</description>
-    </item>
-    <item>
-      <title>Halk TV: ERDOĞAN O TUTANAKLARA ÇOK KIZMIŞ! 'Çerçeve yasa' AKP'yi iyice birbirine düşürdü! Ruhavioğlu anlattı</title>
-      <link>https://www.youtube.com/watch?v=GpYfiInXE5U</link>
-      <guid isPermaLink="false">GpYfiInXE5U</guid>
-      <pubDate>Mon, 24 Aug 2026 12:36:30 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ERDOĞAN O TUTANAKLARA ÇOK KIZMIŞ! 'Çerçeve yasa' AKP'yi iyice birbirine düşürdü! Ruhavioğlu anlattı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI YENİ Parti Sözcüsü Zeynel Emre TBMM'de açıklama yapıyor</title>
-      <link>https://www.youtube.com/watch?v=QnAY7VEHftA</link>
-      <guid isPermaLink="false">QnAY7VEHftA</guid>
-      <pubDate>Mon, 24 Aug 2026 12:30:59 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti Sözcüsü Zeynel Emre TBMM'de açıklama yapıyor</description>
     </item>
   </channel>
 </rss>
