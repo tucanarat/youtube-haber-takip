@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 21:45:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 21:50:29 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SİNİRDEN GÖZÜ DÖNDÜ! Bahadır Erdem, butlancılara öyle sözlerle yüklendi ki! Gündem olacak!</title>
+      <link>https://www.youtube.com/watch?v=f2TDYvEQH0I</link>
+      <guid isPermaLink="false">f2TDYvEQH0I</guid>
+      <pubDate>Mon, 24 Aug 2026 21:45:04 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SİNİRDEN GÖZÜ DÖNDÜ! Bahadır Erdem, butlancılara öyle sözlerle yüklendi ki! Gündem olacak!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: ABD'den Sınırımıza 100 Bin Tır Silah! Bartu Soral İsral'in Gizli Haritasını Deşifre Etti</title>
       <link>https://www.youtube.com/watch?v=mUWmOeJAtVo</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">SvnaS4a5ZyY</guid>
       <pubDate>Mon, 24 Aug 2026 17:54:13 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Onur Öncü ile Sabah Pusulası (25.08.26)</description>
-    </item>
-    <item>
-      <title>Halk TV: "YARIN SÜRPRİZİMİZ OLACAK!" Maden işçilerinden Ankara’yı sallayacak eylem resti!</title>
-      <link>https://www.youtube.com/watch?v=FTKv9oCs34A</link>
-      <guid isPermaLink="false">FTKv9oCs34A</guid>
-      <pubDate>Mon, 24 Aug 2026 17:45:28 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: "YARIN SÜRPRİZİMİZ OLACAK!" Maden işçilerinden Ankara’yı sallayacak eylem resti!</description>
     </item>
   </channel>
 </rss>
