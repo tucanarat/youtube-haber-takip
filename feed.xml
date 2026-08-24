@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 11:40:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 11:44:49 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: Adnan Oktar'ın Tüyler Ürperten Gerçekleri! Bugün Saat 18.00'de #shorts</title>
       <link>https://www.youtube.com/shorts/fFOkp1iF8h4</link>
@@ -69,6 +69,13 @@
       <guid isPermaLink="false">Z8MIh5o1kVM</guid>
       <pubDate>Mon, 24 Aug 2026 10:45:15 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SİLİVRİ'DE NEFESLER TUTULDU! Aziz İhsan Aktaş davasında 200 kişi için karar günü! İşte tüm detaylar!</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Saray'dan yastık altı altın çağrısı! | Şirin: "Doları baskılama sevdasıyla hatada ısrar ediliyor"</title>
+      <link>https://www.youtube.com/watch?v=uohvM1YBdI8</link>
+      <guid isPermaLink="false">uohvM1YBdI8</guid>
+      <pubDate>Mon, 24 Aug 2026 10:43:45 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Saray'dan yastık altı altın çağrısı! | Şirin: "Doları baskılama sevdasıyla hatada ısrar ediliyor"</description>
     </item>
     <item>
       <title>SÖZCÜ TV: AKP Düğmeye Bastı Yol Temizliği Başladı! Seçim Planı Devreye Girdi! Uzman İsim Anlattı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">n98y73umq-0</guid>
       <pubDate>Mon, 24 Aug 2026 08:38:43 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Doruk Maden İşçileri, Yıldızlar Holding (SSS) Önünde Açıklama Yaptı! (24 Ağustos 2026)</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Salah hoş geldin - Hayri Güner</title>
-      <link>https://www.youtube.com/watch?v=r3yhGzzvaN4</link>
-      <guid isPermaLink="false">r3yhGzzvaN4</guid>
-      <pubDate>Mon, 24 Aug 2026 08:38:29 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Salah hoş geldin - Hayri Güner</description>
     </item>
   </channel>
 </rss>
