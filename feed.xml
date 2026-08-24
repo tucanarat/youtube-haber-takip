@@ -6,13 +6,34 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 14:00:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 14:05:26 +0000</lastBuildDate>
     <item>
-      <title>Halk TV: AZİZ İHSAN AKTAŞ BERAAT ETTİ!</title>
+      <title>ANKA Haber Ajansı: Belediye ekipleri 100 kediyle karşılaştı #shorts</title>
+      <link>https://www.youtube.com/shorts/GHYN482tceg</link>
+      <guid isPermaLink="false">GHYN482tceg</guid>
+      <pubDate>Mon, 24 Aug 2026 14:01:04 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Belediye ekipleri 100 kediyle karşılaştı #shorts</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: MOSSAD Harekete Geçti Gizli Suriye Görüşmesi! HAİN PLANLAR! Barrack'ı Düşman İlan Ettiler</title>
+      <link>https://www.youtube.com/watch?v=nYS_pMIcCvM</link>
+      <guid isPermaLink="false">nYS_pMIcCvM</guid>
+      <pubDate>Mon, 24 Aug 2026 14:00:03 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: MOSSAD Harekete Geçti Gizli Suriye Görüşmesi! HAİN PLANLAR! Barrack'ı Düşman İlan Ettiler</description>
+    </item>
+    <item>
+      <title>Halk TV: SON DAKİKA! TARİHİ DAVADA İLK KARARLAR ÇIKIYOR! Aziz İhsan Aktaş örgüt suçlamasından beraat etti!</title>
+      <link>https://www.youtube.com/watch?v=IN3c4DMQgFQ</link>
+      <guid isPermaLink="false">IN3c4DMQgFQ</guid>
+      <pubDate>Mon, 24 Aug 2026 13:54:51 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! TARİHİ DAVADA İLK KARARLAR ÇIKIYOR! Aziz İhsan Aktaş örgüt suçlamasından beraat etti!</description>
+    </item>
+    <item>
+      <title>Halk TV: AZİZ İHSAN AKTAŞ'A 'ÇETE'DEN BERAAT!</title>
       <link>https://www.youtube.com/shorts/_7kvG-BX868</link>
       <guid isPermaLink="false">_7kvG-BX868</guid>
       <pubDate>Mon, 24 Aug 2026 13:50:38 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: AZİZ İHSAN AKTAŞ BERAAT ETTİ!</description>
+      <description>Halk TV kanalından yeni video: AZİZ İHSAN AKTAŞ'A 'ÇETE'DEN BERAAT!</description>
     </item>
     <item>
       <title>Halk TV: SIKI DURUN! Kuriş ailesiyle ilgili ortaya çıkan bu belgeler taşları yerinden oynatır! Duy da inanma!</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">L0rsWBULl90</guid>
       <pubDate>Mon, 24 Aug 2026 11:00:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: AKP ve MHP'de Kulisler Kaynıyor! Ankara'da Neler Oluyor? Erdoğan ve Bahçeli'den Hamleler!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: İYİ Parti Sözcüsü Buğra Kavuncu, parti genel merkezinde basın açıklaması yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=CaL07cxIljQ</link>
-      <guid isPermaLink="false">CaL07cxIljQ</guid>
-      <pubDate>Mon, 24 Aug 2026 10:55:24 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: İYİ Parti Sözcüsü Buğra Kavuncu, parti genel merkezinde basın açıklaması yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: SİLİVRİ'DE NEFESLER TUTULDU! Aziz İhsan Aktaş davasında 200 kişi için karar günü! İşte tüm detaylar!</title>
-      <link>https://www.youtube.com/watch?v=Z8MIh5o1kVM</link>
-      <guid isPermaLink="false">Z8MIh5o1kVM</guid>
-      <pubDate>Mon, 24 Aug 2026 10:45:15 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SİLİVRİ'DE NEFESLER TUTULDU! Aziz İhsan Aktaş davasında 200 kişi için karar günü! İşte tüm detaylar!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Saray'dan yastık altı altın çağrısı! | Şirin: "Doları baskılama sevdasıyla hatada ısrar ediliyor"</title>
-      <link>https://www.youtube.com/watch?v=uohvM1YBdI8</link>
-      <guid isPermaLink="false">uohvM1YBdI8</guid>
-      <pubDate>Mon, 24 Aug 2026 10:43:45 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Saray'dan yastık altı altın çağrısı! | Şirin: "Doları baskılama sevdasıyla hatada ısrar ediliyor"</description>
     </item>
   </channel>
 </rss>
