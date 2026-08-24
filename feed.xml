@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 20:05:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 20:10:32 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: Ahmet Özer göreve dönecek mi? Seraf Özer Aziz İhsan Aktaş davası kararını değerlendirdi</title>
       <link>https://www.youtube.com/watch?v=W8qC3ykAjH8</link>
       <guid isPermaLink="false">W8qC3ykAjH8</guid>
       <pubDate>Mon, 24 Aug 2026 20:00:06 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Ahmet Özer göreve dönecek mi? Seraf Özer Aziz İhsan Aktaş davası kararını değerlendirdi</description>
+    </item>
+    <item>
+      <title>Halk TV: AJANS SAHİBİ HER ŞEYİ İTİRAF ETTİ! 'Figüran' oyunu böyle patladı! ''CHP'den para alabilmek için...''</title>
+      <link>https://www.youtube.com/watch?v=7m9Mf-BpuYQ</link>
+      <guid isPermaLink="false">7m9Mf-BpuYQ</guid>
+      <pubDate>Mon, 24 Aug 2026 20:00:06 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: AJANS SAHİBİ HER ŞEYİ İTİRAF ETTİ! 'Figüran' oyunu böyle patladı! ''CHP'den para alabilmek için...''</description>
     </item>
     <item>
       <title>SÖZCÜ TV: AKP'de Seçim Depremi! İşte İktidarın Korktuğu Plan! Gündem Yaratacak Gezi Göndermesi</title>
@@ -41,13 +48,6 @@
       <guid isPermaLink="false">CspA0HRS6l8</guid>
       <pubDate>Mon, 24 Aug 2026 19:40:38 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: 'Adalet Çantayla İhaleyi Tostla!' Turhan Çömez'den Çarpıcı Aziz İhsan Aktaş Çıkışı! Sert AKP Sözleri</description>
-    </item>
-    <item>
-      <title>Halk TV: AJANS SAHİBİ HER ŞEYİ İTİRAF ETTİ! 'Figüran' oyunu böyle patladı! ''CHP'den para alabilmek için...''</title>
-      <link>https://www.youtube.com/watch?v=7m9Mf-BpuYQ</link>
-      <guid isPermaLink="false">7m9Mf-BpuYQ</guid>
-      <pubDate>Mon, 24 Aug 2026 19:40:23 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: AJANS SAHİBİ HER ŞEYİ İTİRAF ETTİ! 'Figüran' oyunu böyle patladı! ''CHP'den para alabilmek için...''</description>
     </item>
     <item>
       <title>Tele2 Haber: Hilmi Hacaloğlu'ndan butlancılara şok soru: Aklan gel diyenler Zeydan Karalar'ı ihraç mı edecekler?</title>
@@ -90,6 +90,13 @@
       <guid isPermaLink="false">Lwijo9CZviU</guid>
       <pubDate>Mon, 24 Aug 2026 19:15:17 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: İmralı tutanakları doğru mu? Yaşar Aydın sola çağrıya dikkat çekti</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Oya Tekin'den Silivri'yi sallayan adalet isyanı! Seraf Özer çelişkili kararları işaret etti</title>
+      <link>https://www.youtube.com/watch?v=CDbvQ01wqYM</link>
+      <guid isPermaLink="false">CDbvQ01wqYM</guid>
+      <pubDate>Mon, 24 Aug 2026 19:08:55 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Oya Tekin'den Silivri'yi sallayan adalet isyanı! Seraf Özer çelişkili kararları işaret etti</description>
     </item>
     <item>
       <title>Tele2 Haber: İMRALI TUTANAKLARI! Murat Taylan ile Gerçek | Konuklar: Yaşar Aydın ve Emrah Gülsunar (24.08.2026)</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Aa_-bfoqd3E</guid>
       <pubDate>Mon, 24 Aug 2026 16:52:31 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İYİ Partili Cenk Özatıcı, Selçuk Türkoğlu'nun Sağlık Durumuna İlişkin Açıklama Yaptı!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Er şehit yakınları ve er gaziler polis ablukasında #Canlı</title>
-      <link>https://www.youtube.com/watch?v=LuLo-VW6y5k</link>
-      <guid isPermaLink="false">LuLo-VW6y5k</guid>
-      <pubDate>Mon, 24 Aug 2026 16:48:53 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Er şehit yakınları ve er gaziler polis ablukasında #Canlı</description>
     </item>
   </channel>
 </rss>
