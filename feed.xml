@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 12:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 12:45:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Er Şehit Yakınları ve Er Gaziler Kurtuluş Parkı'nda Polis Ablukasında!</title>
+      <link>https://www.youtube.com/watch?v=RU03OT1c9PU</link>
+      <guid isPermaLink="false">RU03OT1c9PU</guid>
+      <pubDate>Mon, 24 Aug 2026 12:43:19 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Er Şehit Yakınları ve Er Gaziler Kurtuluş Parkı'nda Polis Ablukasında!</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: #CANLI Er şehit yakınları ve er gaziler Kurtuluş Parkı'nda polis ablukasında</title>
+      <link>https://www.youtube.com/watch?v=bECVLIOJZ_A</link>
+      <guid isPermaLink="false">bECVLIOJZ_A</guid>
+      <pubDate>Mon, 24 Aug 2026 12:39:35 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI Er şehit yakınları ve er gaziler Kurtuluş Parkı'nda polis ablukasında</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI YENİ Parti Sözcüsü Zeynel Emre TBMM'de açıklama yapıyor</title>
       <link>https://www.youtube.com/watch?v=QnAY7VEHftA</link>
@@ -27,6 +41,13 @@
       <guid isPermaLink="false">GNwSvcBPeUU</guid>
       <pubDate>Mon, 24 Aug 2026 12:30:39 +0000</pubDate>
       <description>Halk TV kanalından yeni video: 200 KİŞİ İÇİN KARAR ÇIKACAK! Aziz İhsan Aktaş davasında kimin kaç yıl hapsi isteniyor? İşte detaylar</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: ERKEN SEÇİM İÇİN YENİ FORMÜL! Ankara'yı Sarsan "Milliyetçi İttifak" Hamlesi! Bahçeli Eğer...</title>
+      <link>https://www.youtube.com/watch?v=iBbp-RZoQxA</link>
+      <guid isPermaLink="false">iBbp-RZoQxA</guid>
+      <pubDate>Mon, 24 Aug 2026 12:30:13 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: ERKEN SEÇİM İÇİN YENİ FORMÜL! Ankara'yı Sarsan "Milliyetçi İttifak" Hamlesi! Bahçeli Eğer...</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: "33 haftalık hamileyim, 2,5 aydır kontrole gidemiyorum" #shorts</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">FEbW760X7JE</guid>
       <pubDate>Mon, 24 Aug 2026 09:20:04 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Bağımsız Maden İş üyesi madenciler, Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor</description>
-    </item>
-    <item>
-      <title>Halk TV: Madenciler, Enerji Ve Tabii Kaynaklar Bakanlığı Önünde Açıklama Yaptı! (24 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=PB1Cd8ArVr8</link>
-      <guid isPermaLink="false">PB1Cd8ArVr8</guid>
-      <pubDate>Mon, 24 Aug 2026 09:17:46 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Madenciler, Enerji Ve Tabii Kaynaklar Bakanlığı Önünde Açıklama Yaptı! (24 Ağustos 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: ÇOK KONUŞULACAK İDDİALARI DOĞRULADI! O sözler için Nesrin Nas'tan Akşener'e gündem olacak sözler!</title>
-      <link>https://www.youtube.com/watch?v=WUnocVGyVs0</link>
-      <guid isPermaLink="false">WUnocVGyVs0</guid>
-      <pubDate>Mon, 24 Aug 2026 09:15:26 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ÇOK KONUŞULACAK İDDİALARI DOĞRULADI! O sözler için Nesrin Nas'tan Akşener'e gündem olacak sözler!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Doruk Maden işçileri Yıldızlar Holding (SSS) önünde: "Mücadelemiz herkes için geçerli"</title>
-      <link>https://www.youtube.com/watch?v=DKWXHi9Nyu8</link>
-      <guid isPermaLink="false">DKWXHi9Nyu8</guid>
-      <pubDate>Mon, 24 Aug 2026 09:13:18 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Doruk Maden işçileri Yıldızlar Holding (SSS) önünde: "Mücadelemiz herkes için geçerli"</description>
     </item>
   </channel>
 </rss>
