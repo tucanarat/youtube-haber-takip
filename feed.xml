@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 19:45:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 19:50:36 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: Süleymancılarla İdris Naim Şahin'in ilişkisi ne? Ersin Eroğlu ve Hilmi Hacaloğlu analiz etti</title>
       <link>https://www.youtube.com/watch?v=ukzwtNIyN9Q</link>
       <guid isPermaLink="false">ukzwtNIyN9Q</guid>
       <pubDate>Mon, 24 Aug 2026 19:45:16 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Süleymancılarla İdris Naim Şahin'in ilişkisi ne? Ersin Eroğlu ve Hilmi Hacaloğlu analiz etti</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: 'Adalet Çantayla İhaleyi Tostla!' Turhan Çömez'den Çarpıcı Aziz İhsan Aktaş Çıkışı! Sert AKP Sözleri</title>
+      <link>https://www.youtube.com/watch?v=CspA0HRS6l8</link>
+      <guid isPermaLink="false">CspA0HRS6l8</guid>
+      <pubDate>Mon, 24 Aug 2026 19:40:38 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: 'Adalet Çantayla İhaleyi Tostla!' Turhan Çömez'den Çarpıcı Aziz İhsan Aktaş Çıkışı! Sert AKP Sözleri</description>
     </item>
     <item>
       <title>Tele2 Haber: Hilmi Hacaloğlu'ndan butlancılara şok soru: Aklan gel diyenler Zeydan Karalar'ı ihraç mı edecekler?</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">98aaKv8aTPc</guid>
       <pubDate>Mon, 24 Aug 2026 16:44:03 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Aziz İhsan Aktaş davası sonrası Ahmet Özer Silivri’de açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Kürşad Oğuz ile Rota</title>
-      <link>https://www.youtube.com/watch?v=gz_Vn6EiizI</link>
-      <guid isPermaLink="false">gz_Vn6EiizI</guid>
-      <pubDate>Mon, 24 Aug 2026 16:42:40 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Kürşad Oğuz ile Rota</description>
     </item>
   </channel>
 </rss>
