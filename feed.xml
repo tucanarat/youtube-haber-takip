@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 12:50:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 12:55:27 +0000</lastBuildDate>
     <item>
       <title>Cumhuriyet: Aziz İhsan Aktaş Davasında karar günü! Muhabirimiz Batuhan Serim Silivri’de yaşananları anlattı</title>
       <link>https://www.youtube.com/watch?v=mkSd8_IZ5o4</link>
       <guid isPermaLink="false">mkSd8_IZ5o4</guid>
       <pubDate>Mon, 24 Aug 2026 12:47:54 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Aziz İhsan Aktaş Davasında karar günü! Muhabirimiz Batuhan Serim Silivri’de yaşananları anlattı</description>
+    </item>
+    <item>
+      <title>Halk TV: Erdoğan'dan CHP'li belediye başkanına transfer teklifi! Mehmet Tezkan'dan Bahçeli'ye olay sözler!</title>
+      <link>https://www.youtube.com/watch?v=aidfLuF6zyY</link>
+      <guid isPermaLink="false">aidfLuF6zyY</guid>
+      <pubDate>Mon, 24 Aug 2026 12:45:16 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Erdoğan'dan CHP'li belediye başkanına transfer teklifi! Mehmet Tezkan'dan Bahçeli'ye olay sözler!</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | Er Şehit Yakınları ve Er Gaziler Kurtuluş Parkı'nda Polis Ablukasında!</title>
@@ -281,11 +288,11 @@
       <description>Halk TV kanalından yeni video: Bilge Yurtdagülen ile Neden Sonuç | Mehmet Tezkan (24 Ağustos 2026)</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | İrem Sansak ile Haber Masası</title>
+      <title>Halk TV: İrem Sansak ile Haber Masası (24 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=5XkhkgMNst8</link>
       <guid isPermaLink="false">5XkhkgMNst8</guid>
       <pubDate>Mon, 24 Aug 2026 09:51:09 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | İrem Sansak ile Haber Masası</description>
+      <description>Halk TV kanalından yeni video: İrem Sansak ile Haber Masası (24 Ağustos 2026)</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Cumhur İttifakı'nda Deprem! AKP ve MHP'yi Sallayan Anket! Çözüm Süreci Pahalıya Patladı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">xqO7aAlCSTk</guid>
       <pubDate>Mon, 24 Aug 2026 09:25:01 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Madencilerden son uyarı! "Olumlu adım atılmazsa Cumhurbaşkanlığı'na yürüyeceğiz"</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Maden işçileri, Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor</title>
-      <link>https://www.youtube.com/watch?v=qPOlEDlTFhM</link>
-      <guid isPermaLink="false">qPOlEDlTFhM</guid>
-      <pubDate>Mon, 24 Aug 2026 09:20:47 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Maden işçileri, Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor</description>
     </item>
   </channel>
 </rss>
