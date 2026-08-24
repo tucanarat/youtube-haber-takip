@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 11:45:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 11:50:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SÜLEYMANCILARA DAİR BİLİNMEYENLER! Ersin Eroğlu canlı yayında 'FETÖ' tecrübesine dikkat çekti!</title>
+      <link>https://www.youtube.com/watch?v=3uUUsx_SoQs</link>
+      <guid isPermaLink="false">3uUUsx_SoQs</guid>
+      <pubDate>Mon, 24 Aug 2026 11:45:42 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SÜLEYMANCILARA DAİR BİLİNMEYENLER! Ersin Eroğlu canlı yayında 'FETÖ' tecrübesine dikkat çekti!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: "Adnan Oktar Serbest Kalsa 2 Saatte Ne Olur?" Eski Örgüt Üyesi Özkan Mamati Dehşeti Anlattı</title>
       <link>https://www.youtube.com/watch?v=TgQHnmDrTF0</link>
@@ -15,11 +22,11 @@
       <description>SÖZCÜ TV kanalından yeni video: "Adnan Oktar Serbest Kalsa 2 Saatte Ne Olur?" Eski Örgüt Üyesi Özkan Mamati Dehşeti Anlattı</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: Adnan Oktar'ın Tüyler Ürperten Gerçekleri! Bugün Saat 18.00'de #shorts</title>
+      <title>SÖZCÜ TV: Adnancılar ve FETÖ: Lidere Mutlak İtaatin Sonuçları! Bugün Saat 18.00'de #shorts</title>
       <link>https://www.youtube.com/shorts/fFOkp1iF8h4</link>
       <guid isPermaLink="false">fFOkp1iF8h4</guid>
       <pubDate>Mon, 24 Aug 2026 11:30:26 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Adnan Oktar'ın Tüyler Ürperten Gerçekleri! Bugün Saat 18.00'de #shorts</description>
+      <description>SÖZCÜ TV kanalından yeni video: Adnancılar ve FETÖ: Lidere Mutlak İtaatin Sonuçları! Bugün Saat 18.00'de #shorts</description>
     </item>
     <item>
       <title>Halk TV: TÜRKİYE'Yİ AYAĞA KALDIRACAK OLAY! Süleymancılar eski bakanın 2 aracını daha kullanmış! Şok detaylar!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">gA25tCu2Hrg</guid>
       <pubDate>Mon, 24 Aug 2026 08:38:57 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Seçimsiz Türkiye - Örsan Öymen</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Sanatoryum yaşamalı - Jale Özgentürk</title>
-      <link>https://www.youtube.com/watch?v=M3NiUVG0CD4</link>
-      <guid isPermaLink="false">M3NiUVG0CD4</guid>
-      <pubDate>Mon, 24 Aug 2026 08:38:55 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Sanatoryum yaşamalı - Jale Özgentürk</description>
     </item>
   </channel>
 </rss>
