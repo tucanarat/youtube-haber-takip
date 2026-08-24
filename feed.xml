@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 20:25:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 20:30:41 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Oya Tekin'den Silivri'yi sallayan adalet isyanı! Seraf Özer çelişkili kararları işaret etti</title>
+      <link>https://www.youtube.com/watch?v=CDbvQ01wqYM</link>
+      <guid isPermaLink="false">CDbvQ01wqYM</guid>
+      <pubDate>Mon, 24 Aug 2026 20:30:06 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Oya Tekin'den Silivri'yi sallayan adalet isyanı! Seraf Özer çelişkili kararları işaret etti</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: AKP'nin Kaybettiği Belediyeleri Alma Oyunu! İnanılmaz Aşı Rantı Çarkı! Bartu Soral'dan Acı Reçete</title>
+      <link>https://www.youtube.com/watch?v=uf7_9QJXuag</link>
+      <guid isPermaLink="false">uf7_9QJXuag</guid>
+      <pubDate>Mon, 24 Aug 2026 20:20:10 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: AKP'nin Kaybettiği Belediyeleri Alma Oyunu! İnanılmaz Aşı Rantı Çarkı! Bartu Soral'dan Acı Reçete</description>
+    </item>
+    <item>
+      <title>Halk TV: SON DAKİKA! CHP’den istifa furyası sürüyor! İki belediye başkanı daha YENİ Parti’ye geçti!</title>
+      <link>https://www.youtube.com/watch?v=TNW5NXI7C-k</link>
+      <guid isPermaLink="false">TNW5NXI7C-k</guid>
+      <pubDate>Mon, 24 Aug 2026 20:15:14 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! CHP’den istifa furyası sürüyor! İki belediye başkanı daha YENİ Parti’ye geçti!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Ahmet Özer göreve dönecek mi? Seraf Özer Aziz İhsan Aktaş davası kararını değerlendirdi</title>
       <link>https://www.youtube.com/watch?v=W8qC3ykAjH8</link>
@@ -90,13 +111,6 @@
       <guid isPermaLink="false">Lwijo9CZviU</guid>
       <pubDate>Mon, 24 Aug 2026 19:15:17 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: İmralı tutanakları doğru mu? Yaşar Aydın sola çağrıya dikkat çekti</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Oya Tekin'den Silivri'yi sallayan adalet isyanı! Seraf Özer çelişkili kararları işaret etti</title>
-      <link>https://www.youtube.com/watch?v=CDbvQ01wqYM</link>
-      <guid isPermaLink="false">CDbvQ01wqYM</guid>
-      <pubDate>Mon, 24 Aug 2026 19:08:55 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Oya Tekin'den Silivri'yi sallayan adalet isyanı! Seraf Özer çelişkili kararları işaret etti</description>
     </item>
     <item>
       <title>Tele2 Haber: İMRALI TUTANAKLARI! Murat Taylan ile Gerçek | Konuklar: Yaşar Aydın ve Emrah Gülsunar (24.08.2026)</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">5RekvVLpsDg</guid>
       <pubDate>Mon, 24 Aug 2026 16:57:02 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: SALİM ŞEN, ZEYDAN KARALAR'IN HAPİS CEZASINA İSYAN ETTİ!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Sözcü Ana Haber | Serap Belovacıklı | 24 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=H3o8K3ddkRM</link>
-      <guid isPermaLink="false">H3o8K3ddkRM</guid>
-      <pubDate>Mon, 24 Aug 2026 16:54:49 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Sözcü Ana Haber | Serap Belovacıklı | 24 Ağustos</description>
-    </item>
-    <item>
-      <title>Halk TV: İYİ Partili Cenk Özatıcı, Selçuk Türkoğlu'nun Sağlık Durumuna İlişkin Açıklama Yaptı!</title>
-      <link>https://www.youtube.com/watch?v=Aa_-bfoqd3E</link>
-      <guid isPermaLink="false">Aa_-bfoqd3E</guid>
-      <pubDate>Mon, 24 Aug 2026 16:52:31 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İYİ Partili Cenk Özatıcı, Selçuk Türkoğlu'nun Sağlık Durumuna İlişkin Açıklama Yaptı!</description>
     </item>
   </channel>
 </rss>
