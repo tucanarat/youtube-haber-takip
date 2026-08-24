@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 18:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 18:40:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: İYİ Parti Milletvekili Selçuk Türkoğlu ile danışmanının, polis tarafından darp edildiği öne sürüldü!</title>
+      <link>https://www.youtube.com/shorts/2CSQM5Eut8o</link>
+      <guid isPermaLink="false">2CSQM5Eut8o</guid>
+      <pubDate>Mon, 24 Aug 2026 18:35:24 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İYİ Parti Milletvekili Selçuk Türkoğlu ile danışmanının, polis tarafından darp edildiği öne sürüldü!</description>
+    </item>
     <item>
       <title>Tele2 Haber: "ADALET ER GEÇ GELECEK" Çaykara ve Aydar "Aziz İhsan Aktaş davasında" verilen kararlara isyan etti!</title>
       <link>https://www.youtube.com/watch?v=VlrnSKa2wAk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">qkp5dSbClvY</guid>
       <pubDate>Mon, 24 Aug 2026 15:33:26 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Ahmet Özer'den Aziz İhsan Aktaş davası kararlarına ilk tepki: BARIŞÇIL ORTAMI SABOTE ETTİ</description>
-    </item>
-    <item>
-      <title>Halk TV: Aziz İhsan Aktaş Davası Sonrası Gül Çiftci Silivri'de Açıklama Yaptı! (24 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=ET9-91o1Vo8</link>
-      <guid isPermaLink="false">ET9-91o1Vo8</guid>
-      <pubDate>Mon, 24 Aug 2026 15:30:46 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Aziz İhsan Aktaş Davası Sonrası Gül Çiftci Silivri'de Açıklama Yaptı! (24 Ağustos 2026)</description>
     </item>
   </channel>
 </rss>
