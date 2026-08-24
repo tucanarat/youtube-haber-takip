@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 11:00:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 11:05:24 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Olağanüstü bir süreçten geçildiğini kaydeden YENİ Partili Gizem Özcan'dan çok çarpıcı sözler!</title>
+      <link>https://www.youtube.com/watch?v=o9SKSLNnRmA</link>
+      <guid isPermaLink="false">o9SKSLNnRmA</guid>
+      <pubDate>Mon, 24 Aug 2026 11:00:34 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Olağanüstü bir süreçten geçildiğini kaydeden YENİ Partili Gizem Özcan'dan çok çarpıcı sözler!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: AKP ve MHP'de Kulisler Kaynıyor! Ankara'da Neler Oluyor? Erdoğan ve Bahçeli'den Hamleler!</title>
       <link>https://www.youtube.com/watch?v=L0rsWBULl90</link>
       <guid isPermaLink="false">L0rsWBULl90</guid>
       <pubDate>Mon, 24 Aug 2026 11:00:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: AKP ve MHP'de Kulisler Kaynıyor! Ankara'da Neler Oluyor? Erdoğan ve Bahçeli'den Hamleler!</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: İYİ Parti Sözcüsü Buğra Kavuncu, parti genel merkezinde basın açıklaması yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=CaL07cxIljQ</link>
+      <guid isPermaLink="false">CaL07cxIljQ</guid>
+      <pubDate>Mon, 24 Aug 2026 10:55:24 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: İYİ Parti Sözcüsü Buğra Kavuncu, parti genel merkezinde basın açıklaması yapıyor #Canlı</description>
     </item>
     <item>
       <title>Halk TV: SİLİVRİ'DE NEFESLER TUTULDU! Aziz İhsan Aktaş davasında 200 kişi için karar günü! İşte tüm detaylar!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">qxaYBm8IRIA</guid>
       <pubDate>Mon, 24 Aug 2026 08:30:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: MENZİL'E DOKUNULMUYOR SÜLEYMANCILARA OPERASYON! Fatih Ergin Ankara Kulislerini Patlattı</description>
-    </item>
-    <item>
-      <title>Halk TV: Tutuklu İBB Başkanı Ekrem İmamoğlu, gençlere YENİ Parti'ye katılmaları çağrısı yaptı!</title>
-      <link>https://www.youtube.com/watch?v=hFakN_A0NCA</link>
-      <guid isPermaLink="false">hFakN_A0NCA</guid>
-      <pubDate>Mon, 24 Aug 2026 08:15:24 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Tutuklu İBB Başkanı Ekrem İmamoğlu, gençlere YENİ Parti'ye katılmaları çağrısı yaptı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Ceyhan Belediye Başkanı Kadir Aydar: Beraat edeceğime yüzde 100 inanıyorum!</title>
-      <link>https://www.youtube.com/shorts/YQrAFhQhoRk</link>
-      <guid isPermaLink="false">YQrAFhQhoRk</guid>
-      <pubDate>Mon, 24 Aug 2026 08:06:53 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ceyhan Belediye Başkanı Kadir Aydar: Beraat edeceğime yüzde 100 inanıyorum!</description>
     </item>
   </channel>
 </rss>
