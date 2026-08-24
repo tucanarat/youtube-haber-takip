@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 17:50:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 17:55:27 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: "YARIN SÜRPRİZİMİZ OLACAK!" Maden işçilerinden Ankara’yı sallayacak eylem resti!</title>
+      <link>https://www.youtube.com/watch?v=FTKv9oCs34A</link>
+      <guid isPermaLink="false">FTKv9oCs34A</guid>
+      <pubDate>Mon, 24 Aug 2026 17:45:28 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: "YARIN SÜRPRİZİMİZ OLACAK!" Maden işçilerinden Ankara’yı sallayacak eylem resti!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Gizli Tanık 'Yaprak' Kim? İtirafçı Aktaş'ın Sözleriyle Gelen 50 Yıl Hapis! Mahkemenin Çarpıcı Kararı</title>
       <link>https://www.youtube.com/watch?v=SKK0QlR5zLQ</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">l3pY3Edfp6w</guid>
       <pubDate>Mon, 24 Aug 2026 14:40:22 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Aziz İhsan Aktaş davasında Ahmet Özer için flaş karar! Görevine dönecek mi? Bülent Yücetürk anlattı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Avrupa'da "Türkiye" Çatlağı! Türk SİHA'ları NATO ve AB'yi Birbirine Kattı! İttifakta Büyük Kriz</title>
-      <link>https://www.youtube.com/watch?v=W6Fg27mtcss</link>
-      <guid isPermaLink="false">W6Fg27mtcss</guid>
-      <pubDate>Mon, 24 Aug 2026 14:40:19 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Avrupa'da "Türkiye" Çatlağı! Türk SİHA'ları NATO ve AB'yi Birbirine Kattı! İttifakta Büyük Kriz</description>
     </item>
   </channel>
 </rss>
