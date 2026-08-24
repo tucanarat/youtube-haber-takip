@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 09:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 09:30:41 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI Murat Taylan ile Haber-Yorum (24.08.26)</title>
+      <link>https://www.youtube.com/watch?v=a8YBrO8Cd4s</link>
+      <guid isPermaLink="false">a8YBrO8Cd4s</guid>
+      <pubDate>Mon, 24 Aug 2026 09:29:04 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Murat Taylan ile Haber-Yorum (24.08.26)</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Madencilerden son uyarı! "Olumlu adım atılmazsa Cumhurbaşkanlığı'na yürüyeceğiz"</title>
+      <link>https://www.youtube.com/watch?v=xqO7aAlCSTk</link>
+      <guid isPermaLink="false">xqO7aAlCSTk</guid>
+      <pubDate>Mon, 24 Aug 2026 09:25:01 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Madencilerden son uyarı! "Olumlu adım atılmazsa Cumhurbaşkanlığı'na yürüyeceğiz"</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI Maden işçileri, Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor</title>
       <link>https://www.youtube.com/watch?v=qPOlEDlTFhM</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">CA0uoOc35xc</guid>
       <pubDate>Mon, 24 Aug 2026 07:10:38 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Zonguldak Alaplı'da korkutan gelişme! Şırnak Silopi'den gelen tarım işçileri taşlı saldırıya uğradı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Erdoğan'ın Korkulu Rüyası! Ümit Özdağ Liderleri Topladı! Milliyetçi İttifak mı Geliyor?</title>
-      <link>https://www.youtube.com/watch?v=Tu9-NTo89aA</link>
-      <guid isPermaLink="false">Tu9-NTo89aA</guid>
-      <pubDate>Mon, 24 Aug 2026 07:00:42 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Erdoğan'ın Korkulu Rüyası! Ümit Özdağ Liderleri Topladı! Milliyetçi İttifak mı Geliyor?</description>
-    </item>
-    <item>
-      <title>Halk TV: SÜREÇTE EN KRİTİK AŞAMA BAŞLIYOR! Öcalan'ın alacağı rol belli oldu! O aşamayı bizzat takip edecekmiş</title>
-      <link>https://www.youtube.com/watch?v=MJnCfrqHt4Q</link>
-      <guid isPermaLink="false">MJnCfrqHt4Q</guid>
-      <pubDate>Mon, 24 Aug 2026 06:48:23 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SÜREÇTE EN KRİTİK AŞAMA BAŞLIYOR! Öcalan'ın alacağı rol belli oldu! O aşamayı bizzat takip edecekmiş</description>
     </item>
   </channel>
 </rss>
