@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 10:10:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 10:15:33 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Aziz İhsan Aktaş davasında karar günü | Avcılar Belediye Başkanı Çaykara:Beraat edeceğime inanıyorum</title>
+      <link>https://www.youtube.com/shorts/4B65sxLKCx4</link>
+      <guid isPermaLink="false">4B65sxLKCx4</guid>
+      <pubDate>Mon, 24 Aug 2026 10:09:42 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Aziz İhsan Aktaş davasında karar günü | Avcılar Belediye Başkanı Çaykara:Beraat edeceğime inanıyorum</description>
+    </item>
     <item>
       <title>Halk TV: Süleymancılardan sonra Furkancılara operasyon yapıldı! Dosya ile ilgili dikkat çeken bilgiler çıktı!</title>
       <link>https://www.youtube.com/watch?v=wG_QScYqtDE</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">XGhA5wZG6oY</guid>
       <pubDate>Mon, 24 Aug 2026 07:51:45 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Aziz İhsan Aktaş davasında karar günü: Zeydan Karalar da Silivri'de</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Osmaniye'de yurttaşın sağlık sistemine isyanı: "İki buçuk aydır randevu yok"</title>
-      <link>https://www.youtube.com/shorts/fczDvYsxjEk</link>
-      <guid isPermaLink="false">fczDvYsxjEk</guid>
-      <pubDate>Mon, 24 Aug 2026 07:48:17 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Osmaniye'de yurttaşın sağlık sistemine isyanı: "İki buçuk aydır randevu yok"</description>
     </item>
   </channel>
 </rss>
