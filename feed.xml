@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 18:00:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 18:02:53 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Gazilerin eyleminde arbede! İYİ Partili Selçuk Türkoğlu eylem sırasında fenalaştı!</title>
+      <link>https://www.youtube.com/watch?v=W477wAj98GU</link>
+      <guid isPermaLink="false">W477wAj98GU</guid>
+      <pubDate>Mon, 24 Aug 2026 18:00:38 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Gazilerin eyleminde arbede! İYİ Partili Selçuk Türkoğlu eylem sırasında fenalaştı!</description>
+    </item>
     <item>
       <title>Tele2 Haber: İYİ Parti Vekil Selçuk Türkoğlu'na gazileri ziyaretinde polis müdahalesi!</title>
       <link>https://www.youtube.com/watch?v=DoGmA7Ne_5Q</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">P6LMJY1lrGk</guid>
       <pubDate>Mon, 24 Aug 2026 15:00:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Süleymancılar, Furkancılar ve Karanlık Ağları | Furkan Sezer | İpek Özbey ile Nasıl Olacak?</description>
-    </item>
-    <item>
-      <title>Halk TV: Gizem Çetin ile Parantez (24 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=0W54WocF2ns</link>
-      <guid isPermaLink="false">0W54WocF2ns</guid>
-      <pubDate>Mon, 24 Aug 2026 14:56:38 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Gizem Çetin ile Parantez (24 Ağustos 2026)</description>
     </item>
   </channel>
 </rss>
