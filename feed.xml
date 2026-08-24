@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 06:15:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 06:20:29 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | GÖZLER SİLİVRİ'DE! Aziz İhsan Aktaş Davasında Karar Günü! Yargılamada Hüküm Açıklanıyor!</title>
+      <link>https://www.youtube.com/watch?v=CCQB379fmQk</link>
+      <guid isPermaLink="false">CCQB379fmQk</guid>
+      <pubDate>Mon, 24 Aug 2026 05:46:35 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | GÖZLER SİLİVRİ'DE! Aziz İhsan Aktaş Davasında Karar Günü! Yargılamada Hüküm Açıklanıyor!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: S Raporu | Dilan Polat</title>
       <link>https://www.youtube.com/watch?v=d616Eclsj9A</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">K1dSX_nus20</guid>
       <pubDate>Sun, 23 Aug 2026 17:50:03 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Trump’ın vize yasağına yargı engeli! ABD mahkemesi 75 ülkeye kısıtlamayı durdurdu!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Erdoğan'ın Uykularını Kaçıracak İttifak! Ümit Özdağ Düğmeye Bastı! ANKARA'DA HESAPLAR DEĞİŞİYOR</title>
-      <link>https://www.youtube.com/watch?v=VGiIGufUzpg</link>
-      <guid isPermaLink="false">VGiIGufUzpg</guid>
-      <pubDate>Sun, 23 Aug 2026 17:30:12 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Erdoğan'ın Uykularını Kaçıracak İttifak! Ümit Özdağ Düğmeye Bastı! ANKARA'DA HESAPLAR DEĞİŞİYOR</description>
     </item>
   </channel>
 </rss>
