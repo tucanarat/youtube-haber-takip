@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 10:50:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 10:55:27 +0000</lastBuildDate>
     <item>
       <title>Halk TV: SİLİVRİ'DE NEFESLER TUTULDU! Aziz İhsan Aktaş davasında 200 kişi için karar günü! İşte tüm detaylar!</title>
       <link>https://www.youtube.com/watch?v=Z8MIh5o1kVM</link>
       <guid isPermaLink="false">Z8MIh5o1kVM</guid>
       <pubDate>Mon, 24 Aug 2026 10:45:15 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SİLİVRİ'DE NEFESLER TUTULDU! Aziz İhsan Aktaş davasında 200 kişi için karar günü! İşte tüm detaylar!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: AKP Düğmeye Bastı Yol Temizliği Başladı! Seçim Planı Devreye Girdi! Uzman İsim Anlattı</title>
+      <link>https://www.youtube.com/watch?v=rYWAzSIMkYU</link>
+      <guid isPermaLink="false">rYWAzSIMkYU</guid>
+      <pubDate>Mon, 24 Aug 2026 10:40:04 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: AKP Düğmeye Bastı Yol Temizliği Başladı! Seçim Planı Devreye Girdi! Uzman İsim Anlattı</description>
     </item>
     <item>
       <title>Cumhuriyet: Kuşadası'nda Bülent Ersoy krizi: Sahneye geç çıkınca protesto edildi</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">-mMZytqDV6E</guid>
       <pubDate>Mon, 24 Aug 2026 08:03:59 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Sözcü Masası | Damla Doğan Tuncel | 24 Ağustos</description>
-    </item>
-    <item>
-      <title>Halk TV: Ahmet Özer: Görevimizin başına dönmeyi, Esenyurt'a hizmet etmeyi bekliyoruz!</title>
-      <link>https://www.youtube.com/shorts/qUAhjd1fqUY</link>
-      <guid isPermaLink="false">qUAhjd1fqUY</guid>
-      <pubDate>Mon, 24 Aug 2026 08:02:02 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ahmet Özer: Görevimizin başına dönmeyi, Esenyurt'a hizmet etmeyi bekliyoruz!</description>
     </item>
   </channel>
 </rss>
