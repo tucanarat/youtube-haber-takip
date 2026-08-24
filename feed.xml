@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 10:35:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 10:40:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: BOMBA DETAY AKP KULİSİNDEN SIZDI! Çerçeve yasanın uygulama ayrıntıları ortaya çıktı! Ankara ayakta!</title>
+      <link>https://www.youtube.com/watch?v=vYUT5vS0_Cs</link>
+      <guid isPermaLink="false">vYUT5vS0_Cs</guid>
+      <pubDate>Mon, 24 Aug 2026 10:30:28 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BOMBA DETAY AKP KULİSİNDEN SIZDI! Çerçeve yasanın uygulama ayrıntıları ortaya çıktı! Ankara ayakta!</description>
+    </item>
     <item>
       <title>Tele2 Haber: AVCILAR BELEDİYE BAŞKANI ÇAYKARA'DAN KARAR DURUŞMASI ÖNCESİ NET MESAJ!</title>
       <link>https://www.youtube.com/shorts/56u2RvXunVY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">sRx4bCEPmZA</guid>
       <pubDate>Mon, 24 Aug 2026 08:00:18 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Trabzonspor, Fabinho transferini resmen duyurdu: Uçaktan ilk mesajı verdi</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! BURSA'DA KORKUTAN ORMAN YANGINI! Alevler bir anda yükseldi! Dehşet verici görüntüler...</title>
-      <link>https://www.youtube.com/watch?v=4b9L_JStIk0</link>
-      <guid isPermaLink="false">4b9L_JStIk0</guid>
-      <pubDate>Mon, 24 Aug 2026 08:00:05 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! BURSA'DA KORKUTAN ORMAN YANGINI! Alevler bir anda yükseldi! Dehşet verici görüntüler...</description>
     </item>
   </channel>
 </rss>
