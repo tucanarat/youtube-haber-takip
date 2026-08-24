@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 12:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 12:05:28 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Öncesi Sonrası | Senem Toluay Ilgaz 24 Ağustos</title>
+      <link>https://www.youtube.com/watch?v=6C6o3mRhqLY</link>
+      <guid isPermaLink="false">6C6o3mRhqLY</guid>
+      <pubDate>Mon, 24 Aug 2026 12:01:21 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Öncesi Sonrası | Senem Toluay Ilgaz 24 Ağustos</description>
+    </item>
     <item>
       <title>Halk TV: ERDOĞAN'A YOLUN SONU GÖZÜKTÜ! Mehmet Tezkan, Beştepe'ye acı reçeteyi yazdı! Tüm ezberler bozuldu!</title>
       <link>https://www.youtube.com/watch?v=C59CHjt6DUk</link>
       <guid isPermaLink="false">C59CHjt6DUk</guid>
       <pubDate>Mon, 24 Aug 2026 12:00:27 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ERDOĞAN'A YOLUN SONU GÖZÜKTÜ! Mehmet Tezkan, Beştepe'ye acı reçeteyi yazdı! Tüm ezberler bozuldu!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Ajans Sahibi Her Şeyi İtiraf Etti! CHP'nin Figüran Oyunu Patladı! 'YALAN SÖYLEDİK PARAYI ALAMADIK'</title>
+      <link>https://www.youtube.com/watch?v=VyiD_1sPRkM</link>
+      <guid isPermaLink="false">VyiD_1sPRkM</guid>
+      <pubDate>Mon, 24 Aug 2026 12:00:19 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Ajans Sahibi Her Şeyi İtiraf Etti! CHP'nin Figüran Oyunu Patladı! 'YALAN SÖYLEDİK PARAYI ALAMADIK'</description>
     </item>
     <item>
       <title>Halk TV: SÜLEYMANCILARA DAİR BİLİNMEYENLER! Ersin Eroğlu canlı yayında 'FETÖ' tecrübesine dikkat çekti!</title>
@@ -183,6 +197,13 @@
       <description>Halk TV kanalından yeni video: #CANLI | İrem Sansak ile Haber Masası</description>
     </item>
     <item>
+      <title>SÖZCÜ TV: Cumhur İttifakı'nda Deprem! AKP ve MHP'yi Sallayan Anket! Çözüm Süreci Pahalıya Patladı</title>
+      <link>https://www.youtube.com/watch?v=U_g_QFWbYFM</link>
+      <guid isPermaLink="false">U_g_QFWbYFM</guid>
+      <pubDate>Mon, 24 Aug 2026 09:46:36 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Cumhur İttifakı'nda Deprem! AKP ve MHP'yi Sallayan Anket! Çözüm Süreci Pahalıya Patladı</description>
+    </item>
+    <item>
       <title>ANKA Haber Ajansı: CHP İstanbul İl Başkanı Gürsel Tekin, İstanbul İş Adamları Derneği'ni ziyaret ediyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=1yG-FXAwKa0</link>
       <guid isPermaLink="false">1yG-FXAwKa0</guid>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">h8T0gCEJ7U8</guid>
       <pubDate>Mon, 24 Aug 2026 08:43:29 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI Doruk Maden işçileri, Yıldızlar Holding (SSS) önünde açıklama yapıyor</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Yine mi? - Gülengül Altınsay</title>
-      <link>https://www.youtube.com/watch?v=R-p-AoNDxBM</link>
-      <guid isPermaLink="false">R-p-AoNDxBM</guid>
-      <pubDate>Mon, 24 Aug 2026 08:39:02 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Yine mi? - Gülengül Altınsay</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Yaylayı Tüketiyoruz - Güven Baykan</title>
-      <link>https://www.youtube.com/watch?v=6WikCQufvyY</link>
-      <guid isPermaLink="false">6WikCQufvyY</guid>
-      <pubDate>Mon, 24 Aug 2026 08:38:59 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Yaylayı Tüketiyoruz - Güven Baykan</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Seçimsiz Türkiye - Örsan Öymen</title>
-      <link>https://www.youtube.com/watch?v=gA25tCu2Hrg</link>
-      <guid isPermaLink="false">gA25tCu2Hrg</guid>
-      <pubDate>Mon, 24 Aug 2026 08:38:57 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Seçimsiz Türkiye - Örsan Öymen</description>
     </item>
   </channel>
 </rss>
