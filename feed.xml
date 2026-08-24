@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 00:45:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 00:50:28 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Gökhan Günaydın "Tüketilme ve Yoksullaştırma Politikalarına Karşı Emek Buluşması"nda konuşuyor</title>
+      <link>https://www.youtube.com/watch?v=V2r6b549ISw</link>
+      <guid isPermaLink="false">V2r6b549ISw</guid>
+      <pubDate>Mon, 24 Aug 2026 00:45:44 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Gökhan Günaydın "Tüketilme ve Yoksullaştırma Politikalarına Karşı Emek Buluşması"nda konuşuyor</description>
+    </item>
     <item>
       <title>Halk TV: Ankara Mamak'ta orman yangını! Yerleşim yerlerine yakın noktada yükselen alevler gökyüzünü kapladı!</title>
       <link>https://www.youtube.com/shorts/ae_096W50V8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">hmJrZO3m3HQ</guid>
       <pubDate>Sun, 23 Aug 2026 16:57:03 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Hafta Sonu Ana Haber | Senem Toluay Ilgaz  | 23 Ağustos</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Gülşah Ekinci ile Hafta Sonu Ana Haber</title>
-      <link>https://www.youtube.com/watch?v=PYm-mgt80oE</link>
-      <guid isPermaLink="false">PYm-mgt80oE</guid>
-      <pubDate>Sun, 23 Aug 2026 16:55:07 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Gülşah Ekinci ile Hafta Sonu Ana Haber</description>
     </item>
   </channel>
 </rss>
