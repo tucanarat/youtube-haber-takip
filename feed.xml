@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 16:10:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 16:15:31 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: #CANLI Er şehit yakınları ve er gaziler polis ablukasında</title>
       <link>https://www.youtube.com/watch?v=PVSG2XmNwBw</link>
@@ -15,11 +15,32 @@
       <description>Tele2 Haber kanalından yeni video: #CANLI Er şehit yakınları ve er gaziler polis ablukasında</description>
     </item>
     <item>
+      <title>Tele2 Haber: Aziz İhsan Aktaş'a beraat! Belediye başkanlarına ceza yağdı! SUÇ ÖRGÜTÜ PUF OLDU!</title>
+      <link>https://www.youtube.com/watch?v=LBRWcvz4Zg4</link>
+      <guid isPermaLink="false">LBRWcvz4Zg4</guid>
+      <pubDate>Mon, 24 Aug 2026 16:01:21 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Aziz İhsan Aktaş'a beraat! Belediye başkanlarına ceza yağdı! SUÇ ÖRGÜTÜ PUF OLDU!</description>
+    </item>
+    <item>
+      <title>Halk TV: Alaattin Çakıcı'ya yakınlığı ile bilinen Kemal Çağlar Temel cinayetinde dikkat çeken detaylar çıktı!</title>
+      <link>https://www.youtube.com/watch?v=aL7p-pVZBAw</link>
+      <guid isPermaLink="false">aL7p-pVZBAw</guid>
+      <pubDate>Mon, 24 Aug 2026 16:00:42 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Alaattin Çakıcı'ya yakınlığı ile bilinen Kemal Çağlar Temel cinayetinde dikkat çeken detaylar çıktı!</description>
+    </item>
+    <item>
       <title>SÖZCÜ TV: PENTAGON ACI BİLANÇOYU AÇIKLADI! İran'dan ABD'ye Ağır Darbe! Trump'tan Körfezi Kavuracak Hamle</title>
       <link>https://www.youtube.com/watch?v=V6tIQsVm8OY</link>
       <guid isPermaLink="false">V6tIQsVm8OY</guid>
       <pubDate>Mon, 24 Aug 2026 16:00:39 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: PENTAGON ACI BİLANÇOYU AÇIKLADI! İran'dan ABD'ye Ağır Darbe! Trump'tan Körfezi Kavuracak Hamle</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Ahmet Özer: Göreve dönmeme engel değil!</title>
+      <link>https://www.youtube.com/shorts/4xPv6HJyD0o</link>
+      <guid isPermaLink="false">4xPv6HJyD0o</guid>
+      <pubDate>Mon, 24 Aug 2026 16:00:27 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Ahmet Özer: Göreve dönmeme engel değil!</description>
     </item>
     <item>
       <title>Cumhuriyet: Saray'dan yastık altı altın çağrısı! | Şirin: "Doları baskılama sevdasıyla hatada ısrar ediliyor"</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">HwztmNN4NPA</guid>
       <pubDate>Mon, 24 Aug 2026 13:15:02 +0000</pubDate>
       <description>Halk TV kanalından yeni video: 'FİGÜRAN' KRİZİNDE BOMBA İTİRAF! O isim CHP'lilerle kurduğu kirli tezgahı açıkladı! Şoke olacaksınız</description>
-    </item>
-    <item>
-      <title>Halk TV: Asu Kaya'ya dert yanan esnaf: "Üzülüyorum, kanıma dokunuyor bu memleketin bu duruma gelmesi"</title>
-      <link>https://www.youtube.com/shorts/nisgcfyAsVo</link>
-      <guid isPermaLink="false">nisgcfyAsVo</guid>
-      <pubDate>Mon, 24 Aug 2026 13:12:13 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Asu Kaya'ya dert yanan esnaf: "Üzülüyorum, kanıma dokunuyor bu memleketin bu duruma gelmesi"</description>
-    </item>
-    <item>
-      <title>Halk TV: Başaran Aksu: "İşçi çocuğunun geleceğine çökerek büyümüşler. Onların çocukları için kavga veriyoruz"</title>
-      <link>https://www.youtube.com/shorts/MiCDEee98m4</link>
-      <guid isPermaLink="false">MiCDEee98m4</guid>
-      <pubDate>Mon, 24 Aug 2026 13:11:51 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Başaran Aksu: "İşçi çocuğunun geleceğine çökerek büyümüşler. Onların çocukları için kavga veriyoruz"</description>
-    </item>
-    <item>
-      <title>Halk TV: Madenci: "Her felakette gönüllü olarak biz vardık. Bu kez biz çağırıyoruz. Lütfedip gelin Bakanlar"</title>
-      <link>https://www.youtube.com/shorts/YaDsc78qePw</link>
-      <guid isPermaLink="false">YaDsc78qePw</guid>
-      <pubDate>Mon, 24 Aug 2026 13:10:35 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Madenci: "Her felakette gönüllü olarak biz vardık. Bu kez biz çağırıyoruz. Lütfedip gelin Bakanlar"</description>
     </item>
   </channel>
 </rss>
