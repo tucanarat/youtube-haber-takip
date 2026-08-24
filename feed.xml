@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 12:30:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 12:35:23 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI YENİ Parti Sözcüsü Zeynel Emre TBMM'de açıklama yapıyor</title>
+      <link>https://www.youtube.com/watch?v=QnAY7VEHftA</link>
+      <guid isPermaLink="false">QnAY7VEHftA</guid>
+      <pubDate>Mon, 24 Aug 2026 12:30:59 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti Sözcüsü Zeynel Emre TBMM'de açıklama yapıyor</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: "33 haftalık hamileyim, 2,5 aydır kontrole gidemiyorum" #shorts</title>
       <link>https://www.youtube.com/shorts/ygbziRvk3R4</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">3MQeJJS2P0E</guid>
       <pubDate>Mon, 24 Aug 2026 09:02:32 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Utku Caner Çaykara: Beraat edeceğime yürekten inanıyorum!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: GİZLİ GÜÇ SAVAŞI! Saygı Öztürk'ten Tarikatlar Hakkında Çarpıcı İddia! Furkancılar, Süleymancılar...</title>
-      <link>https://www.youtube.com/watch?v=6seqAhD8Geo</link>
-      <guid isPermaLink="false">6seqAhD8Geo</guid>
-      <pubDate>Mon, 24 Aug 2026 09:00:36 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: GİZLİ GÜÇ SAVAŞI! Saygı Öztürk'ten Tarikatlar Hakkında Çarpıcı İddia! Furkancılar, Süleymancılar...</description>
     </item>
   </channel>
 </rss>
