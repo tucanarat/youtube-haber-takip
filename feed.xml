@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 17:10:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 17:15:33 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Örgüt iddiası nasıl çöktü? Hukukçu Salim Şen Aziz İhsan Aktaş davası kararlarını değerlendirdi</title>
+      <link>https://www.youtube.com/watch?v=cowNfKaRDXA</link>
+      <guid isPermaLink="false">cowNfKaRDXA</guid>
+      <pubDate>Mon, 24 Aug 2026 17:15:06 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Örgüt iddiası nasıl çöktü? Hukukçu Salim Şen Aziz İhsan Aktaş davası kararlarını değerlendirdi</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Kiralık Partili İfşası! CHP Etkinliğinde 250 Figüran Oyunu Bozuldu! Ajans Sahibinden Şok İtiraflar!</title>
       <link>https://www.youtube.com/watch?v=jtUgUO5KDDI</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">3JuWyxUFsrY</guid>
       <pubDate>Mon, 24 Aug 2026 14:10:39 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SON DAKİKA! FLAŞ KARAR! 430 gün cezaevinde yatan Utku Caner Çaykara tüm suçlamalardan beraat etti!</description>
-    </item>
-    <item>
-      <title>Halk TV: GÖZLER SİLİVRİ'YE KİLİTLENDİ! Aziz İhsan Aktaş Davasında Kararlar Açıklanıyor! (24 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=CBDQoNDLIwY</link>
-      <guid isPermaLink="false">CBDQoNDLIwY</guid>
-      <pubDate>Mon, 24 Aug 2026 14:09:23 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: GÖZLER SİLİVRİ'YE KİLİTLENDİ! Aziz İhsan Aktaş Davasında Kararlar Açıklanıyor! (24 Ağustos 2026)</description>
     </item>
   </channel>
 </rss>
