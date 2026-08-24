@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 05:10:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 05:15:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Süheyla Demir ile Günaydın Türkiye (24 Ağustos 2026)</title>
+      <link>https://www.youtube.com/watch?v=K3s658gWTGk</link>
+      <guid isPermaLink="false">K3s658gWTGk</guid>
+      <pubDate>Mon, 24 Aug 2026 05:14:54 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Süheyla Demir ile Günaydın Türkiye (24 Ağustos 2026)</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: #CANLI Sözcü ile Uyanma Vakti | Dilan Polat</title>
       <link>https://www.youtube.com/watch?v=ndoyG_FmzFg</link>
@@ -71,11 +78,11 @@
       <description>Halk TV kanalından yeni video: Yavuz Ağıralioğlu’ndan enflasyon çıkışı! “Enflasyonun sebebi hükümet!” #shorts</description>
     </item>
     <item>
-      <title>Halk TV: Süheyla Demir ile Günaydın Türkiye (24 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=K3s658gWTGk</link>
-      <guid isPermaLink="false">K3s658gWTGk</guid>
-      <pubDate>Sun, 23 Aug 2026 22:46:01 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Süheyla Demir ile Günaydın Türkiye (24 Ağustos 2026)</description>
+      <title>Halk TV: #CANLI | Gökhan Kayış ile Para Siyaset | Nesrin Nas - Öner Günçavdı</title>
+      <link>https://www.youtube.com/watch?v=6EIgZP3YaVw</link>
+      <guid isPermaLink="false">6EIgZP3YaVw</guid>
+      <pubDate>Sun, 23 Aug 2026 22:47:11 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Gökhan Kayış ile Para Siyaset | Nesrin Nas - Öner Günçavdı</description>
     </item>
     <item>
       <title>Halk TV: Alparslan Kuytul ve eşi Semra  Kuytul’un tutuklanması, Furkan mensupları tarafından protesto edildi!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">gwD6Y9hZnx4</guid>
       <pubDate>Sun, 23 Aug 2026 17:10:14 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Çerçeve yasa ile yeni aşama başlıyor! “İzleme Kurulu” hafta başında toplanıyor!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İMRALI'DA TUTANAK KRİZİ! O İddialar Yalanlandı | AKP ve MHP'den Yeni İnfaz Düzenlemesi</title>
-      <link>https://www.youtube.com/watch?v=3QPX1PvVsvU</link>
-      <guid isPermaLink="false">3QPX1PvVsvU</guid>
-      <pubDate>Sun, 23 Aug 2026 17:00:22 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İMRALI'DA TUTANAK KRİZİ! O İddialar Yalanlandı | AKP ve MHP'den Yeni İnfaz Düzenlemesi</description>
     </item>
   </channel>
 </rss>
