@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 05:30:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 05:35:25 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: S Raporu | Dilan Polat</title>
+      <link>https://www.youtube.com/watch?v=d616Eclsj9A</link>
+      <guid isPermaLink="false">d616Eclsj9A</guid>
+      <pubDate>Mon, 24 Aug 2026 05:27:24 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: S Raporu | Dilan Polat</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Hafta Başı | Ekrem Açıkel</title>
+      <link>https://www.youtube.com/watch?v=hFeyQ4qyYXc</link>
+      <guid isPermaLink="false">hFeyQ4qyYXc</guid>
+      <pubDate>Mon, 24 Aug 2026 05:25:47 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Hafta Başı | Ekrem Açıkel</description>
+    </item>
     <item>
       <title>Halk TV: Süheyla Demir ile Günaydın Türkiye (24 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=K3s658gWTGk</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">VGiIGufUzpg</guid>
       <pubDate>Sun, 23 Aug 2026 17:30:12 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Erdoğan'ın Uykularını Kaçıracak İttifak! Ümit Özdağ Düğmeye Bastı! ANKARA'DA HESAPLAR DEĞİŞİYOR</description>
-    </item>
-    <item>
-      <title>Halk TV: Kayıp gencin annesi beyin kanaması geçirdi! Dedesi gözyaşlarıyla seslendi!</title>
-      <link>https://www.youtube.com/watch?v=Mm-qxwB7_5I</link>
-      <guid isPermaLink="false">Mm-qxwB7_5I</guid>
-      <pubDate>Sun, 23 Aug 2026 17:30:05 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Kayıp gencin annesi beyin kanaması geçirdi! Dedesi gözyaşlarıyla seslendi!</description>
-    </item>
-    <item>
-      <title>Halk TV: Çerçeve yasa ile yeni aşama başlıyor! “İzleme Kurulu” hafta başında toplanıyor!</title>
-      <link>https://www.youtube.com/watch?v=gwD6Y9hZnx4</link>
-      <guid isPermaLink="false">gwD6Y9hZnx4</guid>
-      <pubDate>Sun, 23 Aug 2026 17:10:14 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Çerçeve yasa ile yeni aşama başlıyor! “İzleme Kurulu” hafta başında toplanıyor!</description>
     </item>
   </channel>
 </rss>

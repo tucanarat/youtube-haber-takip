@@ -8022,5 +8022,21 @@
     "published": "2026-08-23T22:47:11+00:00",
     "published_ts": 1787525231,
     "channel_name": "Halk TV"
+  },
+  "d616Eclsj9A": {
+    "id": "d616Eclsj9A",
+    "title": "S Raporu | Dilan Polat",
+    "link": "https://www.youtube.com/watch?v=d616Eclsj9A",
+    "published": "2026-08-24T05:27:24+00:00",
+    "published_ts": 1787549244,
+    "channel_name": "SÖZCÜ TV"
+  },
+  "hFeyQ4qyYXc": {
+    "id": "hFeyQ4qyYXc",
+    "title": "Hafta Başı | Ekrem Açıkel",
+    "link": "https://www.youtube.com/watch?v=hFeyQ4qyYXc",
+    "published": "2026-08-24T05:25:47+00:00",
+    "published_ts": 1787549147,
+    "channel_name": "SÖZCÜ TV"
   }
 }
