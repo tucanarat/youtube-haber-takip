@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 08:20:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 08:25:25 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Tutuklu İBB Başkanı Ekrem İmamoğlu, gençlere YENİ Parti'ye katılmaları çağrısı yaptı!</title>
+      <link>https://www.youtube.com/watch?v=hFakN_A0NCA</link>
+      <guid isPermaLink="false">hFakN_A0NCA</guid>
+      <pubDate>Mon, 24 Aug 2026 08:15:24 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Tutuklu İBB Başkanı Ekrem İmamoğlu, gençlere YENİ Parti'ye katılmaları çağrısı yaptı!</description>
+    </item>
     <item>
       <title>Halk TV: Ceyhan Belediye Başkanı Kadir Aydar: Beraat edeceğime yüzde 100 inanıyorum!</title>
       <link>https://www.youtube.com/shorts/YQrAFhQhoRk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">6C6o3mRhqLY</guid>
       <pubDate>Sun, 23 Aug 2026 22:21:40 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: #CANLI Öncesi Sonrası | Senem Toluay Ilgaz</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Partili Gökhan Günaydın: AKP, seçim öncesi yol temizliği yapma derdinde!</title>
-      <link>https://www.youtube.com/shorts/Q3xCDskorL4</link>
-      <guid isPermaLink="false">Q3xCDskorL4</guid>
-      <pubDate>Sun, 23 Aug 2026 22:15:01 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Partili Gökhan Günaydın: AKP, seçim öncesi yol temizliği yapma derdinde!</description>
     </item>
   </channel>
 </rss>
