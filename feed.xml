@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 24 Aug 2026 10:55:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 11:00:49 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: AKP ve MHP'de Kulisler Kaynıyor! Ankara'da Neler Oluyor? Erdoğan ve Bahçeli'den Hamleler!</title>
+      <link>https://www.youtube.com/watch?v=L0rsWBULl90</link>
+      <guid isPermaLink="false">L0rsWBULl90</guid>
+      <pubDate>Mon, 24 Aug 2026 11:00:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: AKP ve MHP'de Kulisler Kaynıyor! Ankara'da Neler Oluyor? Erdoğan ve Bahçeli'den Hamleler!</description>
+    </item>
     <item>
       <title>Halk TV: SİLİVRİ'DE NEFESLER TUTULDU! Aziz İhsan Aktaş davasında 200 kişi için karar günü! İşte tüm detaylar!</title>
       <link>https://www.youtube.com/watch?v=Z8MIh5o1kVM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">YQrAFhQhoRk</guid>
       <pubDate>Mon, 24 Aug 2026 08:06:53 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Ceyhan Belediye Başkanı Kadir Aydar: Beraat edeceğime yüzde 100 inanıyorum!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Sözcü Masası | Damla Doğan Tuncel | 24 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=-mMZytqDV6E</link>
-      <guid isPermaLink="false">-mMZytqDV6E</guid>
-      <pubDate>Mon, 24 Aug 2026 08:03:59 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Sözcü Masası | Damla Doğan Tuncel | 24 Ağustos</description>
     </item>
   </channel>
 </rss>
