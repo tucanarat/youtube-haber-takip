@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 19:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 20:00:55 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SON DAKİKA! Cumhurbaşkanı Başdanışmanı Saral’dan maden işçilerine destek! O isme böyle yüklendi!</title>
+      <link>https://www.youtube.com/watch?v=c7Xvy2BCbDo</link>
+      <guid isPermaLink="false">c7Xvy2BCbDo</guid>
+      <pubDate>Tue, 25 Aug 2026 19:50:22 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! Cumhurbaşkanı Başdanışmanı Saral’dan maden işçilerine destek! O isme böyle yüklendi!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Aziz İhsan Aktaş Davasında Gizli Sanık Oyunu Bozuldu! 700 Yıl Hapis İstediler Beraat Çıktı</title>
       <link>https://www.youtube.com/watch?v=_X7ISYMd61w</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">cA3g6jLKj5A</guid>
       <pubDate>Tue, 25 Aug 2026 15:48:59 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İçinizden Biri | Ekrem Açıkel | 25 Ağustos</description>
-    </item>
-    <item>
-      <title>Halk TV: KARARA TEPKİLER ÇIĞ GİBİ! Aziz İhsan Aktaş'ın mal varlığına bu yüzden el konulmamış! Şok detay!</title>
-      <link>https://www.youtube.com/watch?v=uPpQYwZaVm0</link>
-      <guid isPermaLink="false">uPpQYwZaVm0</guid>
-      <pubDate>Tue, 25 Aug 2026 15:40:03 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KARARA TEPKİLER ÇIĞ GİBİ! Aziz İhsan Aktaş'ın mal varlığına bu yüzden el konulmamış! Şok detay!</description>
     </item>
   </channel>
 </rss>
