@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 20:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 20:30:50 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Öcalan'ın Çağrısı! Suriye Gerçeği Türkiye'yi Bekleyen Tehlike! Sürecin Giz Sandığı Açıldı</title>
+      <link>https://www.youtube.com/watch?v=rsXswM6ykmk</link>
+      <guid isPermaLink="false">rsXswM6ykmk</guid>
+      <pubDate>Tue, 25 Aug 2026 20:20:36 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Öcalan'ın Çağrısı! Suriye Gerçeği Türkiye'yi Bekleyen Tehlike! Sürecin Giz Sandığı Açıldı</description>
+    </item>
     <item>
       <title>Halk TV: SON DAKİKA! Mazlum Abdi açıkladı! Ahmet Şara ile varılan anlaşma kapsamında SDG feshedildi!</title>
       <link>https://www.youtube.com/watch?v=5fiESSB2ueg</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">2EiDpnUF1uE</guid>
       <pubDate>Tue, 25 Aug 2026 16:07:33 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Süleymancılara Operasyon, İBB Davası, Madencilerden Eylem ve AİHM | Bugün Ne Oldu?</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Yanan Ormanlara Milyonluk Villalar! Ekrem Açıkel Ateş Püskürdü! Denize Sıfır Talanın Belgeleri</title>
-      <link>https://www.youtube.com/watch?v=eef1AkAfpms</link>
-      <guid isPermaLink="false">eef1AkAfpms</guid>
-      <pubDate>Tue, 25 Aug 2026 16:00:08 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Yanan Ormanlara Milyonluk Villalar! Ekrem Açıkel Ateş Püskürdü! Denize Sıfır Talanın Belgeleri</description>
     </item>
   </channel>
 </rss>
