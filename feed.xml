@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 13:40:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 13:45:28 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: #CANLI  İBB Davasında 69. gün! Etkin Pişmanlıkçı Ertan Yıldız ilk kez konuştu!</title>
+      <link>https://www.youtube.com/watch?v=olI-gBo5rws</link>
+      <guid isPermaLink="false">olI-gBo5rws</guid>
+      <pubDate>Tue, 25 Aug 2026 13:42:00 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI  İBB Davasında 69. gün! Etkin Pişmanlıkçı Ertan Yıldız ilk kez konuştu!</description>
+    </item>
+    <item>
+      <title>Halk TV: ANKARAYI SALLAYAN İDDİA! Siyasette 'Milliyetçi ittifak' mı doğuyor? İYİ Partili isim açıkladı!</title>
+      <link>https://www.youtube.com/watch?v=h3KSwnD4hzQ</link>
+      <guid isPermaLink="false">h3KSwnD4hzQ</guid>
+      <pubDate>Tue, 25 Aug 2026 13:35:15 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ANKARAYI SALLAYAN İDDİA! Siyasette 'Milliyetçi ittifak' mı doğuyor? İYİ Partili isim açıkladı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İktidar Kendi Zenginlerini Yarattı Süheyl Batum İfşa Etti! AKP'ye Neler Dedi Neler</title>
       <link>https://www.youtube.com/watch?v=PQvUmntLbw0</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">qvXjojXFa8c</guid>
       <pubDate>Tue, 25 Aug 2026 11:12:12 +0000</pubDate>
       <description>Halk TV kanalından yeni video: 12 yaşındaki Ufuk'un sözleri ders niteliğinde!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Antalya'da  deniz kaplumbağası yavruları denizle buluştu</title>
-      <link>https://www.youtube.com/shorts/Lwh8VXp_kVw</link>
-      <guid isPermaLink="false">Lwh8VXp_kVw</guid>
-      <pubDate>Tue, 25 Aug 2026 11:07:43 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Antalya'da  deniz kaplumbağası yavruları denizle buluştu</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "AKP Seçmeni Dahi Davaların Gerçekçi Olduğunu Düşünmüyor!" Çalışkaner'den Çok Çarpıcı Veriler!</title>
-      <link>https://www.youtube.com/watch?v=ZF4-CEFK8Bs</link>
-      <guid isPermaLink="false">ZF4-CEFK8Bs</guid>
-      <pubDate>Tue, 25 Aug 2026 11:07:06 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "AKP Seçmeni Dahi Davaların Gerçekçi Olduğunu Düşünmüyor!" Çalışkaner'den Çok Çarpıcı Veriler!</description>
     </item>
   </channel>
 </rss>
