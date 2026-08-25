@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 10:20:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 10:25:26 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: İmamoğlu'nun babası savunma yaptı:Savcılığın davranışlarına mahkeme heyetinin dur demesi gerekiyor</title>
+      <link>https://www.youtube.com/shorts/uJ8MJgslKcU</link>
+      <guid isPermaLink="false">uJ8MJgslKcU</guid>
+      <pubDate>Tue, 25 Aug 2026 10:21:10 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: İmamoğlu'nun babası savunma yaptı:Savcılığın davranışlarına mahkeme heyetinin dur demesi gerekiyor</description>
+    </item>
     <item>
       <title>Halk TV: DUDAK UÇUKLATACAK SAYI! YENİ Parti'ye destek fırtınası durdurulamıyor! Butlan ekibi darmadağın olur!</title>
       <link>https://www.youtube.com/watch?v=VMontLjCIqM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Z1fnJmUfvIA</guid>
       <pubDate>Tue, 25 Aug 2026 08:18:30 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Maden işçileri, Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Gazilerden protez-to! - Mustafa Balbay</title>
-      <link>https://www.youtube.com/watch?v=XaD632A5U_Q</link>
-      <guid isPermaLink="false">XaD632A5U_Q</guid>
-      <pubDate>Tue, 25 Aug 2026 08:15:58 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Gazilerden protez-to! - Mustafa Balbay</description>
     </item>
   </channel>
 </rss>
