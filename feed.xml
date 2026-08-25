@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 07:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 07:20:31 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI Musa Özuğurlu ile Dünya Hali | (25.08.2026)</title>
+      <link>https://www.youtube.com/watch?v=HgmYpWE5VDY</link>
+      <guid isPermaLink="false">HgmYpWE5VDY</guid>
+      <pubDate>Tue, 25 Aug 2026 07:13:03 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Musa Özuğurlu ile Dünya Hali | (25.08.2026)</description>
+    </item>
     <item>
       <title>Tele2 Haber: Belediye başkanlarına ceza yağdı! Hilmi Hacaloğlu ve Ersin Eroğlu ile Kayıt Dışı |Konuk: Seraf Özer</title>
       <link>https://www.youtube.com/watch?v=IVTD1p46MgI</link>
       <guid isPermaLink="false">IVTD1p46MgI</guid>
       <pubDate>Tue, 25 Aug 2026 07:12:18 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Belediye başkanlarına ceza yağdı! Hilmi Hacaloğlu ve Ersin Eroğlu ile Kayıt Dışı |Konuk: Seraf Özer</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #CANLI Murat Taylan ile Haber-Yorum (25.08.26)</title>
+      <link>https://www.youtube.com/watch?v=NAT7ZZh_CsQ</link>
+      <guid isPermaLink="false">NAT7ZZh_CsQ</guid>
+      <pubDate>Tue, 25 Aug 2026 07:10:58 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Murat Taylan ile Haber-Yorum (25.08.26)</description>
     </item>
     <item>
       <title>Halk TV: YİNE AYNI SENARYO! Aziz İhsan Aktaş'a beraat, CHP'li başkanlara ceza yağmuru! Gamze Altunay anlattı!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">dG86Lfauld4</guid>
       <pubDate>Mon, 24 Aug 2026 20:30:31 +0000</pubDate>
       <description>Halk TV kanalından yeni video: TURİSTLERİ ADIM ADIM TAKİP ETMİŞLER: Yankesicilik çetesi anbean kayda böyle girdi!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Oya Tekin'den Silivri'yi sallayan adalet isyanı! Seraf Özer çelişkili kararları işaret etti</title>
-      <link>https://www.youtube.com/watch?v=CDbvQ01wqYM</link>
-      <guid isPermaLink="false">CDbvQ01wqYM</guid>
-      <pubDate>Mon, 24 Aug 2026 20:30:06 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Oya Tekin'den Silivri'yi sallayan adalet isyanı! Seraf Özer çelişkili kararları işaret etti</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: AKP'nin Kaybettiği Belediyeleri Alma Oyunu! İnanılmaz Aşı Rantı Çarkı! Bartu Soral'dan Acı Reçete</title>
-      <link>https://www.youtube.com/watch?v=uf7_9QJXuag</link>
-      <guid isPermaLink="false">uf7_9QJXuag</guid>
-      <pubDate>Mon, 24 Aug 2026 20:20:10 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: AKP'nin Kaybettiği Belediyeleri Alma Oyunu! İnanılmaz Aşı Rantı Çarkı! Bartu Soral'dan Acı Reçete</description>
     </item>
   </channel>
 </rss>

@@ -9990,5 +9990,21 @@
     "published": "2026-08-25T07:00:19+00:00",
     "published_ts": 1787641219,
     "channel_name": "SÖZCÜ TV"
+  },
+  "HgmYpWE5VDY": {
+    "id": "HgmYpWE5VDY",
+    "title": "#CANLI Musa Özuğurlu ile Dünya Hali | (25.08.2026)",
+    "link": "https://www.youtube.com/watch?v=HgmYpWE5VDY",
+    "published": "2026-08-25T07:13:03+00:00",
+    "published_ts": 1787641983,
+    "channel_name": "Tele2 Haber"
+  },
+  "NAT7ZZh_CsQ": {
+    "id": "NAT7ZZh_CsQ",
+    "title": "#CANLI Murat Taylan ile Haber-Yorum (25.08.26)",
+    "link": "https://www.youtube.com/watch?v=NAT7ZZh_CsQ",
+    "published": "2026-08-25T07:10:58+00:00",
+    "published_ts": 1787641858,
+    "channel_name": "Tele2 Haber"
   }
 }
