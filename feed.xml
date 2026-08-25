@@ -6,13 +6,34 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 11:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 11:05:27 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: SON DAKİKA Cem Küçük Soruşturmasında Olay Yaratacak Gelişme! O 3 İsim Hakkında Yakalama Kararı</title>
+      <link>https://www.youtube.com/watch?v=9LOGFecGfPQ</link>
+      <guid isPermaLink="false">9LOGFecGfPQ</guid>
+      <pubDate>Tue, 25 Aug 2026 11:01:41 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: SON DAKİKA Cem Küçük Soruşturmasında Olay Yaratacak Gelişme! O 3 İsim Hakkında Yakalama Kararı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: MUSTAFA BALBAY UYARDI: "Kürt Sorununu Çözerken Türk Sorunu Çıkartabilirsiniz!"</title>
+      <link>https://www.youtube.com/watch?v=NvMeLYCJIgk</link>
+      <guid isPermaLink="false">NvMeLYCJIgk</guid>
+      <pubDate>Tue, 25 Aug 2026 11:00:38 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: MUSTAFA BALBAY UYARDI: "Kürt Sorununu Çözerken Türk Sorunu Çıkartabilirsiniz!"</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Öncesi Sonrası | Senem Toluay Ilgaz | 25 Ağustos</title>
       <link>https://www.youtube.com/watch?v=J8ETpV-C0uU</link>
       <guid isPermaLink="false">J8ETpV-C0uU</guid>
       <pubDate>Tue, 25 Aug 2026 10:58:45 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Öncesi Sonrası | Senem Toluay Ilgaz | 25 Ağustos</description>
+    </item>
+    <item>
+      <title>Halk TV: SON DAKİKA! Kocaelispor-Amedspor maçında, tribünlerde açılan 'sarı torba'lara soruşturma başlatıldı!</title>
+      <link>https://www.youtube.com/watch?v=IV67nIYAfIg</link>
+      <guid isPermaLink="false">IV67nIYAfIg</guid>
+      <pubDate>Tue, 25 Aug 2026 10:55:34 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! Kocaelispor-Amedspor maçında, tribünlerde açılan 'sarı torba'lara soruşturma başlatıldı!</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Özgür Özel’den, madencilere baretli destek #shorts</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">JRXIdOBOC_0</guid>
       <pubDate>Tue, 25 Aug 2026 09:00:32 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Netanyhahu Canına Susadı! Tom Barrack'ı Düşman İlan Etti! Trump'ın Sabrı Taşıyor</description>
-    </item>
-    <item>
-      <title>Halk TV: Marmara denizindeki bu sinyallere dikkat! Aynı fay üzerinde 200 deprem! Özellikle bu bölge…</title>
-      <link>https://www.youtube.com/watch?v=0gf9afIzNso</link>
-      <guid isPermaLink="false">0gf9afIzNso</guid>
-      <pubDate>Tue, 25 Aug 2026 09:00:19 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Marmara denizindeki bu sinyallere dikkat! Aynı fay üzerinde 200 deprem! Özellikle bu bölge…</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Özgür Özel'den Bağımsız Maden İş'e Bağlı Madencilere Destek! "Alın Teri Sömürüsü Var!"</title>
-      <link>https://www.youtube.com/watch?v=8J3dECbrnCs</link>
-      <guid isPermaLink="false">8J3dECbrnCs</guid>
-      <pubDate>Tue, 25 Aug 2026 08:58:25 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Özgür Özel'den Bağımsız Maden İş'e Bağlı Madencilere Destek! "Alın Teri Sömürüsü Var!"</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Özgür Özel'den Bağımsız İş üyesi madencilerine destek: ''Burada iddia yok emek hırsızlığı var''</title>
-      <link>https://www.youtube.com/shorts/sTZBxAM4AkU</link>
-      <guid isPermaLink="false">sTZBxAM4AkU</guid>
-      <pubDate>Tue, 25 Aug 2026 08:57:46 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Özgür Özel'den Bağımsız İş üyesi madencilerine destek: ''Burada iddia yok emek hırsızlığı var''</description>
     </item>
   </channel>
 </rss>
