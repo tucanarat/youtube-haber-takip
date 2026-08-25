@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 07:10:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 07:15:30 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Belediye başkanlarına ceza yağdı! Hilmi Hacaloğlu ve Ersin Eroğlu ile Kayıt Dışı |Konuk: Seraf Özer</title>
+      <link>https://www.youtube.com/watch?v=IVTD1p46MgI</link>
+      <guid isPermaLink="false">IVTD1p46MgI</guid>
+      <pubDate>Tue, 25 Aug 2026 07:12:18 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Belediye başkanlarına ceza yağdı! Hilmi Hacaloğlu ve Ersin Eroğlu ile Kayıt Dışı |Konuk: Seraf Özer</description>
+    </item>
     <item>
       <title>Halk TV: YİNE AYNI SENARYO! Aziz İhsan Aktaş'a beraat, CHP'li başkanlara ceza yağmuru! Gamze Altunay anlattı!</title>
       <link>https://www.youtube.com/watch?v=Cu63QusqtpA</link>
       <guid isPermaLink="false">Cu63QusqtpA</guid>
       <pubDate>Tue, 25 Aug 2026 07:05:03 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YİNE AYNI SENARYO! Aziz İhsan Aktaş'a beraat, CHP'li başkanlara ceza yağmuru! Gamze Altunay anlattı!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Kemal Kılıçdaroğlu'nu Kızdıran İsimler İhraç Yolunda! CHP'den Yeni Parti Hamlesi!</title>
+      <link>https://www.youtube.com/watch?v=VdJRCc8UXQE</link>
+      <guid isPermaLink="false">VdJRCc8UXQE</guid>
+      <pubDate>Tue, 25 Aug 2026 07:00:19 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Kemal Kılıçdaroğlu'nu Kızdıran İsimler İhraç Yolunda! CHP'den Yeni Parti Hamlesi!</description>
     </item>
     <item>
       <title>Cumhuriyet: Aziz İhsan Aktaş davasından beraat etmişti! Abdurrahman Tutdere'den ilk açıklama</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">uf7_9QJXuag</guid>
       <pubDate>Mon, 24 Aug 2026 20:20:10 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: AKP'nin Kaybettiği Belediyeleri Alma Oyunu! İnanılmaz Aşı Rantı Çarkı! Bartu Soral'dan Acı Reçete</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! CHP’den istifa furyası sürüyor! İki belediye başkanı daha YENİ Parti’ye geçti!</title>
-      <link>https://www.youtube.com/watch?v=TNW5NXI7C-k</link>
-      <guid isPermaLink="false">TNW5NXI7C-k</guid>
-      <pubDate>Mon, 24 Aug 2026 20:15:14 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! CHP’den istifa furyası sürüyor! İki belediye başkanı daha YENİ Parti’ye geçti!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Ahmet Özer göreve dönecek mi? Seraf Özer Aziz İhsan Aktaş davası kararını değerlendirdi</title>
-      <link>https://www.youtube.com/watch?v=W8qC3ykAjH8</link>
-      <guid isPermaLink="false">W8qC3ykAjH8</guid>
-      <pubDate>Mon, 24 Aug 2026 20:00:06 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Ahmet Özer göreve dönecek mi? Seraf Özer Aziz İhsan Aktaş davası kararını değerlendirdi</description>
     </item>
   </channel>
 </rss>
