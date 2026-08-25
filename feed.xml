@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 10:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 10:30:44 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: İBB Davası'nda Savcıdan Hasan İmamoğlu'na Suç Duyurusu Talebi! "Suçlular Suçsuz, Suçsuzlar Suçlu!"</title>
+      <link>https://www.youtube.com/watch?v=aD0PiIl8lNE</link>
+      <guid isPermaLink="false">aD0PiIl8lNE</guid>
+      <pubDate>Tue, 25 Aug 2026 10:22:35 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: İBB Davası'nda Savcıdan Hasan İmamoğlu'na Suç Duyurusu Talebi! "Suçlular Suçsuz, Suçsuzlar Suçlu!"</description>
+    </item>
     <item>
       <title>Cumhuriyet: İmamoğlu'nun babası savunma yaptı:Savcılığın davranışlarına mahkeme heyetinin dur demesi gerekiyor</title>
       <link>https://www.youtube.com/shorts/uJ8MJgslKcU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ywdMlkGzX-c</guid>
       <pubDate>Tue, 25 Aug 2026 08:20:23 +0000</pubDate>
       <description>Halk TV kanalından yeni video: "YARGISIZ İNFAZ YAPANLARA HEDİYEMİZ OLSUN!" Tutdere'den beraat sonrası gündemi sallayacak sözler!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Maden işçileri, Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor</title>
-      <link>https://www.youtube.com/watch?v=Z1fnJmUfvIA</link>
-      <guid isPermaLink="false">Z1fnJmUfvIA</guid>
-      <pubDate>Tue, 25 Aug 2026 08:18:30 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Maden işçileri, Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor</description>
     </item>
   </channel>
 </rss>
