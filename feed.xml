@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 18:25:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 18:30:41 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: Kurtulmuş, Büyük Taarruz'un 104'üncü Yıl Dönümü ve Zafer Haftası Programında konuşuyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=7Tfj1h9dqYo</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">N9BdYNqKcf0</guid>
       <pubDate>Tue, 25 Aug 2026 18:20:47 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Zeynel Lüle ile Ankara Günlüğü | Konuk: Yeni Parti Milletvekili Gökçe Gökçen (26.08.26)</description>
+    </item>
+    <item>
+      <title>Halk TV: "İLAÇ VERİLEREK FELÇ EDİLDİ!" Rojin Kabaiş'in avukatından kan donduran iddialar!</title>
+      <link>https://www.youtube.com/watch?v=eVFwy54V890</link>
+      <guid isPermaLink="false">eVFwy54V890</guid>
+      <pubDate>Tue, 25 Aug 2026 18:20:17 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: "İLAÇ VERİLEREK FELÇ EDİLDİ!" Rojin Kabaiş'in avukatından kan donduran iddialar!</description>
     </item>
     <item>
       <title>Tele2 Haber: #CANLI Zeynel Lüle ve Faruk Bildirici ile Medyamorfoz (26.08.26)</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">PlK9hJfiQOA</guid>
       <pubDate>Tue, 25 Aug 2026 14:43:48 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Mahkeme kararıyla koltuğa oturtulan Kılıçdaroğlu: CHP’den ayrılanlarla sakın tartışmaya girmeyin!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Milyonlar, Altınlar ve Mühimmat! Fatih Ergin Bombayı Patlattı! Süleymancıların FETÖ Bağlantısı!</title>
-      <link>https://www.youtube.com/watch?v=hx2j3N5ZB2s</link>
-      <guid isPermaLink="false">hx2j3N5ZB2s</guid>
-      <pubDate>Tue, 25 Aug 2026 14:40:15 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Milyonlar, Altınlar ve Mühimmat! Fatih Ergin Bombayı Patlattı! Süleymancıların FETÖ Bağlantısı!</description>
     </item>
   </channel>
 </rss>
