@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 01:05:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 01:10:30 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Er şehit yakınları ve er gaziler Kurtuluş Parkı'nda polis ablukasında #Canlı</title>
+      <link>https://www.youtube.com/watch?v=92nhis-EI_M</link>
+      <guid isPermaLink="false">92nhis-EI_M</guid>
+      <pubDate>Tue, 25 Aug 2026 01:09:06 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Er şehit yakınları ve er gaziler Kurtuluş Parkı'nda polis ablukasında #Canlı</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: İYİ Parti Sözcüsü Buğra Kavuncu, parti genel merkezinde basın açıklaması yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=CaL07cxIljQ</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">W7f2YcL_otk</guid>
       <pubDate>Mon, 24 Aug 2026 18:45:30 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Erdoğan'ın yeni planı deşifre mi oldu? Yaşar Aydın: Kürt siyasetinde müthiş Bahçeli övgüsü var!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Alper Taş'tan Gündem Olacak Aziz İhsan Aktaş Çıkışı! İmamoğlu'na Tuzak Uyarısı! Yeni Rejim İddiası</title>
-      <link>https://www.youtube.com/watch?v=dKNSsO9XNig</link>
-      <guid isPermaLink="false">dKNSsO9XNig</guid>
-      <pubDate>Mon, 24 Aug 2026 18:40:26 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Alper Taş'tan Gündem Olacak Aziz İhsan Aktaş Çıkışı! İmamoğlu'na Tuzak Uyarısı! Yeni Rejim İddiası</description>
     </item>
   </channel>
 </rss>
