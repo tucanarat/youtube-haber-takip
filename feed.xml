@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 23:15:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 23:20:29 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: #CANLI Cumhurbaşkanı Erdoğan, Ahlat Etkinlik Alanı Programı'nda konuşuyor</title>
+      <link>https://www.youtube.com/watch?v=ooxfuy9e1-c</link>
+      <guid isPermaLink="false">ooxfuy9e1-c</guid>
+      <pubDate>Tue, 25 Aug 2026 23:13:07 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI Cumhurbaşkanı Erdoğan, Ahlat Etkinlik Alanı Programı'nda konuşuyor</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Ankara'daki Gizli Pazarlıklar ve Seçim Senaryosu! Yeni Anayasada 50+1 Gerçeğinin Perde Arkası</title>
       <link>https://www.youtube.com/watch?v=83-zBmuSIiw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">V1tXWADRoCU</guid>
       <pubDate>Tue, 25 Aug 2026 18:15:44 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Onur Öncü ile Sabah Pusulası (26.08.26)</description>
-    </item>
-    <item>
-      <title>Halk TV: 10 Kasım videosuyla tanınmıştı! Aytaç Cihan gazilerin eyleminde darbedildi! #shorts</title>
-      <link>https://www.youtube.com/shorts/qHTGTVyK9CY</link>
-      <guid isPermaLink="false">qHTGTVyK9CY</guid>
-      <pubDate>Tue, 25 Aug 2026 18:13:51 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: 10 Kasım videosuyla tanınmıştı! Aytaç Cihan gazilerin eyleminde darbedildi! #shorts</description>
     </item>
   </channel>
 </rss>
