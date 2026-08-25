@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 11:35:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 11:40:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: 'VAHAP SEÇER' TARTIŞMASINA SON NOKTAYI KOYDU! Özgür Özel telefon görüşmesinde konuşulanları anlattı!</title>
+      <link>https://www.youtube.com/watch?v=iW85Xs8FolU</link>
+      <guid isPermaLink="false">iW85Xs8FolU</guid>
+      <pubDate>Tue, 25 Aug 2026 11:35:08 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: 'VAHAP SEÇER' TARTIŞMASINA SON NOKTAYI KOYDU! Özgür Özel telefon görüşmesinde konuşulanları anlattı!</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | CHP'nin Genel Başkanlığına Atanan Kılıçdaroğlu İl Başkanları Toplantısında Konuşuyor!</title>
       <link>https://www.youtube.com/watch?v=ccVK7-EvYW4</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">oSxUkqs8HdQ</guid>
       <pubDate>Tue, 25 Aug 2026 09:36:31 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Hak mücadelesi 16. gününde... Özgür Özel'den madencilere destek</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: ÖZGÜR ÖZEL 'AZİZ İHSAN AKTAŞ' DAVASI KARARINA ATEŞ PÜSKÜRDÜ</title>
-      <link>https://www.youtube.com/shorts/PvH6nkQhEbk</link>
-      <guid isPermaLink="false">PvH6nkQhEbk</guid>
-      <pubDate>Tue, 25 Aug 2026 09:36:13 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: ÖZGÜR ÖZEL 'AZİZ İHSAN AKTAŞ' DAVASI KARARINA ATEŞ PÜSKÜRDÜ</description>
     </item>
   </channel>
 </rss>
