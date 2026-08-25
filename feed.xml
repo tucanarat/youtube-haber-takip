@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 13:15:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 13:18:22 +0000</lastBuildDate>
     <item>
       <title>Halk TV: ESKİ BAKAN İYİCE KÖŞEYE SIKIŞTI! Süleymancılar o araçla öyle birini taşımışlar ki! Şok olacaksınız!</title>
       <link>https://www.youtube.com/watch?v=WcxjcD5h-bI</link>
@@ -22,11 +22,11 @@
       <description>SÖZCÜ TV kanalından yeni video: "Trump ve Erdoğan Görüştü Uçaklar Havalandı!" İYİ Partili İsimden Bomba İsrail İddiası!</description>
     </item>
     <item>
-      <title>Cumhuriyet: 100 yaşındaki Hanuf Teyze torununun torununu gördü!</title>
+      <title>Cumhuriyet: 100 Yaşındaki Hanuf Teyze Torununun Torununu Gördü!</title>
       <link>https://www.youtube.com/shorts/Z0MVOtawHjA</link>
       <guid isPermaLink="false">Z0MVOtawHjA</guid>
       <pubDate>Tue, 25 Aug 2026 13:00:24 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: 100 yaşındaki Hanuf Teyze torununun torununu gördü!</description>
+      <description>Cumhuriyet kanalından yeni video: 100 Yaşındaki Hanuf Teyze Torununun Torununu Gördü!</description>
     </item>
     <item>
       <title>Cumhuriyet: #CANLI  Kemal Kılıçdaroğlu, İl Başkanları Toplantısında konuşuyor</title>
@@ -153,6 +153,13 @@
       <guid isPermaLink="false">vwt9VrZ38nk</guid>
       <pubDate>Tue, 25 Aug 2026 12:01:20 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: İmamoğlu'nun babası hakkında flaş talep! | Ülkü Çoban ile Manşet Ötesi</description>
+    </item>
+    <item>
+      <title>Halk TV: BOMBA KULİS! Öcalan komisyona bu yolla katılacakmış! Nergis Demirkaya'dan şoke edecek sözler!</title>
+      <link>https://www.youtube.com/watch?v=BffCgWdZB_w</link>
+      <guid isPermaLink="false">BffCgWdZB_w</guid>
+      <pubDate>Tue, 25 Aug 2026 12:00:55 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BOMBA KULİS! Öcalan komisyona bu yolla katılacakmış! Nergis Demirkaya'dan şoke edecek sözler!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Olmayan Örgütten Başkanlara Ceza Yağdı! Bahadır Erdem Ateş Püskürdü! Olay Sözler</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">NvMeLYCJIgk</guid>
       <pubDate>Tue, 25 Aug 2026 11:00:38 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: MUSTAFA BALBAY UYARDI: "Kürt Sorununu Çözerken Türk Sorunu Çıkartabilirsiniz!"</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Öncesi Sonrası | Senem Toluay Ilgaz | 25 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=J8ETpV-C0uU</link>
-      <guid isPermaLink="false">J8ETpV-C0uU</guid>
-      <pubDate>Tue, 25 Aug 2026 10:58:45 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Öncesi Sonrası | Senem Toluay Ilgaz | 25 Ağustos</description>
     </item>
   </channel>
 </rss>
