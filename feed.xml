@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 17:30:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 17:35:24 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: PİYASALAR ALEV ALEV… ALTIN FİYATLARINDA SERT YÜKSELİŞ! Gözler, ABD'den gelecek haberde!</title>
+      <link>https://www.youtube.com/watch?v=XIR2phtgE4M</link>
+      <guid isPermaLink="false">XIR2phtgE4M</guid>
+      <pubDate>Tue, 25 Aug 2026 17:30:00 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: PİYASALAR ALEV ALEV… ALTIN FİYATLARINDA SERT YÜKSELİŞ! Gözler, ABD'den gelecek haberde!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Trump'tan İran'a Yeni Yaptırım Kararı! Türkiye İçin Tehlike Çanları! Ortadoğu'da Hareketli Saatler</title>
       <link>https://www.youtube.com/watch?v=YqsCPgs3YPk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">w5AmTcw1pxA</guid>
       <pubDate>Tue, 25 Aug 2026 13:14:37 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Sosyal politikalar uzmanından 'emeklilik' çıkışı: Toplumun kazanımları giderek kayboldu</description>
-    </item>
-    <item>
-      <title>Halk TV: ESKİ BAKAN İYİCE KÖŞEYE SIKIŞTI! Süleymancılar o araçla öyle birini taşımışlar ki! Şok olacaksınız!</title>
-      <link>https://www.youtube.com/watch?v=WcxjcD5h-bI</link>
-      <guid isPermaLink="false">WcxjcD5h-bI</guid>
-      <pubDate>Tue, 25 Aug 2026 13:05:07 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ESKİ BAKAN İYİCE KÖŞEYE SIKIŞTI! Süleymancılar o araçla öyle birini taşımışlar ki! Şok olacaksınız!</description>
     </item>
   </channel>
 </rss>
