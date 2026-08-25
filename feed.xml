@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 21:45:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 21:50:35 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Erdoğan 'Planımız Var' Dedi! Murat Ağırel Çerçeve Yasanın Arkasındaki Gizli Planı Anlattı!</title>
+      <link>https://www.youtube.com/watch?v=UaYYKB5lg9Q</link>
+      <guid isPermaLink="false">UaYYKB5lg9Q</guid>
+      <pubDate>Tue, 25 Aug 2026 21:40:14 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Erdoğan 'Planımız Var' Dedi! Murat Ağırel Çerçeve Yasanın Arkasındaki Gizli Planı Anlattı!</description>
+    </item>
     <item>
       <title>Halk TV: ‘’BELLİ PAZARLIKLAR YAPILMIŞ!’’ Bu sözler çok konuşulacak! Torun, AKP-butlan işbirliğini ifşaladı</title>
       <link>https://www.youtube.com/watch?v=rzuWGeKX4yc</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">OY6tKN_1V3k</guid>
       <pubDate>Tue, 25 Aug 2026 17:00:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Cem Küçük tutuklandı… Kilit isim konumdaki Serdar Özyurt ile en yakın adamı ise her yerde aranıyor!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: 'Mantar Toplayıp Mont Aldım' Madenci Eşlerinden Yürek Yakan Çıkış! Ankara'da İnsanlık Dramı</title>
-      <link>https://www.youtube.com/watch?v=2M3CuLBpFj8</link>
-      <guid isPermaLink="false">2M3CuLBpFj8</guid>
-      <pubDate>Tue, 25 Aug 2026 17:00:01 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: 'Mantar Toplayıp Mont Aldım' Madenci Eşlerinden Yürek Yakan Çıkış! Ankara'da İnsanlık Dramı</description>
     </item>
   </channel>
 </rss>
