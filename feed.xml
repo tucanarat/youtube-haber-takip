@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 18:10:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 18:15:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (25 Ağustos 2026)</title>
+      <link>https://www.youtube.com/watch?v=Y5RMaD1sSas</link>
+      <guid isPermaLink="false">Y5RMaD1sSas</guid>
+      <pubDate>Tue, 25 Aug 2026 18:00:27 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (25 Ağustos 2026)</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İmamoğlu Davası ve Belediyelere Çökme Planı! İktidarın Seçimsiz Türkiye Oyunu Ortaya Çıktı</title>
+      <link>https://www.youtube.com/watch?v=RoY3IyCRtLg</link>
+      <guid isPermaLink="false">RoY3IyCRtLg</guid>
+      <pubDate>Tue, 25 Aug 2026 18:00:12 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İmamoğlu Davası ve Belediyelere Çökme Planı! İktidarın Seçimsiz Türkiye Oyunu Ortaya Çıktı</description>
+    </item>
     <item>
       <title>Tele2 Haber: BUTLAN YÖNETİMİNİN TEMYİZ KARARINA MURAT TAYLAN'DAN GÜLDÜREN BENZETME</title>
       <link>https://www.youtube.com/shorts/Y51td3cRrSc</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">X3O0k0nRQ_4</guid>
       <pubDate>Tue, 25 Aug 2026 14:01:29 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Haber Saati | Gülinay Selçuk | 25 Ağustos</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: 'Ekrem İmamoğlu Av Oldu' Abdulkadir Selvi'nin Sözlerine Bahadır Erdem'den Çok Sert Yanıt!</title>
-      <link>https://www.youtube.com/watch?v=cD666n6SXeg</link>
-      <guid isPermaLink="false">cD666n6SXeg</guid>
-      <pubDate>Tue, 25 Aug 2026 14:00:49 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: 'Ekrem İmamoğlu Av Oldu' Abdulkadir Selvi'nin Sözlerine Bahadır Erdem'den Çok Sert Yanıt!</description>
-    </item>
-    <item>
-      <title>Halk TV: İBB DAVASININ KİLİT İSMİ KÜRSÜDE! İtirafçı Ertan Yıldız'ın İmamoğlu için bu sözleri gündem olacak!</title>
-      <link>https://www.youtube.com/watch?v=mmED00qmzJQ</link>
-      <guid isPermaLink="false">mmED00qmzJQ</guid>
-      <pubDate>Tue, 25 Aug 2026 13:50:16 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İBB DAVASININ KİLİT İSMİ KÜRSÜDE! İtirafçı Ertan Yıldız'ın İmamoğlu için bu sözleri gündem olacak!</description>
     </item>
   </channel>
 </rss>
