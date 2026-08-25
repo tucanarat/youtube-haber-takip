@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 20:01:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 20:05:26 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: MASAK Raporu Sızdı! Cem Küçük ve Tahir Sarıkaya'nın Milyonluk Ortak Para Trafiği İfşa Oldu!</title>
+      <link>https://www.youtube.com/watch?v=1Olaq8qlV3Q</link>
+      <guid isPermaLink="false">1Olaq8qlV3Q</guid>
+      <pubDate>Tue, 25 Aug 2026 20:00:21 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: MASAK Raporu Sızdı! Cem Küçük ve Tahir Sarıkaya'nın Milyonluk Ortak Para Trafiği İfşa Oldu!</description>
+    </item>
     <item>
       <title>Halk TV: SON DAKİKA! Cumhurbaşkanı Başdanışmanı Saral’dan maden işçilerine destek! O isme böyle yüklendi!</title>
       <link>https://www.youtube.com/watch?v=c7Xvy2BCbDo</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">DNLR98rD_WA</guid>
       <pubDate>Tue, 25 Aug 2026 15:55:38 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İYİ Partili Türkoğlu gazilere destek eyleminde saldırıya uğradı! Dervişoğlu o görüntülere sert çıktı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İçinizden Biri | Ekrem Açıkel | 25 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=cA3g6jLKj5A</link>
-      <guid isPermaLink="false">cA3g6jLKj5A</guid>
-      <pubDate>Tue, 25 Aug 2026 15:48:59 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İçinizden Biri | Ekrem Açıkel | 25 Ağustos</description>
     </item>
   </channel>
 </rss>
