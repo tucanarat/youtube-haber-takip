@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 19:10:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 19:15:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Numan Kurtulmuş, Büyük Taarruz'un 104'üncü Yıl Dönümü ve Zafer Haftası Kutlama Programında konuşuyor</title>
+      <link>https://www.youtube.com/watch?v=U86SsroeVV4</link>
+      <guid isPermaLink="false">U86SsroeVV4</guid>
+      <pubDate>Tue, 25 Aug 2026 19:09:43 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Numan Kurtulmuş, Büyük Taarruz'un 104'üncü Yıl Dönümü ve Zafer Haftası Kutlama Programında konuşuyor</description>
+    </item>
     <item>
       <title>Tele2 Haber: İSRAİL İLE TÜRKİYE SURİYE'DE KARŞI KARŞIYA | Musa Özuğurlu ile Dünya Hali</title>
       <link>https://www.youtube.com/watch?v=HgmYpWE5VDY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">7zlwTGg-B_c</guid>
       <pubDate>Tue, 25 Aug 2026 15:30:35 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İBB Davasında Çarpıcı Ertan Yıldız Savunması! Hasan İmamoğlu Gözyaşlarına Boğuldu</description>
-    </item>
-    <item>
-      <title>Halk TV: AKP'liler itiraz etmişti... Üsküdar Belediyesi'nde başkanvekili seçimi yenilenecek!</title>
-      <link>https://www.youtube.com/watch?v=x_GshYXCnsQ</link>
-      <guid isPermaLink="false">x_GshYXCnsQ</guid>
-      <pubDate>Tue, 25 Aug 2026 15:19:26 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: AKP'liler itiraz etmişti... Üsküdar Belediyesi'nde başkanvekili seçimi yenilenecek!</description>
     </item>
   </channel>
 </rss>
