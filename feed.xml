@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 18:35:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 18:40:32 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: 'Butlan Yönetimi'nin temyiz başvurusunu geri çekti! Murat Taylan'dan güldüren benzetme!</title>
       <link>https://www.youtube.com/watch?v=EG616lRtY1c</link>
       <guid isPermaLink="false">EG616lRtY1c</guid>
       <pubDate>Tue, 25 Aug 2026 18:30:13 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: 'Butlan Yönetimi'nin temyiz başvurusunu geri çekti! Murat Taylan'dan güldüren benzetme!</description>
+    </item>
+    <item>
+      <title>Halk TV: YENİ Partili Sibel Suiçmez’den ekonomi çıkışı! “Vatandaşın parası son yedi yılda yüzde 89,07 eridi!”</title>
+      <link>https://www.youtube.com/shorts/2iAvZ6ZPnZA</link>
+      <guid isPermaLink="false">2iAvZ6ZPnZA</guid>
+      <pubDate>Tue, 25 Aug 2026 18:30:13 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YENİ Partili Sibel Suiçmez’den ekonomi çıkışı! “Vatandaşın parası son yedi yılda yüzde 89,07 eridi!”</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Kurtulmuş, Büyük Taarruz'un 104'üncü Yıl Dönümü ve Zafer Haftası Programında konuşuyor #Canlı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">igmCrbCE2d8</guid>
       <pubDate>Tue, 25 Aug 2026 14:50:24 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SON DAKİKA! BUTLANDAN YENİ OYUN! Mutlak butlan temyiz başvurusunu geri çektiler! Gözler Özel'de!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İş Çıkışı | Merve Ekinci 25 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=-Cg-2faS0ZQ</link>
-      <guid isPermaLink="false">-Cg-2faS0ZQ</guid>
-      <pubDate>Tue, 25 Aug 2026 14:49:09 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İş Çıkışı | Merve Ekinci 25 Ağustos</description>
     </item>
   </channel>
 </rss>
