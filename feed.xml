@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 22:05:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 22:10:31 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: S Raporu | Dilan Polat | 25 Ağustos</title>
       <link>https://www.youtube.com/watch?v=pWtvgXj-rlI</link>
       <guid isPermaLink="false">pWtvgXj-rlI</guid>
       <pubDate>Tue, 25 Aug 2026 22:01:04 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: S Raporu | Dilan Polat | 25 Ağustos</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: 'Otoriter Düzen...' Cenk Özatıcı AKP'nin Gizli Planlarını Tek Tek Anlattı! İşte Büyük Tehlike</title>
+      <link>https://www.youtube.com/watch?v=xQx2lqbmwJM</link>
+      <guid isPermaLink="false">xQx2lqbmwJM</guid>
+      <pubDate>Tue, 25 Aug 2026 22:00:01 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: 'Otoriter Düzen...' Cenk Özatıcı AKP'nin Gizli Planlarını Tek Tek Anlattı! İşte Büyük Tehlike</description>
     </item>
     <item>
       <title>Halk TV: Bilge Yurtdagülen ile Gündem Özel (25 Ağustos 2026)</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">YqsCPgs3YPk</guid>
       <pubDate>Tue, 25 Aug 2026 17:20:10 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Trump'tan İran'a Yeni Yaptırım Kararı! Türkiye İçin Tehlike Çanları! Ortadoğu'da Hareketli Saatler</description>
-    </item>
-    <item>
-      <title>Halk TV: İstifa haberleri peş peşe geliyor! Tekirdağ Büyükşehir Belediyesi YENİ Parti’ye geçme kararı aldı!</title>
-      <link>https://www.youtube.com/watch?v=I1XIukkMoAY</link>
-      <guid isPermaLink="false">I1XIukkMoAY</guid>
-      <pubDate>Tue, 25 Aug 2026 17:15:12 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İstifa haberleri peş peşe geliyor! Tekirdağ Büyükşehir Belediyesi YENİ Parti’ye geçme kararı aldı!</description>
     </item>
   </channel>
 </rss>
