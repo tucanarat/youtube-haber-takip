@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 08:45:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 08:50:35 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Bağımsız Maden İş'e Bağlı Madencilerden Cumhurbaşkanı'na Çağrı!</title>
+      <link>https://www.youtube.com/shorts/XvUaijvNP2s</link>
+      <guid isPermaLink="false">XvUaijvNP2s</guid>
+      <pubDate>Tue, 25 Aug 2026 08:40:10 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Bağımsız Maden İş'e Bağlı Madencilerden Cumhurbaşkanı'na Çağrı!</description>
+    </item>
     <item>
       <title>Halk TV: Gökhan Günaydın, Dalaman'da YENİ partiye katılan üyelere rozetlerini taktı!</title>
       <link>https://www.youtube.com/shorts/wq8VnVTGaQE</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">k9cz8KPAmJI</guid>
       <pubDate>Tue, 25 Aug 2026 05:37:04 +0000</pubDate>
       <description>Halk TV kanalından yeni video: FACİANIN EŞİĞİNDEN DÖNÜLDÜ! Benzin yüklü tankerle yolcu otobüsü çarpıştı! Çok sayıda kişi yaralandı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Gözlerinize İnanamayacaksınız! Kötü Kokan Evden Bakın Neler Çıktı! #shorts</title>
-      <link>https://www.youtube.com/shorts/PUb3N4coLGk</link>
-      <guid isPermaLink="false">PUb3N4coLGk</guid>
-      <pubDate>Tue, 25 Aug 2026 05:30:26 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Gözlerinize İnanamayacaksınız! Kötü Kokan Evden Bakın Neler Çıktı! #shorts</description>
     </item>
   </channel>
 </rss>
