@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 21:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 21:02:50 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Aklın Yolu | Serap Belovacıklı | 25 Ağustos</title>
+      <link>https://www.youtube.com/watch?v=uNIx4WiThHg</link>
+      <guid isPermaLink="false">uNIx4WiThHg</guid>
+      <pubDate>Tue, 25 Aug 2026 21:02:29 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Aklın Yolu | Serap Belovacıklı | 25 Ağustos</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Cenk Özatıcı Erdoğan'ın Sözlerini Hatırlattı! ABD İsrail'in Ortadoğu Planı! Türkiye'ye Lübnan Modeli</title>
+      <link>https://www.youtube.com/watch?v=Jq9KwPo_Rms</link>
+      <guid isPermaLink="false">Jq9KwPo_Rms</guid>
+      <pubDate>Tue, 25 Aug 2026 21:00:36 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Cenk Özatıcı Erdoğan'ın Sözlerini Hatırlattı! ABD İsrail'in Ortadoğu Planı! Türkiye'ye Lübnan Modeli</description>
+    </item>
     <item>
       <title>Halk TV: SICAK GÖRÜNTÜLER! Bu anlar tarihe kazınacak! Hakları için direnen madencilere sert müdahale!</title>
       <link>https://www.youtube.com/watch?v=WQcwdUeu0Gw</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">oXYcXnGuZ08</guid>
       <pubDate>Tue, 25 Aug 2026 16:40:38 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | Cumhurbaşkanı Recep Tayyip Erdoğan, Kabine Toplantısı sonrası açıklamalarda bulunuyor</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İngiltere'den Putin'i Kızdıran Storm Shadow Hamlesi! Ukrayna'da Dengeleri Değiştiren Gizli Silah</title>
-      <link>https://www.youtube.com/watch?v=dB0tPnClguk</link>
-      <guid isPermaLink="false">dB0tPnClguk</guid>
-      <pubDate>Tue, 25 Aug 2026 16:30:30 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İngiltere'den Putin'i Kızdıran Storm Shadow Hamlesi! Ukrayna'da Dengeleri Değiştiren Gizli Silah</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: MURAT TAYLAN'DAN AMİRAL ERTÜRK İÇİN KRİTİK HATIRLATMA!</title>
-      <link>https://www.youtube.com/shorts/nMVlyUOG8Ns</link>
-      <guid isPermaLink="false">nMVlyUOG8Ns</guid>
-      <pubDate>Tue, 25 Aug 2026 16:21:13 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: MURAT TAYLAN'DAN AMİRAL ERTÜRK İÇİN KRİTİK HATIRLATMA!</description>
     </item>
   </channel>
 </rss>
