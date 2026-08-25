@@ -6,13 +6,34 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 09:35:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 09:40:37 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: CHP Genel Başkan Yardımcısı Yıldırım Kaya, Balıkesir İl Başkanlığı’nda açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=3zl1hhlc4R0</link>
+      <guid isPermaLink="false">3zl1hhlc4R0</guid>
+      <pubDate>Tue, 25 Aug 2026 09:35:17 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkan Yardımcısı Yıldırım Kaya, Balıkesir İl Başkanlığı’nda açıklama yapıyor #Canlı</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: AİHM'in Osman Kavala Serbest Bırakılsın Kararını Özel Yorumladı! "Erdoğan'ın Zihninde Mahkum..."</title>
+      <link>https://www.youtube.com/watch?v=OS0DduIwda8</link>
+      <guid isPermaLink="false">OS0DduIwda8</guid>
+      <pubDate>Tue, 25 Aug 2026 09:33:31 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: AİHM'in Osman Kavala Serbest Bırakılsın Kararını Özel Yorumladı! "Erdoğan'ın Zihninde Mahkum..."</description>
+    </item>
     <item>
       <title>Halk TV: MEYDANA BUZ KESTİRDİ! Başaran Aksu'dan Beştepe'yi sallayacak sözler! Sesi kısılana kadar haykırdı!</title>
       <link>https://www.youtube.com/watch?v=2qBU1DYcDdo</link>
       <guid isPermaLink="false">2qBU1DYcDdo</guid>
       <pubDate>Tue, 25 Aug 2026 09:30:05 +0000</pubDate>
       <description>Halk TV kanalından yeni video: MEYDANA BUZ KESTİRDİ! Başaran Aksu'dan Beştepe'yi sallayacak sözler! Sesi kısılana kadar haykırdı!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Gazilere Bir Darbe de Hulusi Akar'dan! Sert Kayaya Çarptı! 'Küçük Azınlık' Sözlerine Öfke Büyüyor</title>
+      <link>https://www.youtube.com/watch?v=_ekEY02Yvyw</link>
+      <guid isPermaLink="false">_ekEY02Yvyw</guid>
+      <pubDate>Tue, 25 Aug 2026 09:30:01 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Gazilere Bir Darbe de Hulusi Akar'dan! Sert Kayaya Çarptı! 'Küçük Azınlık' Sözlerine Öfke Büyüyor</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Özgür Özel'den Bağımsız Maden İş üyesi madencilerin eylemine destek ziyareti</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">4C2rl0H-FVM</guid>
       <pubDate>Tue, 25 Aug 2026 07:35:11 +0000</pubDate>
       <description>Halk TV kanalından yeni video: VAHAP SEÇER, ÖZGÜR ÖZEL'E TELEFONDA BAKIN NE DEMİŞ! Zeynel Emre o görüşmeyi anlattı! Bomba detay!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "İNSANLARIN HAYATLARIYLA OYNADILAR!" Onur Öncü'den Çok Sert Aziz İhsan Aktaş Davası Tepkisi!</title>
-      <link>https://www.youtube.com/watch?v=fZIsKnI5p7c</link>
-      <guid isPermaLink="false">fZIsKnI5p7c</guid>
-      <pubDate>Tue, 25 Aug 2026 07:33:18 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "İNSANLARIN HAYATLARIYLA OYNADILAR!" Onur Öncü'den Çok Sert Aziz İhsan Aktaş Davası Tepkisi!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Vay Alihan Kuriş Vay MASAK Raporundan Neler Sızdı Neler! Devasa Servet Ortaya Çıktı</title>
-      <link>https://www.youtube.com/watch?v=NLF8cogREps</link>
-      <guid isPermaLink="false">NLF8cogREps</guid>
-      <pubDate>Tue, 25 Aug 2026 07:30:21 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Vay Alihan Kuriş Vay MASAK Raporundan Neler Sızdı Neler! Devasa Servet Ortaya Çıktı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Pazarda fiyatlar emeklinin cebini yakıyor: “Hayat gitgide pahalılaşıyor”</title>
-      <link>https://www.youtube.com/shorts/56x9kiEbV7k</link>
-      <guid isPermaLink="false">56x9kiEbV7k</guid>
-      <pubDate>Tue, 25 Aug 2026 07:28:03 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Pazarda fiyatlar emeklinin cebini yakıyor: “Hayat gitgide pahalılaşıyor”</description>
     </item>
   </channel>
 </rss>
