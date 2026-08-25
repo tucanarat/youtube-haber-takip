@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 14:25:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 14:30:48 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: "Kısır tartışmalara sakın girmeyin" #shorts</title>
+      <link>https://www.youtube.com/shorts/VdRmmyn6w6U</link>
+      <guid isPermaLink="false">VdRmmyn6w6U</guid>
+      <pubDate>Tue, 25 Aug 2026 14:28:05 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: "Kısır tartışmalara sakın girmeyin" #shorts</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Turhan Çömez Çileden Çıktı! AKP'yi Zora Sokacak Kararı Açıkladı! 'EZİYET EDİYORSUNUZ'</title>
       <link>https://www.youtube.com/watch?v=0K0t2jPP3x8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Li8PkWXv3EY</guid>
       <pubDate>Tue, 25 Aug 2026 11:17:43 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: “Biz böyle mi geleceğe hazırız Sayın Cumhurbaşkanı?"</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: CHP Genel Başkanı Kemal Kılıçdaroğlu, İl Başkanları Toplantısında konuşuyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=CeWL7DghTfE</link>
-      <guid isPermaLink="false">CeWL7DghTfE</guid>
-      <pubDate>Tue, 25 Aug 2026 11:17:15 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkanı Kemal Kılıçdaroğlu, İl Başkanları Toplantısında konuşuyor #Canlı</description>
     </item>
   </channel>
 </rss>
