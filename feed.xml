@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 09:20:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 09:25:24 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Madenciler 16 gündür Ankara'da direniyor! Özgür Özel'den iktidara zor soru</title>
+      <link>https://www.youtube.com/watch?v=nAbJdtmde58</link>
+      <guid isPermaLink="false">nAbJdtmde58</guid>
+      <pubDate>Tue, 25 Aug 2026 09:21:00 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Madenciler 16 gündür Ankara'da direniyor! Özgür Özel'den iktidara zor soru</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: YENİ Parti Genel Başkanı Özgür Özel'den Madencilerin Eylemine Destek Ziyareti</title>
       <link>https://www.youtube.com/watch?v=NJkt6D-Yfks</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">IVTD1p46MgI</guid>
       <pubDate>Tue, 25 Aug 2026 07:12:18 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Belediye başkanlarına ceza yağdı! Hilmi Hacaloğlu ve Ersin Eroğlu ile Kayıt Dışı |Konuk: Seraf Özer</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Murat Taylan ile Haber-Yorum (25.08.26)</title>
-      <link>https://www.youtube.com/watch?v=NAT7ZZh_CsQ</link>
-      <guid isPermaLink="false">NAT7ZZh_CsQ</guid>
-      <pubDate>Tue, 25 Aug 2026 07:10:58 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Murat Taylan ile Haber-Yorum (25.08.26)</description>
     </item>
   </channel>
 </rss>
