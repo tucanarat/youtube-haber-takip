@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 13:00:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 13:05:24 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: İrem Sansak ile Haber Masası (25 Ağustos 2026)</title>
+      <link>https://www.youtube.com/watch?v=0tptHDHOvzc</link>
+      <guid isPermaLink="false">0tptHDHOvzc</guid>
+      <pubDate>Tue, 25 Aug 2026 12:58:24 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İrem Sansak ile Haber Masası (25 Ağustos 2026)</description>
+    </item>
     <item>
       <title>Halk TV: Cumhurbaşkanı Erdoğan ve Devlet Bahçeli, Ahlat Selçuklu Kabristanı'nı ziyaret etti!</title>
       <link>https://www.youtube.com/shorts/GdSMTM_nUb0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">rInCw5NPmIw</guid>
       <pubDate>Tue, 25 Aug 2026 10:48:37 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI İBB Davasında 69. gün! İmamoğlu’nun babasından çarpıcı savunma!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Aydın'da gelinsiz düğün...  Düğüne bir gün kala nişanlısından ayrıldı, salonda yakınlarıyla eğlendi</title>
-      <link>https://www.youtube.com/shorts/QpL3MXIxS0k</link>
-      <guid isPermaLink="false">QpL3MXIxS0k</guid>
-      <pubDate>Tue, 25 Aug 2026 10:45:46 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Aydın'da gelinsiz düğün...  Düğüne bir gün kala nişanlısından ayrıldı, salonda yakınlarıyla eğlendi</description>
     </item>
   </channel>
 </rss>
