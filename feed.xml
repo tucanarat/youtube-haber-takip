@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 11:55:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 12:00:57 +0000</lastBuildDate>
     <item>
       <title>Halk TV: BU SÖZLERE YÜREK DAYANMAZ! Yaşlı madenci Erdoğan'a öyle bir feryat etti ki! Gözleriniz dolacak!</title>
       <link>https://www.youtube.com/watch?v=tQgSWr-EeIk</link>
@@ -27,6 +27,13 @@
       <guid isPermaLink="false">YjLWz5TaJYw</guid>
       <pubDate>Tue, 25 Aug 2026 11:40:51 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Ekrem İmamoğlu'nun babası Hasan İmamoğlu hakkında suç duyurusu talep edildi</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: 'Türkiye Şeyhler Ülkesi Oldu' Süheyl Batum'dan Cemaat ve Tarikat İsyanı! Süleymancılar Dosyası</title>
+      <link>https://www.youtube.com/watch?v=PtPQlfuHB6s</link>
+      <guid isPermaLink="false">PtPQlfuHB6s</guid>
+      <pubDate>Tue, 25 Aug 2026 11:40:18 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: 'Türkiye Şeyhler Ülkesi Oldu' Süheyl Batum'dan Cemaat ve Tarikat İsyanı! Süleymancılar Dosyası</description>
     </item>
     <item>
       <title>Halk TV: 'VAHAP SEÇER' TARTIŞMASINA SON NOKTAYI KOYDU! Özgür Özel telefon görüşmesinde konuşulanları anlattı!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">cIEGXfp5LSA</guid>
       <pubDate>Tue, 25 Aug 2026 09:44:04 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Özgür Özel 'Aziz İhsan Aktaş' davası kararına ateş püskürdü! "BU KADAR KÖTÜLÜK ÖDÜLLENDİRİLEMEZ"</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Özgür Özel'den Osman Kavala Çağrısı!</title>
-      <link>https://www.youtube.com/shorts/1hzd5XrE9Go</link>
-      <guid isPermaLink="false">1hzd5XrE9Go</guid>
-      <pubDate>Tue, 25 Aug 2026 09:43:44 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Özgür Özel'den Osman Kavala Çağrısı!</description>
     </item>
   </channel>
 </rss>
