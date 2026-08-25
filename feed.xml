@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 02:40:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 02:45:37 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Aziz İhsan Aktaş suç örgütüne ilişkin davada kararın açıklanması bekleniyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=qyJ8guvdUm4</link>
+      <guid isPermaLink="false">qyJ8guvdUm4</guid>
+      <pubDate>Tue, 25 Aug 2026 02:27:59 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Aziz İhsan Aktaş suç örgütüne ilişkin davada kararın açıklanması bekleniyor #Canlı</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti Sözcüsü Zeynel Emre TBMM'de açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=T22twbsOTTs</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">fcKcxQlffzM</guid>
       <pubDate>Mon, 24 Aug 2026 19:00:05 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "Devletin MHP kadar güçlü ayağı olacağız" Öcalan'a hangi yol açılıyor? Emrah Gülsunar değerlendirdi</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: ÖRGÜT SUÇLAMASI ÇÖKTÜ:Aziz ihsan Aktaş davasında karar! Murat Taylan ile Haber-Yorum 24.08.26</title>
-      <link>https://www.youtube.com/watch?v=a8YBrO8Cd4s</link>
-      <guid isPermaLink="false">a8YBrO8Cd4s</guid>
-      <pubDate>Mon, 24 Aug 2026 18:48:56 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: ÖRGÜT SUÇLAMASI ÇÖKTÜ:Aziz ihsan Aktaş davasında karar! Murat Taylan ile Haber-Yorum 24.08.26</description>
     </item>
   </channel>
 </rss>
