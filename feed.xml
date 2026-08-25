@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 22:25:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 22:30:42 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: CHP Genel Başkan Yardımcısı Yıldırım Kaya, Balıkesir İl Başkanlığı’nda açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=3zl1hhlc4R0</link>
+      <guid isPermaLink="false">3zl1hhlc4R0</guid>
+      <pubDate>Tue, 25 Aug 2026 22:21:31 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkan Yardımcısı Yıldırım Kaya, Balıkesir İl Başkanlığı’nda açıklama yapıyor #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: BURSA'DA ORMAN YANGINI! Havadan ve karadan müdahale sürüyor! #shorts</title>
       <link>https://www.youtube.com/shorts/574RPagGiAg</link>
@@ -57,11 +64,11 @@
       <description>Halk TV kanalından yeni video: ‘’BELLİ PAZARLIKLAR YAPILMIŞ!’’ Bu sözler çok konuşulacak! Torun, AKP-butlan işbirliğini ifşaladı</description>
     </item>
     <item>
-      <title>Halk TV: SON DAKİKA! Adıyaman'ın Sincik ilçesinde 4,2 büyüklüğünde deprem! #shorts</title>
+      <title>Halk TV: SON DAKİKA! Adıyaman’da 2 saatte 8 deprem meydana geldi! #shorts</title>
       <link>https://www.youtube.com/shorts/EIhNnCl-4is</link>
       <guid isPermaLink="false">EIhNnCl-4is</guid>
       <pubDate>Tue, 25 Aug 2026 21:30:12 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! Adıyaman'ın Sincik ilçesinde 4,2 büyüklüğünde deprem! #shorts</description>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! Adıyaman’da 2 saatte 8 deprem meydana geldi! #shorts</description>
     </item>
     <item>
       <title>SÖZCÜ TV: 'Suriye'de Ordu Kuruluyor' Cenk Özatıcı ABD ve İsrail'in Sınırımızdaki Karanlık Oyunu Anlattı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">B85dQiGZ-mk</guid>
       <pubDate>Tue, 25 Aug 2026 17:30:38 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Merdan Yanardağ Türkiye'de yaşananlar ile edebiyatın ilişkisini hatırlattı!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "İYİ BİR ŞEY OLMAYACAK!" Murat Taylan 'ÇÖZÜM SÜRECİ' ve yaşananları yorumladı!</title>
-      <link>https://www.youtube.com/watch?v=1-JvMhqYy3M</link>
-      <guid isPermaLink="false">1-JvMhqYy3M</guid>
-      <pubDate>Tue, 25 Aug 2026 17:30:36 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "İYİ BİR ŞEY OLMAYACAK!" Murat Taylan 'ÇÖZÜM SÜRECİ' ve yaşananları yorumladı!</description>
     </item>
   </channel>
 </rss>
