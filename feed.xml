@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 16:45:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 16:50:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Bilge Yurtdagülen ile Gündem Özel</title>
+      <link>https://www.youtube.com/watch?v=PHf2WX51DSc</link>
+      <guid isPermaLink="false">PHf2WX51DSc</guid>
+      <pubDate>Tue, 25 Aug 2026 16:48:03 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Bilge Yurtdagülen ile Gündem Özel</description>
+    </item>
+    <item>
+      <title>Halk TV: KİM KAÇ YIL HAPİS CEZASI ALDI? Aziz İhsan Aktaş davasında çarpıcı kararlar!</title>
+      <link>https://www.youtube.com/watch?v=4Ncb1sJs1Rg</link>
+      <guid isPermaLink="false">4Ncb1sJs1Rg</guid>
+      <pubDate>Tue, 25 Aug 2026 16:45:30 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KİM KAÇ YIL HAPİS CEZASI ALDI? Aziz İhsan Aktaş davasında çarpıcı kararlar!</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Cumhurbaşkanı Recep Tayyip Erdoğan, Kabine Toplantısı sonrası açıklamalarda bulunuyor</title>
       <link>https://www.youtube.com/watch?v=oXYcXnGuZ08</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">yj5ivN6Br-U</guid>
       <pubDate>Tue, 25 Aug 2026 12:50:00 +0000</pubDate>
       <description>Halk TV kanalından yeni video: MASAK RAPORUNDAN NELER ÇIKTI NELER! Alihan Kuriş ve ailesinin milyonluk çarkı böyle ortaya saçıldı!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Madenciler Bakanlık yetkilileriyle görüştü: "Müzakere zemini oluşturmak için çalışma yapılacak"</title>
-      <link>https://www.youtube.com/watch?v=6uXQLJ7TlSs</link>
-      <guid isPermaLink="false">6uXQLJ7TlSs</guid>
-      <pubDate>Tue, 25 Aug 2026 12:42:38 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Madenciler Bakanlık yetkilileriyle görüştü: "Müzakere zemini oluşturmak için çalışma yapılacak"</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Süheyl Batum'dan Zehir Zemberek Sözler Stüdyoyu İnletti! "NE BARIŞI? BU BÖLÜNME PROJESİ!"</title>
-      <link>https://www.youtube.com/watch?v=jbYtyZXDQMc</link>
-      <guid isPermaLink="false">jbYtyZXDQMc</guid>
-      <pubDate>Tue, 25 Aug 2026 12:40:25 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Süheyl Batum'dan Zehir Zemberek Sözler Stüdyoyu İnletti! "NE BARIŞI? BU BÖLÜNME PROJESİ!"</description>
     </item>
   </channel>
 </rss>

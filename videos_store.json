@@ -9809,7 +9809,7 @@
   },
   "j1pdiNUD3Sc": {
     "id": "j1pdiNUD3Sc",
-    "title": "#CANLI Sözcü Ana Haber | Senem Toluay Ilgaz",
+    "title": "Sözcü Ana Haber |  Senem Toluay Ilgaz | 25 Ağustos",
     "link": "https://www.youtube.com/watch?v=j1pdiNUD3Sc",
     "published": "2026-08-24T22:21:45+00:00",
     "published_ts": 1787610105,
@@ -11286,5 +11286,21 @@
     "published": "2026-08-25T16:30:30+00:00",
     "published_ts": 1787675430,
     "channel_name": "SÖZCÜ TV"
+  },
+  "PHf2WX51DSc": {
+    "id": "PHf2WX51DSc",
+    "title": "#CANLI | Bilge Yurtdagülen ile Gündem Özel",
+    "link": "https://www.youtube.com/watch?v=PHf2WX51DSc",
+    "published": "2026-08-25T16:48:03+00:00",
+    "published_ts": 1787676483,
+    "channel_name": "Halk TV"
+  },
+  "4Ncb1sJs1Rg": {
+    "id": "4Ncb1sJs1Rg",
+    "title": "KİM KAÇ YIL HAPİS CEZASI ALDI? Aziz İhsan Aktaş davasında çarpıcı kararlar!",
+    "link": "https://www.youtube.com/watch?v=4Ncb1sJs1Rg",
+    "published": "2026-08-25T16:45:30+00:00",
+    "published_ts": 1787676330,
+    "channel_name": "Halk TV"
   }
 }
