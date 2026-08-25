@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 20:45:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 20:50:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Madenci direnişinde gündem olan sözler! “Bu holding kanımızı emiyor!” #shorts</title>
+      <link>https://www.youtube.com/shorts/ewijp1sQARA</link>
+      <guid isPermaLink="false">ewijp1sQARA</guid>
+      <pubDate>Tue, 25 Aug 2026 20:48:53 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Madenci direnişinde gündem olan sözler! “Bu holding kanımızı emiyor!” #shorts</description>
+    </item>
     <item>
       <title>Halk TV: SON DAKİKA! ABD’nin Ankara Büyükelçisi Tom Barrack’tan SDG’nin feshine ilk açıklama!</title>
       <link>https://www.youtube.com/watch?v=aOyZYJvl-1w</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">LdZCMBIlXtQ</guid>
       <pubDate>Tue, 25 Aug 2026 16:15:34 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Murat Taylan'dan Emekli Amiral Türker Ertürk için istenen ceza ile ilgili kritik hatırlatma!</description>
-    </item>
-    <item>
-      <title>Halk TV: ABD, İRAN’A KARŞI BİTİRİCİ OPERASYONU BAŞLATTI! Bölgede kıyamet koptu kopacal! Serra Karaçam anlattı</title>
-      <link>https://www.youtube.com/watch?v=mSgyMBHTFZQ</link>
-      <guid isPermaLink="false">mSgyMBHTFZQ</guid>
-      <pubDate>Tue, 25 Aug 2026 16:10:13 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ABD, İRAN’A KARŞI BİTİRİCİ OPERASYONU BAŞLATTI! Bölgede kıyamet koptu kopacal! Serra Karaçam anlattı</description>
     </item>
   </channel>
 </rss>
