@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 18:40:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 18:45:38 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: GÜLİSTAN DOKU CİNAYETİNDE 8 GÜN DETAYI! Gizli tanığın iddiaları kan dondurdu!</title>
+      <link>https://www.youtube.com/watch?v=SezZ89OKOvw</link>
+      <guid isPermaLink="false">SezZ89OKOvw</guid>
+      <pubDate>Tue, 25 Aug 2026 18:40:09 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: GÜLİSTAN DOKU CİNAYETİNDE 8 GÜN DETAYI! Gizli tanığın iddiaları kan dondurdu!</description>
+    </item>
     <item>
       <title>Tele2 Haber: 'Butlan Yönetimi'nin temyiz başvurusunu geri çekti! Murat Taylan'dan güldüren benzetme!</title>
       <link>https://www.youtube.com/watch?v=EG616lRtY1c</link>
@@ -20,6 +27,13 @@
       <guid isPermaLink="false">2iAvZ6ZPnZA</guid>
       <pubDate>Tue, 25 Aug 2026 18:30:13 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Partili Sibel Suiçmez’den ekonomi çıkışı! “Vatandaşın parası son yedi yılda yüzde 89,07 eridi!”</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: ÜSKÜDAR'DA BELEDİYE SEÇİMLERİNE İPTAL! Hasan Sınar Çok Sinirlendi! İktidara Zehir Zemberek Sözler</title>
+      <link>https://www.youtube.com/watch?v=BDtH3EU5LvA</link>
+      <guid isPermaLink="false">BDtH3EU5LvA</guid>
+      <pubDate>Tue, 25 Aug 2026 18:30:01 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: ÜSKÜDAR'DA BELEDİYE SEÇİMLERİNE İPTAL! Hasan Sınar Çok Sinirlendi! İktidara Zehir Zemberek Sözler</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Kurtulmuş, Büyük Taarruz'un 104'üncü Yıl Dönümü ve Zafer Haftası Programında konuşuyor #Canlı</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">5sMOJLo-r2M</guid>
       <pubDate>Tue, 25 Aug 2026 14:52:12 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: İrfan Değirmenci'den madencilere destek: Son güne kadar birlikte direneceğiz</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: #CANLI  İBB Davasında 69. gün! Etkin pişmanlıkçı Ertan Yıldız ilk kez konuştu!</title>
-      <link>https://www.youtube.com/watch?v=olI-gBo5rws</link>
-      <guid isPermaLink="false">olI-gBo5rws</guid>
-      <pubDate>Tue, 25 Aug 2026 14:51:05 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI  İBB Davasında 69. gün! Etkin pişmanlıkçı Ertan Yıldız ilk kez konuştu!</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! BUTLANDAN YENİ OYUN! Mutlak butlan temyiz başvurusunu geri çektiler! Gözler Özel'de!</title>
-      <link>https://www.youtube.com/watch?v=igmCrbCE2d8</link>
-      <guid isPermaLink="false">igmCrbCE2d8</guid>
-      <pubDate>Tue, 25 Aug 2026 14:50:24 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! BUTLANDAN YENİ OYUN! Mutlak butlan temyiz başvurusunu geri çektiler! Gözler Özel'de!</description>
     </item>
   </channel>
 </rss>
