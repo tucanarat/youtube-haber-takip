@@ -6,13 +6,34 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 10:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 11:00:53 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Öncesi Sonrası | Senem Toluay Ilgaz | 25 Ağustos</title>
+      <link>https://www.youtube.com/watch?v=J8ETpV-C0uU</link>
+      <guid isPermaLink="false">J8ETpV-C0uU</guid>
+      <pubDate>Tue, 25 Aug 2026 10:58:45 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Öncesi Sonrası | Senem Toluay Ilgaz | 25 Ağustos</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: Özgür Özel’den, madencilere baretli destek #shorts</title>
+      <link>https://www.youtube.com/shorts/XTHVBX6Bs0E</link>
+      <guid isPermaLink="false">XTHVBX6Bs0E</guid>
+      <pubDate>Tue, 25 Aug 2026 10:53:52 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Özgür Özel’den, madencilere baretli destek #shorts</description>
+    </item>
     <item>
       <title>Cumhuriyet: #CANLI Cumhurbaşkanı Erdoğan, Ahlat Etkinlik Alanı Programı'nda konuşuyor</title>
       <link>https://www.youtube.com/watch?v=ooxfuy9e1-c</link>
       <guid isPermaLink="false">ooxfuy9e1-c</guid>
       <pubDate>Tue, 25 Aug 2026 10:50:01 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI Cumhurbaşkanı Erdoğan, Ahlat Etkinlik Alanı Programı'nda konuşuyor</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: Bağımsız Maden İş üyesi madenciler Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor</title>
+      <link>https://www.youtube.com/watch?v=RvwKJNf1PUE</link>
+      <guid isPermaLink="false">RvwKJNf1PUE</guid>
+      <pubDate>Tue, 25 Aug 2026 10:48:38 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Bağımsız Maden İş üyesi madenciler Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor</description>
     </item>
     <item>
       <title>Cumhuriyet: #CANLI İBB Davasında 69. gün! İmamoğlu’nun babasından çarpıcı savunma!</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">sTZBxAM4AkU</guid>
       <pubDate>Tue, 25 Aug 2026 08:57:46 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Özgür Özel'den Bağımsız İş üyesi madencilerine destek: ''Burada iddia yok emek hırsızlığı var''</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Bağımsız Maden İş'e Bağlı Madencilerden Cumhurbaşkanı'na Çağrı!</title>
-      <link>https://www.youtube.com/shorts/XvUaijvNP2s</link>
-      <guid isPermaLink="false">XvUaijvNP2s</guid>
-      <pubDate>Tue, 25 Aug 2026 08:40:10 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Bağımsız Maden İş'e Bağlı Madencilerden Cumhurbaşkanı'na Çağrı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Gökhan Günaydın, Dalaman'da YENİ partiye katılan üyelere rozetlerini taktı!</title>
-      <link>https://www.youtube.com/shorts/wq8VnVTGaQE</link>
-      <guid isPermaLink="false">wq8VnVTGaQE</guid>
-      <pubDate>Tue, 25 Aug 2026 08:36:52 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Gökhan Günaydın, Dalaman'da YENİ partiye katılan üyelere rozetlerini taktı!</description>
-    </item>
-    <item>
-      <title>Halk TV: GÖRÜNTÜLER ORTAYA ÇIKTI! Süleymancıların lideri Alihan Kuriş böyle gözaltına alınmış! Günün bombası!</title>
-      <link>https://www.youtube.com/watch?v=vFw5VC4d03Q</link>
-      <guid isPermaLink="false">vFw5VC4d03Q</guid>
-      <pubDate>Tue, 25 Aug 2026 08:35:35 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: GÖRÜNTÜLER ORTAYA ÇIKTI! Süleymancıların lideri Alihan Kuriş böyle gözaltına alınmış! Günün bombası!</description>
     </item>
   </channel>
 </rss>

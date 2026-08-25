@@ -9825,7 +9825,7 @@
   },
   "X3O0k0nRQ_4": {
     "id": "X3O0k0nRQ_4",
-    "title": "Haber Saati | Gülinay Selçuk",
+    "title": "#CANLI Haber Saati | Gülinay Selçuk",
     "link": "https://www.youtube.com/watch?v=X3O0k0nRQ_4",
     "published": "2026-08-24T22:19:49+00:00",
     "published_ts": 1787609989,
@@ -9835,8 +9835,8 @@
     "id": "J8ETpV-C0uU",
     "title": "Öncesi Sonrası | Senem Toluay Ilgaz | 25 Ağustos",
     "link": "https://www.youtube.com/watch?v=J8ETpV-C0uU",
-    "published": "2026-08-24T22:18:10+00:00",
-    "published_ts": 1787609890,
+    "published": "2026-08-25T10:58:45+00:00",
+    "published_ts": 1787655525,
     "channel_name": "SÖZCÜ TV"
   },
   "D1y_7k6RjYw": {
@@ -10614,5 +10614,21 @@
     "published": "2026-08-25T10:45:46+00:00",
     "published_ts": 1787654746,
     "channel_name": "Cumhuriyet"
+  },
+  "XTHVBX6Bs0E": {
+    "id": "XTHVBX6Bs0E",
+    "title": "Özgür Özel’den, madencilere baretli destek #shorts",
+    "link": "https://www.youtube.com/shorts/XTHVBX6Bs0E",
+    "published": "2026-08-25T10:53:52+00:00",
+    "published_ts": 1787655232,
+    "channel_name": "ANKA Haber Ajansı"
+  },
+  "RvwKJNf1PUE": {
+    "id": "RvwKJNf1PUE",
+    "title": "Bağımsız Maden İş üyesi madenciler Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor",
+    "link": "https://www.youtube.com/watch?v=RvwKJNf1PUE",
+    "published": "2026-08-25T10:48:38+00:00",
+    "published_ts": 1787654918,
+    "channel_name": "ANKA Haber Ajansı"
   }
 }
