@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 21:55:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 22:00:49 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Bilge Yurtdagülen ile Gündem Özel (25 Ağustos 2026)</title>
+      <link>https://www.youtube.com/watch?v=PHf2WX51DSc</link>
+      <guid isPermaLink="false">PHf2WX51DSc</guid>
+      <pubDate>Tue, 25 Aug 2026 21:55:31 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Bilge Yurtdagülen ile Gündem Özel (25 Ağustos 2026)</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Erdoğan 'Planımız Var' Dedi! Murat Ağırel Çerçeve Yasanın Arkasındaki Gizli Planı Anlattı!</title>
       <link>https://www.youtube.com/watch?v=UaYYKB5lg9Q</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">xxDXW1ex9MY</guid>
       <pubDate>Tue, 25 Aug 2026 17:00:30 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: AİHM, Osman Kavala için kararını verdi! Murat Taylan iddianame için sordu...</description>
-    </item>
-    <item>
-      <title>Halk TV: Cem Küçük tutuklandı… Kilit isim konumdaki Serdar Özyurt ile en yakın adamı ise her yerde aranıyor!</title>
-      <link>https://www.youtube.com/watch?v=OY6tKN_1V3k</link>
-      <guid isPermaLink="false">OY6tKN_1V3k</guid>
-      <pubDate>Tue, 25 Aug 2026 17:00:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Cem Küçük tutuklandı… Kilit isim konumdaki Serdar Özyurt ile en yakın adamı ise her yerde aranıyor!</description>
     </item>
   </channel>
 </rss>
