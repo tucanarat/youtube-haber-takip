@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 08:05:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 08:09:00 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Sözcü Masası | Damla Doğan Tuncel | 25 Ağustos</title>
+      <link>https://www.youtube.com/watch?v=D1y_7k6RjYw</link>
+      <guid isPermaLink="false">D1y_7k6RjYw</guid>
+      <pubDate>Tue, 25 Aug 2026 08:07:22 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Sözcü Masası | Damla Doğan Tuncel | 25 Ağustos</description>
+    </item>
+    <item>
+      <title>Halk TV: MERAL AKŞENER’IN O TELEFON GÖRÜŞMESİ ORTAYA ÇIKTI! Neler demiş neler! Nesrin Nas bir bir anlattı!</title>
+      <link>https://www.youtube.com/watch?v=GBNIkUPmcwU</link>
+      <guid isPermaLink="false">GBNIkUPmcwU</guid>
+      <pubDate>Tue, 25 Aug 2026 08:05:09 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: MERAL AKŞENER’IN O TELEFON GÖRÜŞMESİ ORTAYA ÇIKTI! Neler demiş neler! Nesrin Nas bir bir anlattı!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: ÇİFTE STANDART! 700 Yılla Yargılanıyordu Şirketleri İade Edildi! Aziz İhsan Aktaş Bunu Yapmış</title>
+      <link>https://www.youtube.com/watch?v=ENsdRb4VoiA</link>
+      <guid isPermaLink="false">ENsdRb4VoiA</guid>
+      <pubDate>Tue, 25 Aug 2026 08:00:23 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: ÇİFTE STANDART! 700 Yılla Yargılanıyordu Şirketleri İade Edildi! Aziz İhsan Aktaş Bunu Yapmış</description>
+    </item>
     <item>
       <title>Halk TV: Gökhan Kayış ile Para Siyaset | Nesrin Nas - Öner Günçavdı (25 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=1B6TMIx_rgE</link>
@@ -309,18 +330,11 @@
       <description>SÖZCÜ TV kanalından yeni video: Haber Saati | Gülinay Selçuk</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: Öncesi Sonrası | Senem Toluay Ilgaz</title>
+      <title>SÖZCÜ TV: #CANLI Öncesi Sonrası | Senem Toluay Ilgaz</title>
       <link>https://www.youtube.com/watch?v=J8ETpV-C0uU</link>
       <guid isPermaLink="false">J8ETpV-C0uU</guid>
       <pubDate>Mon, 24 Aug 2026 22:18:10 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Öncesi Sonrası | Senem Toluay Ilgaz</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Sözcü Masası | Damla Doğan Tuncel | 25 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=D1y_7k6RjYw</link>
-      <guid isPermaLink="false">D1y_7k6RjYw</guid>
-      <pubDate>Mon, 24 Aug 2026 22:17:38 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Sözcü Masası | Damla Doğan Tuncel | 25 Ağustos</description>
+      <description>SÖZCÜ TV kanalından yeni video: #CANLI Öncesi Sonrası | Senem Toluay Ilgaz</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Sözcü ile Uyanma Vakti | Dilan Polat</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">gz_Vn6EiizI</guid>
       <pubDate>Mon, 24 Aug 2026 22:05:16 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Kürşad Oğuz ile Rota (24 Ağustos 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: Burak Dalgın'dan dikkat çeken transfer yorumu! “Transfer varsa güçleri yoktur!”</title>
-      <link>https://www.youtube.com/watch?v=91nis1fTzyg</link>
-      <guid isPermaLink="false">91nis1fTzyg</guid>
-      <pubDate>Mon, 24 Aug 2026 22:00:28 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Burak Dalgın'dan dikkat çeken transfer yorumu! “Transfer varsa güçleri yoktur!”</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Butlan CHP'si Zeydan Karalar'ı ihraç mı edecek?</title>
-      <link>https://www.youtube.com/shorts/w8JhObU_lHs</link>
-      <guid isPermaLink="false">w8JhObU_lHs</guid>
-      <pubDate>Mon, 24 Aug 2026 22:00:19 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Butlan CHP'si Zeydan Karalar'ı ihraç mı edecek?</description>
     </item>
   </channel>
 </rss>
