@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 14:45:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 14:50:32 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: İş Çıkışı | Merve Ekinci 25 Ağustos</title>
+      <link>https://www.youtube.com/watch?v=-Cg-2faS0ZQ</link>
+      <guid isPermaLink="false">-Cg-2faS0ZQ</guid>
+      <pubDate>Tue, 25 Aug 2026 14:49:09 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İş Çıkışı | Merve Ekinci 25 Ağustos</description>
+    </item>
     <item>
       <title>Halk TV: Mahkeme kararıyla koltuğa oturtulan Kılıçdaroğlu: CHP’den ayrılanlarla sakın tartışmaya girmeyin!</title>
       <link>https://www.youtube.com/shorts/PlK9hJfiQOA</link>
@@ -169,11 +176,11 @@
       <description>Halk TV kanalından yeni video: Cumhurbaşkanı Erdoğan ve Devlet Bahçeli, Ahlat Selçuklu Kabristanı'nı ziyaret etti!</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | Gizem Çetin ile Parantez</title>
+      <title>Halk TV: #CANLI | Gizem Çetin ile Parantez (25 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=Yhi5VcomhHg</link>
       <guid isPermaLink="false">Yhi5VcomhHg</guid>
       <pubDate>Tue, 25 Aug 2026 12:50:20 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Gizem Çetin ile Parantez</description>
+      <description>Halk TV kanalından yeni video: #CANLI | Gizem Çetin ile Parantez (25 Ağustos 2026)</description>
     </item>
     <item>
       <title>Halk TV: MASAK RAPORUNDAN NELER ÇIKTI NELER! Alihan Kuriş ve ailesinin milyonluk çarkı böyle ortaya saçıldı!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">-WRE-NVCSk4</guid>
       <pubDate>Tue, 25 Aug 2026 11:21:06 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: "Çözülmezse, yarın ailelerle birlikte Cumhurbaşkanlığına yürüyüş başlatacağız” #shorts</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Süleymancılar Operasyonunu Mustafa Balbay'dan Dinleyin! Gizli Raporu Anlattı Uyardı</title>
-      <link>https://www.youtube.com/watch?v=QS0F32hGlJ0</link>
-      <guid isPermaLink="false">QS0F32hGlJ0</guid>
-      <pubDate>Tue, 25 Aug 2026 11:20:39 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Süleymancılar Operasyonunu Mustafa Balbay'dan Dinleyin! Gizli Raporu Anlattı Uyardı</description>
     </item>
   </channel>
 </rss>
