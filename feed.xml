@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 07:05:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 07:10:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: YİNE AYNI SENARYO! Aziz İhsan Aktaş'a beraat, CHP'li başkanlara ceza yağmuru! Gamze Altunay anlattı!</title>
+      <link>https://www.youtube.com/watch?v=Cu63QusqtpA</link>
+      <guid isPermaLink="false">Cu63QusqtpA</guid>
+      <pubDate>Tue, 25 Aug 2026 07:05:03 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YİNE AYNI SENARYO! Aziz İhsan Aktaş'a beraat, CHP'li başkanlara ceza yağmuru! Gamze Altunay anlattı!</description>
+    </item>
     <item>
       <title>Cumhuriyet: Aziz İhsan Aktaş davasından beraat etmişti! Abdurrahman Tutdere'den ilk açıklama</title>
       <link>https://www.youtube.com/watch?v=IjdMJ0xOLs8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">W8qC3ykAjH8</guid>
       <pubDate>Mon, 24 Aug 2026 20:00:06 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Ahmet Özer göreve dönecek mi? Seraf Özer Aziz İhsan Aktaş davası kararını değerlendirdi</description>
-    </item>
-    <item>
-      <title>Halk TV: AJANS SAHİBİ HER ŞEYİ İTİRAF ETTİ! 'Figüran' oyunu böyle patladı! ''CHP'den para alabilmek için...''</title>
-      <link>https://www.youtube.com/watch?v=7m9Mf-BpuYQ</link>
-      <guid isPermaLink="false">7m9Mf-BpuYQ</guid>
-      <pubDate>Mon, 24 Aug 2026 20:00:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: AJANS SAHİBİ HER ŞEYİ İTİRAF ETTİ! 'Figüran' oyunu böyle patladı! ''CHP'den para alabilmek için...''</description>
     </item>
   </channel>
 </rss>
