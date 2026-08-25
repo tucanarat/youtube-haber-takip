@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 10:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 10:20:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: DUDAK UÇUKLATACAK SAYI! YENİ Parti'ye destek fırtınası durdurulamıyor! Butlan ekibi darmadağın olur!</title>
+      <link>https://www.youtube.com/watch?v=VMontLjCIqM</link>
+      <guid isPermaLink="false">VMontLjCIqM</guid>
+      <pubDate>Tue, 25 Aug 2026 10:15:03 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: DUDAK UÇUKLATACAK SAYI! YENİ Parti'ye destek fırtınası durdurulamıyor! Butlan ekibi darmadağın olur!</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: Özgür Özel’den, Aziz İhsan Aktaş davasına ilişkin açıklama #shorts</title>
+      <link>https://www.youtube.com/shorts/vV5Z8mJRVTQ</link>
+      <guid isPermaLink="false">vV5Z8mJRVTQ</guid>
+      <pubDate>Tue, 25 Aug 2026 10:13:56 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Özgür Özel’den, Aziz İhsan Aktaş davasına ilişkin açıklama #shorts</description>
+    </item>
     <item>
       <title>Cumhuriyet: İktidar neden tarikatlara operasyon yapıyor? Yolun sonunda seçim mi var? Doç. Dr. Yaşlı anlattı...</title>
       <link>https://www.youtube.com/watch?v=QKVH24ne34c</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">XaD632A5U_Q</guid>
       <pubDate>Tue, 25 Aug 2026 08:15:58 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Gazilerden protez-to! - Mustafa Balbay</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Çatışma bölgesinin ortasında yaşamak - Deniz Berktay</title>
-      <link>https://www.youtube.com/watch?v=IzzAP7A9NIw</link>
-      <guid isPermaLink="false">IzzAP7A9NIw</guid>
-      <pubDate>Tue, 25 Aug 2026 08:14:50 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Çatışma bölgesinin ortasında yaşamak - Deniz Berktay</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Ar-Ge 1.7: Teknoloji alanında ihracat 56 milyar dolar - Orhan Bursalı</title>
-      <link>https://www.youtube.com/watch?v=Rl1kIION1QY</link>
-      <guid isPermaLink="false">Rl1kIION1QY</guid>
-      <pubDate>Tue, 25 Aug 2026 08:14:29 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Ar-Ge 1.7: Teknoloji alanında ihracat 56 milyar dolar - Orhan Bursalı</description>
     </item>
   </channel>
 </rss>
