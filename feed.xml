@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 11:30:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 11:35:23 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | CHP'nin Genel Başkanlığına Atanan Kılıçdaroğlu İl Başkanları Toplantısında Konuşuyor!</title>
+      <link>https://www.youtube.com/watch?v=ccVK7-EvYW4</link>
+      <guid isPermaLink="false">ccVK7-EvYW4</guid>
+      <pubDate>Tue, 25 Aug 2026 11:33:08 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | CHP'nin Genel Başkanlığına Atanan Kılıçdaroğlu İl Başkanları Toplantısında Konuşuyor!</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI Maden işçileri, Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor</title>
       <link>https://www.youtube.com/watch?v=YOiMVxODJL4</link>
       <guid isPermaLink="false">YOiMVxODJL4</guid>
       <pubDate>Tue, 25 Aug 2026 11:27:39 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Maden işçileri, Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor</description>
+    </item>
+    <item>
+      <title>Halk TV: Madenciler Enerji Ve Tabii Kaynaklar Bakanlığı Önünde Açıklama Yaptı! (25 Ağustos 2026)</title>
+      <link>https://www.youtube.com/watch?v=JWJ_fqZhxH4</link>
+      <guid isPermaLink="false">JWJ_fqZhxH4</guid>
+      <pubDate>Tue, 25 Aug 2026 11:26:29 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Madenciler Enerji Ve Tabii Kaynaklar Bakanlığı Önünde Açıklama Yaptı! (25 Ağustos 2026)</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Bağımsız Maden İş üyesi madenciler Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor</title>
@@ -69,13 +83,6 @@
       <guid isPermaLink="false">CeWL7DghTfE</guid>
       <pubDate>Tue, 25 Aug 2026 11:17:15 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkanı Kemal Kılıçdaroğlu, İl Başkanları Toplantısında konuşuyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Madenciler Enerji Ve Tabii Kaynaklar Bakanlığı Önünde Açıklama Yapıyor!</title>
-      <link>https://www.youtube.com/watch?v=JWJ_fqZhxH4</link>
-      <guid isPermaLink="false">JWJ_fqZhxH4</guid>
-      <pubDate>Tue, 25 Aug 2026 11:16:00 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Madenciler Enerji Ve Tabii Kaynaklar Bakanlığı Önünde Açıklama Yapıyor!</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Cumhurbaşkanı Erdoğan, Ahlat Etkinlik Alanı Programı'nda konuşuyor #Canlı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">PvH6nkQhEbk</guid>
       <pubDate>Tue, 25 Aug 2026 09:36:13 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: ÖZGÜR ÖZEL 'AZİZ İHSAN AKTAŞ' DAVASI KARARINA ATEŞ PÜSKÜRDÜ</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: CHP Genel Başkan Yardımcısı Yıldırım Kaya, Balıkesir İl Başkanlığı’nda açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=3zl1hhlc4R0</link>
-      <guid isPermaLink="false">3zl1hhlc4R0</guid>
-      <pubDate>Tue, 25 Aug 2026 09:35:17 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkan Yardımcısı Yıldırım Kaya, Balıkesir İl Başkanlığı’nda açıklama yapıyor #Canlı</description>
     </item>
   </channel>
 </rss>
