@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 10:45:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 10:50:35 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: İBB DAVASINDA TANSİYON YÜKSELDİ! Hasan İmamoğlu’nun savunması salona buz kestirdi! Tarihi sözler!</title>
+      <link>https://www.youtube.com/watch?v=JaGaOw2WzkI</link>
+      <guid isPermaLink="false">JaGaOw2WzkI</guid>
+      <pubDate>Tue, 25 Aug 2026 10:45:05 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İBB DAVASINDA TANSİYON YÜKSELDİ! Hasan İmamoğlu’nun savunması salona buz kestirdi! Tarihi sözler!</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Aziz İhsan Aktaş davasında karar çıktı! Tutuklu başkanlar yerine kayyum gelebilir mi?</title>
+      <link>https://www.youtube.com/watch?v=H_XpThkJ0uA</link>
+      <guid isPermaLink="false">H_XpThkJ0uA</guid>
+      <pubDate>Tue, 25 Aug 2026 10:38:50 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Aziz İhsan Aktaş davasında karar çıktı! Tutuklu başkanlar yerine kayyum gelebilir mi?</description>
+    </item>
     <item>
       <title>Halk TV: YENİ PARTİ LİDERİ ÖZGÜR ÖZEL'DEN MADENCİLERE DESTEK!</title>
       <link>https://www.youtube.com/shorts/cfuK_CiLMho</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">RwTY21ZI8WY</guid>
       <pubDate>Tue, 25 Aug 2026 08:27:53 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Çalışanı, Aziz İhsan Aktaş'tan Fazla Ceza Aldı... Süleymancılara Bir Operasyon Daha!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: SON DAKİKA Süleymancılara Bir Darbe Daha! 3. Dalga Operasyon Geldi! 54 Kişiye Gözaltı Kararı</title>
-      <link>https://www.youtube.com/watch?v=EZJ7zu1U_ZE</link>
-      <guid isPermaLink="false">EZJ7zu1U_ZE</guid>
-      <pubDate>Tue, 25 Aug 2026 08:26:29 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: SON DAKİKA Süleymancılara Bir Darbe Daha! 3. Dalga Operasyon Geldi! 54 Kişiye Gözaltı Kararı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Alihan Kuriş'in gözaltına alındığı anların görüntüsü ortaya çıktı</title>
-      <link>https://www.youtube.com/shorts/cShJV8DRwNY</link>
-      <guid isPermaLink="false">cShJV8DRwNY</guid>
-      <pubDate>Tue, 25 Aug 2026 08:24:06 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Alihan Kuriş'in gözaltına alındığı anların görüntüsü ortaya çıktı</description>
     </item>
   </channel>
 </rss>
