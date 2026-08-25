@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 12:00:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 12:05:28 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: İmamoğlu'nun babası hakkında flaş talep! | Ülkü Çoban ile Manşet Ötesi</title>
+      <link>https://www.youtube.com/watch?v=vwt9VrZ38nk</link>
+      <guid isPermaLink="false">vwt9VrZ38nk</guid>
+      <pubDate>Tue, 25 Aug 2026 12:01:20 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: İmamoğlu'nun babası hakkında flaş talep! | Ülkü Çoban ile Manşet Ötesi</description>
+    </item>
     <item>
       <title>Halk TV: BU SÖZLERE YÜREK DAYANMAZ! Yaşlı madenci Erdoğan'a öyle bir feryat etti ki! Gözleriniz dolacak!</title>
       <link>https://www.youtube.com/watch?v=tQgSWr-EeIk</link>
@@ -43,11 +50,11 @@
       <description>Halk TV kanalından yeni video: 'VAHAP SEÇER' TARTIŞMASINA SON NOKTAYI KOYDU! Özgür Özel telefon görüşmesinde konuşulanları anlattı!</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | CHP'nin Genel Başkanlığına Atanan Kılıçdaroğlu İl Başkanları Toplantısında Konuşuyor!</title>
+      <title>Halk TV: CHP'nin Genel Başkanlığına Atanan Kılıçdaroğlu İl Başkanları Toplantısında Konuştu!</title>
       <link>https://www.youtube.com/watch?v=ccVK7-EvYW4</link>
       <guid isPermaLink="false">ccVK7-EvYW4</guid>
       <pubDate>Tue, 25 Aug 2026 11:33:08 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | CHP'nin Genel Başkanlığına Atanan Kılıçdaroğlu İl Başkanları Toplantısında Konuşuyor!</description>
+      <description>Halk TV kanalından yeni video: CHP'nin Genel Başkanlığına Atanan Kılıçdaroğlu İl Başkanları Toplantısında Konuştu!</description>
     </item>
     <item>
       <title>Tele2 Haber: #CANLI Maden işçileri, Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">hzo4hkl1Zew</guid>
       <pubDate>Tue, 25 Aug 2026 09:45:31 +0000</pubDate>
       <description>Halk TV kanalından yeni video: TARİHE GEÇER! Özgür Özel bareti kaptığı gibi madencilerle omuz omuza verdi! Bu anlar çok konuşulur!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Özgür Özel 'Aziz İhsan Aktaş' davası kararına ateş püskürdü! "BU KADAR KÖTÜLÜK ÖDÜLLENDİRİLEMEZ"</title>
-      <link>https://www.youtube.com/watch?v=cIEGXfp5LSA</link>
-      <guid isPermaLink="false">cIEGXfp5LSA</guid>
-      <pubDate>Tue, 25 Aug 2026 09:44:04 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Özgür Özel 'Aziz İhsan Aktaş' davası kararına ateş püskürdü! "BU KADAR KÖTÜLÜK ÖDÜLLENDİRİLEMEZ"</description>
     </item>
   </channel>
 </rss>
