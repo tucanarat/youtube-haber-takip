@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 17:47:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 17:50:36 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: CEM KÜÇÜK SORUŞTURMASINDA FLAŞ GELİŞME! 3 kişi hakkında yakalama kararı!</title>
+      <link>https://www.youtube.com/watch?v=c32I2BAx-Ag</link>
+      <guid isPermaLink="false">c32I2BAx-Ag</guid>
+      <pubDate>Tue, 25 Aug 2026 17:45:06 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: CEM KÜÇÜK SORUŞTURMASINDA FLAŞ GELİŞME! 3 kişi hakkında yakalama kararı!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Kocaelispor Amedspor Maçında "Sarı Torba" Soruşturması! 5 Kişi Gözaltına Alındı</title>
+      <link>https://www.youtube.com/watch?v=rWVyEA7huq0</link>
+      <guid isPermaLink="false">rWVyEA7huq0</guid>
+      <pubDate>Tue, 25 Aug 2026 17:40:29 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Kocaelispor Amedspor Maçında "Sarı Torba" Soruşturması! 5 Kişi Gözaltına Alındı</description>
+    </item>
     <item>
       <title>Tele2 Haber: Merdan Yanardağ Türkiye'de yaşananlar ile edebiyatın ilişkisini hatırlattı!</title>
       <link>https://www.youtube.com/watch?v=B85dQiGZ-mk</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">h3KSwnD4hzQ</guid>
       <pubDate>Tue, 25 Aug 2026 13:35:15 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ANKARAYI SALLAYAN İDDİA! Siyasette 'Milliyetçi ittifak' mı doğuyor? İYİ Partili isim açıkladı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İktidar Kendi Zenginlerini Yarattı Süheyl Batum İfşa Etti! AKP'ye Neler Dedi Neler</title>
-      <link>https://www.youtube.com/watch?v=PQvUmntLbw0</link>
-      <guid isPermaLink="false">PQvUmntLbw0</guid>
-      <pubDate>Tue, 25 Aug 2026 13:20:28 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İktidar Kendi Zenginlerini Yarattı Süheyl Batum İfşa Etti! AKP'ye Neler Dedi Neler</description>
-    </item>
-    <item>
-      <title>Halk TV: TÜM EZBERLERİ BOZDU! Seyfettin Çilesiz, Aktaş davası kararlarına ilişkin öyle bir detay verdi ki!</title>
-      <link>https://www.youtube.com/watch?v=DRi6DAdoBts</link>
-      <guid isPermaLink="false">DRi6DAdoBts</guid>
-      <pubDate>Tue, 25 Aug 2026 13:20:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: TÜM EZBERLERİ BOZDU! Seyfettin Çilesiz, Aktaş davası kararlarına ilişkin öyle bir detay verdi ki!</description>
     </item>
   </channel>
 </rss>
