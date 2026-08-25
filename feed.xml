@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 05:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 06:00:50 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: FACİANIN EŞİĞİNDEN DÖNÜLDÜ! Benzin yüklü tankerle yolcu otobüsü çarpıştı! Çok sayıda kişi yaralandı!</title>
+      <link>https://www.youtube.com/watch?v=k9cz8KPAmJI</link>
+      <guid isPermaLink="false">k9cz8KPAmJI</guid>
+      <pubDate>Tue, 25 Aug 2026 05:37:04 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: FACİANIN EŞİĞİNDEN DÖNÜLDÜ! Benzin yüklü tankerle yolcu otobüsü çarpıştı! Çok sayıda kişi yaralandı!</description>
+    </item>
     <item>
       <title>Halk TV: Süheyla Demir ile Günaydın Türkiye (25 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=qV1_olsCYvM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">wH78D49KckQ</guid>
       <pubDate>Mon, 24 Aug 2026 19:05:48 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: İMRALI TUTANAKLARI! Murat Taylan ile Gerçek | Konuklar: Yaşar Aydın ve Emrah Gülsunar (24.08.2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! Tekirdağ Belediye Başkanı Candan Yüceer o sözlerle CHP’den istifa etti!</title>
-      <link>https://www.youtube.com/watch?v=pi-WnagM47g</link>
-      <guid isPermaLink="false">pi-WnagM47g</guid>
-      <pubDate>Mon, 24 Aug 2026 19:00:18 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! Tekirdağ Belediye Başkanı Candan Yüceer o sözlerle CHP’den istifa etti!</description>
     </item>
   </channel>
 </rss>
