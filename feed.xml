@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 13:50:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 13:55:26 +0000</lastBuildDate>
     <item>
-      <title>Cumhuriyet: #CANLI  İBB Davasında 69. gün! Etkin Pişmanlıkçı Ertan Yıldız ilk kez konuştu!</title>
+      <title>Cumhuriyet: #CANLI  İBB Davasında 69. gün! Etkin pişmanlıkçı Ertan Yıldız ilk kez konuştu!</title>
       <link>https://www.youtube.com/watch?v=olI-gBo5rws</link>
       <guid isPermaLink="false">olI-gBo5rws</guid>
       <pubDate>Tue, 25 Aug 2026 13:42:00 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI  İBB Davasında 69. gün! Etkin Pişmanlıkçı Ertan Yıldız ilk kez konuştu!</description>
+      <description>Cumhuriyet kanalından yeni video: #CANLI  İBB Davasında 69. gün! Etkin pişmanlıkçı Ertan Yıldız ilk kez konuştu!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: MAHKEMEDE 1 MİLYON EURO SORUSU! Hasan İmamoğlu'nun İfadesi Ortaya Çıktı! 'Babasıyım Diye...'</title>
+      <link>https://www.youtube.com/watch?v=223KQeYqg0Y</link>
+      <guid isPermaLink="false">223KQeYqg0Y</guid>
+      <pubDate>Tue, 25 Aug 2026 13:40:35 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: MAHKEMEDE 1 MİLYON EURO SORUSU! Hasan İmamoğlu'nun İfadesi Ortaya Çıktı! 'Babasıyım Diye...'</description>
     </item>
     <item>
       <title>Halk TV: ANKARAYI SALLAYAN İDDİA! Siyasette 'Milliyetçi ittifak' mı doğuyor? İYİ Partili isim açıkladı!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Nu16wHy_s1c</guid>
       <pubDate>Tue, 25 Aug 2026 11:12:14 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Türkiye'nin konuştuğu Trabzonlu Ufuk'u anneannesi anlattı!</description>
-    </item>
-    <item>
-      <title>Halk TV: 12 yaşındaki Ufuk'un sözleri ders niteliğinde!</title>
-      <link>https://www.youtube.com/shorts/qvXjojXFa8c</link>
-      <guid isPermaLink="false">qvXjojXFa8c</guid>
-      <pubDate>Tue, 25 Aug 2026 11:12:12 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: 12 yaşındaki Ufuk'un sözleri ders niteliğinde!</description>
     </item>
   </channel>
 </rss>
