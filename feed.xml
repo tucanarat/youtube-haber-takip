@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 14:09:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 14:10:34 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Haber Saati | Gülinay Selçuk | 25 Ağustos</title>
+      <link>https://www.youtube.com/watch?v=X3O0k0nRQ_4</link>
+      <guid isPermaLink="false">X3O0k0nRQ_4</guid>
+      <pubDate>Tue, 25 Aug 2026 14:01:29 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Haber Saati | Gülinay Selçuk | 25 Ağustos</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: 'Ekrem İmamoğlu Av Oldu' Abdulkadir Selvi'nin Sözlerine Bahadır Erdem'den Çok Sert Yanıt!</title>
+      <link>https://www.youtube.com/watch?v=cD666n6SXeg</link>
+      <guid isPermaLink="false">cD666n6SXeg</guid>
+      <pubDate>Tue, 25 Aug 2026 14:00:49 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: 'Ekrem İmamoğlu Av Oldu' Abdulkadir Selvi'nin Sözlerine Bahadır Erdem'den Çok Sert Yanıt!</description>
+    </item>
     <item>
       <title>Halk TV: İBB DAVASININ KİLİT İSMİ KÜRSÜDE! İtirafçı Ertan Yıldız'ın İmamoğlu için bu sözleri gündem olacak!</title>
       <link>https://www.youtube.com/watch?v=mmED00qmzJQ</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">DTOudqItrbo</guid>
       <pubDate>Tue, 25 Aug 2026 11:12:19 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Özel: SSS Yıldızlar Holding'e de atayın kayyum!</description>
-    </item>
-    <item>
-      <title>Halk TV: Enerji Bakanlığı önünde hak arayışlarını sürdüren madencilere Özgür Özel'den destek ziyareti!</title>
-      <link>https://www.youtube.com/shorts/aZCCCpVS58c</link>
-      <guid isPermaLink="false">aZCCCpVS58c</guid>
-      <pubDate>Tue, 25 Aug 2026 11:12:17 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Enerji Bakanlığı önünde hak arayışlarını sürdüren madencilere Özgür Özel'den destek ziyareti!</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel'den Aziz İhsan Aktaş davası kararlarına tepki!</title>
-      <link>https://www.youtube.com/shorts/8fMvMekMPY0</link>
-      <guid isPermaLink="false">8fMvMekMPY0</guid>
-      <pubDate>Tue, 25 Aug 2026 11:12:15 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel'den Aziz İhsan Aktaş davası kararlarına tepki!</description>
     </item>
   </channel>
 </rss>
