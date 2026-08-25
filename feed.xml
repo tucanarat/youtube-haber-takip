@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 09:45:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 09:50:37 +0000</lastBuildDate>
     <item>
       <title>Cumhuriyet: Özgür Özel 'Aziz İhsan Aktaş' davası kararına ateş püskürdü! "BU KADAR KÖTÜLÜK ÖDÜLLENDİRİLEMEZ"</title>
       <link>https://www.youtube.com/watch?v=cIEGXfp5LSA</link>
       <guid isPermaLink="false">cIEGXfp5LSA</guid>
       <pubDate>Tue, 25 Aug 2026 09:44:04 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Özgür Özel 'Aziz İhsan Aktaş' davası kararına ateş püskürdü! "BU KADAR KÖTÜLÜK ÖDÜLLENDİRİLEMEZ"</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Özgür Özel'den Osman Kavala Çağrısı!</title>
+      <link>https://www.youtube.com/shorts/1hzd5XrE9Go</link>
+      <guid isPermaLink="false">1hzd5XrE9Go</guid>
+      <pubDate>Tue, 25 Aug 2026 09:43:44 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Özgür Özel'den Osman Kavala Çağrısı!</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Cumhurbaşkanı Erdoğan, Ahlat Etkinlik Alanı Programı'nda konuşuyor #Canlı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Q4g344JzRmg</guid>
       <pubDate>Tue, 25 Aug 2026 07:57:47 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Gökhan Günaydın açıkladı: 200’ün üzerinde belediye başkanı YENİ Parti’ye katılmak için istifa etti</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Burçin Atılgan ile Neden Sonuç | Mehmet Tezkan</title>
-      <link>https://www.youtube.com/watch?v=7eHowq6srz4</link>
-      <guid isPermaLink="false">7eHowq6srz4</guid>
-      <pubDate>Tue, 25 Aug 2026 07:52:26 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Burçin Atılgan ile Neden Sonuç | Mehmet Tezkan</description>
     </item>
   </channel>
 </rss>
