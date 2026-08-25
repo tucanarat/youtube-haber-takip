@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 07:40:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 07:45:28 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: İYİ Parti Milletvekili Selçuk Türkoğlu gazileri ziyaretinde darp edildi: Hastaneden taburcu edildi</title>
+      <link>https://www.youtube.com/watch?v=dAm90yO2PRY</link>
+      <guid isPermaLink="false">dAm90yO2PRY</guid>
+      <pubDate>Tue, 25 Aug 2026 07:42:18 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: İYİ Parti Milletvekili Selçuk Türkoğlu gazileri ziyaretinde darp edildi: Hastaneden taburcu edildi</description>
+    </item>
     <item>
       <title>Cumhuriyet: Emeklinin 'İstanbul' isyanı: Geçim zor, her şey pahalı</title>
       <link>https://www.youtube.com/watch?v=DvIkWiitmyw</link>
@@ -27,6 +34,13 @@
       <guid isPermaLink="false">4C2rl0H-FVM</guid>
       <pubDate>Tue, 25 Aug 2026 07:35:11 +0000</pubDate>
       <description>Halk TV kanalından yeni video: VAHAP SEÇER, ÖZGÜR ÖZEL'E TELEFONDA BAKIN NE DEMİŞ! Zeynel Emre o görüşmeyi anlattı! Bomba detay!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: "İNSANLARIN HAYATLARIYLA OYNADILAR!" Onur Öncü'den Çok Sert Aziz İhsan Aktaş Davası Tepkisi!</title>
+      <link>https://www.youtube.com/watch?v=fZIsKnI5p7c</link>
+      <guid isPermaLink="false">fZIsKnI5p7c</guid>
+      <pubDate>Tue, 25 Aug 2026 07:33:18 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "İNSANLARIN HAYATLARIYLA OYNADILAR!" Onur Öncü'den Çok Sert Aziz İhsan Aktaş Davası Tepkisi!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Alihan Kuriş ve Ailesinin MASAK Raporu Sızdı! Devasa Servet Ortaya Çıktı! Süleymancılara Şok</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">gjnvOUcvPbM</guid>
       <pubDate>Mon, 24 Aug 2026 21:15:14 +0000</pubDate>
       <description>Halk TV kanalından yeni video: 'FİGÜRAN' SKANDALINDA YENİ PERDE! Ajans sahibinden gündeme bomba gibi düşecek itiraf!</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti Mamak ilçe başkanlığının açılışına çok sayıda partili katıldı! #shorts</title>
-      <link>https://www.youtube.com/shorts/F-N1aa55BkA</link>
-      <guid isPermaLink="false">F-N1aa55BkA</guid>
-      <pubDate>Mon, 24 Aug 2026 21:11:37 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti Mamak ilçe başkanlığının açılışına çok sayıda partili katıldı! #shorts</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Hafta Başı | Ekrem Açıkel | 24 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=hFeyQ4qyYXc</link>
-      <guid isPermaLink="false">hFeyQ4qyYXc</guid>
-      <pubDate>Mon, 24 Aug 2026 21:03:15 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Hafta Başı | Ekrem Açıkel | 24 Ağustos</description>
     </item>
   </channel>
 </rss>
