@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 12:45:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 12:50:31 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Madenciler Bakanlık yetkilileriyle görüştü: "Müzakere zemini oluşturmak için çalışma yapılacak"</title>
+      <link>https://www.youtube.com/watch?v=6uXQLJ7TlSs</link>
+      <guid isPermaLink="false">6uXQLJ7TlSs</guid>
+      <pubDate>Tue, 25 Aug 2026 12:42:38 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Madenciler Bakanlık yetkilileriyle görüştü: "Müzakere zemini oluşturmak için çalışma yapılacak"</description>
+    </item>
     <item>
       <title>Cumhuriyet: Emekli Albay Orkun Özeller'den sert tepki: "Türk’ün töresi bu rezilliği kabul etmez"</title>
       <link>https://www.youtube.com/watch?v=5VZMMi3gkao</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">IYSrLGHq73I</guid>
       <pubDate>Tue, 25 Aug 2026 10:35:00 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SAVCIDAN İMAMOĞLU'NUN BABASI İÇİN FLAŞ TALEP! Savunma yaparken suç duyurusunda bulunulmasını istedi!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Süheyl Batum Çileden Çıktı! Ankara'da Akılalmaz Görüntüler! VEKİL VE GAZİLERE DARP!</title>
-      <link>https://www.youtube.com/watch?v=JkHpN-jY9Q4</link>
-      <guid isPermaLink="false">JkHpN-jY9Q4</guid>
-      <pubDate>Tue, 25 Aug 2026 10:30:02 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Süheyl Batum Çileden Çıktı! Ankara'da Akılalmaz Görüntüler! VEKİL VE GAZİLERE DARP!</description>
     </item>
   </channel>
 </rss>
