@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 16:50:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 16:55:28 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Sözcü Ana Haber |  Senem Toluay Ilgaz | 25 Ağustos</title>
+      <link>https://www.youtube.com/watch?v=j1pdiNUD3Sc</link>
+      <guid isPermaLink="false">j1pdiNUD3Sc</guid>
+      <pubDate>Tue, 25 Aug 2026 16:54:21 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Sözcü Ana Haber |  Senem Toluay Ilgaz | 25 Ağustos</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Bilge Yurtdagülen ile Gündem Özel</title>
       <link>https://www.youtube.com/watch?v=PHf2WX51DSc</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">GdSMTM_nUb0</guid>
       <pubDate>Tue, 25 Aug 2026 12:52:05 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Cumhurbaşkanı Erdoğan ve Devlet Bahçeli, Ahlat Selçuklu Kabristanı'nı ziyaret etti!</description>
-    </item>
-    <item>
-      <title>Halk TV: MASAK RAPORUNDAN NELER ÇIKTI NELER! Alihan Kuriş ve ailesinin milyonluk çarkı böyle ortaya saçıldı!</title>
-      <link>https://www.youtube.com/watch?v=yj5ivN6Br-U</link>
-      <guid isPermaLink="false">yj5ivN6Br-U</guid>
-      <pubDate>Tue, 25 Aug 2026 12:50:00 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: MASAK RAPORUNDAN NELER ÇIKTI NELER! Alihan Kuriş ve ailesinin milyonluk çarkı böyle ortaya saçıldı!</description>
     </item>
   </channel>
 </rss>
