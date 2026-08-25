@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 14:40:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 14:45:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Mahkeme kararıyla koltuğa oturtulan Kılıçdaroğlu: CHP’den ayrılanlarla sakın tartışmaya girmeyin!</title>
+      <link>https://www.youtube.com/shorts/PlK9hJfiQOA</link>
+      <guid isPermaLink="false">PlK9hJfiQOA</guid>
+      <pubDate>Tue, 25 Aug 2026 14:43:48 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Mahkeme kararıyla koltuğa oturtulan Kılıçdaroğlu: CHP’den ayrılanlarla sakın tartışmaya girmeyin!</description>
+    </item>
     <item>
       <title>Cumhuriyet: Akın Gürlek 'dönüm noktası' demişti! Etkin pişmanlıkçı Ertan Yıldız kürsüde neler söyledi?</title>
       <link>https://www.youtube.com/watch?v=YlmKdwzSlMs</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">QS0F32hGlJ0</guid>
       <pubDate>Tue, 25 Aug 2026 11:20:39 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Süleymancılar Operasyonunu Mustafa Balbay'dan Dinleyin! Gizli Raporu Anlattı Uyardı</description>
-    </item>
-    <item>
-      <title>Halk TV: ÖZGÜR ÖZEL BOMBAYI PATLATTI! YENİ Partili başkanlara gelen tehdidi açıkladı! Flaş 'Erdoğan' detayı!</title>
-      <link>https://www.youtube.com/watch?v=jpSu7bzjBlA</link>
-      <guid isPermaLink="false">jpSu7bzjBlA</guid>
-      <pubDate>Tue, 25 Aug 2026 11:20:36 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ÖZGÜR ÖZEL BOMBAYI PATLATTI! YENİ Partili başkanlara gelen tehdidi açıkladı! Flaş 'Erdoğan' detayı!</description>
     </item>
   </channel>
 </rss>
