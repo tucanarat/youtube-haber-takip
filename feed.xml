@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 19:30:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 19:35:24 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Aziz İhsan Aktaş Davasında Gizli Sanık Oyunu Bozuldu! 700 Yıl Hapis İstediler Beraat Çıktı</title>
+      <link>https://www.youtube.com/watch?v=_X7ISYMd61w</link>
+      <guid isPermaLink="false">_X7ISYMd61w</guid>
+      <pubDate>Tue, 25 Aug 2026 19:30:17 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Aziz İhsan Aktaş Davasında Gizli Sanık Oyunu Bozuldu! 700 Yıl Hapis İstediler Beraat Çıktı</description>
+    </item>
     <item>
       <title>Halk TV: ‘’SANDIKTA ALAMADIĞI SEÇİMİ…!’’ Üsküdar seçimine ‘Durdurma’ kararı! Seyit Torun çileden çıktı!</title>
       <link>https://www.youtube.com/watch?v=4_38bp_CvFY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">uPpQYwZaVm0</guid>
       <pubDate>Tue, 25 Aug 2026 15:40:03 +0000</pubDate>
       <description>Halk TV kanalından yeni video: KARARA TEPKİLER ÇIĞ GİBİ! Aziz İhsan Aktaş'ın mal varlığına bu yüzden el konulmamış! Şok detay!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Cumhurbaşkanı Erdoğan, Ahlat'ta Kabine Toplantısı'nın ardından açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=DwYc_Yib4v8</link>
-      <guid isPermaLink="false">DwYc_Yib4v8</guid>
-      <pubDate>Tue, 25 Aug 2026 15:32:55 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Cumhurbaşkanı Erdoğan, Ahlat'ta Kabine Toplantısı'nın ardından açıklama yapıyor #Canlı</description>
     </item>
   </channel>
 </rss>
