@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 19:00:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 19:04:03 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Butlan CHP’si ile ilgili çarpıcı değerlendirme… Mustafa Görkem Doğan’in sözleri gündem olur!</title>
+      <link>https://www.youtube.com/watch?v=EDolfDH3dis</link>
+      <guid isPermaLink="false">EDolfDH3dis</guid>
+      <pubDate>Tue, 25 Aug 2026 19:00:22 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Butlan CHP’si ile ilgili çarpıcı değerlendirme… Mustafa Görkem Doğan’in sözleri gündem olur!</description>
+    </item>
     <item>
       <title>Halk TV: Balçova Belediye Başkanı Onur Yiğit görevine geri döndü! #shorts</title>
       <link>https://www.youtube.com/shorts/s6_74OEFZcg</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">7y1wchuXKRg</guid>
       <pubDate>Tue, 25 Aug 2026 15:00:30 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İSTANBUL'A MÜJDE! Bunaltıcı Sıcaklara Son! O Güne Dikkat! Hem Sağanak Hem Fırtına Geliyor...</description>
-    </item>
-    <item>
-      <title>Halk TV: Gizem Çetin ile Parantez (25 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=Yhi5VcomhHg</link>
-      <guid isPermaLink="false">Yhi5VcomhHg</guid>
-      <pubDate>Tue, 25 Aug 2026 14:59:53 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Gizem Çetin ile Parantez (25 Ağustos 2026)</description>
     </item>
   </channel>
 </rss>
