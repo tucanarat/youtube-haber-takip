@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 05:30:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 05:35:21 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Süheyla Demir ile Günaydın Türkiye (25 Ağustos 2026)</title>
+      <link>https://www.youtube.com/watch?v=qV1_olsCYvM</link>
+      <guid isPermaLink="false">qV1_olsCYvM</guid>
+      <pubDate>Tue, 25 Aug 2026 05:18:01 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Süheyla Demir ile Günaydın Türkiye (25 Ağustos 2026)</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Gökhan Kayış ile Para Siyaset | Nesrin Nas - Öner Günçavdı</title>
+      <link>https://www.youtube.com/watch?v=1B6TMIx_rgE</link>
+      <guid isPermaLink="false">1B6TMIx_rgE</guid>
+      <pubDate>Tue, 25 Aug 2026 02:59:42 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Gökhan Kayış ile Para Siyaset | Nesrin Nas - Öner Günçavdı</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Aziz İhsan Aktaş suç örgütüne ilişkin davada kararın açıklanması bekleniyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=qyJ8guvdUm4</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">pi-WnagM47g</guid>
       <pubDate>Mon, 24 Aug 2026 19:00:18 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SON DAKİKA! Tekirdağ Belediye Başkanı Candan Yüceer o sözlerle CHP’den istifa etti!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: NATO ve AB Birbirine Girdi! Yunanistan'ın Veto Oyunu Çöktü! Avrupa Ambargoyu Delip Türkiye'ye Koştu</title>
-      <link>https://www.youtube.com/watch?v=ibcKCF31DqI</link>
-      <guid isPermaLink="false">ibcKCF31DqI</guid>
-      <pubDate>Mon, 24 Aug 2026 19:00:11 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: NATO ve AB Birbirine Girdi! Yunanistan'ın Veto Oyunu Çöktü! Avrupa Ambargoyu Delip Türkiye'ye Koştu</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "Devletin MHP kadar güçlü ayağı olacağız" Öcalan'a hangi yol açılıyor? Emrah Gülsunar değerlendirdi</title>
-      <link>https://www.youtube.com/watch?v=fcKcxQlffzM</link>
-      <guid isPermaLink="false">fcKcxQlffzM</guid>
-      <pubDate>Mon, 24 Aug 2026 19:00:05 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "Devletin MHP kadar güçlü ayağı olacağız" Öcalan'a hangi yol açılıyor? Emrah Gülsunar değerlendirdi</description>
     </item>
   </channel>
 </rss>
