@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 14:35:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 14:40:31 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Akın Gürlek 'dönüm noktası' demişti! Etkin pişmanlıkçı Ertan Yıldız kürsüde neler söyledi?</title>
+      <link>https://www.youtube.com/watch?v=YlmKdwzSlMs</link>
+      <guid isPermaLink="false">YlmKdwzSlMs</guid>
+      <pubDate>Tue, 25 Aug 2026 14:37:28 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Akın Gürlek 'dönüm noktası' demişti! Etkin pişmanlıkçı Ertan Yıldız kürsüde neler söyledi?</description>
+    </item>
+    <item>
+      <title>Halk TV: KAYYUM GÜRSEL TEKİN'İN İÇLER ACISI HALİ! Boş sokakları böyle selamladı! Kendi hesabından paylaştı!</title>
+      <link>https://www.youtube.com/watch?v=r04X61g-x2U</link>
+      <guid isPermaLink="false">r04X61g-x2U</guid>
+      <pubDate>Tue, 25 Aug 2026 14:35:30 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KAYYUM GÜRSEL TEKİN'İN İÇLER ACISI HALİ! Boş sokakları böyle selamladı! Kendi hesabından paylaştı!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: "Kısır tartışmalara sakın girmeyin" #shorts</title>
       <link>https://www.youtube.com/shorts/VdRmmyn6w6U</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">jpSu7bzjBlA</guid>
       <pubDate>Tue, 25 Aug 2026 11:20:36 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ÖZGÜR ÖZEL BOMBAYI PATLATTI! YENİ Partili başkanlara gelen tehdidi açıkladı! Flaş 'Erdoğan' detayı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: SON DAKİKA Cem Küçük Soruşturmasında Olay Yaratacak Gelişme! O 3 İsim Hakkında Yakalama Kararı</title>
-      <link>https://www.youtube.com/watch?v=9LOGFecGfPQ</link>
-      <guid isPermaLink="false">9LOGFecGfPQ</guid>
-      <pubDate>Tue, 25 Aug 2026 11:19:15 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: SON DAKİKA Cem Küçük Soruşturmasında Olay Yaratacak Gelişme! O 3 İsim Hakkında Yakalama Kararı</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: “Biz böyle mi geleceğe hazırız Sayın Cumhurbaşkanı?"</title>
-      <link>https://www.youtube.com/watch?v=Li8PkWXv3EY</link>
-      <guid isPermaLink="false">Li8PkWXv3EY</guid>
-      <pubDate>Tue, 25 Aug 2026 11:17:43 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: “Biz böyle mi geleceğe hazırız Sayın Cumhurbaşkanı?"</description>
     </item>
   </channel>
 </rss>
