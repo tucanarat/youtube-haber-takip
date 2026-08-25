@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 07:25:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 07:27:24 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: KILIÇDAROĞLU YİNE HEZİMETE UĞRADI! YENİ Parti’ye katılan 5 başkana rozet takıldı! Butlana büyük şok!</title>
+      <link>https://www.youtube.com/watch?v=RWu5FssG2E4</link>
+      <guid isPermaLink="false">RWu5FssG2E4</guid>
+      <pubDate>Tue, 25 Aug 2026 07:20:15 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KILIÇDAROĞLU YİNE HEZİMETE UĞRADI! YENİ Parti’ye katılan 5 başkana rozet takıldı! Butlana büyük şok!</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI Musa Özuğurlu ile Dünya Hali | (25.08.2026)</title>
       <link>https://www.youtube.com/watch?v=HgmYpWE5VDY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">yJk1qrv32Ag</guid>
       <pubDate>Mon, 24 Aug 2026 20:38:06 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Türkiye Maden İş’e bağlı Doruk Maden işçileri, Yıldızlar Holding (SSS) önünde açıklama yapıyor</description>
-    </item>
-    <item>
-      <title>Halk TV: TURİSTLERİ ADIM ADIM TAKİP ETMİŞLER: Yankesicilik çetesi anbean kayda böyle girdi!</title>
-      <link>https://www.youtube.com/watch?v=dG86Lfauld4</link>
-      <guid isPermaLink="false">dG86Lfauld4</guid>
-      <pubDate>Mon, 24 Aug 2026 20:30:31 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: TURİSTLERİ ADIM ADIM TAKİP ETMİŞLER: Yankesicilik çetesi anbean kayda böyle girdi!</description>
     </item>
   </channel>
 </rss>
