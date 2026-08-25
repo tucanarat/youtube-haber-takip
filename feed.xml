@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 13:20:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 13:25:28 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: İktidar Kendi Zenginlerini Yarattı Süheyl Batum İfşa Etti! AKP'ye Neler Dedi Neler</title>
+      <link>https://www.youtube.com/watch?v=PQvUmntLbw0</link>
+      <guid isPermaLink="false">PQvUmntLbw0</guid>
+      <pubDate>Tue, 25 Aug 2026 13:20:28 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İktidar Kendi Zenginlerini Yarattı Süheyl Batum İfşa Etti! AKP'ye Neler Dedi Neler</description>
+    </item>
+    <item>
+      <title>Halk TV: TÜM EZBERLERİ BOZDU! Seyfettin Çilesiz, Aktaş davası kararlarına ilişkin öyle bir detay verdi ki!</title>
+      <link>https://www.youtube.com/watch?v=DRi6DAdoBts</link>
+      <guid isPermaLink="false">DRi6DAdoBts</guid>
+      <pubDate>Tue, 25 Aug 2026 13:20:06 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: TÜM EZBERLERİ BOZDU! Seyfettin Çilesiz, Aktaş davası kararlarına ilişkin öyle bir detay verdi ki!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Sözcü Televizyonu Yeni Frekans Ayarı Nasıl Yapılır? Platform Kanal Numaraları</title>
       <link>https://www.youtube.com/watch?v=txLkqlohuRY</link>
@@ -225,13 +239,6 @@
       <description>Tele2 Haber kanalından yeni video: #CANLI Maden işçileri, Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor</description>
     </item>
     <item>
-      <title>Halk TV: TÜM EZBERLERİ BOZDU! Seyfettin Çilesiz, Aktaş davası kararlarına ilişkin öyle bir detay verdi ki!</title>
-      <link>https://www.youtube.com/watch?v=DRi6DAdoBts</link>
-      <guid isPermaLink="false">DRi6DAdoBts</guid>
-      <pubDate>Tue, 25 Aug 2026 11:27:32 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: TÜM EZBERLERİ BOZDU! Seyfettin Çilesiz, Aktaş davası kararlarına ilişkin öyle bir detay verdi ki!</description>
-    </item>
-    <item>
       <title>Halk TV: Madenciler Enerji Ve Tabii Kaynaklar Bakanlığı Önünde Açıklama Yaptı! (25 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=JWJ_fqZhxH4</link>
       <guid isPermaLink="false">JWJ_fqZhxH4</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ZF4-CEFK8Bs</guid>
       <pubDate>Tue, 25 Aug 2026 11:07:06 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "AKP Seçmeni Dahi Davaların Gerçekçi Olduğunu Düşünmüyor!" Çalışkaner'den Çok Çarpıcı Veriler!</description>
-    </item>
-    <item>
-      <title>Halk TV: AİHM NİHAİ KARARINI VERDİ! Osman Kavala için Türkiye'yi altı maddeden mahkum etti! Çarpıcı detaylar!</title>
-      <link>https://www.youtube.com/watch?v=a8nHQLoBwlg</link>
-      <guid isPermaLink="false">a8nHQLoBwlg</guid>
-      <pubDate>Tue, 25 Aug 2026 11:05:39 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: AİHM NİHAİ KARARINI VERDİ! Osman Kavala için Türkiye'yi altı maddeden mahkum etti! Çarpıcı detaylar!</description>
     </item>
   </channel>
 </rss>
