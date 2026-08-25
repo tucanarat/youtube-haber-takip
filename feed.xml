@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 17:40:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 17:45:31 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Merdan Yanardağ Türkiye'de yaşananlar ile edebiyatın ilişkisini hatırlattı!</title>
+      <link>https://www.youtube.com/watch?v=B85dQiGZ-mk</link>
+      <guid isPermaLink="false">B85dQiGZ-mk</guid>
+      <pubDate>Tue, 25 Aug 2026 17:30:38 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Merdan Yanardağ Türkiye'de yaşananlar ile edebiyatın ilişkisini hatırlattı!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: "İYİ BİR ŞEY OLMAYACAK!" Murat Taylan 'ÇÖZÜM SÜRECİ' ve yaşananları yorumladı!</title>
+      <link>https://www.youtube.com/watch?v=1-JvMhqYy3M</link>
+      <guid isPermaLink="false">1-JvMhqYy3M</guid>
+      <pubDate>Tue, 25 Aug 2026 17:30:36 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "İYİ BİR ŞEY OLMAYACAK!" Murat Taylan 'ÇÖZÜM SÜRECİ' ve yaşananları yorumladı!</description>
+    </item>
     <item>
       <title>Halk TV: PİYASALAR ALEV ALEV… ALTIN FİYATLARINDA SERT YÜKSELİŞ! Gözler, ABD'den gelecek haberde!</title>
       <link>https://www.youtube.com/watch?v=XIR2phtgE4M</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">DRi6DAdoBts</guid>
       <pubDate>Tue, 25 Aug 2026 13:20:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: TÜM EZBERLERİ BOZDU! Seyfettin Çilesiz, Aktaş davası kararlarına ilişkin öyle bir detay verdi ki!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Sözcü Televizyonu Yeni Frekans Ayarı Nasıl Yapılır? Platform Kanal Numaraları</title>
-      <link>https://www.youtube.com/watch?v=txLkqlohuRY</link>
-      <guid isPermaLink="false">txLkqlohuRY</guid>
-      <pubDate>Tue, 25 Aug 2026 13:15:32 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Sözcü Televizyonu Yeni Frekans Ayarı Nasıl Yapılır? Platform Kanal Numaraları</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Sosyal politikalar uzmanından 'emeklilik' çıkışı: Toplumun kazanımları giderek kayboldu</title>
-      <link>https://www.youtube.com/watch?v=w5AmTcw1pxA</link>
-      <guid isPermaLink="false">w5AmTcw1pxA</guid>
-      <pubDate>Tue, 25 Aug 2026 13:14:37 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Sosyal politikalar uzmanından 'emeklilik' çıkışı: Toplumun kazanımları giderek kayboldu</description>
     </item>
   </channel>
 </rss>
