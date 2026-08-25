@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 08:10:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 08:15:30 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: "Sabah, Yeni Şafak, Akit Gazeteci Değil Bunlar!" Onur Öncü'den Yandaş Medyaya "Suç Örgütü" Tepkisi!</title>
+      <link>https://www.youtube.com/watch?v=ZAsWDTM1aOk</link>
+      <guid isPermaLink="false">ZAsWDTM1aOk</guid>
+      <pubDate>Tue, 25 Aug 2026 08:07:59 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "Sabah, Yeni Şafak, Akit Gazeteci Değil Bunlar!" Onur Öncü'den Yandaş Medyaya "Suç Örgütü" Tepkisi!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Sözcü Masası | Damla Doğan Tuncel | 25 Ağustos</title>
       <link>https://www.youtube.com/watch?v=D1y_7k6RjYw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">pXNoFWqt9LQ</guid>
       <pubDate>Mon, 24 Aug 2026 22:16:50 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Temel kazısında toprak kayması! Tunceli'de 5 katlı bina boşaltıldı! #shorts</description>
-    </item>
-    <item>
-      <title>Halk TV: Kürşad Oğuz ile Rota (24 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=gz_Vn6EiizI</link>
-      <guid isPermaLink="false">gz_Vn6EiizI</guid>
-      <pubDate>Mon, 24 Aug 2026 22:05:16 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Kürşad Oğuz ile Rota (24 Ağustos 2026)</description>
     </item>
   </channel>
 </rss>
