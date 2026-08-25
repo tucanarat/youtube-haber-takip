@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 15:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 15:25:29 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: AKP'liler itiraz etmişti... Üsküdar Belediyesi'nde başkanvekili seçimi yenilenecek!</title>
+      <link>https://www.youtube.com/watch?v=x_GshYXCnsQ</link>
+      <guid isPermaLink="false">x_GshYXCnsQ</guid>
+      <pubDate>Tue, 25 Aug 2026 15:19:26 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: AKP'liler itiraz etmişti... Üsküdar Belediyesi'nde başkanvekili seçimi yenilenecek!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Yıldızlar SSS Holding temsilcisi Ali Vahit Atıcı madencilere ilişkin açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=Azj_U8zUj8M</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">F3Iwlgq6dh0</guid>
       <pubDate>Tue, 25 Aug 2026 12:00:26 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Olmayan Örgütten Başkanlara Ceza Yağdı! Bahadır Erdem Ateş Püskürdü! Olay Sözler</description>
-    </item>
-    <item>
-      <title>Halk TV: BU SÖZLERE YÜREK DAYANMAZ! Yaşlı madenci Erdoğan'a öyle bir feryat etti ki! Gözleriniz dolacak!</title>
-      <link>https://www.youtube.com/watch?v=tQgSWr-EeIk</link>
-      <guid isPermaLink="false">tQgSWr-EeIk</guid>
-      <pubDate>Tue, 25 Aug 2026 11:50:18 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BU SÖZLERE YÜREK DAYANMAZ! Yaşlı madenci Erdoğan'a öyle bir feryat etti ki! Gözleriniz dolacak!</description>
     </item>
   </channel>
 </rss>
