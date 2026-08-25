@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 09:55:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 10:00:53 +0000</lastBuildDate>
     <item>
       <title>Halk TV: #CANLI | Burçin Atılgan ile Neden Sonuç | Mehmet Tezkan (25 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=7eHowq6srz4</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">0tptHDHOvzc</guid>
       <pubDate>Tue, 25 Aug 2026 09:53:43 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | İrem Sansak ile Haber Masası</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Özgür Özel'den 'Vahap Seçer' açıklaması</title>
+      <link>https://www.youtube.com/shorts/hBVJsG50juA</link>
+      <guid isPermaLink="false">hBVJsG50juA</guid>
+      <pubDate>Tue, 25 Aug 2026 09:53:30 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Özgür Özel'den 'Vahap Seçer' açıklaması</description>
     </item>
     <item>
       <title>Halk TV: TARİHE GEÇER! Özgür Özel bareti kaptığı gibi madencilerle omuz omuza verdi! Bu anlar çok konuşulur!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">D1y_7k6RjYw</guid>
       <pubDate>Tue, 25 Aug 2026 08:07:22 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Sözcü Masası | Damla Doğan Tuncel | 25 Ağustos</description>
-    </item>
-    <item>
-      <title>Halk TV: MERAL AKŞENER’IN O TELEFON GÖRÜŞMESİ ORTAYA ÇIKTI! Neler demiş neler! Nesrin Nas bir bir anlattı!</title>
-      <link>https://www.youtube.com/watch?v=GBNIkUPmcwU</link>
-      <guid isPermaLink="false">GBNIkUPmcwU</guid>
-      <pubDate>Tue, 25 Aug 2026 08:05:09 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: MERAL AKŞENER’IN O TELEFON GÖRÜŞMESİ ORTAYA ÇIKTI! Neler demiş neler! Nesrin Nas bir bir anlattı!</description>
     </item>
   </channel>
 </rss>
