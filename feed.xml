@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 09:40:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 09:44:22 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Cumhurbaşkanı Erdoğan, Ahlat Etkinlik Alanı Programı'nda konuşuyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=3M61oWzVYdw</link>
+      <guid isPermaLink="false">3M61oWzVYdw</guid>
+      <pubDate>Tue, 25 Aug 2026 09:41:18 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Cumhurbaşkanı Erdoğan, Ahlat Etkinlik Alanı Programı'nda konuşuyor #Canlı</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: "Gerekiyorsa kamulaştırın” #shorts</title>
+      <link>https://www.youtube.com/shorts/VGSmeViV37E</link>
+      <guid isPermaLink="false">VGSmeViV37E</guid>
+      <pubDate>Tue, 25 Aug 2026 09:41:05 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: "Gerekiyorsa kamulaştırın” #shorts</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: CHP Genel Başkan Yardımcısı Yıldırım Kaya, Balıkesir İl Başkanlığı’nda açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=3zl1hhlc4R0</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">DvIkWiitmyw</guid>
       <pubDate>Tue, 25 Aug 2026 07:36:19 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Emeklinin 'İstanbul' isyanı: Geçim zor, her şey pahalı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: İYİ Partili Türkoğlu gazileri ziyaretinde darp edildi: Dervişoğlu hastanede Türkoğlu'nu ziyaret etti</title>
-      <link>https://www.youtube.com/shorts/_KyLdeA6HMo</link>
-      <guid isPermaLink="false">_KyLdeA6HMo</guid>
-      <pubDate>Tue, 25 Aug 2026 07:35:33 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: İYİ Partili Türkoğlu gazileri ziyaretinde darp edildi: Dervişoğlu hastanede Türkoğlu'nu ziyaret etti</description>
-    </item>
-    <item>
-      <title>Halk TV: VAHAP SEÇER, ÖZGÜR ÖZEL'E TELEFONDA BAKIN NE DEMİŞ! Zeynel Emre o görüşmeyi anlattı! Bomba detay!</title>
-      <link>https://www.youtube.com/watch?v=4C2rl0H-FVM</link>
-      <guid isPermaLink="false">4C2rl0H-FVM</guid>
-      <pubDate>Tue, 25 Aug 2026 07:35:11 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: VAHAP SEÇER, ÖZGÜR ÖZEL'E TELEFONDA BAKIN NE DEMİŞ! Zeynel Emre o görüşmeyi anlattı! Bomba detay!</description>
     </item>
   </channel>
 </rss>
