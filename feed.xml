@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 12:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 12:40:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Sel Nepal’i yuttu: Yüzlerce kişiden haber yok!</title>
+      <link>https://www.youtube.com/shorts/l_AeHmHGjwg</link>
+      <guid isPermaLink="false">l_AeHmHGjwg</guid>
+      <pubDate>Wed, 26 Aug 2026 12:34:22 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Sel Nepal’i yuttu: Yüzlerce kişiden haber yok!</description>
+    </item>
+    <item>
+      <title>Halk TV: SON DAKİKA! İMAMOĞLU’NUN SAVUNMA TARİHİ BELLİ OLDU! Tahliye talepleri de alınacak! Silivri ayakta!</title>
+      <link>https://www.youtube.com/watch?v=7DeqnkozrSo</link>
+      <guid isPermaLink="false">7DeqnkozrSo</guid>
+      <pubDate>Wed, 26 Aug 2026 12:30:27 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! İMAMOĞLU’NUN SAVUNMA TARİHİ BELLİ OLDU! Tahliye talepleri de alınacak! Silivri ayakta!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: UĞUR POYRAZ İSYAN ETTİ: "Türkiye Kanun Devleti Bile Değil!" Utanç Gecesi! MADENCİLERE MÜDAHALE</title>
       <link>https://www.youtube.com/watch?v=VBe-yz6fKrk</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">cozGDUBUrGA</guid>
       <pubDate>Wed, 26 Aug 2026 09:30:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: SÜHEYL BATUM ÇILGINA DÖNDÜ! AKP ve MHP'nin Gizli Anayasa Planı! Açtı Ağzını Yumdu Gözünü!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: "Annemin Ölümünü Kabullenemedim" | İsmail Küçükkaya | İpek Özbey ile Perdenin Arkası</title>
-      <link>https://www.youtube.com/watch?v=8K23t9dqwo8</link>
-      <guid isPermaLink="false">8K23t9dqwo8</guid>
-      <pubDate>Wed, 26 Aug 2026 09:28:20 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: "Annemin Ölümünü Kabullenemedim" | İsmail Küçükkaya | İpek Özbey ile Perdenin Arkası</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Bağımsız Maden İş Bakanlık önünde toplandı: "Yarın zafer ilan edilebilir!"</title>
-      <link>https://www.youtube.com/shorts/VzR-3S_hKYU</link>
-      <guid isPermaLink="false">VzR-3S_hKYU</guid>
-      <pubDate>Wed, 26 Aug 2026 09:27:45 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Bağımsız Maden İş Bakanlık önünde toplandı: "Yarın zafer ilan edilebilir!"</description>
     </item>
   </channel>
 </rss>
