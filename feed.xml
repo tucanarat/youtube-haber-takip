@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 07:10:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 07:15:05 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: #CANLI Evren Özalkuş ile Gerçek | Konuklar: İlhan Dalkuç ve Ertunç Özün</title>
       <link>https://www.youtube.com/watch?v=yGjjBNEJ6bo</link>
       <guid isPermaLink="false">yGjjBNEJ6bo</guid>
       <pubDate>Wed, 26 Aug 2026 07:08:35 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Evren Özalkuş ile Gerçek | Konuklar: İlhan Dalkuç ve Ertunç Özün</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: Cumhurbaşkanı Erdoğan, 955. Yıl Anadolu'nun Fethi Malazgirt 1071 Anma Programı'nda konuşuyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=Lyxo0yMJC5g</link>
+      <guid isPermaLink="false">Lyxo0yMJC5g</guid>
+      <pubDate>Wed, 26 Aug 2026 07:07:21 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Cumhurbaşkanı Erdoğan, 955. Yıl Anadolu'nun Fethi Malazgirt 1071 Anma Programı'nda konuşuyor #Canlı</description>
     </item>
     <item>
       <title>Tele2 Haber: #CANLI Murat Taylan ile Haber-Yorum (26.08.26)</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">c7Xvy2BCbDo</guid>
       <pubDate>Tue, 25 Aug 2026 19:50:22 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SON DAKİKA! Cumhurbaşkanı Başdanışmanı Saral’dan maden işçilerine destek! O isme böyle yüklendi!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Aziz İhsan Aktaş Davasında Gizli Sanık Oyunu Bozuldu! 700 Yıl Hapis İstediler Beraat Çıktı</title>
-      <link>https://www.youtube.com/watch?v=_X7ISYMd61w</link>
-      <guid isPermaLink="false">_X7ISYMd61w</guid>
-      <pubDate>Tue, 25 Aug 2026 19:30:17 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Aziz İhsan Aktaş Davasında Gizli Sanık Oyunu Bozuldu! 700 Yıl Hapis İstediler Beraat Çıktı</description>
     </item>
   </channel>
 </rss>
