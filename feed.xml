@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 16:20:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 16:25:23 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Tom Barrack Duyurdu! SDG Feshedildi! Suriye'de Kritik Anlaşma! Ortadoğu'da Yeni Dönem</title>
+      <link>https://www.youtube.com/watch?v=qLgcRlGI27Q</link>
+      <guid isPermaLink="false">qLgcRlGI27Q</guid>
+      <pubDate>Wed, 26 Aug 2026 16:20:30 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Tom Barrack Duyurdu! SDG Feshedildi! Suriye'de Kritik Anlaşma! Ortadoğu'da Yeni Dönem</description>
+    </item>
+    <item>
+      <title>Halk TV: TAM YEDİ KEZ ‘PİŞMANLIK’ İFADESİ VERDİ! Ertan Yıldız duruşma salonunda zor anlar yaşadı! Flaş detay!</title>
+      <link>https://www.youtube.com/watch?v=MnLRf2g4Jxw</link>
+      <guid isPermaLink="false">MnLRf2g4Jxw</guid>
+      <pubDate>Wed, 26 Aug 2026 16:20:17 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: TAM YEDİ KEZ ‘PİŞMANLIK’ İFADESİ VERDİ! Ertan Yıldız duruşma salonunda zor anlar yaşadı! Flaş detay!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Murat Taylan'dan 51 isme ihraç isteyen butlancılara: Zeydan Karalar'ı niye ihraç etmiyorsunuz?</title>
       <link>https://www.youtube.com/watch?v=ThhAm2cSSeo</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">JHQRKGhI6xc</guid>
       <pubDate>Wed, 26 Aug 2026 13:50:19 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Nepal'deki felaketi gözler önüne seren görüntü!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: CHP Sözcüsü Müslim Sarı, MYK gündemiyle ilgili basın açıklaması yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=4f8ndDZ_Mgg</link>
-      <guid isPermaLink="false">4f8ndDZ_Mgg</guid>
-      <pubDate>Wed, 26 Aug 2026 13:48:33 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP Sözcüsü Müslim Sarı, MYK gündemiyle ilgili basın açıklaması yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: SİLİVRİ'DE OLANLAR OLACAK! Murat Çalık'ın işaret ettiği isim savunma yapacak! Gamze Altunay anlattı!</title>
-      <link>https://www.youtube.com/watch?v=E78-zv9n6hI</link>
-      <guid isPermaLink="false">E78-zv9n6hI</guid>
-      <pubDate>Wed, 26 Aug 2026 13:45:11 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SİLİVRİ'DE OLANLAR OLACAK! Murat Çalık'ın işaret ettiği isim savunma yapacak! Gamze Altunay anlattı!</description>
     </item>
   </channel>
 </rss>
