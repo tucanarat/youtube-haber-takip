@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 07:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 07:25:25 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: İnan Demirel ile Gündemdekiler | Konuk: Nurcan Bilge Gökdemir</title>
+      <link>https://www.youtube.com/watch?v=ANXdRI0CENc</link>
+      <guid isPermaLink="false">ANXdRI0CENc</guid>
+      <pubDate>Wed, 26 Aug 2026 07:17:00 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: İnan Demirel ile Gündemdekiler | Konuk: Nurcan Bilge Gökdemir</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI Evren Özalkuş ile Gerçek | Konuklar: İlhan Dalkuç ve Ertunç Özün</title>
       <link>https://www.youtube.com/watch?v=yGjjBNEJ6bo</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">1Olaq8qlV3Q</guid>
       <pubDate>Tue, 25 Aug 2026 20:00:21 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: MASAK Raporu Sızdı! Cem Küçük ve Tahir Sarıkaya'nın Milyonluk Ortak Para Trafiği İfşa Oldu!</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! Cumhurbaşkanı Başdanışmanı Saral’dan maden işçilerine destek! O isme böyle yüklendi!</title>
-      <link>https://www.youtube.com/watch?v=c7Xvy2BCbDo</link>
-      <guid isPermaLink="false">c7Xvy2BCbDo</guid>
-      <pubDate>Tue, 25 Aug 2026 19:50:22 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! Cumhurbaşkanı Başdanışmanı Saral’dan maden işçilerine destek! O isme böyle yüklendi!</description>
     </item>
   </channel>
 </rss>
