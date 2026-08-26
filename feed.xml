@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 13:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 13:08:44 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: YENİ Partili Bakırlıoğlu’ndan Başaran Aksu'nun gözaltına alınmasına sert tepki</title>
+      <link>https://www.youtube.com/shorts/GwUkoEhqcVg</link>
+      <guid isPermaLink="false">GwUkoEhqcVg</guid>
+      <pubDate>Wed, 26 Aug 2026 13:04:10 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: YENİ Partili Bakırlıoğlu’ndan Başaran Aksu'nun gözaltına alınmasına sert tepki</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Arif Ahmet Denizolgun'un Yüzüne Yastık Bastırıldı İddiası! Adli Tıp Uzmanı Gerçekleri Anlattı!</title>
       <link>https://www.youtube.com/watch?v=Aw3rOOd-bu8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">6wJRf0uaEdM</guid>
       <pubDate>Wed, 26 Aug 2026 10:30:27 +0000</pubDate>
       <description>Halk TV kanalından yeni video: KORKUNÇ CİNAYET! Bedriye Naz'ı camdan attı, ailesini arayıp "öldü gelin kızınızı alın" dedi!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: MURAT AĞIREL İFŞA ETTİ: Cem Küçük ve Yandaş Gazetecilere Milyonluk Para Trafiği!</title>
-      <link>https://www.youtube.com/watch?v=FV1DlrfUk_4</link>
-      <guid isPermaLink="false">FV1DlrfUk_4</guid>
-      <pubDate>Wed, 26 Aug 2026 10:30:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: MURAT AĞIREL İFŞA ETTİ: Cem Küçük ve Yandaş Gazetecilere Milyonluk Para Trafiği!</description>
     </item>
   </channel>
 </rss>
