@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 10:40:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 10:45:31 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Uğur Emek Kılıçdaroğlu'nun Telefonunu Neden Açmadı! "Butlandan Önce Finansmanı Nasıl Sağladı!"</title>
+      <link>https://www.youtube.com/watch?v=Li_25iDB-SY</link>
+      <guid isPermaLink="false">Li_25iDB-SY</guid>
+      <pubDate>Wed, 26 Aug 2026 10:45:15 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Uğur Emek Kılıçdaroğlu'nun Telefonunu Neden Açmadı! "Butlandan Önce Finansmanı Nasıl Sağladı!"</description>
+    </item>
     <item>
       <title>Halk TV: Zafer Partisi Genel Başkanı Ümit Özdağ Açıklama Yaptı! (26 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=U9Eyjvb4Vyw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">UKEu9J0KGLw</guid>
       <pubDate>Wed, 26 Aug 2026 07:54:38 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: “Çocuğum otizmli olduğu için bana kimse ev vermiyor” #shorts</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "Çerçeve Yasa Konuşulurken AİHM Kararlarını Uygulamamak Nedir?" Onur Öncü'den Osman Kavala Tepkisi!</title>
-      <link>https://www.youtube.com/watch?v=0C_JZKczIq8</link>
-      <guid isPermaLink="false">0C_JZKczIq8</guid>
-      <pubDate>Wed, 26 Aug 2026 07:49:32 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "Çerçeve Yasa Konuşulurken AİHM Kararlarını Uygulamamak Nedir?" Onur Öncü'den Osman Kavala Tepkisi!</description>
     </item>
   </channel>
 </rss>
