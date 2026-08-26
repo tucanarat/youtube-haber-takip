@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 10:05:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 10:10:33 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: Beştepe'den Madenci Çıkışı! "Patron Tok İşçi Aç!" Oktay Saral Bile İsyan Etti! Uğur Poyraz Yorumladı</title>
       <link>https://www.youtube.com/watch?v=OLQzgF2HS9A</link>
@@ -34,6 +34,13 @@
       <guid isPermaLink="false">VKZeN5u9RfM</guid>
       <pubDate>Wed, 26 Aug 2026 09:56:54 +0000</pubDate>
       <description>Halk TV kanalından yeni video: MASAK Raporu Çıktı! Cem Küçük'ün Banka Hesaplarında Silah Tüccarı da Kırkpınar Ağası da Var</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: #CANLI İBB Davasında 70. gün! Etkin Pişmanlıkçı’nın sorgusunda İmamoğlu salonu terk etti!</title>
+      <link>https://www.youtube.com/watch?v=VaN7pJ69YTU</link>
+      <guid isPermaLink="false">VaN7pJ69YTU</guid>
+      <pubDate>Wed, 26 Aug 2026 09:54:01 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI İBB Davasında 70. gün! Etkin Pişmanlıkçı’nın sorgusunda İmamoğlu salonu terk etti!</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | İrem Sansak ile Haber Masası</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">nkAw7ccU-tQ</guid>
       <pubDate>Wed, 26 Aug 2026 07:16:53 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Yuvadan düşen leyleklere anne-babalık yapıyorlar: Evimizde canlı belgesel izliyoruz</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Evren Özalkuş ile Gerçek | Konuklar: İlhan Dalkuç ve Ertunç Özün</title>
-      <link>https://www.youtube.com/watch?v=yGjjBNEJ6bo</link>
-      <guid isPermaLink="false">yGjjBNEJ6bo</guid>
-      <pubDate>Wed, 26 Aug 2026 07:08:35 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Evren Özalkuş ile Gerçek | Konuklar: İlhan Dalkuç ve Ertunç Özün</description>
     </item>
   </channel>
 </rss>
