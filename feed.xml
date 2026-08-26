@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 18:40:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 18:45:34 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Suriye'deki Gizli Bosna Planı! İsrail'in Şam Çemberi! Türkiye'yi Bekleyen Tehlike! Özgür Tör Uyardı</title>
+      <link>https://www.youtube.com/watch?v=4frg3L1rwME</link>
+      <guid isPermaLink="false">4frg3L1rwME</guid>
+      <pubDate>Wed, 26 Aug 2026 18:30:37 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Suriye'deki Gizli Bosna Planı! İsrail'in Şam Çemberi! Türkiye'yi Bekleyen Tehlike! Özgür Tör Uyardı</description>
+    </item>
     <item>
       <title>Halk TV: 'Şeytantepe' belgeseline soruşturma! Narin Güran dosyasında yeni gelişme!</title>
       <link>https://www.youtube.com/watch?v=QfuRMRa_1kM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">fNL_Knpy3IM</guid>
       <pubDate>Wed, 26 Aug 2026 15:20:14 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Cihat Yaycı Kirli Oyunu İfşa Etti! Afrin İçin Tehlike Çanları! ABD'nin Silahları Nerede?</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! BUTLAN YÖNETİMİ DUR DURAK BİLMİYOR! 51 partiliye ihraç istemi! İşte o isimler...</title>
-      <link>https://www.youtube.com/watch?v=sAv-9L8qwTk</link>
-      <guid isPermaLink="false">sAv-9L8qwTk</guid>
-      <pubDate>Wed, 26 Aug 2026 15:17:22 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! BUTLAN YÖNETİMİ DUR DURAK BİLMİYOR! 51 partiliye ihraç istemi! İşte o isimler...</description>
     </item>
   </channel>
 </rss>
