@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 18:55:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 19:00:54 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: AİHM'in Osman Kavala kararı uygulanacak mı? Ertunç Özün ve İlkan Dalkuç değerlendirdi</title>
+      <link>https://www.youtube.com/watch?v=xQOf83lKdYo</link>
+      <guid isPermaLink="false">xQOf83lKdYo</guid>
+      <pubDate>Wed, 26 Aug 2026 19:00:16 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: AİHM'in Osman Kavala kararı uygulanacak mı? Ertunç Özün ve İlkan Dalkuç değerlendirdi</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI İnan Demirel ile Gündemdekiler | Konuk: Nergis Demirkaya (26.08.26)</title>
       <link>https://www.youtube.com/watch?v=pRRlRwkXakg</link>
@@ -34,6 +41,13 @@
       <guid isPermaLink="false">NCEVbfkAyWg</guid>
       <pubDate>Wed, 26 Aug 2026 18:45:17 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İsrailli Bakan'dan Küstah Türkiye Çıkışı! Katz'dan Şam ve Ankara'ya Haddini Aşan Sözler</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Mehmet Sevigen CHP'ye mi dönüyor? Kılıçdaroğlu'nun yeni planları! Nergis Demirkaya anlattı</title>
+      <link>https://www.youtube.com/watch?v=sX4ACNptKHQ</link>
+      <guid isPermaLink="false">sX4ACNptKHQ</guid>
+      <pubDate>Wed, 26 Aug 2026 18:42:42 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Mehmet Sevigen CHP'ye mi dönüyor? Kılıçdaroğlu'nun yeni planları! Nergis Demirkaya anlattı</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Suriye'deki Gizli Bosna Planı! İsrail'in Şam Çemberi! Türkiye'yi Bekleyen Tehlike! Özgür Tör Uyardı</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">U1sub0DegRM</guid>
       <pubDate>Wed, 26 Aug 2026 15:58:48 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI İBB Davası'nda 70. gün! İmamoğlu tahliye talebinde bulunacak!</description>
-    </item>
-    <item>
-      <title>Halk TV: DENİZOLGU’NUN YÜZÜNE YASTIK BASTIRILDI İDDİASI! Adli Tıp Uzmanının sözleri tüyler ürpertecek!</title>
-      <link>https://www.youtube.com/watch?v=XOD_MiQS6Nc</link>
-      <guid isPermaLink="false">XOD_MiQS6Nc</guid>
-      <pubDate>Wed, 26 Aug 2026 15:50:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: DENİZOLGU’NUN YÜZÜNE YASTIK BASTIRILDI İDDİASI! Adli Tıp Uzmanının sözleri tüyler ürpertecek!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İçinizden Biri | Ekrem Açıkel | 26 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=BjJLhwXuhK8</link>
-      <guid isPermaLink="false">BjJLhwXuhK8</guid>
-      <pubDate>Wed, 26 Aug 2026 15:49:08 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İçinizden Biri | Ekrem Açıkel | 26 Ağustos</description>
     </item>
   </channel>
 </rss>
