@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 14:30:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 14:35:28 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI Zeynel Lüle ile Ankara Günlüğü | Konuk: Yeni Parti Milletvekili Gökçe Gökçen (26.08.26)</title>
+      <link>https://www.youtube.com/watch?v=N9BdYNqKcf0</link>
+      <guid isPermaLink="false">N9BdYNqKcf0</guid>
+      <pubDate>Wed, 26 Aug 2026 14:34:06 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Zeynel Lüle ile Ankara Günlüğü | Konuk: Yeni Parti Milletvekili Gökçe Gökçen (26.08.26)</description>
+    </item>
     <item>
       <title>Tele2 Haber: AİHM KARARINDA ADLİ KAYNAK MUAMMASI! Zeynel Lüle ve Faruk Bildirici ile Medyamorfoz (26.08.26)</title>
       <link>https://www.youtube.com/watch?v=yIyyVkmoF_k</link>
@@ -141,11 +148,11 @@
       <description>ANKA Haber Ajansı kanalından yeni video: CHP Sözcüsü Müslim Sarı, MYK gündemiyle ilgili basın açıklaması yapıyor #Canlı</description>
     </item>
     <item>
-      <title>Cumhuriyet: #CANLI İBB Davasında 70. gün! İmamoğlu tahliye talebinde bulunacak!</title>
+      <title>Cumhuriyet: #CANLI İBB Davası'nda 70. gün! İmamoğlu tahliye talebinde bulunacak!</title>
       <link>https://www.youtube.com/watch?v=U1sub0DegRM</link>
       <guid isPermaLink="false">U1sub0DegRM</guid>
       <pubDate>Wed, 26 Aug 2026 13:48:15 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI İBB Davasında 70. gün! İmamoğlu tahliye talebinde bulunacak!</description>
+      <description>Cumhuriyet kanalından yeni video: #CANLI İBB Davası'nda 70. gün! İmamoğlu tahliye talebinde bulunacak!</description>
     </item>
     <item>
       <title>Halk TV: SİLİVRİ'DE OLANLAR OLACAK! Murat Çalık'ın işaret ettiği isim savunma yapacak! Gamze Altunay anlattı!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Sl54Tqt7iZs</guid>
       <pubDate>Wed, 26 Aug 2026 12:21:58 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Bolu'da geri dönüşüm tesisinde yangın çıktı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Nefes borusuna şeker kaçan çocuğu okul müdürü Heimlich manevrasıyla kurtardı</title>
-      <link>https://www.youtube.com/shorts/pywHOCgJtfo</link>
-      <guid isPermaLink="false">pywHOCgJtfo</guid>
-      <pubDate>Wed, 26 Aug 2026 12:20:45 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Nefes borusuna şeker kaçan çocuğu okul müdürü Heimlich manevrasıyla kurtardı</description>
     </item>
   </channel>
 </rss>
