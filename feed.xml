@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 06:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 07:00:55 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Gençlerbirliği Teknik Direktörü Metin Diyadin Cumhuriyet’e konuştu: ‘Gevşeme lüksümüz yok’</title>
+      <link>https://www.youtube.com/watch?v=hGwKLWJ_gtQ</link>
+      <guid isPermaLink="false">hGwKLWJ_gtQ</guid>
+      <pubDate>Wed, 26 Aug 2026 06:32:14 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Gençlerbirliği Teknik Direktörü Metin Diyadin Cumhuriyet’e konuştu: ‘Gevşeme lüksümüz yok’</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İLK KEZ ORTAYA ÇIKTI! Arif Ahmet Denizolgun'un Ölümünde Boğulma Şüphesi! Alihan Kuriş'e Soruşturma!</title>
       <link>https://www.youtube.com/watch?v=CC7YUzKv_DM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">HgmYpWE5VDY</guid>
       <pubDate>Tue, 25 Aug 2026 19:08:28 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: İSRAİL İLE TÜRKİYE SURİYE'DE KARŞI KARŞIYA | Musa Özuğurlu ile Dünya Hali</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: AİHM OSMAN KAVALA İÇİN KARARINI AÇIKLADI! Murat Taylan ile Haber-Yorum (25.08.26)</title>
-      <link>https://www.youtube.com/watch?v=NAT7ZZh_CsQ</link>
-      <guid isPermaLink="false">NAT7ZZh_CsQ</guid>
-      <pubDate>Tue, 25 Aug 2026 19:07:04 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: AİHM OSMAN KAVALA İÇİN KARARINI AÇIKLADI! Murat Taylan ile Haber-Yorum (25.08.26)</description>
     </item>
   </channel>
 </rss>
