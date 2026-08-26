@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 10:00:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 10:05:24 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Beştepe'den Madenci Çıkışı! "Patron Tok İşçi Aç!" Oktay Saral Bile İsyan Etti! Uğur Poyraz Yorumladı</title>
+      <link>https://www.youtube.com/watch?v=OLQzgF2HS9A</link>
+      <guid isPermaLink="false">OLQzgF2HS9A</guid>
+      <pubDate>Wed, 26 Aug 2026 10:00:32 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Beştepe'den Madenci Çıkışı! "Patron Tok İşçi Aç!" Oktay Saral Bile İsyan Etti! Uğur Poyraz Yorumladı</description>
+    </item>
     <item>
       <title>Halk TV: BÜYÜK OYUN TUTMADI! Aziz İhsan Aktaş davasının gizli kalmış yüzü ifşalandı! Mehmet Tezkan anlattı!</title>
       <link>https://www.youtube.com/watch?v=3Ig8WCxBmbo</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">yGjjBNEJ6bo</guid>
       <pubDate>Wed, 26 Aug 2026 07:08:35 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Evren Özalkuş ile Gerçek | Konuklar: İlhan Dalkuç ve Ertunç Özün</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Cumhurbaşkanı Erdoğan, 955. Yıl Anadolu'nun Fethi Malazgirt 1071 Anma Programı'nda konuşuyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=Lyxo0yMJC5g</link>
-      <guid isPermaLink="false">Lyxo0yMJC5g</guid>
-      <pubDate>Wed, 26 Aug 2026 07:07:21 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Cumhurbaşkanı Erdoğan, 955. Yıl Anadolu'nun Fethi Malazgirt 1071 Anma Programı'nda konuşuyor #Canlı</description>
     </item>
   </channel>
 </rss>
