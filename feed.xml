@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 20:45:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 20:50:33 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: CHP'DE DEPREM! 15 Günde 500 Bin İstifa! Bomba Mansur Yavaş Kulisi! Kılıçdaroğlu Teyakkuzda</title>
+      <link>https://www.youtube.com/watch?v=Zz5hFUk5nvo</link>
+      <guid isPermaLink="false">Zz5hFUk5nvo</guid>
+      <pubDate>Wed, 26 Aug 2026 20:45:13 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: CHP'DE DEPREM! 15 Günde 500 Bin İstifa! Bomba Mansur Yavaş Kulisi! Kılıçdaroğlu Teyakkuzda</description>
+    </item>
     <item>
       <title>Halk TV: Butlan sözcüsü Sarı'dan "Hain" çıkışı... Menderes'te oynanan oyun Üsküdar'da da sahnelenebilir!</title>
       <link>https://www.youtube.com/watch?v=QVCUWmmMVOo</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">eoUlN8D97LQ</guid>
       <pubDate>Wed, 26 Aug 2026 16:54:00 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: ALİHAN KURİŞ'E CİNAYET SORUŞTURMASI! DENİZOLGUN'UN GÖĞSÜNE BASTIRILMA İZİ...</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Sözcü Ana Haber | Serap Belovacıklı | 26 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=2gwM-ZC3ZTw</link>
-      <guid isPermaLink="false">2gwM-ZC3ZTw</guid>
-      <pubDate>Wed, 26 Aug 2026 16:51:51 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Sözcü Ana Haber | Serap Belovacıklı | 26 Ağustos</description>
     </item>
   </channel>
 </rss>
