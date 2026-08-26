@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 18:01:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 18:05:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SARAY BİRBİRİNE GİRECEK! Ümit Özdağ öyle bir şey açıkladı ki Erdoğan şaşıp kalır! Olay olacak çıkış!</title>
+      <link>https://www.youtube.com/watch?v=Rh4-id1qLns</link>
+      <guid isPermaLink="false">Rh4-id1qLns</guid>
+      <pubDate>Wed, 26 Aug 2026 18:00:37 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SARAY BİRBİRİNE GİRECEK! Ümit Özdağ öyle bir şey açıkladı ki Erdoğan şaşıp kalır! Olay olacak çıkış!</description>
+    </item>
     <item>
       <title>Tele2 Haber: "Her şey var HUKUK yok" İBB davasında skandal gelişmeler! Hukukçu Ertunç Özün anlattı</title>
       <link>https://www.youtube.com/watch?v=yZT_zm3m1Aw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">GmikYe0y3ZY</guid>
       <pubDate>Wed, 26 Aug 2026 14:55:36 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SON DAKİKA! ‘İTİBARSIZLAŞTIRMA’ YAPILDIĞI ÖNE SÜRÜLDÜ! Narin belgeseline adli soruşturma başlatıldı!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Ekrem İmamoğlu tahliye talebinde bulunacak! #shorts</title>
-      <link>https://www.youtube.com/shorts/bIKyXuLsR5g</link>
-      <guid isPermaLink="false">bIKyXuLsR5g</guid>
-      <pubDate>Wed, 26 Aug 2026 14:49:34 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Ekrem İmamoğlu tahliye talebinde bulunacak! #shorts</description>
     </item>
   </channel>
 </rss>
