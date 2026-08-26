@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 13:25:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 13:30:44 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: İzmir Gazeteciler Cemiyeti ifadeye çağrıldı! Faruk Bildirici yaşananları yorumladı...</title>
+      <link>https://www.youtube.com/watch?v=Fkv9EbH9Wts</link>
+      <guid isPermaLink="false">Fkv9EbH9Wts</guid>
+      <pubDate>Wed, 26 Aug 2026 13:30:12 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: İzmir Gazeteciler Cemiyeti ifadeye çağrıldı! Faruk Bildirici yaşananları yorumladı...</description>
+    </item>
     <item>
       <title>Tele2 Haber: AİHM'nin Osman Kavala kararı medyada nasıl yer aldı? Faruk Bildirici yorumladı...</title>
       <link>https://www.youtube.com/watch?v=BeJCTjGCX7U</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">BRGseKa6MJg</guid>
       <pubDate>Wed, 26 Aug 2026 10:36:07 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: SDG feshedilmişti! Erdoğan'dan ilk mesaj: Bölgemizde tarih yeniden yazılıyor</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: İBB davasında 70. Gün! Murat Ongun’un avukatı mahkemede soru soramadıklarını dile getirdi</title>
-      <link>https://www.youtube.com/shorts/zaNDO-U4cSs</link>
-      <guid isPermaLink="false">zaNDO-U4cSs</guid>
-      <pubDate>Wed, 26 Aug 2026 10:31:07 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: İBB davasında 70. Gün! Murat Ongun’un avukatı mahkemede soru soramadıklarını dile getirdi</description>
     </item>
   </channel>
 </rss>
