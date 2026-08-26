@@ -11721,7 +11721,7 @@
   },
   "BjJLhwXuhK8": {
     "id": "BjJLhwXuhK8",
-    "title": "#CANLI İçinizden Biri | Ekrem Açıkel",
+    "title": "İçinizden Biri | Ekrem Açıkel | 26 Ağustos",
     "link": "https://www.youtube.com/watch?v=BjJLhwXuhK8",
     "published": "2026-08-25T22:28:21+00:00",
     "published_ts": 1787696901,
@@ -11889,7 +11889,7 @@
   },
   "yXBYEPK1gZw": {
     "id": "yXBYEPK1gZw",
-    "title": "#CANLI Murat Taylan ile Haber-Yorum (26.08.26)",
+    "title": "Butlan CHP'sinden 51 isme kesin ihraç talebi! Murat Taylan ile Haber-Yorum (26.08.26)",
     "link": "https://www.youtube.com/watch?v=yXBYEPK1gZw",
     "published": "2026-08-26T07:07:18+00:00",
     "published_ts": 1787728038,
@@ -13022,5 +13022,37 @@
     "published": "2026-08-26T15:00:04+00:00",
     "published_ts": 1787756404,
     "channel_name": "Tele2 Haber"
+  },
+  "feiv0QaB-Kw": {
+    "id": "feiv0QaB-Kw",
+    "title": "Cihat Yaycı İsyan Etti! \"İsim Değiştirip Bizi Uyutuyorlar!\" Sınırımızda Oynanan Tehlikeli Oyun!",
+    "link": "https://www.youtube.com/watch?v=feiv0QaB-Kw",
+    "published": "2026-08-26T15:40:31+00:00",
+    "published_ts": 1787758831,
+    "channel_name": "SÖZCÜ TV"
+  },
+  "jFwdrmAhXPA": {
+    "id": "jFwdrmAhXPA",
+    "title": "Nepal'de meydana gelen selde 95 kişi hayatını kaybetti! #shorts",
+    "link": "https://www.youtube.com/shorts/jFwdrmAhXPA",
+    "published": "2026-08-26T15:37:39+00:00",
+    "published_ts": 1787758659,
+    "channel_name": "Halk TV"
+  },
+  "B7J33TQz0Yc": {
+    "id": "B7J33TQz0Yc",
+    "title": "İBB davasının en genç sanığı konuştu! Mustafa Sezer Yerli’den İBB davasında çarpıcı savunma!",
+    "link": "https://www.youtube.com/watch?v=B7J33TQz0Yc",
+    "published": "2026-08-26T15:35:36+00:00",
+    "published_ts": 1787758536,
+    "channel_name": "Halk TV"
+  },
+  "Gri-NXE2yIw": {
+    "id": "Gri-NXE2yIw",
+    "title": "DENİZOLGUN'UN ÖLÜMÜNDE BOMBA 'ANAHTAR' DETAYI! Çelişkili ifadeler dikkat çekti! Dinçer Gökçe anlattı",
+    "link": "https://www.youtube.com/watch?v=Gri-NXE2yIw",
+    "published": "2026-08-26T14:21:47+00:00",
+    "published_ts": 1787754107,
+    "channel_name": "Halk TV"
   }
 }
