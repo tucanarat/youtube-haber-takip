@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 22:15:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 22:20:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Madenciler Başaran Aksu ve Gökay Çakır'ın tutuklanmasına böyle tepki gösterdi! #shorts</title>
+      <link>https://www.youtube.com/shorts/by7fbNfhypY</link>
+      <guid isPermaLink="false">by7fbNfhypY</guid>
+      <pubDate>Wed, 26 Aug 2026 22:18:08 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Madenciler Başaran Aksu ve Gökay Çakır'ın tutuklanmasına böyle tepki gösterdi! #shorts</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Sözcü Ana Haber |  Senem Toluay Ilgaz</title>
       <link>https://www.youtube.com/watch?v=qUXcHyurirk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">pue5nfRKfnQ</guid>
       <pubDate>Wed, 26 Aug 2026 18:15:10 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "İHANET ETMİŞTİR!" Özgür Çelik'ten Şile'de çok sert Sacit Terzi açıklaması!</description>
-    </item>
-    <item>
-      <title>Halk TV: SARAY BİRBİRİNE GİRECEK! Ümit Özdağ öyle bir şey açıkladı ki Erdoğan şaşıp kalır! Olay olacak çıkış!</title>
-      <link>https://www.youtube.com/watch?v=Rh4-id1qLns</link>
-      <guid isPermaLink="false">Rh4-id1qLns</guid>
-      <pubDate>Wed, 26 Aug 2026 18:00:37 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SARAY BİRBİRİNE GİRECEK! Ümit Özdağ öyle bir şey açıkladı ki Erdoğan şaşıp kalır! Olay olacak çıkış!</description>
     </item>
   </channel>
 </rss>
