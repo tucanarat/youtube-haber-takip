@@ -11878,5 +11878,21 @@
     "published": "2026-08-26T07:00:35+00:00",
     "published_ts": 1787727635,
     "channel_name": "SÖZCÜ TV"
+  },
+  "yGjjBNEJ6bo": {
+    "id": "yGjjBNEJ6bo",
+    "title": "#CANLI Evren Özalkuş ile Gerçek | Konuklar: İlhan Dalkuç ve Ertunç Özün",
+    "link": "https://www.youtube.com/watch?v=yGjjBNEJ6bo",
+    "published": "2026-08-26T07:08:35+00:00",
+    "published_ts": 1787728115,
+    "channel_name": "Tele2 Haber"
+  },
+  "yXBYEPK1gZw": {
+    "id": "yXBYEPK1gZw",
+    "title": "#CANLI Murat Taylan ile Haber-Yorum (26.08.26)",
+    "link": "https://www.youtube.com/watch?v=yXBYEPK1gZw",
+    "published": "2026-08-26T07:07:18+00:00",
+    "published_ts": 1787728038,
+    "channel_name": "Tele2 Haber"
   }
 }
