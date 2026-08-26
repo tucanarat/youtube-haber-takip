@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 22:20:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 22:25:27 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Nepal'de meydana gelen selde hayatını kaybedenlerin sayısı 157'ye yükseldi!</title>
+      <link>https://www.youtube.com/watch?v=OAZwEOSRWvM</link>
+      <guid isPermaLink="false">OAZwEOSRWvM</guid>
+      <pubDate>Wed, 26 Aug 2026 22:20:23 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Nepal'de meydana gelen selde hayatını kaybedenlerin sayısı 157'ye yükseldi!</description>
+    </item>
     <item>
       <title>Halk TV: Madenciler Başaran Aksu ve Gökay Çakır'ın tutuklanmasına böyle tepki gösterdi! #shorts</title>
       <link>https://www.youtube.com/shorts/by7fbNfhypY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">rHGQroDb0NA</guid>
       <pubDate>Wed, 26 Aug 2026 18:15:13 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Ümit Özdağ’dan Suriye çıkışı! “Esad’ın devrilmesini Türkiye’nin fethi olarak pazarladılar”</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "İHANET ETMİŞTİR!" Özgür Çelik'ten Şile'de çok sert Sacit Terzi açıklaması!</title>
-      <link>https://www.youtube.com/watch?v=pue5nfRKfnQ</link>
-      <guid isPermaLink="false">pue5nfRKfnQ</guid>
-      <pubDate>Wed, 26 Aug 2026 18:15:10 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "İHANET ETMİŞTİR!" Özgür Çelik'ten Şile'de çok sert Sacit Terzi açıklaması!</description>
     </item>
   </channel>
 </rss>
