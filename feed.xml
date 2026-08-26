@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 21:15:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 21:20:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Nepal'den dehşet verici görüntüler gelmeye devam ediyor! Onlarca kişi can verdi! #shorts</title>
+      <link>https://www.youtube.com/shorts/rKPYFjjnTls</link>
+      <guid isPermaLink="false">rKPYFjjnTls</guid>
+      <pubDate>Wed, 26 Aug 2026 21:10:09 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Nepal'den dehşet verici görüntüler gelmeye devam ediyor! Onlarca kişi can verdi! #shorts</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Öncesi Sonrası Gece | Senem Toluay Ilgaz | 26 Ağustos</title>
       <link>https://www.youtube.com/watch?v=Y_szoym4LZg</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">QPaZq5OFogU</guid>
       <pubDate>Wed, 26 Aug 2026 17:01:02 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: ROJİN KABAİŞ'İN ÖLÜMÜ İLE İLGİLİ KORKUNÇ İDDİA! FELÇ EDİLDİ...</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: "Annemin Ölümünü Kabullenemedim" | İsmail Küçükkaya | İpek Özbey ile Perdenin Arkası</title>
-      <link>https://www.youtube.com/watch?v=8K23t9dqwo8</link>
-      <guid isPermaLink="false">8K23t9dqwo8</guid>
-      <pubDate>Wed, 26 Aug 2026 17:00:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: "Annemin Ölümünü Kabullenemedim" | İsmail Küçükkaya | İpek Özbey ile Perdenin Arkası</description>
     </item>
   </channel>
 </rss>
