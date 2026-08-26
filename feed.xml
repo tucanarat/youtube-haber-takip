@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 07:50:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 07:55:25 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: "Çerçeve Yasa Konuşulurken AİHM Kararlarını Uygulamamak Nedir?" Onur Öncü'den Osman Kavala Tepkisi!</title>
       <link>https://www.youtube.com/watch?v=0C_JZKczIq8</link>
       <guid isPermaLink="false">0C_JZKczIq8</guid>
       <pubDate>Wed, 26 Aug 2026 07:49:32 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "Çerçeve Yasa Konuşulurken AİHM Kararlarını Uygulamamak Nedir?" Onur Öncü'den Osman Kavala Tepkisi!</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Manisalı üzüm üreticisinin isyanı: Üreticinin ayakta kalması mümkün değil</title>
+      <link>https://www.youtube.com/watch?v=g8UvJcoWqIE</link>
+      <guid isPermaLink="false">g8UvJcoWqIE</guid>
+      <pubDate>Wed, 26 Aug 2026 07:41:28 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Manisalı üzüm üreticisinin isyanı: Üreticinin ayakta kalması mümkün değil</description>
     </item>
     <item>
       <title>Halk TV: KORKUNÇ BULGULAR! Süleymancıların eski lideri yastıkla boğulmuş olabilir! Otopsi raporu kan dondurur</title>
@@ -183,11 +190,11 @@
       <description>ANKA Haber Ajansı kanalından yeni video: Cumhurbaşkanı Erdoğan, Ahlat'ta Kabine Toplantısı'nın ardından açıklama yapıyor #Canlı</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | Gökhan Kayış ile Para Siyaset | Nesrin Nas - Öner Günçavdı</title>
+      <title>Halk TV: Gökhan Kayış ile Para Siyaset | Nesrin Nas - Öner Günçavdı (26 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=b0NodLZoXGE</link>
       <guid isPermaLink="false">b0NodLZoXGE</guid>
       <pubDate>Wed, 26 Aug 2026 02:59:38 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Gökhan Kayış ile Para Siyaset | Nesrin Nas - Öner Günçavdı</description>
+      <description>Halk TV kanalından yeni video: Gökhan Kayış ile Para Siyaset | Nesrin Nas - Öner Günçavdı (26 Ağustos 2026)</description>
     </item>
     <item>
       <title>Cumhuriyet: #CANLI  Kemal Kılıçdaroğlu, İl Başkanları Toplantısında konuşuyor</title>
@@ -253,11 +260,11 @@
       <description>SÖZCÜ TV kanalından yeni video: Öğle Bülteni | Gülinay Selçuk</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: #CANLI Sözcü Masası | Damla Doğan Tuncel</title>
+      <title>SÖZCÜ TV: Sözcü Masası | Damla Doğan Tuncel | 26 Ağustos</title>
       <link>https://www.youtube.com/watch?v=NRlXozw7Btg</link>
       <guid isPermaLink="false">NRlXozw7Btg</guid>
       <pubDate>Tue, 25 Aug 2026 22:24:16 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: #CANLI Sözcü Masası | Damla Doğan Tuncel</description>
+      <description>SÖZCÜ TV kanalından yeni video: Sözcü Masası | Damla Doğan Tuncel | 26 Ağustos</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: CHP Genel Başkan Yardımcısı Yıldırım Kaya, Balıkesir İl Başkanlığı’nda açıklama yapıyor #Canlı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">uNIx4WiThHg</guid>
       <pubDate>Tue, 25 Aug 2026 21:02:29 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Aklın Yolu | Serap Belovacıklı | 25 Ağustos</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Cenk Özatıcı Erdoğan'ın Sözlerini Hatırlattı! ABD İsrail'in Ortadoğu Planı! Türkiye'ye Lübnan Modeli</title>
-      <link>https://www.youtube.com/watch?v=Jq9KwPo_Rms</link>
-      <guid isPermaLink="false">Jq9KwPo_Rms</guid>
-      <pubDate>Tue, 25 Aug 2026 21:00:36 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Cenk Özatıcı Erdoğan'ın Sözlerini Hatırlattı! ABD İsrail'in Ortadoğu Planı! Türkiye'ye Lübnan Modeli</description>
     </item>
   </channel>
 </rss>
