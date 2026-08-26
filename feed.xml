@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 05:15:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 05:20:30 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: İstanbul'un Dibinde Bir Tarih ve Canlı Çeşidi Saklı! At Mezarlığı'ndan Nadir Türlere #shorts</title>
+      <link>https://www.youtube.com/shorts/bjB1unabasQ</link>
+      <guid isPermaLink="false">bjB1unabasQ</guid>
+      <pubDate>Wed, 26 Aug 2026 05:00:23 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İstanbul'un Dibinde Bir Tarih ve Canlı Çeşidi Saklı! At Mezarlığı'ndan Nadir Türlere #shorts</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: #CANLI Sözcü ile Uyanma Vakti | Dilan Polat</title>
+      <link>https://www.youtube.com/watch?v=Ht9kGUxiuqA</link>
+      <guid isPermaLink="false">Ht9kGUxiuqA</guid>
+      <pubDate>Wed, 26 Aug 2026 04:57:37 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: #CANLI Sözcü ile Uyanma Vakti | Dilan Polat</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Süheyla Demir ile Günaydın Türkiye</title>
       <link>https://www.youtube.com/watch?v=LZG44ZTC6uQ</link>
@@ -78,18 +92,11 @@
       <description>SÖZCÜ TV kanalından yeni video: Öğle Bülteni | Gülinay Selçuk</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: Sözcü Masası | Damla Doğan Tuncel</title>
+      <title>SÖZCÜ TV: #CANLI Sözcü Masası | Damla Doğan Tuncel</title>
       <link>https://www.youtube.com/watch?v=NRlXozw7Btg</link>
       <guid isPermaLink="false">NRlXozw7Btg</guid>
       <pubDate>Tue, 25 Aug 2026 22:24:16 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Sözcü Masası | Damla Doğan Tuncel</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Sözcü ile Uyanma Vakti | Dilan Polat</title>
-      <link>https://www.youtube.com/watch?v=Ht9kGUxiuqA</link>
-      <guid isPermaLink="false">Ht9kGUxiuqA</guid>
-      <pubDate>Tue, 25 Aug 2026 22:23:44 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Sözcü ile Uyanma Vakti | Dilan Polat</description>
+      <description>SÖZCÜ TV kanalından yeni video: #CANLI Sözcü Masası | Damla Doğan Tuncel</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: CHP Genel Başkan Yardımcısı Yıldırım Kaya, Balıkesir İl Başkanlığı’nda açıklama yapıyor #Canlı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">N9BdYNqKcf0</guid>
       <pubDate>Tue, 25 Aug 2026 18:20:47 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Zeynel Lüle ile Ankara Günlüğü | Konuk: Yeni Parti Milletvekili Gökçe Gökçen (26.08.26)</description>
-    </item>
-    <item>
-      <title>Halk TV: "İLAÇ VERİLEREK FELÇ EDİLDİ!" Rojin Kabaiş'in avukatından kan donduran iddialar!</title>
-      <link>https://www.youtube.com/watch?v=eVFwy54V890</link>
-      <guid isPermaLink="false">eVFwy54V890</guid>
-      <pubDate>Tue, 25 Aug 2026 18:20:17 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: "İLAÇ VERİLEREK FELÇ EDİLDİ!" Rojin Kabaiş'in avukatından kan donduran iddialar!</description>
     </item>
   </channel>
 </rss>
