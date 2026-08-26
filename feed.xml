@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 18:15:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 18:20:36 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Ümit Özdağ’dan Suriye çıkışı! “Esad’ın devrilmesini Türkiye’nin fethi olarak pazarladılar”</title>
+      <link>https://www.youtube.com/watch?v=rHGQroDb0NA</link>
+      <guid isPermaLink="false">rHGQroDb0NA</guid>
+      <pubDate>Wed, 26 Aug 2026 18:15:13 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Ümit Özdağ’dan Suriye çıkışı! “Esad’ın devrilmesini Türkiye’nin fethi olarak pazarladılar”</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: "İHANET ETMİŞTİR!" Özgür Çelik'ten Şile'de çok sert Sacit Terzi açıklaması!</title>
+      <link>https://www.youtube.com/watch?v=pue5nfRKfnQ</link>
+      <guid isPermaLink="false">pue5nfRKfnQ</guid>
+      <pubDate>Wed, 26 Aug 2026 18:15:10 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "İHANET ETMİŞTİR!" Özgür Çelik'ten Şile'de çok sert Sacit Terzi açıklaması!</description>
+    </item>
     <item>
       <title>Halk TV: SARAY BİRBİRİNE GİRECEK! Ümit Özdağ öyle bir şey açıkladı ki Erdoğan şaşıp kalır! Olay olacak çıkış!</title>
       <link>https://www.youtube.com/watch?v=Rh4-id1qLns</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">wrkzvuU7S5k</guid>
       <pubDate>Wed, 26 Aug 2026 15:00:36 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Beyaz Saray Birbirine Girdi! Tom Barrack ABD'yi de Karıştırdı! "BARRACK BİR YALAKA"</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Merkez solda yeni bir dönem mi? YENİ Parti ne vaadi sunuyor? Gökçe Gökçen anlattı...</title>
-      <link>https://www.youtube.com/watch?v=kw0zvWt7xrY</link>
-      <guid isPermaLink="false">kw0zvWt7xrY</guid>
-      <pubDate>Wed, 26 Aug 2026 15:00:04 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Merkez solda yeni bir dönem mi? YENİ Parti ne vaadi sunuyor? Gökçe Gökçen anlattı...</description>
-    </item>
-    <item>
-      <title>Halk TV: Gizem Çetin ile Parantez (26 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=r156z43qQjc</link>
-      <guid isPermaLink="false">r156z43qQjc</guid>
-      <pubDate>Wed, 26 Aug 2026 14:56:15 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Gizem Çetin ile Parantez (26 Ağustos 2026)</description>
     </item>
   </channel>
 </rss>
