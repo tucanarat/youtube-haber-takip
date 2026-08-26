@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 08:00:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 08:03:30 +0000</lastBuildDate>
     <item>
       <title>Halk TV: Gökhan Kayış ile Para Siyaset | Nesrin Nas - Öner Günçavdı (26 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=b0NodLZoXGE</link>
       <guid isPermaLink="false">b0NodLZoXGE</guid>
       <pubDate>Wed, 26 Aug 2026 07:58:36 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Gökhan Kayış ile Para Siyaset | Nesrin Nas - Öner Günçavdı (26 Ağustos 2026)</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: “Çocuğum otizmli olduğu için bana kimse ev vermiyor” #shorts</title>
+      <link>https://www.youtube.com/shorts/UKEu9J0KGLw</link>
+      <guid isPermaLink="false">UKEu9J0KGLw</guid>
+      <pubDate>Wed, 26 Aug 2026 07:54:38 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: “Çocuğum otizmli olduğu için bana kimse ev vermiyor” #shorts</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | Burçin Atılgan ile Neden Sonuç | Mehmet Tezkan</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">2oNwj3mZXik</guid>
       <pubDate>Tue, 25 Aug 2026 21:13:15 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Fransa'yı kasırga vurdu! 40 kişi yaralandı, yüzlerce ev hasar gördü! #shorts</description>
-    </item>
-    <item>
-      <title>Halk TV: BUTLANCILARI ŞOKE EDECEK SONUÇ! YENİ Parti güncel bağış tutarını açıkladı! İşte o rakamlar!</title>
-      <link>https://www.youtube.com/watch?v=fxMiWMFA2jg</link>
-      <guid isPermaLink="false">fxMiWMFA2jg</guid>
-      <pubDate>Tue, 25 Aug 2026 21:10:39 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BUTLANCILARI ŞOKE EDECEK SONUÇ! YENİ Parti güncel bağış tutarını açıkladı! İşte o rakamlar!</description>
     </item>
   </channel>
 </rss>
