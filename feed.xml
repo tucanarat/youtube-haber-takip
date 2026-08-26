@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 08:05:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 08:10:30 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Sözcü Masası | Damla Doğan Tuncel | 26 Ağustos</title>
+      <link>https://www.youtube.com/watch?v=NRlXozw7Btg</link>
+      <guid isPermaLink="false">NRlXozw7Btg</guid>
+      <pubDate>Wed, 26 Aug 2026 08:06:12 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Sözcü Masası | Damla Doğan Tuncel | 26 Ağustos</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Kayseri'de 4.1 büyüklüğünde deprem! #shorts</title>
+      <link>https://www.youtube.com/shorts/1wmS6cmoENM</link>
+      <guid isPermaLink="false">1wmS6cmoENM</guid>
+      <pubDate>Wed, 26 Aug 2026 08:00:27 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Kayseri'de 4.1 büyüklüğünde deprem! #shorts</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Şam'da Tarihi Anlaşma! Mazlum Abdi Duyurdu! SDG Kendini Feshetti! Suriye Ordusuna Entegre Oluyor</title>
       <link>https://www.youtube.com/watch?v=Eo2oKgyEYv8</link>
@@ -20,6 +34,13 @@
       <guid isPermaLink="false">b0NodLZoXGE</guid>
       <pubDate>Wed, 26 Aug 2026 07:58:36 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Gökhan Kayış ile Para Siyaset | Nesrin Nas - Öner Günçavdı (26 Ağustos 2026)</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Enerji Bakanlığı önündeki maden işçileri eyleminde 4 gözaltı</title>
+      <link>https://www.youtube.com/shorts/Zeab-0I4jHE</link>
+      <guid isPermaLink="false">Zeab-0I4jHE</guid>
+      <pubDate>Wed, 26 Aug 2026 07:55:07 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Enerji Bakanlığı önündeki maden işçileri eyleminde 4 gözaltı</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: “Çocuğum otizmli olduğu için bana kimse ev vermiyor” #shorts</title>
@@ -281,13 +302,6 @@
       <description>SÖZCÜ TV kanalından yeni video: #CANLI Öğle Bülteni | Gülinay Selçuk</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: Sözcü Masası | Damla Doğan Tuncel | 26 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=NRlXozw7Btg</link>
-      <guid isPermaLink="false">NRlXozw7Btg</guid>
-      <pubDate>Tue, 25 Aug 2026 22:24:16 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Sözcü Masası | Damla Doğan Tuncel | 26 Ağustos</description>
-    </item>
-    <item>
       <title>ANKA Haber Ajansı: CHP Genel Başkan Yardımcısı Yıldırım Kaya, Balıkesir İl Başkanlığı’nda açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=3zl1hhlc4R0</link>
       <guid isPermaLink="false">3zl1hhlc4R0</guid>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">rzuWGeKX4yc</guid>
       <pubDate>Tue, 25 Aug 2026 21:30:44 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ‘’BELLİ PAZARLIKLAR YAPILMIŞ!’’ Bu sözler çok konuşulacak! Torun, AKP-butlan işbirliğini ifşaladı</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! Adıyaman’da 2 saatte 8 deprem meydana geldi! #shorts</title>
-      <link>https://www.youtube.com/shorts/EIhNnCl-4is</link>
-      <guid isPermaLink="false">EIhNnCl-4is</guid>
-      <pubDate>Tue, 25 Aug 2026 21:30:12 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! Adıyaman’da 2 saatte 8 deprem meydana geldi! #shorts</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: 'Suriye'de Ordu Kuruluyor' Cenk Özatıcı ABD ve İsrail'in Sınırımızdaki Karanlık Oyunu Anlattı</title>
-      <link>https://www.youtube.com/watch?v=iTYLWwx91eI</link>
-      <guid isPermaLink="false">iTYLWwx91eI</guid>
-      <pubDate>Tue, 25 Aug 2026 21:20:00 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: 'Suriye'de Ordu Kuruluyor' Cenk Özatıcı ABD ve İsrail'in Sınırımızdaki Karanlık Oyunu Anlattı</description>
     </item>
   </channel>
 </rss>
