@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 18:08:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 18:10:34 +0000</lastBuildDate>
     <item>
       <title>Halk TV: SARAY BİRBİRİNE GİRECEK! Ümit Özdağ öyle bir şey açıkladı ki Erdoğan şaşıp kalır! Olay olacak çıkış!</title>
       <link>https://www.youtube.com/watch?v=Rh4-id1qLns</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">yZT_zm3m1Aw</guid>
       <pubDate>Wed, 26 Aug 2026 18:00:16 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "Her şey var HUKUK yok" İBB davasında skandal gelişmeler! Hukukçu Ertunç Özün anlattı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: PUTİN &amp; Şİ'YE BÜYÜK ŞOK! 11 Milyarlık Dev Tesis İngiliz Füzeleriyle Vuruldu! Ukrayna'dan Büyük Tuzak</title>
+      <link>https://www.youtube.com/watch?v=jKU9FmzX0l0</link>
+      <guid isPermaLink="false">jKU9FmzX0l0</guid>
+      <pubDate>Wed, 26 Aug 2026 18:00:15 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: PUTİN &amp; Şİ'YE BÜYÜK ŞOK! 11 Milyarlık Dev Tesis İngiliz Füzeleriyle Vuruldu! Ukrayna'dan Büyük Tuzak</description>
     </item>
     <item>
       <title>Tele2 Haber: İmamoğlu: Yargısız infazı son perdesi! Evren Özalkuş ile Gerçek |Konuklar: İlkan Dalkuç, Ertunç Özün</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">r156z43qQjc</guid>
       <pubDate>Wed, 26 Aug 2026 14:56:15 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Gizem Çetin ile Parantez (26 Ağustos 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! ‘İTİBARSIZLAŞTIRMA’ YAPILDIĞI ÖNE SÜRÜLDÜ! Narin belgeseline adli soruşturma başlatıldı!</title>
-      <link>https://www.youtube.com/watch?v=GmikYe0y3ZY</link>
-      <guid isPermaLink="false">GmikYe0y3ZY</guid>
-      <pubDate>Wed, 26 Aug 2026 14:55:36 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! ‘İTİBARSIZLAŞTIRMA’ YAPILDIĞI ÖNE SÜRÜLDÜ! Narin belgeseline adli soruşturma başlatıldı!</description>
     </item>
   </channel>
 </rss>
