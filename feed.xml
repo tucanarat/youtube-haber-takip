@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 13:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 14:00:54 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI Ülkü Çoban ile Manşet Ötesi | Konuklar: Uğur Emek ve Ahmet Yavuz (27.08.2026)</title>
+      <link>https://www.youtube.com/watch?v=qTCemUs-DO8</link>
+      <guid isPermaLink="false">qTCemUs-DO8</guid>
+      <pubDate>Wed, 26 Aug 2026 13:51:07 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Ülkü Çoban ile Manşet Ötesi | Konuklar: Uğur Emek ve Ahmet Yavuz (27.08.2026)</description>
+    </item>
     <item>
       <title>Cumhuriyet: Mustafa Balbay ile Ankara'da bu hafta: Erken seçim mi geliyor? Bahçeli'den dikkat çeken açıklama</title>
       <link>https://www.youtube.com/watch?v=KteeYhKSa9E</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">VscDUvRykFY</guid>
       <pubDate>Wed, 26 Aug 2026 11:20:23 +0000</pubDate>
       <description>Halk TV kanalından yeni video: AKP İTİRAZ EDİNCE AKAN SULAR DURDU! Üsküdar'da başkan vekili seçimi sil baştan! Ortalık kızıştı!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: 3 ton kavunu depremzedelere bedava dağıttı!</title>
-      <link>https://www.youtube.com/shorts/QOns21Ul5tE</link>
-      <guid isPermaLink="false">QOns21Ul5tE</guid>
-      <pubDate>Wed, 26 Aug 2026 11:17:27 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: 3 ton kavunu depremzedelere bedava dağıttı!</description>
     </item>
   </channel>
 </rss>
