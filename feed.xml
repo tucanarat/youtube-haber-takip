@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 08:03:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 08:05:25 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Şam'da Tarihi Anlaşma! Mazlum Abdi Duyurdu! SDG Kendini Feshetti! Suriye Ordusuna Entegre Oluyor</title>
+      <link>https://www.youtube.com/watch?v=Eo2oKgyEYv8</link>
+      <guid isPermaLink="false">Eo2oKgyEYv8</guid>
+      <pubDate>Wed, 26 Aug 2026 08:00:09 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Şam'da Tarihi Anlaşma! Mazlum Abdi Duyurdu! SDG Kendini Feshetti! Suriye Ordusuna Entegre Oluyor</description>
+    </item>
     <item>
       <title>Halk TV: Gökhan Kayış ile Para Siyaset | Nesrin Nas - Öner Günçavdı (26 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=b0NodLZoXGE</link>
@@ -267,11 +274,11 @@
       <description>SÖZCÜ TV kanalından yeni video: Haber Saati | Serap Belovacıklı</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: Öğle Bülteni | Gülinay Selçuk</title>
+      <title>SÖZCÜ TV: #CANLI Öğle Bülteni | Gülinay Selçuk</title>
       <link>https://www.youtube.com/watch?v=ZXNqiSM1fYM</link>
       <guid isPermaLink="false">ZXNqiSM1fYM</guid>
       <pubDate>Tue, 25 Aug 2026 22:24:50 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Öğle Bülteni | Gülinay Selçuk</description>
+      <description>SÖZCÜ TV kanalından yeni video: #CANLI Öğle Bülteni | Gülinay Selçuk</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Sözcü Masası | Damla Doğan Tuncel | 26 Ağustos</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">iTYLWwx91eI</guid>
       <pubDate>Tue, 25 Aug 2026 21:20:00 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: 'Suriye'de Ordu Kuruluyor' Cenk Özatıcı ABD ve İsrail'in Sınırımızdaki Karanlık Oyunu Anlattı</description>
-    </item>
-    <item>
-      <title>Halk TV: Fransa'yı kasırga vurdu! 40 kişi yaralandı, yüzlerce ev hasar gördü! #shorts</title>
-      <link>https://www.youtube.com/shorts/2oNwj3mZXik</link>
-      <guid isPermaLink="false">2oNwj3mZXik</guid>
-      <pubDate>Tue, 25 Aug 2026 21:13:15 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Fransa'yı kasırga vurdu! 40 kişi yaralandı, yüzlerce ev hasar gördü! #shorts</description>
     </item>
   </channel>
 </rss>
