@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 19:30:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 19:35:24 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: İsrail'i Koruyan Zayıf Suriye Tasarımının Perde Arkası! Gizli Şara Anlaşması! ABD'nin Yeni İttifakı</title>
+      <link>https://www.youtube.com/watch?v=R-jKtBg2Tgc</link>
+      <guid isPermaLink="false">R-jKtBg2Tgc</guid>
+      <pubDate>Wed, 26 Aug 2026 19:30:25 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İsrail'i Koruyan Zayıf Suriye Tasarımının Perde Arkası! Gizli Şara Anlaşması! ABD'nin Yeni İttifakı</description>
+    </item>
     <item>
       <title>Halk TV: ERDOĞAN İNANMAKTA ZORLANACAK! Özgür Özel fırtınası taş üstünde taş bırakmıyor! Ezip geçecek oran!</title>
       <link>https://www.youtube.com/watch?v=mq8bfwyKuS0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">MnLRf2g4Jxw</guid>
       <pubDate>Wed, 26 Aug 2026 16:20:17 +0000</pubDate>
       <description>Halk TV kanalından yeni video: TAM YEDİ KEZ ‘PİŞMANLIK’ İFADESİ VERDİ! Ertan Yıldız duruşma salonunda zor anlar yaşadı! Flaş detay!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Murat Taylan'dan 51 isme ihraç isteyen butlancılara: Zeydan Karalar'ı niye ihraç etmiyorsunuz?</title>
-      <link>https://www.youtube.com/watch?v=ThhAm2cSSeo</link>
-      <guid isPermaLink="false">ThhAm2cSSeo</guid>
-      <pubDate>Wed, 26 Aug 2026 16:16:16 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Murat Taylan'dan 51 isme ihraç isteyen butlancılara: Zeydan Karalar'ı niye ihraç etmiyorsunuz?</description>
     </item>
   </channel>
 </rss>
