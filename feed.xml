@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 07:45:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 07:50:31 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: "Çerçeve Yasa Konuşulurken AİHM Kararlarını Uygulamamak Nedir?" Onur Öncü'den Osman Kavala Tepkisi!</title>
+      <link>https://www.youtube.com/watch?v=0C_JZKczIq8</link>
+      <guid isPermaLink="false">0C_JZKczIq8</guid>
+      <pubDate>Wed, 26 Aug 2026 07:49:32 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "Çerçeve Yasa Konuşulurken AİHM Kararlarını Uygulamamak Nedir?" Onur Öncü'den Osman Kavala Tepkisi!</description>
+    </item>
+    <item>
+      <title>Halk TV: KORKUNÇ BULGULAR! Süleymancıların eski lideri yastıkla boğulmuş olabilir! Otopsi raporu kan dondurur</title>
+      <link>https://www.youtube.com/watch?v=G2ezBjM9fvQ</link>
+      <guid isPermaLink="false">G2ezBjM9fvQ</guid>
+      <pubDate>Wed, 26 Aug 2026 07:40:58 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KORKUNÇ BULGULAR! Süleymancıların eski lideri yastıkla boğulmuş olabilir! Otopsi raporu kan dondurur</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Devletin İçindeki Tehlike! Diyanet'in Süleymancılar Raporu! Altınlar Kara Paralar! | Mustafa Balbay</title>
       <link>https://www.youtube.com/watch?v=p8PMhYAcNDQ</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">Jq9KwPo_Rms</guid>
       <pubDate>Tue, 25 Aug 2026 21:00:36 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Cenk Özatıcı Erdoğan'ın Sözlerini Hatırlattı! ABD İsrail'in Ortadoğu Planı! Türkiye'ye Lübnan Modeli</description>
-    </item>
-    <item>
-      <title>Halk TV: SICAK GÖRÜNTÜLER! Bu anlar tarihe kazınacak! Hakları için direnen madencilere sert müdahale!</title>
-      <link>https://www.youtube.com/watch?v=WQcwdUeu0Gw</link>
-      <guid isPermaLink="false">WQcwdUeu0Gw</guid>
-      <pubDate>Tue, 25 Aug 2026 20:50:20 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SICAK GÖRÜNTÜLER! Bu anlar tarihe kazınacak! Hakları için direnen madencilere sert müdahale!</description>
-    </item>
-    <item>
-      <title>Halk TV: Madenci direnişinde gündem olan sözler! “Bu holding kanımızı emiyor!” #shorts</title>
-      <link>https://www.youtube.com/shorts/ewijp1sQARA</link>
-      <guid isPermaLink="false">ewijp1sQARA</guid>
-      <pubDate>Tue, 25 Aug 2026 20:48:53 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Madenci direnişinde gündem olan sözler! “Bu holding kanımızı emiyor!” #shorts</description>
     </item>
   </channel>
 </rss>
