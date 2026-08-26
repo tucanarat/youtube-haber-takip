@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 09:25:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 09:30:40 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Bağımsız Maden İş Bakanlık önünde toplandı: "Yarın zafer ilan edilebilir!"</title>
+      <link>https://www.youtube.com/shorts/VzR-3S_hKYU</link>
+      <guid isPermaLink="false">VzR-3S_hKYU</guid>
+      <pubDate>Wed, 26 Aug 2026 09:27:45 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Bağımsız Maden İş Bakanlık önünde toplandı: "Yarın zafer ilan edilebilir!"</description>
+    </item>
     <item>
       <title>Tele2 Haber: Onur Öncü: "Madenciyi Bırak Sebahattin'i Al!"</title>
       <link>https://www.youtube.com/shorts/qJ7Mr28M9W4</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">XnHE---MGnY</guid>
       <pubDate>Wed, 26 Aug 2026 05:59:22 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: ALİHAN KURİŞ'E CİNAYET SORUŞTURMASI! Arif Ahmet Denizolgun Öldürüldü mü? Bilirkişi Raporu Çıktı!</description>
-    </item>
-    <item>
-      <title>Halk TV: SÜLEYMANCILARIN ESKİ LİDERİNİN ÖLÜMÜ ŞÜPHELİ ÇIKTI! Alihan Kuriş'e 'adam öldürme'den soruşturma...</title>
-      <link>https://www.youtube.com/watch?v=39gX-Rd3WFg</link>
-      <guid isPermaLink="false">39gX-Rd3WFg</guid>
-      <pubDate>Wed, 26 Aug 2026 05:48:57 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SÜLEYMANCILARIN ESKİ LİDERİNİN ÖLÜMÜ ŞÜPHELİ ÇIKTI! Alihan Kuriş'e 'adam öldürme'den soruşturma...</description>
     </item>
   </channel>
 </rss>
