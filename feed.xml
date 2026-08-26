@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 21:55:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 22:00:51 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Kürşad Oğuz ile Rota</title>
+      <link>https://www.youtube.com/watch?v=CC6P395E3fE</link>
+      <guid isPermaLink="false">CC6P395E3fE</guid>
+      <pubDate>Wed, 26 Aug 2026 21:59:55 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Kürşad Oğuz ile Rota</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: S Raporu | Dilan Polat | 27 Ağustos</title>
+      <link>https://www.youtube.com/watch?v=022xC1F4AHY</link>
+      <guid isPermaLink="false">022xC1F4AHY</guid>
+      <pubDate>Wed, 26 Aug 2026 21:58:25 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: S Raporu | Dilan Polat | 27 Ağustos</description>
+    </item>
     <item>
       <title>Halk TV: İsmail Emre Telci’den sert eleştiri! “Soru sorulmasına bile müdahale ediyor!”</title>
       <link>https://www.youtube.com/watch?v=IlM-qL0Ia5Q</link>
@@ -76,13 +90,6 @@
       <guid isPermaLink="false">_4OlDZ7K0KQ</guid>
       <pubDate>Wed, 26 Aug 2026 20:54:12 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Nepal'de onlarca kişinin ölümüne neden olan sel felaketi kayda böyle girdi! #shorts</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: S Raporu | Dilan Polat | 27 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=022xC1F4AHY</link>
-      <guid isPermaLink="false">022xC1F4AHY</guid>
-      <pubDate>Wed, 26 Aug 2026 20:50:09 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: S Raporu | Dilan Polat | 27 Ağustos</description>
     </item>
     <item>
       <title>SÖZCÜ TV: CHP'DE DEPREM! 15 Günde 500 Bin İstifa! Bomba Mansur Yavaş Kulisi! Kılıçdaroğlu Teyakkuzda</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">H2DMXSYvywA</guid>
       <pubDate>Wed, 26 Aug 2026 17:30:24 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: SDG FESHEDİLDİ! Suriye'yi ne bekliyor? Perde arkasında neler yaşandı?</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti İstanbul İl Başkanlığı, Şile'de "Milli İradeye Saygı Yürüyüşü" Düzenledi!</title>
-      <link>https://www.youtube.com/watch?v=ulFtnDuaFao</link>
-      <guid isPermaLink="false">ulFtnDuaFao</guid>
-      <pubDate>Wed, 26 Aug 2026 17:23:07 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti İstanbul İl Başkanlığı, Şile'de "Milli İradeye Saygı Yürüyüşü" Düzenledi!</description>
     </item>
   </channel>
 </rss>
