@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 13:35:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 13:40:35 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Bağımsız Maden-İş Sendikası Avukatı Mürsel Ünder: Anlaşmaya çok yakınız diyelim!</title>
+      <link>https://www.youtube.com/shorts/kqRgNU7j-NE</link>
+      <guid isPermaLink="false">kqRgNU7j-NE</guid>
+      <pubDate>Wed, 26 Aug 2026 13:39:37 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Bağımsız Maden-İş Sendikası Avukatı Mürsel Ünder: Anlaşmaya çok yakınız diyelim!</description>
+    </item>
     <item>
       <title>Halk TV: SARAY DA KAYITSIZ KALAMADI! Hakkını arayan madenciler için Erdoğan'ın başdanışmanından flaş çağrı!</title>
       <link>https://www.youtube.com/watch?v=wu_GEIeSx1Q</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ZB9t73cUQuk</guid>
       <pubDate>Wed, 26 Aug 2026 10:46:35 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: "Anne rahminde vergi mükellefi olmak!" Vergi Kafe Bu Akşam 19'da Yayında #shorts</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Uğur Emek Kılıçdaroğlu'na Neden Beni Bir Daha Aramayın Dedi? Emek'ten Ülkü Çoban'a Özel Açıklamalar!</title>
-      <link>https://www.youtube.com/watch?v=Li_25iDB-SY</link>
-      <guid isPermaLink="false">Li_25iDB-SY</guid>
-      <pubDate>Wed, 26 Aug 2026 10:45:15 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Uğur Emek Kılıçdaroğlu'na Neden Beni Bir Daha Aramayın Dedi? Emek'ten Ülkü Çoban'a Özel Açıklamalar!</description>
     </item>
   </channel>
 </rss>
