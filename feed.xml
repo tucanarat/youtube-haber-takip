@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 10:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 10:56:42 +0000</lastBuildDate>
     <item>
       <title>Cumhuriyet: #CANLI İBB Davasında 70. gün! Etkin Pişmanlıkçı’nın sorgusunda İmamoğlu salonu terk etti!</title>
       <link>https://www.youtube.com/watch?v=VaN7pJ69YTU</link>
       <guid isPermaLink="false">VaN7pJ69YTU</guid>
       <pubDate>Wed, 26 Aug 2026 10:52:11 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI İBB Davasında 70. gün! Etkin Pişmanlıkçı’nın sorgusunda İmamoğlu salonu terk etti!</description>
+    </item>
+    <item>
+      <title>Halk TV: KILIÇDAROĞLU'NA BÜYÜK ŞOK! Tekirdağ'da 3 belediye başkanı daha CHP'den istifa etti! Şok gelişmeler!</title>
+      <link>https://www.youtube.com/watch?v=gGYBZRTKy-4</link>
+      <guid isPermaLink="false">gGYBZRTKy-4</guid>
+      <pubDate>Wed, 26 Aug 2026 10:50:06 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KILIÇDAROĞLU'NA BÜYÜK ŞOK! Tekirdağ'da 3 belediye başkanı daha CHP'den istifa etti! Şok gelişmeler!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: "Anne rahminde vergi mükellefi olmak!" Vergi Kafe Bu Akşam 19'da Yayında #shorts</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">b0NodLZoXGE</guid>
       <pubDate>Wed, 26 Aug 2026 07:58:36 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Gökhan Kayış ile Para Siyaset | Nesrin Nas - Öner Günçavdı (26 Ağustos 2026)</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Enerji Bakanlığı önündeki maden işçileri eyleminde 4 gözaltı</title>
-      <link>https://www.youtube.com/shorts/Zeab-0I4jHE</link>
-      <guid isPermaLink="false">Zeab-0I4jHE</guid>
-      <pubDate>Wed, 26 Aug 2026 07:55:07 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Enerji Bakanlığı önündeki maden işçileri eyleminde 4 gözaltı</description>
     </item>
   </channel>
 </rss>
