@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 00:10:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 00:15:28 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: CHP Genel Başkanı Kemal Kılıçdaroğlu, İl Başkanları Toplantısında konuşuyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=CeWL7DghTfE</link>
+      <guid isPermaLink="false">CeWL7DghTfE</guid>
+      <pubDate>Wed, 26 Aug 2026 00:06:35 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkanı Kemal Kılıçdaroğlu, İl Başkanları Toplantısında konuşuyor #Canlı</description>
+    </item>
     <item>
       <title>Cumhuriyet: #CANLI Cumhurbaşkanı Erdoğan, Ahlat Etkinlik Alanı Programı'nda konuşuyor</title>
       <link>https://www.youtube.com/watch?v=ooxfuy9e1-c</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">P8dX6RVqtS4</guid>
       <pubDate>Tue, 25 Aug 2026 18:17:09 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Ülkü Çoban ile Manşet Ötesi (26.08.26)</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Onur Öncü ile Sabah Pusulası (26.08.26)</title>
-      <link>https://www.youtube.com/watch?v=V1tXWADRoCU</link>
-      <guid isPermaLink="false">V1tXWADRoCU</guid>
-      <pubDate>Tue, 25 Aug 2026 18:15:44 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Onur Öncü ile Sabah Pusulası (26.08.26)</description>
     </item>
   </channel>
 </rss>
