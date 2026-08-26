@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 10:45:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 10:50:33 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: "Anne rahminde vergi mükellefi olmak!" Vergi Kafe Bu Akşam 19'da Yayında #shorts</title>
+      <link>https://www.youtube.com/shorts/ZB9t73cUQuk</link>
+      <guid isPermaLink="false">ZB9t73cUQuk</guid>
+      <pubDate>Wed, 26 Aug 2026 10:46:35 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: "Anne rahminde vergi mükellefi olmak!" Vergi Kafe Bu Akşam 19'da Yayında #shorts</description>
+    </item>
     <item>
       <title>Tele2 Haber: Uğur Emek Kılıçdaroğlu'nun Telefonunu Neden Açmadı! "Butlandan Önce Finansmanı Nasıl Sağladı!"</title>
       <link>https://www.youtube.com/watch?v=Li_25iDB-SY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Zeab-0I4jHE</guid>
       <pubDate>Wed, 26 Aug 2026 07:55:07 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Enerji Bakanlığı önündeki maden işçileri eyleminde 4 gözaltı</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: “Çocuğum otizmli olduğu için bana kimse ev vermiyor” #shorts</title>
-      <link>https://www.youtube.com/shorts/UKEu9J0KGLw</link>
-      <guid isPermaLink="false">UKEu9J0KGLw</guid>
-      <pubDate>Wed, 26 Aug 2026 07:54:38 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: “Çocuğum otizmli olduğu için bana kimse ev vermiyor” #shorts</description>
     </item>
   </channel>
 </rss>
