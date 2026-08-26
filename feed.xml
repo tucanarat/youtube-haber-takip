@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 06:40:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 06:45:30 +0000</lastBuildDate>
     <item>
       <title>Halk TV: ŞOK GÖRÜNTÜLER! Güllü'nün öldüğü geceden yeni kamera kayıtları ortaya çıktı! Kızı böyle panik olmuş!</title>
       <link>https://www.youtube.com/watch?v=dnBhvOGVM18</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">39gX-Rd3WFg</guid>
       <pubDate>Wed, 26 Aug 2026 05:48:57 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SÜLEYMANCILARIN ESKİ LİDERİNİN ÖLÜMÜ ŞÜPHELİ ÇIKTI! Alihan Kuriş'e 'adam öldürme'den soruşturma...</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: Madenciler, aileleriyle birlikte Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=CIqeGfOEIOc</link>
+      <guid isPermaLink="false">CIqeGfOEIOc</guid>
+      <pubDate>Wed, 26 Aug 2026 05:40:02 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Madenciler, aileleriyle birlikte Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor #Canlı</description>
     </item>
     <item>
       <title>Halk TV: Süheyla Demir ile Günaydın Türkiye (26 Ağustos 2026)</title>
@@ -41,6 +48,13 @@
       <guid isPermaLink="false">Ht9kGUxiuqA</guid>
       <pubDate>Wed, 26 Aug 2026 04:57:37 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: #CANLI Sözcü ile Uyanma Vakti | Dilan Polat</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: Cumhurbaşkanı Erdoğan, Ahlat'ta Kabine Toplantısı'nın ardından açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=DwYc_Yib4v8</link>
+      <guid isPermaLink="false">DwYc_Yib4v8</guid>
+      <pubDate>Wed, 26 Aug 2026 04:49:48 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Cumhurbaşkanı Erdoğan, Ahlat'ta Kabine Toplantısı'nın ardından açıklama yapıyor #Canlı</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | Gökhan Kayış ile Para Siyaset | Nesrin Nas - Öner Günçavdı</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">SezZ89OKOvw</guid>
       <pubDate>Tue, 25 Aug 2026 18:40:09 +0000</pubDate>
       <description>Halk TV kanalından yeni video: GÜLİSTAN DOKU CİNAYETİNDE 8 GÜN DETAYI! Gizli tanığın iddiaları kan dondurdu!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: 'Butlan Yönetimi'nin temyiz başvurusunu geri çekti! Murat Taylan'dan güldüren benzetme!</title>
-      <link>https://www.youtube.com/watch?v=EG616lRtY1c</link>
-      <guid isPermaLink="false">EG616lRtY1c</guid>
-      <pubDate>Tue, 25 Aug 2026 18:30:13 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: 'Butlan Yönetimi'nin temyiz başvurusunu geri çekti! Murat Taylan'dan güldüren benzetme!</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Partili Sibel Suiçmez’den ekonomi çıkışı! “Vatandaşın parası son yedi yılda yüzde 89,07 eridi!”</title>
-      <link>https://www.youtube.com/shorts/2iAvZ6ZPnZA</link>
-      <guid isPermaLink="false">2iAvZ6ZPnZA</guid>
-      <pubDate>Tue, 25 Aug 2026 18:30:13 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Partili Sibel Suiçmez’den ekonomi çıkışı! “Vatandaşın parası son yedi yılda yüzde 89,07 eridi!”</description>
     </item>
   </channel>
 </rss>
