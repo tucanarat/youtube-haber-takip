@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 11:59:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 12:00:51 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SURİYE'DE TARİHİ GELİŞME! SDG resmen dağılarak Suriye ordusuna katıldı! Orta Doğu'da yeni dönem!</title>
+      <link>https://www.youtube.com/watch?v=DJRYFiH63Q8</link>
+      <guid isPermaLink="false">DJRYFiH63Q8</guid>
+      <pubDate>Wed, 26 Aug 2026 11:50:31 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SURİYE'DE TARİHİ GELİŞME! SDG resmen dağılarak Suriye ordusuna katıldı! Orta Doğu'da yeni dönem!</description>
+    </item>
     <item>
       <title>Halk TV: HAKİMİN O HAMLESİ ORTALIĞI KARIŞTIRDI! Avukatların sorularını kesti, İmamoğlu salonu terk etti!</title>
       <link>https://www.youtube.com/watch?v=iAnNC-YhYZ8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Fc_frG98Gmw</guid>
       <pubDate>Wed, 26 Aug 2026 08:34:07 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Operasyonu haber veren satırlar - Barış Pehlivan</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Liderinin beraat ettiği suç örgütü! - Mustafa Balbay</title>
-      <link>https://www.youtube.com/watch?v=BxEsyR8ztqs</link>
-      <guid isPermaLink="false">BxEsyR8ztqs</guid>
-      <pubDate>Wed, 26 Aug 2026 08:34:05 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Liderinin beraat ettiği suç örgütü! - Mustafa Balbay</description>
     </item>
   </channel>
 </rss>
