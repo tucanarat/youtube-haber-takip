@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 19:50:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 19:55:30 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: İmralı tutanakları sahte mi gerçek mi? Nergis Demirkaya İmralı heyetinin açıklamalarını paylaştı</title>
       <link>https://www.youtube.com/watch?v=RRGH2vhQBeQ</link>
       <guid isPermaLink="false">RRGH2vhQBeQ</guid>
       <pubDate>Wed, 26 Aug 2026 19:45:06 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: İmralı tutanakları sahte mi gerçek mi? Nergis Demirkaya İmralı heyetinin açıklamalarını paylaştı</description>
+    </item>
+    <item>
+      <title>Halk TV: Butlan CHP'sinde 'genel başkanlık' tartışması kızışıyor! Müslim Sarı'dan kritik bir açıklama geldi!</title>
+      <link>https://www.youtube.com/watch?v=-aSQeHJUyNE</link>
+      <guid isPermaLink="false">-aSQeHJUyNE</guid>
+      <pubDate>Wed, 26 Aug 2026 19:40:01 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Butlan CHP'sinde 'genel başkanlık' tartışması kızışıyor! Müslim Sarı'dan kritik bir açıklama geldi!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: İsrail'i Koruyan Zayıf Suriye Tasarımının Perde Arkası! Gizli Şara Anlaşması! ABD'nin Yeni İttifakı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">qLgcRlGI27Q</guid>
       <pubDate>Wed, 26 Aug 2026 16:20:30 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Tom Barrack Duyurdu! SDG Feshedildi! Suriye'de Kritik Anlaşma! Ortadoğu'da Yeni Dönem</description>
-    </item>
-    <item>
-      <title>Halk TV: TAM YEDİ KEZ ‘PİŞMANLIK’ İFADESİ VERDİ! Ertan Yıldız duruşma salonunda zor anlar yaşadı! Flaş detay!</title>
-      <link>https://www.youtube.com/watch?v=MnLRf2g4Jxw</link>
-      <guid isPermaLink="false">MnLRf2g4Jxw</guid>
-      <pubDate>Wed, 26 Aug 2026 16:20:17 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: TAM YEDİ KEZ ‘PİŞMANLIK’ İFADESİ VERDİ! Ertan Yıldız duruşma salonunda zor anlar yaşadı! Flaş detay!</description>
     </item>
   </channel>
 </rss>
