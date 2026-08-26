@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 12:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 13:00:52 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: İrem Sansak ile Haber Masası (26 Ağustos 2026)</title>
+      <link>https://www.youtube.com/watch?v=leALCwNBIPg</link>
+      <guid isPermaLink="false">leALCwNBIPg</guid>
+      <pubDate>Wed, 26 Aug 2026 12:58:28 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İrem Sansak ile Haber Masası (26 Ağustos 2026)</description>
+    </item>
+    <item>
+      <title>Halk TV: TBMM Başkanı Numan Kurtulmuş, Sivil Toplum Buluşması’nda Konuştu! (26 Ağustos 2026)</title>
+      <link>https://www.youtube.com/watch?v=ptR8zD4wUqU</link>
+      <guid isPermaLink="false">ptR8zD4wUqU</guid>
+      <pubDate>Wed, 26 Aug 2026 12:56:52 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: TBMM Başkanı Numan Kurtulmuş, Sivil Toplum Buluşması’nda Konuştu! (26 Ağustos 2026)</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Gizem Çetin ile Parantez</title>
       <link>https://www.youtube.com/watch?v=r156z43qQjc</link>
@@ -125,13 +139,6 @@
       <guid isPermaLink="false">P8dX6RVqtS4</guid>
       <pubDate>Wed, 26 Aug 2026 12:13:42 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Mansur Yavaş niçin Yeni Parti'ye katılmıyor? Nedeni bu mu? | Ülkü Çoban ile Manşet Ötesi</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | TBMM Başkanı Numan Kurtulmuş, Sivil Toplum Buluşması’nda Konuşuyor!</title>
-      <link>https://www.youtube.com/watch?v=ptR8zD4wUqU</link>
-      <guid isPermaLink="false">ptR8zD4wUqU</guid>
-      <pubDate>Wed, 26 Aug 2026 12:12:57 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | TBMM Başkanı Numan Kurtulmuş, Sivil Toplum Buluşması’nda Konuşuyor!</description>
     </item>
     <item>
       <title>Cumhuriyet: Şişli'de dev ağaç araçların üzerine devrildi!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">WOpTdGti_dg</guid>
       <pubDate>Wed, 26 Aug 2026 10:20:16 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: "Bu Dünyada Benim Annem Nasıl Olmaz?" İsmail Küçükkaya | Bu Akşam 20'de Yayında! #shorts</description>
-    </item>
-    <item>
-      <title>Halk TV: SARAY DANIŞMANI ANKARA'YI KARIŞTIRDI! O başkana tepki, bakanlara da çağrı yaptı! Beştepe ayaklanır!</title>
-      <link>https://www.youtube.com/watch?v=Ylk4hozLv-k</link>
-      <guid isPermaLink="false">Ylk4hozLv-k</guid>
-      <pubDate>Wed, 26 Aug 2026 10:15:18 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SARAY DANIŞMANI ANKARA'YI KARIŞTIRDI! O başkana tepki, bakanlara da çağrı yaptı! Beştepe ayaklanır!</description>
     </item>
   </channel>
 </rss>
