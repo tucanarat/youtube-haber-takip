@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 14:15:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 14:20:34 +0000</lastBuildDate>
     <item>
       <title>Halk TV: ENTEGRASYON TAMAMLANDI, SDG RESMEN DAĞILIYOR! Peki Türkiye bunun neresinde? Musa Özuğurlu anlattı!</title>
       <link>https://www.youtube.com/watch?v=O96fJ-R10eI</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">OyPHmNClSvA</guid>
       <pubDate>Wed, 26 Aug 2026 14:15:05 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Devlet Memurlarını Ekonomik Olarak Ne Bekliyor? Özgür Erdursun Karamsar Tabloyu Çizdi!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Haber Saati | Serap Belovacıklı | 26 Ağustos</title>
+      <link>https://www.youtube.com/watch?v=pVG80MBsTYc</link>
+      <guid isPermaLink="false">pVG80MBsTYc</guid>
+      <pubDate>Wed, 26 Aug 2026 14:13:27 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Haber Saati | Serap Belovacıklı | 26 Ağustos</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | CHP'nin Butlan Sözcüsü Müslim Sarı, MYK Gündemiyle İlgili Açıklama Yapıyor!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">C6PiP1QNkGY</guid>
       <pubDate>Wed, 26 Aug 2026 12:05:51 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Şişli'de dev ağaç araçların üzerine devrildi!</description>
-    </item>
-    <item>
-      <title>Halk TV: TÜRKİYE'DE BİR İLK! Özgür Özel'in yeni modeli kartları yeniden dağıtacak! Tüm hesaplar sıfırlandı!</title>
-      <link>https://www.youtube.com/watch?v=tQ4eGnws10k</link>
-      <guid isPermaLink="false">tQ4eGnws10k</guid>
-      <pubDate>Wed, 26 Aug 2026 12:05:14 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: TÜRKİYE'DE BİR İLK! Özgür Özel'in yeni modeli kartları yeniden dağıtacak! Tüm hesaplar sıfırlandı!</description>
     </item>
   </channel>
 </rss>
