@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 16:55:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 17:00:54 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Sinem Fıstıkoğlu ile Halk Ana Haber 26 Ağustos 2026)</title>
+      <link>https://www.youtube.com/watch?v=xW7o97_r2ao</link>
+      <guid isPermaLink="false">xW7o97_r2ao</guid>
+      <pubDate>Wed, 26 Aug 2026 16:58:20 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Sinem Fıstıkoğlu ile Halk Ana Haber 26 Ağustos 2026)</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Kürşad Oğuz ile Rota</title>
+      <link>https://www.youtube.com/watch?v=CC6P395E3fE</link>
+      <guid isPermaLink="false">CC6P395E3fE</guid>
+      <pubDate>Wed, 26 Aug 2026 16:56:53 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Kürşad Oğuz ile Rota</description>
+    </item>
     <item>
       <title>Tele2 Haber: ALİHAN KURİŞ'E CİNAYET SORUŞTURMASI! DENİZOLGUN'UN GÖĞSÜNE BASTIRILMA İZİ...</title>
       <link>https://www.youtube.com/shorts/eoUlN8D97LQ</link>
@@ -50,11 +64,11 @@
       <description>Tele2 Haber kanalından yeni video: Rojin Kabaiş'in ölümü aydınlanıyor mu: İLAÇLA FELÇ EDİLDİ İDDİASI!</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: CHP'de Kiralık Figüran Krizi Patladı! Cast Ajansı Sahibi Her Şeyi Anlattı! Tehdit &amp; Şantaj Belgeleri</title>
+      <title>SÖZCÜ TV: CHP'de Kiralık Figüran Krizi Çözüldü! Cast Ajansı Sahibi Her Şeyi Anlattı! Tehdit &amp; Şantaj Belgeleri</title>
       <link>https://www.youtube.com/watch?v=_u1rPj4tFGI</link>
       <guid isPermaLink="false">_u1rPj4tFGI</guid>
       <pubDate>Wed, 26 Aug 2026 16:40:30 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: CHP'de Kiralık Figüran Krizi Patladı! Cast Ajansı Sahibi Her Şeyi Anlattı! Tehdit &amp; Şantaj Belgeleri</description>
+      <description>SÖZCÜ TV kanalından yeni video: CHP'de Kiralık Figüran Krizi Çözüldü! Cast Ajansı Sahibi Her Şeyi Anlattı! Tehdit &amp; Şantaj Belgeleri</description>
     </item>
     <item>
       <title>Halk TV: 'FUHUŞ' SUÇLAMASI DA DOSYADA! MASAK raporuna göre Cem Küçük'e onlarca kişiden para gönderilmiş!</title>
@@ -246,13 +260,6 @@
       <description>Halk TV kanalından yeni video: SON DAKİKA! ‘İTİBARSIZLAŞTIRMA’ YAPILDIĞI ÖNE SÜRÜLDÜ! Narin belgeseline adli soruşturma başlatıldı!</description>
     </item>
     <item>
-      <title>Halk TV: Sinem Fıstıkoğlu ile Halk Ana Haber 26 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=xW7o97_r2ao</link>
-      <guid isPermaLink="false">xW7o97_r2ao</guid>
-      <pubDate>Wed, 26 Aug 2026 14:52:51 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Sinem Fıstıkoğlu ile Halk Ana Haber 26 Ağustos 2026)</description>
-    </item>
-    <item>
       <title>Cumhuriyet: Ekrem İmamoğlu tahliye talebinde bulunacak! #shorts</title>
       <link>https://www.youtube.com/shorts/bIKyXuLsR5g</link>
       <guid isPermaLink="false">bIKyXuLsR5g</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">O96fJ-R10eI</guid>
       <pubDate>Wed, 26 Aug 2026 14:15:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ENTEGRASYON TAMAMLANDI, SDG RESMEN DAĞILIYOR! Peki Türkiye bunun neresinde? Musa Özuğurlu anlattı!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Devlet Memurlarını Ekonomik Olarak Ne Bekliyor? Özgür Erdursun Karamsar Tabloyu Çizdi!</title>
-      <link>https://www.youtube.com/watch?v=OyPHmNClSvA</link>
-      <guid isPermaLink="false">OyPHmNClSvA</guid>
-      <pubDate>Wed, 26 Aug 2026 14:15:05 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Devlet Memurlarını Ekonomik Olarak Ne Bekliyor? Özgür Erdursun Karamsar Tabloyu Çizdi!</description>
     </item>
   </channel>
 </rss>
