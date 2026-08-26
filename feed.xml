@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 09:49:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 09:50:34 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Onur Öncü: "Merdan Yanardağ olursa Tele1 de geri alınır, Tele1 gibi kanal da baştan yaratılır."</title>
+      <link>https://www.youtube.com/shorts/ycLs5yF8IqQ</link>
+      <guid isPermaLink="false">ycLs5yF8IqQ</guid>
+      <pubDate>Wed, 26 Aug 2026 09:35:16 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Onur Öncü: "Merdan Yanardağ olursa Tele1 de geri alınır, Tele1 gibi kanal da baştan yaratılır."</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Zafer Partisi Genel Başkanı Ümit Özdağ Açıklama Yapıyor!</title>
       <link>https://www.youtube.com/watch?v=U9Eyjvb4Vyw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">7gB5oUdRuxk</guid>
       <pubDate>Wed, 26 Aug 2026 07:00:35 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Güllü'nün Şüpheli Ölümünde Flaş Görüntüler Ortaya Çıktı! KIZI TUĞYAN ÜLKEM GÜLTERİN PANİK ANLARI!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Gençlerbirliği Teknik Direktörü Metin Diyadin Cumhuriyet’e konuştu: ‘Gevşeme lüksümüz yok’</title>
-      <link>https://www.youtube.com/watch?v=hGwKLWJ_gtQ</link>
-      <guid isPermaLink="false">hGwKLWJ_gtQ</guid>
-      <pubDate>Wed, 26 Aug 2026 06:32:14 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Gençlerbirliği Teknik Direktörü Metin Diyadin Cumhuriyet’e konuştu: ‘Gevşeme lüksümüz yok’</description>
     </item>
   </channel>
 </rss>
