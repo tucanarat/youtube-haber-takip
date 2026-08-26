@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 08:45:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 08:50:32 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Marmara'da renkli anlar: Yunuslar jet ski'nin peşine takıldı</title>
+      <link>https://www.youtube.com/shorts/RCYx9SdHkfM</link>
+      <guid isPermaLink="false">RCYx9SdHkfM</guid>
+      <pubDate>Wed, 26 Aug 2026 08:47:24 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Marmara'da renkli anlar: Yunuslar jet ski'nin peşine takıldı</description>
+    </item>
     <item>
       <title>Tele2 Haber: "Ergenekon-Balyoz Kumpas Davalarına Bile Daha İyi Çalışılmıştı!" Uğur'dan İBB Yargılması Tepkisi!</title>
       <link>https://www.youtube.com/watch?v=fjgjOors-_A</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Ht9kGUxiuqA</guid>
       <pubDate>Wed, 26 Aug 2026 04:57:37 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Sözcü ile Uyanma Vakti | Dilan Polat | 26 Ağustos</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Cumhurbaşkanı Erdoğan, Ahlat'ta Kabine Toplantısı'nın ardından açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=DwYc_Yib4v8</link>
-      <guid isPermaLink="false">DwYc_Yib4v8</guid>
-      <pubDate>Wed, 26 Aug 2026 04:49:48 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Cumhurbaşkanı Erdoğan, Ahlat'ta Kabine Toplantısı'nın ardından açıklama yapıyor #Canlı</description>
     </item>
   </channel>
 </rss>
