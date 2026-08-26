@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 19:00:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 19:05:28 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: AİHM'in Osman Kavala kararı uygulanacak mı? Ertunç Özün ve İlkan Dalkuç değerlendirdi</title>
       <link>https://www.youtube.com/watch?v=xQOf83lKdYo</link>
       <guid isPermaLink="false">xQOf83lKdYo</guid>
       <pubDate>Wed, 26 Aug 2026 19:00:16 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: AİHM'in Osman Kavala kararı uygulanacak mı? Ertunç Özün ve İlkan Dalkuç değerlendirdi</description>
+    </item>
+    <item>
+      <title>Halk TV: Müslim Sarı, YENİ Parti Lideri Özel'in, CHP'li belediye başkanları mesajla taciz ettiğini öne sürdü!</title>
+      <link>https://www.youtube.com/watch?v=4EH33XCHjxg</link>
+      <guid isPermaLink="false">4EH33XCHjxg</guid>
+      <pubDate>Wed, 26 Aug 2026 19:00:11 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Müslim Sarı, YENİ Parti Lideri Özel'in, CHP'li belediye başkanları mesajla taciz ettiğini öne sürdü!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İstanbul'daki Üniversitede HTŞ'li Yöneticinin Gizlenen Geçmişi! ABD İsrail ve Suriye Üçgeni</title>
+      <link>https://www.youtube.com/watch?v=Gfr6NS9pEgc</link>
+      <guid isPermaLink="false">Gfr6NS9pEgc</guid>
+      <pubDate>Wed, 26 Aug 2026 19:00:09 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İstanbul'daki Üniversitede HTŞ'li Yöneticinin Gizlenen Geçmişi! ABD İsrail ve Suriye Üçgeni</description>
     </item>
     <item>
       <title>Tele2 Haber: #CANLI İnan Demirel ile Gündemdekiler | Konuk: Nergis Demirkaya (26.08.26)</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">UWUqeG44khI</guid>
       <pubDate>Wed, 26 Aug 2026 16:00:10 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Bugün Ne Oldu? | SDG'nin Feshi ve İBB Davası</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İBAN ile Ödeme Alanlar Dikkat! 35 Milyon TL Ceza Kapıda! | Mahmut Aydoğmuş | Vergi Kafe</title>
-      <link>https://www.youtube.com/watch?v=-KKDj6WaKo8</link>
-      <guid isPermaLink="false">-KKDj6WaKo8</guid>
-      <pubDate>Wed, 26 Aug 2026 16:00:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İBAN ile Ödeme Alanlar Dikkat! 35 Milyon TL Ceza Kapıda! | Mahmut Aydoğmuş | Vergi Kafe</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: #CANLI İBB Davası'nda 70. gün! İmamoğlu tahliye talebinde bulunacak!</title>
-      <link>https://www.youtube.com/watch?v=U1sub0DegRM</link>
-      <guid isPermaLink="false">U1sub0DegRM</guid>
-      <pubDate>Wed, 26 Aug 2026 15:58:48 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI İBB Davası'nda 70. gün! İmamoğlu tahliye talebinde bulunacak!</description>
     </item>
   </channel>
 </rss>
