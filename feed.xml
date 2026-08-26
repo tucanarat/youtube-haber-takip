@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 09:05:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 09:10:34 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Onur Öncü: "Madenciyi Bırak Sebahattin'i Al!"</title>
+      <link>https://www.youtube.com/shorts/qJ7Mr28M9W4</link>
+      <guid isPermaLink="false">qJ7Mr28M9W4</guid>
+      <pubDate>Wed, 26 Aug 2026 09:03:19 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Onur Öncü: "Madenciyi Bırak Sebahattin'i Al!"</description>
+    </item>
     <item>
       <title>Tele2 Haber: SDG KENDİNİ FESHETTİ | ÖZEL'DEN SİLİVRİ'YE SERT TEPKİ! | Onur Öncü ile Sabah Pusulası</title>
       <link>https://www.youtube.com/watch?v=V1tXWADRoCU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">39gX-Rd3WFg</guid>
       <pubDate>Wed, 26 Aug 2026 05:48:57 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SÜLEYMANCILARIN ESKİ LİDERİNİN ÖLÜMÜ ŞÜPHELİ ÇIKTI! Alihan Kuriş'e 'adam öldürme'den soruşturma...</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: 54 gün Boyunca Kumsala Gömülü Kaldılar... 60 Minik Caretta Denize Böyle Ulaştı! #shorts</title>
-      <link>https://www.youtube.com/shorts/VYTbHHYplfE</link>
-      <guid isPermaLink="false">VYTbHHYplfE</guid>
-      <pubDate>Wed, 26 Aug 2026 05:30:16 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: 54 gün Boyunca Kumsala Gömülü Kaldılar... 60 Minik Caretta Denize Böyle Ulaştı! #shorts</description>
     </item>
   </channel>
 </rss>
