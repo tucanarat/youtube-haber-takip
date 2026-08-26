@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 18:30:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 18:35:29 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: 'Şeytantepe' belgeseline soruşturma! Narin Güran dosyasında yeni gelişme!</title>
+      <link>https://www.youtube.com/watch?v=QfuRMRa_1kM</link>
+      <guid isPermaLink="false">QfuRMRa_1kM</guid>
+      <pubDate>Wed, 26 Aug 2026 18:30:21 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: 'Şeytantepe' belgeseline soruşturma! Narin Güran dosyasında yeni gelişme!</description>
+    </item>
     <item>
       <title>Tele2 Haber: "YAZIKLAR OLSUN SANA SACİT!" Cemal Enginyurt, Sacit Terzi'ye tepki gösterdi ve Erdoğan'a seslendi!</title>
       <link>https://www.youtube.com/watch?v=Dk5rhh35yKo</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">sAv-9L8qwTk</guid>
       <pubDate>Wed, 26 Aug 2026 15:17:22 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SON DAKİKA! BUTLAN YÖNETİMİ DUR DURAK BİLMİYOR! 51 partiliye ihraç istemi! İşte o isimler...</description>
-    </item>
-    <item>
-      <title>Halk TV: NEPAL RESMEN KIYAMETİ YAŞADI! Sel felaketinde yüzlerce kişi kayboldu! Görüntüler dehşete düşürecek!</title>
-      <link>https://www.youtube.com/watch?v=GSnNE0wzLRs</link>
-      <guid isPermaLink="false">GSnNE0wzLRs</guid>
-      <pubDate>Wed, 26 Aug 2026 15:10:16 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: NEPAL RESMEN KIYAMETİ YAŞADI! Sel felaketinde yüzlerce kişi kayboldu! Görüntüler dehşete düşürecek!</description>
     </item>
   </channel>
 </rss>
