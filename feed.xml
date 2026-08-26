@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 20:40:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 20:45:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Butlan sözcüsü Sarı'dan "Hain" çıkışı... Menderes'te oynanan oyun Üsküdar'da da sahnelenebilir!</title>
+      <link>https://www.youtube.com/watch?v=QVCUWmmMVOo</link>
+      <guid isPermaLink="false">QVCUWmmMVOo</guid>
+      <pubDate>Wed, 26 Aug 2026 20:40:19 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Butlan sözcüsü Sarı'dan "Hain" çıkışı... Menderes'te oynanan oyun Üsküdar'da da sahnelenebilir!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Cumhurbaşkanı Erdoğan, 955. Yıl Anadolu'nun Fethi Malazgirt 1071 Anma Programı'nda konuşuyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=Lyxo0yMJC5g</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">2gwM-ZC3ZTw</guid>
       <pubDate>Wed, 26 Aug 2026 16:51:51 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Sözcü Ana Haber | Serap Belovacıklı | 26 Ağustos</description>
-    </item>
-    <item>
-      <title>Halk TV: BALÇOVALILAR SEL OLDU AKTI! Görevine iade edilen başkana davullu zurnalı karşılama! İşte o anlar...</title>
-      <link>https://www.youtube.com/watch?v=odzugTZiuGc</link>
-      <guid isPermaLink="false">odzugTZiuGc</guid>
-      <pubDate>Wed, 26 Aug 2026 16:50:38 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BALÇOVALILAR SEL OLDU AKTI! Görevine iade edilen başkana davullu zurnalı karşılama! İşte o anlar...</description>
     </item>
   </channel>
 </rss>
