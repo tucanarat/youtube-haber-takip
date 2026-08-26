@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 10:15:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 10:20:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SARAY DANIŞMANI ANKARA'YI KARIŞTIRDI! O başkana tepki, bakanlara da çağrı yaptı! Beştepe ayaklanır!</title>
+      <link>https://www.youtube.com/watch?v=Ylk4hozLv-k</link>
+      <guid isPermaLink="false">Ylk4hozLv-k</guid>
+      <pubDate>Wed, 26 Aug 2026 10:15:18 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SARAY DANIŞMANI ANKARA'YI KARIŞTIRDI! O başkana tepki, bakanlara da çağrı yaptı! Beştepe ayaklanır!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Beştepe'den Madenci Çıkışı! "Patron Tok İşçi Aç!" Oktay Saral Bile İsyan Etti! Uğur Poyraz Yorumladı</title>
       <link>https://www.youtube.com/watch?v=OLQzgF2HS9A</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ANXdRI0CENc</guid>
       <pubDate>Wed, 26 Aug 2026 07:17:00 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: İnan Demirel ile Gündemdekiler | Konuk: Nurcan Bilge Gökdemir</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Yuvadan düşen leyleklere anne-babalık yapıyorlar: Evimizde canlı belgesel izliyoruz</title>
-      <link>https://www.youtube.com/shorts/nkAw7ccU-tQ</link>
-      <guid isPermaLink="false">nkAw7ccU-tQ</guid>
-      <pubDate>Wed, 26 Aug 2026 07:16:53 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Yuvadan düşen leyleklere anne-babalık yapıyorlar: Evimizde canlı belgesel izliyoruz</description>
     </item>
   </channel>
 </rss>
