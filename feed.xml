@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 12:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 12:25:26 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Bolu'da geri dönüşüm tesisinde yangın çıktı</title>
+      <link>https://www.youtube.com/shorts/Sl54Tqt7iZs</link>
+      <guid isPermaLink="false">Sl54Tqt7iZs</guid>
+      <pubDate>Wed, 26 Aug 2026 12:21:58 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Bolu'da geri dönüşüm tesisinde yangın çıktı</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Nefes borusuna şeker kaçan çocuğu okul müdürü Heimlich manevrasıyla kurtardı</title>
+      <link>https://www.youtube.com/shorts/pywHOCgJtfo</link>
+      <guid isPermaLink="false">pywHOCgJtfo</guid>
+      <pubDate>Wed, 26 Aug 2026 12:20:45 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Nefes borusuna şeker kaçan çocuğu okul müdürü Heimlich manevrasıyla kurtardı</description>
+    </item>
     <item>
       <title>Tele2 Haber: Mansur Yavaş niçin Yeni Parti'ye katılmıyor? Nedeni bu mu? | Ülkü Çoban ile Manşet Ötesi</title>
       <link>https://www.youtube.com/watch?v=P8dX6RVqtS4</link>
@@ -20,6 +34,13 @@
       <guid isPermaLink="false">ptR8zD4wUqU</guid>
       <pubDate>Wed, 26 Aug 2026 12:12:57 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | TBMM Başkanı Numan Kurtulmuş, Sivil Toplum Buluşması’nda Konuşuyor!</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Şişli'de dev ağaç araçların üzerine devrildi!</title>
+      <link>https://www.youtube.com/shorts/C6PiP1QNkGY</link>
+      <guid isPermaLink="false">C6PiP1QNkGY</guid>
+      <pubDate>Wed, 26 Aug 2026 12:05:51 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Şişli'de dev ağaç araçların üzerine devrildi!</description>
     </item>
     <item>
       <title>Halk TV: TÜRKİYE'DE BİR İLK! Özgür Özel'in yeni modeli kartları yeniden dağıtacak! Tüm hesaplar sıfırlandı!</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">7Zm_PidHAr8</guid>
       <pubDate>Wed, 26 Aug 2026 09:00:10 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Denizolgun'un Ölümünde Gizlenen Sır! Türkiye Bu İddiayı Konuşuyor! Süleymancılar'ın Kirli Geçmişi!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Ümit Özdağ, partisinin kuruluşunun 5'inci yılı dolayısıyla açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=ELq2scTHIzw</link>
-      <guid isPermaLink="false">ELq2scTHIzw</guid>
-      <pubDate>Wed, 26 Aug 2026 08:48:53 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Ümit Özdağ, partisinin kuruluşunun 5'inci yılı dolayısıyla açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Marmara'da renkli anlar: Yunuslar jet ski'nin peşine takıldı</title>
-      <link>https://www.youtube.com/shorts/RCYx9SdHkfM</link>
-      <guid isPermaLink="false">RCYx9SdHkfM</guid>
-      <pubDate>Wed, 26 Aug 2026 08:47:24 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Marmara'da renkli anlar: Yunuslar jet ski'nin peşine takıldı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "Ergenekon-Balyoz Kumpas Davalarına Bile Daha İyi Çalışılmıştı!" Uğur'dan İBB Yargılması Tepkisi!</title>
-      <link>https://www.youtube.com/watch?v=fjgjOors-_A</link>
-      <guid isPermaLink="false">fjgjOors-_A</guid>
-      <pubDate>Wed, 26 Aug 2026 08:45:15 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "Ergenekon-Balyoz Kumpas Davalarına Bile Daha İyi Çalışılmıştı!" Uğur'dan İBB Yargılması Tepkisi!</description>
     </item>
   </channel>
 </rss>
