@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 21:50:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 21:55:27 +0000</lastBuildDate>
     <item>
       <title>Halk TV: İsmail Emre Telci’den sert eleştiri! “Soru sorulmasına bile müdahale ediyor!”</title>
       <link>https://www.youtube.com/watch?v=IlM-qL0Ia5Q</link>
       <guid isPermaLink="false">IlM-qL0Ia5Q</guid>
       <pubDate>Wed, 26 Aug 2026 21:40:28 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İsmail Emre Telci’den sert eleştiri! “Soru sorulmasına bile müdahale ediyor!”</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İBB DAVASINDA ŞOK KARAR HAZIRLIĞI! Ekrem İmamoğlu'na Siyasi Yasak mı Geliyor?</title>
+      <link>https://www.youtube.com/watch?v=kAHZgDNkYH4</link>
+      <guid isPermaLink="false">kAHZgDNkYH4</guid>
+      <pubDate>Wed, 26 Aug 2026 21:40:13 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İBB DAVASINDA ŞOK KARAR HAZIRLIĞI! Ekrem İmamoğlu'na Siyasi Yasak mı Geliyor?</description>
     </item>
     <item>
       <title>Halk TV: Nepal'den yürek yakan görüntüler geliyor! Çok sayıda kişi canlarını kurtarmaya çalıştı! #shorts</title>
@@ -71,11 +78,11 @@
       <description>Halk TV kanalından yeni video: Nepal'de onlarca kişinin ölümüne neden olan sel felaketi kayda böyle girdi! #shorts</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: #CANLI S Raporu | Dilan Polat</title>
+      <title>SÖZCÜ TV: S Raporu | Dilan Polat | 27 Ağustos</title>
       <link>https://www.youtube.com/watch?v=022xC1F4AHY</link>
       <guid isPermaLink="false">022xC1F4AHY</guid>
       <pubDate>Wed, 26 Aug 2026 20:50:09 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: #CANLI S Raporu | Dilan Polat</description>
+      <description>SÖZCÜ TV kanalından yeni video: S Raporu | Dilan Polat | 27 Ağustos</description>
     </item>
     <item>
       <title>SÖZCÜ TV: CHP'DE DEPREM! 15 Günde 500 Bin İstifa! Bomba Mansur Yavaş Kulisi! Kılıçdaroğlu Teyakkuzda</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ulFtnDuaFao</guid>
       <pubDate>Wed, 26 Aug 2026 17:23:07 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Parti İstanbul İl Başkanlığı, Şile'de "Milli İradeye Saygı Yürüyüşü" Düzenledi!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: YENİ Parti İstanbul İl Başkanlığı, Şile'de "Milli İradeye Saygı Yürüyüşü" düzenliyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=WQuZKbWuYkw</link>
-      <guid isPermaLink="false">WQuZKbWuYkw</guid>
-      <pubDate>Wed, 26 Aug 2026 17:20:42 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti İstanbul İl Başkanlığı, Şile'de "Milli İradeye Saygı Yürüyüşü" düzenliyor #Canlı</description>
     </item>
   </channel>
 </rss>
