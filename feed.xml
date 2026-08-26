@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 03:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 03:05:23 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Süheyla Demir ile Günaydın Türkiye</title>
+      <link>https://www.youtube.com/watch?v=LZG44ZTC6uQ</link>
+      <guid isPermaLink="false">LZG44ZTC6uQ</guid>
+      <pubDate>Wed, 26 Aug 2026 02:58:47 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Süheyla Demir ile Günaydın Türkiye</description>
+    </item>
     <item>
       <title>Cumhuriyet: #CANLI  Kemal Kılıçdaroğlu, İl Başkanları Toplantısında konuşuyor</title>
       <link>https://www.youtube.com/watch?v=UWZS7fG_hGw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">eVFwy54V890</guid>
       <pubDate>Tue, 25 Aug 2026 18:20:17 +0000</pubDate>
       <description>Halk TV kanalından yeni video: "İLAÇ VERİLEREK FELÇ EDİLDİ!" Rojin Kabaiş'in avukatından kan donduran iddialar!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Zeynel Lüle ve Faruk Bildirici ile Medyamorfoz (26.08.26)</title>
-      <link>https://www.youtube.com/watch?v=yIyyVkmoF_k</link>
-      <guid isPermaLink="false">yIyyVkmoF_k</guid>
-      <pubDate>Tue, 25 Aug 2026 18:17:53 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Zeynel Lüle ve Faruk Bildirici ile Medyamorfoz (26.08.26)</description>
     </item>
   </channel>
 </rss>
