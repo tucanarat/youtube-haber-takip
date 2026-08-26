@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 20:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 20:30:49 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Üsküdar'da seçim iptal edildi... Bayrampaşa'daki skandal görüntü ise yeniden gündemde!</title>
+      <link>https://www.youtube.com/watch?v=YvCiv2inHgg</link>
+      <guid isPermaLink="false">YvCiv2inHgg</guid>
+      <pubDate>Wed, 26 Aug 2026 20:20:04 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Üsküdar'da seçim iptal edildi... Bayrampaşa'daki skandal görüntü ise yeniden gündemde!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: "ANNEM İYİ Mİ?" | Güllü'nün Kızı Tuğyan Ülkem'in Olay Gecesi Panik Anları Kamerada</title>
       <link>https://www.youtube.com/watch?v=QBS6g_tSbt4</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">IoVk7mBG2PU</guid>
       <pubDate>Wed, 26 Aug 2026 16:45:06 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: İmamoğlu Ertan Yıldız'ı köşeye sıkıştırdı! Mahkemede şok anlar! "İTİRAFÇI TEL TEL DÖKÜLDÜ"</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: CHP'de Kiralık Figüran Krizi Çözüldü! Cast Ajansı Sahibi Her Şeyi Anlattı! Tehdit &amp; Şantaj Belgeleri</title>
-      <link>https://www.youtube.com/watch?v=_u1rPj4tFGI</link>
-      <guid isPermaLink="false">_u1rPj4tFGI</guid>
-      <pubDate>Wed, 26 Aug 2026 16:40:30 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: CHP'de Kiralık Figüran Krizi Çözüldü! Cast Ajansı Sahibi Her Şeyi Anlattı! Tehdit &amp; Şantaj Belgeleri</description>
     </item>
   </channel>
 </rss>
