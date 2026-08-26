@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 10:56:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 11:00:49 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Öğle Bülteni | Gülinay Selçuk | 26 Ağustos</title>
+      <link>https://www.youtube.com/watch?v=ZXNqiSM1fYM</link>
+      <guid isPermaLink="false">ZXNqiSM1fYM</guid>
+      <pubDate>Wed, 26 Aug 2026 10:57:58 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Öğle Bülteni | Gülinay Selçuk | 26 Ağustos</description>
+    </item>
     <item>
       <title>Cumhuriyet: #CANLI İBB Davasında 70. gün! Etkin Pişmanlıkçı’nın sorgusunda İmamoğlu salonu terk etti!</title>
       <link>https://www.youtube.com/watch?v=VaN7pJ69YTU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Eo2oKgyEYv8</guid>
       <pubDate>Wed, 26 Aug 2026 08:00:09 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Şam'da Tarihi Anlaşma! Mazlum Abdi Duyurdu! SDG Kendini Feshetti! Suriye Ordusuna Entegre Oluyor</description>
-    </item>
-    <item>
-      <title>Halk TV: Gökhan Kayış ile Para Siyaset | Nesrin Nas - Öner Günçavdı (26 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=b0NodLZoXGE</link>
-      <guid isPermaLink="false">b0NodLZoXGE</guid>
-      <pubDate>Wed, 26 Aug 2026 07:58:36 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Gökhan Kayış ile Para Siyaset | Nesrin Nas - Öner Günçavdı (26 Ağustos 2026)</description>
     </item>
   </channel>
 </rss>
