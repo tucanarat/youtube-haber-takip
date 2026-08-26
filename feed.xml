@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 19:05:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 19:10:35 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: AİHM'in Osman Kavala kararı uygulanacak mı? Ertunç Özün ve İlkan Dalkuç değerlendirdi</title>
       <link>https://www.youtube.com/watch?v=xQOf83lKdYo</link>
@@ -55,6 +55,13 @@
       <guid isPermaLink="false">NCEVbfkAyWg</guid>
       <pubDate>Wed, 26 Aug 2026 18:45:17 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İsrailli Bakan'dan Küstah Türkiye Çıkışı! Katz'dan Şam ve Ankara'ya Haddini Aşan Sözler</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: İmralı tutanakları sahte mi gerçek mi? Nergis Demirkaya İmralı heyetinin açıklamalarını paylaştı</title>
+      <link>https://www.youtube.com/watch?v=RRGH2vhQBeQ</link>
+      <guid isPermaLink="false">RRGH2vhQBeQ</guid>
+      <pubDate>Wed, 26 Aug 2026 18:43:50 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: İmralı tutanakları sahte mi gerçek mi? Nergis Demirkaya İmralı heyetinin açıklamalarını paylaştı</description>
     </item>
     <item>
       <title>Tele2 Haber: Mehmet Sevigen CHP'ye mi dönüyor? Kılıçdaroğlu'nun yeni planları! Nergis Demirkaya anlattı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Gri-NXE2yIw</guid>
       <pubDate>Wed, 26 Aug 2026 16:05:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: DENİZOLGUN'UN ÖLÜMÜNDE BOMBA 'ANAHTAR' DETAYI! Çelişkili ifadeler dikkat çekti! Dinçer Gökçe anlattı</description>
-    </item>
-    <item>
-      <title>Halk TV: Bugün Ne Oldu? | SDG'nin Feshi ve İBB Davası</title>
-      <link>https://www.youtube.com/shorts/UWUqeG44khI</link>
-      <guid isPermaLink="false">UWUqeG44khI</guid>
-      <pubDate>Wed, 26 Aug 2026 16:00:10 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Bugün Ne Oldu? | SDG'nin Feshi ve İBB Davası</description>
     </item>
   </channel>
 </rss>
