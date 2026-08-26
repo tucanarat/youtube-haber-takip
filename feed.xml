@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 07:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 08:00:50 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Gökhan Kayış ile Para Siyaset | Nesrin Nas - Öner Günçavdı (26 Ağustos 2026)</title>
+      <link>https://www.youtube.com/watch?v=b0NodLZoXGE</link>
+      <guid isPermaLink="false">b0NodLZoXGE</guid>
+      <pubDate>Wed, 26 Aug 2026 07:58:36 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Gökhan Kayış ile Para Siyaset | Nesrin Nas - Öner Günçavdı (26 Ağustos 2026)</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Burçin Atılgan ile Neden Sonuç | Mehmet Tezkan</title>
+      <link>https://www.youtube.com/watch?v=ZJKCvppw9k8</link>
+      <guid isPermaLink="false">ZJKCvppw9k8</guid>
+      <pubDate>Wed, 26 Aug 2026 07:51:21 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Burçin Atılgan ile Neden Sonuç | Mehmet Tezkan</description>
+    </item>
     <item>
       <title>Tele2 Haber: "Çerçeve Yasa Konuşulurken AİHM Kararlarını Uygulamamak Nedir?" Onur Öncü'den Osman Kavala Tepkisi!</title>
       <link>https://www.youtube.com/watch?v=0C_JZKczIq8</link>
@@ -190,13 +204,6 @@
       <description>ANKA Haber Ajansı kanalından yeni video: Cumhurbaşkanı Erdoğan, Ahlat'ta Kabine Toplantısı'nın ardından açıklama yapıyor #Canlı</description>
     </item>
     <item>
-      <title>Halk TV: Gökhan Kayış ile Para Siyaset | Nesrin Nas - Öner Günçavdı (26 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=b0NodLZoXGE</link>
-      <guid isPermaLink="false">b0NodLZoXGE</guid>
-      <pubDate>Wed, 26 Aug 2026 02:59:38 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Gökhan Kayış ile Para Siyaset | Nesrin Nas - Öner Günçavdı (26 Ağustos 2026)</description>
-    </item>
-    <item>
       <title>Cumhuriyet: #CANLI  Kemal Kılıçdaroğlu, İl Başkanları Toplantısında konuşuyor</title>
       <link>https://www.youtube.com/watch?v=UWZS7fG_hGw</link>
       <guid isPermaLink="false">UWZS7fG_hGw</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">fxMiWMFA2jg</guid>
       <pubDate>Tue, 25 Aug 2026 21:10:39 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BUTLANCILARI ŞOKE EDECEK SONUÇ! YENİ Parti güncel bağış tutarını açıkladı! İşte o rakamlar!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Aklın Yolu | Serap Belovacıklı | 25 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=uNIx4WiThHg</link>
-      <guid isPermaLink="false">uNIx4WiThHg</guid>
-      <pubDate>Tue, 25 Aug 2026 21:02:29 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Aklın Yolu | Serap Belovacıklı | 25 Ağustos</description>
     </item>
   </channel>
 </rss>
