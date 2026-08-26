@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 12:45:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 12:50:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: BÜYÜK HADSİZLİK! AKP'li vekil gazeteciye hakaret etti, kınayana da soruşturma geldi! Pes dedirtir!</title>
+      <link>https://www.youtube.com/watch?v=6oYh5GlMWLw</link>
+      <guid isPermaLink="false">6oYh5GlMWLw</guid>
+      <pubDate>Wed, 26 Aug 2026 12:45:01 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BÜYÜK HADSİZLİK! AKP'li vekil gazeteciye hakaret etti, kınayana da soruşturma geldi! Pes dedirtir!</description>
+    </item>
     <item>
       <title>Halk TV: YENİ Parti Artvin'de teşkilatlanma çalışmalarını hızlandırdı!</title>
       <link>https://www.youtube.com/shorts/a7zXHLcMkQY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">3Ig8WCxBmbo</guid>
       <pubDate>Wed, 26 Aug 2026 10:00:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BÜYÜK OYUN TUTMADI! Aziz İhsan Aktaş davasının gizli kalmış yüzü ifşalandı! Mehmet Tezkan anlattı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Burçin Atılgan ile Neden Sonuç | Mehmet Tezkan (26 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=ZJKCvppw9k8</link>
-      <guid isPermaLink="false">ZJKCvppw9k8</guid>
-      <pubDate>Wed, 26 Aug 2026 09:59:31 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Burçin Atılgan ile Neden Sonuç | Mehmet Tezkan (26 Ağustos 2026)</description>
     </item>
   </channel>
 </rss>
