@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 09:40:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 09:45:31 +0000</lastBuildDate>
     <item>
       <title>Halk TV: #CANLI | Zafer Partisi Genel Başkanı Ümit Özdağ Açıklama Yapıyor!</title>
       <link>https://www.youtube.com/watch?v=U9Eyjvb4Vyw</link>
@@ -41,6 +41,13 @@
       <guid isPermaLink="false">VKZeN5u9RfM</guid>
       <pubDate>Wed, 26 Aug 2026 09:27:21 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | MASAK Raporu Çıktı! Cem Küçük'ün Banka Hesaplarında Silah Tüccarı da Kırkpınar Ağası da Var</description>
+    </item>
+    <item>
+      <title>Halk TV: BÜYÜK OYUN TUTMADI! Aziz İhsan Aktaş davasının gizli kalmış yüzü ifşalandı! Mehmet Tezkan anlattı!</title>
+      <link>https://www.youtube.com/watch?v=3Ig8WCxBmbo</link>
+      <guid isPermaLink="false">3Ig8WCxBmbo</guid>
+      <pubDate>Wed, 26 Aug 2026 09:14:42 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BÜYÜK OYUN TUTMADI! Aziz İhsan Aktaş davasının gizli kalmış yüzü ifşalandı! Mehmet Tezkan anlattı!</description>
     </item>
     <item>
       <title>Tele2 Haber: Onur Öncü: "Madenciyi Bırak Sebahattin'i Al!"</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">hGwKLWJ_gtQ</guid>
       <pubDate>Wed, 26 Aug 2026 06:32:14 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Gençlerbirliği Teknik Direktörü Metin Diyadin Cumhuriyet’e konuştu: ‘Gevşeme lüksümüz yok’</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İLK KEZ ORTAYA ÇIKTI! Arif Ahmet Denizolgun'un Ölümünde Boğulma Şüphesi! Alihan Kuriş'e Soruşturma!</title>
-      <link>https://www.youtube.com/watch?v=CC7YUzKv_DM</link>
-      <guid isPermaLink="false">CC7YUzKv_DM</guid>
-      <pubDate>Wed, 26 Aug 2026 06:30:02 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İLK KEZ ORTAYA ÇIKTI! Arif Ahmet Denizolgun'un Ölümünde Boğulma Şüphesi! Alihan Kuriş'e Soruşturma!</description>
     </item>
   </channel>
 </rss>
