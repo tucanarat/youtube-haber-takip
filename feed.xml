@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 23:00:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 23:05:25 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: AKP CHP ArasındaKİ Gizli Pazarlık! Üsküdar ve Etimesgut'taki İttifak Deşifre Oldu! Siyasi Dizayn</title>
+      <link>https://www.youtube.com/watch?v=zAfQzSpi2V0</link>
+      <guid isPermaLink="false">zAfQzSpi2V0</guid>
+      <pubDate>Wed, 26 Aug 2026 23:00:07 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: AKP CHP ArasındaKİ Gizli Pazarlık! Üsküdar ve Etimesgut'taki İttifak Deşifre Oldu! Siyasi Dizayn</description>
+    </item>
     <item>
       <title>Halk TV: Nepal’de dehşete düşüren görüntüler… Sel suları, dev köprüyü parçaladı! #shorts</title>
       <link>https://www.youtube.com/shorts/xFejMn6rWtU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">pRRlRwkXakg</guid>
       <pubDate>Wed, 26 Aug 2026 18:46:42 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: İMRALI TUTANAKLARI BİLMECESİ! İnan Demirel ile Gündemdekiler | Konuk: Nergis Demirkaya (26.08.26)</description>
-    </item>
-    <item>
-      <title>Halk TV: ANKARA'DA YER YERİNDEN OYNAR! Öcalan alt kurulda görev alacak mı? Mithat Sancar neler açıkladı neler</title>
-      <link>https://www.youtube.com/watch?v=aJNkbFaOxGo</link>
-      <guid isPermaLink="false">aJNkbFaOxGo</guid>
-      <pubDate>Wed, 26 Aug 2026 18:45:25 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ANKARA'DA YER YERİNDEN OYNAR! Öcalan alt kurulda görev alacak mı? Mithat Sancar neler açıkladı neler</description>
     </item>
   </channel>
 </rss>
