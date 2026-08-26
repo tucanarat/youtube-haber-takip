@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 11:05:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 11:10:31 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Murat Ongun hedef mi alınıyor? "İspat edemediğinize göre biz sizin alnınızı karışlayabiliriz!"</title>
+      <link>https://www.youtube.com/shorts/o1a6PMp-sjM</link>
+      <guid isPermaLink="false">o1a6PMp-sjM</guid>
+      <pubDate>Wed, 26 Aug 2026 11:07:34 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Murat Ongun hedef mi alınıyor? "İspat edemediğinize göre biz sizin alnınızı karışlayabiliriz!"</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: SDG Kendisini Feshetti! Bölgede Neler Olacağını Emekli Kurmay Albay Atabay Çarpıcı Biçimde Anlattı!</title>
+      <link>https://www.youtube.com/watch?v=YZTC98su08E</link>
+      <guid isPermaLink="false">YZTC98su08E</guid>
+      <pubDate>Wed, 26 Aug 2026 11:05:09 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: SDG Kendisini Feshetti! Bölgede Neler Olacağını Emekli Kurmay Albay Atabay Çarpıcı Biçimde Anlattı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Arif Ahmet Denizolgun'un Otopsi Videosundan Ne Çıktı? ADLİ TIP'TA SKANDAL! Alihan Kuriş Detayı</title>
       <link>https://www.youtube.com/watch?v=OEa_bCljASA</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">uAeMb4xrvVY</guid>
       <pubDate>Wed, 26 Aug 2026 08:12:30 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI Cumhurbaşkanı Erdoğan, 955. Yıl Anadolu'nun Fethi Malazgirt 1071 Anma Programı'nda</description>
-    </item>
-    <item>
-      <title>Halk TV: İBB DAVASINDA GERGİNLİK! İtirafçı Ertan Yıldız'ın savunması salonu karıştırdı! İşte çarpıcı anlar!</title>
-      <link>https://www.youtube.com/watch?v=Vo0US09FH2o</link>
-      <guid isPermaLink="false">Vo0US09FH2o</guid>
-      <pubDate>Wed, 26 Aug 2026 08:11:09 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İBB DAVASINDA GERGİNLİK! İtirafçı Ertan Yıldız'ın savunması salonu karıştırdı! İşte çarpıcı anlar!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Sözcü Masası | Damla Doğan Tuncel | 26 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=NRlXozw7Btg</link>
-      <guid isPermaLink="false">NRlXozw7Btg</guid>
-      <pubDate>Wed, 26 Aug 2026 08:06:12 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Sözcü Masası | Damla Doğan Tuncel | 26 Ağustos</description>
     </item>
   </channel>
 </rss>
