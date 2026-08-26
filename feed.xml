@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 07:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 07:45:29 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: Devletin İçindeki Tehlike! Diyanet'in Süleymancılar Raporu! Altınlar Kara Paralar! | Mustafa Balbay</title>
       <link>https://www.youtube.com/watch?v=p8PMhYAcNDQ</link>
       <guid isPermaLink="false">p8PMhYAcNDQ</guid>
       <pubDate>Wed, 26 Aug 2026 07:30:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Devletin İçindeki Tehlike! Diyanet'in Süleymancılar Raporu! Altınlar Kara Paralar! | Mustafa Balbay</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Depremzedenin konteyner kentten çıkması istendi: Otizmli çocuğum olduğu için bana ev kiralamıyorlar</title>
+      <link>https://www.youtube.com/shorts/nGE3rARAlHY</link>
+      <guid isPermaLink="false">nGE3rARAlHY</guid>
+      <pubDate>Wed, 26 Aug 2026 07:28:28 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Depremzedenin konteyner kentten çıkması istendi: Otizmli çocuğum olduğu için bana ev kiralamıyorlar</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Kurtulmuş, Büyük Taarruz'un 104'üncü Yıl Dönümü ve Zafer Haftası Programında konuşuyor #Canlı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ewijp1sQARA</guid>
       <pubDate>Tue, 25 Aug 2026 20:48:53 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Madenci direnişinde gündem olan sözler! “Bu holding kanımızı emiyor!” #shorts</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İktidarın Çerçeve Yasa Planının Sır Perdesi Aralandı! Hasan Sınar Örtülü Af Dedi! Gerçekleri Anlattı</title>
-      <link>https://www.youtube.com/watch?v=uHk4P3TouUU</link>
-      <guid isPermaLink="false">uHk4P3TouUU</guid>
-      <pubDate>Tue, 25 Aug 2026 20:40:36 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İktidarın Çerçeve Yasa Planının Sır Perdesi Aralandı! Hasan Sınar Örtülü Af Dedi! Gerçekleri Anlattı</description>
     </item>
   </channel>
 </rss>
