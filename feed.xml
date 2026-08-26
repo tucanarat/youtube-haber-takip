@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 08:57:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 09:00:56 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Denizolgun'un Ölümünde Gizlenen Sır! Türkiye Bu İddiayı Konuşuyor! Süleymancılar'ın Kirli Geçmişi!</title>
+      <link>https://www.youtube.com/watch?v=7Zm_PidHAr8</link>
+      <guid isPermaLink="false">7Zm_PidHAr8</guid>
+      <pubDate>Wed, 26 Aug 2026 09:00:10 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Denizolgun'un Ölümünde Gizlenen Sır! Türkiye Bu İddiayı Konuşuyor! Süleymancılar'ın Kirli Geçmişi!</description>
+    </item>
     <item>
       <title>Cumhuriyet: Marmara'da renkli anlar: Yunuslar jet ski'nin peşine takıldı</title>
       <link>https://www.youtube.com/shorts/RCYx9SdHkfM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">bjB1unabasQ</guid>
       <pubDate>Wed, 26 Aug 2026 05:00:23 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İstanbul'un Dibinde Bir Tarih ve Canlı Çeşidi Saklı! At Mezarlığı'ndan Nadir Türlere #shorts</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Sözcü ile Uyanma Vakti | Dilan Polat | 26 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=Ht9kGUxiuqA</link>
-      <guid isPermaLink="false">Ht9kGUxiuqA</guid>
-      <pubDate>Wed, 26 Aug 2026 04:57:37 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Sözcü ile Uyanma Vakti | Dilan Polat | 26 Ağustos</description>
     </item>
   </channel>
 </rss>
