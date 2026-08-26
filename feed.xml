@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 11:00:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 11:05:25 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Arif Ahmet Denizolgun'un Otopsi Videosundan Ne Çıktı? ADLİ TIP'TA SKANDAL! Alihan Kuriş Detayı</title>
+      <link>https://www.youtube.com/watch?v=OEa_bCljASA</link>
+      <guid isPermaLink="false">OEa_bCljASA</guid>
+      <pubDate>Wed, 26 Aug 2026 11:00:12 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Arif Ahmet Denizolgun'un Otopsi Videosundan Ne Çıktı? ADLİ TIP'TA SKANDAL! Alihan Kuriş Detayı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Öğle Bülteni | Gülinay Selçuk | 26 Ağustos</title>
       <link>https://www.youtube.com/watch?v=ZXNqiSM1fYM</link>
@@ -62,6 +69,13 @@
       <guid isPermaLink="false">zaNDO-U4cSs</guid>
       <pubDate>Wed, 26 Aug 2026 10:31:07 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: İBB davasında 70. Gün! Murat Ongun’un avukatı mahkemede soru soramadıklarını dile getirdi</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İBAN ile Ödeme Alanlar Dikkat! 35 Milyon TL Ceza Kapıda! | Mahmut Aydoğmuş | Vergi Kafe</title>
+      <link>https://www.youtube.com/watch?v=-KKDj6WaKo8</link>
+      <guid isPermaLink="false">-KKDj6WaKo8</guid>
+      <pubDate>Wed, 26 Aug 2026 10:30:50 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İBAN ile Ödeme Alanlar Dikkat! 35 Milyon TL Ceza Kapıda! | Mahmut Aydoğmuş | Vergi Kafe</description>
     </item>
     <item>
       <title>Halk TV: KORKUNÇ CİNAYET! Bedriye Naz'ı camdan attı, ailesini arayıp "öldü gelin kızınızı alın" dedi!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">NRlXozw7Btg</guid>
       <pubDate>Wed, 26 Aug 2026 08:06:12 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Sözcü Masası | Damla Doğan Tuncel | 26 Ağustos</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Kayseri'de 4.1 büyüklüğünde deprem! #shorts</title>
-      <link>https://www.youtube.com/shorts/1wmS6cmoENM</link>
-      <guid isPermaLink="false">1wmS6cmoENM</guid>
-      <pubDate>Wed, 26 Aug 2026 08:00:27 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Kayseri'de 4.1 büyüklüğünde deprem! #shorts</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Şam'da Tarihi Anlaşma! Mazlum Abdi Duyurdu! SDG Kendini Feshetti! Suriye Ordusuna Entegre Oluyor</title>
-      <link>https://www.youtube.com/watch?v=Eo2oKgyEYv8</link>
-      <guid isPermaLink="false">Eo2oKgyEYv8</guid>
-      <pubDate>Wed, 26 Aug 2026 08:00:09 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Şam'da Tarihi Anlaşma! Mazlum Abdi Duyurdu! SDG Kendini Feshetti! Suriye Ordusuna Entegre Oluyor</description>
     </item>
   </channel>
 </rss>
