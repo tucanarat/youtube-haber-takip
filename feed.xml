@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 12:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 12:30:42 +0000</lastBuildDate>
     <item>
       <title>Cumhuriyet: Bolu'da geri dönüşüm tesisinde yangın çıktı</title>
       <link>https://www.youtube.com/shorts/Sl54Tqt7iZs</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">pywHOCgJtfo</guid>
       <pubDate>Wed, 26 Aug 2026 12:20:45 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Nefes borusuna şeker kaçan çocuğu okul müdürü Heimlich manevrasıyla kurtardı</description>
+    </item>
+    <item>
+      <title>Halk TV: TÜM TÜRKİYE AYAKLANIR! İtirafçı, tutuklu belediye başkanına olacakları mektupla anlatmış! Şoke eder!</title>
+      <link>https://www.youtube.com/watch?v=tbxzWmqg9kE</link>
+      <guid isPermaLink="false">tbxzWmqg9kE</guid>
+      <pubDate>Wed, 26 Aug 2026 12:20:35 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: TÜM TÜRKİYE AYAKLANIR! İtirafçı, tutuklu belediye başkanına olacakları mektupla anlatmış! Şoke eder!</description>
     </item>
     <item>
       <title>Tele2 Haber: Mansur Yavaş niçin Yeni Parti'ye katılmıyor? Nedeni bu mu? | Ülkü Çoban ile Manşet Ötesi</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">V1tXWADRoCU</guid>
       <pubDate>Wed, 26 Aug 2026 09:01:19 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: SDG KENDİNİ FESHETTİ | ÖZEL'DEN SİLİVRİ'YE SERT TEPKİ! | Onur Öncü ile Sabah Pusulası</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Denizolgun'un Ölümünde Gizlenen Sır! Türkiye Bu İddiayı Konuşuyor! Süleymancılar'ın Kirli Geçmişi!</title>
-      <link>https://www.youtube.com/watch?v=7Zm_PidHAr8</link>
-      <guid isPermaLink="false">7Zm_PidHAr8</guid>
-      <pubDate>Wed, 26 Aug 2026 09:00:10 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Denizolgun'un Ölümünde Gizlenen Sır! Türkiye Bu İddiayı Konuşuyor! Süleymancılar'ın Kirli Geçmişi!</description>
     </item>
   </channel>
 </rss>
