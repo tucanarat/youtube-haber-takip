@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 18:25:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 18:30:42 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: "YAZIKLAR OLSUN SANA SACİT!" Cemal Enginyurt, Sacit Terzi'ye tepki gösterdi ve Erdoğan'a seslendi!</title>
+      <link>https://www.youtube.com/watch?v=Dk5rhh35yKo</link>
+      <guid isPermaLink="false">Dk5rhh35yKo</guid>
+      <pubDate>Wed, 26 Aug 2026 18:30:00 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "YAZIKLAR OLSUN SANA SACİT!" Cemal Enginyurt, Sacit Terzi'ye tepki gösterdi ve Erdoğan'a seslendi!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İsrail'in Fırat Planı Patladı! Deyrizor'da Yüzde 8 Ayrıntısı! ABD'nin Suriye'de Kurduğu Yeni Masa</title>
       <link>https://www.youtube.com/watch?v=pdd8wej-t_M</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">GSnNE0wzLRs</guid>
       <pubDate>Wed, 26 Aug 2026 15:10:16 +0000</pubDate>
       <description>Halk TV kanalından yeni video: NEPAL RESMEN KIYAMETİ YAŞADI! Sel felaketinde yüzlerce kişi kayboldu! Görüntüler dehşete düşürecek!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI İnan Demirel ile Gündemdekiler | Konuk: Nergis Demirkaya (26.08.26)</title>
-      <link>https://www.youtube.com/watch?v=pRRlRwkXakg</link>
-      <guid isPermaLink="false">pRRlRwkXakg</guid>
-      <pubDate>Wed, 26 Aug 2026 15:07:15 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI İnan Demirel ile Gündemdekiler | Konuk: Nergis Demirkaya (26.08.26)</description>
     </item>
   </channel>
 </rss>
