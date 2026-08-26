@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 11:20:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 11:25:32 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: 3 ton kavunu depremzedelere bedava dağıttı!</title>
+      <link>https://www.youtube.com/shorts/QOns21Ul5tE</link>
+      <guid isPermaLink="false">QOns21Ul5tE</guid>
+      <pubDate>Wed, 26 Aug 2026 11:17:27 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: 3 ton kavunu depremzedelere bedava dağıttı!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: TBMM Başkanı Numan Kurtulmuş, Afyonkarahisar Sivil Toplum Buluşması’nda konuşuyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=4Ni5gg6Rtio</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">CIqeGfOEIOc</guid>
       <pubDate>Wed, 26 Aug 2026 08:18:40 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Madenciler, aileleriyle birlikte Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Şarkıcı Güllü'ye ilişkin soruşturmada yeni gelişme: Olay gecesine ait yeni görüntüler ortaya çıktı!</title>
-      <link>https://www.youtube.com/watch?v=iHdtWefHa0I</link>
-      <guid isPermaLink="false">iHdtWefHa0I</guid>
-      <pubDate>Wed, 26 Aug 2026 08:14:58 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Şarkıcı Güllü'ye ilişkin soruşturmada yeni gelişme: Olay gecesine ait yeni görüntüler ortaya çıktı!</description>
     </item>
   </channel>
 </rss>
