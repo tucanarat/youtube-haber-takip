@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 17:55:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 18:01:05 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: "Her şey var HUKUK yok" İBB davasında skandal gelişmeler! Hukukçu Ertunç Özün anlattı</title>
+      <link>https://www.youtube.com/watch?v=yZT_zm3m1Aw</link>
+      <guid isPermaLink="false">yZT_zm3m1Aw</guid>
+      <pubDate>Wed, 26 Aug 2026 18:00:16 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "Her şey var HUKUK yok" İBB davasında skandal gelişmeler! Hukukçu Ertunç Özün anlattı</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: İmamoğlu: Yargısız infazı son perdesi! Evren Özalkuş ile Gerçek |Konuklar: İlkan Dalkuç, Ertunç Özün</title>
+      <link>https://www.youtube.com/watch?v=yGjjBNEJ6bo</link>
+      <guid isPermaLink="false">yGjjBNEJ6bo</guid>
+      <pubDate>Wed, 26 Aug 2026 17:56:42 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: İmamoğlu: Yargısız infazı son perdesi! Evren Özalkuş ile Gerçek |Konuklar: İlkan Dalkuç, Ertunç Özün</description>
+    </item>
     <item>
       <title>Tele2 Haber: İKTİDAR SIKIŞTI! Mehmet Uçum yine 'had bildirme' çabasında! Murat Taylan'dan adalet isyanı!</title>
       <link>https://www.youtube.com/watch?v=eLGKfzN1e5g</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">bIKyXuLsR5g</guid>
       <pubDate>Wed, 26 Aug 2026 14:49:34 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Ekrem İmamoğlu tahliye talebinde bulunacak! #shorts</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İş Çıkışı | Merve Ekinci ve Burak Tatari 26 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=QOkXXyOS-rw</link>
-      <guid isPermaLink="false">QOkXXyOS-rw</guid>
-      <pubDate>Wed, 26 Aug 2026 14:47:55 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İş Çıkışı | Merve Ekinci ve Burak Tatari 26 Ağustos</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Aziz İhsan Aktaş davasında 'ÖRGÜT' çöktü! Gökçe Gökçen yaşananları yorumladı...</title>
-      <link>https://www.youtube.com/watch?v=_XhEGCMtKiY</link>
-      <guid isPermaLink="false">_XhEGCMtKiY</guid>
-      <pubDate>Wed, 26 Aug 2026 14:45:30 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Aziz İhsan Aktaş davasında 'ÖRGÜT' çöktü! Gökçe Gökçen yaşananları yorumladı...</description>
     </item>
   </channel>
 </rss>
