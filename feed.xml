@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 22:45:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 22:50:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Nepal’de dehşete düşüren görüntüler… Sel suları, dev köprüyü parçaladı! #shorts</title>
+      <link>https://www.youtube.com/shorts/xFejMn6rWtU</link>
+      <guid isPermaLink="false">xFejMn6rWtU</guid>
+      <pubDate>Wed, 26 Aug 2026 22:45:14 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Nepal’de dehşete düşüren görüntüler… Sel suları, dev köprüyü parçaladı! #shorts</description>
+    </item>
     <item>
       <title>Halk TV: Mehmet Özmen de tutuklandı! Süleymancılara operasyonda 2. dalga!</title>
       <link>https://www.youtube.com/watch?v=6aEfmFVSQZQ</link>
       <guid isPermaLink="false">6aEfmFVSQZQ</guid>
       <pubDate>Wed, 26 Aug 2026 22:40:26 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Mehmet Özmen de tutuklandı! Süleymancılara operasyonda 2. dalga!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İmamoğlu İsyan Etti! Hakimin O Sözleri Salonunu Karıştırdı! Mahkemede Mikrofonlar Kesildi</title>
+      <link>https://www.youtube.com/watch?v=LBxbRyHzZ1Q</link>
+      <guid isPermaLink="false">LBxbRyHzZ1Q</guid>
+      <pubDate>Wed, 26 Aug 2026 22:40:02 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İmamoğlu İsyan Etti! Hakimin O Sözleri Salonunu Karıştırdı! Mahkemede Mikrofonlar Kesildi</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Ümit Özdağ, partisinin kuruluşunun 5'inci yılı dolayısıyla açıklama yapıyor #Canlı</title>
@@ -92,11 +106,11 @@
       <description>SÖZCÜ TV kanalından yeni video: Özgür Tör'den 1932 Barzani Operasyonunu Tek Tek Anlattı! Sınırımızdaki Yabancı İstihbarat Oyunları</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | Kürşad Oğuz ile Rota</title>
+      <title>Halk TV: Kürşad Oğuz ile Rota (26 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=CC6P395E3fE</link>
       <guid isPermaLink="false">CC6P395E3fE</guid>
       <pubDate>Wed, 26 Aug 2026 21:59:55 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Kürşad Oğuz ile Rota</description>
+      <description>Halk TV kanalından yeni video: Kürşad Oğuz ile Rota (26 Ağustos 2026)</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Haber Saati | Serap Belovacıklı</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">aJNkbFaOxGo</guid>
       <pubDate>Wed, 26 Aug 2026 18:45:25 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ANKARA'DA YER YERİNDEN OYNAR! Öcalan alt kurulda görev alacak mı? Mithat Sancar neler açıkladı neler</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: İBB davasında yargısız infazın son perdesi mi? İlkan Dalkuç'tan İmamoğlu tespiti!</title>
-      <link>https://www.youtube.com/watch?v=7YQWrArHuYM</link>
-      <guid isPermaLink="false">7YQWrArHuYM</guid>
-      <pubDate>Wed, 26 Aug 2026 18:45:23 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: İBB davasında yargısız infazın son perdesi mi? İlkan Dalkuç'tan İmamoğlu tespiti!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İsrailli Bakan'dan Küstah Türkiye Çıkışı! Katz'dan Şam ve Ankara'ya Haddini Aşan Sözler</title>
-      <link>https://www.youtube.com/watch?v=NCEVbfkAyWg</link>
-      <guid isPermaLink="false">NCEVbfkAyWg</guid>
-      <pubDate>Wed, 26 Aug 2026 18:45:17 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İsrailli Bakan'dan Küstah Türkiye Çıkışı! Katz'dan Şam ve Ankara'ya Haddini Aşan Sözler</description>
     </item>
   </channel>
 </rss>
