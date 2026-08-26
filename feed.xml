@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 07:25:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 07:30:44 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Kurtulmuş, Büyük Taarruz'un 104'üncü Yıl Dönümü ve Zafer Haftası Programında konuşuyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=7Tfj1h9dqYo</link>
+      <guid isPermaLink="false">7Tfj1h9dqYo</guid>
+      <pubDate>Wed, 26 Aug 2026 07:24:53 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Kurtulmuş, Büyük Taarruz'un 104'üncü Yıl Dönümü ve Zafer Haftası Programında konuşuyor #Canlı</description>
+    </item>
     <item>
       <title>Tele2 Haber: İnan Demirel ile Gündemdekiler | Konuk: Nurcan Bilge Gökdemir</title>
       <link>https://www.youtube.com/watch?v=ANXdRI0CENc</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">5fiESSB2ueg</guid>
       <pubDate>Tue, 25 Aug 2026 20:10:22 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SON DAKİKA! Mazlum Abdi açıkladı! Ahmet Şara ile varılan anlaşma kapsamında SDG feshedildi!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: MASAK Raporu Sızdı! Cem Küçük ve Tahir Sarıkaya'nın Milyonluk Ortak Para Trafiği İfşa Oldu!</title>
-      <link>https://www.youtube.com/watch?v=1Olaq8qlV3Q</link>
-      <guid isPermaLink="false">1Olaq8qlV3Q</guid>
-      <pubDate>Tue, 25 Aug 2026 20:00:21 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: MASAK Raporu Sızdı! Cem Küçük ve Tahir Sarıkaya'nın Milyonluk Ortak Para Trafiği İfşa Oldu!</description>
     </item>
   </channel>
 </rss>
