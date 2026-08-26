@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 17:30:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 17:35:44 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Süleymancıların tutuklu lideri Alihan Kuriş, dayısını öldürtmekle suçlanıyor!</title>
+      <link>https://www.youtube.com/watch?v=Y9iCESCqfRQ</link>
+      <guid isPermaLink="false">Y9iCESCqfRQ</guid>
+      <pubDate>Wed, 26 Aug 2026 17:30:35 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Süleymancıların tutuklu lideri Alihan Kuriş, dayısını öldürtmekle suçlanıyor!</description>
+    </item>
     <item>
       <title>Halk TV: YENİ Parti İstanbul İl Başkanlığı, Şile'de "Milli İradeye Saygı Yürüyüşü" Düzenledi!</title>
       <link>https://www.youtube.com/watch?v=ulFtnDuaFao</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ldjBNcu-qFw</guid>
       <pubDate>Wed, 26 Aug 2026 14:30:39 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Gökçe Gökçen'den Mehmet Uçum'un AİHM ve Osman Kavala açıklamalarına sert tepki!</description>
-    </item>
-    <item>
-      <title>Halk TV: BİLİRKİŞİ RAPORU ORTAYA ÇIKTI! Süleymancıların eski lideri öldürüldü mü? Ersin Eroğlu anlattı!</title>
-      <link>https://www.youtube.com/watch?v=ar1uw4U2778</link>
-      <guid isPermaLink="false">ar1uw4U2778</guid>
-      <pubDate>Wed, 26 Aug 2026 14:30:33 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BİLİRKİŞİ RAPORU ORTAYA ÇIKTI! Süleymancıların eski lideri öldürüldü mü? Ersin Eroğlu anlattı!</description>
     </item>
   </channel>
 </rss>
