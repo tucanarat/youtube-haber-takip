@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 21:20:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 21:25:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SON NOKTAYI KOYDU? Yaşar Tüzün 'Karar çoktan verildi' dedi, o isimlere esti gürledi!</title>
+      <link>https://www.youtube.com/watch?v=aRzmXIXj7ts</link>
+      <guid isPermaLink="false">aRzmXIXj7ts</guid>
+      <pubDate>Wed, 26 Aug 2026 21:20:27 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON NOKTAYI KOYDU? Yaşar Tüzün 'Karar çoktan verildi' dedi, o isimlere esti gürledi!</description>
+    </item>
     <item>
       <title>Halk TV: Nepal'den dehşet verici görüntüler gelmeye devam ediyor! Onlarca kişi can verdi! #shorts</title>
       <link>https://www.youtube.com/shorts/rKPYFjjnTls</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">NtAdl_lMq9U</guid>
       <pubDate>Wed, 26 Aug 2026 17:04:27 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (26 Ağustos 2026)</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: ROJİN KABAİŞ'İN ÖLÜMÜ İLE İLGİLİ KORKUNÇ İDDİA! FELÇ EDİLDİ...</title>
-      <link>https://www.youtube.com/shorts/QPaZq5OFogU</link>
-      <guid isPermaLink="false">QPaZq5OFogU</guid>
-      <pubDate>Wed, 26 Aug 2026 17:01:02 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: ROJİN KABAİŞ'İN ÖLÜMÜ İLE İLGİLİ KORKUNÇ İDDİA! FELÇ EDİLDİ...</description>
     </item>
   </channel>
 </rss>
