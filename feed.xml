@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 19:25:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 19:30:42 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ERDOĞAN İNANMAKTA ZORLANACAK! Özgür Özel fırtınası taş üstünde taş bırakmıyor! Ezip geçecek oran!</title>
+      <link>https://www.youtube.com/watch?v=mq8bfwyKuS0</link>
+      <guid isPermaLink="false">mq8bfwyKuS0</guid>
+      <pubDate>Wed, 26 Aug 2026 19:20:28 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ERDOĞAN İNANMAKTA ZORLANACAK! Özgür Özel fırtınası taş üstünde taş bırakmıyor! Ezip geçecek oran!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Nepal Kıyameti Yaşıyor! Kan Donduran Sel Felaketi! 95 Ölü 384 Kişi Kayıp! Şi Cinping Teyakkuzda</title>
       <link>https://www.youtube.com/watch?v=uI3xzpVeTfM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ThhAm2cSSeo</guid>
       <pubDate>Wed, 26 Aug 2026 16:16:16 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Murat Taylan'dan 51 isme ihraç isteyen butlancılara: Zeydan Karalar'ı niye ihraç etmiyorsunuz?</description>
-    </item>
-    <item>
-      <title>Halk TV: Yakınlarının mezarları başında sabahlıyordu, şimdi belediye misafirhanesinde kalıyor! #shorts</title>
-      <link>https://www.youtube.com/shorts/sB3FtC-Apk0</link>
-      <guid isPermaLink="false">sB3FtC-Apk0</guid>
-      <pubDate>Wed, 26 Aug 2026 16:15:36 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Yakınlarının mezarları başında sabahlıyordu, şimdi belediye misafirhanesinde kalıyor! #shorts</description>
     </item>
   </channel>
 </rss>
