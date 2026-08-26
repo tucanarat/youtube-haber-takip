@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 16:30:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 16:35:28 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI YENİ Parti İstanbul İl Başkanlığı, Şile'de "Milli İradeye Saygı Yürüyüşü" düzenliyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=G4j_1_zmfms</link>
+      <guid isPermaLink="false">G4j_1_zmfms</guid>
+      <pubDate>Wed, 26 Aug 2026 16:33:26 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti İstanbul İl Başkanlığı, Şile'de "Milli İradeye Saygı Yürüyüşü" düzenliyor #Canlı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Tom Barrack Duyurdu! SDG Feshedildi! Suriye'de Kritik Anlaşma! Ortadoğu'da Yeni Dönem</title>
       <link>https://www.youtube.com/watch?v=qLgcRlGI27Q</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">KteeYhKSa9E</guid>
       <pubDate>Wed, 26 Aug 2026 13:50:37 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Mustafa Balbay ile Ankara'da bu hafta: Erken seçim mi geliyor? Bahçeli'den dikkat çeken açıklama</description>
-    </item>
-    <item>
-      <title>Halk TV: Nepal'deki felaketi gözler önüne seren görüntü!</title>
-      <link>https://www.youtube.com/shorts/JHQRKGhI6xc</link>
-      <guid isPermaLink="false">JHQRKGhI6xc</guid>
-      <pubDate>Wed, 26 Aug 2026 13:50:19 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Nepal'deki felaketi gözler önüne seren görüntü!</description>
     </item>
   </channel>
 </rss>
