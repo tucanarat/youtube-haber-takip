@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 13:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 13:25:25 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: AİHM'nin Osman Kavala kararı medyada nasıl yer aldı? Faruk Bildirici yorumladı...</title>
+      <link>https://www.youtube.com/watch?v=BeJCTjGCX7U</link>
+      <guid isPermaLink="false">BeJCTjGCX7U</guid>
+      <pubDate>Wed, 26 Aug 2026 13:15:22 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: AİHM'nin Osman Kavala kararı medyada nasıl yer aldı? Faruk Bildirici yorumladı...</description>
+    </item>
+    <item>
+      <title>Halk TV: SİCİLİ KABARIK ÇIKMIŞTI! Eski bakanın araç kiraladığı şirketin sahibi Mehmet Özmen de tutuklandı!</title>
+      <link>https://www.youtube.com/watch?v=F9X8roaG75g</link>
+      <guid isPermaLink="false">F9X8roaG75g</guid>
+      <pubDate>Wed, 26 Aug 2026 13:15:11 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SİCİLİ KABARIK ÇIKMIŞTI! Eski bakanın araç kiraladığı şirketin sahibi Mehmet Özmen de tutuklandı!</description>
+    </item>
     <item>
       <title>Cumhuriyet: YENİ Partili Bakırlıoğlu’ndan Başaran Aksu'nun gözaltına alınmasına sert tepki</title>
       <link>https://www.youtube.com/shorts/GwUkoEhqcVg</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">zaNDO-U4cSs</guid>
       <pubDate>Wed, 26 Aug 2026 10:31:07 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: İBB davasında 70. Gün! Murat Ongun’un avukatı mahkemede soru soramadıklarını dile getirdi</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İBAN ile Ödeme Alanlar Dikkat! 35 Milyon TL Ceza Kapıda! | Mahmut Aydoğmuş | Vergi Kafe</title>
-      <link>https://www.youtube.com/watch?v=-KKDj6WaKo8</link>
-      <guid isPermaLink="false">-KKDj6WaKo8</guid>
-      <pubDate>Wed, 26 Aug 2026 10:30:50 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İBAN ile Ödeme Alanlar Dikkat! 35 Milyon TL Ceza Kapıda! | Mahmut Aydoğmuş | Vergi Kafe</description>
-    </item>
-    <item>
-      <title>Halk TV: KORKUNÇ CİNAYET! Bedriye Naz'ı camdan attı, ailesini arayıp "öldü gelin kızınızı alın" dedi!</title>
-      <link>https://www.youtube.com/watch?v=6wJRf0uaEdM</link>
-      <guid isPermaLink="false">6wJRf0uaEdM</guid>
-      <pubDate>Wed, 26 Aug 2026 10:30:27 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KORKUNÇ CİNAYET! Bedriye Naz'ı camdan attı, ailesini arayıp "öldü gelin kızınızı alın" dedi!</description>
     </item>
   </channel>
 </rss>
