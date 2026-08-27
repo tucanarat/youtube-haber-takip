@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 10:25:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 10:30:44 +0000</lastBuildDate>
     <item>
       <title>Cumhuriyet: İncir üreticisinin 'maliyet' isyanı: Ürün para etmiyor</title>
       <link>https://www.youtube.com/watch?v=ezmq5mT7icw</link>
@@ -15,11 +15,25 @@
       <description>Cumhuriyet kanalından yeni video: İncir üreticisinin 'maliyet' isyanı: Ürün para etmiyor</description>
     </item>
     <item>
+      <title>Halk TV: #CANLI | Yıllar Sonra Şampiyonlar Ligi'nde Bir İlk! İşte Fenerbahçe ve Galatasaray'ın Rakipleri...</title>
+      <link>https://www.youtube.com/watch?v=6kwt0ijGhbY</link>
+      <guid isPermaLink="false">6kwt0ijGhbY</guid>
+      <pubDate>Thu, 27 Aug 2026 10:24:18 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Yıllar Sonra Şampiyonlar Ligi'nde Bir İlk! İşte Fenerbahçe ve Galatasaray'ın Rakipleri...</description>
+    </item>
+    <item>
       <title>Halk TV: ANKARA DÜĞMEYE BASTI! Süreçte binlerce PKK'lının akıbeti belli oldu! İşte kulisleri sallayan o detay</title>
       <link>https://www.youtube.com/watch?v=jhNnhpvH0NI</link>
       <guid isPermaLink="false">jhNnhpvH0NI</guid>
       <pubDate>Thu, 27 Aug 2026 10:20:01 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ANKARA DÜĞMEYE BASTI! Süreçte binlerce PKK'lının akıbeti belli oldu! İşte kulisleri sallayan o detay</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Müslim Sarı'nın Açıklamalarını Mansur Yavaş Yalanladı! "Meclis Aritmetiği Önemli!"</title>
+      <link>https://www.youtube.com/watch?v=qXulxr-g_Ww</link>
+      <guid isPermaLink="false">qXulxr-g_Ww</guid>
+      <pubDate>Thu, 27 Aug 2026 10:19:43 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Müslim Sarı'nın Açıklamalarını Mansur Yavaş Yalanladı! "Meclis Aritmetiği Önemli!"</description>
     </item>
     <item>
       <title>SÖZCÜ TV: "Nasıl yani, bu dünyada benim annem nasıl olmaz?" İsmail Küçükkaya'nın Duygusalar Anları #shorts</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">ggPSeX1_uN4</guid>
       <pubDate>Thu, 27 Aug 2026 08:21:37 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Şile Belediye Başkanvekili AKP'ye geçmişti! Cemal Enginyurt: Neden korktun Sacit?</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: "Kırmızı Çizgim Atatürk!" | Serap Belovacıklı'nın Bilinmeyenleri #shorts</title>
-      <link>https://www.youtube.com/shorts/_YHJNcFcFJs</link>
-      <guid isPermaLink="false">_YHJNcFcFJs</guid>
-      <pubDate>Thu, 27 Aug 2026 08:15:34 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: "Kırmızı Çizgim Atatürk!" | Serap Belovacıklı'nın Bilinmeyenleri #shorts</description>
-    </item>
-    <item>
-      <title>Halk TV: İftiraya maruz kalan Yeni Partili başkan çocuğunun masrafları için aracını satılığa çıkardı</title>
-      <link>https://www.youtube.com/watch?v=_2YfuOrZFj4</link>
-      <guid isPermaLink="false">_2YfuOrZFj4</guid>
-      <pubDate>Thu, 27 Aug 2026 08:15:25 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İftiraya maruz kalan Yeni Partili başkan çocuğunun masrafları için aracını satılığa çıkardı</description>
     </item>
   </channel>
 </rss>
