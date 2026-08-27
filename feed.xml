@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 11:45:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 11:50:34 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Ahmet Yavuz'dan Çok Sert Çerçeve Yasa Yorumu! "Ciddi Yıkımlara Yol Açabileceğini Seziyoruz!"</title>
+      <link>https://www.youtube.com/watch?v=GWCN-OxxdBs</link>
+      <guid isPermaLink="false">GWCN-OxxdBs</guid>
+      <pubDate>Thu, 27 Aug 2026 11:50:01 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Ahmet Yavuz'dan Çok Sert Çerçeve Yasa Yorumu! "Ciddi Yıkımlara Yol Açabileceğini Seziyoruz!"</description>
+    </item>
     <item>
       <title>Tele2 Haber: UĞUR EMEK KORKUNÇ YOKSULLUK TABLOSUNU ANLATTI!</title>
       <link>https://www.youtube.com/shorts/vs6DFIBDOKU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">AFwOuUlnkIY</guid>
       <pubDate>Thu, 27 Aug 2026 09:57:33 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Gülşah Ekinci ile Neden Sonuç | Mehmet Tezkan (27 Ağustos 2026)</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Murat Taylan ile Haber-Yorum (27.08.2026)</title>
-      <link>https://www.youtube.com/watch?v=gPukuoW9siI</link>
-      <guid isPermaLink="false">gPukuoW9siI</guid>
-      <pubDate>Thu, 27 Aug 2026 09:57:12 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Murat Taylan ile Haber-Yorum (27.08.2026)</description>
     </item>
   </channel>
 </rss>
