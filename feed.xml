@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 06:55:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 07:00:51 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Sendikacılar Gökay Çakır ve Başaran Aksu tutuklandı! O isim perde arkasındaki şok gerçeği açıkladı!</title>
+      <link>https://www.youtube.com/watch?v=0wz_-vuxjes</link>
+      <guid isPermaLink="false">0wz_-vuxjes</guid>
+      <pubDate>Thu, 27 Aug 2026 06:50:47 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Sendikacılar Gökay Çakır ve Başaran Aksu tutuklandı! O isim perde arkasındaki şok gerçeği açıkladı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Mazlum Abdi ve Trump'ın Hain Planlarını Naim Babüroğlu'ndan Dinleyin! HEDEF TÜRKİYE</title>
       <link>https://www.youtube.com/watch?v=TNWHalybQbk</link>
@@ -34,6 +41,13 @@
       <guid isPermaLink="false">l6bVawoOb2w</guid>
       <pubDate>Thu, 27 Aug 2026 05:14:58 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: S Raporu | Nagihan Turhan</description>
+    </item>
+    <item>
+      <title>Halk TV: Süheyla Demir ile Günaydın Türkiye (27 Ağustos 2026)</title>
+      <link>https://www.youtube.com/watch?v=uwb0Y37lJzk</link>
+      <guid isPermaLink="false">uwb0Y37lJzk</guid>
+      <pubDate>Thu, 27 Aug 2026 05:10:14 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Süheyla Demir ile Günaydın Türkiye (27 Ağustos 2026)</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Sözcü ile Uyanma Vakti | Dilan Polat | 27 Ağustos</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">-aSQeHJUyNE</guid>
       <pubDate>Wed, 26 Aug 2026 19:40:01 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Butlan CHP'sinde 'genel başkanlık' tartışması kızışıyor! Müslim Sarı'dan kritik bir açıklama geldi!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İsrail'i Koruyan Zayıf Suriye Tasarımının Perde Arkası! Gizli Şara Anlaşması! ABD'nin Yeni İttifakı</title>
-      <link>https://www.youtube.com/watch?v=R-jKtBg2Tgc</link>
-      <guid isPermaLink="false">R-jKtBg2Tgc</guid>
-      <pubDate>Wed, 26 Aug 2026 19:30:25 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İsrail'i Koruyan Zayıf Suriye Tasarımının Perde Arkası! Gizli Şara Anlaşması! ABD'nin Yeni İttifakı</description>
-    </item>
-    <item>
-      <title>Halk TV: ERDOĞAN İNANMAKTA ZORLANACAK! Özgür Özel fırtınası taş üstünde taş bırakmıyor! Ezip geçecek oran!</title>
-      <link>https://www.youtube.com/watch?v=mq8bfwyKuS0</link>
-      <guid isPermaLink="false">mq8bfwyKuS0</guid>
-      <pubDate>Wed, 26 Aug 2026 19:20:28 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ERDOĞAN İNANMAKTA ZORLANACAK! Özgür Özel fırtınası taş üstünde taş bırakmıyor! Ezip geçecek oran!</description>
     </item>
   </channel>
 </rss>
