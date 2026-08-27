@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 08:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 08:40:35 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Gökay Çakır ve Başaran Aksu tutuklandı... "UTANÇ VERİCİ BİR TABLONUN İÇİNDEYİZ"</title>
+      <link>https://www.youtube.com/watch?v=h5deV5dn-AQ</link>
+      <guid isPermaLink="false">h5deV5dn-AQ</guid>
+      <pubDate>Thu, 27 Aug 2026 08:34:44 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Gökay Çakır ve Başaran Aksu tutuklandı... "UTANÇ VERİCİ BİR TABLONUN İÇİNDEYİZ"</description>
+    </item>
     <item>
       <title>Halk TV: SON DAKİKA! BUTLAN SÖZCÜSÜ İDDİA ETTİĞİYLE KALDI! Mansur Yavaş'tan bomba açıklama! Böyle yalanladı!</title>
       <link>https://www.youtube.com/watch?v=wOv1xGSeg1c</link>
@@ -55,6 +62,13 @@
       <guid isPermaLink="false">2yiW6D6xTCk</guid>
       <pubDate>Thu, 27 Aug 2026 08:27:36 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Sabancı Müzesi’nde Yoko Ono Sergisi: Hisset... Haykır... Hayal et... - Zeynep Oral</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: İmralı Heyeti Ankara'da Gazetecilerle Buluştu! İmralı-Kandil Tutanakları Yalanlandı!</title>
+      <link>https://www.youtube.com/watch?v=zKkdKazOWIU</link>
+      <guid isPermaLink="false">zKkdKazOWIU</guid>
+      <pubDate>Thu, 27 Aug 2026 08:27:16 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: İmralı Heyeti Ankara'da Gazetecilerle Buluştu! İmralı-Kandil Tutanakları Yalanlandı!</description>
     </item>
     <item>
       <title>Cumhuriyet: Şile Belediye Başkanvekili AKP'ye geçmişti! Cemal Enginyurt: Neden korktun Sacit?</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">LBxbRyHzZ1Q</guid>
       <pubDate>Wed, 26 Aug 2026 22:40:02 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İmamoğlu İsyan Etti! Hakimin O Sözleri Salonunu Karıştırdı! Mahkemede Mikrofonlar Kesildi</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Ümit Özdağ, partisinin kuruluşunun 5'inci yılı dolayısıyla açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=ELq2scTHIzw</link>
-      <guid isPermaLink="false">ELq2scTHIzw</guid>
-      <pubDate>Wed, 26 Aug 2026 22:35:47 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Ümit Özdağ, partisinin kuruluşunun 5'inci yılı dolayısıyla açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: Nepal'de durum felaket boyutta...Onlarca kişi can verdi 500'e yakın kişi ise kayıp durumda! #shorts</title>
-      <link>https://www.youtube.com/shorts/Yq0pCjHXh4A</link>
-      <guid isPermaLink="false">Yq0pCjHXh4A</guid>
-      <pubDate>Wed, 26 Aug 2026 22:30:13 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Nepal'de durum felaket boyutta...Onlarca kişi can verdi 500'e yakın kişi ise kayıp durumda! #shorts</description>
     </item>
   </channel>
 </rss>
