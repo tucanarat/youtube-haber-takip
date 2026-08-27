@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 21:50:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 21:55:23 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Burçin Atılgan ile Gündem Özel | #Halktv</title>
+      <link>https://www.youtube.com/watch?v=3MrqfTdw0dA</link>
+      <guid isPermaLink="false">3MrqfTdw0dA</guid>
+      <pubDate>Thu, 27 Aug 2026 21:54:52 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Burçin Atılgan ile Gündem Özel | #Halktv</description>
+    </item>
     <item>
       <title>Halk TV: Afyonkarahisar’da orman yangını! Alevler kısa sürede geniş alana yayıldı! #shorts</title>
       <link>https://www.youtube.com/shorts/fGhJEMLJXJk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">qUXcHyurirk</guid>
       <pubDate>Thu, 27 Aug 2026 17:07:12 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Sözcü Ana Haber |  Senem Toluay Ilgaz | 27 Ağustos</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Nepal'de sel felaketi! | Manifest'in menajeri Tolga Akış gözaltında! Murat Taylan ile Haber-Yorum</title>
-      <link>https://www.youtube.com/watch?v=gPukuoW9siI</link>
-      <guid isPermaLink="false">gPukuoW9siI</guid>
-      <pubDate>Thu, 27 Aug 2026 17:06:52 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Nepal'de sel felaketi! | Manifest'in menajeri Tolga Akış gözaltında! Murat Taylan ile Haber-Yorum</description>
     </item>
   </channel>
 </rss>
