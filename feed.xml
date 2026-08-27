@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 08:15:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 08:20:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: İftiraya maruz kalan Yeni Partili başkan çocuğunun masrafları için aracını satılığa çıkardı</title>
+      <link>https://www.youtube.com/watch?v=_2YfuOrZFj4</link>
+      <guid isPermaLink="false">_2YfuOrZFj4</guid>
+      <pubDate>Thu, 27 Aug 2026 08:15:25 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İftiraya maruz kalan Yeni Partili başkan çocuğunun masrafları için aracını satılığa çıkardı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Sözcü Masası | Damla Doğan Tuncel | 27 Ağustos</title>
       <link>https://www.youtube.com/watch?v=i3_o8KRRdA4</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">MXRDthtmF6U</guid>
       <pubDate>Wed, 26 Aug 2026 22:00:19 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Özgür Tör'den 1932 Barzani Operasyonunu Tek Tek Anlattı! Sınırımızdaki Yabancı İstihbarat Oyunları</description>
-    </item>
-    <item>
-      <title>Halk TV: Kürşad Oğuz ile Rota (26 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=CC6P395E3fE</link>
-      <guid isPermaLink="false">CC6P395E3fE</guid>
-      <pubDate>Wed, 26 Aug 2026 21:59:55 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Kürşad Oğuz ile Rota (26 Ağustos 2026)</description>
     </item>
   </channel>
 </rss>
