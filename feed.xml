@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 19:00:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 19:05:24 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: BU SÖZLER ERDOĞAN'A NE YAPACAĞINI ŞAŞIRTIR! Mahmut Arıkan'dan çok sert sözler! Yer yerinden oynar!</title>
+      <link>https://www.youtube.com/watch?v=R7lY8_teGJM</link>
+      <guid isPermaLink="false">R7lY8_teGJM</guid>
+      <pubDate>Thu, 27 Aug 2026 19:00:20 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BU SÖZLER ERDOĞAN'A NE YAPACAĞINI ŞAŞIRTIR! Mahmut Arıkan'dan çok sert sözler! Yer yerinden oynar!</description>
+    </item>
     <item>
       <title>Tele2 Haber: İktidar bu işten paçayı sıyıramayacak mı? AİHM'in Osman Kavala kararının tüm yönleri...</title>
       <link>https://www.youtube.com/watch?v=MBx1d2qjtsU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">lpIlS8jutcY</guid>
       <pubDate>Thu, 27 Aug 2026 15:51:29 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İçinizden Biri | Ekrem Açıkel | 27 Ağustos</description>
-    </item>
-    <item>
-      <title>Halk TV: MADENCİNİN PARASI YATMAYA BAŞLADI! Ankara’da sloganlar meydanı inletti! Bu sözler tarihe geçer!</title>
-      <link>https://www.youtube.com/watch?v=vfqzmu_vWYk</link>
-      <guid isPermaLink="false">vfqzmu_vWYk</guid>
-      <pubDate>Thu, 27 Aug 2026 15:50:12 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: MADENCİNİN PARASI YATMAYA BAŞLADI! Ankara’da sloganlar meydanı inletti! Bu sözler tarihe geçer!</description>
     </item>
   </channel>
 </rss>
