@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 21:05:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 21:10:32 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Masada Ne Var? | Burak Tatari | 27 Ağustos</title>
+      <link>https://www.youtube.com/watch?v=EAODVtIKI4Q</link>
+      <guid isPermaLink="false">EAODVtIKI4Q</guid>
+      <pubDate>Thu, 27 Aug 2026 21:06:25 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Masada Ne Var? | Burak Tatari | 27 Ağustos</description>
+    </item>
     <item>
       <title>Tele2 Haber: İmralı tutanakları tartışması! PKK'nın "Lozan" amacı!</title>
       <link>https://www.youtube.com/shorts/8s4zi70cyqY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">sa2xK6O_DHI</guid>
       <pubDate>Thu, 27 Aug 2026 16:56:08 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: MANSUR YAVAŞ 'ORTAK ADAYLIK'MI İSTİYOR? MURAT TAYLAN YORUMLADI</description>
-    </item>
-    <item>
-      <title>Halk TV: ERDOĞAN BU SÖZLERE KÖPÜRECEK! AKP'nin ağır topu Hüseyin Çelik açtı ağzını yumdu gözünü! Yok böylesi!</title>
-      <link>https://www.youtube.com/watch?v=B5M9WfHPAT0</link>
-      <guid isPermaLink="false">B5M9WfHPAT0</guid>
-      <pubDate>Thu, 27 Aug 2026 16:50:32 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ERDOĞAN BU SÖZLERE KÖPÜRECEK! AKP'nin ağır topu Hüseyin Çelik açtı ağzını yumdu gözünü! Yok böylesi!</description>
     </item>
   </channel>
 </rss>
