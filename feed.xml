@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 13:45:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 13:50:32 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Rojin Kabaiş Zehirlenerek mi Öldü? Babası Nizameetin Kabaiş Sözcü Televizyonu'na Anlatıyor</title>
+      <link>https://www.youtube.com/watch?v=nXgrVsjJpp4</link>
+      <guid isPermaLink="false">nXgrVsjJpp4</guid>
+      <pubDate>Thu, 27 Aug 2026 13:42:53 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Rojin Kabaiş Zehirlenerek mi Öldü? Babası Nizameetin Kabaiş Sözcü Televizyonu'na Anlatıyor</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Yurttaşlara sorduk... Erken seçim olmalı mı?</title>
+      <link>https://www.youtube.com/watch?v=3i94kBKt8CU</link>
+      <guid isPermaLink="false">3i94kBKt8CU</guid>
+      <pubDate>Thu, 27 Aug 2026 13:42:36 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Yurttaşlara sorduk... Erken seçim olmalı mı?</description>
+    </item>
     <item>
       <title>Tele2 Haber: "KAYGILIYIZ!" Çerçeve Yasa'ye İlişkin Ahmet Yavuz'dan Sert Mesaj!</title>
       <link>https://www.youtube.com/watch?v=CEYLhhXeBU0</link>
@@ -55,13 +69,6 @@
       <guid isPermaLink="false">oL4PXg2nntU</guid>
       <pubDate>Thu, 27 Aug 2026 13:00:40 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: 'Türkiye'den Bölge Kopararak...' Ümit Özdağ Netanyahu'nun Tehlikeli Planını İfşa Etti!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: #CANLI Rojin Kabaiş Zehirlenerek mi Öldü? Babası Nizameetin Kabaiş Sözcü Televizyonu'na Anlatıyor</title>
-      <link>https://www.youtube.com/watch?v=nXgrVsjJpp4</link>
-      <guid isPermaLink="false">nXgrVsjJpp4</guid>
-      <pubDate>Thu, 27 Aug 2026 13:00:40 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: #CANLI Rojin Kabaiş Zehirlenerek mi Öldü? Babası Nizameetin Kabaiş Sözcü Televizyonu'na Anlatıyor</description>
     </item>
     <item>
       <title>Halk TV: İrem Sansak ile Haber Masası (27 Ağustos 2026)</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">on0F25FC0Pg</guid>
       <pubDate>Thu, 27 Aug 2026 11:15:18 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "Bazıları Krizden Beslenerek Çıkar!" Uğur Emek'ten Çarpıcı Ekonomik Kriz Tepkisi!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: UĞUR EMEK KORKUNÇ YOKSULLUK TABLOSUNU ANLATTI!</title>
-      <link>https://www.youtube.com/shorts/WsceJzklAGE</link>
-      <guid isPermaLink="false">WsceJzklAGE</guid>
-      <pubDate>Thu, 27 Aug 2026 11:12:36 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: UĞUR EMEK KORKUNÇ YOKSULLUK TABLOSUNU ANLATTI!</description>
     </item>
   </channel>
 </rss>
