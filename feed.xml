@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 08:10:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 08:15:33 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: Sözcü Masası | Damla Doğan Tuncel | 27 Ağustos</title>
       <link>https://www.youtube.com/watch?v=i3_o8KRRdA4</link>
@@ -27,6 +27,13 @@
       <guid isPermaLink="false">t5WyiAS_tlY</guid>
       <pubDate>Thu, 27 Aug 2026 08:00:32 +0000</pubDate>
       <description>Halk TV kanalından yeni video: 18 YILLIK HASRET BİTTİ! Fenerbahçe Fransa'da Lyon'u devirdi, Şampiyonlar Ligi'nde gruplara kaldı!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: 'Erdoğan Vefat Etti' Haberi Gözaltı Getirdi! Murat Ağırel'den Gazetecilik İsyanı! Sansür Çıkışı</title>
+      <link>https://www.youtube.com/watch?v=KpoB_TSn3Qw</link>
+      <guid isPermaLink="false">KpoB_TSn3Qw</guid>
+      <pubDate>Thu, 27 Aug 2026 08:00:27 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: 'Erdoğan Vefat Etti' Haberi Gözaltı Getirdi! Murat Ağırel'den Gazetecilik İsyanı! Sansür Çıkışı</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | Gülşah Ekinci ile Neden Sonuç | Mehmet Tezkan</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">CC6P395E3fE</guid>
       <pubDate>Wed, 26 Aug 2026 21:59:55 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Kürşad Oğuz ile Rota (26 Ağustos 2026)</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Haber Saati | Serap Belovacıklı</title>
-      <link>https://www.youtube.com/watch?v=jtvvpPij1X0</link>
-      <guid isPermaLink="false">jtvvpPij1X0</guid>
-      <pubDate>Wed, 26 Aug 2026 21:59:17 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Haber Saati | Serap Belovacıklı</description>
     </item>
   </channel>
 </rss>
