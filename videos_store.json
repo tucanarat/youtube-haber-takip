@@ -12793,7 +12793,7 @@
   },
   "qTCemUs-DO8": {
     "id": "qTCemUs-DO8",
-    "title": "#CANLI Ülkü Çoban ile Manşet Ötesi | Konuklar: Uğur Emek ve Ahmet Yavuz (27.08.2026)",
+    "title": "#CANLI | Mansur Yavaş'tan Butlancılara yalanlama! I Öcalan'a \"hayati görev\" isteği! | Manşet Ötesi",
     "link": "https://www.youtube.com/watch?v=qTCemUs-DO8",
     "published": "2026-08-26T13:51:07+00:00",
     "published_ts": 1787752267,
@@ -13923,8 +13923,8 @@
     "id": "AFwOuUlnkIY",
     "title": "Gülşah Ekinci ile Neden Sonuç | Mehmet Tezkan (27 Ağustos 2026)",
     "link": "https://www.youtube.com/watch?v=AFwOuUlnkIY",
-    "published": "2026-08-27T07:56:17+00:00",
-    "published_ts": 1787817377,
+    "published": "2026-08-27T09:57:33+00:00",
+    "published_ts": 1787824653,
     "channel_name": "Halk TV"
   },
   "t5WyiAS_tlY": {
@@ -14254,5 +14254,21 @@
     "published": "2026-08-27T09:50:49+00:00",
     "published_ts": 1787824249,
     "channel_name": "ANKA Haber Ajansı"
+  },
+  "oJjopBM-Up4": {
+    "id": "oJjopBM-Up4",
+    "title": "#CANLI Güller, Kalaycıoğlu, Solmaztürk ve Solakoğlu ile Türkiye'nin Yönü (27.08.2026)",
+    "link": "https://www.youtube.com/watch?v=oJjopBM-Up4",
+    "published": "2026-08-27T09:58:10+00:00",
+    "published_ts": 1787824690,
+    "channel_name": "Tele2 Haber"
+  },
+  "gPukuoW9siI": {
+    "id": "gPukuoW9siI",
+    "title": "#CANLI Murat Taylan ile Haber-Yorum (27.08.2026)",
+    "link": "https://www.youtube.com/watch?v=gPukuoW9siI",
+    "published": "2026-08-27T09:57:12+00:00",
+    "published_ts": 1787824632,
+    "channel_name": "Tele2 Haber"
   }
 }
