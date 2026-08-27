@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 23:25:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 23:30:39 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: İYİ Parti Genel Başkanı Müsavat Dervişoğlu, Parti Genel Merkezi'nde basın toplantısı düzenliyor</title>
+      <link>https://www.youtube.com/watch?v=0a124QfaQEI</link>
+      <guid isPermaLink="false">0a124QfaQEI</guid>
+      <pubDate>Thu, 27 Aug 2026 23:25:49 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: İYİ Parti Genel Başkanı Müsavat Dervişoğlu, Parti Genel Merkezi'nde basın toplantısı düzenliyor</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Avrupa Korku Oyunu Oynuyor! Karadeniz'de Gizli Hesaplar Var! Putin Gerçeği Ortaya Çıktı</title>
       <link>https://www.youtube.com/watch?v=yVpxyUo7_hc</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">U6TpO56V4zE</guid>
       <pubDate>Thu, 27 Aug 2026 18:15:21 +0000</pubDate>
       <description>Halk TV kanalından yeni video: "AKP ÇÖKÜŞ SÜRECİ İÇİNDE" Ümit Özdağ bombayı patlattı! Bu sözler Erdoğan'a soğuk duş etkisi yaratır!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Referandum Israrının Altında Yatan Asıl Gerçek! Erdoğan'a Bir Dönem Daha Kapısını Aralayan Plan</title>
-      <link>https://www.youtube.com/watch?v=dDXdSm6e56A</link>
-      <guid isPermaLink="false">dDXdSm6e56A</guid>
-      <pubDate>Thu, 27 Aug 2026 18:10:26 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Referandum Israrının Altında Yatan Asıl Gerçek! Erdoğan'a Bir Dönem Daha Kapısını Aralayan Plan</description>
     </item>
   </channel>
 </rss>
