@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 19:05:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 19:10:31 +0000</lastBuildDate>
     <item>
       <title>Halk TV: BU SÖZLER ERDOĞAN'A NE YAPACAĞINI ŞAŞIRTIR! Mahmut Arıkan'dan çok sert sözler! Yer yerinden oynar!</title>
       <link>https://www.youtube.com/watch?v=R7lY8_teGJM</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">MBx1d2qjtsU</guid>
       <pubDate>Thu, 27 Aug 2026 19:00:18 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: İktidar bu işten paçayı sıyıramayacak mı? AİHM'in Osman Kavala kararının tüm yönleri...</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Engin Solakoğlu'ndan çarpıcı 'İmralı tutanakları' çıkışı: Bizi enayi yerine koymanın alemi yok!</title>
+      <link>https://www.youtube.com/watch?v=ldNJwAR4c5Q</link>
+      <guid isPermaLink="false">ldNJwAR4c5Q</guid>
+      <pubDate>Thu, 27 Aug 2026 18:59:15 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Engin Solakoğlu'ndan çarpıcı 'İmralı tutanakları' çıkışı: Bizi enayi yerine koymanın alemi yok!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Kapalı Kapılar Ardındaki '40+1' İddiası Erdoğan'ın Oyunu Ortaya Çıktı! Ankara Kulisleri Yanıyor</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">-wTEFY5Lihs</guid>
       <pubDate>Thu, 27 Aug 2026 15:55:26 +0000</pubDate>
       <description>Halk TV kanalından yeni video: KAZANAN MADENCİLER OLDU! Direnişlerinin Ardından Paraları Yatmaya Başladı! Tarihi Sözler!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İçinizden Biri | Ekrem Açıkel | 27 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=lpIlS8jutcY</link>
-      <guid isPermaLink="false">lpIlS8jutcY</guid>
-      <pubDate>Thu, 27 Aug 2026 15:51:29 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İçinizden Biri | Ekrem Açıkel | 27 Ağustos</description>
     </item>
   </channel>
 </rss>
