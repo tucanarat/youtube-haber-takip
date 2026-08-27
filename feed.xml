@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 18:50:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 18:55:23 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Kapalı Kapılar Ardındaki '40+1' İddiası Erdoğan'ın Oyunu Ortaya Çıktı! Ankara Kulisleri Yanıyor</title>
+      <link>https://www.youtube.com/watch?v=Kbbe-i9yro8</link>
+      <guid isPermaLink="false">Kbbe-i9yro8</guid>
+      <pubDate>Thu, 27 Aug 2026 18:50:27 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Kapalı Kapılar Ardındaki '40+1' İddiası Erdoğan'ın Oyunu Ortaya Çıktı! Ankara Kulisleri Yanıyor</description>
+    </item>
     <item>
       <title>Halk TV: BUTLAN CHP'SİNİN SÖZCÜSÜ REZİL OLDU! Bakın Mansur Yavaş için söylediği hangi sözler yalan çıktı!</title>
       <link>https://www.youtube.com/watch?v=cGo67mT07xY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">S3uuq-KR0RA</guid>
       <pubDate>Thu, 27 Aug 2026 15:40:17 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: DEM Parti Kadıköy İlçe Örgütü, mevsimlik işçilere yönelik saldırıları protesto ediyor #Canlı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Putin Nükleer Silahını Hazırladı! NATO'yu Korku Sardı! ABD Ordusu Avrupa'yı Terk Ediyor!</title>
-      <link>https://www.youtube.com/watch?v=Ju2thhAvorE</link>
-      <guid isPermaLink="false">Ju2thhAvorE</guid>
-      <pubDate>Thu, 27 Aug 2026 15:40:09 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Putin Nükleer Silahını Hazırladı! NATO'yu Korku Sardı! ABD Ordusu Avrupa'yı Terk Ediyor!</description>
     </item>
   </channel>
 </rss>
