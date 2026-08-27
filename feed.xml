@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 18:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 18:05:27 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: "SİZE YUH DİYORUM!" Remzi Çayır, Cumhur'u ve DEM Parti’yi topa tuttu! Bu sözler küplere bindirir!</title>
+      <link>https://www.youtube.com/watch?v=0Zala2dInSw</link>
+      <guid isPermaLink="false">0Zala2dInSw</guid>
+      <pubDate>Thu, 27 Aug 2026 18:00:09 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: "SİZE YUH DİYORUM!" Remzi Çayır, Cumhur'u ve DEM Parti’yi topa tuttu! Bu sözler küplere bindirir!</description>
+    </item>
+    <item>
+      <title>Halk TV: Sinem Fıstıkoğlu ile Halk Ana Haber (27 Ağustos 2026)</title>
+      <link>https://www.youtube.com/watch?v=pxGhiSoOGEg</link>
+      <guid isPermaLink="false">pxGhiSoOGEg</guid>
+      <pubDate>Thu, 27 Aug 2026 17:52:01 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Sinem Fıstıkoğlu ile Halk Ana Haber (27 Ağustos 2026)</description>
+    </item>
     <item>
       <title>Tele2 Haber: "Erkan Mumcu gündeme gelmeye çalışıyor" Murat Taylan'dan 'asıl mesaj iktidara' yorumu!</title>
       <link>https://www.youtube.com/watch?v=KOnl-sDCVzc</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">Jui1NrypIU4</guid>
       <pubDate>Thu, 27 Aug 2026 14:57:38 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Madenciler, Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: Gizem Çetin ile Parantez (27 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=91ZGXwMbxzM</link>
-      <guid isPermaLink="false">91ZGXwMbxzM</guid>
-      <pubDate>Thu, 27 Aug 2026 14:55:51 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Gizem Çetin ile Parantez (27 Ağustos 2026)</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İş Çıkışı | Merve Ekinci 27 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=NYLQp_yZbeg</link>
-      <guid isPermaLink="false">NYLQp_yZbeg</guid>
-      <pubDate>Thu, 27 Aug 2026 14:50:26 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İş Çıkışı | Merve Ekinci 27 Ağustos</description>
     </item>
   </channel>
 </rss>
