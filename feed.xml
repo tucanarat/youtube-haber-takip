@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 08:30:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 08:35:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SON DAKİKA! BUTLAN SÖZCÜSÜ İDDİA ETTİĞİYLE KALDI! Mansur Yavaş'tan bomba açıklama! Böyle yalanladı!</title>
+      <link>https://www.youtube.com/watch?v=wOv1xGSeg1c</link>
+      <guid isPermaLink="false">wOv1xGSeg1c</guid>
+      <pubDate>Thu, 27 Aug 2026 08:30:21 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! BUTLAN SÖZCÜSÜ İDDİA ETTİĞİYLE KALDI! Mansur Yavaş'tan bomba açıklama! Böyle yalanladı!</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI | Sendikacılar Tutuklandı | Süreçte Çarpıcı Öcalan İddiası! | Onur Öncü ile Sabah Pusulası</title>
       <link>https://www.youtube.com/watch?v=z_BdGRyF0Gg</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Yq0pCjHXh4A</guid>
       <pubDate>Wed, 26 Aug 2026 22:30:13 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Nepal'de durum felaket boyutta...Onlarca kişi can verdi 500'e yakın kişi ise kayıp durumda! #shorts</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: #CANLI Cumhurbaşkanı Erdoğan, 955. Yıl Anadolu'nun Fethi Malazgirt 1071 Anma Programı'nda</title>
-      <link>https://www.youtube.com/watch?v=uAeMb4xrvVY</link>
-      <guid isPermaLink="false">uAeMb4xrvVY</guid>
-      <pubDate>Wed, 26 Aug 2026 22:26:24 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI Cumhurbaşkanı Erdoğan, 955. Yıl Anadolu'nun Fethi Malazgirt 1071 Anma Programı'nda</description>
     </item>
   </channel>
 </rss>
