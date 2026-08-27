@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 10:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 10:40:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SEL FELAKETİNİN YENİ GÖRÜNTÜLERİ ORTAYA ÇIKTI! Binlerce insan acı bir şekilde kayıplara karıştı</title>
+      <link>https://www.youtube.com/watch?v=Sew_RFK0sms</link>
+      <guid isPermaLink="false">Sew_RFK0sms</guid>
+      <pubDate>Thu, 27 Aug 2026 10:35:02 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SEL FELAKETİNİN YENİ GÖRÜNTÜLERİ ORTAYA ÇIKTI! Binlerce insan acı bir şekilde kayıplara karıştı</description>
+    </item>
     <item>
       <title>Cumhuriyet: İncir üreticisinin 'maliyet' isyanı: Ürün para etmiyor</title>
       <link>https://www.youtube.com/watch?v=ezmq5mT7icw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">zKkdKazOWIU</guid>
       <pubDate>Thu, 27 Aug 2026 08:27:16 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: İmralı Heyeti Ankara'da Gazetecilerle Buluştu! İmralı-Kandil Tutanakları Yalanlandı!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Şile Belediye Başkanvekili AKP'ye geçmişti! Cemal Enginyurt: Neden korktun Sacit?</title>
-      <link>https://www.youtube.com/watch?v=ggPSeX1_uN4</link>
-      <guid isPermaLink="false">ggPSeX1_uN4</guid>
-      <pubDate>Thu, 27 Aug 2026 08:21:37 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Şile Belediye Başkanvekili AKP'ye geçmişti! Cemal Enginyurt: Neden korktun Sacit?</description>
     </item>
   </channel>
 </rss>
