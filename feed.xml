@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 08:40:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 08:45:36 +0000</lastBuildDate>
     <item>
       <title>Cumhuriyet: Gökay Çakır ve Başaran Aksu tutuklandı... "UTANÇ VERİCİ BİR TABLONUN İÇİNDEYİZ"</title>
       <link>https://www.youtube.com/watch?v=h5deV5dn-AQ</link>
       <guid isPermaLink="false">h5deV5dn-AQ</guid>
       <pubDate>Thu, 27 Aug 2026 08:34:44 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Gökay Çakır ve Başaran Aksu tutuklandı... "UTANÇ VERİCİ BİR TABLONUN İÇİNDEYİZ"</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Dosyaya Fuhuş da Girdi! Murat Ağırel Cem Küçük'ün Kirli Çamaşırlarını Ortaya Döktü!</title>
+      <link>https://www.youtube.com/watch?v=-O6U3J4Di0A</link>
+      <guid isPermaLink="false">-O6U3J4Di0A</guid>
+      <pubDate>Thu, 27 Aug 2026 08:30:33 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Dosyaya Fuhuş da Girdi! Murat Ağırel Cem Küçük'ün Kirli Çamaşırlarını Ortaya Döktü!</description>
     </item>
     <item>
       <title>Halk TV: SON DAKİKA! BUTLAN SÖZCÜSÜ İDDİA ETTİĞİYLE KALDI! Mansur Yavaş'tan bomba açıklama! Böyle yalanladı!</title>
@@ -274,6 +281,13 @@
       <description>Halk TV kanalından yeni video: Sendikacılar Gökay Çakır ve Başaran Aksu tutuklandı! O isim perde arkasındaki şok gerçeği açıkladı!</description>
     </item>
     <item>
+      <title>SÖZCÜ TV: Süleymancı Liderine Yastıkla Suikast! Tüyler Ürperten İddia! Alihan Kuriş'i Murat Ağırel Anlattı</title>
+      <link>https://www.youtube.com/watch?v=YjYDD3OEkZs</link>
+      <guid isPermaLink="false">YjYDD3OEkZs</guid>
+      <pubDate>Thu, 27 Aug 2026 06:39:48 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Süleymancı Liderine Yastıkla Suikast! Tüyler Ürperten İddia! Alihan Kuriş'i Murat Ağırel Anlattı</description>
+    </item>
+    <item>
       <title>SÖZCÜ TV: Mazlum Abdi ve Trump'ın Hain Planlarını Naim Babüroğlu'ndan Dinleyin! HEDEF TÜRKİYE</title>
       <link>https://www.youtube.com/watch?v=TNWHalybQbk</link>
       <guid isPermaLink="false">TNWHalybQbk</guid>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">xFejMn6rWtU</guid>
       <pubDate>Wed, 26 Aug 2026 22:45:14 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Nepal’de dehşete düşüren görüntüler… Sel suları, dev köprüyü parçaladı! #shorts</description>
-    </item>
-    <item>
-      <title>Halk TV: Mehmet Özmen de tutuklandı! Süleymancılara operasyonda 2. dalga!</title>
-      <link>https://www.youtube.com/watch?v=6aEfmFVSQZQ</link>
-      <guid isPermaLink="false">6aEfmFVSQZQ</guid>
-      <pubDate>Wed, 26 Aug 2026 22:40:26 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Mehmet Özmen de tutuklandı! Süleymancılara operasyonda 2. dalga!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İmamoğlu İsyan Etti! Hakimin O Sözleri Salonunu Karıştırdı! Mahkemede Mikrofonlar Kesildi</title>
-      <link>https://www.youtube.com/watch?v=LBxbRyHzZ1Q</link>
-      <guid isPermaLink="false">LBxbRyHzZ1Q</guid>
-      <pubDate>Wed, 26 Aug 2026 22:40:02 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İmamoğlu İsyan Etti! Hakimin O Sözleri Salonunu Karıştırdı! Mahkemede Mikrofonlar Kesildi</description>
     </item>
   </channel>
 </rss>
