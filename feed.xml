@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 17:45:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 17:50:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SURİYE'DE TARİHİ GELİŞME! SDG'nin sonu neyin başlangıcı oldu? Mehmet Tezkan'dan çarpıcı sözler!</title>
+      <link>https://www.youtube.com/watch?v=Lj08-dACMyA</link>
+      <guid isPermaLink="false">Lj08-dACMyA</guid>
+      <pubDate>Thu, 27 Aug 2026 17:45:29 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SURİYE'DE TARİHİ GELİŞME! SDG'nin sonu neyin başlangıcı oldu? Mehmet Tezkan'dan çarpıcı sözler!</description>
+    </item>
     <item>
       <title>Halk TV: DEHŞETE DÜŞÜREN OLAY! Kadını darbeden şüpheliye müdahale eden polisleri böyle yaraladılar!</title>
       <link>https://www.youtube.com/watch?v=4ghaKAbzVsw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">TjwoOqNHdoY</guid>
       <pubDate>Thu, 27 Aug 2026 14:30:24 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Yeni Parti'ye destek çığ gibi büyüyor! "Paranız yok" dendi, toplanan bağış miktarı dudak uçuklattı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: "KARARI VERİLMİŞ" Ekrem İmamoğlu'ndan Unutulmayacak İsyan! Murat Ağırel Davayı Anlattı</title>
-      <link>https://www.youtube.com/watch?v=rekOHS50ObE</link>
-      <guid isPermaLink="false">rekOHS50ObE</guid>
-      <pubDate>Thu, 27 Aug 2026 14:30:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: "KARARI VERİLMİŞ" Ekrem İmamoğlu'ndan Unutulmayacak İsyan! Murat Ağırel Davayı Anlattı</description>
     </item>
   </channel>
 </rss>
