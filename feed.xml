@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 13:10:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 13:15:39 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: 'Türkiye'den Bölge Kopararak...' Ümit Özdağ Netanyahu'nun Tehlikeli Planını İfşa Etti!</title>
+      <link>https://www.youtube.com/watch?v=oL4PXg2nntU</link>
+      <guid isPermaLink="false">oL4PXg2nntU</guid>
+      <pubDate>Thu, 27 Aug 2026 13:00:40 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: 'Türkiye'den Bölge Kopararak...' Ümit Özdağ Netanyahu'nun Tehlikeli Planını İfşa Etti!</description>
+    </item>
     <item>
       <title>Halk TV: İrem Sansak ile Haber Masası (27 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=Juf0p49trF0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">E9IMzgsdeQQ</guid>
       <pubDate>Thu, 27 Aug 2026 10:57:16 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Uğur Emek'ten Korkunç Yoksulluk Tablosu! "Mehmet Şimşek Ne Yapıyor Bir Anlatsın!"</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: YENİ Parti Grup Başkanvekili Gökhan Günaydın, İzmir İl Başkanlığı'nda konuşuyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=TdQg4hoz3cc</link>
-      <guid isPermaLink="false">TdQg4hoz3cc</guid>
-      <pubDate>Thu, 27 Aug 2026 10:55:19 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Grup Başkanvekili Gökhan Günaydın, İzmir İl Başkanlığı'nda konuşuyor #Canlı</description>
     </item>
   </channel>
 </rss>
