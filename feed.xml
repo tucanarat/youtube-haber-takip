@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 06:50:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 06:55:24 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: Mazlum Abdi ve Trump'ın Hain Planlarını Naim Babüroğlu'ndan Dinleyin! HEDEF TÜRKİYE</title>
       <link>https://www.youtube.com/watch?v=TNWHalybQbk</link>
       <guid isPermaLink="false">TNWHalybQbk</guid>
       <pubDate>Thu, 27 Aug 2026 06:30:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Mazlum Abdi ve Trump'ın Hain Planlarını Naim Babüroğlu'ndan Dinleyin! HEDEF TÜRKİYE</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #CANLI YENİ Parti İstanbul İl Başkanlığı, Şile'de "Milli İradeye Saygı Yürüyüşü" düzenliyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=G4j_1_zmfms</link>
+      <guid isPermaLink="false">G4j_1_zmfms</guid>
+      <pubDate>Thu, 27 Aug 2026 05:22:50 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti İstanbul İl Başkanlığı, Şile'de "Milli İradeye Saygı Yürüyüşü" düzenliyor #Canlı</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Masada Ne Var? | Burak Tatari</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">mq8bfwyKuS0</guid>
       <pubDate>Wed, 26 Aug 2026 19:20:28 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ERDOĞAN İNANMAKTA ZORLANACAK! Özgür Özel fırtınası taş üstünde taş bırakmıyor! Ezip geçecek oran!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Nepal Kıyameti Yaşıyor! Kan Donduran Sel Felaketi! 95 Ölü 384 Kişi Kayıp! Şi Cinping Teyakkuzda</title>
-      <link>https://www.youtube.com/watch?v=uI3xzpVeTfM</link>
-      <guid isPermaLink="false">uI3xzpVeTfM</guid>
-      <pubDate>Wed, 26 Aug 2026 19:15:16 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Nepal Kıyameti Yaşıyor! Kan Donduran Sel Felaketi! 95 Ölü 384 Kişi Kayıp! Şi Cinping Teyakkuzda</description>
     </item>
   </channel>
 </rss>
