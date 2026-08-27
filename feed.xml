@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 13:05:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 13:10:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: İrem Sansak ile Haber Masası (27 Ağustos 2026)</title>
+      <link>https://www.youtube.com/watch?v=Juf0p49trF0</link>
+      <guid isPermaLink="false">Juf0p49trF0</guid>
+      <pubDate>Thu, 27 Aug 2026 13:00:11 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İrem Sansak ile Haber Masası (27 Ağustos 2026)</description>
+    </item>
+    <item>
+      <title>Halk TV: SON DAKİKA! 'Bosna kasabı' olarak bilinen Sırp komutan Ratko Mladic hayatını kaybetti!</title>
+      <link>https://www.youtube.com/watch?v=qHmAJjwO9OQ</link>
+      <guid isPermaLink="false">qHmAJjwO9OQ</guid>
+      <pubDate>Thu, 27 Aug 2026 12:58:27 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! 'Bosna kasabı' olarak bilinen Sırp komutan Ratko Mladic hayatını kaybetti!</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Gizem Çetin ile Parantez</title>
       <link>https://www.youtube.com/watch?v=91ZGXwMbxzM</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">TdQg4hoz3cc</guid>
       <pubDate>Thu, 27 Aug 2026 10:55:19 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Grup Başkanvekili Gökhan Günaydın, İzmir İl Başkanlığı'nda konuşuyor #Canlı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Öğle Bülteni | Gülinay Selçuk | 27 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=s7jdgf1x-y0</link>
-      <guid isPermaLink="false">s7jdgf1x-y0</guid>
-      <pubDate>Thu, 27 Aug 2026 10:55:13 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Öğle Bülteni | Gülinay Selçuk | 27 Ağustos</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: "Bu sorun artık çözülmelidir” #shorts</title>
-      <link>https://www.youtube.com/shorts/qh0C-8ykUEQ</link>
-      <guid isPermaLink="false">qh0C-8ykUEQ</guid>
-      <pubDate>Thu, 27 Aug 2026 10:51:58 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: "Bu sorun artık çözülmelidir” #shorts</description>
     </item>
   </channel>
 </rss>
