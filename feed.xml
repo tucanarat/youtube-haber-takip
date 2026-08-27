@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 12:30:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 12:35:23 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Uğur Emek'ten Kılıçdaroğlu'na Can Alıcı Soru! "CHP İçerisinde Yolsuzluk Yapılıyor mu?"</title>
+      <link>https://www.youtube.com/watch?v=SlIxFZozZCY</link>
+      <guid isPermaLink="false">SlIxFZozZCY</guid>
+      <pubDate>Thu, 27 Aug 2026 12:30:19 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Uğur Emek'ten Kılıçdaroğlu'na Can Alıcı Soru! "CHP İçerisinde Yolsuzluk Yapılıyor mu?"</description>
+    </item>
     <item>
       <title>Halk TV: RUSYA'DA ORTALIK KARIŞTI! CIA Direktörü'nden Putin'e gizli ziyarette şok tehdit! Işın Eliçin anlattı</title>
       <link>https://www.youtube.com/watch?v=o0hsRmKCrho</link>
       <guid isPermaLink="false">o0hsRmKCrho</guid>
       <pubDate>Thu, 27 Aug 2026 12:30:07 +0000</pubDate>
       <description>Halk TV kanalından yeni video: RUSYA'DA ORTALIK KARIŞTI! CIA Direktörü'nden Putin'e gizli ziyarette şok tehdit! Işın Eliçin anlattı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: ABD'nin Yeni Suriye Oyunu! Suriye Ordusunda Özerk Ordu Çatlağı! Özgür Tör Haritada Tehlikeyi Anlattı</title>
+      <link>https://www.youtube.com/watch?v=abtPNsNn7ik</link>
+      <guid isPermaLink="false">abtPNsNn7ik</guid>
+      <pubDate>Thu, 27 Aug 2026 12:30:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: ABD'nin Yeni Suriye Oyunu! Suriye Ordusunda Özerk Ordu Çatlağı! Özgür Tör Haritada Tehlikeyi Anlattı</description>
     </item>
     <item>
       <title>Tele2 Haber: Emrullah Efendi'yi örnek gösterdi! Dilek İmamoğlu İBB Davası'nda yaşananlara isyan etti!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">Sew_RFK0sms</guid>
       <pubDate>Thu, 27 Aug 2026 10:35:02 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SEL FELAKETİNİN YENİ GÖRÜNTÜLERİ ORTAYA ÇIKTI! Binlerce insan acı bir şekilde kayıplara karıştı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: ERKAN BAŞ, BAŞARAN AKSU VE GÖKAY ÇAKIR'IN TUTUKLANMASINA İSYAN ETTİ!</title>
-      <link>https://www.youtube.com/shorts/2gGcrqJINlE</link>
-      <guid isPermaLink="false">2gGcrqJINlE</guid>
-      <pubDate>Thu, 27 Aug 2026 10:34:00 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: ERKAN BAŞ, BAŞARAN AKSU VE GÖKAY ÇAKIR'IN TUTUKLANMASINA İSYAN ETTİ!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Ekrem İmamoğlu İçin Kritik Gün Belli Oldu! İBB Davasında Salonu Buz Kestiren İtirafçı Yanıtı!</title>
-      <link>https://www.youtube.com/watch?v=CYrsx9xHBRE</link>
-      <guid isPermaLink="false">CYrsx9xHBRE</guid>
-      <pubDate>Thu, 27 Aug 2026 10:30:26 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Ekrem İmamoğlu İçin Kritik Gün Belli Oldu! İBB Davasında Salonu Buz Kestiren İtirafçı Yanıtı!</description>
     </item>
   </channel>
 </rss>
