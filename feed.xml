@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 07:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 07:25:26 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Başaran Aksu ve Gökay Çakır Tutuklanma Haberini Alan Madenciler Duruma Tepki Gösterdi!</title>
+      <link>https://www.youtube.com/shorts/5EneSMbs3ms</link>
+      <guid isPermaLink="false">5EneSMbs3ms</guid>
+      <pubDate>Thu, 27 Aug 2026 07:21:49 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Başaran Aksu ve Gökay Çakır Tutuklanma Haberini Alan Madenciler Duruma Tepki Gösterdi!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Başaran Aksu ve Gökay Çakır Tutuklandı! "Ben de Başaran Aksu'yum, Bir Dünya Başaran Aksu Var!"</title>
       <link>https://www.youtube.com/watch?v=qliNOMf6pNg</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">--bGk_1Vqfc</guid>
       <pubDate>Wed, 26 Aug 2026 20:00:31 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Suriye'deki Karanlık ABD İsrail Planı! Ortadoğu'da Gizli Elin Kurduğu Büyük Tuzak! Özgür Tör Anlattı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Moskova'ya İnen ABD Uçağından CIA Direktörü Ratcliffe Çıktı! Putin Harekete Geçti! İngiltere Ayakta</title>
-      <link>https://www.youtube.com/watch?v=Zd3WWaYO7WI</link>
-      <guid isPermaLink="false">Zd3WWaYO7WI</guid>
-      <pubDate>Wed, 26 Aug 2026 19:45:24 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Moskova'ya İnen ABD Uçağından CIA Direktörü Ratcliffe Çıktı! Putin Harekete Geçti! İngiltere Ayakta</description>
     </item>
   </channel>
 </rss>
