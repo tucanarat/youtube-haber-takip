@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 08:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 08:05:27 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Sözcü Masası | Damla Doğan Tuncel | 27 Ağustos</title>
+      <link>https://www.youtube.com/watch?v=i3_o8KRRdA4</link>
+      <guid isPermaLink="false">i3_o8KRRdA4</guid>
+      <pubDate>Thu, 27 Aug 2026 08:04:09 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Sözcü Masası | Damla Doğan Tuncel | 27 Ağustos</description>
+    </item>
+    <item>
+      <title>Halk TV: Gökhan Kayış ile Para Siyaset | Nesrin Nas - Öner Günçavdı (27 Ağustos 2026)</title>
+      <link>https://www.youtube.com/watch?v=5qLz-p1rv-M</link>
+      <guid isPermaLink="false">5qLz-p1rv-M</guid>
+      <pubDate>Thu, 27 Aug 2026 08:01:51 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Gökhan Kayış ile Para Siyaset | Nesrin Nas - Öner Günçavdı (27 Ağustos 2026)</description>
+    </item>
+    <item>
+      <title>Halk TV: 18 YILLIK HASRET BİTTİ! Fenerbahçe Fransa'da Lyon'u devirdi, Şampiyonlar Ligi'nde gruplara kaldı!</title>
+      <link>https://www.youtube.com/watch?v=t5WyiAS_tlY</link>
+      <guid isPermaLink="false">t5WyiAS_tlY</guid>
+      <pubDate>Thu, 27 Aug 2026 08:00:32 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: 18 YILLIK HASRET BİTTİ! Fenerbahçe Fransa'da Lyon'u devirdi, Şampiyonlar Ligi'nde gruplara kaldı!</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Gülşah Ekinci ile Neden Sonuç | Mehmet Tezkan</title>
       <link>https://www.youtube.com/watch?v=AFwOuUlnkIY</link>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">jtvvpPij1X0</guid>
       <pubDate>Wed, 26 Aug 2026 21:59:17 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Haber Saati | Serap Belovacıklı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: S Raporu | Dilan Polat | 27 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=022xC1F4AHY</link>
-      <guid isPermaLink="false">022xC1F4AHY</guid>
-      <pubDate>Wed, 26 Aug 2026 21:58:25 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: S Raporu | Dilan Polat | 27 Ağustos</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Öğle Bülteni | Gülinay Selçuk</title>
-      <link>https://www.youtube.com/watch?v=s7jdgf1x-y0</link>
-      <guid isPermaLink="false">s7jdgf1x-y0</guid>
-      <pubDate>Wed, 26 Aug 2026 21:58:12 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Öğle Bülteni | Gülinay Selçuk</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Sözcü Masası | Damla Doğan Tuncel | 27 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=i3_o8KRRdA4</link>
-      <guid isPermaLink="false">i3_o8KRRdA4</guid>
-      <pubDate>Wed, 26 Aug 2026 21:57:33 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Sözcü Masası | Damla Doğan Tuncel | 27 Ağustos</description>
     </item>
   </channel>
 </rss>
