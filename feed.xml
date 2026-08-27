@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 11:50:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 11:55:33 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: UĞUR EMEK'TEN ÇOK ÇARPICI EKONOMİK KRİZ TEPKİSİ!</title>
+      <link>https://www.youtube.com/shorts/sE-GOvM7VNU</link>
+      <guid isPermaLink="false">sE-GOvM7VNU</guid>
+      <pubDate>Thu, 27 Aug 2026 11:51:16 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: UĞUR EMEK'TEN ÇOK ÇARPICI EKONOMİK KRİZ TEPKİSİ!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Ahmet Yavuz'dan Çok Sert Çerçeve Yasa Yorumu! "Ciddi Yıkımlara Yol Açabileceğini Seziyoruz!"</title>
       <link>https://www.youtube.com/watch?v=GWCN-OxxdBs</link>
       <guid isPermaLink="false">GWCN-OxxdBs</guid>
       <pubDate>Thu, 27 Aug 2026 11:50:01 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Ahmet Yavuz'dan Çok Sert Çerçeve Yasa Yorumu! "Ciddi Yıkımlara Yol Açabileceğini Seziyoruz!"</description>
+    </item>
+    <item>
+      <title>Halk TV: BUTLANCILARI YAKACAK İFŞA! Arka kapıda yürüttükleri sinsi plan ortaya çıktı! Mehmet Tezkan anlattı!</title>
+      <link>https://www.youtube.com/watch?v=s0UMhbk0BVA</link>
+      <guid isPermaLink="false">s0UMhbk0BVA</guid>
+      <pubDate>Thu, 27 Aug 2026 11:45:30 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BUTLANCILARI YAKACAK İFŞA! Arka kapıda yürüttükleri sinsi plan ortaya çıktı! Mehmet Tezkan anlattı!</description>
     </item>
     <item>
       <title>Tele2 Haber: UĞUR EMEK KORKUNÇ YOKSULLUK TABLOSUNU ANLATTI!</title>
@@ -78,11 +92,11 @@
       <description>SÖZCÜ TV kanalından yeni video: İYİ Parti Genel Başkanı Müsavat Dervişoğlu'ndan Kritik Açıklamalar!</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | Aile Dayanışma Ağı 43. Buluşmasını Silivri'de Gerçekleştiriyor!</title>
+      <title>Halk TV: Aile Dayanışma Ağı 43. Buluşmasını Silivri'de Gerçekleştirdi!</title>
       <link>https://www.youtube.com/watch?v=BvlM0AqbQ0k</link>
       <guid isPermaLink="false">BvlM0AqbQ0k</guid>
       <pubDate>Thu, 27 Aug 2026 11:28:02 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Aile Dayanışma Ağı 43. Buluşmasını Silivri'de Gerçekleştiriyor!</description>
+      <description>Halk TV kanalından yeni video: Aile Dayanışma Ağı 43. Buluşmasını Silivri'de Gerçekleştirdi!</description>
     </item>
     <item>
       <title>Cumhuriyet: #CANLI Rojin Kabaiş soruşturmasında yeni gelişme! 2 yıllık rapor açıklanıyor</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">iybDBIMY96g</guid>
       <pubDate>Thu, 27 Aug 2026 10:00:26 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: AKP'de Yer Yerinden Oynadı! Milyonluk Saat İstifa Getirdi! Hediye Dedi Teşekkür Etti</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Güller, Kalaycıoğlu, Solmaztürk ve Solakoğlu ile Türkiye'nin Yönü (27.08.2026)</title>
-      <link>https://www.youtube.com/watch?v=oJjopBM-Up4</link>
-      <guid isPermaLink="false">oJjopBM-Up4</guid>
-      <pubDate>Thu, 27 Aug 2026 09:58:10 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Güller, Kalaycıoğlu, Solmaztürk ve Solakoğlu ile Türkiye'nin Yönü (27.08.2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: Gülşah Ekinci ile Neden Sonuç | Mehmet Tezkan (27 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=AFwOuUlnkIY</link>
-      <guid isPermaLink="false">AFwOuUlnkIY</guid>
-      <pubDate>Thu, 27 Aug 2026 09:57:33 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Gülşah Ekinci ile Neden Sonuç | Mehmet Tezkan (27 Ağustos 2026)</description>
     </item>
   </channel>
 </rss>
