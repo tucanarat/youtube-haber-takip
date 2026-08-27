@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 10:55:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 11:00:58 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: YENİ Parti Grup Başkanvekili Gökhan Günaydın, İzmir İl Başkanlığı'nda konuşuyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=TdQg4hoz3cc</link>
+      <guid isPermaLink="false">TdQg4hoz3cc</guid>
+      <pubDate>Thu, 27 Aug 2026 10:55:19 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Grup Başkanvekili Gökhan Günaydın, İzmir İl Başkanlığı'nda konuşuyor #Canlı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Öğle Bülteni | Gülinay Selçuk | 27 Ağustos</title>
+      <link>https://www.youtube.com/watch?v=s7jdgf1x-y0</link>
+      <guid isPermaLink="false">s7jdgf1x-y0</guid>
+      <pubDate>Thu, 27 Aug 2026 10:55:13 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Öğle Bülteni | Gülinay Selçuk | 27 Ağustos</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: "Bu sorun artık çözülmelidir” #shorts</title>
       <link>https://www.youtube.com/shorts/qh0C-8ykUEQ</link>
@@ -20,6 +34,13 @@
       <guid isPermaLink="false">0a124QfaQEI</guid>
       <pubDate>Thu, 27 Aug 2026 10:50:50 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: İYİ Parti Genel Başkanı Müsavat Dervişoğlu, Parti Genel Merkezi'nde basın toplantısı düzenliyor</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: "İş ve Ticaret Sizin Hayatınız Olmamalı" İsmail Küçükkaya'dan Samimi Açıklamalar #shorts</title>
+      <link>https://www.youtube.com/shorts/CnavVkU5Gyw</link>
+      <guid isPermaLink="false">CnavVkU5Gyw</guid>
+      <pubDate>Thu, 27 Aug 2026 10:45:39 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: "İş ve Ticaret Sizin Hayatınız Olmamalı" İsmail Küçükkaya'dan Samimi Açıklamalar #shorts</description>
     </item>
     <item>
       <title>Cumhuriyet: YENİ Partili Ayhan Barut: Limon üreticisi kara kara düşünüyor...</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">h5deV5dn-AQ</guid>
       <pubDate>Thu, 27 Aug 2026 08:34:44 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Gökay Çakır ve Başaran Aksu tutuklandı... "UTANÇ VERİCİ BİR TABLONUN İÇİNDEYİZ"</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Dosyaya Fuhuş da Girdi! Murat Ağırel Cem Küçük'ün Kirli Çamaşırlarını Ortaya Döktü!</title>
-      <link>https://www.youtube.com/watch?v=-O6U3J4Di0A</link>
-      <guid isPermaLink="false">-O6U3J4Di0A</guid>
-      <pubDate>Thu, 27 Aug 2026 08:30:33 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Dosyaya Fuhuş da Girdi! Murat Ağırel Cem Küçük'ün Kirli Çamaşırlarını Ortaya Döktü!</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! BUTLAN SÖZCÜSÜ İDDİA ETTİĞİYLE KALDI! Mansur Yavaş'tan bomba açıklama! Böyle yalanladı!</title>
-      <link>https://www.youtube.com/watch?v=wOv1xGSeg1c</link>
-      <guid isPermaLink="false">wOv1xGSeg1c</guid>
-      <pubDate>Thu, 27 Aug 2026 08:30:21 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! BUTLAN SÖZCÜSÜ İDDİA ETTİĞİYLE KALDI! Mansur Yavaş'tan bomba açıklama! Böyle yalanladı!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Sendikacılar Tutuklandı | Süreçte Çarpıcı Öcalan İddiası! | Onur Öncü ile Sabah Pusulası</title>
-      <link>https://www.youtube.com/watch?v=z_BdGRyF0Gg</link>
-      <guid isPermaLink="false">z_BdGRyF0Gg</guid>
-      <pubDate>Thu, 27 Aug 2026 08:29:51 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Sendikacılar Tutuklandı | Süreçte Çarpıcı Öcalan İddiası! | Onur Öncü ile Sabah Pusulası</description>
     </item>
   </channel>
 </rss>
