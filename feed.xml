@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 09:25:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 09:30:41 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: AKP'Lİ BAŞKAN KENDİSİYLE BİRLİKTE O İSMİ DE YAKTI! Milyonluk saat istifayı getirdi! Saray'da deprem!</title>
+      <link>https://www.youtube.com/watch?v=yuRgLGW7wj8</link>
+      <guid isPermaLink="false">yuRgLGW7wj8</guid>
+      <pubDate>Thu, 27 Aug 2026 09:20:29 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: AKP'Lİ BAŞKAN KENDİSİYLE BİRLİKTE O İSMİ DE YAKTI! Milyonluk saat istifayı getirdi! Saray'da deprem!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Cem Küçük Hakkında Masak Raporu Ortaya Çıktı! "Gazetecilik Haricinde Her Şeyi Yapmış!"</title>
       <link>https://www.youtube.com/watch?v=Ldl0sagL0vk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">gADECeLnFuo</guid>
       <pubDate>Thu, 27 Aug 2026 07:27:23 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Gazileri ziyaret ederken darp edilmişti! İYİ Partili Selçuk Türkoğlu'ndan flaş açıklama</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Başaran Aksu ve Gökay Çakır Tutuklanma Haberini Alan Madenciler Duruma Tepki Gösterdi!</title>
-      <link>https://www.youtube.com/shorts/5EneSMbs3ms</link>
-      <guid isPermaLink="false">5EneSMbs3ms</guid>
-      <pubDate>Thu, 27 Aug 2026 07:21:49 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Başaran Aksu ve Gökay Çakır Tutuklanma Haberini Alan Madenciler Duruma Tepki Gösterdi!</description>
     </item>
   </channel>
 </rss>
