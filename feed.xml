@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 21:55:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 22:00:53 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: S Raporu | Nagihan Turhan | 27 Ağustos</title>
+      <link>https://www.youtube.com/watch?v=l6bVawoOb2w</link>
+      <guid isPermaLink="false">l6bVawoOb2w</guid>
+      <pubDate>Thu, 27 Aug 2026 22:00:34 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: S Raporu | Nagihan Turhan | 27 Ağustos</description>
+    </item>
+    <item>
+      <title>Halk TV: Çıldır’da şiddetli dolu ve fırtına! 20’den fazla evin çatısı uçtu! #shorts</title>
+      <link>https://www.youtube.com/shorts/JUcMRheZMpQ</link>
+      <guid isPermaLink="false">JUcMRheZMpQ</guid>
+      <pubDate>Thu, 27 Aug 2026 21:55:28 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Çıldır’da şiddetli dolu ve fırtına! 20’den fazla evin çatısı uçtu! #shorts</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Burçin Atılgan ile Gündem Özel | #Halktv</title>
       <link>https://www.youtube.com/watch?v=3MrqfTdw0dA</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">yWsinv3M7TY</guid>
       <pubDate>Thu, 27 Aug 2026 17:15:02 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ROJİN'İN VÜCUDUNDA İKİ İLAÇ TESPİT EDİLDİ! Ailenin avukatından tüyler ürperten bilgiler!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Manifest'in kurucusu Tolga Akış niye gözaltına alındı?</title>
-      <link>https://www.youtube.com/watch?v=UEWqkCkQPuY</link>
-      <guid isPermaLink="false">UEWqkCkQPuY</guid>
-      <pubDate>Thu, 27 Aug 2026 17:15:02 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Manifest'in kurucusu Tolga Akış niye gözaltına alındı?</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Sözcü Ana Haber |  Senem Toluay Ilgaz | 27 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=qUXcHyurirk</link>
-      <guid isPermaLink="false">qUXcHyurirk</guid>
-      <pubDate>Thu, 27 Aug 2026 17:07:12 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Sözcü Ana Haber |  Senem Toluay Ilgaz | 27 Ağustos</description>
     </item>
   </channel>
 </rss>
