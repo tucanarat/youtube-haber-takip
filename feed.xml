@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 10:00:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 10:05:28 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: AKP'de Yer Yerinden Oynadı! Milyonluk Saat İstifa Getirdi! Hediye Dedi Teşekkür Etti</title>
+      <link>https://www.youtube.com/watch?v=iybDBIMY96g</link>
+      <guid isPermaLink="false">iybDBIMY96g</guid>
+      <pubDate>Thu, 27 Aug 2026 10:00:26 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: AKP'de Yer Yerinden Oynadı! Milyonluk Saat İstifa Getirdi! Hediye Dedi Teşekkür Etti</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI Güller, Kalaycıoğlu, Solmaztürk ve Solakoğlu ile Türkiye'nin Yönü (27.08.2026)</title>
       <link>https://www.youtube.com/watch?v=oJjopBM-Up4</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">F49vHjxt4TQ</guid>
       <pubDate>Thu, 27 Aug 2026 07:49:24 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: SDG feshedildi! Hakan Fidan'dan ilk açıklama: İşimiz profesyonel davranmak...</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Fenerbahçe 18 yıl sonra Şampiyonlar Ligi'nde: ''Baskının Lyon'da olduğunu biliyorduk''</title>
-      <link>https://www.youtube.com/shorts/4uTUEzxn0zI</link>
-      <guid isPermaLink="false">4uTUEzxn0zI</guid>
-      <pubDate>Thu, 27 Aug 2026 07:45:58 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Fenerbahçe 18 yıl sonra Şampiyonlar Ligi'nde: ''Baskının Lyon'da olduğunu biliyorduk''</description>
     </item>
   </channel>
 </rss>
