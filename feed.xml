@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 10:40:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 10:45:31 +0000</lastBuildDate>
     <item>
       <title>Halk TV: SEL FELAKETİNİN YENİ GÖRÜNTÜLERİ ORTAYA ÇIKTI! Binlerce insan acı bir şekilde kayıplara karıştı</title>
       <link>https://www.youtube.com/watch?v=Sew_RFK0sms</link>
       <guid isPermaLink="false">Sew_RFK0sms</guid>
       <pubDate>Thu, 27 Aug 2026 10:35:02 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SEL FELAKETİNİN YENİ GÖRÜNTÜLERİ ORTAYA ÇIKTI! Binlerce insan acı bir şekilde kayıplara karıştı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Ekrem İmamoğlu İçin Kritik Gün Belli Oldu! İBB Davasında Salonu Buz Kestiren İtirafçı Yanıtı!</title>
+      <link>https://www.youtube.com/watch?v=CYrsx9xHBRE</link>
+      <guid isPermaLink="false">CYrsx9xHBRE</guid>
+      <pubDate>Thu, 27 Aug 2026 10:30:26 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Ekrem İmamoğlu İçin Kritik Gün Belli Oldu! İBB Davasında Salonu Buz Kestiren İtirafçı Yanıtı!</description>
     </item>
     <item>
       <title>Cumhuriyet: İncir üreticisinin 'maliyet' isyanı: Ürün para etmiyor</title>
@@ -120,11 +127,11 @@
       <description>ANKA Haber Ajansı kanalından yeni video: İş Dünyası Finans Buluşması Diyarbakır’da gerçekleştiriliyor #Canlı</description>
     </item>
     <item>
-      <title>Halk TV: ERDOĞAN'IN MARKETİ BATIYOR! 30 şubeye birden kilit vuruldu! İşte dudak uçuklatan milyarlık zarar!</title>
+      <title>Halk TV: ERDOĞAN'IN ÖVDÜĞÜ MARKET ZORDA! 30 şubenin kapısına kilit vuruldu! Zararın boyutu dudak uçuklatır!</title>
       <link>https://www.youtube.com/watch?v=iPGy4kKnwJI</link>
       <guid isPermaLink="false">iPGy4kKnwJI</guid>
       <pubDate>Thu, 27 Aug 2026 09:50:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ERDOĞAN'IN MARKETİ BATIYOR! 30 şubeye birden kilit vuruldu! İşte dudak uçuklatan milyarlık zarar!</description>
+      <description>Halk TV kanalından yeni video: ERDOĞAN'IN ÖVDÜĞÜ MARKET ZORDA! 30 şubenin kapısına kilit vuruldu! Zararın boyutu dudak uçuklatır!</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Aile Dayanışma Ağı 43. buluşmasını Silivri'de gerçekleştiriyor #Canlı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">2yiW6D6xTCk</guid>
       <pubDate>Thu, 27 Aug 2026 08:27:36 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Sabancı Müzesi’nde Yoko Ono Sergisi: Hisset... Haykır... Hayal et... - Zeynep Oral</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: İmralı Heyeti Ankara'da Gazetecilerle Buluştu! İmralı-Kandil Tutanakları Yalanlandı!</title>
-      <link>https://www.youtube.com/watch?v=zKkdKazOWIU</link>
-      <guid isPermaLink="false">zKkdKazOWIU</guid>
-      <pubDate>Thu, 27 Aug 2026 08:27:16 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: İmralı Heyeti Ankara'da Gazetecilerle Buluştu! İmralı-Kandil Tutanakları Yalanlandı!</description>
     </item>
   </channel>
 </rss>
