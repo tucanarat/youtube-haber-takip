@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 12:15:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 12:20:32 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Emrullah Efendi'yi örnek gösterdi! Dilek İmamoğlu İBB Davası'nda yaşananlara isyan etti!</title>
+      <link>https://www.youtube.com/watch?v=0392J_tuigU</link>
+      <guid isPermaLink="false">0392J_tuigU</guid>
+      <pubDate>Thu, 27 Aug 2026 12:15:33 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Emrullah Efendi'yi örnek gösterdi! Dilek İmamoğlu İBB Davası'nda yaşananlara isyan etti!</description>
+    </item>
+    <item>
+      <title>Halk TV: ANKARA KULİSLERİ BU İDDİAYI KONUŞUYOR! Öcalan'a 'süreç'te o görev verilebilir! Dilan Altürk anlattı!</title>
+      <link>https://www.youtube.com/watch?v=vHRA9CcoZn4</link>
+      <guid isPermaLink="false">vHRA9CcoZn4</guid>
+      <pubDate>Thu, 27 Aug 2026 12:15:02 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ANKARA KULİSLERİ BU İDDİAYI KONUŞUYOR! Öcalan'a 'süreç'te o görev verilebilir! Dilan Altürk anlattı!</description>
+    </item>
     <item>
       <title>Halk TV: KAVALA'DAN FLAŞ ÇAĞRI! AİHM kararından sonra sessizliğini bozdu! "Somut delil olmadan..."</title>
       <link>https://www.youtube.com/watch?v=EfQ6uu3ewv8</link>
@@ -36,11 +50,11 @@
       <description>SÖZCÜ TV kanalından yeni video: Ümit Özdağ'dan Sözcü Televizyonu'nda Çok Önemli Açıklamalar!</description>
     </item>
     <item>
-      <title>Tele2 Haber: #CANLI | Mansur Yavaş'tan Butlancılara yalanlama! I Öcalan'a "hayati görev" isteği! | Manşet Ötesi</title>
+      <title>Tele2 Haber: Mansur Yavaş'tan Butlancılara yalanlama! I Öcalan'a "hayati görev" isteği! | Manşet Ötesi</title>
       <link>https://www.youtube.com/watch?v=qTCemUs-DO8</link>
       <guid isPermaLink="false">qTCemUs-DO8</guid>
       <pubDate>Thu, 27 Aug 2026 11:57:46 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI | Mansur Yavaş'tan Butlancılara yalanlama! I Öcalan'a "hayati görev" isteği! | Manşet Ötesi</description>
+      <description>Tele2 Haber kanalından yeni video: Mansur Yavaş'tan Butlancılara yalanlama! I Öcalan'a "hayati görev" isteği! | Manşet Ötesi</description>
     </item>
     <item>
       <title>Halk TV: Aile Dayanışma Ağı 43. Buluşmasını Silivri'de Gerçekleştirdi! (27 Ağustos 2026)</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">o0hsRmKCrho</guid>
       <pubDate>Thu, 27 Aug 2026 10:27:05 +0000</pubDate>
       <description>Halk TV kanalından yeni video: RUSYA'DA ORTALIK KARIŞTI! CIA Direktörü'nden Putin'e gizli ziyarette şok tehdit! Işın Eliçin anlattı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: İncir üreticisinin 'maliyet' isyanı: Ürün para etmiyor</title>
-      <link>https://www.youtube.com/watch?v=ezmq5mT7icw</link>
-      <guid isPermaLink="false">ezmq5mT7icw</guid>
-      <pubDate>Thu, 27 Aug 2026 10:24:18 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: İncir üreticisinin 'maliyet' isyanı: Ürün para etmiyor</description>
-    </item>
-    <item>
-      <title>Halk TV: ANKARA DÜĞMEYE BASTI! Süreçte binlerce PKK'lının akıbeti belli oldu! İşte kulisleri sallayan o detay</title>
-      <link>https://www.youtube.com/watch?v=jhNnhpvH0NI</link>
-      <guid isPermaLink="false">jhNnhpvH0NI</guid>
-      <pubDate>Thu, 27 Aug 2026 10:20:01 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ANKARA DÜĞMEYE BASTI! Süreçte binlerce PKK'lının akıbeti belli oldu! İşte kulisleri sallayan o detay</description>
     </item>
   </channel>
 </rss>

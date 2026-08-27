@@ -12793,7 +12793,7 @@
   },
   "qTCemUs-DO8": {
     "id": "qTCemUs-DO8",
-    "title": "#CANLI | Mansur Yavaş'tan Butlancılara yalanlama! I Öcalan'a \"hayati görev\" isteği! | Manşet Ötesi",
+    "title": "Mansur Yavaş'tan Butlancılara yalanlama! I Öcalan'a \"hayati görev\" isteği! | Manşet Ötesi",
     "link": "https://www.youtube.com/watch?v=qTCemUs-DO8",
     "published": "2026-08-27T11:57:46+00:00",
     "published_ts": 1787831866,
@@ -14710,5 +14710,21 @@
     "published": "2026-08-27T12:00:24+00:00",
     "published_ts": 1787832024,
     "channel_name": "Halk TV"
+  },
+  "vHRA9CcoZn4": {
+    "id": "vHRA9CcoZn4",
+    "title": "ANKARA KULİSLERİ BU İDDİAYI KONUŞUYOR! Öcalan'a 'süreç'te o görev verilebilir! Dilan Altürk anlattı!",
+    "link": "https://www.youtube.com/watch?v=vHRA9CcoZn4",
+    "published": "2026-08-27T12:15:02+00:00",
+    "published_ts": 1787832902,
+    "channel_name": "Halk TV"
+  },
+  "0392J_tuigU": {
+    "id": "0392J_tuigU",
+    "title": "Emrullah Efendi'yi örnek gösterdi! Dilek İmamoğlu İBB Davası'nda yaşananlara isyan etti!",
+    "link": "https://www.youtube.com/watch?v=0392J_tuigU",
+    "published": "2026-08-27T12:15:33+00:00",
+    "published_ts": 1787832933,
+    "channel_name": "Tele2 Haber"
   }
 }
