@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 21:30:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 21:35:23 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: CHP’DE DEPREM ETKİSİ YARATACAK SÖZLER! Doç. Dr. Doğan Çetinkaya butlan CHP’sini yerin dibine soktu!</title>
+      <link>https://www.youtube.com/watch?v=PlopUA3zSQg</link>
+      <guid isPermaLink="false">PlopUA3zSQg</guid>
+      <pubDate>Thu, 27 Aug 2026 21:20:08 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: CHP’DE DEPREM ETKİSİ YARATACAK SÖZLER! Doç. Dr. Doğan Çetinkaya butlan CHP’sini yerin dibine soktu!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Masada Ne Var? | Burak Tatari | 27 Ağustos</title>
       <link>https://www.youtube.com/watch?v=EAODVtIKI4Q</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">vBQ3E8rnIco</guid>
       <pubDate>Thu, 27 Aug 2026 17:00:05 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Parti Kartal İlçe Başkanlığı Açılışı! Partililerden Meydanı İnleten Sözler! (27 Ağustos 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! GÖZLER UEFA ŞAMPİYONLAR LİGİ KURASINDA! İşte Galatasaray ve Fenerbahçe'nin ilk rakibi!</title>
-      <link>https://www.youtube.com/watch?v=R9uUC9z-XkE</link>
-      <guid isPermaLink="false">R9uUC9z-XkE</guid>
-      <pubDate>Thu, 27 Aug 2026 17:00:01 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! GÖZLER UEFA ŞAMPİYONLAR LİGİ KURASINDA! İşte Galatasaray ve Fenerbahçe'nin ilk rakibi!</description>
     </item>
   </channel>
 </rss>
