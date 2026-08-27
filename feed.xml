@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 19:30:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 19:35:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ALTIN ALMAK İSTEYENLER DİKKAT! Uzman isimden peş peşe kritik uyarı! Milyonlar buraya kilitlensin!</title>
+      <link>https://www.youtube.com/watch?v=AoXWUoqAh3E</link>
+      <guid isPermaLink="false">AoXWUoqAh3E</guid>
+      <pubDate>Thu, 27 Aug 2026 19:30:46 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ALTIN ALMAK İSTEYENLER DİKKAT! Uzman isimden peş peşe kritik uyarı! Milyonlar buraya kilitlensin!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Engin Solakoğlu'ndan çarpıcı 'İmralı tutanakları' çıkışı: Bizi enayi yerine koymanın alemi yok!</title>
       <link>https://www.youtube.com/watch?v=ldNJwAR4c5Q</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">FeZXqOJnsO4</guid>
       <pubDate>Thu, 27 Aug 2026 16:12:46 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Bağımsız Maden İş Sendikası, Başaran Aksu ve Gökay Çakır'ın tutuklanmasını protesto ediyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: BU SÖZLERİN ALTINDAN KALKILMAZ! Özgür Çelik Sacit Terzi'yi yerin dibine soktu! Yok böylesi dedirtir!</title>
-      <link>https://www.youtube.com/watch?v=QbuLq8wh97c</link>
-      <guid isPermaLink="false">QbuLq8wh97c</guid>
-      <pubDate>Thu, 27 Aug 2026 16:05:21 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BU SÖZLERİN ALTINDAN KALKILMAZ! Özgür Çelik Sacit Terzi'yi yerin dibine soktu! Yok böylesi dedirtir!</description>
     </item>
   </channel>
 </rss>
