@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 13:50:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 13:55:25 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: Rojin Kabaiş Zehirlenerek mi Öldü? Babası Nizameetin Kabaiş Sözcü Televizyonu'na Anlatıyor</title>
       <link>https://www.youtube.com/watch?v=nXgrVsjJpp4</link>
@@ -162,6 +162,13 @@
       <description>Halk TV kanalından yeni video: ANKARA KULİSLERİ BU İDDİAYI KONUŞUYOR! Öcalan'a 'süreç'te o görev verilebilir! Dilan Altürk anlattı!</description>
     </item>
     <item>
+      <title>SÖZCÜ TV: 'AKP CHP ANLAŞABİLİR!' Ümit Özdağ Bombayı Patlattı! Erken Seçim İttifakını Açıkladı!</title>
+      <link>https://www.youtube.com/watch?v=5CqJFZS_7j4</link>
+      <guid isPermaLink="false">5CqJFZS_7j4</guid>
+      <pubDate>Thu, 27 Aug 2026 12:11:38 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: 'AKP CHP ANLAŞABİLİR!' Ümit Özdağ Bombayı Patlattı! Erken Seçim İttifakını Açıkladı!</description>
+    </item>
+    <item>
       <title>Halk TV: KAVALA'DAN FLAŞ ÇAĞRI! AİHM kararından sonra sessizliğini bozdu! "Somut delil olmadan..."</title>
       <link>https://www.youtube.com/watch?v=EfQ6uu3ewv8</link>
       <guid isPermaLink="false">EfQ6uu3ewv8</guid>
@@ -216,6 +223,13 @@
       <guid isPermaLink="false">dE5-1CG-LzY</guid>
       <pubDate>Thu, 27 Aug 2026 11:51:12 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Avukat Tuğçe Çalık: Hukuk devletinin adım adım yok oluşunu izliyoruz</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: "Hedef Atatürk Cumhuriyeti'ni Yıkmak!" Ümit Özdağ'dan Tarihi İddia! Gizli Anayasa Planını Açıkladı!</title>
+      <link>https://www.youtube.com/watch?v=cWEemIz0QEc</link>
+      <guid isPermaLink="false">cWEemIz0QEc</guid>
+      <pubDate>Thu, 27 Aug 2026 11:50:18 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: "Hedef Atatürk Cumhuriyeti'ni Yıkmak!" Ümit Özdağ'dan Tarihi İddia! Gizli Anayasa Planını Açıkladı!</description>
     </item>
     <item>
       <title>Tele2 Haber: Ahmet Yavuz'dan Çok Sert Çerçeve Yasa Yorumu! "Ciddi Yıkımlara Yol Açabileceğini Seziyoruz!"</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">44aFxQ2FCyQ</guid>
       <pubDate>Thu, 27 Aug 2026 11:17:44 +0000</pubDate>
       <description>Halk TV kanalından yeni video: TİP Genel Başkanı Erkan Baş, madencilerle birlikte Enerji Bakanlığı'nın önüne yürüdü!</description>
-    </item>
-    <item>
-      <title>Halk TV: ERDOĞAN'A YOLUN SONUNU GÖSTEREN TABLO! Emeklilerin bu haykırışı Saray'ı sallar! Sözün bittiği yer!</title>
-      <link>https://www.youtube.com/watch?v=JOd2dLaQfmE</link>
-      <guid isPermaLink="false">JOd2dLaQfmE</guid>
-      <pubDate>Thu, 27 Aug 2026 11:15:25 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ERDOĞAN'A YOLUN SONUNU GÖSTEREN TABLO! Emeklilerin bu haykırışı Saray'ı sallar! Sözün bittiği yer!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "Bazıları Krizden Beslenerek Çıkar!" Uğur Emek'ten Çarpıcı Ekonomik Kriz Tepkisi!</title>
-      <link>https://www.youtube.com/watch?v=on0F25FC0Pg</link>
-      <guid isPermaLink="false">on0F25FC0Pg</guid>
-      <pubDate>Thu, 27 Aug 2026 11:15:18 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "Bazıları Krizden Beslenerek Çıkar!" Uğur Emek'ten Çarpıcı Ekonomik Kriz Tepkisi!</description>
     </item>
   </channel>
 </rss>
