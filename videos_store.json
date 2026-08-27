@@ -13585,7 +13585,7 @@
   },
   "qUXcHyurirk": {
     "id": "qUXcHyurirk",
-    "title": "Sözcü Ana Haber |  Senem Toluay Ilgaz",
+    "title": "#CANLI Sözcü Ana Haber |  Senem Toluay Ilgaz",
     "link": "https://www.youtube.com/watch?v=qUXcHyurirk",
     "published": "2026-08-26T22:01:55+00:00",
     "published_ts": 1787781715,
@@ -13595,8 +13595,8 @@
     "id": "lpIlS8jutcY",
     "title": "İçinizden Biri | Ekrem Açıkel | 27 Ağustos",
     "link": "https://www.youtube.com/watch?v=lpIlS8jutcY",
-    "published": "2026-08-26T22:01:22+00:00",
-    "published_ts": 1787781682,
+    "published": "2026-08-27T15:51:29+00:00",
+    "published_ts": 1787845889,
     "channel_name": "SÖZCÜ TV"
   },
   "NYLQp_yZbeg": {
@@ -14977,7 +14977,7 @@
   },
   "-wTEFY5Lihs": {
     "id": "-wTEFY5Lihs",
-    "title": "#CANLI | KAZANAN MADENCİLER OLDU! Direnişlerinin Ardından Paraları Yatmaya Başladı! Tarihi Sözler!",
+    "title": "KAZANAN MADENCİLER OLDU! Direnişlerinin Ardından Paraları Yatmaya Başladı! Tarihi Sözler!",
     "link": "https://www.youtube.com/watch?v=-wTEFY5Lihs",
     "published": "2026-08-27T14:23:11+00:00",
     "published_ts": 1787840591,
@@ -15054,5 +15054,21 @@
     "published": "2026-08-27T15:40:17+00:00",
     "published_ts": 1787845217,
     "channel_name": "ANKA Haber Ajansı"
+  },
+  "wIvmkw0hCfg": {
+    "id": "wIvmkw0hCfg",
+    "title": "#CANLI | DEM Parti Kadıköy İlçe Örgütü, Mevsimlik İşçilere Yönelik Saldırıları Protesto Ediyor!",
+    "link": "https://www.youtube.com/watch?v=wIvmkw0hCfg",
+    "published": "2026-08-27T15:45:44+00:00",
+    "published_ts": 1787845544,
+    "channel_name": "Halk TV"
+  },
+  "vfqzmu_vWYk": {
+    "id": "vfqzmu_vWYk",
+    "title": "MADENCİNİN PARASI YATMAYA BAŞLADI! Ankara’da sloganlar meydanı inletti! Bu sözler tarihe geçer!",
+    "link": "https://www.youtube.com/watch?v=vfqzmu_vWYk",
+    "published": "2026-08-27T15:50:12+00:00",
+    "published_ts": 1787845812,
+    "channel_name": "Halk TV"
   }
 }
