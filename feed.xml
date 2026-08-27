@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 07:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 07:40:33 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Aksu ve Çakır'ın Tutuklanmasına Onur Öncü'den Çok Sert Tepki! "Bu İrade Kaybetmez!"</title>
+      <link>https://www.youtube.com/watch?v=jyYdxoeUFPY</link>
+      <guid isPermaLink="false">jyYdxoeUFPY</guid>
+      <pubDate>Thu, 27 Aug 2026 07:38:20 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Aksu ve Çakır'ın Tutuklanmasına Onur Öncü'den Çok Sert Tepki! "Bu İrade Kaybetmez!"</description>
+    </item>
     <item>
       <title>Cumhuriyet: Fethiye'de yamaç paraşütü faciası: 2 kişi hayatını kaybetti</title>
       <link>https://www.youtube.com/shorts/b17_PNyjuTo</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">QVCUWmmMVOo</guid>
       <pubDate>Wed, 26 Aug 2026 20:40:19 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Butlan sözcüsü Sarı'dan "Hain" çıkışı... Menderes'te oynanan oyun Üsküdar'da da sahnelenebilir!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Cumhurbaşkanı Erdoğan, 955. Yıl Anadolu'nun Fethi Malazgirt 1071 Anma Programı'nda konuşuyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=Lyxo0yMJC5g</link>
-      <guid isPermaLink="false">Lyxo0yMJC5g</guid>
-      <pubDate>Wed, 26 Aug 2026 20:36:14 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Cumhurbaşkanı Erdoğan, 955. Yıl Anadolu'nun Fethi Malazgirt 1071 Anma Programı'nda konuşuyor #Canlı</description>
     </item>
   </channel>
 </rss>
