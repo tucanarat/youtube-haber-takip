@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 01:00:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 01:05:24 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: TBMM Başkanı Numan Kurtulmuş, Afyonkarahisar Sivil Toplum Buluşması’nda konuşuyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=4Ni5gg6Rtio</link>
+      <guid isPermaLink="false">4Ni5gg6Rtio</guid>
+      <pubDate>Thu, 27 Aug 2026 01:02:35 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: TBMM Başkanı Numan Kurtulmuş, Afyonkarahisar Sivil Toplum Buluşması’nda konuşuyor #Canlı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: AKP CHP ArasındaKİ Gizli Pazarlık! Üsküdar ve Etimesgut'taki İttifak Deşifre Oldu! Siyasi Dizayn</title>
       <link>https://www.youtube.com/watch?v=zAfQzSpi2V0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Gfr6NS9pEgc</guid>
       <pubDate>Wed, 26 Aug 2026 19:00:09 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İstanbul'daki Üniversitede HTŞ'li Yöneticinin Gizlenen Geçmişi! ABD İsrail ve Suriye Üçgeni</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: İMRALI TUTANAKLARI BİLMECESİ! İnan Demirel ile Gündemdekiler | Konuk: Nergis Demirkaya (26.08.26)</title>
-      <link>https://www.youtube.com/watch?v=pRRlRwkXakg</link>
-      <guid isPermaLink="false">pRRlRwkXakg</guid>
-      <pubDate>Wed, 26 Aug 2026 18:46:42 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: İMRALI TUTANAKLARI BİLMECESİ! İnan Demirel ile Gündemdekiler | Konuk: Nergis Demirkaya (26.08.26)</description>
     </item>
   </channel>
 </rss>
