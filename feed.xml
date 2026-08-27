@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 14:30:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 14:35:27 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Yeni Parti'ye destek çığ gibi büyüyor! "Paranız yok" dendi, toplanan bağış miktarı dudak uçuklattı</title>
+      <link>https://www.youtube.com/watch?v=TjwoOqNHdoY</link>
+      <guid isPermaLink="false">TjwoOqNHdoY</guid>
+      <pubDate>Thu, 27 Aug 2026 14:30:24 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Yeni Parti'ye destek çığ gibi büyüyor! "Paranız yok" dendi, toplanan bağış miktarı dudak uçuklattı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: "KARARI VERİLMİŞ" Ekrem İmamoğlu'ndan Unutulmayacak İsyan! Murat Ağırel Davayı Anlattı</title>
+      <link>https://www.youtube.com/watch?v=rekOHS50ObE</link>
+      <guid isPermaLink="false">rekOHS50ObE</guid>
+      <pubDate>Thu, 27 Aug 2026 14:30:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: "KARARI VERİLMİŞ" Ekrem İmamoğlu'ndan Unutulmayacak İsyan! Murat Ağırel Davayı Anlattı</description>
+    </item>
     <item>
       <title>Halk TV: KAZANAN MADENCİLER OLDU! 18 günlük direnişin ardından madencilerin paraları yatmaya başladı</title>
       <link>https://www.youtube.com/watch?v=FW66odQwiaQ</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">yKanOrcxiDA</guid>
       <pubDate>Thu, 27 Aug 2026 11:30:30 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Mansur Yavaş Bağımsız mı Hareket Edecek? Orhan Bursalı Neler Anlattı Neler! CHP'DE SAVAŞ!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: #CANLI  İBB Davasında 71. gün! Beşli Çete şirketlerinden Makyol sahibi savunma yaptı!</title>
-      <link>https://www.youtube.com/watch?v=DFNWP7gAFoY</link>
-      <guid isPermaLink="false">DFNWP7gAFoY</guid>
-      <pubDate>Thu, 27 Aug 2026 11:30:23 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI  İBB Davasında 71. gün! Beşli Çete şirketlerinden Makyol sahibi savunma yaptı!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "TARİKAT DEĞİL DEVLETİZ!" Ahmet Yavuz'dan Kritik Öcalan'a Görev Yorumu!</title>
-      <link>https://www.youtube.com/watch?v=s_HGWwCil8c</link>
-      <guid isPermaLink="false">s_HGWwCil8c</guid>
-      <pubDate>Thu, 27 Aug 2026 11:30:06 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "TARİKAT DEĞİL DEVLETİZ!" Ahmet Yavuz'dan Kritik Öcalan'a Görev Yorumu!</description>
     </item>
   </channel>
 </rss>
