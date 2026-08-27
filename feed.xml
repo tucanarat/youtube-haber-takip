@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 10:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 10:20:31 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: "Nasıl yani, bu dünyada benim annem nasıl olmaz?" İsmail Küçükkaya'nın Duygusalar Anları #shorts</title>
+      <link>https://www.youtube.com/shorts/7pfi2LVqAg4</link>
+      <guid isPermaLink="false">7pfi2LVqAg4</guid>
+      <pubDate>Thu, 27 Aug 2026 10:15:20 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: "Nasıl yani, bu dünyada benim annem nasıl olmaz?" İsmail Küçükkaya'nın Duygusalar Anları #shorts</description>
+    </item>
     <item>
       <title>Halk TV: AİLENİN BAŞVURUSU REDDEDİLDİ! Narin Güran dosyasında yeni gelişme!</title>
       <link>https://www.youtube.com/watch?v=cYv5hNwd68s</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">KpoB_TSn3Qw</guid>
       <pubDate>Thu, 27 Aug 2026 08:00:27 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: 'Erdoğan Vefat Etti' Haberi Gözaltı Getirdi! Murat Ağırel'den Gazetecilik İsyanı! Sansür Çıkışı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: 49 yıllık birikim 15 metrekareye sığdı: Edirne’de binlerce parçalık nostalji müzesi</title>
-      <link>https://www.youtube.com/shorts/hUZC4k2BQs8</link>
-      <guid isPermaLink="false">hUZC4k2BQs8</guid>
-      <pubDate>Thu, 27 Aug 2026 07:54:35 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: 49 yıllık birikim 15 metrekareye sığdı: Edirne’de binlerce parçalık nostalji müzesi</description>
     </item>
   </channel>
 </rss>
