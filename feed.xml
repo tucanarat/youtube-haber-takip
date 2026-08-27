@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 11:30:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 11:35:27 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: YENİ Parti Grup Başkanvekili Gökhan Günaydın, İzmir İl Başkanlığı'nda Konuştu!</title>
+      <link>https://www.youtube.com/watch?v=vWxg93D_ZzA</link>
+      <guid isPermaLink="false">vWxg93D_ZzA</guid>
+      <pubDate>Thu, 27 Aug 2026 11:34:39 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YENİ Parti Grup Başkanvekili Gökhan Günaydın, İzmir İl Başkanlığı'nda Konuştu!</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: "Ortadoğu’daki savaş bizim savaşımız değildir" #shorts</title>
+      <link>https://www.youtube.com/shorts/o7s7Mqv2zEU</link>
+      <guid isPermaLink="false">o7s7Mqv2zEU</guid>
+      <pubDate>Thu, 27 Aug 2026 11:34:21 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: "Ortadoğu’daki savaş bizim savaşımız değildir" #shorts</description>
+    </item>
     <item>
       <title>Cumhuriyet: #CANLI  İBB Davasında 71. gün! Beşli Çete şirketlerinden Makyol sahibi savunma yaptı!</title>
       <link>https://www.youtube.com/watch?v=DFNWP7gAFoY</link>
@@ -22,11 +36,18 @@
       <description>Tele2 Haber kanalından yeni video: "Özerkliği Barındıran Yapıya Doğru Uzun Vadeli Amaç!" Ahmet Yavuz'dan Kritik Öcalan'a Görev Yorumu!</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | İYİ Parti Genel Başkanı Dervişoğlu, Parti Genel Merkezi'nde Basın Toplantısı Düzenliyor!</title>
+      <title>Halk TV: "BU BAŞDANIŞMAN ZILGITLARINDAN ERDOĞAN'IN.." O isim Mehmet Uçum'u köşeye fena sıkıştırdı! Olay olur!</title>
+      <link>https://www.youtube.com/watch?v=S4jqdR1OjSg</link>
+      <guid isPermaLink="false">S4jqdR1OjSg</guid>
+      <pubDate>Thu, 27 Aug 2026 11:30:03 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: "BU BAŞDANIŞMAN ZILGITLARINDAN ERDOĞAN'IN.." O isim Mehmet Uçum'u köşeye fena sıkıştırdı! Olay olur!</description>
+    </item>
+    <item>
+      <title>Halk TV: İYİ Parti Genel Başkanı Müsavat Dervişoğlu, Parti Genel Merkezi'nde Basın Toplantısı Düzenledi!</title>
       <link>https://www.youtube.com/watch?v=Ir0HL_YkQQY</link>
       <guid isPermaLink="false">Ir0HL_YkQQY</guid>
       <pubDate>Thu, 27 Aug 2026 11:29:56 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | İYİ Parti Genel Başkanı Dervişoğlu, Parti Genel Merkezi'nde Basın Toplantısı Düzenliyor!</description>
+      <description>Halk TV kanalından yeni video: İYİ Parti Genel Başkanı Müsavat Dervişoğlu, Parti Genel Merkezi'nde Basın Toplantısı Düzenledi!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: İYİ Parti Genel Başkanı Müsavat Dervişoğlu'ndan Kritik Açıklamalar!</title>
@@ -111,13 +132,6 @@
       <guid isPermaLink="false">TQQHSAuUD10</guid>
       <pubDate>Thu, 27 Aug 2026 11:09:36 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | Rojin Kabaiş'in Ölümünün Aydınlatılması İçin Hazırlanan Rapora ilişkin Açıklama Yapılıyor!</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | YENİ Parti Grup Başkanvekili Gökhan Günaydın, İzmir İl Başkanlığı'nda Konuşuyor!</title>
-      <link>https://www.youtube.com/watch?v=vWxg93D_ZzA</link>
-      <guid isPermaLink="false">vWxg93D_ZzA</guid>
-      <pubDate>Thu, 27 Aug 2026 11:06:07 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti Grup Başkanvekili Gökhan Günaydın, İzmir İl Başkanlığı'nda Konuşuyor!</description>
     </item>
     <item>
       <title>Tele2 Haber: #CANLI YENİ Parti Grup Başkanvekili Gökhan Günaydın, İzmir İl Başkanlığı'nda konuşuyor</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">Juf0p49trF0</guid>
       <pubDate>Thu, 27 Aug 2026 09:52:13 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | İrem Sansak ile Haber Masası</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: İş Dünyası Finans Buluşması Diyarbakır’da gerçekleştiriliyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=6PZ_wxaOp04</link>
-      <guid isPermaLink="false">6PZ_wxaOp04</guid>
-      <pubDate>Thu, 27 Aug 2026 09:50:49 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: İş Dünyası Finans Buluşması Diyarbakır’da gerçekleştiriliyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: ERDOĞAN'IN ÖVDÜĞÜ MARKET ZORDA! 30 şubenin kapısına kilit vuruldu! Zararın boyutu dudak uçuklatır!</title>
-      <link>https://www.youtube.com/watch?v=iPGy4kKnwJI</link>
-      <guid isPermaLink="false">iPGy4kKnwJI</guid>
-      <pubDate>Thu, 27 Aug 2026 09:50:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ERDOĞAN'IN ÖVDÜĞÜ MARKET ZORDA! 30 şubenin kapısına kilit vuruldu! Zararın boyutu dudak uçuklatır!</description>
     </item>
   </channel>
 </rss>
