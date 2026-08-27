@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 07:10:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 07:15:32 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Başaran Aksu ve Gökay Çakır Tutuklandı! "Ben de Başaran Aksu'yum, Bir Dünya Başaran Aksu Var!"</title>
+      <link>https://www.youtube.com/watch?v=qliNOMf6pNg</link>
+      <guid isPermaLink="false">qliNOMf6pNg</guid>
+      <pubDate>Thu, 27 Aug 2026 07:05:53 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Başaran Aksu ve Gökay Çakır Tutuklandı! "Ben de Başaran Aksu'yum, Bir Dünya Başaran Aksu Var!"</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Mansur Yavaş CHP'den mi Ayrılıyor? Kemal Kılıçdaroğlu Bunun Olmasından Korkuyor!</title>
       <link>https://www.youtube.com/watch?v=5Hk7OBDJw1o</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Zd3WWaYO7WI</guid>
       <pubDate>Wed, 26 Aug 2026 19:45:24 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Moskova'ya İnen ABD Uçağından CIA Direktörü Ratcliffe Çıktı! Putin Harekete Geçti! İngiltere Ayakta</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: İmralı tutanakları sahte mi gerçek mi? Nergis Demirkaya İmralı heyetinin açıklamalarını paylaştı</title>
-      <link>https://www.youtube.com/watch?v=RRGH2vhQBeQ</link>
-      <guid isPermaLink="false">RRGH2vhQBeQ</guid>
-      <pubDate>Wed, 26 Aug 2026 19:45:06 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: İmralı tutanakları sahte mi gerçek mi? Nergis Demirkaya İmralı heyetinin açıklamalarını paylaştı</description>
     </item>
   </channel>
 </rss>
