@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 10:05:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 10:10:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: AİLENİN BAŞVURUSU REDDEDİLDİ! Narin Güran dosyasında yeni gelişme!</title>
+      <link>https://www.youtube.com/watch?v=cYv5hNwd68s</link>
+      <guid isPermaLink="false">cYv5hNwd68s</guid>
+      <pubDate>Thu, 27 Aug 2026 10:05:14 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: AİLENİN BAŞVURUSU REDDEDİLDİ! Narin Güran dosyasında yeni gelişme!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: AKP'de Yer Yerinden Oynadı! Milyonluk Saat İstifa Getirdi! Hediye Dedi Teşekkür Etti</title>
       <link>https://www.youtube.com/watch?v=iybDBIMY96g</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">hUZC4k2BQs8</guid>
       <pubDate>Thu, 27 Aug 2026 07:54:35 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: 49 yıllık birikim 15 metrekareye sığdı: Edirne’de binlerce parçalık nostalji müzesi</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: SDG feshedildi! Hakan Fidan'dan ilk açıklama: İşimiz profesyonel davranmak...</title>
-      <link>https://www.youtube.com/watch?v=F49vHjxt4TQ</link>
-      <guid isPermaLink="false">F49vHjxt4TQ</guid>
-      <pubDate>Thu, 27 Aug 2026 07:49:24 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: SDG feshedildi! Hakan Fidan'dan ilk açıklama: İşimiz profesyonel davranmak...</description>
     </item>
   </channel>
 </rss>
