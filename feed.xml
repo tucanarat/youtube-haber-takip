@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 12:25:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 12:30:40 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: RUSYA'DA ORTALIK KARIŞTI! CIA Direktörü'nden Putin'e gizli ziyarette şok tehdit! Işın Eliçin anlattı</title>
+      <link>https://www.youtube.com/watch?v=o0hsRmKCrho</link>
+      <guid isPermaLink="false">o0hsRmKCrho</guid>
+      <pubDate>Thu, 27 Aug 2026 12:30:07 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: RUSYA'DA ORTALIK KARIŞTI! CIA Direktörü'nden Putin'e gizli ziyarette şok tehdit! Işın Eliçin anlattı</description>
+    </item>
     <item>
       <title>Tele2 Haber: Emrullah Efendi'yi örnek gösterdi! Dilek İmamoğlu İBB Davası'nda yaşananlara isyan etti!</title>
       <link>https://www.youtube.com/watch?v=0392J_tuigU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">CYrsx9xHBRE</guid>
       <pubDate>Thu, 27 Aug 2026 10:30:26 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Ekrem İmamoğlu İçin Kritik Gün Belli Oldu! İBB Davasında Salonu Buz Kestiren İtirafçı Yanıtı!</description>
-    </item>
-    <item>
-      <title>Halk TV: RUSYA'DA ORTALIK KARIŞTI! CIA Direktörü'nden Putin'e gizli ziyarette şok tehdit! Işın Eliçin anlattı</title>
-      <link>https://www.youtube.com/watch?v=o0hsRmKCrho</link>
-      <guid isPermaLink="false">o0hsRmKCrho</guid>
-      <pubDate>Thu, 27 Aug 2026 10:27:05 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: RUSYA'DA ORTALIK KARIŞTI! CIA Direktörü'nden Putin'e gizli ziyarette şok tehdit! Işın Eliçin anlattı</description>
     </item>
   </channel>
 </rss>
