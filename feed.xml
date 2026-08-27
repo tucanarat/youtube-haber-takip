@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 12:50:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 12:55:25 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Gizem Çetin ile Parantez</title>
+      <link>https://www.youtube.com/watch?v=91ZGXwMbxzM</link>
+      <guid isPermaLink="false">91ZGXwMbxzM</guid>
+      <pubDate>Thu, 27 Aug 2026 12:53:13 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Gizem Çetin ile Parantez</description>
+    </item>
     <item>
       <title>Halk TV: GENEL MERKEZİ BUTLANCILARA DAR ETTİ! Mansur Yavaş, Müslim Sarı'yı böyle yalanladı! Neler dedi neler!</title>
       <link>https://www.youtube.com/watch?v=97PAGh6TI7Q</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">qh0C-8ykUEQ</guid>
       <pubDate>Thu, 27 Aug 2026 10:51:58 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: "Bu sorun artık çözülmelidir” #shorts</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: İYİ Parti Genel Başkanı Müsavat Dervişoğlu, Parti Genel Merkezi'nde basın toplantısı düzenliyor</title>
-      <link>https://www.youtube.com/watch?v=0a124QfaQEI</link>
-      <guid isPermaLink="false">0a124QfaQEI</guid>
-      <pubDate>Thu, 27 Aug 2026 10:50:50 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: İYİ Parti Genel Başkanı Müsavat Dervişoğlu, Parti Genel Merkezi'nde basın toplantısı düzenliyor</description>
     </item>
   </channel>
 </rss>
