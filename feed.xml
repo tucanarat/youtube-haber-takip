@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 18:15:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 18:20:33 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Referandum Israrının Altında Yatan Asıl Gerçek! Erdoğan'a Bir Dönem Daha Kapısını Aralayan Plan</title>
+      <link>https://www.youtube.com/watch?v=dDXdSm6e56A</link>
+      <guid isPermaLink="false">dDXdSm6e56A</guid>
+      <pubDate>Thu, 27 Aug 2026 18:10:26 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Referandum Israrının Altında Yatan Asıl Gerçek! Erdoğan'a Bir Dönem Daha Kapısını Aralayan Plan</description>
+    </item>
     <item>
       <title>Tele2 Haber: Emekli Tuğgeneral Haldun Solmaztürk öfkeden deliye döndü: BU MU MALAZGİRT?</title>
       <link>https://www.youtube.com/watch?v=dYeNst80818</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">l63a6eemqM0</guid>
       <pubDate>Thu, 27 Aug 2026 15:00:19 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SGK UZMANI BOMBAYI PATLATTI! Asgari ücrete yapılacak zammı açıkladı! Kulisler bununla çalkalanacak!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Ümit Özdağ'dan Özgür Özel'e Kemal Kılıçdaroğlu Benzetmesi! Adeta Topa Tuttu! 'Farkı Yok'</title>
-      <link>https://www.youtube.com/watch?v=7HTRnTTDycc</link>
-      <guid isPermaLink="false">7HTRnTTDycc</guid>
-      <pubDate>Thu, 27 Aug 2026 15:00:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Ümit Özdağ'dan Özgür Özel'e Kemal Kılıçdaroğlu Benzetmesi! Adeta Topa Tuttu! 'Farkı Yok'</description>
     </item>
   </channel>
 </rss>
