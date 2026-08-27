@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 11:35:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 11:40:35 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: UĞUR EMEK KORKUNÇ YOKSULLUK TABLOSUNU ANLATTI!</title>
+      <link>https://www.youtube.com/shorts/vs6DFIBDOKU</link>
+      <guid isPermaLink="false">vs6DFIBDOKU</guid>
+      <pubDate>Thu, 27 Aug 2026 11:37:44 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: UĞUR EMEK KORKUNÇ YOKSULLUK TABLOSUNU ANLATTI!</description>
+    </item>
     <item>
       <title>Halk TV: YENİ Parti Grup Başkanvekili Gökhan Günaydın, İzmir İl Başkanlığı'nda Konuştu!</title>
       <link>https://www.youtube.com/watch?v=vWxg93D_ZzA</link>
@@ -20,6 +27,13 @@
       <guid isPermaLink="false">o7s7Mqv2zEU</guid>
       <pubDate>Thu, 27 Aug 2026 11:34:21 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: "Ortadoğu’daki savaş bizim savaşımız değildir" #shorts</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Mansur Yavaş Bağımsız mı Hareket Edecek? Orhan Bursalı Neler Anlattı Neler! CHP'DE SAVAŞ!</title>
+      <link>https://www.youtube.com/watch?v=yKanOrcxiDA</link>
+      <guid isPermaLink="false">yKanOrcxiDA</guid>
+      <pubDate>Thu, 27 Aug 2026 11:30:30 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Mansur Yavaş Bağımsız mı Hareket Edecek? Orhan Bursalı Neler Anlattı Neler! CHP'DE SAVAŞ!</description>
     </item>
     <item>
       <title>Cumhuriyet: #CANLI  İBB Davasında 71. gün! Beşli Çete şirketlerinden Makyol sahibi savunma yaptı!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">gPukuoW9siI</guid>
       <pubDate>Thu, 27 Aug 2026 09:57:12 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Murat Taylan ile Haber-Yorum (27.08.2026)</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Sağlık Bakanlığı önünde 'HPV aşısı' çağrısı! "HER YIL BİNİN ÜZERİNDE KADINI KAYBEDİYORUZ"</title>
-      <link>https://www.youtube.com/watch?v=ZSJrSXtSliA</link>
-      <guid isPermaLink="false">ZSJrSXtSliA</guid>
-      <pubDate>Thu, 27 Aug 2026 09:53:42 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Sağlık Bakanlığı önünde 'HPV aşısı' çağrısı! "HER YIL BİNİN ÜZERİNDE KADINI KAYBEDİYORUZ"</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | İrem Sansak ile Haber Masası</title>
-      <link>https://www.youtube.com/watch?v=Juf0p49trF0</link>
-      <guid isPermaLink="false">Juf0p49trF0</guid>
-      <pubDate>Thu, 27 Aug 2026 09:52:13 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | İrem Sansak ile Haber Masası</description>
     </item>
   </channel>
 </rss>
