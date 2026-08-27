@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 18:10:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 18:15:32 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Emekli Tuğgeneral Haldun Solmaztürk öfkeden deliye döndü: BU MU MALAZGİRT?</title>
+      <link>https://www.youtube.com/watch?v=dYeNst80818</link>
+      <guid isPermaLink="false">dYeNst80818</guid>
+      <pubDate>Thu, 27 Aug 2026 18:10:24 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Emekli Tuğgeneral Haldun Solmaztürk öfkeden deliye döndü: BU MU MALAZGİRT?</description>
+    </item>
     <item>
       <title>Halk TV: "SİZE YUH DİYORUM!" Remzi Çayır, Cumhur'u ve DEM Parti’yi topa tuttu! Bu sözler küplere bindirir!</title>
       <link>https://www.youtube.com/watch?v=0Zala2dInSw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">7HTRnTTDycc</guid>
       <pubDate>Thu, 27 Aug 2026 15:00:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Ümit Özdağ'dan Özgür Özel'e Kemal Kılıçdaroğlu Benzetmesi! Adeta Topa Tuttu! 'Farkı Yok'</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Madenciler, Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=Jui1NrypIU4</link>
-      <guid isPermaLink="false">Jui1NrypIU4</guid>
-      <pubDate>Thu, 27 Aug 2026 14:57:38 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Madenciler, Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor #Canlı</description>
     </item>
   </channel>
 </rss>
