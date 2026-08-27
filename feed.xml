@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 07:05:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 07:10:32 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Mansur Yavaş CHP'den mi Ayrılıyor? Kemal Kılıçdaroğlu Bunun Olmasından Korkuyor!</title>
+      <link>https://www.youtube.com/watch?v=5Hk7OBDJw1o</link>
+      <guid isPermaLink="false">5Hk7OBDJw1o</guid>
+      <pubDate>Thu, 27 Aug 2026 07:00:21 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Mansur Yavaş CHP'den mi Ayrılıyor? Kemal Kılıçdaroğlu Bunun Olmasından Korkuyor!</description>
+    </item>
     <item>
       <title>Halk TV: Sendikacılar Gökay Çakır ve Başaran Aksu tutuklandı! O isim perde arkasındaki şok gerçeği açıkladı!</title>
       <link>https://www.youtube.com/watch?v=0wz_-vuxjes</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">RRGH2vhQBeQ</guid>
       <pubDate>Wed, 26 Aug 2026 19:45:06 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: İmralı tutanakları sahte mi gerçek mi? Nergis Demirkaya İmralı heyetinin açıklamalarını paylaştı</description>
-    </item>
-    <item>
-      <title>Halk TV: Butlan CHP'sinde 'genel başkanlık' tartışması kızışıyor! Müslim Sarı'dan kritik bir açıklama geldi!</title>
-      <link>https://www.youtube.com/watch?v=-aSQeHJUyNE</link>
-      <guid isPermaLink="false">-aSQeHJUyNE</guid>
-      <pubDate>Wed, 26 Aug 2026 19:40:01 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Butlan CHP'sinde 'genel başkanlık' tartışması kızışıyor! Müslim Sarı'dan kritik bir açıklama geldi!</description>
     </item>
   </channel>
 </rss>
