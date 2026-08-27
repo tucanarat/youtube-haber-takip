@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 20:15:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 20:20:36 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: ABD İsrail'in Oyunu Başladı! Suriye Yapısı Değiştirildi! Sınırımızdaki Tehlikeyi Ahmet Yavuz Anlattı</title>
+      <link>https://www.youtube.com/watch?v=s0PYN2x3ySs</link>
+      <guid isPermaLink="false">s0PYN2x3ySs</guid>
+      <pubDate>Thu, 27 Aug 2026 20:10:24 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: ABD İsrail'in Oyunu Başladı! Suriye Yapısı Değiştirildi! Sınırımızdaki Tehlikeyi Ahmet Yavuz Anlattı</description>
+    </item>
     <item>
       <title>Halk TV: ANKARA'YI KİLİTLEYECEK 'ÖCALAN' BOMBASI! Bakırhan'dan öyle bir açıklama geldi ki! Meğer komisyonda..</title>
       <link>https://www.youtube.com/watch?v=qYO-WxD9mNo</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">_DX90gZJTzg</guid>
       <pubDate>Thu, 27 Aug 2026 16:20:22 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Putin Taktik Nükleer Silah Kullanacak Gibi! Ekrem Açıkel O Silahı Anlattı! CEHENNEM GİBİ!</description>
-    </item>
-    <item>
-      <title>Halk TV: REZİLLİKLERİN ARDI ARKASI KESİLMİYOR! "Yeni hesaplama bağımsız denetime açılmalı"</title>
-      <link>https://www.youtube.com/watch?v=AbQUoAC2bQs</link>
-      <guid isPermaLink="false">AbQUoAC2bQs</guid>
-      <pubDate>Thu, 27 Aug 2026 16:20:20 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: REZİLLİKLERİN ARDI ARKASI KESİLMİYOR! "Yeni hesaplama bağımsız denetime açılmalı"</description>
     </item>
   </channel>
 </rss>
