@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 14:05:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 14:10:33 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Haber Saati | Serap Belovacıklı | 27 Ağustos</title>
+      <link>https://www.youtube.com/watch?v=jtvvpPij1X0</link>
+      <guid isPermaLink="false">jtvvpPij1X0</guid>
+      <pubDate>Thu, 27 Aug 2026 14:05:32 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Haber Saati | Serap Belovacıklı | 27 Ağustos</description>
+    </item>
+    <item>
+      <title>Halk TV: İYİ Parti Genel Başkanı Müsavat Dervişoğlu: Ortadoğu’daki savaş bizim savaşımız değildir!</title>
+      <link>https://www.youtube.com/shorts/BzEYlAcNRpM</link>
+      <guid isPermaLink="false">BzEYlAcNRpM</guid>
+      <pubDate>Thu, 27 Aug 2026 14:01:38 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İYİ Parti Genel Başkanı Müsavat Dervişoğlu: Ortadoğu’daki savaş bizim savaşımız değildir!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: "Hedef Atatürk Cumhuriyeti'ni Yıkmak!" Ümit Özdağ'dan Tarihi İddia! Gizli Anayasa Planını Açıkladı!</title>
       <link>https://www.youtube.com/watch?v=cWEemIz0QEc</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">5waS5P14Hn4</guid>
       <pubDate>Thu, 27 Aug 2026 11:25:42 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI Rojin Kabaiş soruşturmasında yeni gelişme! 2 yıllık rapor açıklanıyor</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: #CANLI İBB Davası'nda 71. gün: Aile Dayanışma Ağı'nın 43. buluşması Silivri'de...</title>
-      <link>https://www.youtube.com/watch?v=iXVncfHFFEU</link>
-      <guid isPermaLink="false">iXVncfHFFEU</guid>
-      <pubDate>Thu, 27 Aug 2026 11:25:10 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI İBB Davası'nda 71. gün: Aile Dayanışma Ağı'nın 43. buluşması Silivri'de...</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Aile Dayanışma Ağı 43. buluşmasını Silivri'de gerçekleştiriyor</title>
-      <link>https://www.youtube.com/watch?v=4qQMOqz7O_0</link>
-      <guid isPermaLink="false">4qQMOqz7O_0</guid>
-      <pubDate>Thu, 27 Aug 2026 11:23:36 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Aile Dayanışma Ağı 43. buluşmasını Silivri'de gerçekleştiriyor</description>
     </item>
   </channel>
 </rss>
