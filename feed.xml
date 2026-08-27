@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 22:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 22:10:38 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: CHP Genel Başkan Yardımcısı Necdet Saraç, Parti Genel Merkezi'nde basın toplantısı düzenliyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=6K5zxgp6yUs</link>
+      <guid isPermaLink="false">6K5zxgp6yUs</guid>
+      <pubDate>Thu, 27 Aug 2026 22:09:48 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkan Yardımcısı Necdet Saraç, Parti Genel Merkezi'nde basın toplantısı düzenliyor #Canlı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: S Raporu | Nagihan Turhan | 27 Ağustos</title>
       <link>https://www.youtube.com/watch?v=l6bVawoOb2w</link>
@@ -71,11 +78,11 @@
       <description>SÖZCÜ TV kanalından yeni video: Haber Saati | Gülinay Selçuk</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | Burçin Atılgan ile Gündem Özel | #Halktv</title>
+      <title>Halk TV: Burçin Atılgan ile Gündem Özel | #Halktv (27 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=3MrqfTdw0dA</link>
       <guid isPermaLink="false">3MrqfTdw0dA</guid>
       <pubDate>Thu, 27 Aug 2026 21:54:52 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Burçin Atılgan ile Gündem Özel | #Halktv</description>
+      <description>Halk TV kanalından yeni video: Burçin Atılgan ile Gündem Özel | #Halktv (27 Ağustos 2026)</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Öncesi Sonrası | Senem Toluay Ilgaz</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">0Zala2dInSw</guid>
       <pubDate>Thu, 27 Aug 2026 18:00:09 +0000</pubDate>
       <description>Halk TV kanalından yeni video: "SİZE YUH DİYORUM!" Remzi Çayır, Cumhur'u ve DEM Parti’yi topa tuttu! Bu sözler küplere bindirir!</description>
-    </item>
-    <item>
-      <title>Halk TV: Sinem Fıstıkoğlu ile Halk Ana Haber (27 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=pxGhiSoOGEg</link>
-      <guid isPermaLink="false">pxGhiSoOGEg</guid>
-      <pubDate>Thu, 27 Aug 2026 17:52:01 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Sinem Fıstıkoğlu ile Halk Ana Haber (27 Ağustos 2026)</description>
     </item>
   </channel>
 </rss>
