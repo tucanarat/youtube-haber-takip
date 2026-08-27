@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 17:25:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 17:30:47 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI  Zeynel Lüle ile Ankara Günlüğü | Konuk: Servet Mullaoğlu (28.08.26)</title>
+      <link>https://www.youtube.com/watch?v=hF4h3Pz0S4U</link>
+      <guid isPermaLink="false">hF4h3Pz0S4U</guid>
+      <pubDate>Thu, 27 Aug 2026 17:29:15 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI  Zeynel Lüle ile Ankara Günlüğü | Konuk: Servet Mullaoğlu (28.08.26)</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #CANLI Ülkü Çoban ile Manşet Ötesi (28.08.26)</title>
+      <link>https://www.youtube.com/watch?v=cCqPHxwjsME</link>
+      <guid isPermaLink="false">cCqPHxwjsME</guid>
+      <pubDate>Thu, 27 Aug 2026 17:26:33 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Ülkü Çoban ile Manşet Ötesi (28.08.26)</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI Onur Öncü ile Sabah Pusulası (28.08.26)</title>
       <link>https://www.youtube.com/watch?v=QmXmDurG1cw</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">FW66odQwiaQ</guid>
       <pubDate>Thu, 27 Aug 2026 14:23:32 +0000</pubDate>
       <description>Halk TV kanalından yeni video: KAZANAN MADENCİLER OLDU! 18 günlük direnişin ardından madencilerin paraları yatmaya başladı</description>
-    </item>
-    <item>
-      <title>Halk TV: Belgesel yayınlandı ortalık karıştı! Ses getiren belgesel için harekete geçildi</title>
-      <link>https://www.youtube.com/watch?v=wN_NFQAf_RE</link>
-      <guid isPermaLink="false">wN_NFQAf_RE</guid>
-      <pubDate>Thu, 27 Aug 2026 14:15:11 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Belgesel yayınlandı ortalık karıştı! Ses getiren belgesel için harekete geçildi</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "SDG de PKK da CHP'ye Butlan Atanması da Birbiriyle İlgili!" Ahmet Yavuz'dan Çarpıcı Süreç Yorumu!</title>
-      <link>https://www.youtube.com/watch?v=93uOtJmroyM</link>
-      <guid isPermaLink="false">93uOtJmroyM</guid>
-      <pubDate>Thu, 27 Aug 2026 14:15:11 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "SDG de PKK da CHP'ye Butlan Atanması da Birbiriyle İlgili!" Ahmet Yavuz'dan Çarpıcı Süreç Yorumu!</description>
     </item>
   </channel>
 </rss>
