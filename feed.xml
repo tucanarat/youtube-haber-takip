@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 18:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 18:25:25 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: "AKP ÇÖKÜŞ SÜRECİ İÇİNDE" Ümit Özdağ bombayı patlattı! Bu sözler Erdoğan'a soğuk duş etkisi yaratır!</title>
+      <link>https://www.youtube.com/watch?v=U6TpO56V4zE</link>
+      <guid isPermaLink="false">U6TpO56V4zE</guid>
+      <pubDate>Thu, 27 Aug 2026 18:15:21 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: "AKP ÇÖKÜŞ SÜRECİ İÇİNDE" Ümit Özdağ bombayı patlattı! Bu sözler Erdoğan'a soğuk duş etkisi yaratır!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Referandum Israrının Altında Yatan Asıl Gerçek! Erdoğan'a Bir Dönem Daha Kapısını Aralayan Plan</title>
       <link>https://www.youtube.com/watch?v=dDXdSm6e56A</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">8aAwxcDducQ</guid>
       <pubDate>Thu, 27 Aug 2026 15:14:51 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Bugün Ne Oldu | Fener'den Tarihi Zafer, Narin Davasında Flaş Karar!</description>
-    </item>
-    <item>
-      <title>Halk TV: SGK UZMANI BOMBAYI PATLATTI! Asgari ücrete yapılacak zammı açıkladı! Kulisler bununla çalkalanacak!</title>
-      <link>https://www.youtube.com/watch?v=l63a6eemqM0</link>
-      <guid isPermaLink="false">l63a6eemqM0</guid>
-      <pubDate>Thu, 27 Aug 2026 15:00:19 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SGK UZMANI BOMBAYI PATLATTI! Asgari ücrete yapılacak zammı açıkladı! Kulisler bununla çalkalanacak!</description>
     </item>
   </channel>
 </rss>
