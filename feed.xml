@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 09:35:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 09:40:30 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Erkan Baş'tan madencilerin tutuklanmasına tepki: ''Halkı tahrik eden sizsiniz''</title>
+      <link>https://www.youtube.com/shorts/ldb2N13U2tQ</link>
+      <guid isPermaLink="false">ldb2N13U2tQ</guid>
+      <pubDate>Thu, 27 Aug 2026 09:38:45 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Erkan Baş'tan madencilerin tutuklanmasına tepki: ''Halkı tahrik eden sizsiniz''</description>
+    </item>
+    <item>
+      <title>Halk TV: Yapılan anket gerçekleri ortaya serdi! "Bahçeli'nin kendi kitlesi sürece destek vermiyor"</title>
+      <link>https://www.youtube.com/watch?v=_xhLLxr4_6o</link>
+      <guid isPermaLink="false">_xhLLxr4_6o</guid>
+      <pubDate>Thu, 27 Aug 2026 09:35:10 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Yapılan anket gerçekleri ortaya serdi! "Bahçeli'nin kendi kitlesi sürece destek vermiyor"</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI Maden işçileri, Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor</title>
       <link>https://www.youtube.com/watch?v=Dn8xgbXIZyY</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">IKCrkt8BIqo</guid>
       <pubDate>Thu, 27 Aug 2026 07:30:21 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Cihat Yaycı Suriye'deki Sinsi Planı İfşa Etti! Türkiye'yi Uyardı! 'Silahlar Tanklar Nerede?'</description>
-    </item>
-    <item>
-      <title>Halk TV: BUTLAN CHP'SİNDE 'KIYIM' DEVAM EDİYOR! YENİ Parti'ye yakın olan o isimler disipline sevk edildi!</title>
-      <link>https://www.youtube.com/watch?v=8Q0l31toZd8</link>
-      <guid isPermaLink="false">8Q0l31toZd8</guid>
-      <pubDate>Thu, 27 Aug 2026 07:27:27 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BUTLAN CHP'SİNDE 'KIYIM' DEVAM EDİYOR! YENİ Parti'ye yakın olan o isimler disipline sevk edildi!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Gazileri ziyaret ederken darp edilmişti! İYİ Partili Selçuk Türkoğlu'ndan flaş açıklama</title>
-      <link>https://www.youtube.com/shorts/gADECeLnFuo</link>
-      <guid isPermaLink="false">gADECeLnFuo</guid>
-      <pubDate>Thu, 27 Aug 2026 07:27:23 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Gazileri ziyaret ederken darp edilmişti! İYİ Partili Selçuk Türkoğlu'ndan flaş açıklama</description>
     </item>
   </channel>
 </rss>
