@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 20:40:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 20:45:32 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Mazlum Abdi Suriye'de Kan Kaybetti! Amerika ve Şara'dan Gizli Anlaşma! Özerklik Hayalleri Suya Düştü</title>
+      <link>https://www.youtube.com/watch?v=f2mi2uDzsMo</link>
+      <guid isPermaLink="false">f2mi2uDzsMo</guid>
+      <pubDate>Thu, 27 Aug 2026 20:30:25 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Mazlum Abdi Suriye'de Kan Kaybetti! Amerika ve Şara'dan Gizli Anlaşma! Özerklik Hayalleri Suya Düştü</description>
+    </item>
     <item>
       <title>Halk TV: Mansur Yavaş’ın açıklamalarına Gamze Taşcıer’den destek mesajı: “Demokratik bir tercihtir!”</title>
       <link>https://www.youtube.com/watch?v=u_9sERZGXCw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">W2dn9pvBizk</guid>
       <pubDate>Thu, 27 Aug 2026 16:30:38 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Özgür Özel'den 'Teyzem Sağ Olsun'  YENİ Parti'nin ilk otobüsü yollarda!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: YENİ Parti Kartal İlçe Başkanlığı açılışı #Canlı</title>
-      <link>https://www.youtube.com/watch?v=wZ2cBh6FMQU</link>
-      <guid isPermaLink="false">wZ2cBh6FMQU</guid>
-      <pubDate>Thu, 27 Aug 2026 16:20:25 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Kartal İlçe Başkanlığı açılışı #Canlı</description>
     </item>
   </channel>
 </rss>
