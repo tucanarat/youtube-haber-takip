@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 19:15:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 19:20:31 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: İmralı tutanaklarının perde arkası! Güller, Kalaycıoğlu, Solmaztürk, Solakoğlu ile Türkiye'nin Yönü</title>
+      <link>https://www.youtube.com/watch?v=oJjopBM-Up4</link>
+      <guid isPermaLink="false">oJjopBM-Up4</guid>
+      <pubDate>Thu, 27 Aug 2026 19:17:32 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: İmralı tutanaklarının perde arkası! Güller, Kalaycıoğlu, Solmaztürk, Solakoğlu ile Türkiye'nin Yönü</description>
+    </item>
     <item>
       <title>Halk TV: BU SÖZLER ERDOĞAN'A NE YAPACAĞINI ŞAŞIRTIR! Mahmut Arıkan'dan çok sert sözler! Yer yerinden oynar!</title>
       <link>https://www.youtube.com/watch?v=R7lY8_teGJM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">p6RZs_0TZl4</guid>
       <pubDate>Thu, 27 Aug 2026 16:00:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: ROJİN'İN BABASINDAN İNANILMAZ İDDİA: "Otopsiden 2 Erkek DNA'sı ve Felç Edici İlaç Çıktı!"</description>
-    </item>
-    <item>
-      <title>Halk TV: KAZANAN MADENCİLER OLDU! Direnişlerinin Ardından Paraları Yatmaya Başladı! Tarihi Sözler!</title>
-      <link>https://www.youtube.com/watch?v=-wTEFY5Lihs</link>
-      <guid isPermaLink="false">-wTEFY5Lihs</guid>
-      <pubDate>Thu, 27 Aug 2026 15:55:26 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KAZANAN MADENCİLER OLDU! Direnişlerinin Ardından Paraları Yatmaya Başladı! Tarihi Sözler!</description>
     </item>
   </channel>
 </rss>
