@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 19:45:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 19:50:31 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: BU DETAYLAR BAŞKA YERDE YOK! Suriye'de Kürtlere hangi haklar verildi? SDG'nin entegrasyonunun anlamı</title>
+      <link>https://www.youtube.com/watch?v=QsBNw3-bFTg</link>
+      <guid isPermaLink="false">QsBNw3-bFTg</guid>
+      <pubDate>Thu, 27 Aug 2026 19:50:06 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: BU DETAYLAR BAŞKA YERDE YOK! Suriye'de Kürtlere hangi haklar verildi? SDG'nin entegrasyonunun anlamı</description>
+    </item>
+    <item>
+      <title>Halk TV: BU SÖZLER BUTLANCILARI ÇILDIRTIR! Yeni Partili isimden butlancılara sert sözler</title>
+      <link>https://www.youtube.com/watch?v=NXMAonSc_Dc</link>
+      <guid isPermaLink="false">NXMAonSc_Dc</guid>
+      <pubDate>Thu, 27 Aug 2026 19:45:25 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BU SÖZLER BUTLANCILARI ÇILDIRTIR! Yeni Partili isimden butlancılara sert sözler</description>
+    </item>
     <item>
       <title>Halk TV: ALTIN ALMAK İSTEYENLER DİKKAT! Uzman isimden peş peşe kritik uyarı! Milyonlar buraya kilitlensin!</title>
       <link>https://www.youtube.com/watch?v=AoXWUoqAh3E</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">wIvmkw0hCfg</guid>
       <pubDate>Thu, 27 Aug 2026 16:17:12 +0000</pubDate>
       <description>Halk TV kanalından yeni video: DEM Parti Kadıköy İlçe Örgütü, Mevsimlik İşçilere Yönelik Saldırıları Protesto Etti!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "NAMUSSUZLUK YAPMADIK!" Erkan Baş, madencilerin direniş zaferinin ardından iktidara seslendi!</title>
-      <link>https://www.youtube.com/watch?v=Ga9EvzIvcmY</link>
-      <guid isPermaLink="false">Ga9EvzIvcmY</guid>
-      <pubDate>Thu, 27 Aug 2026 16:15:19 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "NAMUSSUZLUK YAPMADIK!" Erkan Baş, madencilerin direniş zaferinin ardından iktidara seslendi!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Bağımsız Maden İş Sendikası, Başaran Aksu ve Gökay Çakır'ın tutuklanmasını protesto ediyor</title>
-      <link>https://www.youtube.com/watch?v=ZnI-J1g3RZg</link>
-      <guid isPermaLink="false">ZnI-J1g3RZg</guid>
-      <pubDate>Thu, 27 Aug 2026 16:14:07 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Bağımsız Maden İş Sendikası, Başaran Aksu ve Gökay Çakır'ın tutuklanmasını protesto ediyor</description>
     </item>
   </channel>
 </rss>
