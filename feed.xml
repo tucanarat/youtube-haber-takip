@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 13:10:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 13:15:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: DİRENEN MADENCİLER KAZANDI! '8 kez gözaltına alındık, yerlerde sürüklendik'</title>
+      <link>https://www.youtube.com/watch?v=HYl9imu4gyo</link>
+      <guid isPermaLink="false">HYl9imu4gyo</guid>
+      <pubDate>Fri, 28 Aug 2026 13:00:20 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: DİRENEN MADENCİLER KAZANDI! '8 kez gözaltına alındık, yerlerde sürüklendik'</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Derince'de kadınlarla bir araya geldi #Canlı</title>
       <link>https://www.youtube.com/watch?v=qaRJIf5WwcY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">x6esvD0exRE</guid>
       <pubDate>Fri, 28 Aug 2026 10:50:18 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: DEM Parti'den 'süreç' açıklaması: Bürokratik bir işleyişe sıkıştırılmamalı</description>
-    </item>
-    <item>
-      <title>Halk TV: 'HARAÇ' KESTİ SONU KÖTÜ BİTTİ! 'Bıçak parası' isteyen doktor 50 hastadan milyonluk oldu ama...</title>
-      <link>https://www.youtube.com/watch?v=zEIlZI4-_7c</link>
-      <guid isPermaLink="false">zEIlZI4-_7c</guid>
-      <pubDate>Fri, 28 Aug 2026 10:45:25 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: 'HARAÇ' KESTİ SONU KÖTÜ BİTTİ! 'Bıçak parası' isteyen doktor 50 hastadan milyonluk oldu ama...</description>
     </item>
   </channel>
 </rss>
