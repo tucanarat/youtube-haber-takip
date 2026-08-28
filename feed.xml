@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 12:55:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 13:00:51 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Derince'de kadınlarla bir araya geldi #Canlı</title>
+      <link>https://www.youtube.com/watch?v=qaRJIf5WwcY</link>
+      <guid isPermaLink="false">qaRJIf5WwcY</guid>
+      <pubDate>Fri, 28 Aug 2026 13:00:12 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Derince'de kadınlarla bir araya geldi #Canlı</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: "Mahkeme Eliyle Siyaset Dizayn Edilmek İsteniyor!" YENİ Partili Muallaoğlu'ndan Butlancılara Tepki!</title>
+      <link>https://www.youtube.com/watch?v=KVZ9h_iLQ1U</link>
+      <guid isPermaLink="false">KVZ9h_iLQ1U</guid>
+      <pubDate>Fri, 28 Aug 2026 12:51:37 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "Mahkeme Eliyle Siyaset Dizayn Edilmek İsteniyor!" YENİ Partili Muallaoğlu'ndan Butlancılara Tepki!</description>
+    </item>
     <item>
       <title>Cumhuriyet: Emniyetteki sorgusu tamamlandı: Tolga Akış tutuklanma talebiyle mahkemeye sevk edildi</title>
       <link>https://www.youtube.com/shorts/ahqt__hjTIA</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">gk9DMqynk84</guid>
       <pubDate>Fri, 28 Aug 2026 10:42:11 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Karamürsel'de mahşeri bir kalabalık: YENİ Parti Lideri Özel'i karşılamaya geldiler!</description>
-    </item>
-    <item>
-      <title>Halk TV: Esnaf ziyaretindeki Özgür Özel: Eczane gördüm mü dayanamıyorum!</title>
-      <link>https://www.youtube.com/shorts/2klKWQzlRJc</link>
-      <guid isPermaLink="false">2klKWQzlRJc</guid>
-      <pubDate>Fri, 28 Aug 2026 10:41:48 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Esnaf ziyaretindeki Özgür Özel: Eczane gördüm mü dayanamıyorum!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Ayşegül Doğan'dan Suriye açıklaması #shorts</title>
-      <link>https://www.youtube.com/shorts/BPC8r58wG-I</link>
-      <guid isPermaLink="false">BPC8r58wG-I</guid>
-      <pubDate>Fri, 28 Aug 2026 10:36:31 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Ayşegül Doğan'dan Suriye açıklaması #shorts</description>
     </item>
   </channel>
 </rss>
