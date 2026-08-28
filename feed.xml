@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 11:30:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 11:35:28 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Netanyahu'dan Türkiye İtirafı! Küstah Sözler Tehdit Etti! "ABD Aracılığıyla Mesaj Yolladık"</title>
+      <link>https://www.youtube.com/watch?v=wInVVGgv3No</link>
+      <guid isPermaLink="false">wInVVGgv3No</guid>
+      <pubDate>Fri, 28 Aug 2026 11:30:09 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Netanyahu'dan Türkiye İtirafı! Küstah Sözler Tehdit Etti! "ABD Aracılığıyla Mesaj Yolladık"</description>
+    </item>
     <item>
       <title>Halk TV: 10 YIL ÖNCEKİ TEPKİ TOPLAYAN SÖZLERİ TEKRAR GÜNDEM! Bakın Erdoğan 'kadınlar' için ne demişti!</title>
       <link>https://www.youtube.com/watch?v=pPcI5BomlWM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">HGxC9OEYTNE</guid>
       <pubDate>Fri, 28 Aug 2026 09:00:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Hedef Mansur Yavaş! Murat Ağırel Gizli Planı İfşa Etti! CHP'de Yer Yerinden Oynayacak!</description>
-    </item>
-    <item>
-      <title>Halk TV: O DETAYI İLK KEZ AÇIKLADI! Akın Gürlek'ten İdris Naim Şahin'e zehir zemberek 'çakarlı araç' sözleri!</title>
-      <link>https://www.youtube.com/watch?v=9juIqMF6PtM</link>
-      <guid isPermaLink="false">9juIqMF6PtM</guid>
-      <pubDate>Fri, 28 Aug 2026 08:50:25 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: O DETAYI İLK KEZ AÇIKLADI! Akın Gürlek'ten İdris Naim Şahin'e zehir zemberek 'çakarlı araç' sözleri!</description>
     </item>
   </channel>
 </rss>
