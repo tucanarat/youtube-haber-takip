@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 16:15:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 16:20:39 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ÖZGÜR ÖZEL KOCAELİ’NDE İKTİDARA SERT ÇIKTI! 'Yayın evi basıp kitap topladılar'</title>
+      <link>https://www.youtube.com/watch?v=geLVQefjEbo</link>
+      <guid isPermaLink="false">geLVQefjEbo</guid>
+      <pubDate>Fri, 28 Aug 2026 16:15:26 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ÖZGÜR ÖZEL KOCAELİ’NDE İKTİDARA SERT ÇIKTI! 'Yayın evi basıp kitap topladılar'</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: İmamoğlu'nun SAVUNMA KİTABI' basılmadan yasaklandı! Taylan'dan 'Silivri Sarayı' benzetmesi...</title>
+      <link>https://www.youtube.com/watch?v=C0ySgGH78Gw</link>
+      <guid isPermaLink="false">C0ySgGH78Gw</guid>
+      <pubDate>Fri, 28 Aug 2026 16:15:21 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: İmamoğlu'nun SAVUNMA KİTABI' basılmadan yasaklandı! Taylan'dan 'Silivri Sarayı' benzetmesi...</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Zeytinburnu'nda, İETT otobüsü bir sitenin bahçe duvarına çarptı!</title>
       <link>https://www.youtube.com/watch?v=YYUxSEYdfFs</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">aZpIju9k-Rc</guid>
       <pubDate>Fri, 28 Aug 2026 13:37:54 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, İzmit Fethiye Caddesi'nde esnafı ziyaret ediyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: KIYAMETİ ARATMAYAN GÖRÜNTÜLER! Nepal'deki sel felaketinde kan donduracak manzara! Resmen can pazarı!</title>
-      <link>https://www.youtube.com/watch?v=Ece1sz6O7pE</link>
-      <guid isPermaLink="false">Ece1sz6O7pE</guid>
-      <pubDate>Fri, 28 Aug 2026 13:30:38 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KIYAMETİ ARATMAYAN GÖRÜNTÜLER! Nepal'deki sel felaketinde kan donduracak manzara! Resmen can pazarı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Manifest'in Kurucusu Tolga Akış'ın İfadesi Ortaya Çıktı! Neler Dedi Neler! O Detay Olay Olur</title>
-      <link>https://www.youtube.com/watch?v=SFQLNVVBhXg</link>
-      <guid isPermaLink="false">SFQLNVVBhXg</guid>
-      <pubDate>Fri, 28 Aug 2026 13:30:33 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Manifest'in Kurucusu Tolga Akış'ın İfadesi Ortaya Çıktı! Neler Dedi Neler! O Detay Olay Olur</description>
     </item>
   </channel>
 </rss>
