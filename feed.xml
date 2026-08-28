@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 15:30:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 15:35:24 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ÖZGÜR ÖZEL'E KOCAELİ'DE SEVGİ SELİ! Bu görüntüler iktidarı üzecek</title>
+      <link>https://www.youtube.com/watch?v=F_w1cNljB5I</link>
+      <guid isPermaLink="false">F_w1cNljB5I</guid>
+      <pubDate>Fri, 28 Aug 2026 15:30:24 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ÖZGÜR ÖZEL'E KOCAELİ'DE SEVGİ SELİ! Bu görüntüler iktidarı üzecek</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Putin Korkusu İngiltere ve Avrupa'yı Sardı! İngilizleri Tehdit Etti! NATO Savaşa Hazırlanıyor</title>
       <link>https://www.youtube.com/watch?v=w10G2ItQ9Rk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ju99IFsn-C0</guid>
       <pubDate>Fri, 28 Aug 2026 13:02:25 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Öner Döşer'den 12 Burca Kritik Uyarı! Doğum Haritanızdaki Sırrı Öner Döşer Çözüyor</description>
-    </item>
-    <item>
-      <title>Halk TV: DİRENEN MADENCİLER KAZANDI! '8 kez gözaltına alındık, yerlerde sürüklendik'</title>
-      <link>https://www.youtube.com/watch?v=HYl9imu4gyo</link>
-      <guid isPermaLink="false">HYl9imu4gyo</guid>
-      <pubDate>Fri, 28 Aug 2026 13:00:20 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: DİRENEN MADENCİLER KAZANDI! '8 kez gözaltına alındık, yerlerde sürüklendik'</description>
     </item>
   </channel>
 </rss>
