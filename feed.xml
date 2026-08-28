@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 20:50:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 20:55:29 +0000</lastBuildDate>
     <item>
       <title>Halk TV: SICAK GELİŞME! Komedyen Deniz Göktaş hakkında hem tahliye hem tutuklama kararı!</title>
       <link>https://www.youtube.com/watch?v=5xV2M2zHCcg</link>
       <guid isPermaLink="false">5xV2M2zHCcg</guid>
       <pubDate>Fri, 28 Aug 2026 20:45:12 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SICAK GELİŞME! Komedyen Deniz Göktaş hakkında hem tahliye hem tutuklama kararı!</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: İstanbul Sanayi Odası Meclis Başkanı Ender Yılmaz açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=oKG1dImMWfU</link>
+      <guid isPermaLink="false">oKG1dImMWfU</guid>
+      <pubDate>Fri, 28 Aug 2026 20:42:16 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: İstanbul Sanayi Odası Meclis Başkanı Ender Yılmaz açıklama yapıyor #Canlı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Mansur Yavaş Düğmeye Bastı! İmamoğlu'ndan Büyük Destek! İktidarın Oyununu Bozdular</title>
+      <link>https://www.youtube.com/watch?v=eaLKCdi2O3E</link>
+      <guid isPermaLink="false">eaLKCdi2O3E</guid>
+      <pubDate>Fri, 28 Aug 2026 20:40:08 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Mansur Yavaş Düğmeye Bastı! İmamoğlu'ndan Büyük Destek! İktidarın Oyununu Bozdular</description>
     </item>
     <item>
       <title>Halk TV: MENDERES’TE BİLİRKİŞİ RAPORU GÜNDEMDE! Çiçek’ten çarpıcı açıklama!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">G0nOBMQPtWo</guid>
       <pubDate>Fri, 28 Aug 2026 17:04:23 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Özgür Özel: Canlı yayın talebimiz ısrarla devam ediyor</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: "Annemin Cenazesini Otobüs Bagajında Taşıdım" | Serap Belovacıklı | İpek Özbey ile Perdenin Arkası</title>
-      <link>https://www.youtube.com/watch?v=C2Blu_fvjo8</link>
-      <guid isPermaLink="false">C2Blu_fvjo8</guid>
-      <pubDate>Fri, 28 Aug 2026 17:00:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: "Annemin Cenazesini Otobüs Bagajında Taşıdım" | Serap Belovacıklı | İpek Özbey ile Perdenin Arkası</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Sinem Fıstıkoğlu ile Halk Ana Haber | #yasak</title>
-      <link>https://www.youtube.com/watch?v=_2Lh44EkhJI</link>
-      <guid isPermaLink="false">_2Lh44EkhJI</guid>
-      <pubDate>Fri, 28 Aug 2026 16:58:15 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Sinem Fıstıkoğlu ile Halk Ana Haber | #yasak</description>
     </item>
   </channel>
 </rss>
