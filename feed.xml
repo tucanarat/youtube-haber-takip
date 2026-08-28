@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 20:30:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 20:35:38 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: MENDERES’TE BİLİRKİŞİ RAPORU GÜNDEMDE! Çiçek’ten çarpıcı açıklama!</title>
+      <link>https://www.youtube.com/watch?v=V7yq8tWutkg</link>
+      <guid isPermaLink="false">V7yq8tWutkg</guid>
+      <pubDate>Fri, 28 Aug 2026 20:30:00 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: MENDERES’TE BİLİRKİŞİ RAPORU GÜNDEMDE! Çiçek’ten çarpıcı açıklama!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: CHP Grup Başkanı Faik Öztrak, TBMM'de basın toplantısı düzenliyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=zRLmDy7DQVw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">nJQbzmliED4</guid>
       <pubDate>Fri, 28 Aug 2026 16:56:59 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | İrem Sansak ile Gündem Özel | #Halktv</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Sözcü Ana Haber |  Senem Toluay Ilgaz | 28 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=oGemfqsJVIE</link>
-      <guid isPermaLink="false">oGemfqsJVIE</guid>
-      <pubDate>Fri, 28 Aug 2026 16:53:55 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Sözcü Ana Haber |  Senem Toluay Ilgaz | 28 Ağustos</description>
     </item>
   </channel>
 </rss>
