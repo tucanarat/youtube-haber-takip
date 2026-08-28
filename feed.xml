@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 20:15:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 20:20:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: 35 YILLIK SALTANAT SONA ERDİ! Norveç “Halkın Kralı”na veda ediyor!</title>
+      <link>https://www.youtube.com/watch?v=X6HQlP6hQ-8</link>
+      <guid isPermaLink="false">X6HQlP6hQ-8</guid>
+      <pubDate>Fri, 28 Aug 2026 20:15:09 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: 35 YILLIK SALTANAT SONA ERDİ! Norveç “Halkın Kralı”na veda ediyor!</description>
+    </item>
     <item>
       <title>Halk TV: FELAKETLER PEŞ PEŞE! Nepal’de sel, Cezayir’de yangın! Can kayıpları artıyor...</title>
       <link>https://www.youtube.com/watch?v=U4DcuhATjAM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">FHxeCD_-CSo</guid>
       <pubDate>Fri, 28 Aug 2026 16:45:36 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Figen Çalıkuşu, Ahmet Şık'ın "İmamın ordusu" kitabının da, daha basılmadan toplatıldığını hatırlattı</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Cumhurbaşkanı Erdoğan, "Mevlid-i Nebi Haftası Programı"nda konuşuyor!</title>
-      <link>https://www.youtube.com/watch?v=oU2y2VXhr8M</link>
-      <guid isPermaLink="false">oU2y2VXhr8M</guid>
-      <pubDate>Fri, 28 Aug 2026 16:42:51 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Cumhurbaşkanı Erdoğan, "Mevlid-i Nebi Haftası Programı"nda konuşuyor!</description>
     </item>
   </channel>
 </rss>
