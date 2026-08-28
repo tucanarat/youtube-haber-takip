@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 07:10:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 07:15:33 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Utku Çakırözer'den Sincan ziyareti: Siyasi tutuklular peşin cezalandırmayla karşı karşıya</title>
+      <link>https://www.youtube.com/watch?v=QSI8RUguCHo</link>
+      <guid isPermaLink="false">QSI8RUguCHo</guid>
+      <pubDate>Fri, 28 Aug 2026 07:11:55 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Utku Çakırözer'den Sincan ziyareti: Siyasi tutuklular peşin cezalandırmayla karşı karşıya</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI Murat Taylan ile Haber-Yorum (28.08.2026)</title>
       <link>https://www.youtube.com/watch?v=_p0PPCAKwzI</link>
@@ -15,11 +22,11 @@
       <description>Tele2 Haber kanalından yeni video: #CANLI Murat Taylan ile Haber-Yorum (28.08.2026)</description>
     </item>
     <item>
-      <title>Tele2 Haber: #CANLI Zeynel Lüle ile Ankara Günlüğü | Konuk: Gökçe Gökçen (28.08.26)</title>
+      <title>Tele2 Haber: #CANLI Zeynel Lüle ile Ankara Günlüğü | Konuk: Ferit Demir (28.08.26)</title>
       <link>https://www.youtube.com/watch?v=pPLndsh2bPs</link>
       <guid isPermaLink="false">pPLndsh2bPs</guid>
       <pubDate>Fri, 28 Aug 2026 07:06:57 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Zeynel Lüle ile Ankara Günlüğü | Konuk: Gökçe Gökçen (28.08.26)</description>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Zeynel Lüle ile Ankara Günlüğü | Konuk: Ferit Demir (28.08.26)</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Gökçeklerin Yurt Dışındaki Serveti İfşa Oldu! Murat Ağırel Belgeyle Anlattı! Milyon Euroluk Anlaşma</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">8s4zi70cyqY</guid>
       <pubDate>Thu, 27 Aug 2026 21:00:32 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: İmralı tutanakları tartışması! PKK'nın "Lozan" amacı!</description>
-    </item>
-    <item>
-      <title>Halk TV: “BUTLANA HAYIR DEDİ, ÖZEL’LE YÜRÜDÜ!” Mustafa Balbay’dan Mansur Yavaş analizi!</title>
-      <link>https://www.youtube.com/watch?v=DksyfJbFMWI</link>
-      <guid isPermaLink="false">DksyfJbFMWI</guid>
-      <pubDate>Thu, 27 Aug 2026 21:00:20 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: “BUTLANA HAYIR DEDİ, ÖZEL’LE YÜRÜDÜ!” Mustafa Balbay’dan Mansur Yavaş analizi!</description>
     </item>
   </channel>
 </rss>
