@@ -6,13 +6,34 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 07:05:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 07:10:32 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI Murat Taylan ile Haber-Yorum (28.08.2026)</title>
+      <link>https://www.youtube.com/watch?v=_p0PPCAKwzI</link>
+      <guid isPermaLink="false">_p0PPCAKwzI</guid>
+      <pubDate>Fri, 28 Aug 2026 07:08:02 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Murat Taylan ile Haber-Yorum (28.08.2026)</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #CANLI Zeynel Lüle ile Ankara Günlüğü | Konuk: Gökçe Gökçen (28.08.26)</title>
+      <link>https://www.youtube.com/watch?v=pPLndsh2bPs</link>
+      <guid isPermaLink="false">pPLndsh2bPs</guid>
+      <pubDate>Fri, 28 Aug 2026 07:06:57 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Zeynel Lüle ile Ankara Günlüğü | Konuk: Gökçe Gökçen (28.08.26)</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Gökçeklerin Yurt Dışındaki Serveti İfşa Oldu! Murat Ağırel Belgeyle Anlattı! Milyon Euroluk Anlaşma</title>
       <link>https://www.youtube.com/watch?v=9l50jlGDIYY</link>
       <guid isPermaLink="false">9l50jlGDIYY</guid>
       <pubDate>Fri, 28 Aug 2026 07:00:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Gökçeklerin Yurt Dışındaki Serveti İfşa Oldu! Murat Ağırel Belgeyle Anlattı! Milyon Euroluk Anlaşma</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Özgür Özel Yola Çıkıyor! YENİ Parti Otobüsüyle İlk Adres Kocaeli! Binler Buluşmaya Akacak!</title>
+      <link>https://www.youtube.com/watch?v=yWeN25b1TwA</link>
+      <guid isPermaLink="false">yWeN25b1TwA</guid>
+      <pubDate>Fri, 28 Aug 2026 06:57:18 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Özgür Özel Yola Çıkıyor! YENİ Parti Otobüsüyle İlk Adres Kocaeli! Binler Buluşmaya Akacak!</description>
     </item>
     <item>
       <title>Halk TV: İstanbul’da geceyi gök gürültüsü ve sağanak böldü!</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">DksyfJbFMWI</guid>
       <pubDate>Thu, 27 Aug 2026 21:00:20 +0000</pubDate>
       <description>Halk TV kanalından yeni video: “BUTLANA HAYIR DEDİ, ÖZEL’LE YÜRÜDÜ!” Mustafa Balbay’dan Mansur Yavaş analizi!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: CHP Genel Başkan Yardımcısı Orhan Sarıbal, Parti Genel Merkezi'nde basın toplantısı düzenliyor#Canlı</title>
-      <link>https://www.youtube.com/watch?v=wV7w5dqoOJ8</link>
-      <guid isPermaLink="false">wV7w5dqoOJ8</guid>
-      <pubDate>Thu, 27 Aug 2026 20:55:40 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkan Yardımcısı Orhan Sarıbal, Parti Genel Merkezi'nde basın toplantısı düzenliyor#Canlı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: 40 Bin Tır Silah Kime Gitti? Pentagon'dan Teröre 130 Milyon Dolar! Sınırda İsrail ABD Tehlikesi</title>
-      <link>https://www.youtube.com/watch?v=UVgYTzd0ka0</link>
-      <guid isPermaLink="false">UVgYTzd0ka0</guid>
-      <pubDate>Thu, 27 Aug 2026 20:50:36 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: 40 Bin Tır Silah Kime Gitti? Pentagon'dan Teröre 130 Milyon Dolar! Sınırda İsrail ABD Tehlikesi</description>
-    </item>
-    <item>
-      <title>Halk TV: Ahat Andican’dan muhalefete Mansur Yavaş çağrısı! “Birlikteliği sürdürmeliler!”</title>
-      <link>https://www.youtube.com/watch?v=iTZdmfyBOqE</link>
-      <guid isPermaLink="false">iTZdmfyBOqE</guid>
-      <pubDate>Thu, 27 Aug 2026 20:40:32 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ahat Andican’dan muhalefete Mansur Yavaş çağrısı! “Birlikteliği sürdürmeliler!”</description>
     </item>
   </channel>
 </rss>
