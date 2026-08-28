@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 09:30:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 09:35:29 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Altın ve Borsada Büyük Kıyamet mi Kopacak? Ünlü Ekonomist Anlattı ve Uyardı 'O Seviyeyi Görebiliriz'</title>
+      <link>https://www.youtube.com/watch?v=ONBv4YjmRZU</link>
+      <guid isPermaLink="false">ONBv4YjmRZU</guid>
+      <pubDate>Fri, 28 Aug 2026 09:30:08 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Altın ve Borsada Büyük Kıyamet mi Kopacak? Ünlü Ekonomist Anlattı ve Uyardı 'O Seviyeyi Görebiliriz'</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Karamürsel Meydanı'nda Esnafı Ziyaret Ediyor</title>
       <link>https://www.youtube.com/watch?v=d84XePSqDZY</link>
@@ -20,6 +27,13 @@
       <guid isPermaLink="false">AvpHllzC8pU</guid>
       <pubDate>Fri, 28 Aug 2026 09:23:16 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI Özgür Özel, Karamürsel Meydanı'nda esnafı ziyaret ediyor</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Karamürsel Meydanı'nda esnafı ziyaret ediyor</title>
+      <link>https://www.youtube.com/watch?v=KIgluV7GgH4</link>
+      <guid isPermaLink="false">KIgluV7GgH4</guid>
+      <pubDate>Fri, 28 Aug 2026 09:23:07 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Karamürsel Meydanı'nda esnafı ziyaret ediyor</description>
     </item>
     <item>
       <title>Halk TV: DEM Parti Sözcüsü Ayşegül Doğan, partisinin genel merkezinde basın toplantısı düzenledi</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">YdsAa9C6kQ0</guid>
       <pubDate>Fri, 28 Aug 2026 06:31:57 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İstanbul’da geceyi gök gürültüsü ve sağanak böldü!</description>
-    </item>
-    <item>
-      <title>Halk TV: Rusya'nın yeni silahı Avrupa'ya korku saldı! Trump apar topar Putin ile ne görüştü?</title>
-      <link>https://www.youtube.com/watch?v=MdtrKdp1IL8</link>
-      <guid isPermaLink="false">MdtrKdp1IL8</guid>
-      <pubDate>Fri, 28 Aug 2026 06:31:03 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Rusya'nın yeni silahı Avrupa'ya korku saldı! Trump apar topar Putin ile ne görüştü?</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Ankara'da Neler Olmuş Neler! Orhan Bursalı'dan Bomba Mansur Yavaş ve Erdoğan Kulisleri!</title>
-      <link>https://www.youtube.com/watch?v=YGCbF7t1l0A</link>
-      <guid isPermaLink="false">YGCbF7t1l0A</guid>
-      <pubDate>Fri, 28 Aug 2026 06:30:33 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Ankara'da Neler Olmuş Neler! Orhan Bursalı'dan Bomba Mansur Yavaş ve Erdoğan Kulisleri!</description>
     </item>
   </channel>
 </rss>
