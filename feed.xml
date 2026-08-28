@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 18:00:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 18:05:27 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Muğla'nın Fethiye ilçesinde yerleşim yerine yakın bölgede çıkan orman yangınına müdahale ediliyor!</title>
+      <link>https://www.youtube.com/watch?v=yflVFy-0SBI</link>
+      <guid isPermaLink="false">yflVFy-0SBI</guid>
+      <pubDate>Fri, 28 Aug 2026 18:00:32 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Muğla'nın Fethiye ilçesinde yerleşim yerine yakın bölgede çıkan orman yangınına müdahale ediliyor!</description>
+    </item>
     <item>
       <title>Tele2 Haber: AİHM'nin Kavala kararının ardından Bülent Mumay iktidara 'İstanbul Sözleşmesi' üzerinden seslendi!</title>
       <link>https://www.youtube.com/watch?v=3WMUy1UKUx4</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">_IMStuNKzuw</guid>
       <pubDate>Fri, 28 Aug 2026 14:30:08 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SON DAKİKA! Manifest grubunun kurucusu ve menajeri Tolga Akış 'müstehcenlik' suçundan tutuklandı!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Faciadan dönüldü: Zeytinburnu'nda sitenin bahçe duvarına çarpan İETT otobüsünde yaralılar var</title>
-      <link>https://www.youtube.com/shorts/fyhhmImmNK0</link>
-      <guid isPermaLink="false">fyhhmImmNK0</guid>
-      <pubDate>Fri, 28 Aug 2026 14:26:55 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Faciadan dönüldü: Zeytinburnu'nda sitenin bahçe duvarına çarpan İETT otobüsünde yaralılar var</description>
     </item>
   </channel>
 </rss>
