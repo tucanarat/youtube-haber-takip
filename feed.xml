@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 16:25:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 16:30:40 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Cumhurbaşkanı Erdoğan, "Mevlid-i Nebi Haftası Programı"nda konuşuyor!</title>
+      <link>https://www.youtube.com/watch?v=oU2y2VXhr8M</link>
+      <guid isPermaLink="false">oU2y2VXhr8M</guid>
+      <pubDate>Fri, 28 Aug 2026 16:25:17 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Cumhurbaşkanı Erdoğan, "Mevlid-i Nebi Haftası Programı"nda konuşuyor!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Tolga Akış niye tutuklandı? Murat Taylan'dan "Manifest ve müstehcenlik" tepkisi!</title>
+      <link>https://www.youtube.com/watch?v=YkaPWFdlVo4</link>
+      <guid isPermaLink="false">YkaPWFdlVo4</guid>
+      <pubDate>Fri, 28 Aug 2026 16:19:48 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Tolga Akış niye tutuklandı? Murat Taylan'dan "Manifest ve müstehcenlik" tepkisi!</description>
+    </item>
     <item>
       <title>Halk TV: ÖZGÜR ÖZEL KOCAELİ’NDE İKTİDARA SERT ÇIKTI! 'Yayın evi basıp kitap topladılar'</title>
       <link>https://www.youtube.com/watch?v=geLVQefjEbo</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">ZbGTL4K0wAI</guid>
       <pubDate>Fri, 28 Aug 2026 13:44:56 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Kocaeli'nde Özgür Özel'e coşkulu karşılama! Antrenmandan kaçtı, soluğu Özgür Özel'in yanında aldı!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Özgür Özel, Derince Belediyesi'nin Çenesuyu İşletmesi'nin açılışında konuşuyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=SrB96hyIcDk</link>
-      <guid isPermaLink="false">SrB96hyIcDk</guid>
-      <pubDate>Fri, 28 Aug 2026 13:42:06 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Özgür Özel, Derince Belediyesi'nin Çenesuyu İşletmesi'nin açılışında konuşuyor #Canlı</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, İzmit Fethiye Caddesi'nde esnafı ziyaret ediyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=aZpIju9k-Rc</link>
-      <guid isPermaLink="false">aZpIju9k-Rc</guid>
-      <pubDate>Fri, 28 Aug 2026 13:37:54 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, İzmit Fethiye Caddesi'nde esnafı ziyaret ediyor #Canlı</description>
     </item>
   </channel>
 </rss>
