@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 11:25:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 11:30:49 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: 10 YIL ÖNCEKİ TEPKİ TOPLAYAN SÖZLERİ TEKRAR GÜNDEM! Bakın Erdoğan 'kadınlar' için ne demişti!</title>
+      <link>https://www.youtube.com/watch?v=pPcI5BomlWM</link>
+      <guid isPermaLink="false">pPcI5BomlWM</guid>
+      <pubDate>Fri, 28 Aug 2026 11:25:20 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: 10 YIL ÖNCEKİ TEPKİ TOPLAYAN SÖZLERİ TEKRAR GÜNDEM! Bakın Erdoğan 'kadınlar' için ne demişti!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Ümit Özdağ, Yıldızlar SSS Holding önündeki  maden işçilerine destek ziyaretinde bulundu #Canlı</title>
       <link>https://www.youtube.com/watch?v=aMCMXEUfdBA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">9juIqMF6PtM</guid>
       <pubDate>Fri, 28 Aug 2026 08:50:25 +0000</pubDate>
       <description>Halk TV kanalından yeni video: O DETAYI İLK KEZ AÇIKLADI! Akın Gürlek'ten İdris Naim Şahin'e zehir zemberek 'çakarlı araç' sözleri!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI DEM Parti Sözcüsü Ayşegül Doğan, partisinin genel merkezinde basın toplantısı düzenliyor</title>
-      <link>https://www.youtube.com/watch?v=xUhTaFb9s4w</link>
-      <guid isPermaLink="false">xUhTaFb9s4w</guid>
-      <pubDate>Fri, 28 Aug 2026 08:36:31 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI DEM Parti Sözcüsü Ayşegül Doğan, partisinin genel merkezinde basın toplantısı düzenliyor</description>
     </item>
   </channel>
 </rss>
