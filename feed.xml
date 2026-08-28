@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 11:35:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 11:40:35 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Ülkü Çoban'dan Butlancılara Çok Sert Tepki!</title>
+      <link>https://www.youtube.com/shorts/arNXdAA3yI8</link>
+      <guid isPermaLink="false">arNXdAA3yI8</guid>
+      <pubDate>Fri, 28 Aug 2026 11:36:26 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Ülkü Çoban'dan Butlancılara Çok Sert Tepki!</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: Ümit Özdağ, Yıldızlar SSS Holding önünde eylem yapan maden işçilerini ziyaret etti  #Canlı</title>
+      <link>https://www.youtube.com/watch?v=PYj-ivwhjUQ</link>
+      <guid isPermaLink="false">PYj-ivwhjUQ</guid>
+      <pubDate>Fri, 28 Aug 2026 11:35:04 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Ümit Özdağ, Yıldızlar SSS Holding önünde eylem yapan maden işçilerini ziyaret etti  #Canlı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Netanyahu'dan Türkiye İtirafı! Küstah Sözler Tehdit Etti! "ABD Aracılığıyla Mesaj Yolladık"</title>
       <link>https://www.youtube.com/watch?v=wInVVGgv3No</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">H4GTjNVoRXw</guid>
       <pubDate>Fri, 28 Aug 2026 09:05:08 +0000</pubDate>
       <description>Halk TV kanalından yeni video: FELAKETİN SONUÇLARI BÜYÜYOR! Binlerce insan selle bilikte acı bir şekilde kayboldu</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Murat Ağırel'in Melih Gökçek'i Terletecek Bomba Haberi! "30 bin Avro Sermayeden Milyonlarca Avro’ya"</title>
-      <link>https://www.youtube.com/watch?v=EVKVwlU4r74</link>
-      <guid isPermaLink="false">EVKVwlU4r74</guid>
-      <pubDate>Fri, 28 Aug 2026 09:02:12 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Murat Ağırel'in Melih Gökçek'i Terletecek Bomba Haberi! "30 bin Avro Sermayeden Milyonlarca Avro’ya"</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Hedef Mansur Yavaş! Murat Ağırel Gizli Planı İfşa Etti! CHP'de Yer Yerinden Oynayacak!</title>
-      <link>https://www.youtube.com/watch?v=HGxC9OEYTNE</link>
-      <guid isPermaLink="false">HGxC9OEYTNE</guid>
-      <pubDate>Fri, 28 Aug 2026 09:00:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Hedef Mansur Yavaş! Murat Ağırel Gizli Planı İfşa Etti! CHP'de Yer Yerinden Oynayacak!</description>
     </item>
   </channel>
 </rss>
