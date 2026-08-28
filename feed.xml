@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 16:40:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 16:45:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Cumhurbaşkanı Erdoğan, "Mevlid-i Nebi Haftası Programı"nda konuşuyor!</title>
+      <link>https://www.youtube.com/watch?v=oU2y2VXhr8M</link>
+      <guid isPermaLink="false">oU2y2VXhr8M</guid>
+      <pubDate>Fri, 28 Aug 2026 16:42:51 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Cumhurbaşkanı Erdoğan, "Mevlid-i Nebi Haftası Programı"nda konuşuyor!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: MURAT TAYLAN'DAN 'MANİFEST VE MÜSTEHCENLİK' TEPKİSİ!</title>
+      <link>https://www.youtube.com/shorts/qM2oEpxaJOI</link>
+      <guid isPermaLink="false">qM2oEpxaJOI</guid>
+      <pubDate>Fri, 28 Aug 2026 16:41:17 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: MURAT TAYLAN'DAN 'MANİFEST VE MÜSTEHCENLİK' TEPKİSİ!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: İmamoğlu'nun kitabına yasak! Yalçık Küçük bomba diyip kitapları böyle atmıştı!</title>
+      <link>https://www.youtube.com/shorts/wygV6UeVPpo</link>
+      <guid isPermaLink="false">wygV6UeVPpo</guid>
+      <pubDate>Fri, 28 Aug 2026 16:30:27 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: İmamoğlu'nun kitabına yasak! Yalçık Küçük bomba diyip kitapları böyle atmıştı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Putin'den Erdoğan Hamlesi! Kremlin Resmen Açıkladı! O Ülkede Beklenmedik Tarihi Zirve!</title>
       <link>https://www.youtube.com/watch?v=zdB4OcGc23M</link>
@@ -20,13 +41,6 @@
       <guid isPermaLink="false">TMjtDiRKNMA</guid>
       <pubDate>Fri, 28 Aug 2026 16:30:07 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Parti'ye çığ gibi büyüyen desteğin en net tablosu... Özgür Özel öyle bir detay açıkladı ki...</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Cumhurbaşkanı Erdoğan, "Mevlid-i Nebi Haftası Programı"nda konuşuyor!</title>
-      <link>https://www.youtube.com/watch?v=oU2y2VXhr8M</link>
-      <guid isPermaLink="false">oU2y2VXhr8M</guid>
-      <pubDate>Fri, 28 Aug 2026 16:25:17 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Cumhurbaşkanı Erdoğan, "Mevlid-i Nebi Haftası Programı"nda konuşuyor!</description>
     </item>
     <item>
       <title>Tele2 Haber: Tolga Akış niye tutuklandı? Murat Taylan'dan "Manifest ve müstehcenlik" tepkisi!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">XKBSLLrqZ4w</guid>
       <pubDate>Fri, 28 Aug 2026 13:45:32 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BU SÖZLER YÜREKLERE İŞLENECEK! Özgür Özel'in yanına gelen teyze ağlayarak bakın neler söyledi!</description>
-    </item>
-    <item>
-      <title>Halk TV: Ayşegül Doğan: 'Büyük Değişim ve Dönüşüm'ü 6 Eylül’den sonra yapacağımız kongrede örgütleyeceğiz</title>
-      <link>https://www.youtube.com/shorts/zWlGD5UzinA</link>
-      <guid isPermaLink="false">zWlGD5UzinA</guid>
-      <pubDate>Fri, 28 Aug 2026 13:45:28 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ayşegül Doğan: 'Büyük Değişim ve Dönüşüm'ü 6 Eylül’den sonra yapacağımız kongrede örgütleyeceğiz</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: İMAMOĞLU'NUN KİTABINA DA ENGEL! Özgür Özel'i hiç böyle öfkeli görmediniz!</title>
-      <link>https://www.youtube.com/watch?v=oTiFr-A9FfQ</link>
-      <guid isPermaLink="false">oTiFr-A9FfQ</guid>
-      <pubDate>Fri, 28 Aug 2026 13:45:16 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: İMAMOĞLU'NUN KİTABINA DA ENGEL! Özgür Özel'i hiç böyle öfkeli görmediniz!</description>
     </item>
   </channel>
 </rss>
