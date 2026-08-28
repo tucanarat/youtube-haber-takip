@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 17:35:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 17:40:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SEL FELAKETİNİN BOYUTU BÜYÜYOR! Yeni görüntüler ortaya çıktı</title>
+      <link>https://www.youtube.com/watch?v=TrPXtf_IFHQ</link>
+      <guid isPermaLink="false">TrPXtf_IFHQ</guid>
+      <pubDate>Fri, 28 Aug 2026 17:30:30 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SEL FELAKETİNİN BOYUTU BÜYÜYOR! Yeni görüntüler ortaya çıktı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Nepal Sel ve Buz Felaketi Himalayalar'da! Çin Sınırında Büyük Panik! Köyler Yok Oldu</title>
+      <link>https://www.youtube.com/watch?v=AMKNxrBg3kU</link>
+      <guid isPermaLink="false">AMKNxrBg3kU</guid>
+      <pubDate>Fri, 28 Aug 2026 17:30:07 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Nepal Sel ve Buz Felaketi Himalayalar'da! Çin Sınırında Büyük Panik! Köyler Yok Oldu</description>
+    </item>
     <item>
       <title>Tele2 Haber: Gökçek ailesinin dudak uçuklatan serveti! Melih Gökçek'ten Murat Ağırel'e yanıt!</title>
       <link>https://www.youtube.com/watch?v=8fpiXrQ9608</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">hJCR0pvtW68</guid>
       <pubDate>Fri, 28 Aug 2026 14:15:01 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İmamoğlu'nun "Millet Şahidimdir" adındaki kitap daha basılmadan yasaklandı: Belgesi Halk TV'de!</description>
-    </item>
-    <item>
-      <title>Halk TV: Özel'i duygulandıran sözler: Sana bir laf söylendiğinde, yapacak bir şeyim olmadığı için ağlıyorum!</title>
-      <link>https://www.youtube.com/shorts/8kt-Ij7_Rlg</link>
-      <guid isPermaLink="false">8kt-Ij7_Rlg</guid>
-      <pubDate>Fri, 28 Aug 2026 14:14:43 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özel'i duygulandıran sözler: Sana bir laf söylendiğinde, yapacak bir şeyim olmadığı için ağlıyorum!</description>
-    </item>
-    <item>
-      <title>Halk TV: Karamürsel, YENİ Parti Genel Başkanı Özgür Özel’i coşkuyla karşıladı!</title>
-      <link>https://www.youtube.com/shorts/otIMtDrD_kQ</link>
-      <guid isPermaLink="false">otIMtDrD_kQ</guid>
-      <pubDate>Fri, 28 Aug 2026 14:14:29 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Karamürsel, YENİ Parti Genel Başkanı Özgür Özel’i coşkuyla karşıladı!</description>
     </item>
   </channel>
 </rss>
