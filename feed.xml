@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 21:45:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 21:50:33 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: İktidarın Transfer Planını Mustafa Balbay Anlattı! İBB İçin Tehlike Çanları! Mansur Yavaş Çıkışı</title>
+      <link>https://www.youtube.com/watch?v=hObaGCzkr0M</link>
+      <guid isPermaLink="false">hObaGCzkr0M</guid>
+      <pubDate>Fri, 28 Aug 2026 21:40:39 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İktidarın Transfer Planını Mustafa Balbay Anlattı! İBB İçin Tehlike Çanları! Mansur Yavaş Çıkışı</description>
+    </item>
+    <item>
+      <title>Halk TV: Milyonlarca kadını ilgilendiriyor! Özgür Özel, ev kadınlarının nasıl emekli olacağını açıkladı!</title>
+      <link>https://www.youtube.com/watch?v=FoRwoBvf510</link>
+      <guid isPermaLink="false">FoRwoBvf510</guid>
+      <pubDate>Fri, 28 Aug 2026 21:40:26 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Milyonlarca kadını ilgilendiriyor! Özgür Özel, ev kadınlarının nasıl emekli olacağını açıkladı!</description>
+    </item>
     <item>
       <title>Halk TV: AKP’li Büyükgümüş’ten Erdoğan açıklaması! Yeniden adaylık için “tarih” mesajı!</title>
       <link>https://www.youtube.com/watch?v=m-rA7AdbNtc</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">dsKrEZLVFt8</guid>
       <pubDate>Fri, 28 Aug 2026 17:45:24 +0000</pubDate>
       <description>Halk TV kanalından yeni video: KULİSLER BU İDDİAYI KONUŞUYOR! Bölgesel asgari ücret söylentilerine Aziz Konukman'dan sert sözler!</description>
-    </item>
-    <item>
-      <title>Halk TV: SEL FELAKETİNİN BOYUTU BÜYÜYOR! Yeni görüntüler ortaya çıktı</title>
-      <link>https://www.youtube.com/watch?v=TrPXtf_IFHQ</link>
-      <guid isPermaLink="false">TrPXtf_IFHQ</guid>
-      <pubDate>Fri, 28 Aug 2026 17:30:30 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SEL FELAKETİNİN BOYUTU BÜYÜYOR! Yeni görüntüler ortaya çıktı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Nepal Sel ve Buz Felaketi Himalayalar'da! Çin Sınırında Büyük Panik! Köyler Yok Oldu</title>
-      <link>https://www.youtube.com/watch?v=AMKNxrBg3kU</link>
-      <guid isPermaLink="false">AMKNxrBg3kU</guid>
-      <pubDate>Fri, 28 Aug 2026 17:30:07 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Nepal Sel ve Buz Felaketi Himalayalar'da! Çin Sınırında Büyük Panik! Köyler Yok Oldu</description>
     </item>
   </channel>
 </rss>
