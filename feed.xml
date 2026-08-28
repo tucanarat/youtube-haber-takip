@@ -6,14 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 00:20:37 +0000</lastBuildDate>
-    <item>
-      <title>Cumhuriyet: #CANLI İBB Davası'nda 71. gün: Aile Dayanışma Ağı'nın 43. buluşması Silivri'de...</title>
-      <link>https://www.youtube.com/watch?v=iXVncfHFFEU</link>
-      <guid isPermaLink="false">iXVncfHFFEU</guid>
-      <pubDate>Fri, 28 Aug 2026 00:11:54 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI İBB Davası'nda 71. gün: Aile Dayanışma Ağı'nın 43. buluşması Silivri'de...</description>
-    </item>
+    <lastBuildDate>Fri, 28 Aug 2026 00:25:30 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: Aile Dayanışma Ağı 43. buluşmasını Silivri'de gerçekleştiriyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=LmdOCTM5P7Y</link>
@@ -356,6 +349,13 @@
       <guid isPermaLink="false">eB_tbN1eXNM</guid>
       <pubDate>Thu, 27 Aug 2026 18:45:10 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Türkiye krizin eşiğinde mi? Engin Solakoğlu ABD'nin İran'a yeni yaptırımlarını değerlendirdi</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Emin Şirin'den Mehmet Uçum Portresi! Yeni Anayasa Krizi Büyüyor! Referandum Çıkışının Arka Planı</title>
+      <link>https://www.youtube.com/watch?v=VIOtuwIzCWM</link>
+      <guid isPermaLink="false">VIOtuwIzCWM</guid>
+      <pubDate>Thu, 27 Aug 2026 18:30:37 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Emin Şirin'den Mehmet Uçum Portresi! Yeni Anayasa Krizi Büyüyor! Referandum Çıkışının Arka Planı</description>
     </item>
   </channel>
 </rss>
