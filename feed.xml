@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 21:25:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 21:31:35 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: AKP’li Büyükgümüş’ten Erdoğan açıklaması! Yeniden adaylık için “tarih” mesajı!</title>
+      <link>https://www.youtube.com/watch?v=m-rA7AdbNtc</link>
+      <guid isPermaLink="false">m-rA7AdbNtc</guid>
+      <pubDate>Fri, 28 Aug 2026 21:20:39 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: AKP’li Büyükgümüş’ten Erdoğan açıklaması! Yeniden adaylık için “tarih” mesajı!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Uğur Poyraz'dan Olay İddia! "İmamoğlu Ceza Alacak Aday Olamaz!" Siyasette Yer Yerinden Oynayacak</title>
+      <link>https://www.youtube.com/watch?v=2LWSUlJUCPU</link>
+      <guid isPermaLink="false">2LWSUlJUCPU</guid>
+      <pubDate>Fri, 28 Aug 2026 21:20:11 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Uğur Poyraz'dan Olay İddia! "İmamoğlu Ceza Alacak Aday Olamaz!" Siyasette Yer Yerinden Oynayacak</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: DEM Parti Sözcüsü Ayşegül Doğan, partisinin genel merkezinde basın toplantısı düzenliyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=r3jbmxsGI74</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">AMKNxrBg3kU</guid>
       <pubDate>Fri, 28 Aug 2026 17:30:07 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Nepal Sel ve Buz Felaketi Himalayalar'da! Çin Sınırında Büyük Panik! Köyler Yok Oldu</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Gökçek ailesinin dudak uçuklatan serveti! Melih Gökçek'ten Murat Ağırel'e yanıt!</title>
-      <link>https://www.youtube.com/watch?v=8fpiXrQ9608</link>
-      <guid isPermaLink="false">8fpiXrQ9608</guid>
-      <pubDate>Fri, 28 Aug 2026 17:30:06 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Gökçek ailesinin dudak uçuklatan serveti! Melih Gökçek'ten Murat Ağırel'e yanıt!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "SAVUNMAMI HERKES GÖRECEK! YASAKÇILAR DAHİL!" İmamoğlu'ndan kitabının toplatılmasına ilk tepki!</title>
-      <link>https://www.youtube.com/watch?v=X0jSxKiVYUI</link>
-      <guid isPermaLink="false">X0jSxKiVYUI</guid>
-      <pubDate>Fri, 28 Aug 2026 17:20:30 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "SAVUNMAMI HERKES GÖRECEK! YASAKÇILAR DAHİL!" İmamoğlu'ndan kitabının toplatılmasına ilk tepki!</description>
     </item>
   </channel>
 </rss>
