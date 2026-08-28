@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 20:20:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 20:25:24 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: CHP Grup Başkanı Faik Öztrak, TBMM'de basın toplantısı düzenliyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=zRLmDy7DQVw</link>
+      <guid isPermaLink="false">zRLmDy7DQVw</guid>
+      <pubDate>Fri, 28 Aug 2026 20:22:41 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: CHP Grup Başkanı Faik Öztrak, TBMM'de basın toplantısı düzenliyor #Canlı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: "BU SERVET MAAŞLA AÇIKLANAMAZ!" AKP'de Melih Gökçek Depremi! Almanya’daki Milyonluk Gayrimenkulleri</title>
+      <link>https://www.youtube.com/watch?v=KVHPzOoN5jo</link>
+      <guid isPermaLink="false">KVHPzOoN5jo</guid>
+      <pubDate>Fri, 28 Aug 2026 20:20:30 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: "BU SERVET MAAŞLA AÇIKLANAMAZ!" AKP'de Melih Gökçek Depremi! Almanya’daki Milyonluk Gayrimenkulleri</description>
+    </item>
     <item>
       <title>Halk TV: 35 YILLIK SALTANAT SONA ERDİ! Norveç “Halkın Kralı”na veda ediyor!</title>
       <link>https://www.youtube.com/watch?v=X6HQlP6hQ-8</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">oGemfqsJVIE</guid>
       <pubDate>Fri, 28 Aug 2026 16:53:55 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Sözcü Ana Haber |  Senem Toluay Ilgaz | 28 Ağustos</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Tolga Akış niye tutuklandı? Murat Taylan'dan "Manifest ve müstehcenlik" tepkisi!</title>
-      <link>https://www.youtube.com/watch?v=YkaPWFdlVo4</link>
-      <guid isPermaLink="false">YkaPWFdlVo4</guid>
-      <pubDate>Fri, 28 Aug 2026 16:50:06 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Tolga Akış niye tutuklandı? Murat Taylan'dan "Manifest ve müstehcenlik" tepkisi!</description>
-    </item>
-    <item>
-      <title>Halk TV: Figen Çalıkuşu, Ahmet Şık'ın "İmamın ordusu" kitabının da, daha basılmadan toplatıldığını hatırlattı</title>
-      <link>https://www.youtube.com/watch?v=FHxeCD_-CSo</link>
-      <guid isPermaLink="false">FHxeCD_-CSo</guid>
-      <pubDate>Fri, 28 Aug 2026 16:45:36 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Figen Çalıkuşu, Ahmet Şık'ın "İmamın ordusu" kitabının da, daha basılmadan toplatıldığını hatırlattı</description>
     </item>
   </channel>
 </rss>
