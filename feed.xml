@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 08:40:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 08:45:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | DEM Parti Sözcüsü Ayşegül Doğan, partisinin genel merkezinde basın toplantısı düzenliyor</title>
+      <link>https://www.youtube.com/watch?v=SIr1kEZoB0s</link>
+      <guid isPermaLink="false">SIr1kEZoB0s</guid>
+      <pubDate>Fri, 28 Aug 2026 08:36:29 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | DEM Parti Sözcüsü Ayşegül Doğan, partisinin genel merkezinde basın toplantısı düzenliyor</description>
+    </item>
+    <item>
+      <title>Halk TV: İKTİDAR YÜRÜYÜŞÜNDE GENEL MERKEZ HAZIR! 'Vatandaşımız bağışlarıyla bu yolculuğa ortak oldu'</title>
+      <link>https://www.youtube.com/watch?v=V9YTrcWkaAY</link>
+      <guid isPermaLink="false">V9YTrcWkaAY</guid>
+      <pubDate>Fri, 28 Aug 2026 08:35:23 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İKTİDAR YÜRÜYÜŞÜNDE GENEL MERKEZ HAZIR! 'Vatandaşımız bağışlarıyla bu yolculuğa ortak oldu'</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: CHP'de Telaş Başladı! Tasfiyelerin Perde Arkası Bambaşka Çıktı! Kılıçdaroğlu'na Bomba Sözler</title>
       <link>https://www.youtube.com/watch?v=kd3XWiWG_l4</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">FeZXqOJnsO4</guid>
       <pubDate>Fri, 28 Aug 2026 04:41:29 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Bağımsız Maden İş Sendikası, Başaran Aksu ve Gökay Çakır'ın tutuklanmasını protesto ediyor #Canlı</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: DEM Parti Kadıköy İlçe Örgütü, mevsimlik işçilere yönelik saldırıları protesto ediyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=S3uuq-KR0RA</link>
-      <guid isPermaLink="false">S3uuq-KR0RA</guid>
-      <pubDate>Fri, 28 Aug 2026 04:06:49 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: DEM Parti Kadıköy İlçe Örgütü, mevsimlik işçilere yönelik saldırıları protesto ediyor #Canlı</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Madenciler, Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=Jui1NrypIU4</link>
-      <guid isPermaLink="false">Jui1NrypIU4</guid>
-      <pubDate>Fri, 28 Aug 2026 03:58:01 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Madenciler, Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor #Canlı</description>
     </item>
   </channel>
 </rss>
