@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 13:20:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 13:25:25 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: İmamoğlu’nun kitabına basım durdurma kararı: “İstemeyen de buna engel olan da namerttir”</title>
+      <link>https://www.youtube.com/shorts/sB8_QppuAUg</link>
+      <guid isPermaLink="false">sB8_QppuAUg</guid>
+      <pubDate>Fri, 28 Aug 2026 13:19:57 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: İmamoğlu’nun kitabına basım durdurma kararı: “İstemeyen de buna engel olan da namerttir”</description>
+    </item>
     <item>
       <title>Cumhuriyet: Ekrem İmamoğlu savunmasını kitap yapacaktı: Yaptırılmayan savunmaya yasak geldi!</title>
       <link>https://www.youtube.com/shorts/IzmvnrDSU2I</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">QPa6d8jCN2g</guid>
       <pubDate>Fri, 28 Aug 2026 11:00:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Rabia Naz ve Rojin'de Aynı İsim: Adli Tıp'ta Neler Oluyor? Rojin'in Otopsisindeki Büyük Sır</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Öncesi Sonrası | Senem Toluay Ilgaz | 28 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=iZLfm415g5A</link>
-      <guid isPermaLink="false">iZLfm415g5A</guid>
-      <pubDate>Fri, 28 Aug 2026 10:53:18 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Öncesi Sonrası | Senem Toluay Ilgaz | 28 Ağustos</description>
     </item>
   </channel>
 </rss>
