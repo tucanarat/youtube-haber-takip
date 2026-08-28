@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 13:00:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 13:05:28 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Derince'de kadınlarla bir araya geldi #Canlı</title>
       <link>https://www.youtube.com/watch?v=qaRJIf5WwcY</link>
       <guid isPermaLink="false">qaRJIf5WwcY</guid>
       <pubDate>Fri, 28 Aug 2026 13:00:12 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Derince'de kadınlarla bir araya geldi #Canlı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: CHP'de Mansur Yavaş Gerginliği! Yanıtı Ankara'yı Salladı! Kılıçdaroğlu'nu Kızdıracak Çıkış</title>
+      <link>https://www.youtube.com/watch?v=4opm9Tz292g</link>
+      <guid isPermaLink="false">4opm9Tz292g</guid>
+      <pubDate>Fri, 28 Aug 2026 13:00:00 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: CHP'de Mansur Yavaş Gerginliği! Yanıtı Ankara'yı Salladı! Kılıçdaroğlu'nu Kızdıracak Çıkış</description>
     </item>
     <item>
       <title>Tele2 Haber: "Mahkeme Eliyle Siyaset Dizayn Edilmek İsteniyor!" YENİ Partili Muallaoğlu'ndan Butlancılara Tepki!</title>
@@ -48,6 +55,13 @@
       <guid isPermaLink="false">vsBUfvIvit0</guid>
       <pubDate>Fri, 28 Aug 2026 12:39:20 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Derinceli teyzeden Özgür Özel'e: Sana bir şey dediklerinde aklım çıkıyor</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Suriye'de neler oluyor? Türkiye ve İsrail karşı karşıya mı? Ergin Yıldızoğlu anlattı...</title>
+      <link>https://www.youtube.com/watch?v=-JCahPnJsUo</link>
+      <guid isPermaLink="false">-JCahPnJsUo</guid>
+      <pubDate>Fri, 28 Aug 2026 12:39:13 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Suriye'de neler oluyor? Türkiye ve İsrail karşı karşıya mı? Ergin Yıldızoğlu anlattı...</description>
     </item>
     <item>
       <title>Cumhuriyet: #CANLI Özgür Özel,Derince Belediyesi'nin Çenesuyu İşletmesi'nin açılışında konuşuyor</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">zEIlZI4-_7c</guid>
       <pubDate>Fri, 28 Aug 2026 10:45:25 +0000</pubDate>
       <description>Halk TV kanalından yeni video: 'HARAÇ' KESTİ SONU KÖTÜ BİTTİ! 'Bıçak parası' isteyen doktor 50 hastadan milyonluk oldu ama...</description>
-    </item>
-    <item>
-      <title>Halk TV: Esenyurt'ta devrilen kamyona yardım etmek isteyenlere arkadan gelen araçlar çarptı</title>
-      <link>https://www.youtube.com/shorts/fv-oamqx26A</link>
-      <guid isPermaLink="false">fv-oamqx26A</guid>
-      <pubDate>Fri, 28 Aug 2026 10:42:44 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Esenyurt'ta devrilen kamyona yardım etmek isteyenlere arkadan gelen araçlar çarptı</description>
-    </item>
-    <item>
-      <title>Halk TV: Karamürsel'de mahşeri bir kalabalık: YENİ Parti Lideri Özel'i karşılamaya geldiler!</title>
-      <link>https://www.youtube.com/shorts/gk9DMqynk84</link>
-      <guid isPermaLink="false">gk9DMqynk84</guid>
-      <pubDate>Fri, 28 Aug 2026 10:42:11 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Karamürsel'de mahşeri bir kalabalık: YENİ Parti Lideri Özel'i karşılamaya geldiler!</description>
     </item>
   </channel>
 </rss>
