@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 18:25:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 18:30:40 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Murat Çalık'ın CHP kararının ardından Bülent Mumay'dan Kılıçdaroğlu'na "ARINMA' hatırlatması!</title>
+      <link>https://www.youtube.com/watch?v=fdEEZUMCAoI</link>
+      <guid isPermaLink="false">fdEEZUMCAoI</guid>
+      <pubDate>Fri, 28 Aug 2026 18:30:16 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Murat Çalık'ın CHP kararının ardından Bülent Mumay'dan Kılıçdaroğlu'na "ARINMA' hatırlatması!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: CEM KÜÇÜK İÇİN ÇEMBER DARALIYOR! O İsim İtiraf Ediyor! "Bildiklerimi Anlatmak İstiyorum"</title>
+      <link>https://www.youtube.com/watch?v=GJdK_9-b7dE</link>
+      <guid isPermaLink="false">GJdK_9-b7dE</guid>
+      <pubDate>Fri, 28 Aug 2026 18:20:36 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: CEM KÜÇÜK İÇİN ÇEMBER DARALIYOR! O İsim İtiraf Ediyor! "Bildiklerimi Anlatmak İstiyorum"</description>
+    </item>
     <item>
       <title>Tele2 Haber: DENİZ GÖKTAŞ' TAHLİYE KARARI VERİLDİ! CEZAEVİNDEN ÇIKMADAN YENİDEN TUTUKLANDI...</title>
       <link>https://www.youtube.com/shorts/EgdopWwvthI</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">mmbh7a_9pd0</guid>
       <pubDate>Fri, 28 Aug 2026 15:10:06 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Narin cinayetinde 'çözülemeyen' detaylar! Ferit Demir: Üzerine giden gazetecilere baskı var!</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel Yola Çıkıyor! YENİ Parti Otobüsüyle İlk Adres Kocaeli! Binler Buluşmaya Aktı</title>
-      <link>https://www.youtube.com/watch?v=yWeN25b1TwA</link>
-      <guid isPermaLink="false">yWeN25b1TwA</guid>
-      <pubDate>Fri, 28 Aug 2026 15:07:38 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel Yola Çıkıyor! YENİ Parti Otobüsüyle İlk Adres Kocaeli! Binler Buluşmaya Aktı</description>
-    </item>
-    <item>
-      <title>Halk TV: Melih Gökçek ve ailesine yönelik 'çember' daralıyor mu? Bahadır Özgür'den gündemi sarsacak bilgiler!</title>
-      <link>https://www.youtube.com/watch?v=11_g_7JQLqw</link>
-      <guid isPermaLink="false">11_g_7JQLqw</guid>
-      <pubDate>Fri, 28 Aug 2026 15:02:02 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Melih Gökçek ve ailesine yönelik 'çember' daralıyor mu? Bahadır Özgür'den gündemi sarsacak bilgiler!</description>
     </item>
   </channel>
 </rss>
