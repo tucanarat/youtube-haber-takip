@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 14:45:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 14:50:45 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: İş Çıkışı | Merve Ekinci 28 Ağustos</title>
+      <link>https://www.youtube.com/watch?v=SduizFb_LX4</link>
+      <guid isPermaLink="false">SduizFb_LX4</guid>
+      <pubDate>Fri, 28 Aug 2026 14:49:54 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İş Çıkışı | Merve Ekinci 28 Ağustos</description>
+    </item>
+    <item>
+      <title>Halk TV: ERDOĞAN VE AKIN GÜRLEK NEYE UĞRADIĞINI ŞAŞIRACAK! Özgür Özel'den tarihe geçecek hodri meydan!</title>
+      <link>https://www.youtube.com/watch?v=bzcp3Hv5ubQ</link>
+      <guid isPermaLink="false">bzcp3Hv5ubQ</guid>
+      <pubDate>Fri, 28 Aug 2026 14:45:14 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ERDOĞAN VE AKIN GÜRLEK NEYE UĞRADIĞINI ŞAŞIRACAK! Özgür Özel'den tarihe geçecek hodri meydan!</description>
+    </item>
     <item>
       <title>Halk TV: SON DAKİKA! Manifest grubunun kurucusu ve menajeri Tolga Akış 'müstehcenlik' suçundan tutuklandı!</title>
       <link>https://www.youtube.com/watch?v=_IMStuNKzuw</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">1bjTdk0EIfg</guid>
       <pubDate>Fri, 28 Aug 2026 12:37:30 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI Özgür Özel,Derince Belediyesi'nin Çenesuyu İşletmesi'nin açılışında konuşuyor</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI YENİ Parti Genel Başkanı Özgür Özel Derince Belediyesi'nin Çenesuyu İşletmesi'nin açılışında</title>
-      <link>https://www.youtube.com/watch?v=HIR3LrkDR74</link>
-      <guid isPermaLink="false">HIR3LrkDR74</guid>
-      <pubDate>Fri, 28 Aug 2026 12:35:43 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti Genel Başkanı Özgür Özel Derince Belediyesi'nin Çenesuyu İşletmesi'nin açılışında</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Özgür Özel YENİ Parti'nin vaadini ev hanımlarına anlattı</title>
-      <link>https://www.youtube.com/shorts/-68lJk5O6sU</link>
-      <guid isPermaLink="false">-68lJk5O6sU</guid>
-      <pubDate>Fri, 28 Aug 2026 12:35:01 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Özgür Özel YENİ Parti'nin vaadini ev hanımlarına anlattı</description>
     </item>
   </channel>
 </rss>
