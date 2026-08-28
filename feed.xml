@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 14:20:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 14:25:23 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Narin Güran'ı kim, neden öldürdü? Zeynel Lüle ile Ankara Günlüğü | Konuk: Ferit Demir (28.08.26)</title>
+      <link>https://www.youtube.com/watch?v=pPLndsh2bPs</link>
+      <guid isPermaLink="false">pPLndsh2bPs</guid>
+      <pubDate>Fri, 28 Aug 2026 14:21:39 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Narin Güran'ı kim, neden öldürdü? Zeynel Lüle ile Ankara Günlüğü | Konuk: Ferit Demir (28.08.26)</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Özgür Özel'den yurttaşın Kılıçdaroğlu sorusuna: Bizim binada oturuyor sayılı günlerini sayıyor</title>
+      <link>https://www.youtube.com/shorts/X2nSOF2upNM</link>
+      <guid isPermaLink="false">X2nSOF2upNM</guid>
+      <pubDate>Fri, 28 Aug 2026 14:15:20 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Özgür Özel'den yurttaşın Kılıçdaroğlu sorusuna: Bizim binada oturuyor sayılı günlerini sayıyor</description>
+    </item>
     <item>
       <title>Halk TV: YENİ Parti Lideri Özgür Özel'i Karamürsel ziyaretinde mahşeri bir kalabalık karşıladı!</title>
       <link>https://www.youtube.com/shorts/5WdwlsPgDu8</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">VNYjA1iFSHI</guid>
       <pubDate>Fri, 28 Aug 2026 12:30:07 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ÖLÜMÜNE KİN KUSULDU! 'Bosna Kasabı' lakaplı Mladiç öldü</description>
-    </item>
-    <item>
-      <title>Halk TV: Sinem Fıstıkoğlu ile Haber Masası (28 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=AxBsZ6aiqgA</link>
-      <guid isPermaLink="false">AxBsZ6aiqgA</guid>
-      <pubDate>Fri, 28 Aug 2026 12:23:58 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Sinem Fıstıkoğlu ile Haber Masası (28 Ağustos 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti Genel Başkanı Özgür Özel Derince'de kadınlarla bir araya geldi</title>
-      <link>https://www.youtube.com/watch?v=zbvKOSLDpnY</link>
-      <guid isPermaLink="false">zbvKOSLDpnY</guid>
-      <pubDate>Fri, 28 Aug 2026 12:20:26 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel Derince'de kadınlarla bir araya geldi</description>
     </item>
   </channel>
 </rss>
