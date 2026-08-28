@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 09:25:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 09:30:49 +0000</lastBuildDate>
     <item>
       <title>Halk TV: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Karamürsel Meydanı'nda Esnafı Ziyaret Ediyor</title>
       <link>https://www.youtube.com/watch?v=d84XePSqDZY</link>
       <guid isPermaLink="false">d84XePSqDZY</guid>
       <pubDate>Fri, 28 Aug 2026 09:23:30 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Karamürsel Meydanı'nda Esnafı Ziyaret Ediyor</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: #CANLI Özgür Özel, Karamürsel Meydanı'nda esnafı ziyaret ediyor</title>
+      <link>https://www.youtube.com/watch?v=AvpHllzC8pU</link>
+      <guid isPermaLink="false">AvpHllzC8pU</guid>
+      <pubDate>Fri, 28 Aug 2026 09:23:16 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI Özgür Özel, Karamürsel Meydanı'nda esnafı ziyaret ediyor</description>
     </item>
     <item>
       <title>Halk TV: DEM Parti Sözcüsü Ayşegül Doğan, partisinin genel merkezinde basın toplantısı düzenledi</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">YGCbF7t1l0A</guid>
       <pubDate>Fri, 28 Aug 2026 06:30:33 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Ankara'da Neler Olmuş Neler! Orhan Bursalı'dan Bomba Mansur Yavaş ve Erdoğan Kulisleri!</description>
-    </item>
-    <item>
-      <title>Halk TV: İstanbul'da gece saatlerinde gök gürültülü sağanak etkili oldu!</title>
-      <link>https://www.youtube.com/shorts/TrmmD5ZvnQw</link>
-      <guid isPermaLink="false">TrmmD5ZvnQw</guid>
-      <pubDate>Fri, 28 Aug 2026 06:23:03 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İstanbul'da gece saatlerinde gök gürültülü sağanak etkili oldu!</description>
     </item>
   </channel>
 </rss>
