@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 22:45:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 22:50:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: YENİ Parti Lideri, halkın bağışları ile alınan o otobüsü böyle anlattı! #shorts</title>
+      <link>https://www.youtube.com/shorts/K974bK2jjSA</link>
+      <guid isPermaLink="false">K974bK2jjSA</guid>
+      <pubDate>Fri, 28 Aug 2026 22:45:27 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YENİ Parti Lideri, halkın bağışları ile alınan o otobüsü böyle anlattı! #shorts</description>
+    </item>
+    <item>
+      <title>Halk TV: YENİ Parti Genel Merkezi kapılarını açıyor! Bağışlarla kiralanan bina hazır!</title>
+      <link>https://www.youtube.com/watch?v=puiKBIYlxmk</link>
+      <guid isPermaLink="false">puiKBIYlxmk</guid>
+      <pubDate>Fri, 28 Aug 2026 22:40:09 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YENİ Parti Genel Merkezi kapılarını açıyor! Bağışlarla kiralanan bina hazır!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: ABD'nin Gizli Suriye Planı İfşa Oldu! İmralı ve Yeni Çözüm Süreci Masada! Mustafa Balbay Anlattı</title>
       <link>https://www.youtube.com/watch?v=qb8EKno3RKY</link>
@@ -92,18 +106,18 @@
       <description>SÖZCÜ TV kanalından yeni video: Sabah Kahvesi | Nagihan Turhan</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | Fethiye’de orman yangını… Evlerin tahliyesi için harekete geçidi!</title>
+      <title>Halk TV: Fethiye’de orman yangını… Evlerin tahliyesi için harekete geçidi! (28 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=YEE6WhIaUKo</link>
       <guid isPermaLink="false">YEE6WhIaUKo</guid>
       <pubDate>Fri, 28 Aug 2026 21:58:09 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Fethiye’de orman yangını… Evlerin tahliyesi için harekete geçidi!</description>
+      <description>Halk TV kanalından yeni video: Fethiye’de orman yangını… Evlerin tahliyesi için harekete geçidi! (28 Ağustos 2026)</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | İrem Sansak ile Gündem Özel | #Halktv</title>
+      <title>Halk TV: İrem Sansak ile Gündem Özel | #Halktv (28 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=nJQbzmliED4</link>
       <guid isPermaLink="false">nJQbzmliED4</guid>
       <pubDate>Fri, 28 Aug 2026 21:57:18 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | İrem Sansak ile Gündem Özel | #Halktv</description>
+      <description>Halk TV kanalından yeni video: İrem Sansak ile Gündem Özel | #Halktv (28 Ağustos 2026)</description>
     </item>
     <item>
       <title>SÖZCÜ TV: İktidarın Transfer Planını Mustafa Balbay Anlattı! İBB İçin Tehlike Çanları! Mansur Yavaş Çıkışı</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">F-JhrdW9xmE</guid>
       <pubDate>Fri, 28 Aug 2026 18:31:39 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | İstanbul’un Fatih ilçesinde Topkapı-Pazartekke hattında iki tramvay çarpıştı!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Kemal Öztürk'ten Nusayriler hakkında skandal sözler! Murat Taylan'dan sert tepki!</title>
-      <link>https://www.youtube.com/watch?v=0wb-xEaxtUg</link>
-      <guid isPermaLink="false">0wb-xEaxtUg</guid>
-      <pubDate>Fri, 28 Aug 2026 18:30:23 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Kemal Öztürk'ten Nusayriler hakkında skandal sözler! Murat Taylan'dan sert tepki!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Murat Çalık'ın CHP kararının ardından Bülent Mumay'dan Kılıçdaroğlu'na "ARINMA' hatırlatması!</title>
-      <link>https://www.youtube.com/watch?v=fdEEZUMCAoI</link>
-      <guid isPermaLink="false">fdEEZUMCAoI</guid>
-      <pubDate>Fri, 28 Aug 2026 18:30:16 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Murat Çalık'ın CHP kararının ardından Bülent Mumay'dan Kılıçdaroğlu'na "ARINMA' hatırlatması!</description>
     </item>
   </channel>
 </rss>
