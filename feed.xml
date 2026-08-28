@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 17:10:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 17:15:33 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Beylikdüzü Belediye Başkanı Murat Çalık'tan CHP kararı! Murat Taylan İnan Güney'i hatırlattı!</title>
+      <link>https://www.youtube.com/watch?v=XcT5dJPZASU</link>
+      <guid isPermaLink="false">XcT5dJPZASU</guid>
+      <pubDate>Fri, 28 Aug 2026 17:15:01 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Beylikdüzü Belediye Başkanı Murat Çalık'tan CHP kararı! Murat Taylan İnan Güney'i hatırlattı!</description>
+    </item>
     <item>
       <title>Halk TV: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (28 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=zi4J5VhDCv0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">QYhUg4JCI4U</guid>
       <pubDate>Fri, 28 Aug 2026 14:13:39 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Özel'den Kılıçdaroğlu'nu soran teyzeye dikkat çeken yanıt!</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti Lideri Özgür Özel ile Derinceli kadınlar arasında renkli diyaloglar!</title>
-      <link>https://www.youtube.com/shorts/thnOBOtHG2w</link>
-      <guid isPermaLink="false">thnOBOtHG2w</guid>
-      <pubDate>Fri, 28 Aug 2026 14:13:09 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti Lideri Özgür Özel ile Derinceli kadınlar arasında renkli diyaloglar!</description>
     </item>
   </channel>
 </rss>
