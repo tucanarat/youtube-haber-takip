@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 18:35:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 18:40:33 +0000</lastBuildDate>
     <item>
       <title>Halk TV: #CANLI | İstanbul’un Fatih ilçesinde Topkapı-Pazartekke hattında iki tramvay çarpıştı!</title>
       <link>https://www.youtube.com/watch?v=F-JhrdW9xmE</link>
@@ -55,6 +55,13 @@
       <guid isPermaLink="false">nArZWc0XSEA</guid>
       <pubDate>Fri, 28 Aug 2026 18:15:10 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Bülent Mumay'dan İmamoğlu'nun kitabı için iddialı çıkış: PDF'si hepimizin önünde olacak!</description>
+    </item>
+    <item>
+      <title>Halk TV: 'CEBİMİZDEN KÖPRÜLERİ SATIYORLAR!' Köprü ve otoyollar elden gidiyor</title>
+      <link>https://www.youtube.com/watch?v=YiG7pViMZM0</link>
+      <guid isPermaLink="false">YiG7pViMZM0</guid>
+      <pubDate>Fri, 28 Aug 2026 18:15:03 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: 'CEBİMİZDEN KÖPRÜLERİ SATIYORLAR!' Köprü ve otoyollar elden gidiyor</description>
     </item>
     <item>
       <title>Tele2 Haber: İMAMOĞLU'NDAN KİTAP YASAĞINA HODRİ MEYDAN! Evren Özalkuş ile Gerçek | Konuk: Bülent Mumay</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">R3lVuvH8wZQ</guid>
       <pubDate>Fri, 28 Aug 2026 15:17:18 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Cumhurbaşkanı Erdoğan, Mevlid-i Nebi Haftası Programı'nda konuşuyor/ İstanbul #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: ÖZGÜR ÖZEL'İ ŞAŞIRTAN SÜRPRİZ! Yanına gelen küçük kızın verdiği kağıdı açınca bakın neyle karşılaştı</title>
-      <link>https://www.youtube.com/watch?v=1FZiEV7vuuk</link>
-      <guid isPermaLink="false">1FZiEV7vuuk</guid>
-      <pubDate>Fri, 28 Aug 2026 15:15:39 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ÖZGÜR ÖZEL'İ ŞAŞIRTAN SÜRPRİZ! Yanına gelen küçük kızın verdiği kağıdı açınca bakın neyle karşılaştı</description>
     </item>
   </channel>
 </rss>
