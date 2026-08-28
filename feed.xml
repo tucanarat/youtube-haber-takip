@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 22:40:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 22:45:33 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: ABD'nin Gizli Suriye Planı İfşa Oldu! İmralı ve Yeni Çözüm Süreci Masada! Mustafa Balbay Anlattı</title>
+      <link>https://www.youtube.com/watch?v=qb8EKno3RKY</link>
+      <guid isPermaLink="false">qb8EKno3RKY</guid>
+      <pubDate>Fri, 28 Aug 2026 22:40:05 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: ABD'nin Gizli Suriye Planı İfşa Oldu! İmralı ve Yeni Çözüm Süreci Masada! Mustafa Balbay Anlattı</description>
+    </item>
     <item>
       <title>Halk TV: Üzerinde "Teyzem sağ olsun" yazılı... Özgür Özel, halkın bağışları ile alınan otobüse ilk kez bindi!</title>
       <link>https://www.youtube.com/shorts/4ZsAOLH26mE</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">fdEEZUMCAoI</guid>
       <pubDate>Fri, 28 Aug 2026 18:30:16 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Murat Çalık'ın CHP kararının ardından Bülent Mumay'dan Kılıçdaroğlu'na "ARINMA' hatırlatması!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: CEM KÜÇÜK İÇİN ÇEMBER DARALIYOR! O İsim İtiraf Ediyor! "Bildiklerimi Anlatmak İstiyorum"</title>
-      <link>https://www.youtube.com/watch?v=GJdK_9-b7dE</link>
-      <guid isPermaLink="false">GJdK_9-b7dE</guid>
-      <pubDate>Fri, 28 Aug 2026 18:20:36 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: CEM KÜÇÜK İÇİN ÇEMBER DARALIYOR! O İsim İtiraf Ediyor! "Bildiklerimi Anlatmak İstiyorum"</description>
     </item>
   </channel>
 </rss>
