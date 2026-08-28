@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 14:50:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 14:55:27 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Sinem Fıstıkoğlu ile Halk Ana Haber</title>
+      <link>https://www.youtube.com/watch?v=_2Lh44EkhJI</link>
+      <guid isPermaLink="false">_2Lh44EkhJI</guid>
+      <pubDate>Fri, 28 Aug 2026 14:54:09 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Sinem Fıstıkoğlu ile Halk Ana Haber</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İş Çıkışı | Merve Ekinci 28 Ağustos</title>
       <link>https://www.youtube.com/watch?v=SduizFb_LX4</link>
@@ -348,13 +355,6 @@
       <link>https://www.youtube.com/watch?v=2WJIT4QknKs</link>
       <guid isPermaLink="false">2WJIT4QknKs</guid>
       <pubDate>Fri, 28 Aug 2026 12:39:04 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI Özgür Özel,Derince Belediyesi'nin Çenesuyu İşletmesi'nin açılışında konuşuyor</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: #CANLI Özgür Özel,Derince Belediyesi'nin Çenesuyu İşletmesi'nin açılışında konuşuyor</title>
-      <link>https://www.youtube.com/watch?v=1bjTdk0EIfg</link>
-      <guid isPermaLink="false">1bjTdk0EIfg</guid>
-      <pubDate>Fri, 28 Aug 2026 12:37:30 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI Özgür Özel,Derince Belediyesi'nin Çenesuyu İşletmesi'nin açılışında konuşuyor</description>
     </item>
   </channel>
