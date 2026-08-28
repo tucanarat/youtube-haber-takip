@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 20:05:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 20:10:35 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: FELAKETLER PEŞ PEŞE! Nepal’de sel, Cezayir’de yangın! Can kayıpları artıyor...</title>
+      <link>https://www.youtube.com/watch?v=U4DcuhATjAM</link>
+      <guid isPermaLink="false">U4DcuhATjAM</guid>
+      <pubDate>Fri, 28 Aug 2026 20:00:28 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: FELAKETLER PEŞ PEŞE! Nepal’de sel, Cezayir’de yangın! Can kayıpları artıyor...</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Mustafa Balbay Melih Gökçek Dosyasını Açtı! Milyonluk Servetin Gizemi Belgelendi</title>
+      <link>https://www.youtube.com/watch?v=oBX48tGdyFE</link>
+      <guid isPermaLink="false">oBX48tGdyFE</guid>
+      <pubDate>Fri, 28 Aug 2026 20:00:03 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Mustafa Balbay Melih Gökçek Dosyasını Açtı! Milyonluk Servetin Gizemi Belgelendi</description>
+    </item>
     <item>
       <title>Halk TV: İMAMOĞLU'NUN BASILMAYAN KİTABINA TOPLATMA! Özgür Özel ateş püskürdü!</title>
       <link>https://www.youtube.com/watch?v=y37DG36DesI</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">oU2y2VXhr8M</guid>
       <pubDate>Fri, 28 Aug 2026 16:42:51 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | Cumhurbaşkanı Erdoğan, "Mevlid-i Nebi Haftası Programı"nda konuşuyor!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: MURAT TAYLAN'DAN 'MANİFEST VE MÜSTEHCENLİK' TEPKİSİ!</title>
-      <link>https://www.youtube.com/shorts/qM2oEpxaJOI</link>
-      <guid isPermaLink="false">qM2oEpxaJOI</guid>
-      <pubDate>Fri, 28 Aug 2026 16:41:17 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: MURAT TAYLAN'DAN 'MANİFEST VE MÜSTEHCENLİK' TEPKİSİ!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: İmamoğlu'nun kitabına yasak! Yalçık Küçük bomba diyip kitapları böyle atmıştı!</title>
-      <link>https://www.youtube.com/shorts/wygV6UeVPpo</link>
-      <guid isPermaLink="false">wygV6UeVPpo</guid>
-      <pubDate>Fri, 28 Aug 2026 16:30:27 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: İmamoğlu'nun kitabına yasak! Yalçık Küçük bomba diyip kitapları böyle atmıştı!</description>
     </item>
   </channel>
 </rss>
