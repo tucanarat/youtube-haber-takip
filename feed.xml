@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 12:15:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 12:20:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: YENİ Parti Genel Başkanı Özgür Özel Derince'de kadınlarla bir araya geldi</title>
+      <link>https://www.youtube.com/watch?v=zbvKOSLDpnY</link>
+      <guid isPermaLink="false">zbvKOSLDpnY</guid>
+      <pubDate>Fri, 28 Aug 2026 12:20:26 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel Derince'de kadınlarla bir araya geldi</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Gizem Çetin ile Parantez</title>
+      <link>https://www.youtube.com/watch?v=IMj03NE7IRo</link>
+      <guid isPermaLink="false">IMj03NE7IRo</guid>
+      <pubDate>Fri, 28 Aug 2026 12:15:58 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Gizem Çetin ile Parantez</description>
+    </item>
+    <item>
+      <title>Halk TV: İMAMOĞLU 'YAYINLAYIN' DİYEREK RESTİ ÇEKTİ! 'İktidarın kazançlı çıkmasına imkan yok!'</title>
+      <link>https://www.youtube.com/watch?v=FikWHN-oEPY</link>
+      <guid isPermaLink="false">FikWHN-oEPY</guid>
+      <pubDate>Fri, 28 Aug 2026 12:15:17 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İMAMOĞLU 'YAYINLAYIN' DİYEREK RESTİ ÇEKTİ! 'İktidarın kazançlı çıkmasına imkan yok!'</description>
+    </item>
     <item>
       <title>Tele2 Haber: Özel Kocaeli'de... İzdiham yaşanıyor! I İmamoğlu'ndan Gürlek'e "canlı yayın" yanıtı! Manşet Ötesi</title>
       <link>https://www.youtube.com/watch?v=cCqPHxwjsME</link>
@@ -104,13 +125,6 @@
       <guid isPermaLink="false">7a0zxRRS_5o</guid>
       <pubDate>Fri, 28 Aug 2026 11:45:10 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Jamaika, Guyana, Barbados, Moğolistan... Asgari Ücret Sıralamasında Türkiye'den İyi Olan Ülkeler...</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | YENİ Parti Genel Başkanı Özgür Özel Derince'de kadınlarla bir araya geldi</title>
-      <link>https://www.youtube.com/watch?v=zbvKOSLDpnY</link>
-      <guid isPermaLink="false">zbvKOSLDpnY</guid>
-      <pubDate>Fri, 28 Aug 2026 11:44:00 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti Genel Başkanı Özgür Özel Derince'de kadınlarla bir araya geldi</description>
     </item>
     <item>
       <title>Tele2 Haber: #CANLI YENİ Parti Genel Başkanı Özgür Özel Derince'de kadınlarla bir araya geldi</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">PBJOpJ6_3EE</guid>
       <pubDate>Fri, 28 Aug 2026 09:56:05 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Parti'nin genel merkez binasında çalışmalar sona geldi!</description>
-    </item>
-    <item>
-      <title>Halk TV: Nepal'de sel sularına kapılmaktan son anda kurtuldular!</title>
-      <link>https://www.youtube.com/shorts/21PaeZTklQc</link>
-      <guid isPermaLink="false">21PaeZTklQc</guid>
-      <pubDate>Fri, 28 Aug 2026 09:55:49 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Nepal'de sel sularına kapılmaktan son anda kurtuldular!</description>
-    </item>
-    <item>
-      <title>Halk TV: Nepal'deki sel felaketi öncesi kayalar gürültüyle yuvarlandı!</title>
-      <link>https://www.youtube.com/shorts/fVRlsP18X3I</link>
-      <guid isPermaLink="false">fVRlsP18X3I</guid>
-      <pubDate>Fri, 28 Aug 2026 09:55:32 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Nepal'deki sel felaketi öncesi kayalar gürültüyle yuvarlandı!</description>
     </item>
   </channel>
 </rss>
