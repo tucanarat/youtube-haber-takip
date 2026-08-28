@@ -6,13 +6,34 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 16:05:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 16:10:38 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Zeytinburnu'nda, İETT otobüsü bir sitenin bahçe duvarına çarptı!</title>
+      <link>https://www.youtube.com/watch?v=YYUxSEYdfFs</link>
+      <guid isPermaLink="false">YYUxSEYdfFs</guid>
+      <pubDate>Fri, 28 Aug 2026 16:05:21 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Zeytinburnu'nda, İETT otobüsü bir sitenin bahçe duvarına çarptı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İçinizden Biri | Ekrem Açıkel | 28 Ağustos</title>
       <link>https://www.youtube.com/watch?v=qSFG3Pa94ZE</link>
       <guid isPermaLink="false">qSFG3Pa94ZE</guid>
       <pubDate>Fri, 28 Aug 2026 16:02:48 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İçinizden Biri | Ekrem Açıkel | 28 Ağustos</description>
+    </item>
+    <item>
+      <title>Halk TV: Üzerinde "Teyzem sağ olsun" yazılı... Özgür Özel, halkın bağışları ile alınan otobüse ilk kez bindi!</title>
+      <link>https://www.youtube.com/watch?v=dPx2kkpHSXM</link>
+      <guid isPermaLink="false">dPx2kkpHSXM</guid>
+      <pubDate>Fri, 28 Aug 2026 16:00:21 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Üzerinde "Teyzem sağ olsun" yazılı... Özgür Özel, halkın bağışları ile alınan otobüse ilk kez bindi!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: "Bir Kolum Kırıldı, Tüm Hayatım Değişti!" | Ekrem Açıkel | İpek Özbey ile Perdenin Arkası</title>
+      <link>https://www.youtube.com/watch?v=LMj_lP4db4I</link>
+      <guid isPermaLink="false">LMj_lP4db4I</guid>
+      <pubDate>Fri, 28 Aug 2026 16:00:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: "Bir Kolum Kırıldı, Tüm Hayatım Değişti!" | Ekrem Açıkel | İpek Özbey ile Perdenin Arkası</description>
     </item>
     <item>
       <title>Halk TV: MİLYONLARIN GÜNDEMİNE OTURMUŞTU! Özgür Özel'e "sana otobüs de alacağız" diyen Ayşe teyze Halk TV'de!</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">SFQLNVVBhXg</guid>
       <pubDate>Fri, 28 Aug 2026 13:30:33 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Manifest'in Kurucusu Tolga Akış'ın İfadesi Ortaya Çıktı! Neler Dedi Neler! O Detay Olay Olur</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "CANLI YAYINA ENGEL OLAN NAMERTTİR!" Özgür Özel Akın Gürlek-Erdoğan'a Meydan Okudu!</title>
-      <link>https://www.youtube.com/watch?v=ikdpoqTu4-0</link>
-      <guid isPermaLink="false">ikdpoqTu4-0</guid>
-      <pubDate>Fri, 28 Aug 2026 13:30:20 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "CANLI YAYINA ENGEL OLAN NAMERTTİR!" Özgür Özel Akın Gürlek-Erdoğan'a Meydan Okudu!</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti Lideri Özgür Özel, Derince Belediyesi'nin Çenesuyu İşletmesi'nin Açılışında Konuştu</title>
-      <link>https://www.youtube.com/watch?v=n5oVosOopa8</link>
-      <guid isPermaLink="false">n5oVosOopa8</guid>
-      <pubDate>Fri, 28 Aug 2026 13:29:08 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti Lideri Özgür Özel, Derince Belediyesi'nin Çenesuyu İşletmesi'nin Açılışında Konuştu</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: İmamoğlu’nun kitabına basım durdurma kararı: “İstemeyen de buna engel olan da namerttir”</title>
-      <link>https://www.youtube.com/shorts/sB8_QppuAUg</link>
-      <guid isPermaLink="false">sB8_QppuAUg</guid>
-      <pubDate>Fri, 28 Aug 2026 13:19:57 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: İmamoğlu’nun kitabına basım durdurma kararı: “İstemeyen de buna engel olan da namerttir”</description>
     </item>
   </channel>
 </rss>
