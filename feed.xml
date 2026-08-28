@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 17:15:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 17:20:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: DEM Parti'den flaş Mazlum Abdi çağrısı! 'Türkiye'ye gelmeli'</title>
+      <link>https://www.youtube.com/watch?v=Tlzgzb0wZqA</link>
+      <guid isPermaLink="false">Tlzgzb0wZqA</guid>
+      <pubDate>Fri, 28 Aug 2026 17:15:36 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: DEM Parti'den flaş Mazlum Abdi çağrısı! 'Türkiye'ye gelmeli'</description>
+    </item>
     <item>
       <title>Tele2 Haber: Beylikdüzü Belediye Başkanı Murat Çalık'tan CHP kararı! Murat Taylan İnan Güney'i hatırlattı!</title>
       <link>https://www.youtube.com/watch?v=XcT5dJPZASU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">-kMk595FbxQ</guid>
       <pubDate>Fri, 28 Aug 2026 14:14:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Nepal'de yürek yakan görüntüler: Bir evin balkonunda duran kişiler sel sularına böyle kapıldı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel'den Kılıçdaroğlu'nu soran teyzeye dikkat çeken yanıt!</title>
-      <link>https://www.youtube.com/shorts/QYhUg4JCI4U</link>
-      <guid isPermaLink="false">QYhUg4JCI4U</guid>
-      <pubDate>Fri, 28 Aug 2026 14:13:39 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel'den Kılıçdaroğlu'nu soran teyzeye dikkat çeken yanıt!</description>
     </item>
   </channel>
 </rss>
