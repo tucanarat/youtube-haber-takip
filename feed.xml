@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 23:45:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 23:50:29 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Yüzme şampiyonu antrenmandan kaçtı, soluğu Özgür Özel'in yanında aldı! #shorts</title>
+      <link>https://www.youtube.com/shorts/tHTKWddGZ68</link>
+      <guid isPermaLink="false">tHTKWddGZ68</guid>
+      <pubDate>Fri, 28 Aug 2026 23:45:21 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Yüzme şampiyonu antrenmandan kaçtı, soluğu Özgür Özel'in yanında aldı! #shorts</description>
+    </item>
     <item>
       <title>Halk TV: Özgür Özel, Kıbrıs Barış Harekâtında paraşütle indiğini söyleyen yurttaşı alnından öptü! #shorts</title>
       <link>https://www.youtube.com/shorts/lm_RAXt6wJA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">jyJrqJIMONM</guid>
       <pubDate>Fri, 28 Aug 2026 19:00:36 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ERDOĞAN'A MEMLEKETİNDE SOĞUK DUŞ! Ali Babacan Rize'de yerden yere vurdu! Gündem olacak sözler!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: İmamoğlu'nun kitabının önsözü Özgür Özel'den! Bülent Mumay'dan çarpıcı çıkış!</title>
-      <link>https://www.youtube.com/shorts/PgCiFDOeOIU</link>
-      <guid isPermaLink="false">PgCiFDOeOIU</guid>
-      <pubDate>Fri, 28 Aug 2026 19:00:34 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: İmamoğlu'nun kitabının önsözü Özgür Özel'den! Bülent Mumay'dan çarpıcı çıkış!</description>
     </item>
   </channel>
 </rss>
