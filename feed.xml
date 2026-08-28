@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 15:45:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 15:50:37 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: MİLYONLARIN GÜNDEMİNE OTURMUŞTU! Özgür Özel'e "sana otobüs de alacağız" diyen Ayşe teyze Halk TV'de!</title>
+      <link>https://www.youtube.com/watch?v=9KSB973YCVY</link>
+      <guid isPermaLink="false">9KSB973YCVY</guid>
+      <pubDate>Fri, 28 Aug 2026 15:45:20 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: MİLYONLARIN GÜNDEMİNE OTURMUŞTU! Özgür Özel'e "sana otobüs de alacağız" diyen Ayşe teyze Halk TV'de!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Ferit Demir'den Narin dosyası için özeleştiri! Şeytantepe belgeselindeki suçlamalara yanıt!</title>
       <link>https://www.youtube.com/watch?v=1fcvFt0Ix8I</link>
       <guid isPermaLink="false">1fcvFt0Ix8I</guid>
       <pubDate>Fri, 28 Aug 2026 15:45:06 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Ferit Demir'den Narin dosyası için özeleştiri! Şeytantepe belgeselindeki suçlamalara yanıt!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: HAVADAN GÖRÜNTÜLENDİ: Nepal'i Haritadan Silen Sel Felaketi! "YÜKSEK YERLERE KAÇIN!"</title>
+      <link>https://www.youtube.com/watch?v=U9TGnR8ZVJ8</link>
+      <guid isPermaLink="false">U9TGnR8ZVJ8</guid>
+      <pubDate>Fri, 28 Aug 2026 15:40:23 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: HAVADAN GÖRÜNTÜLENDİ: Nepal'i Haritadan Silen Sel Felaketi! "YÜKSEK YERLERE KAÇIN!"</description>
     </item>
     <item>
       <title>Tele2 Haber: Zeytinburnu’nda korkutan kaza! Belediye otobüsü bahçe duvarına çarptı; yaralılar var...</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">IzmvnrDSU2I</guid>
       <pubDate>Fri, 28 Aug 2026 13:17:39 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Ekrem İmamoğlu savunmasını kitap yapacaktı: Yaptırılmayan savunmaya yasak geldi!</description>
-    </item>
-    <item>
-      <title>Halk TV: ÖZGÜR ÖZEL MÜJDEYİ VERDİ! Ev hanımlarına emeklilik projesini ilk kez açıkladı! Çok ses getirecek!</title>
-      <link>https://www.youtube.com/watch?v=iZKEf_y_0ww</link>
-      <guid isPermaLink="false">iZKEf_y_0ww</guid>
-      <pubDate>Fri, 28 Aug 2026 13:15:38 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ÖZGÜR ÖZEL MÜJDEYİ VERDİ! Ev hanımlarına emeklilik projesini ilk kez açıkladı! Çok ses getirecek!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: “Kendisini Ülkenin Başbakanı Olarak Hazırlayan Bir Özgür Özel Var!” Mullaoğlu'ndan Çarpıcı Çıkış!</title>
-      <link>https://www.youtube.com/watch?v=DIRKmmfTBIY</link>
-      <guid isPermaLink="false">DIRKmmfTBIY</guid>
-      <pubDate>Fri, 28 Aug 2026 13:09:55 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: “Kendisini Ülkenin Başbakanı Olarak Hazırlayan Bir Özgür Özel Var!” Mullaoğlu'ndan Çarpıcı Çıkış!</description>
     </item>
   </channel>
 </rss>
