@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 08:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 08:40:35 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: CHP'de Telaş Başladı! Tasfiyelerin Perde Arkası Bambaşka Çıktı! Kılıçdaroğlu'na Bomba Sözler</title>
+      <link>https://www.youtube.com/watch?v=kd3XWiWG_l4</link>
+      <guid isPermaLink="false">kd3XWiWG_l4</guid>
+      <pubDate>Fri, 28 Aug 2026 08:30:00 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: CHP'de Telaş Başladı! Tasfiyelerin Perde Arkası Bambaşka Çıktı! Kılıçdaroğlu'na Bomba Sözler</description>
+    </item>
     <item>
       <title>Halk TV: Süleymancılara Operasyon AKP İçinde Kavgaya Neden Oldu: O İsim Bülent Arınç'ı Tehdit Etti!</title>
       <link>https://www.youtube.com/watch?v=uABqw5rKl9o</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Jui1NrypIU4</guid>
       <pubDate>Fri, 28 Aug 2026 03:58:01 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Madenciler, Enerji ve Tabii Kaynaklar Bakanlığı önünde açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: İş Dünyası Finans Buluşması Diyarbakır’da gerçekleştiriliyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=6PZ_wxaOp04</link>
-      <guid isPermaLink="false">6PZ_wxaOp04</guid>
-      <pubDate>Fri, 28 Aug 2026 00:46:49 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: İş Dünyası Finans Buluşması Diyarbakır’da gerçekleştiriliyor #Canlı</description>
     </item>
   </channel>
 </rss>
