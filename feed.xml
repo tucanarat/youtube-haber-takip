@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 15:35:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 15:40:32 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Zeytinburnu’nda korkutan kaza! Belediye otobüsü bahçe duvarına çarptı; yaralılar var...</title>
+      <link>https://www.youtube.com/shorts/tuS0CwmfcQM</link>
+      <guid isPermaLink="false">tuS0CwmfcQM</guid>
+      <pubDate>Fri, 28 Aug 2026 15:37:54 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Zeytinburnu’nda korkutan kaza! Belediye otobüsü bahçe duvarına çarptı; yaralılar var...</description>
+    </item>
     <item>
       <title>Halk TV: ÖZGÜR ÖZEL'E KOCAELİ'DE SEVGİ SELİ! Bu görüntüler iktidarı üzecek</title>
       <link>https://www.youtube.com/watch?v=F_w1cNljB5I</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">DIRKmmfTBIY</guid>
       <pubDate>Fri, 28 Aug 2026 13:09:55 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: “Kendisini Ülkenin Başbakanı Olarak Hazırlayan Bir Özgür Özel Var!” Mullaoğlu'ndan Çarpıcı Çıkış!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Öner Döşer'den 12 Burca Kritik Uyarı! Doğum Haritanızdaki Sırrı Öner Döşer Çözüyor</title>
-      <link>https://www.youtube.com/watch?v=ju99IFsn-C0</link>
-      <guid isPermaLink="false">ju99IFsn-C0</guid>
-      <pubDate>Fri, 28 Aug 2026 13:02:25 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Öner Döşer'den 12 Burca Kritik Uyarı! Doğum Haritanızdaki Sırrı Öner Döşer Çözüyor</description>
     </item>
   </channel>
 </rss>
