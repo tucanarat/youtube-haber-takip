@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 10:30:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 10:35:28 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Pazara çıkmak için kredi çekme vakti! Fiyatlar 2021'den bu yana 22 kat arttı</title>
+      <link>https://www.youtube.com/watch?v=MwYfJMmifDM</link>
+      <guid isPermaLink="false">MwYfJMmifDM</guid>
+      <pubDate>Fri, 28 Aug 2026 10:30:18 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Pazara çıkmak için kredi çekme vakti! Fiyatlar 2021'den bu yana 22 kat arttı</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Yurttaştan Özgür Özel'e Büyük Destek! "Allah Sana Güç Kuvvet Versin!"</title>
+      <link>https://www.youtube.com/watch?v=tpaAs_CppcM</link>
+      <guid isPermaLink="false">tpaAs_CppcM</guid>
+      <pubDate>Fri, 28 Aug 2026 10:20:43 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Yurttaştan Özgür Özel'e Büyük Destek! "Allah Sana Güç Kuvvet Versin!"</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Ümit Özdağ, Yıldızlar SSS Holding önündeki  maden işçilerine destek ziyaretinde bulundu #Canlı</title>
       <link>https://www.youtube.com/watch?v=aMCMXEUfdBA</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">r3jbmxsGI74</guid>
       <pubDate>Fri, 28 Aug 2026 07:52:03 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: DEM Parti Sözcüsü Ayşegül Doğan, partisinin genel merkezinde basın toplantısı düzenliyor #Canlı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Gökhan Günaydın İzmir'de anlattı: Vatandaş "Paran yoksa hallederiz" diyor</title>
-      <link>https://www.youtube.com/watch?v=Me7sipWGHrg</link>
-      <guid isPermaLink="false">Me7sipWGHrg</guid>
-      <pubDate>Fri, 28 Aug 2026 07:49:03 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Gökhan Günaydın İzmir'de anlattı: Vatandaş "Paran yoksa hallederiz" diyor</description>
-    </item>
-    <item>
-      <title>Halk TV: GİZLİ ANLAŞMA ORTAYA ÇIKTI! F-35'ler için Trump'a yakın şirkete milyonlar yağacak! İşte detaylar!</title>
-      <link>https://www.youtube.com/watch?v=2OXNf98XRfc</link>
-      <guid isPermaLink="false">2OXNf98XRfc</guid>
-      <pubDate>Fri, 28 Aug 2026 07:45:22 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: GİZLİ ANLAŞMA ORTAYA ÇIKTI! F-35'ler için Trump'a yakın şirkete milyonlar yağacak! İşte detaylar!</description>
     </item>
   </channel>
 </rss>
