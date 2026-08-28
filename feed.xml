@@ -6,13 +6,34 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 19:01:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 19:05:24 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI Namık Koçak ve Hüsnü Mahalli ile Forum (28.08.26)</title>
+      <link>https://www.youtube.com/watch?v=PCSHLefZZ0k</link>
+      <guid isPermaLink="false">PCSHLefZZ0k</guid>
+      <pubDate>Fri, 28 Aug 2026 19:04:36 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Namık Koçak ve Hüsnü Mahalli ile Forum (28.08.26)</description>
+    </item>
+    <item>
+      <title>Halk TV: ERDOĞAN'A MEMLEKETİNDE SOĞUK DUŞ! Ali Babacan Rize'de yerden yere vurdu! Gündem olacak sözler!</title>
+      <link>https://www.youtube.com/watch?v=jyJrqJIMONM</link>
+      <guid isPermaLink="false">jyJrqJIMONM</guid>
+      <pubDate>Fri, 28 Aug 2026 19:00:36 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ERDOĞAN'A MEMLEKETİNDE SOĞUK DUŞ! Ali Babacan Rize'de yerden yere vurdu! Gündem olacak sözler!</description>
+    </item>
     <item>
       <title>Tele2 Haber: İmamoğlu'nun kitabının önsözü Özgür Özel'den! Bülent Mumay'dan çarpıcı çıkış!</title>
       <link>https://www.youtube.com/shorts/PgCiFDOeOIU</link>
       <guid isPermaLink="false">PgCiFDOeOIU</guid>
       <pubDate>Fri, 28 Aug 2026 19:00:34 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: İmamoğlu'nun kitabının önsözü Özgür Özel'den! Bülent Mumay'dan çarpıcı çıkış!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İmamoğlu'nun Savunma Kitabına Matbaada Baskın! Mustafa Balbay'dan Olay Olacak İddia</title>
+      <link>https://www.youtube.com/watch?v=g1lhSbuKhIo</link>
+      <guid isPermaLink="false">g1lhSbuKhIo</guid>
+      <pubDate>Fri, 28 Aug 2026 19:00:33 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İmamoğlu'nun Savunma Kitabına Matbaada Baskın! Mustafa Balbay'dan Olay Olacak İddia</description>
     </item>
     <item>
       <title>Tele2 Haber: Bülent Mumay'dan 'Gökçek' dosyası için kritik analiz: İHBAR EDİLMESİ TESADÜF GİBİ DEĞİL!</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">dPx2kkpHSXM</guid>
       <pubDate>Fri, 28 Aug 2026 16:00:21 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Üzerinde "Teyzem sağ olsun" yazılı... Özgür Özel, halkın bağışları ile alınan otobüse ilk kez bindi!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: "Bir Kolum Kırıldı, Tüm Hayatım Değişti!" | Ekrem Açıkel | İpek Özbey ile Perdenin Arkası</title>
-      <link>https://www.youtube.com/watch?v=LMj_lP4db4I</link>
-      <guid isPermaLink="false">LMj_lP4db4I</guid>
-      <pubDate>Fri, 28 Aug 2026 16:00:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: "Bir Kolum Kırıldı, Tüm Hayatım Değişti!" | Ekrem Açıkel | İpek Özbey ile Perdenin Arkası</description>
-    </item>
-    <item>
-      <title>Halk TV: MİLYONLARIN GÜNDEMİNE OTURMUŞTU! Özgür Özel'e "sana otobüs de alacağız" diyen Ayşe teyze Halk TV'de!</title>
-      <link>https://www.youtube.com/watch?v=9KSB973YCVY</link>
-      <guid isPermaLink="false">9KSB973YCVY</guid>
-      <pubDate>Fri, 28 Aug 2026 15:45:20 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: MİLYONLARIN GÜNDEMİNE OTURMUŞTU! Özgür Özel'e "sana otobüs de alacağız" diyen Ayşe teyze Halk TV'de!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Ferit Demir'den Narin dosyası için özeleştiri! Şeytantepe belgeselindeki suçlamalara yanıt!</title>
-      <link>https://www.youtube.com/watch?v=1fcvFt0Ix8I</link>
-      <guid isPermaLink="false">1fcvFt0Ix8I</guid>
-      <pubDate>Fri, 28 Aug 2026 15:45:06 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Ferit Demir'den Narin dosyası için özeleştiri! Şeytantepe belgeselindeki suçlamalara yanıt!</description>
     </item>
   </channel>
 </rss>
