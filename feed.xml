@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 12:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 12:45:36 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: YENİ Parti'nin ilk resmi... Özgür Özel: Yeni odamıza koyacağım ilk resim</title>
+      <link>https://www.youtube.com/shorts/XtET3gnYrq4</link>
+      <guid isPermaLink="false">XtET3gnYrq4</guid>
+      <pubDate>Fri, 28 Aug 2026 12:41:38 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: YENİ Parti'nin ilk resmi... Özgür Özel: Yeni odamıza koyacağım ilk resim</description>
+    </item>
     <item>
       <title>Cumhuriyet: Derinceli teyzeden Özgür Özel'e: Sana bir şey dediklerinde aklım çıkıyor</title>
       <link>https://www.youtube.com/shorts/vsBUfvIvit0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">fOY23sFk9Vc</guid>
       <pubDate>Fri, 28 Aug 2026 10:30:33 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Ekrem İmamoğlu Akın Gürlek'e Rest Çekti Meydan Okudu "YÜREĞİNİZ YETİYORSA CANLI YAYINLAYIN"</description>
-    </item>
-    <item>
-      <title>Halk TV: Pazara çıkmak için kredi çekme vakti! Fiyatlar 2021'den bu yana 22 kat arttı</title>
-      <link>https://www.youtube.com/watch?v=MwYfJMmifDM</link>
-      <guid isPermaLink="false">MwYfJMmifDM</guid>
-      <pubDate>Fri, 28 Aug 2026 10:30:18 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Pazara çıkmak için kredi çekme vakti! Fiyatlar 2021'den bu yana 22 kat arttı</description>
     </item>
   </channel>
 </rss>
