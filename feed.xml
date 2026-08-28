@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 21:05:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 21:10:38 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: Aklın Yolu | Serap Belovacıklı | 28 Ağustos</title>
       <link>https://www.youtube.com/watch?v=ds4NgyFq6p4</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">tr0G2gQRZow</guid>
       <pubDate>Fri, 28 Aug 2026 21:00:02 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Mansur Yavaş İmamoğlu ve Özgür Özel'e Büyük Kumpas! İktidarın Muhalefeti Bölme Planı</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: İmamoğlu'ndan kitabının yasaklanmasına tepki: Bu kitabı milyonlar okuyacak savunmamı herkes görecek</title>
+      <link>https://www.youtube.com/shorts/NONx2VpsMSQ</link>
+      <guid isPermaLink="false">NONx2VpsMSQ</guid>
+      <pubDate>Fri, 28 Aug 2026 21:00:02 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: İmamoğlu'ndan kitabının yasaklanmasına tepki: Bu kitabı milyonlar okuyacak savunmamı herkes görecek</description>
     </item>
     <item>
       <title>Halk TV: SICAK GELİŞME! Komedyen Deniz Göktaş hakkında hem tahliye hem tutuklama kararı!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">XcT5dJPZASU</guid>
       <pubDate>Fri, 28 Aug 2026 17:15:01 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Beylikdüzü Belediye Başkanı Murat Çalık'tan CHP kararı! Murat Taylan İnan Güney'i hatırlattı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (28 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=zi4J5VhDCv0</link>
-      <guid isPermaLink="false">zi4J5VhDCv0</guid>
-      <pubDate>Fri, 28 Aug 2026 17:09:22 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (28 Ağustos 2026)</description>
     </item>
   </channel>
 </rss>
