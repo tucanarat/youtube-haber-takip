@@ -6,7 +6,35 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 21:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 22:00:57 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: S Raporu | Nagihan Turhan | 29 Ağustos</title>
+      <link>https://www.youtube.com/watch?v=zYUe9EZn7z8</link>
+      <guid isPermaLink="false">zYUe9EZn7z8</guid>
+      <pubDate>Fri, 28 Aug 2026 21:59:12 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: S Raporu | Nagihan Turhan | 29 Ağustos</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Sabah Kahvesi | Nagihan Turhan</title>
+      <link>https://www.youtube.com/watch?v=R-FCbZhC36w</link>
+      <guid isPermaLink="false">R-FCbZhC36w</guid>
+      <pubDate>Fri, 28 Aug 2026 21:58:19 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Sabah Kahvesi | Nagihan Turhan</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Fethiye’de orman yangını… Evlerin tahliyesi için harekete geçidi!</title>
+      <link>https://www.youtube.com/watch?v=YEE6WhIaUKo</link>
+      <guid isPermaLink="false">YEE6WhIaUKo</guid>
+      <pubDate>Fri, 28 Aug 2026 21:58:09 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Fethiye’de orman yangını… Evlerin tahliyesi için harekete geçidi!</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | İrem Sansak ile Gündem Özel | #Halktv</title>
+      <link>https://www.youtube.com/watch?v=nJQbzmliED4</link>
+      <guid isPermaLink="false">nJQbzmliED4</guid>
+      <pubDate>Fri, 28 Aug 2026 21:57:18 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | İrem Sansak ile Gündem Özel | #Halktv</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İktidarın Transfer Planını Mustafa Balbay Anlattı! İBB İçin Tehlike Çanları! Mansur Yavaş Çıkışı</title>
       <link>https://www.youtube.com/watch?v=hObaGCzkr0M</link>
@@ -328,34 +356,6 @@
       <guid isPermaLink="false">jIW6yNShC1M</guid>
       <pubDate>Fri, 28 Aug 2026 17:56:30 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Sinem Fıstıkoğlu, Halk TV Ana Haber’i bugün son kez sundu! #shorts</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Fethiye’de orman yangını… Evlerin tahliyesi için harekete geçidi!</title>
-      <link>https://www.youtube.com/watch?v=YEE6WhIaUKo</link>
-      <guid isPermaLink="false">YEE6WhIaUKo</guid>
-      <pubDate>Fri, 28 Aug 2026 17:55:16 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Fethiye’de orman yangını… Evlerin tahliyesi için harekete geçidi!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #SONDAKİKA Deniz Göktaş’a tahliye kararı verildi: Cezaevinden çıkamadan yeniden tutuklandı</title>
-      <link>https://www.youtube.com/watch?v=RZXgftRsbQo</link>
-      <guid isPermaLink="false">RZXgftRsbQo</guid>
-      <pubDate>Fri, 28 Aug 2026 17:54:51 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #SONDAKİKA Deniz Göktaş’a tahliye kararı verildi: Cezaevinden çıkamadan yeniden tutuklandı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "Fatih Altaylı saf değil ama..." Murat Taylan Altaylı'nın yazısını yorumladı</title>
-      <link>https://www.youtube.com/watch?v=i7b2MnuerM4</link>
-      <guid isPermaLink="false">i7b2MnuerM4</guid>
-      <pubDate>Fri, 28 Aug 2026 17:50:29 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "Fatih Altaylı saf değil ama..." Murat Taylan Altaylı'nın yazısını yorumladı</description>
-    </item>
-    <item>
-      <title>Halk TV: KULİSLER BU İDDİAYI KONUŞUYOR! Bölgesel asgari ücret söylentilerine Aziz Konukman'dan sert sözler!</title>
-      <link>https://www.youtube.com/watch?v=dsKrEZLVFt8</link>
-      <guid isPermaLink="false">dsKrEZLVFt8</guid>
-      <pubDate>Fri, 28 Aug 2026 17:45:24 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KULİSLER BU İDDİAYI KONUŞUYOR! Bölgesel asgari ücret söylentilerine Aziz Konukman'dan sert sözler!</description>
     </item>
   </channel>
 </rss>
