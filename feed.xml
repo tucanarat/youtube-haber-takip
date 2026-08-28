@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 07:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 07:30:41 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: #CANLI Namık Koçak ve Hüsnü Mahalli ile Forum (28.08.26)</title>
       <link>https://www.youtube.com/watch?v=PCSHLefZZ0k</link>
@@ -90,6 +90,13 @@
       <guid isPermaLink="false">TrmmD5ZvnQw</guid>
       <pubDate>Fri, 28 Aug 2026 06:23:03 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İstanbul'da gece saatlerinde gök gürültülü sağanak etkili oldu!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Hedef Mansur Yavaş! Murat Ağırel Gizli Planı İfşa Etti! CHP'de Yer Yerinden Oynayacak!</title>
+      <link>https://www.youtube.com/watch?v=HGxC9OEYTNE</link>
+      <guid isPermaLink="false">HGxC9OEYTNE</guid>
+      <pubDate>Fri, 28 Aug 2026 06:01:46 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Hedef Mansur Yavaş! Murat Ağırel Gizli Planı İfşa Etti! CHP'de Yer Yerinden Oynayacak!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Şezlong Tartışması Mahkemede Bitti: 3 Yıl Hapsi İsteniyor! #shorts</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">6Wi9lw1BzNU</guid>
       <pubDate>Thu, 27 Aug 2026 21:37:30 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Nepal'deki selde hayatını kaybedenlerin sayısı 359'a çıktı! #shorts</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İsrail'in Büyük Suriye Projesi! Şam'ın Düşüşündeki Sır Çözüldü! Şara'nın Arkasındaki ABD Planı</title>
-      <link>https://www.youtube.com/watch?v=D-NSUkdn6LY</link>
-      <guid isPermaLink="false">D-NSUkdn6LY</guid>
-      <pubDate>Thu, 27 Aug 2026 21:30:28 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İsrail'in Büyük Suriye Projesi! Şam'ın Düşüşündeki Sır Çözüldü! Şara'nın Arkasındaki ABD Planı</description>
     </item>
   </channel>
 </rss>
