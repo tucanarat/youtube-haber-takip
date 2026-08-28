@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 17:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 17:05:27 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: İmamoğlu'nun basılmayan kitabını toplatma kararı! Murat Taylan ile Haber-Yorum (28.08.2026)</title>
+      <link>https://www.youtube.com/watch?v=_p0PPCAKwzI</link>
+      <guid isPermaLink="false">_p0PPCAKwzI</guid>
+      <pubDate>Fri, 28 Aug 2026 17:04:42 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: İmamoğlu'nun basılmayan kitabını toplatma kararı! Murat Taylan ile Haber-Yorum (28.08.2026)</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Sinem Fıstıkoğlu ile Halk Ana Haber | #yasak</title>
       <link>https://www.youtube.com/watch?v=_2Lh44EkhJI</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">1NO6Q5LHWKE</guid>
       <pubDate>Fri, 28 Aug 2026 14:00:23 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ÖZGÜR ÖZEL SAHNEDE AÇIKLADI! Basımı dahi yapılmayan İmamoğlu'nun kitabına engel...</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Nepal'den Sonra Sırada Çin Var! Nepal'de Köyleri Haritadan Silen Felaket Durmuyor!</title>
-      <link>https://www.youtube.com/watch?v=yk7MNCLEDQg</link>
-      <guid isPermaLink="false">yk7MNCLEDQg</guid>
-      <pubDate>Fri, 28 Aug 2026 14:00:17 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Nepal'den Sonra Sırada Çin Var! Nepal'de Köyleri Haritadan Silen Felaket Durmuyor!</description>
     </item>
   </channel>
 </rss>
