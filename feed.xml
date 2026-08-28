@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 19:45:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 19:50:31 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI Namık Koçak - Hüsnü Mahalli ile Forum 30.08.26</title>
+      <link>https://www.youtube.com/watch?v=jP9XTAoVrek</link>
+      <guid isPermaLink="false">jP9XTAoVrek</guid>
+      <pubDate>Fri, 28 Aug 2026 19:41:15 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Namık Koçak - Hüsnü Mahalli ile Forum 30.08.26</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #CANLI Namık Koçak, Özdemir İnce ve Recai Aksu ile Forum (29.08.26)</title>
+      <link>https://www.youtube.com/watch?v=EzBH3BT0-2A</link>
+      <guid isPermaLink="false">EzBH3BT0-2A</guid>
+      <pubDate>Fri, 28 Aug 2026 19:40:21 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Namık Koçak, Özdemir İnce ve Recai Aksu ile Forum (29.08.26)</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Melih Gökçek'in 810 Milyonluk Vurgunu! Mansur Yavaş'ın Saklanan Yargı Dosyaları! Uğur Poyraz Anlattı</title>
       <link>https://www.youtube.com/watch?v=-6LYfol9NKU</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">zdB4OcGc23M</guid>
       <pubDate>Fri, 28 Aug 2026 16:30:26 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Putin'den Erdoğan Hamlesi! Kremlin Resmen Açıkladı! O Ülkede Beklenmedik Tarihi Zirve!</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti'ye çığ gibi büyüyen desteğin en net tablosu... Özgür Özel öyle bir detay açıkladı ki...</title>
-      <link>https://www.youtube.com/watch?v=TMjtDiRKNMA</link>
-      <guid isPermaLink="false">TMjtDiRKNMA</guid>
-      <pubDate>Fri, 28 Aug 2026 16:30:07 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti'ye çığ gibi büyüyen desteğin en net tablosu... Özgür Özel öyle bir detay açıkladı ki...</description>
-    </item>
-    <item>
-      <title>Halk TV: ÖZGÜR ÖZEL KOCAELİ’NDE İKTİDARA SERT ÇIKTI! 'Yayın evi basıp kitap topladılar'</title>
-      <link>https://www.youtube.com/watch?v=geLVQefjEbo</link>
-      <guid isPermaLink="false">geLVQefjEbo</guid>
-      <pubDate>Fri, 28 Aug 2026 16:15:26 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ÖZGÜR ÖZEL KOCAELİ’NDE İKTİDARA SERT ÇIKTI! 'Yayın evi basıp kitap topladılar'</description>
     </item>
   </channel>
 </rss>
