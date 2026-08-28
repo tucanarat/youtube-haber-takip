@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 09:45:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 09:50:37 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Gittiği Her Yerde İlgi Odağı! Kocaeli'nde Özgür Özel İzdihamı!</title>
+      <link>https://www.youtube.com/watch?v=0AjulYNONXI</link>
+      <guid isPermaLink="false">0AjulYNONXI</guid>
+      <pubDate>Fri, 28 Aug 2026 09:40:17 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Gittiği Her Yerde İlgi Odağı! Kocaeli'nde Özgür Özel İzdihamı!</description>
+    </item>
     <item>
       <title>Halk TV: İMAMOĞLU'NDAN O SÖZLERE ÇARPICI REST! Akın Gürlek'in 'TRT' çıkışına resmen demediğini bırakmadı!</title>
       <link>https://www.youtube.com/watch?v=hekQHSNSIRw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">9l50jlGDIYY</guid>
       <pubDate>Fri, 28 Aug 2026 07:00:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Gökçeklerin Yurt Dışındaki Serveti İfşa Oldu! Murat Ağırel Belgeyle Anlattı! Milyon Euroluk Anlaşma</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Özgür Özel Yola Çıkıyor! YENİ Parti Otobüsüyle İlk Adres Kocaeli! Binler Buluşmaya Akacak!</title>
-      <link>https://www.youtube.com/watch?v=yWeN25b1TwA</link>
-      <guid isPermaLink="false">yWeN25b1TwA</guid>
-      <pubDate>Fri, 28 Aug 2026 06:57:18 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Özgür Özel Yola Çıkıyor! YENİ Parti Otobüsüyle İlk Adres Kocaeli! Binler Buluşmaya Akacak!</description>
     </item>
   </channel>
 </rss>
