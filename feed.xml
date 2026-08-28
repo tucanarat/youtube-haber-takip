@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 09:10:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 09:15:36 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: TARTIŞMANIN FİTİLİ ATEŞLENDİ! Akın Gürlek'ten İmamoğlu için flaş 'TRT' çıkışı! Bu sözler gündem olur</title>
+      <link>https://www.youtube.com/watch?v=WVsUdwSeVvg</link>
+      <guid isPermaLink="false">WVsUdwSeVvg</guid>
+      <pubDate>Fri, 28 Aug 2026 09:05:49 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: TARTIŞMANIN FİTİLİ ATEŞLENDİ! Akın Gürlek'ten İmamoğlu için flaş 'TRT' çıkışı! Bu sözler gündem olur</description>
+    </item>
     <item>
       <title>Tele2 Haber: Murat Ağırel'in Melih Gökçek'i Terletecek Bomba Haberi! "30 bin Avro Sermayeden Milyonlarca Avro’ya"</title>
       <link>https://www.youtube.com/watch?v=EVKVwlU4r74</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">8QcGEukS7YE</guid>
       <pubDate>Fri, 28 Aug 2026 05:59:24 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ESENYURT'TA FACİA! Sağanak yağışla birlikte 11 araç birbirine girdi! Yardıma koşanlara araç çarptı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Camideki Ayakkabı Hırsızı Sahipsiz Köpek Çıktı! #Shorts</title>
-      <link>https://www.youtube.com/shorts/ZkBtBi9vuzs</link>
-      <guid isPermaLink="false">ZkBtBi9vuzs</guid>
-      <pubDate>Fri, 28 Aug 2026 05:30:22 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Camideki Ayakkabı Hırsızı Sahipsiz Köpek Çıktı! #Shorts</description>
     </item>
   </channel>
 </rss>
