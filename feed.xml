@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 18:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 19:01:32 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: İmamoğlu'nun kitabının önsözü Özgür Özel'den! Bülent Mumay'dan çarpıcı çıkış!</title>
+      <link>https://www.youtube.com/shorts/PgCiFDOeOIU</link>
+      <guid isPermaLink="false">PgCiFDOeOIU</guid>
+      <pubDate>Fri, 28 Aug 2026 19:00:34 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: İmamoğlu'nun kitabının önsözü Özgür Özel'den! Bülent Mumay'dan çarpıcı çıkış!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Bülent Mumay'dan 'Gökçek' dosyası için kritik analiz: İHBAR EDİLMESİ TESADÜF GİBİ DEĞİL!</title>
       <link>https://www.youtube.com/watch?v=2QIjoT1ExAw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">1fcvFt0Ix8I</guid>
       <pubDate>Fri, 28 Aug 2026 15:45:06 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Ferit Demir'den Narin dosyası için özeleştiri! Şeytantepe belgeselindeki suçlamalara yanıt!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: HAVADAN GÖRÜNTÜLENDİ: Nepal'i Haritadan Silen Sel Felaketi! "YÜKSEK YERLERE KAÇIN!"</title>
-      <link>https://www.youtube.com/watch?v=U9TGnR8ZVJ8</link>
-      <guid isPermaLink="false">U9TGnR8ZVJ8</guid>
-      <pubDate>Fri, 28 Aug 2026 15:40:23 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: HAVADAN GÖRÜNTÜLENDİ: Nepal'i Haritadan Silen Sel Felaketi! "YÜKSEK YERLERE KAÇIN!"</description>
     </item>
   </channel>
 </rss>
