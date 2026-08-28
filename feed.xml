@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 12:25:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 12:30:42 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Sinem Fıstıkoğlu ile Haber Masası (28 Ağustos 2026)</title>
+      <link>https://www.youtube.com/watch?v=AxBsZ6aiqgA</link>
+      <guid isPermaLink="false">AxBsZ6aiqgA</guid>
+      <pubDate>Fri, 28 Aug 2026 12:23:58 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Sinem Fıstıkoğlu ile Haber Masası (28 Ağustos 2026)</description>
+    </item>
     <item>
       <title>Halk TV: YENİ Parti Genel Başkanı Özgür Özel Derince'de kadınlarla bir araya geldi</title>
       <link>https://www.youtube.com/watch?v=zbvKOSLDpnY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">arxH-S8pw_8</guid>
       <pubDate>Fri, 28 Aug 2026 09:56:20 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Mahmut Arıkan: Sağlıktaki ihmallerin hesabını Meclis’te soracağız!</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti'nin genel merkez binasında çalışmalar sona geldi!</title>
-      <link>https://www.youtube.com/shorts/PBJOpJ6_3EE</link>
-      <guid isPermaLink="false">PBJOpJ6_3EE</guid>
-      <pubDate>Fri, 28 Aug 2026 09:56:05 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti'nin genel merkez binasında çalışmalar sona geldi!</description>
     </item>
   </channel>
 </rss>
