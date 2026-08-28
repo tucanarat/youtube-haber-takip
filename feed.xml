@@ -6,13 +6,34 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 18:10:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 18:15:31 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Bülent Mumay'dan İmamoğlu'nun kitabı için iddialı çıkış: PDF'si hepimizin önünde olacak!</title>
+      <link>https://www.youtube.com/watch?v=nArZWc0XSEA</link>
+      <guid isPermaLink="false">nArZWc0XSEA</guid>
+      <pubDate>Fri, 28 Aug 2026 18:15:10 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Bülent Mumay'dan İmamoğlu'nun kitabı için iddialı çıkış: PDF'si hepimizin önünde olacak!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: İMAMOĞLU'NDAN KİTAP YASAĞINA HODRİ MEYDAN! Evren Özalkuş ile Gerçek | Konuk: Bülent Mumay</title>
+      <link>https://www.youtube.com/watch?v=Nx5-KdT28eY</link>
+      <guid isPermaLink="false">Nx5-KdT28eY</guid>
+      <pubDate>Fri, 28 Aug 2026 18:08:12 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: İMAMOĞLU'NDAN KİTAP YASAĞINA HODRİ MEYDAN! Evren Özalkuş ile Gerçek | Konuk: Bülent Mumay</description>
+    </item>
     <item>
       <title>Halk TV: Muğla'nın Fethiye ilçesinde yerleşim yerine yakın bölgede çıkan orman yangınına müdahale ediliyor!</title>
       <link>https://www.youtube.com/watch?v=yflVFy-0SBI</link>
       <guid isPermaLink="false">yflVFy-0SBI</guid>
       <pubDate>Fri, 28 Aug 2026 18:00:32 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Muğla'nın Fethiye ilçesinde yerleşim yerine yakın bölgede çıkan orman yangınına müdahale ediliyor!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Komedyen Deniz Göktaş Önce Tahliye Edildi Sonra Yeniden Tutuklandı! NELER OLUYOR?</title>
+      <link>https://www.youtube.com/watch?v=JvUADqDxFFE</link>
+      <guid isPermaLink="false">JvUADqDxFFE</guid>
+      <pubDate>Fri, 28 Aug 2026 18:00:26 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Komedyen Deniz Göktaş Önce Tahliye Edildi Sonra Yeniden Tutuklandı! NELER OLUYOR?</description>
     </item>
     <item>
       <title>Tele2 Haber: AİHM'nin Kavala kararının ardından Bülent Mumay iktidara 'İstanbul Sözleşmesi' üzerinden seslendi!</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">SduizFb_LX4</guid>
       <pubDate>Fri, 28 Aug 2026 14:49:54 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İş Çıkışı | Merve Ekinci 28 Ağustos</description>
-    </item>
-    <item>
-      <title>Halk TV: ERDOĞAN VE AKIN GÜRLEK NEYE UĞRADIĞINI ŞAŞIRACAK! Özgür Özel'den tarihe geçecek hodri meydan!</title>
-      <link>https://www.youtube.com/watch?v=bzcp3Hv5ubQ</link>
-      <guid isPermaLink="false">bzcp3Hv5ubQ</guid>
-      <pubDate>Fri, 28 Aug 2026 14:45:14 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ERDOĞAN VE AKIN GÜRLEK NEYE UĞRADIĞINI ŞAŞIRACAK! Özgür Özel'den tarihe geçecek hodri meydan!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: AKP İçten Kaynıyor! Erdoğan Çok Kızacak! Süleymancılar Çatlağı! Bülent Arınç'tan Tarihi Sözler</title>
-      <link>https://www.youtube.com/watch?v=OG8R44hf2Dw</link>
-      <guid isPermaLink="false">OG8R44hf2Dw</guid>
-      <pubDate>Fri, 28 Aug 2026 14:40:36 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: AKP İçten Kaynıyor! Erdoğan Çok Kızacak! Süleymancılar Çatlağı! Bülent Arınç'tan Tarihi Sözler</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! Manifest grubunun kurucusu ve menajeri Tolga Akış 'müstehcenlik' suçundan tutuklandı!</title>
-      <link>https://www.youtube.com/watch?v=_IMStuNKzuw</link>
-      <guid isPermaLink="false">_IMStuNKzuw</guid>
-      <pubDate>Fri, 28 Aug 2026 14:30:08 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! Manifest grubunun kurucusu ve menajeri Tolga Akış 'müstehcenlik' suçundan tutuklandı!</description>
     </item>
   </channel>
 </rss>
