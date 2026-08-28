@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 18:30:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 18:35:29 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | İstanbul’un Fatih ilçesinde Topkapı-Pazartekke hattında iki tramvay çarpıştı!</title>
+      <link>https://www.youtube.com/watch?v=F-JhrdW9xmE</link>
+      <guid isPermaLink="false">F-JhrdW9xmE</guid>
+      <pubDate>Fri, 28 Aug 2026 18:31:39 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | İstanbul’un Fatih ilçesinde Topkapı-Pazartekke hattında iki tramvay çarpıştı!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Kemal Öztürk'ten Nusayriler hakkında skandal sözler! Murat Taylan'dan sert tepki!</title>
+      <link>https://www.youtube.com/watch?v=0wb-xEaxtUg</link>
+      <guid isPermaLink="false">0wb-xEaxtUg</guid>
+      <pubDate>Fri, 28 Aug 2026 18:30:23 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Kemal Öztürk'ten Nusayriler hakkında skandal sözler! Murat Taylan'dan sert tepki!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Murat Çalık'ın CHP kararının ardından Bülent Mumay'dan Kılıçdaroğlu'na "ARINMA' hatırlatması!</title>
       <link>https://www.youtube.com/watch?v=fdEEZUMCAoI</link>
@@ -41,13 +55,6 @@
       <guid isPermaLink="false">nArZWc0XSEA</guid>
       <pubDate>Fri, 28 Aug 2026 18:15:10 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Bülent Mumay'dan İmamoğlu'nun kitabı için iddialı çıkış: PDF'si hepimizin önünde olacak!</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | İstanbul’un Fatih ilçesinde Topkapı-Pazartekke hattında iki tramvay çarpıştı!</title>
-      <link>https://www.youtube.com/watch?v=F-JhrdW9xmE</link>
-      <guid isPermaLink="false">F-JhrdW9xmE</guid>
-      <pubDate>Fri, 28 Aug 2026 18:10:10 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | İstanbul’un Fatih ilçesinde Topkapı-Pazartekke hattında iki tramvay çarpıştı!</description>
     </item>
     <item>
       <title>Tele2 Haber: İMAMOĞLU'NDAN KİTAP YASAĞINA HODRİ MEYDAN! Evren Özalkuş ile Gerçek | Konuk: Bülent Mumay</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">1FZiEV7vuuk</guid>
       <pubDate>Fri, 28 Aug 2026 15:15:39 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ÖZGÜR ÖZEL'İ ŞAŞIRTAN SÜRPRİZ! Yanına gelen küçük kızın verdiği kağıdı açınca bakın neyle karşılaştı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Narin cinayetinde 'çözülemeyen' detaylar! Ferit Demir: Üzerine giden gazetecilere baskı var!</title>
-      <link>https://www.youtube.com/watch?v=mmbh7a_9pd0</link>
-      <guid isPermaLink="false">mmbh7a_9pd0</guid>
-      <pubDate>Fri, 28 Aug 2026 15:10:06 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Narin cinayetinde 'çözülemeyen' detaylar! Ferit Demir: Üzerine giden gazetecilere baskı var!</description>
     </item>
   </channel>
 </rss>
