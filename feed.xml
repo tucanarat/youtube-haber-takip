@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 16:50:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 16:55:31 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Sözcü Ana Haber |  Senem Toluay Ilgaz | 28 Ağustos</title>
+      <link>https://www.youtube.com/watch?v=oGemfqsJVIE</link>
+      <guid isPermaLink="false">oGemfqsJVIE</guid>
+      <pubDate>Fri, 28 Aug 2026 16:53:55 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Sözcü Ana Haber |  Senem Toluay Ilgaz | 28 Ağustos</description>
+    </item>
     <item>
       <title>Tele2 Haber: Tolga Akış niye tutuklandı? Murat Taylan'dan "Manifest ve müstehcenlik" tepkisi!</title>
       <link>https://www.youtube.com/watch?v=YkaPWFdlVo4</link>
@@ -20,13 +27,6 @@
       <guid isPermaLink="false">FHxeCD_-CSo</guid>
       <pubDate>Fri, 28 Aug 2026 16:45:36 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Figen Çalıkuşu, Ahmet Şık'ın "İmamın ordusu" kitabının da, daha basılmadan toplatıldığını hatırlattı</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Cumhurbaşkanı Erdoğan, "Mevlid-i Nebi Haftası Programı"nda konuşuyor!</title>
-      <link>https://www.youtube.com/watch?v=oU2y2VXhr8M</link>
-      <guid isPermaLink="false">oU2y2VXhr8M</guid>
-      <pubDate>Fri, 28 Aug 2026 16:42:51 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Cumhurbaşkanı Erdoğan, "Mevlid-i Nebi Haftası Programı"nda konuşuyor!</description>
     </item>
     <item>
       <title>Tele2 Haber: MURAT TAYLAN'DAN 'MANİFEST VE MÜSTEHCENLİK' TEPKİSİ!</title>
@@ -55,6 +55,13 @@
       <guid isPermaLink="false">TMjtDiRKNMA</guid>
       <pubDate>Fri, 28 Aug 2026 16:30:07 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Parti'ye çığ gibi büyüyen desteğin en net tablosu... Özgür Özel öyle bir detay açıkladı ki...</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Cumhurbaşkanı Erdoğan, "Mevlid-i Nebi Haftası Programı"nda konuşuyor!</title>
+      <link>https://www.youtube.com/watch?v=oU2y2VXhr8M</link>
+      <guid isPermaLink="false">oU2y2VXhr8M</guid>
+      <pubDate>Fri, 28 Aug 2026 16:25:17 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Cumhurbaşkanı Erdoğan, "Mevlid-i Nebi Haftası Programı"nda konuşuyor!</description>
     </item>
     <item>
       <title>Halk TV: ÖZGÜR ÖZEL KOCAELİ’NDE İKTİDARA SERT ÇIKTI! 'Yayın evi basıp kitap topladılar'</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">bg0IW7NQGcA</guid>
       <pubDate>Fri, 28 Aug 2026 13:59:14 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Haber Saati | Gülinay Selçuk | 28 Ağustos</description>
-    </item>
-    <item>
-      <title>Halk TV: Karamürsel’de yurttaştan, Özgür Özel’e: "Kuraklık vardı, sayenizde yağmur yağdı, bereket geldi!"</title>
-      <link>https://www.youtube.com/shorts/EohN6LOTFlM</link>
-      <guid isPermaLink="false">EohN6LOTFlM</guid>
-      <pubDate>Fri, 28 Aug 2026 13:45:47 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Karamürsel’de yurttaştan, Özgür Özel’e: "Kuraklık vardı, sayenizde yağmur yağdı, bereket geldi!"</description>
     </item>
   </channel>
 </rss>
