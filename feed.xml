@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 08:20:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 08:25:25 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: 1 AYDA YENİ PARTİ'YE REKOR BAĞIŞ! Bu durum butlancıları krize soktu</title>
+      <link>https://www.youtube.com/watch?v=E9zNiTGZRRc</link>
+      <guid isPermaLink="false">E9zNiTGZRRc</guid>
+      <pubDate>Fri, 28 Aug 2026 08:20:18 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: 1 AYDA YENİ PARTİ'YE REKOR BAĞIŞ! Bu durum butlancıları krize soktu</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI | Madenciler direndi ve kazandı | Özgür Özel ne mesaj verecek? | Onur Öncü ile Sabah Pusulası</title>
       <link>https://www.youtube.com/watch?v=QmXmDurG1cw</link>
@@ -57,11 +64,11 @@
       <description>Cumhuriyet kanalından yeni video: YENİ Parti İstanbul'da vites artırdı: Özgür Çelik'ten 500 bin üye hedefi</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | Süleymancılara Operasyon AKP İçinde Kavgaya Neden Oldu: O İsim Bülent Arınç'ı Tehdit Etti!</title>
+      <title>Halk TV: Süleymancılara Operasyon AKP İçinde Kavgaya Neden Oldu: O İsim Bülent Arınç'ı Tehdit Etti!</title>
       <link>https://www.youtube.com/watch?v=uABqw5rKl9o</link>
       <guid isPermaLink="false">uABqw5rKl9o</guid>
       <pubDate>Fri, 28 Aug 2026 07:52:44 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Süleymancılara Operasyon AKP İçinde Kavgaya Neden Oldu: O İsim Bülent Arınç'ı Tehdit Etti!</description>
+      <description>Halk TV kanalından yeni video: Süleymancılara Operasyon AKP İçinde Kavgaya Neden Oldu: O İsim Bülent Arınç'ı Tehdit Etti!</description>
     </item>
     <item>
       <title>Cumhuriyet: 51 yıllık şifa yolculuğu: Babasının mide rahatsızlığı vesile oldu, yarım asırlık arıcı haline geldi</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">iXVncfHFFEU</guid>
       <pubDate>Fri, 28 Aug 2026 00:11:54 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI İBB Davası'nda 71. gün: Aile Dayanışma Ağı'nın 43. buluşması Silivri'de...</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Aile Dayanışma Ağı 43. buluşmasını Silivri'de gerçekleştiriyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=LmdOCTM5P7Y</link>
-      <guid isPermaLink="false">LmdOCTM5P7Y</guid>
-      <pubDate>Thu, 27 Aug 2026 23:44:13 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Aile Dayanışma Ağı 43. buluşmasını Silivri'de gerçekleştiriyor #Canlı</description>
     </item>
   </channel>
 </rss>
