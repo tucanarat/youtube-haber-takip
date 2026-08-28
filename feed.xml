@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 09:40:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 09:45:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: İMAMOĞLU'NDAN O SÖZLERE ÇARPICI REST! Akın Gürlek'in 'TRT' çıkışına resmen demediğini bırakmadı!</title>
+      <link>https://www.youtube.com/watch?v=hekQHSNSIRw</link>
+      <guid isPermaLink="false">hekQHSNSIRw</guid>
+      <pubDate>Fri, 28 Aug 2026 09:35:24 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İMAMOĞLU'NDAN O SÖZLERE ÇARPICI REST! Akın Gürlek'in 'TRT' çıkışına resmen demediğini bırakmadı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Altın ve Borsada Büyük Kıyamet mi Kopacak? Ünlü Ekonomist Anlattı ve Uyardı 'O Seviyeyi Görebiliriz'</title>
       <link>https://www.youtube.com/watch?v=ONBv4YjmRZU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">yWeN25b1TwA</guid>
       <pubDate>Fri, 28 Aug 2026 06:57:18 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | Özgür Özel Yola Çıkıyor! YENİ Parti Otobüsüyle İlk Adres Kocaeli! Binler Buluşmaya Akacak!</description>
-    </item>
-    <item>
-      <title>Halk TV: İstanbul’da geceyi gök gürültüsü ve sağanak böldü!</title>
-      <link>https://www.youtube.com/shorts/YdsAa9C6kQ0</link>
-      <guid isPermaLink="false">YdsAa9C6kQ0</guid>
-      <pubDate>Fri, 28 Aug 2026 06:31:57 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İstanbul’da geceyi gök gürültüsü ve sağanak böldü!</description>
     </item>
   </channel>
 </rss>
