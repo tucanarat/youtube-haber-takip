@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 00:45:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 00:50:29 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: İş Dünyası Finans Buluşması Diyarbakır’da gerçekleştiriliyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=6PZ_wxaOp04</link>
+      <guid isPermaLink="false">6PZ_wxaOp04</guid>
+      <pubDate>Fri, 28 Aug 2026 00:46:49 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: İş Dünyası Finans Buluşması Diyarbakır’da gerçekleştiriliyor #Canlı</description>
+    </item>
     <item>
       <title>Cumhuriyet: #CANLI İBB Davası'nda 71. gün: Aile Dayanışma Ağı'nın 43. buluşması Silivri'de...</title>
       <link>https://www.youtube.com/watch?v=iXVncfHFFEU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">cGo67mT07xY</guid>
       <pubDate>Thu, 27 Aug 2026 18:45:25 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BUTLAN CHP'SİNİN SÖZCÜSÜ REZİL OLDU! Bakın Mansur Yavaş için söylediği hangi sözler yalan çıktı!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Türkiye krizin eşiğinde mi? Engin Solakoğlu ABD'nin İran'a yeni yaptırımlarını değerlendirdi</title>
-      <link>https://www.youtube.com/watch?v=eB_tbN1eXNM</link>
-      <guid isPermaLink="false">eB_tbN1eXNM</guid>
-      <pubDate>Thu, 27 Aug 2026 18:45:10 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Türkiye krizin eşiğinde mi? Engin Solakoğlu ABD'nin İran'a yeni yaptırımlarını değerlendirdi</description>
     </item>
   </channel>
 </rss>
