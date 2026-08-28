@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 08:10:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 08:15:32 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI | Madenciler direndi ve kazandı | Özgür Özel ne mesaj verecek? | Onur Öncü ile Sabah Pusulası</title>
+      <link>https://www.youtube.com/watch?v=QmXmDurG1cw</link>
+      <guid isPermaLink="false">QmXmDurG1cw</guid>
+      <pubDate>Fri, 28 Aug 2026 08:10:50 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI | Madenciler direndi ve kazandı | Özgür Özel ne mesaj verecek? | Onur Öncü ile Sabah Pusulası</description>
+    </item>
     <item>
       <title>Halk TV: KORKU FİLMİ PLATOSU GİBİ! İşte İBB davalarının yapıldığı o salon! Gamze Altunay neler anlattı neler!</title>
       <link>https://www.youtube.com/watch?v=ICcEGyz82_Y</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">LmdOCTM5P7Y</guid>
       <pubDate>Thu, 27 Aug 2026 23:44:13 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Aile Dayanışma Ağı 43. buluşmasını Silivri'de gerçekleştiriyor #Canlı</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: YENİ Parti Grup Başkanvekili Gökhan Günaydın, İzmir İl Başkanlığı'nda konuşuyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=TdQg4hoz3cc</link>
-      <guid isPermaLink="false">TdQg4hoz3cc</guid>
-      <pubDate>Thu, 27 Aug 2026 23:43:13 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Grup Başkanvekili Gökhan Günaydın, İzmir İl Başkanlığı'nda konuşuyor #Canlı</description>
     </item>
   </channel>
 </rss>
