@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 11:55:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 12:00:58 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Devletin Çakarlı Aracıyla Cemaat Firarı! Murat Ağırel İsyan Etti Süleymancılar Gerçeğini Anlattı</title>
+      <link>https://www.youtube.com/watch?v=x0KE6DjJFBk</link>
+      <guid isPermaLink="false">x0KE6DjJFBk</guid>
+      <pubDate>Fri, 28 Aug 2026 12:00:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Devletin Çakarlı Aracıyla Cemaat Firarı! Murat Ağırel İsyan Etti Süleymancılar Gerçeğini Anlattı</description>
+    </item>
     <item>
       <title>Cumhuriyet: #CANLI Özgür Özel Kocaeli’de kadınlarla buluştu</title>
       <link>https://www.youtube.com/watch?v=cfWmwx6y6vs</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">AgPVOwwuTHo</guid>
       <pubDate>Fri, 28 Aug 2026 09:52:59 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Özgür Özel Kocaeli’de esnaf ziyaretinde: “Eczane gördüm mü dayanamıyorum”</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Gökay Çakır ve Başaran Aksu'nun tutuklanması protesto edildi!</title>
-      <link>https://www.youtube.com/watch?v=azKcffxYdVw</link>
-      <guid isPermaLink="false">azKcffxYdVw</guid>
-      <pubDate>Fri, 28 Aug 2026 09:51:06 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Gökay Çakır ve Başaran Aksu'nun tutuklanması protesto edildi!</description>
     </item>
   </channel>
 </rss>
