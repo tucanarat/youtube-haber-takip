@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 12:50:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 12:55:24 +0000</lastBuildDate>
     <item>
       <title>Cumhuriyet: Emniyetteki sorgusu tamamlandı: Tolga Akış tutuklanma talebiyle mahkemeye sevk edildi</title>
       <link>https://www.youtube.com/shorts/ahqt__hjTIA</link>
       <guid isPermaLink="false">ahqt__hjTIA</guid>
       <pubDate>Fri, 28 Aug 2026 12:46:14 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Emniyetteki sorgusu tamamlandı: Tolga Akış tutuklanma talebiyle mahkemeye sevk edildi</description>
+    </item>
+    <item>
+      <title>Halk TV: ŞAKA GİBİ AMA GERÇEK! İstanbul'da bir ev parasıyla Avrupa'da şato almak mümkün</title>
+      <link>https://www.youtube.com/watch?v=qESqLRYpSqw</link>
+      <guid isPermaLink="false">qESqLRYpSqw</guid>
+      <pubDate>Fri, 28 Aug 2026 12:45:19 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ŞAKA GİBİ AMA GERÇEK! İstanbul'da bir ev parasıyla Avrupa'da şato almak mümkün</description>
     </item>
     <item>
       <title>Cumhuriyet: YENİ Parti'nin ilk resmi... Özgür Özel: Yeni odamıza koyacağım ilk resim</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">BPC8r58wG-I</guid>
       <pubDate>Fri, 28 Aug 2026 10:36:31 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Ayşegül Doğan'dan Suriye açıklaması #shorts</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "Yüreğiniz Yetiyorsa Canlı Yayımlayın!" İmamoğlu'ndan Akın Gürlek'e Sert Canlı Yayın Yanıtı!</title>
-      <link>https://www.youtube.com/watch?v=u7jY4VM4RIE</link>
-      <guid isPermaLink="false">u7jY4VM4RIE</guid>
-      <pubDate>Fri, 28 Aug 2026 10:35:51 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "Yüreğiniz Yetiyorsa Canlı Yayımlayın!" İmamoğlu'ndan Akın Gürlek'e Sert Canlı Yayın Yanıtı!</description>
     </item>
   </channel>
 </rss>
