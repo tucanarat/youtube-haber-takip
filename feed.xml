@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 21:15:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 21:20:35 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: DEM Parti Sözcüsü Ayşegül Doğan, partisinin genel merkezinde basın toplantısı düzenliyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=r3jbmxsGI74</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">ds4NgyFq6p4</guid>
       <pubDate>Fri, 28 Aug 2026 21:04:01 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Aklın Yolu | Serap Belovacıklı | 28 Ağustos</description>
+    </item>
+    <item>
+      <title>Halk TV: Tutuklu belediye başkanı da mesaj gönderdi... Kocaeli'nde Özel'i mahşeri bir kalabalık karşıladı!</title>
+      <link>https://www.youtube.com/watch?v=LG2eWAIYwMQ</link>
+      <guid isPermaLink="false">LG2eWAIYwMQ</guid>
+      <pubDate>Fri, 28 Aug 2026 21:00:28 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Tutuklu belediye başkanı da mesaj gönderdi... Kocaeli'nde Özel'i mahşeri bir kalabalık karşıladı!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Mansur Yavaş İmamoğlu ve Özgür Özel'e Büyük Kumpas! İktidarın Muhalefeti Bölme Planı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">X0jSxKiVYUI</guid>
       <pubDate>Fri, 28 Aug 2026 17:20:30 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "SAVUNMAMI HERKES GÖRECEK! YASAKÇILAR DAHİL!" İmamoğlu'ndan kitabının toplatılmasına ilk tepki!</description>
-    </item>
-    <item>
-      <title>Halk TV: DEM Parti'den flaş Mazlum Abdi çağrısı! 'Türkiye'ye gelmeli'</title>
-      <link>https://www.youtube.com/watch?v=Tlzgzb0wZqA</link>
-      <guid isPermaLink="false">Tlzgzb0wZqA</guid>
-      <pubDate>Fri, 28 Aug 2026 17:15:36 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: DEM Parti'den flaş Mazlum Abdi çağrısı! 'Türkiye'ye gelmeli'</description>
     </item>
   </channel>
 </rss>
