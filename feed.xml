@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 07:00:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 07:05:23 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: GÖKÇEKLERİN ALMANYA SERVETİ! Murat Ağırel İzini Sürdü: Kayıp 500 Bin Dolar, 15 Daire, AVM...</title>
+      <link>https://www.youtube.com/watch?v=pLp29d2h2zw</link>
+      <guid isPermaLink="false">pLp29d2h2zw</guid>
+      <pubDate>Sat, 29 Aug 2026 07:00:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: GÖKÇEKLERİN ALMANYA SERVETİ! Murat Ağırel İzini Sürdü: Kayıp 500 Bin Dolar, 15 Daire, AVM...</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Sabah Kahvesi | Nagihan Turhan 29 Ağustos</title>
       <link>https://www.youtube.com/watch?v=R-FCbZhC36w</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">KVHPzOoN5jo</guid>
       <pubDate>Fri, 28 Aug 2026 20:20:30 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: "BU SERVET MAAŞLA AÇIKLANAMAZ!" AKP'de Melih Gökçek Depremi! Almanya’daki Milyonluk Gayrimenkulleri</description>
-    </item>
-    <item>
-      <title>Halk TV: 35 YILLIK SALTANAT SONA ERDİ! Norveç “Halkın Kralı”na veda ediyor!</title>
-      <link>https://www.youtube.com/watch?v=X6HQlP6hQ-8</link>
-      <guid isPermaLink="false">X6HQlP6hQ-8</guid>
-      <pubDate>Fri, 28 Aug 2026 20:15:09 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: 35 YILLIK SALTANAT SONA ERDİ! Norveç “Halkın Kralı”na veda ediyor!</description>
     </item>
   </channel>
 </rss>
