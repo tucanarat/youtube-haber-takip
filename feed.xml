@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 20:00:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 20:05:30 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Özgür Özel'in Elindeki Büyük Koz! İktidarın Gizli Seçim Planı! Edgar Şar'dan Kritik Uyarı</title>
+      <link>https://www.youtube.com/watch?v=TGIyebM6taI</link>
+      <guid isPermaLink="false">TGIyebM6taI</guid>
+      <pubDate>Sat, 29 Aug 2026 20:00:25 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Özgür Özel'in Elindeki Büyük Koz! İktidarın Gizli Seçim Planı! Edgar Şar'dan Kritik Uyarı</description>
+    </item>
+    <item>
+      <title>Halk TV: ERDOĞAN DAHA FAZLA SAKLAYAMADI! O cümlesiyle olacakların sinyalini vermiş! İlhan Uzgel ifşaladı!</title>
+      <link>https://www.youtube.com/watch?v=TyRuP1YOIoc</link>
+      <guid isPermaLink="false">TyRuP1YOIoc</guid>
+      <pubDate>Sat, 29 Aug 2026 19:56:11 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ERDOĞAN DAHA FAZLA SAKLAYAMADI! O cümlesiyle olacakların sinyalini vermiş! İlhan Uzgel ifşaladı!</description>
+    </item>
     <item>
       <title>Halk TV: BATMAN'DAN KAN DONDURAN OLAY! Annesini öldürüp çöp konteynerine attı, emniyete gidip teslim oldu!</title>
       <link>https://www.youtube.com/watch?v=hZ-v5vLAZhY</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">YjjfMK4nXCo</guid>
       <pubDate>Sat, 29 Aug 2026 14:00:28 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: 70 yaşındaki kadından Özgür Özel'e: İş bulsam ben de çalışacağım, gerçekten geçinemiyorum.</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Haber Bülteni | Gülinay Selçuk | 29 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=9gy39Yz2N_4</link>
-      <guid isPermaLink="false">9gy39Yz2N_4</guid>
-      <pubDate>Sat, 29 Aug 2026 13:53:56 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Haber Bülteni | Gülinay Selçuk | 29 Ağustos</description>
-    </item>
-    <item>
-      <title>Halk TV: KAYSERİ'DE BÖYLE COŞKU GÖRÜLMEDİ! Özgür Özel AKP'nin kalesini böyle fethetti! İzdihamdan zor yürüdü!</title>
-      <link>https://www.youtube.com/watch?v=rYnS6l09nS0</link>
-      <guid isPermaLink="false">rYnS6l09nS0</guid>
-      <pubDate>Sat, 29 Aug 2026 13:36:24 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KAYSERİ'DE BÖYLE COŞKU GÖRÜLMEDİ! Özgür Özel AKP'nin kalesini böyle fethetti! İzdihamdan zor yürüdü!</description>
     </item>
   </channel>
 </rss>
