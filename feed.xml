@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 12:00:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 12:05:23 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: BOYNUNA SARILIP AĞLADILAR! Özgür Özel Kayseri'de ilgiden adım atamadı!</title>
+      <link>https://www.youtube.com/watch?v=VCZMxDrpS5c</link>
+      <guid isPermaLink="false">VCZMxDrpS5c</guid>
+      <pubDate>Sat, 29 Aug 2026 12:01:36 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: BOYNUNA SARILIP AĞLADILAR! Özgür Özel Kayseri'de ilgiden adım atamadı!</description>
+    </item>
     <item>
       <title>Halk TV: GÜLİSTAN DOKU CİNAYETİNDE ŞOK GÖZALTILAR! İntihar süsü vermek için neler yapmışlar neler! Flaş detay</title>
       <link>https://www.youtube.com/watch?v=nr3Qv4zMkrY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ucMMBpKZ44Q</guid>
       <pubDate>Sat, 29 Aug 2026 08:30:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Adnan Oktar Cezaevinde Ne Yapıyor? "Her Gün Kadınlarla Görüşüyor!"</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: CHP İstanbul İl Başkanı Gürsel Tekin, İl Başkanlığı'ndaki 30 Ağustos programına katıldı #Canlı</title>
-      <link>https://www.youtube.com/watch?v=ShD_5oxnhMk</link>
-      <guid isPermaLink="false">ShD_5oxnhMk</guid>
-      <pubDate>Sat, 29 Aug 2026 08:25:55 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP İstanbul İl Başkanı Gürsel Tekin, İl Başkanlığı'ndaki 30 Ağustos programına katıldı #Canlı</description>
     </item>
   </channel>
 </rss>
