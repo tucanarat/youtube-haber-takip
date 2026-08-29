@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 07:30:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 07:35:26 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Muğla’da korkutan orman yangını #shorts</title>
+      <link>https://www.youtube.com/shorts/xr95NJGucSs</link>
+      <guid isPermaLink="false">xr95NJGucSs</guid>
+      <pubDate>Sat, 29 Aug 2026 07:33:14 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Muğla’da korkutan orman yangını #shorts</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Kadınlar Neden Son 14 Yılını Hasta Geçiriyor? | Esra Çavuşoğlu Yapılması Gerekenleri Anlattı</title>
+      <link>https://www.youtube.com/watch?v=ylr49sj96Ls</link>
+      <guid isPermaLink="false">ylr49sj96Ls</guid>
+      <pubDate>Sat, 29 Aug 2026 07:30:47 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Kadınlar Neden Son 14 Yılını Hasta Geçiriyor? | Esra Çavuşoğlu Yapılması Gerekenleri Anlattı</description>
+    </item>
     <item>
       <title>Cumhuriyet: Kaş'ta orman yangını #shorts</title>
       <link>https://www.youtube.com/shorts/RkT2Xduem3I</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">LG2eWAIYwMQ</guid>
       <pubDate>Fri, 28 Aug 2026 21:00:28 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Tutuklu belediye başkanı da mesaj gönderdi... Kocaeli'nde Özel'i mahşeri bir kalabalık karşıladı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Mansur Yavaş İmamoğlu ve Özgür Özel'e Büyük Kumpas! İktidarın Muhalefeti Bölme Planı</title>
-      <link>https://www.youtube.com/watch?v=tr0G2gQRZow</link>
-      <guid isPermaLink="false">tr0G2gQRZow</guid>
-      <pubDate>Fri, 28 Aug 2026 21:00:02 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Mansur Yavaş İmamoğlu ve Özgür Özel'e Büyük Kumpas! İktidarın Muhalefeti Bölme Planı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: İmamoğlu'ndan kitabının yasaklanmasına tepki: Bu kitabı milyonlar okuyacak savunmamı herkes görecek</title>
-      <link>https://www.youtube.com/shorts/NONx2VpsMSQ</link>
-      <guid isPermaLink="false">NONx2VpsMSQ</guid>
-      <pubDate>Fri, 28 Aug 2026 21:00:02 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: İmamoğlu'ndan kitabının yasaklanmasına tepki: Bu kitabı milyonlar okuyacak savunmamı herkes görecek</description>
     </item>
   </channel>
 </rss>
