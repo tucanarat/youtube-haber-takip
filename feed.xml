@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 16:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 17:00:53 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: "Kendimi Çok Dövdüm, Çok Haksızlık Ettim" | Pınar Erbaş | İpek Özbey ile Perdenin Arkası</title>
+      <link>https://www.youtube.com/watch?v=4tc7bn4MtAw</link>
+      <guid isPermaLink="false">4tc7bn4MtAw</guid>
+      <pubDate>Sat, 29 Aug 2026 17:00:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: "Kendimi Çok Dövdüm, Çok Haksızlık Ettim" | Pınar Erbaş | İpek Özbey ile Perdenin Arkası</description>
+    </item>
     <item>
       <title>Halk TV: Gülşah Ekinci ile Hafta Sonu Ana Haber (29 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=wGduotKbgP4</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">dPgRp0FWV_E</guid>
       <pubDate>Sat, 29 Aug 2026 12:26:35 +0000</pubDate>
       <description>Halk TV kanalından yeni video: 70 yaşındaki Kayserili teyze Özgür Özel'e böyle dert yandı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel: Ev kiralarından yakınıyor herkes, kadınlar hiç iş bulamıyor...</title>
-      <link>https://www.youtube.com/shorts/0ybiOB_RHHg</link>
-      <guid isPermaLink="false">0ybiOB_RHHg</guid>
-      <pubDate>Sat, 29 Aug 2026 12:26:15 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel: Ev kiralarından yakınıyor herkes, kadınlar hiç iş bulamıyor...</description>
     </item>
   </channel>
 </rss>
