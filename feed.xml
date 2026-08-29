@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 20:45:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 20:50:35 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Masada Ne Var? | Burak Tatari | 29 Ağustos</title>
+      <link>https://www.youtube.com/watch?v=-Xodt8jypbg</link>
+      <guid isPermaLink="false">-Xodt8jypbg</guid>
+      <pubDate>Sat, 29 Aug 2026 20:42:32 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Masada Ne Var? | Burak Tatari | 29 Ağustos</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Mansur Yavaş Anketleri Salladı! Siyasette Erken Seçim Rüzgarları! AKP'ye Tarihi Fark</title>
       <link>https://www.youtube.com/watch?v=W6oZG7v5x8g</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">LyuZ3TGPJgM</guid>
       <pubDate>Sat, 29 Aug 2026 14:30:12 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Özgür Özel Kayseri'de yaşadığı şaşkınlığı böyle anlattı</description>
-    </item>
-    <item>
-      <title>Halk TV: AKP'NİN KALESİNDE SARAY'I TİTRETECEK SÖZLER! Özgür Özel Kayseri'yi ayağa kaldırdı, coşku tavan yaptı</title>
-      <link>https://www.youtube.com/watch?v=5MoV2o0Vreo</link>
-      <guid isPermaLink="false">5MoV2o0Vreo</guid>
-      <pubDate>Sat, 29 Aug 2026 14:27:42 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: AKP'NİN KALESİNDE SARAY'I TİTRETECEK SÖZLER! Özgür Özel Kayseri'yi ayağa kaldırdı, coşku tavan yaptı</description>
     </item>
   </channel>
 </rss>
