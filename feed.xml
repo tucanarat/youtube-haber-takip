@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 15:55:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 16:00:54 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Almanya'dan Trump'a: İran savaşını bitir! Recai Aksu ekonomik gerekçelere dikkat çekti!</title>
+      <link>https://www.youtube.com/watch?v=uo9gU9IQPrE</link>
+      <guid isPermaLink="false">uo9gU9IQPrE</guid>
+      <pubDate>Sat, 29 Aug 2026 16:00:06 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Almanya'dan Trump'a: İran savaşını bitir! Recai Aksu ekonomik gerekçelere dikkat çekti!</description>
+    </item>
+    <item>
+      <title>Halk TV: SARAY’IN TAŞLARINI YERİNDEN OYNATTILAR! Özel ve İmamoğlu’nun sözleri fırtına kopartır! Bomba rest!</title>
+      <link>https://www.youtube.com/watch?v=djtZJ-nzTEM</link>
+      <guid isPermaLink="false">djtZJ-nzTEM</guid>
+      <pubDate>Sat, 29 Aug 2026 15:45:27 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SARAY’IN TAŞLARINI YERİNDEN OYNATTILAR! Özel ve İmamoğlu’nun sözleri fırtına kopartır! Bomba rest!</description>
+    </item>
     <item>
       <title>Tele2 Haber: MHP'li yurttaştan Özgür Özel'e: Sizi destekliyorum!</title>
       <link>https://www.youtube.com/shorts/mZncvXkt9BQ</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">isWBxjJ2RPs</guid>
       <pubDate>Sat, 29 Aug 2026 12:00:22 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: ALMANYA'DAKİ MİLYON EUROLUK SIR! Murat Ağırel'den Melih Gökçek'e Zor Sorular! Parayı Nerden Buldu?</description>
-    </item>
-    <item>
-      <title>Halk TV: GÜLİSTAN DOKU CİNAYETİNDE ŞOK GÖZALTILAR! İntihar süsü vermek için neler yapmışlar neler! Flaş detay</title>
-      <link>https://www.youtube.com/watch?v=nr3Qv4zMkrY</link>
-      <guid isPermaLink="false">nr3Qv4zMkrY</guid>
-      <pubDate>Sat, 29 Aug 2026 11:40:39 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: GÜLİSTAN DOKU CİNAYETİNDE ŞOK GÖZALTILAR! İntihar süsü vermek için neler yapmışlar neler! Flaş detay</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: #CANLI Özgür Özel'e Kayseri'de yoğun ilgi...</title>
-      <link>https://www.youtube.com/watch?v=d6bajpHM_N8</link>
-      <guid isPermaLink="false">d6bajpHM_N8</guid>
-      <pubDate>Sat, 29 Aug 2026 11:36:29 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI Özgür Özel'e Kayseri'de yoğun ilgi...</description>
     </item>
   </channel>
 </rss>
