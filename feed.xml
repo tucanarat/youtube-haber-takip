@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 13:05:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 13:10:32 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Çakarlı Araçtaki Sır Belaruslular Kim? Murat Ağırel Anlattı! Süleymancıların Firari Ağı</title>
+      <link>https://www.youtube.com/watch?v=3s54NHIsEB0</link>
+      <guid isPermaLink="false">3s54NHIsEB0</guid>
+      <pubDate>Sat, 29 Aug 2026 13:00:12 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Çakarlı Araçtaki Sır Belaruslular Kim? Murat Ağırel Anlattı! Süleymancıların Firari Ağı</description>
+    </item>
     <item>
       <title>Tele2 Haber: Özgür Özel'in esnaf ziyareti mitinge döndü! KAYSERİ'DE GÖRÜLMEMİŞ SEVGİ SELİ!</title>
       <link>https://www.youtube.com/watch?v=czNOzRRZckA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">fIg3pQb_uVo</guid>
       <pubDate>Sat, 29 Aug 2026 09:59:47 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İyi ki Hafta Sonu | Damla Doğan Tuncel 29 Ağustos</description>
-    </item>
-    <item>
-      <title>Halk TV: Serhan Başbahçıvan ile Öğle Haberleri (29 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=iik6XjD1Wt8</link>
-      <guid isPermaLink="false">iik6XjD1Wt8</guid>
-      <pubDate>Sat, 29 Aug 2026 09:53:21 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Serhan Başbahçıvan ile Öğle Haberleri (29 Ağustos 2026)</description>
     </item>
   </channel>
 </rss>
