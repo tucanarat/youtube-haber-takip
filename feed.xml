@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 12:45:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 12:50:36 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: BU SÖZLER KILIÇDAROĞLU'NUN PEŞİNİ BIRAKMAZ! Özgür Özel'in çıkışı butlan ekibini yerle bir edecek!</title>
+      <link>https://www.youtube.com/watch?v=_IDPRkgdgsg</link>
+      <guid isPermaLink="false">_IDPRkgdgsg</guid>
+      <pubDate>Sat, 29 Aug 2026 12:45:39 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BU SÖZLER KILIÇDAROĞLU'NUN PEŞİNİ BIRAKMAZ! Özgür Özel'in çıkışı butlan ekibini yerle bir edecek!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Kayserili yurttaştan Özgür Özel'e: 50 YILLIK MHP'LİYİM BIRAKTIM, SİZİ DESTEKLİYORUM!</title>
       <link>https://www.youtube.com/watch?v=jooebx09yGA</link>
@@ -127,11 +134,11 @@
       <description>Cumhuriyet kanalından yeni video: #CANLI Özgür Özel'e Kayseri'de yoğun ilgi...</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | KAYSERİ BÖYLE COŞKU GÖRMEDİ! Özgür Özel İçin Binler Meydana Akın Etti! Tarihi Görüntüler</title>
+      <title>Halk TV: KAYSERİ BÖYLE COŞKU GÖRMEDİ! Özgür Özel İçin Binler Meydana Akın Etti! Tarihi Görüntüler</title>
       <link>https://www.youtube.com/watch?v=5IxrUlu4fZc</link>
       <guid isPermaLink="false">5IxrUlu4fZc</guid>
       <pubDate>Sat, 29 Aug 2026 11:33:29 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | KAYSERİ BÖYLE COŞKU GÖRMEDİ! Özgür Özel İçin Binler Meydana Akın Etti! Tarihi Görüntüler</description>
+      <description>Halk TV kanalından yeni video: KAYSERİ BÖYLE COŞKU GÖRMEDİ! Özgür Özel İçin Binler Meydana Akın Etti! Tarihi Görüntüler</description>
     </item>
     <item>
       <title>Tele2 Haber: KAYSERİ ÖZGÜR ÖZEL'İ BIRAKMADI! ADIM ATTIĞI HER YER DOLDU TAŞTI!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">wbjzkEuSbWQ</guid>
       <pubDate>Sat, 29 Aug 2026 09:18:46 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Esnaf ziyareti mitinge dönüştü... Özgür Özel'den Akın Gürlek'e: Geri adım atan namerttir</description>
-    </item>
-    <item>
-      <title>Halk TV: DİKKAT ÇEKEN SÖZLER! Tutuklu Beylikdüzü Belediye Başkanı Mehmet Murat Çalık, CHP kararını açıkladı!</title>
-      <link>https://www.youtube.com/watch?v=G8RKblMt1p4</link>
-      <guid isPermaLink="false">G8RKblMt1p4</guid>
-      <pubDate>Sat, 29 Aug 2026 09:15:04 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: DİKKAT ÇEKEN SÖZLER! Tutuklu Beylikdüzü Belediye Başkanı Mehmet Murat Çalık, CHP kararını açıkladı!</description>
     </item>
   </channel>
 </rss>
