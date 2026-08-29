@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 14:00:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 14:05:28 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Özgür Özel, Kayseri'de kendisini dinleyen vatandaşlar tarafından otobüsüne kadar uğurlandı!</title>
+      <link>https://www.youtube.com/shorts/T5mg-stJdTY</link>
+      <guid isPermaLink="false">T5mg-stJdTY</guid>
+      <pubDate>Sat, 29 Aug 2026 14:01:05 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Özgür Özel, Kayseri'de kendisini dinleyen vatandaşlar tarafından otobüsüne kadar uğurlandı!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Cezaevinden Çıkamadan Tutuklandı! Deniz Göktaş Kararına Uzman İsim İsyan Etti!</title>
+      <link>https://www.youtube.com/watch?v=jna5Si8atD0</link>
+      <guid isPermaLink="false">jna5Si8atD0</guid>
+      <pubDate>Sat, 29 Aug 2026 14:00:30 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Cezaevinden Çıkamadan Tutuklandı! Deniz Göktaş Kararına Uzman İsim İsyan Etti!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: 70 yaşındaki kadından Özgür Özel'e: İş bulsam ben de çalışacağım, gerçekten geçinemiyorum.</title>
+      <link>https://www.youtube.com/shorts/YjjfMK4nXCo</link>
+      <guid isPermaLink="false">YjjfMK4nXCo</guid>
+      <pubDate>Sat, 29 Aug 2026 14:00:28 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: 70 yaşındaki kadından Özgür Özel'e: İş bulsam ben de çalışacağım, gerçekten geçinemiyorum.</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Haber Bülteni | Gülinay Selçuk | 29 Ağustos</title>
       <link>https://www.youtube.com/watch?v=9gy39Yz2N_4</link>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">6OJjF2Tdl_M</guid>
       <pubDate>Sat, 29 Aug 2026 10:36:14 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: İBB Başkan Vekili Nuri Aslan, Ulugazi Yağlı Güreş Festivali'nde konuşuyor #Canlı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: "AİLEMDEN PARA ÇALDIM YALAN SÖYLEDİM" | Esra Çavuşoğlu'ndan Bağımlılık İtirafı</title>
-      <link>https://www.youtube.com/watch?v=NKqFDi2TRZc</link>
-      <guid isPermaLink="false">NKqFDi2TRZc</guid>
-      <pubDate>Sat, 29 Aug 2026 10:30:34 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: "AİLEMDEN PARA ÇALDIM YALAN SÖYLEDİM" | Esra Çavuşoğlu'ndan Bağımlılık İtirafı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Gaziler ve şehit yakınları eylemlerine ara verdi! "Ekimin sonuna kadar bekleyeceğiz"</title>
-      <link>https://www.youtube.com/watch?v=PjEzIWCJNbo</link>
-      <guid isPermaLink="false">PjEzIWCJNbo</guid>
-      <pubDate>Sat, 29 Aug 2026 10:27:19 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Gaziler ve şehit yakınları eylemlerine ara verdi! "Ekimin sonuna kadar bekleyeceğiz"</description>
-    </item>
-    <item>
-      <title>Halk TV: ÖZGÜR ÖZEL'İN SIRADAKİ DURAĞI KAYSERİ! AKP'nin kalesinde fırtına estirecek! İşte son gelişmeler!</title>
-      <link>https://www.youtube.com/watch?v=q5X4Zlh5Ud0</link>
-      <guid isPermaLink="false">q5X4Zlh5Ud0</guid>
-      <pubDate>Sat, 29 Aug 2026 10:25:20 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ÖZGÜR ÖZEL'İN SIRADAKİ DURAĞI KAYSERİ! AKP'nin kalesinde fırtına estirecek! İşte son gelişmeler!</description>
     </item>
   </channel>
 </rss>
