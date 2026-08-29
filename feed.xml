@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 16:40:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 16:45:34 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Türkiye'nin Dibinde Sinsi İttifak! Yunanistan Savunmayı Devretti! İsrail Füzeleri Ege'de</title>
+      <link>https://www.youtube.com/watch?v=E-u13MpExo8</link>
+      <guid isPermaLink="false">E-u13MpExo8</guid>
+      <pubDate>Sat, 29 Aug 2026 16:40:10 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Türkiye'nin Dibinde Sinsi İttifak! Yunanistan Savunmayı Devretti! İsrail Füzeleri Ege'de</description>
+    </item>
+    <item>
+      <title>Halk TV: SARAY VE GENEL MERKEZİ KİLİTLEYECEK! Özgür Özel'den yeri yerinden oynatacak mesajı verdi! Olay olur!</title>
+      <link>https://www.youtube.com/watch?v=sEZCvP53fII</link>
+      <guid isPermaLink="false">sEZCvP53fII</guid>
+      <pubDate>Sat, 29 Aug 2026 16:40:06 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SARAY VE GENEL MERKEZİ KİLİTLEYECEK! Özgür Özel'den yeri yerinden oynatacak mesajı verdi! Olay olur!</description>
+    </item>
     <item>
       <title>Halk TV: Antalya- Seydikemer'de Çıkan Yangın Kaş'ta Ormana Sıçradı! Söndürme Çalışmaları Sürüyor!</title>
       <link>https://www.youtube.com/watch?v=i7JSwJlryV8</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">FehA5iyfUyo</guid>
       <pubDate>Sat, 29 Aug 2026 12:13:45 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: 70 yaşındaki Kayserili teyze Özgür Özel'e dert yandı: İş bulsam ben de çalışırım</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Kayseri'de gülümseten 'gelin' diyaloğu... Özgür Özel: Teyzem fena...</title>
-      <link>https://www.youtube.com/shorts/NqxhlhWDHBo</link>
-      <guid isPermaLink="false">NqxhlhWDHBo</guid>
-      <pubDate>Sat, 29 Aug 2026 12:10:34 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Kayseri'de gülümseten 'gelin' diyaloğu... Özgür Özel: Teyzem fena...</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Özgür Özel'e Kayseri'de yoğun ilgi</title>
-      <link>https://www.youtube.com/shorts/WSfFcnlMQPc</link>
-      <guid isPermaLink="false">WSfFcnlMQPc</guid>
-      <pubDate>Sat, 29 Aug 2026 12:07:50 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Özgür Özel'e Kayseri'de yoğun ilgi</description>
     </item>
   </channel>
 </rss>
