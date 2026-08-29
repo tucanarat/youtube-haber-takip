@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 12:30:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 12:35:24 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: Kayserili yurttaştan Özgür Özel'e: 50 YILLIK MHP'LİYİM BIRAKTIM, SİZİ DESTEKLİYORUM!</title>
       <link>https://www.youtube.com/watch?v=jooebx09yGA</link>
@@ -15,11 +15,25 @@
       <description>Tele2 Haber kanalından yeni video: Kayserili yurttaştan Özgür Özel'e: 50 YILLIK MHP'LİYİM BIRAKTIM, SİZİ DESTEKLİYORUM!</description>
     </item>
     <item>
+      <title>Halk TV: ÜÇ KARDEŞ DENİZDE BOĞULARAK ÖLMÜŞTÜ! Bıraktıkları o not kan donduracak! Ölüme böyle gitmişler!</title>
+      <link>https://www.youtube.com/watch?v=gxOxma-LY5M</link>
+      <guid isPermaLink="false">gxOxma-LY5M</guid>
+      <pubDate>Sat, 29 Aug 2026 12:30:19 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ÜÇ KARDEŞ DENİZDE BOĞULARAK ÖLMÜŞTÜ! Bıraktıkları o not kan donduracak! Ölüme böyle gitmişler!</description>
+    </item>
+    <item>
       <title>SÖZCÜ TV: Deniz Türkeri Yapay Zeka - Baran Aras | Kargoyu Robotlar mı Getirecek? Lojistikte Yapay Zeka Devrimi</title>
       <link>https://www.youtube.com/watch?v=oyirbQwJyRc</link>
       <guid isPermaLink="false">oyirbQwJyRc</guid>
       <pubDate>Sat, 29 Aug 2026 12:30:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Deniz Türkeri Yapay Zeka - Baran Aras | Kargoyu Robotlar mı Getirecek? Lojistikte Yapay Zeka Devrimi</description>
+    </item>
+    <item>
+      <title>Halk TV: Özgür Özel ev hanımları için emeklilik vaadini açıkladı!</title>
+      <link>https://www.youtube.com/shorts/6YKYVqE2I_I</link>
+      <guid isPermaLink="false">6YKYVqE2I_I</guid>
+      <pubDate>Sat, 29 Aug 2026 12:27:42 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Özgür Özel ev hanımları için emeklilik vaadini açıkladı!</description>
     </item>
     <item>
       <title>Halk TV: Özgür Özel'den yanında telefonu çalan teyzeye espri: 'Gelin Hatice' arıyor. Açsaydın konuşurduk!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">G8RKblMt1p4</guid>
       <pubDate>Sat, 29 Aug 2026 09:15:04 +0000</pubDate>
       <description>Halk TV kanalından yeni video: DİKKAT ÇEKEN SÖZLER! Tutuklu Beylikdüzü Belediye Başkanı Mehmet Murat Çalık, CHP kararını açıkladı!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Er gaziler ve er şehit aileleri, 47 gündür sürdürdükleri eylemi sonlandırma kararı aldı #Canlı</title>
-      <link>https://www.youtube.com/watch?v=upQVoikx3ac</link>
-      <guid isPermaLink="false">upQVoikx3ac</guid>
-      <pubDate>Sat, 29 Aug 2026 09:12:04 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Er gaziler ve er şehit aileleri, 47 gündür sürdürdükleri eylemi sonlandırma kararı aldı #Canlı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Emeklinin geçim derdi bitmiyor! "HIRSIZLIK MI YAPALIM?"</title>
-      <link>https://www.youtube.com/shorts/pFNJWQgBpG4</link>
-      <guid isPermaLink="false">pFNJWQgBpG4</guid>
-      <pubDate>Sat, 29 Aug 2026 09:05:35 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Emeklinin geçim derdi bitmiyor! "HIRSIZLIK MI YAPALIM?"</description>
     </item>
   </channel>
 </rss>
