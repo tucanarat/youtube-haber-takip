@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 12:10:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 12:15:32 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: 70 yaşındaki Kayserili teyze Özgür Özel'e dert yandı: İş bulsam ben de çalışırım</title>
+      <link>https://www.youtube.com/shorts/FehA5iyfUyo</link>
+      <guid isPermaLink="false">FehA5iyfUyo</guid>
+      <pubDate>Sat, 29 Aug 2026 12:13:45 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: 70 yaşındaki Kayserili teyze Özgür Özel'e dert yandı: İş bulsam ben de çalışırım</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Kayseri'de gülümseten 'gelin' diyaloğu... Özgür Özel: Teyzem fena...</title>
+      <link>https://www.youtube.com/shorts/NqxhlhWDHBo</link>
+      <guid isPermaLink="false">NqxhlhWDHBo</guid>
+      <pubDate>Sat, 29 Aug 2026 12:10:34 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Kayseri'de gülümseten 'gelin' diyaloğu... Özgür Özel: Teyzem fena...</description>
+    </item>
     <item>
       <title>Cumhuriyet: Özgür Özel'e Kayseri'de yoğun ilgi</title>
       <link>https://www.youtube.com/shorts/WSfFcnlMQPc</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">njdMbkcR6xk</guid>
       <pubDate>Sat, 29 Aug 2026 08:49:01 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Diyarbakır'da 'Sultan Kara' protestosu: Kadınlar hayattayken korunmalı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Sözcü Televizyonu'nda Yeni Dönem Başlıyor! Sözcü Sestir, Sizin Sesiniz!</title>
-      <link>https://www.youtube.com/watch?v=mJo6l3amTJc</link>
-      <guid isPermaLink="false">mJo6l3amTJc</guid>
-      <pubDate>Sat, 29 Aug 2026 08:47:14 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Sözcü Televizyonu'nda Yeni Dönem Başlıyor! Sözcü Sestir, Sizin Sesiniz!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: İktidar tam kinli, Yavaş temkinli!-Mustafa Balbay</title>
-      <link>https://www.youtube.com/watch?v=xmEbyhEdoV4</link>
-      <guid isPermaLink="false">xmEbyhEdoV4</guid>
-      <pubDate>Sat, 29 Aug 2026 08:44:22 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: İktidar tam kinli, Yavaş temkinli!-Mustafa Balbay</description>
     </item>
   </channel>
 </rss>
