@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 09:05:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 09:10:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Er Gaziler ve Er Şehit Aileleri, 47 Gündür Sürdürdükleri Eylemi Sonlandırma Kararı Aldı</title>
+      <link>https://www.youtube.com/watch?v=bQXS5OaqjzM</link>
+      <guid isPermaLink="false">bQXS5OaqjzM</guid>
+      <pubDate>Sat, 29 Aug 2026 09:03:22 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Er Gaziler ve Er Şehit Aileleri, 47 Gündür Sürdürdükleri Eylemi Sonlandırma Kararı Aldı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: "Kabızlık Kanserin Habercisi Olabilir!" Uzman İsim Ali Rıza Akın'dan Ürküten Uyarı</title>
+      <link>https://www.youtube.com/watch?v=QlGS3sQAZvE</link>
+      <guid isPermaLink="false">QlGS3sQAZvE</guid>
+      <pubDate>Sat, 29 Aug 2026 09:00:37 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: "Kabızlık Kanserin Habercisi Olabilir!" Uzman İsim Ali Rıza Akın'dan Ürküten Uyarı</description>
+    </item>
     <item>
       <title>Halk TV: YATIRIMCIYA SOĞUK DUŞ ETKİSİ! Zirveyi zorlayan altın çok sert düştü! Uzmanlardan kritik uyarı!</title>
       <link>https://www.youtube.com/watch?v=lQyh7-Gp80A</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">vqtXhT7lTTY</guid>
       <pubDate>Fri, 28 Aug 2026 23:00:26 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Uğur Poyraz'dan Özgür Özel'e Çerçeve Yasa Tepkisi! Stüdyoda Tansiyon Yükseldi! Anayasa Tartışması</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti Genel Başkanı Özgür Özel'i duygulandıran hediye! #shorts</title>
-      <link>https://www.youtube.com/shorts/2fR25sFWmMg</link>
-      <guid isPermaLink="false">2fR25sFWmMg</guid>
-      <pubDate>Fri, 28 Aug 2026 23:00:12 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel'i duygulandıran hediye! #shorts</description>
-    </item>
-    <item>
-      <title>Halk TV: KOCAELİ'DE ÖZGÜR ÖZEL RÜZGARI! Şükrü Küçükşahin’den iktidar için kritik uyarı</title>
-      <link>https://www.youtube.com/watch?v=dqBh193YpzI</link>
-      <guid isPermaLink="false">dqBh193YpzI</guid>
-      <pubDate>Fri, 28 Aug 2026 23:00:02 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KOCAELİ'DE ÖZGÜR ÖZEL RÜZGARI! Şükrü Küçükşahin’den iktidar için kritik uyarı</description>
     </item>
   </channel>
 </rss>
