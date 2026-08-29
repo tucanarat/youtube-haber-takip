@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 22:35:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 22:40:34 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Netanyahu'nun Büyük Oyunu! Suriye ve İran'ı Karıştıran Strateji! Edgar Şar'dan Çarpıcı Bölge Analizi</title>
+      <link>https://www.youtube.com/watch?v=qGd1yuyaaUQ</link>
+      <guid isPermaLink="false">qGd1yuyaaUQ</guid>
+      <pubDate>Sat, 29 Aug 2026 22:30:19 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Netanyahu'nun Büyük Oyunu! Suriye ve İran'ı Karıştıran Strateji! Edgar Şar'dan Çarpıcı Bölge Analizi</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: CHP İstanbul İl Başkanı Gürsel Tekin, İl Başkanlığı'ndaki 30 Ağustos programına katıldı #Canlı</title>
       <link>https://www.youtube.com/watch?v=ShD_5oxnhMk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">mZncvXkt9BQ</guid>
       <pubDate>Sat, 29 Aug 2026 15:30:27 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: MHP'li yurttaştan Özgür Özel'e: Sizi destekliyorum!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Karadeniz'de Türk Gemisi Vuruldu! Putin'den Gizli Şanghay Planı! ABD Yaptırımları Deliniyor</title>
-      <link>https://www.youtube.com/watch?v=WTMyiAbvMYo</link>
-      <guid isPermaLink="false">WTMyiAbvMYo</guid>
-      <pubDate>Sat, 29 Aug 2026 15:30:07 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Karadeniz'de Türk Gemisi Vuruldu! Putin'den Gizli Şanghay Planı! ABD Yaptırımları Deliniyor</description>
     </item>
   </channel>
 </rss>
