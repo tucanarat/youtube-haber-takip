@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 17:30:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 17:35:24 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Avrupa'da Eylül Kabusu Başladı! Rusya'nın Yeni Hedefi Belli Oldu! Kritik Erdoğan Putin Zirvesi</title>
+      <link>https://www.youtube.com/watch?v=mpY0B4igorE</link>
+      <guid isPermaLink="false">mpY0B4igorE</guid>
+      <pubDate>Sat, 29 Aug 2026 17:30:27 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Avrupa'da Eylül Kabusu Başladı! Rusya'nın Yeni Hedefi Belli Oldu! Kritik Erdoğan Putin Zirvesi</description>
+    </item>
     <item>
       <title>Halk TV: ERDOĞAN BU KRİZLE BAŞ EDEMEZ! AKP'li vekil Mehmet Uçum'a öyle şeyler söyledi ki! Ateş bacayı sarmış!</title>
       <link>https://www.youtube.com/watch?v=ktn4VDH79l0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">oyirbQwJyRc</guid>
       <pubDate>Sat, 29 Aug 2026 12:30:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Deniz Türkeri Yapay Zeka - Baran Aras | Kargoyu Robotlar mı Getirecek? Lojistikte Yapay Zeka Devrimi</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel ev hanımları için emeklilik vaadini açıkladı!</title>
-      <link>https://www.youtube.com/shorts/6YKYVqE2I_I</link>
-      <guid isPermaLink="false">6YKYVqE2I_I</guid>
-      <pubDate>Sat, 29 Aug 2026 12:27:42 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel ev hanımları için emeklilik vaadini açıkladı!</description>
     </item>
   </channel>
 </rss>
