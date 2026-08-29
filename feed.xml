@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 19:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 20:00:54 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: BATMAN'DAN KAN DONDURAN OLAY! Annesini öldürüp çöp konteynerine attı, emniyete gidip teslim oldu!</title>
+      <link>https://www.youtube.com/watch?v=hZ-v5vLAZhY</link>
+      <guid isPermaLink="false">hZ-v5vLAZhY</guid>
+      <pubDate>Sat, 29 Aug 2026 19:45:19 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BATMAN'DAN KAN DONDURAN OLAY! Annesini öldürüp çöp konteynerine attı, emniyete gidip teslim oldu!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İktidarı Sarsan Anket Açıklandı! AKP'nin Kalesi Kayseri'de Özgür Özel'den Gövde Gösterisi</title>
       <link>https://www.youtube.com/watch?v=dZEPWGPAHlA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">rYnS6l09nS0</guid>
       <pubDate>Sat, 29 Aug 2026 13:36:24 +0000</pubDate>
       <description>Halk TV kanalından yeni video: KAYSERİ'DE BÖYLE COŞKU GÖRÜLMEDİ! Özgür Özel AKP'nin kalesini böyle fethetti! İzdihamdan zor yürüdü!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Gülistan Doku Olayında Olay Gelişme! Dalgıç Kayıtlarıyla Oynandı! Emrullah Erdinç Anlattı</title>
-      <link>https://www.youtube.com/watch?v=FWE4TmwbKGs</link>
-      <guid isPermaLink="false">FWE4TmwbKGs</guid>
-      <pubDate>Sat, 29 Aug 2026 13:30:37 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Gülistan Doku Olayında Olay Gelişme! Dalgıç Kayıtlarıyla Oynandı! Emrullah Erdinç Anlattı</description>
     </item>
   </channel>
 </rss>
