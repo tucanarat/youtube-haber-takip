@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 14:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 14:30:41 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Özgür Özel Kayseri'de yaşadığı şaşkınlığı böyle anlattı</title>
+      <link>https://www.youtube.com/shorts/LyuZ3TGPJgM</link>
+      <guid isPermaLink="false">LyuZ3TGPJgM</guid>
+      <pubDate>Sat, 29 Aug 2026 14:30:12 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Özgür Özel Kayseri'de yaşadığı şaşkınlığı böyle anlattı</description>
+    </item>
+    <item>
+      <title>Halk TV: AKP'NİN KALESİNDE SARAY'I TİTRETECEK SÖZLER! Özgür Özel Kayseri'yi ayağa kaldırdı, coşku tavan yaptı</title>
+      <link>https://www.youtube.com/watch?v=5MoV2o0Vreo</link>
+      <guid isPermaLink="false">5MoV2o0Vreo</guid>
+      <pubDate>Sat, 29 Aug 2026 14:27:42 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: AKP'NİN KALESİNDE SARAY'I TİTRETECEK SÖZLER! Özgür Özel Kayseri'yi ayağa kaldırdı, coşku tavan yaptı</description>
+    </item>
     <item>
       <title>Halk TV: SON DAKİKA! Karadeniz'de Türk gemilerine saldırı sonrası Ukrayna Büyükelçisi Dışişleri'ne çağrıldı!</title>
       <link>https://www.youtube.com/watch?v=ehz5UrrDekc</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">LCG58LKoQqs</guid>
       <pubDate>Sat, 29 Aug 2026 10:52:39 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: DEM Parti Eş Genel Başkanı Tuncer Bakırhan, Şanlıurfa'daki halk toplantısında konuşuyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: KİTABI DAHA BASILMADAN YASAKLANDI! İmamoğlu'ndan o karara zehir zemberek sözler! Erdoğan duymasın...</title>
-      <link>https://www.youtube.com/watch?v=gpyVOWb9RkI</link>
-      <guid isPermaLink="false">gpyVOWb9RkI</guid>
-      <pubDate>Sat, 29 Aug 2026 10:45:45 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KİTABI DAHA BASILMADAN YASAKLANDI! İmamoğlu'ndan o karara zehir zemberek sözler! Erdoğan duymasın...</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Almanya'da esnaf kepenk kapattı! Göçmenlerden aşırı sağcı AfD'ye tepki!</title>
-      <link>https://www.youtube.com/watch?v=mAfDGz9dMwU</link>
-      <guid isPermaLink="false">mAfDGz9dMwU</guid>
-      <pubDate>Sat, 29 Aug 2026 10:40:34 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Almanya'da esnaf kepenk kapattı! Göçmenlerden aşırı sağcı AfD'ye tepki!</description>
     </item>
   </channel>
 </rss>
