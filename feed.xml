@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 13:50:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 13:55:30 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Haber Bülteni | Gülinay Selçuk | 29 Ağustos</title>
+      <link>https://www.youtube.com/watch?v=9gy39Yz2N_4</link>
+      <guid isPermaLink="false">9gy39Yz2N_4</guid>
+      <pubDate>Sat, 29 Aug 2026 13:53:56 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Haber Bülteni | Gülinay Selçuk | 29 Ağustos</description>
+    </item>
     <item>
       <title>Halk TV: KAYSERİ'DE BÖYLE COŞKU GÖRÜLMEDİ! Özgür Özel AKP'nin kalesini böyle fethetti! İzdihamdan zor yürüdü!</title>
       <link>https://www.youtube.com/watch?v=rYnS6l09nS0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">uo9gU9IQPrE</guid>
       <pubDate>Sat, 29 Aug 2026 10:20:15 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Almanya'dan Trump'a: İran savaşını bitir! Recai Aksu ekonomik gerekçelere dikkat çekti!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Merdan Yanardağ 10 aydır tutuklu! Özdemir İnce isyan etti!</title>
-      <link>https://www.youtube.com/watch?v=S-oyl9pkCcE</link>
-      <guid isPermaLink="false">S-oyl9pkCcE</guid>
-      <pubDate>Sat, 29 Aug 2026 10:19:01 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Merdan Yanardağ 10 aydır tutuklu! Özdemir İnce isyan etti!</description>
     </item>
   </channel>
 </rss>
