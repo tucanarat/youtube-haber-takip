@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 22:15:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 22:20:32 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: CHP İstanbul İl Başkanı Gürsel Tekin, İl Başkanlığı'ndaki 30 Ağustos programına katıldı #Canlı</title>
+      <link>https://www.youtube.com/watch?v=ShD_5oxnhMk</link>
+      <guid isPermaLink="false">ShD_5oxnhMk</guid>
+      <pubDate>Sat, 29 Aug 2026 22:20:04 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: CHP İstanbul İl Başkanı Gürsel Tekin, İl Başkanlığı'ndaki 30 Ağustos programına katıldı #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: Burçin Atılgan ile Gündem Özel (29 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=2Z184r_z-vI</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">WTMyiAbvMYo</guid>
       <pubDate>Sat, 29 Aug 2026 15:30:07 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Karadeniz'de Türk Gemisi Vuruldu! Putin'den Gizli Şanghay Planı! ABD Yaptırımları Deliniyor</description>
-    </item>
-    <item>
-      <title>Halk TV: FACİA RESMEN 'GELİYORUM' DEMİŞ! 2 kişinin öldüğü otobüs kazasında kahreden görüntüler ortaya çıktı!</title>
-      <link>https://www.youtube.com/watch?v=yWqwLFD7U1U</link>
-      <guid isPermaLink="false">yWqwLFD7U1U</guid>
-      <pubDate>Sat, 29 Aug 2026 15:25:19 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: FACİA RESMEN 'GELİYORUM' DEMİŞ! 2 kişinin öldüğü otobüs kazasında kahreden görüntüler ortaya çıktı!</description>
     </item>
   </channel>
 </rss>
