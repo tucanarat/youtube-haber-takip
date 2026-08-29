@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 17:20:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 17:25:25 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ERDOĞAN BU KRİZLE BAŞ EDEMEZ! AKP'li vekil Mehmet Uçum'a öyle şeyler söyledi ki! Ateş bacayı sarmış!</title>
+      <link>https://www.youtube.com/watch?v=ktn4VDH79l0</link>
+      <guid isPermaLink="false">ktn4VDH79l0</guid>
+      <pubDate>Sat, 29 Aug 2026 17:20:17 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ERDOĞAN BU KRİZLE BAŞ EDEMEZ! AKP'li vekil Mehmet Uçum'a öyle şeyler söyledi ki! Ateş bacayı sarmış!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: "Kendimi Çok Dövdüm, Çok Haksızlık Ettim" | Pınar Erbaş | İpek Özbey ile Perdenin Arkası</title>
       <link>https://www.youtube.com/watch?v=4tc7bn4MtAw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">6YKYVqE2I_I</guid>
       <pubDate>Sat, 29 Aug 2026 12:27:42 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Özel ev hanımları için emeklilik vaadini açıkladı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel'den yanında telefonu çalan teyzeye espri: 'Gelin Hatice' arıyor. Açsaydın konuşurduk!</title>
-      <link>https://www.youtube.com/shorts/6_9QdkUn-dQ</link>
-      <guid isPermaLink="false">6_9QdkUn-dQ</guid>
-      <pubDate>Sat, 29 Aug 2026 12:27:19 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel'den yanında telefonu çalan teyzeye espri: 'Gelin Hatice' arıyor. Açsaydın konuşurduk!</description>
     </item>
   </channel>
 </rss>
