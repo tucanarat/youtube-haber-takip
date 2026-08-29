@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 01:25:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 01:30:37 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: "YENİ Parti'nin Üye Sayısı 600 Bini Geçti!" Zeynel Lüle ile Ankara Günlüğü</title>
+      <link>https://www.youtube.com/watch?v=hF4h3Pz0S4U</link>
+      <guid isPermaLink="false">hF4h3Pz0S4U</guid>
+      <pubDate>Sat, 29 Aug 2026 01:23:05 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "YENİ Parti'nin Üye Sayısı 600 Bini Geçti!" Zeynel Lüle ile Ankara Günlüğü</description>
+    </item>
     <item>
       <title>Cumhuriyet: #CANLI Özgür Özel Kocaeli’de kadınlarla buluştu</title>
       <link>https://www.youtube.com/watch?v=cfWmwx6y6vs</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">-6LYfol9NKU</guid>
       <pubDate>Fri, 28 Aug 2026 19:40:18 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Melih Gökçek'in 810 Milyonluk Vurgunu! Mansur Yavaş'ın Saklanan Yargı Dosyaları! Uğur Poyraz Anlattı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Hüsnü Mahalli'den SDG'nin feshinin arka planı: MAZLUM ABDİ'YE KAZIK ATILDI!</title>
-      <link>https://www.youtube.com/watch?v=Mfbn22zVtNY</link>
-      <guid isPermaLink="false">Mfbn22zVtNY</guid>
-      <pubDate>Fri, 28 Aug 2026 19:30:06 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Hüsnü Mahalli'den SDG'nin feshinin arka planı: MAZLUM ABDİ'YE KAZIK ATILDI!</description>
     </item>
   </channel>
 </rss>
