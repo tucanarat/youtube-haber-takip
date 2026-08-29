@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 07:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 07:40:33 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Ehliyetsiz sürücüden pişkin savunma! "Yaya geçidi için de ders versinler"</title>
+      <link>https://www.youtube.com/shorts/k4uRPQzeZD0</link>
+      <guid isPermaLink="false">k4uRPQzeZD0</guid>
+      <pubDate>Sat, 29 Aug 2026 07:38:08 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Ehliyetsiz sürücüden pişkin savunma! "Yaya geçidi için de ders versinler"</description>
+    </item>
     <item>
       <title>Cumhuriyet: Muğla’da korkutan orman yangını #shorts</title>
       <link>https://www.youtube.com/shorts/xr95NJGucSs</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ds4NgyFq6p4</guid>
       <pubDate>Fri, 28 Aug 2026 21:04:01 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Aklın Yolu | Serap Belovacıklı | 28 Ağustos</description>
-    </item>
-    <item>
-      <title>Halk TV: Tutuklu belediye başkanı da mesaj gönderdi... Kocaeli'nde Özel'i mahşeri bir kalabalık karşıladı!</title>
-      <link>https://www.youtube.com/watch?v=LG2eWAIYwMQ</link>
-      <guid isPermaLink="false">LG2eWAIYwMQ</guid>
-      <pubDate>Fri, 28 Aug 2026 21:00:28 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Tutuklu belediye başkanı da mesaj gönderdi... Kocaeli'nde Özel'i mahşeri bir kalabalık karşıladı!</description>
     </item>
   </channel>
 </rss>
