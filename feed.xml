@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 00:30:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 00:35:22 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Erdem Çerçioğlu’ndan Ankara Valisi Canbolat ile yapılan görüşmeye ilişkin açıklama! #shorts</title>
+      <link>https://www.youtube.com/shorts/h1j2MwIZ3OA</link>
+      <guid isPermaLink="false">h1j2MwIZ3OA</guid>
+      <pubDate>Sat, 29 Aug 2026 00:30:31 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Erdem Çerçioğlu’ndan Ankara Valisi Canbolat ile yapılan görüşmeye ilişkin açıklama! #shorts</description>
+    </item>
     <item>
       <title>Halk TV: İzmit’te görülmemiş kalabalık! Büyük buluşma dikkat çekti! #shorts</title>
       <link>https://www.youtube.com/shorts/HrYQ4MHzQRI</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">22K4wtZGM3M</guid>
       <pubDate>Fri, 28 Aug 2026 19:20:07 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İmamoğlu Korkusu Büyüyor! Uzman İsimden İktidara Yargı Çıkışı! Dört Bin Sayfalık İddianame</description>
-    </item>
-    <item>
-      <title>Halk TV: 11 Eylül'ün 'beyni' denildi! Kilit isim 27 yıl sonra hakim karşısına çıkacak!</title>
-      <link>https://www.youtube.com/watch?v=QV9-XK-y6Gg</link>
-      <guid isPermaLink="false">QV9-XK-y6Gg</guid>
-      <pubDate>Fri, 28 Aug 2026 19:15:09 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: 11 Eylül'ün 'beyni' denildi! Kilit isim 27 yıl sonra hakim karşısına çıkacak!</description>
     </item>
   </channel>
 </rss>
