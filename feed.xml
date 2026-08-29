@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 00:00:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 00:05:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: "Başkanım kuraklık vardı; şimdi yağıyor bereket getirdiniz!" #shorts</title>
+      <link>https://www.youtube.com/shorts/FplezTGx3l0</link>
+      <guid isPermaLink="false">FplezTGx3l0</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:24 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: "Başkanım kuraklık vardı; şimdi yağıyor bereket getirdiniz!" #shorts</description>
+    </item>
     <item>
       <title>Halk TV: Yüzme şampiyonu antrenmandan kaçtı, soluğu Özgür Özel'in yanında aldı! #shorts</title>
       <link>https://www.youtube.com/shorts/tHTKWddGZ68</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">PCSHLefZZ0k</guid>
       <pubDate>Fri, 28 Aug 2026 19:04:36 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Suriye'de yeni dönem! Türkiye'de süreç ne durumda? Namık Koçak ve Hüsnü Mahalli ile Forum (28.08.26)</description>
-    </item>
-    <item>
-      <title>Halk TV: ERDOĞAN'A MEMLEKETİNDE SOĞUK DUŞ! Ali Babacan Rize'de yerden yere vurdu! Gündem olacak sözler!</title>
-      <link>https://www.youtube.com/watch?v=jyJrqJIMONM</link>
-      <guid isPermaLink="false">jyJrqJIMONM</guid>
-      <pubDate>Fri, 28 Aug 2026 19:00:36 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ERDOĞAN'A MEMLEKETİNDE SOĞUK DUŞ! Ali Babacan Rize'de yerden yere vurdu! Gündem olacak sözler!</description>
     </item>
   </channel>
 </rss>
