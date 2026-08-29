@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 13:30:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 13:35:27 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Gülistan Doku Olayında Olay Gelişme! Dalgıç Kayıtlarıyla Oynandı! Emrullah Erdinç Anlattı</title>
+      <link>https://www.youtube.com/watch?v=FWE4TmwbKGs</link>
+      <guid isPermaLink="false">FWE4TmwbKGs</guid>
+      <pubDate>Sat, 29 Aug 2026 13:30:37 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Gülistan Doku Olayında Olay Gelişme! Dalgıç Kayıtlarıyla Oynandı! Emrullah Erdinç Anlattı</description>
+    </item>
     <item>
       <title>Cumhuriyet: Özgür Özel'in Kayseri ziyareti mitinge dönüştü! "ARKAMDAN GELENLERE HELAL OLSUN"</title>
       <link>https://www.youtube.com/watch?v=7F61HiCYWu4</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">gu1NKOxx2wk</guid>
       <pubDate>Sat, 29 Aug 2026 10:14:41 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Şeytan Instagram’da: Yedi Ölümcül Günah - Yalın Gündüz</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ PARTİ İKTİDARA ANT İÇTİ! Üye sayısında sıra dışı artış! Dudak uçuklatacak sayı belli oldu!</title>
-      <link>https://www.youtube.com/watch?v=3GXB1j-Mws0</link>
-      <guid isPermaLink="false">3GXB1j-Mws0</guid>
-      <pubDate>Sat, 29 Aug 2026 10:06:51 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ PARTİ İKTİDARA ANT İÇTİ! Üye sayısında sıra dışı artış! Dudak uçuklatacak sayı belli oldu!</description>
     </item>
   </channel>
 </rss>
