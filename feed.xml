@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 18:20:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 18:25:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SON DAKİKA! AYVACIK'TAKİ EVİNDE RAHATSIZLANDI! Ünlü Komedyen Cem Yılmaz hastaneye kaldırıldı!</title>
+      <link>https://www.youtube.com/watch?v=jAzR6j4MTbk</link>
+      <guid isPermaLink="false">jAzR6j4MTbk</guid>
+      <pubDate>Sat, 29 Aug 2026 18:20:07 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! AYVACIK'TAKİ EVİNDE RAHATSIZLANDI! Ünlü Komedyen Cem Yılmaz hastaneye kaldırıldı!</description>
+    </item>
     <item>
       <title>Halk TV: BUTLANDA HER ŞEYİ DURDURACAK O HAMLE GELİYOR! Cumhur Uzun o programı ilk kez açıkladı! Tarih verdi!</title>
       <link>https://www.youtube.com/watch?v=R_aYHx0_osM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Na8M_dgkMhw</guid>
       <pubDate>Sat, 29 Aug 2026 12:50:17 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Parti lideri Özgür Özel, meydandaki kalabalığa böyle tepki verdi!</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel: Bu yürüyüş 'ister aç kal ister karnını doyur sokakta kal' denen emeklinin onur yürüyüşü!</title>
-      <link>https://www.youtube.com/shorts/pCDFu0SWX7A</link>
-      <guid isPermaLink="false">pCDFu0SWX7A</guid>
-      <pubDate>Sat, 29 Aug 2026 12:50:01 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel: Bu yürüyüş 'ister aç kal ister karnını doyur sokakta kal' denen emeklinin onur yürüyüşü!</description>
     </item>
   </channel>
 </rss>
