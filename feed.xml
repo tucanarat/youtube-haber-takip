@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 21:45:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 21:50:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SARAY’DA HESAPLAR BİRBİRİNE GİRECEK! Sinsi plan canlı yayında suçüstü yakalandı! Cumhur Uzun anlattı</title>
+      <link>https://www.youtube.com/watch?v=dqbERNliL_c</link>
+      <guid isPermaLink="false">dqbERNliL_c</guid>
+      <pubDate>Sat, 29 Aug 2026 21:45:19 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SARAY’DA HESAPLAR BİRBİRİNE GİRECEK! Sinsi plan canlı yayında suçüstü yakalandı! Cumhur Uzun anlattı</description>
+    </item>
     <item>
       <title>Halk TV: SARAY'DA İPLER KOPMUŞ! Erdoğan'ın rahatsız olduğu o iç kavga ortaya saçıldı! Deniz Tansi patlattı!</title>
       <link>https://www.youtube.com/watch?v=3IYBTzFyedI</link>
@@ -246,11 +253,11 @@
       <description>SÖZCÜ TV kanalından yeni video: Hafta Sonu Ana Haber | Senem Toluay Ilgaz | 29 Ağustos</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | Burçin Atılgan ile Gündem Özel | #Halktv</title>
+      <title>Halk TV: Burçin Atılgan ile Gündem Özel (29 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=2Z184r_z-vI</link>
       <guid isPermaLink="false">2Z184r_z-vI</guid>
       <pubDate>Sat, 29 Aug 2026 16:48:52 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Burçin Atılgan ile Gündem Özel | #Halktv</description>
+      <description>Halk TV kanalından yeni video: Burçin Atılgan ile Gündem Özel (29 Ağustos 2026)</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Türkiye'nin Dibinde Sinsi İttifak! Yunanistan Savunmayı Devretti! İsrail Füzeleri Ege'de</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Sh8rnk29m3g</guid>
       <pubDate>Sat, 29 Aug 2026 15:00:03 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Putin O Ülkeye Saldıracak! NATO'yu Alarma Geçiren İddia! Uzman İsim Anlattı</description>
-    </item>
-    <item>
-      <title>Halk TV: Işın Eliçin ile Sınırsız (29 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=D03-0x8f3IQ</link>
-      <guid isPermaLink="false">D03-0x8f3IQ</guid>
-      <pubDate>Sat, 29 Aug 2026 14:58:34 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Işın Eliçin ile Sınırsız (29 Ağustos 2026)</description>
     </item>
   </channel>
 </rss>
