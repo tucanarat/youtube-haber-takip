@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 16:50:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 16:55:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Gülşah Ekinci ile Hafta Sonu Ana Haber (29 Ağustos 2026)</title>
+      <link>https://www.youtube.com/watch?v=wGduotKbgP4</link>
+      <guid isPermaLink="false">wGduotKbgP4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:55:03 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Gülşah Ekinci ile Hafta Sonu Ana Haber (29 Ağustos 2026)</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Hafta Sonu Ana Haber | Senem Toluay Ilgaz | 29 Ağustos</title>
+      <link>https://www.youtube.com/watch?v=LxwOLPH4h3k</link>
+      <guid isPermaLink="false">LxwOLPH4h3k</guid>
+      <pubDate>Sat, 29 Aug 2026 16:52:20 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Hafta Sonu Ana Haber | Senem Toluay Ilgaz | 29 Ağustos</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Burçin Atılgan ile Gündem Özel | #Halktv</title>
       <link>https://www.youtube.com/watch?v=2Z184r_z-vI</link>
@@ -132,13 +146,6 @@
       <guid isPermaLink="false">Ns9x9l6_PMw</guid>
       <pubDate>Sat, 29 Aug 2026 14:52:59 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Haber Bülteni | Gülinay Selçuk | 29 Ağustos</description>
-    </item>
-    <item>
-      <title>Halk TV: Gülşah Ekinci ile Hafta Sonu Ana Haber (29 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=wGduotKbgP4</link>
-      <guid isPermaLink="false">wGduotKbgP4</guid>
-      <pubDate>Sat, 29 Aug 2026 14:39:59 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Gülşah Ekinci ile Hafta Sonu Ana Haber (29 Ağustos 2026)</description>
     </item>
     <item>
       <title>Cumhuriyet: Çal'da 4 Rakip Firma Nasıl Yol Arkadaşı Oldu? | Özgür Ulusoy ile Çal Bağ Yolu’nda</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">0ybiOB_RHHg</guid>
       <pubDate>Sat, 29 Aug 2026 12:26:15 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Özel: Ev kiralarından yakınıyor herkes, kadınlar hiç iş bulamıyor...</description>
-    </item>
-    <item>
-      <title>Halk TV: Yurttaşlar, yaşadıklarını, ekonomik bunalım, işsizlik ve barınma sorunlarını Özgür Özel'e anlattı!</title>
-      <link>https://www.youtube.com/shorts/AFngLf2MHzg</link>
-      <guid isPermaLink="false">AFngLf2MHzg</guid>
-      <pubDate>Sat, 29 Aug 2026 12:25:46 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Yurttaşlar, yaşadıklarını, ekonomik bunalım, işsizlik ve barınma sorunlarını Özgür Özel'e anlattı!</description>
     </item>
   </channel>
 </rss>
