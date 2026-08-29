@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 07:55:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 08:00:50 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: YENİ Parti otobüsü hareket etti… Özgür Özel: Teyzem sağ olsun</title>
+      <link>https://www.youtube.com/shorts/WFgiPsJqVt8</link>
+      <guid isPermaLink="false">WFgiPsJqVt8</guid>
+      <pubDate>Sat, 29 Aug 2026 07:58:17 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: YENİ Parti otobüsü hareket etti… Özgür Özel: Teyzem sağ olsun</description>
+    </item>
+    <item>
+      <title>Halk TV: ERDOĞAN'IN ADAYLIĞI İÇİN KILIF ARANIYOR! AKP'nin 'seçim' planı belli oldu! Öyle bir hamle geliyor ki</title>
+      <link>https://www.youtube.com/watch?v=h9sle1aaujs</link>
+      <guid isPermaLink="false">h9sle1aaujs</guid>
+      <pubDate>Sat, 29 Aug 2026 07:50:37 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ERDOĞAN'IN ADAYLIĞI İÇİN KILIF ARANIYOR! AKP'nin 'seçim' planı belli oldu! Öyle bir hamle geliyor ki</description>
+    </item>
     <item>
       <title>Cumhuriyet: Osmaniye'de yumurta büyüklüğünde dolu yağdı</title>
       <link>https://www.youtube.com/shorts/LIqQ0E57ykA</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">hObaGCzkr0M</guid>
       <pubDate>Fri, 28 Aug 2026 21:40:39 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İktidarın Transfer Planını Mustafa Balbay Anlattı! İBB İçin Tehlike Çanları! Mansur Yavaş Çıkışı</description>
-    </item>
-    <item>
-      <title>Halk TV: Milyonlarca kadını ilgilendiriyor! Özgür Özel, ev kadınlarının nasıl emekli olacağını açıkladı!</title>
-      <link>https://www.youtube.com/watch?v=FoRwoBvf510</link>
-      <guid isPermaLink="false">FoRwoBvf510</guid>
-      <pubDate>Fri, 28 Aug 2026 21:40:26 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Milyonlarca kadını ilgilendiriyor! Özgür Özel, ev kadınlarının nasıl emekli olacağını açıkladı!</description>
-    </item>
-    <item>
-      <title>Halk TV: AKP’li Büyükgümüş’ten Erdoğan açıklaması! Yeniden adaylık için “tarih” mesajı!</title>
-      <link>https://www.youtube.com/watch?v=m-rA7AdbNtc</link>
-      <guid isPermaLink="false">m-rA7AdbNtc</guid>
-      <pubDate>Fri, 28 Aug 2026 21:20:39 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: AKP’li Büyükgümüş’ten Erdoğan açıklaması! Yeniden adaylık için “tarih” mesajı!</description>
     </item>
   </channel>
 </rss>
