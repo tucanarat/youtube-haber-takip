@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 14:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 15:00:53 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Işın Eliçin ile Sınırsız (29 Ağustos 2026)</title>
+      <link>https://www.youtube.com/watch?v=D03-0x8f3IQ</link>
+      <guid isPermaLink="false">D03-0x8f3IQ</guid>
+      <pubDate>Sat, 29 Aug 2026 14:58:34 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Işın Eliçin ile Sınırsız (29 Ağustos 2026)</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: #CANLI Haber Bülteni | Gülinay Selçuk</title>
       <link>https://www.youtube.com/watch?v=Ns9x9l6_PMw</link>
@@ -146,13 +153,6 @@
       <guid isPermaLink="false">wybfur36Sc0</guid>
       <pubDate>Sat, 29 Aug 2026 12:52:44 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: KAYSERİ ÖZGÜR ÖZEL'İ BIRAKMADI! ADIM ATTIĞI HER YER DOLDU TAŞTI!</description>
-    </item>
-    <item>
-      <title>Halk TV: Işın Eliçin ile Sınırsız (29 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=D03-0x8f3IQ</link>
-      <guid isPermaLink="false">D03-0x8f3IQ</guid>
-      <pubDate>Sat, 29 Aug 2026 12:52:42 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Işın Eliçin ile Sınırsız (29 Ağustos 2026)</description>
     </item>
     <item>
       <title>Halk TV: KAYSERİ BÖYLE COŞKU GÖRMEDİ! Özgür Özel İçin Binler Meydana Akın Etti! Tarihi Görüntüler</title>
