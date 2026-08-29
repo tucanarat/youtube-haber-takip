@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 11:35:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 11:40:35 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: #CANLI Özgür Özel'e Kayseri'de yoğun ilgi...</title>
+      <link>https://www.youtube.com/watch?v=d6bajpHM_N8</link>
+      <guid isPermaLink="false">d6bajpHM_N8</guid>
+      <pubDate>Sat, 29 Aug 2026 11:36:29 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI Özgür Özel'e Kayseri'de yoğun ilgi...</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Rojin Kabaiş Dosyasında Kan Donduran Tüyler Ürperten DNA Gerçeği Adli Tıp Uzmanı Açıkladı</title>
+      <link>https://www.youtube.com/watch?v=u1LTVTsJtRg</link>
+      <guid isPermaLink="false">u1LTVTsJtRg</guid>
+      <pubDate>Sat, 29 Aug 2026 11:30:31 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Rojin Kabaiş Dosyasında Kan Donduran Tüyler Ürperten DNA Gerçeği Adli Tıp Uzmanı Açıkladı</description>
+    </item>
     <item>
       <title>Halk TV: ÖZGÜR ÖZEL YİNE KIRDI GEÇİRDİ! Yanında telefonu çalan teyzeye yaptığı espri herkesi kahkahaya boğdu!</title>
       <link>https://www.youtube.com/watch?v=qK27LQlwHgk</link>
@@ -34,6 +48,13 @@
       <guid isPermaLink="false">Fi8EJL9NvdM</guid>
       <pubDate>Sat, 29 Aug 2026 11:18:39 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Kadınlarla bir araya geldi #Canlı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Deniz Türkeri Yapay Zeka - Baran Aras | Kargoyu Robotlar mı Getirecek? Lojistikte Yapay Zeka Devrimi</title>
+      <link>https://www.youtube.com/watch?v=oyirbQwJyRc</link>
+      <guid isPermaLink="false">oyirbQwJyRc</guid>
+      <pubDate>Sat, 29 Aug 2026 11:17:21 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Deniz Türkeri Yapay Zeka - Baran Aras | Kargoyu Robotlar mı Getirecek? Lojistikte Yapay Zeka Devrimi</description>
     </item>
     <item>
       <title>Halk TV: YENİ Parti Genel Başkanı Özgür Özel, Kadınlarla Bir Araya Geldi (29 Ağustos 2026)</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">60GB4HEodvM</guid>
       <pubDate>Sat, 29 Aug 2026 08:00:12 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Yatırımcılar Dolar ve Euro'yu Bırakıp Altına Koştular! Altın Hesaplarında Akıl Almaz Artış</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: YENİ Parti otobüsü hareket etti… Özgür Özel: Teyzem sağ olsun</title>
-      <link>https://www.youtube.com/shorts/WFgiPsJqVt8</link>
-      <guid isPermaLink="false">WFgiPsJqVt8</guid>
-      <pubDate>Sat, 29 Aug 2026 07:58:17 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: YENİ Parti otobüsü hareket etti… Özgür Özel: Teyzem sağ olsun</description>
-    </item>
-    <item>
-      <title>Halk TV: ERDOĞAN'IN ADAYLIĞI İÇİN KILIF ARANIYOR! AKP'nin 'seçim' planı belli oldu! Öyle bir hamle geliyor ki</title>
-      <link>https://www.youtube.com/watch?v=h9sle1aaujs</link>
-      <guid isPermaLink="false">h9sle1aaujs</guid>
-      <pubDate>Sat, 29 Aug 2026 07:50:37 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ERDOĞAN'IN ADAYLIĞI İÇİN KILIF ARANIYOR! AKP'nin 'seçim' planı belli oldu! Öyle bir hamle geliyor ki</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Osmaniye'de yumurta büyüklüğünde dolu yağdı</title>
-      <link>https://www.youtube.com/shorts/LIqQ0E57ykA</link>
-      <guid isPermaLink="false">LIqQ0E57ykA</guid>
-      <pubDate>Sat, 29 Aug 2026 07:44:14 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Osmaniye'de yumurta büyüklüğünde dolu yağdı</description>
     </item>
   </channel>
 </rss>
