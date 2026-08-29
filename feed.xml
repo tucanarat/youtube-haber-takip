@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 10:05:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 10:10:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: YENİ PARTİ İKTİDARA ANT İÇTİ! Üye sayısında sıra dışı artış! Dudak uçuklatacak sayı belli oldu!</title>
+      <link>https://www.youtube.com/watch?v=3GXB1j-Mws0</link>
+      <guid isPermaLink="false">3GXB1j-Mws0</guid>
+      <pubDate>Sat, 29 Aug 2026 10:06:51 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YENİ PARTİ İKTİDARA ANT İÇTİ! Üye sayısında sıra dışı artış! Dudak uçuklatacak sayı belli oldu!</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI Namık Koçak, Özdemir İnce ve Recai Aksu ile Forum (29.08.26)</title>
       <link>https://www.youtube.com/watch?v=EzBH3BT0-2A</link>
@@ -22,11 +29,11 @@
       <description>SÖZCÜ TV kanalından yeni video: Özgür Özel AKP'nin Ekrem İmamoğlu Hamlesini Duyurdu! Yasak Geldi! Kitabı Basılmadan Toplatıldı</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: #CANLI İyi Ki Hafta Sonu Damla Doğan Tuncel</title>
+      <title>SÖZCÜ TV: İyi ki Hafta Sonu | Damla Doğan Tuncel 29 Ağustos</title>
       <link>https://www.youtube.com/watch?v=fIg3pQb_uVo</link>
       <guid isPermaLink="false">fIg3pQb_uVo</guid>
       <pubDate>Sat, 29 Aug 2026 09:59:47 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: #CANLI İyi Ki Hafta Sonu Damla Doğan Tuncel</description>
+      <description>SÖZCÜ TV kanalından yeni video: İyi ki Hafta Sonu | Damla Doğan Tuncel 29 Ağustos</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | Serhan Başbahçıvan ile Öğle Haberleri</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">PJLqlhx4iNw</guid>
       <pubDate>Sat, 29 Aug 2026 06:45:04 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İnanılmaz Yol Kavgası: Taşlı Saldırıya TIR'la Yanıt Verdi! #shorts</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Erkan Baş’tan Bambaşka Yapay Zeka ve Kapitalizm Çıkışı! "ROBOTLARDAN BİLE UCUZUZ!"</title>
-      <link>https://www.youtube.com/watch?v=4P0BvqhVrGU</link>
-      <guid isPermaLink="false">4P0BvqhVrGU</guid>
-      <pubDate>Sat, 29 Aug 2026 06:30:27 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Erkan Baş’tan Bambaşka Yapay Zeka ve Kapitalizm Çıkışı! "ROBOTLARDAN BİLE UCUZUZ!"</description>
     </item>
   </channel>
 </rss>
