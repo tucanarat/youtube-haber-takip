@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 00:50:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 00:55:24 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: #CANLI Özgür Özel Kocaeli’de kadınlarla buluştu</title>
+      <link>https://www.youtube.com/watch?v=cfWmwx6y6vs</link>
+      <guid isPermaLink="false">cfWmwx6y6vs</guid>
+      <pubDate>Sat, 29 Aug 2026 00:51:04 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI Özgür Özel Kocaeli’de kadınlarla buluştu</description>
+    </item>
+    <item>
+      <title>Halk TV: Muğla'da yangına ekiplerin havadan ve karadan müdahalesi devam ediyor! #shorts</title>
+      <link>https://www.youtube.com/shorts/rmiOaoOt28M</link>
+      <guid isPermaLink="false">rmiOaoOt28M</guid>
+      <pubDate>Sat, 29 Aug 2026 00:45:12 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Muğla'da yangına ekiplerin havadan ve karadan müdahalesi devam ediyor! #shorts</description>
+    </item>
     <item>
       <title>Halk TV: Erdem Çerçioğlu’ndan Ankara Valisi Canbolat ile yapılan görüşmeye ilişkin açıklama! #shorts</title>
       <link>https://www.youtube.com/shorts/h1j2MwIZ3OA</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">Mfbn22zVtNY</guid>
       <pubDate>Fri, 28 Aug 2026 19:30:06 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Hüsnü Mahalli'den SDG'nin feshinin arka planı: MAZLUM ABDİ'YE KAZIK ATILDI!</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti Lideri Özgür Özel'in Kocaeli gezisinde tarihe geçecek anlar kayda girdi!</title>
-      <link>https://www.youtube.com/watch?v=_d5DMQ1xht8</link>
-      <guid isPermaLink="false">_d5DMQ1xht8</guid>
-      <pubDate>Fri, 28 Aug 2026 19:30:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti Lideri Özgür Özel'in Kocaeli gezisinde tarihe geçecek anlar kayda girdi!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İmamoğlu Korkusu Büyüyor! Uzman İsimden İktidara Yargı Çıkışı! Dört Bin Sayfalık İddianame</title>
-      <link>https://www.youtube.com/watch?v=22K4wtZGM3M</link>
-      <guid isPermaLink="false">22K4wtZGM3M</guid>
-      <pubDate>Fri, 28 Aug 2026 19:20:07 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İmamoğlu Korkusu Büyüyor! Uzman İsimden İktidara Yargı Çıkışı! Dört Bin Sayfalık İddianame</description>
     </item>
   </channel>
 </rss>
