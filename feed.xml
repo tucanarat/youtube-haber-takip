@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 13:40:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 13:45:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: KAYSERİ'DE BÖYLE COŞKU GÖRÜLMEDİ! Özgür Özel AKP'nin kalesini böyle fethetti! İzdihamdan zor yürüdü!</title>
+      <link>https://www.youtube.com/watch?v=rYnS6l09nS0</link>
+      <guid isPermaLink="false">rYnS6l09nS0</guid>
+      <pubDate>Sat, 29 Aug 2026 13:36:24 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KAYSERİ'DE BÖYLE COŞKU GÖRÜLMEDİ! Özgür Özel AKP'nin kalesini böyle fethetti! İzdihamdan zor yürüdü!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Gülistan Doku Olayında Olay Gelişme! Dalgıç Kayıtlarıyla Oynandı! Emrullah Erdinç Anlattı</title>
       <link>https://www.youtube.com/watch?v=FWE4TmwbKGs</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">S-oyl9pkCcE</guid>
       <pubDate>Sat, 29 Aug 2026 10:19:01 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Merdan Yanardağ 10 aydır tutuklu! Özdemir İnce isyan etti!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Şeytan Instagram’da: Yedi Ölümcül Günah - Yalın Gündüz</title>
-      <link>https://www.youtube.com/watch?v=gu1NKOxx2wk</link>
-      <guid isPermaLink="false">gu1NKOxx2wk</guid>
-      <pubDate>Sat, 29 Aug 2026 10:14:41 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Şeytan Instagram’da: Yedi Ölümcül Günah - Yalın Gündüz</description>
     </item>
   </channel>
 </rss>
