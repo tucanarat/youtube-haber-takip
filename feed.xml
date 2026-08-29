@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 22:00:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 22:05:26 +0000</lastBuildDate>
     <item>
       <title>Halk TV: Burçin Atılgan ile Gündem Özel (29 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=2Z184r_z-vI</link>
       <guid isPermaLink="false">2Z184r_z-vI</guid>
       <pubDate>Sat, 29 Aug 2026 22:00:52 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Burçin Atılgan ile Gündem Özel (29 Ağustos 2026)</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: SDG Feshedildi Şam'da Dengeler Değişti! Emekli Büyükelçiden Kritik Suriye Uyarısı! Esad Çıkışı</title>
+      <link>https://www.youtube.com/watch?v=2ydPNbfCfJE</link>
+      <guid isPermaLink="false">2ydPNbfCfJE</guid>
+      <pubDate>Sat, 29 Aug 2026 22:00:22 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: SDG Feshedildi Şam'da Dengeler Değişti! Emekli Büyükelçiden Kritik Suriye Uyarısı! Esad Çıkışı</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Galatasaray - Göztepe Maçı | Maç Varsa Erman Hoca Var | Erman Toroğlu</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">yWqwLFD7U1U</guid>
       <pubDate>Sat, 29 Aug 2026 15:25:19 +0000</pubDate>
       <description>Halk TV kanalından yeni video: FACİA RESMEN 'GELİYORUM' DEMİŞ! 2 kişinin öldüğü otobüs kazasında kahreden görüntüler ortaya çıktı!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Kayseri Özgür Özel'e kucağını açtı! Halktan sevgi seli!</title>
-      <link>https://www.youtube.com/shorts/oWMyXoTM--s</link>
-      <guid isPermaLink="false">oWMyXoTM--s</guid>
-      <pubDate>Sat, 29 Aug 2026 15:00:04 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Kayseri Özgür Özel'e kucağını açtı! Halktan sevgi seli!</description>
     </item>
   </channel>
 </rss>
