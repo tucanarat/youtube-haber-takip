@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 20:10:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 20:15:32 +0000</lastBuildDate>
     <item>
       <title>Halk TV: ERDOĞAN DAHA FAZLA SAKLAYAMADI! O cümlesiyle olacakların sinyalini vermiş! İlhan Uzgel ifşaladı!</title>
       <link>https://www.youtube.com/watch?v=TyRuP1YOIoc</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">TGIyebM6taI</guid>
       <pubDate>Sat, 29 Aug 2026 20:00:25 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Özgür Özel'in Elindeki Büyük Koz! İktidarın Gizli Seçim Planı! Edgar Şar'dan Kritik Uyarı</description>
+    </item>
+    <item>
+      <title>Halk TV: AKP SON DÜZLÜKTE! Ortaya çıkan bu iddialar kıyameti kopartır! Bahadır Özgür perde arkasını araladı!</title>
+      <link>https://www.youtube.com/watch?v=VVPQgoPd1r0</link>
+      <guid isPermaLink="false">VVPQgoPd1r0</guid>
+      <pubDate>Sat, 29 Aug 2026 19:58:19 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: AKP SON DÜZLÜKTE! Ortaya çıkan bu iddialar kıyameti kopartır! Bahadır Özgür perde arkasını araladı!</description>
     </item>
     <item>
       <title>Halk TV: BATMAN'DAN KAN DONDURAN OLAY! Annesini öldürüp çöp konteynerine attı, emniyete gidip teslim oldu!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">jna5Si8atD0</guid>
       <pubDate>Sat, 29 Aug 2026 14:00:30 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Cezaevinden Çıkamadan Tutuklandı! Deniz Göktaş Kararına Uzman İsim İsyan Etti!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: 70 yaşındaki kadından Özgür Özel'e: İş bulsam ben de çalışacağım, gerçekten geçinemiyorum.</title>
-      <link>https://www.youtube.com/shorts/YjjfMK4nXCo</link>
-      <guid isPermaLink="false">YjjfMK4nXCo</guid>
-      <pubDate>Sat, 29 Aug 2026 14:00:28 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: 70 yaşındaki kadından Özgür Özel'e: İş bulsam ben de çalışacağım, gerçekten geçinemiyorum.</description>
     </item>
   </channel>
 </rss>
