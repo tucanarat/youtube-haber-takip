@@ -6,13 +6,34 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 07:40:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 07:45:29 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Osmaniye'de yumurta büyüklüğünde dolu yağdı</title>
+      <link>https://www.youtube.com/shorts/LIqQ0E57ykA</link>
+      <guid isPermaLink="false">LIqQ0E57ykA</guid>
+      <pubDate>Sat, 29 Aug 2026 07:44:14 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Osmaniye'de yumurta büyüklüğünde dolu yağdı</description>
+    </item>
+    <item>
+      <title>Halk TV: İnegöl'de dur ihtarına uymayan sürücüye 240 bin lira para cezası verildi!</title>
+      <link>https://www.youtube.com/shorts/q96fnnXanzc</link>
+      <guid isPermaLink="false">q96fnnXanzc</guid>
+      <pubDate>Sat, 29 Aug 2026 07:40:36 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İnegöl'de dur ihtarına uymayan sürücüye 240 bin lira para cezası verildi!</description>
+    </item>
     <item>
       <title>Cumhuriyet: Ehliyetsiz sürücüden pişkin savunma! "Yaya geçidi için de ders versinler"</title>
       <link>https://www.youtube.com/shorts/k4uRPQzeZD0</link>
       <guid isPermaLink="false">k4uRPQzeZD0</guid>
       <pubDate>Sat, 29 Aug 2026 07:38:08 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Ehliyetsiz sürücüden pişkin savunma! "Yaya geçidi için de ders versinler"</description>
+    </item>
+    <item>
+      <title>Halk TV: FLAŞ GELİŞME! Komedyen Deniz Göktaş'a tahliye kararı verildi, cezaevinden çıkamadan yine tutuklandı!</title>
+      <link>https://www.youtube.com/watch?v=y1JagYwy9J0</link>
+      <guid isPermaLink="false">y1JagYwy9J0</guid>
+      <pubDate>Sat, 29 Aug 2026 07:35:37 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: FLAŞ GELİŞME! Komedyen Deniz Göktaş'a tahliye kararı verildi, cezaevinden çıkamadan yine tutuklandı!</description>
     </item>
     <item>
       <title>Cumhuriyet: Muğla’da korkutan orman yangını #shorts</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">m-rA7AdbNtc</guid>
       <pubDate>Fri, 28 Aug 2026 21:20:39 +0000</pubDate>
       <description>Halk TV kanalından yeni video: AKP’li Büyükgümüş’ten Erdoğan açıklaması! Yeniden adaylık için “tarih” mesajı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Uğur Poyraz'dan Olay İddia! "İmamoğlu Ceza Alacak Aday Olamaz!" Siyasette Yer Yerinden Oynayacak</title>
-      <link>https://www.youtube.com/watch?v=2LWSUlJUCPU</link>
-      <guid isPermaLink="false">2LWSUlJUCPU</guid>
-      <pubDate>Fri, 28 Aug 2026 21:20:11 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Uğur Poyraz'dan Olay İddia! "İmamoğlu Ceza Alacak Aday Olamaz!" Siyasette Yer Yerinden Oynayacak</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: DEM Parti Sözcüsü Ayşegül Doğan, partisinin genel merkezinde basın toplantısı düzenliyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=r3jbmxsGI74</link>
-      <guid isPermaLink="false">r3jbmxsGI74</guid>
-      <pubDate>Fri, 28 Aug 2026 21:14:31 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: DEM Parti Sözcüsü Ayşegül Doğan, partisinin genel merkezinde basın toplantısı düzenliyor #Canlı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Aklın Yolu | Serap Belovacıklı | 28 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=ds4NgyFq6p4</link>
-      <guid isPermaLink="false">ds4NgyFq6p4</guid>
-      <pubDate>Fri, 28 Aug 2026 21:04:01 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Aklın Yolu | Serap Belovacıklı | 28 Ağustos</description>
     </item>
   </channel>
 </rss>
