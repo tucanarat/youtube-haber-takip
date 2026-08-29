@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 00:15:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 00:20:28 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: İzmit’te görülmemiş kalabalık! Büyük buluşma dikkat çekti! #shorts</title>
+      <link>https://www.youtube.com/shorts/HrYQ4MHzQRI</link>
+      <guid isPermaLink="false">HrYQ4MHzQRI</guid>
+      <pubDate>Sat, 29 Aug 2026 00:15:31 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İzmit’te görülmemiş kalabalık! Büyük buluşma dikkat çekti! #shorts</description>
+    </item>
     <item>
       <title>Halk TV: "Başkanım kuraklık vardı; şimdi yağıyor bereket getirdiniz!" #shorts</title>
       <link>https://www.youtube.com/shorts/FplezTGx3l0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">QV9-XK-y6Gg</guid>
       <pubDate>Fri, 28 Aug 2026 19:15:09 +0000</pubDate>
       <description>Halk TV kanalından yeni video: 11 Eylül'ün 'beyni' denildi! Kilit isim 27 yıl sonra hakim karşısına çıkacak!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Suriye'de yeni dönem! Türkiye'de süreç ne durumda? Namık Koçak ve Hüsnü Mahalli ile Forum (28.08.26)</title>
-      <link>https://www.youtube.com/watch?v=PCSHLefZZ0k</link>
-      <guid isPermaLink="false">PCSHLefZZ0k</guid>
-      <pubDate>Fri, 28 Aug 2026 19:04:36 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Suriye'de yeni dönem! Türkiye'de süreç ne durumda? Namık Koçak ve Hüsnü Mahalli ile Forum (28.08.26)</description>
     </item>
   </channel>
 </rss>
