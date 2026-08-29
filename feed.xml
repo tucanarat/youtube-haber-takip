@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 22:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 23:00:51 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Haber Bülteni | Nagihan Turhan | 30 Ağustos</title>
+      <link>https://www.youtube.com/watch?v=Af0N63geS_M</link>
+      <guid isPermaLink="false">Af0N63geS_M</guid>
+      <pubDate>Sat, 29 Aug 2026 22:58:51 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Haber Bülteni | Nagihan Turhan | 30 Ağustos</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Netanyahu'nun Büyük Oyunu! Suriye ve İran'ı Karıştıran Strateji! Edgar Şar'dan Çarpıcı Bölge Analizi</title>
       <link>https://www.youtube.com/watch?v=qGd1yuyaaUQ</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">djtZJ-nzTEM</guid>
       <pubDate>Sat, 29 Aug 2026 15:45:27 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SARAY’IN TAŞLARINI YERİNDEN OYNATTILAR! Özel ve İmamoğlu’nun sözleri fırtına kopartır! Bomba rest!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: MHP'li yurttaştan Özgür Özel'e: Sizi destekliyorum!</title>
-      <link>https://www.youtube.com/shorts/mZncvXkt9BQ</link>
-      <guid isPermaLink="false">mZncvXkt9BQ</guid>
-      <pubDate>Sat, 29 Aug 2026 15:30:27 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: MHP'li yurttaştan Özgür Özel'e: Sizi destekliyorum!</description>
     </item>
   </channel>
 </rss>
