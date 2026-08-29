@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 13:55:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 14:00:50 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: Haber Bülteni | Gülinay Selçuk | 29 Ağustos</title>
       <link>https://www.youtube.com/watch?v=9gy39Yz2N_4</link>
       <guid isPermaLink="false">9gy39Yz2N_4</guid>
       <pubDate>Sat, 29 Aug 2026 13:53:56 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Haber Bülteni | Gülinay Selçuk | 29 Ağustos</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: #CANLI Haber Bülteni | Gülinay Selçuk</title>
+      <link>https://www.youtube.com/watch?v=Ns9x9l6_PMw</link>
+      <guid isPermaLink="false">Ns9x9l6_PMw</guid>
+      <pubDate>Sat, 29 Aug 2026 13:49:37 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: #CANLI Haber Bülteni | Gülinay Selçuk</description>
     </item>
     <item>
       <title>Halk TV: KAYSERİ'DE BÖYLE COŞKU GÖRÜLMEDİ! Özgür Özel AKP'nin kalesini böyle fethetti! İzdihamdan zor yürüdü!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">q5X4Zlh5Ud0</guid>
       <pubDate>Sat, 29 Aug 2026 10:25:20 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ÖZGÜR ÖZEL'İN SIRADAKİ DURAĞI KAYSERİ! AKP'nin kalesinde fırtına estirecek! İşte son gelişmeler!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Almanya'dan Trump'a: İran savaşını bitir! Recai Aksu ekonomik gerekçelere dikkat çekti!</title>
-      <link>https://www.youtube.com/watch?v=uo9gU9IQPrE</link>
-      <guid isPermaLink="false">uo9gU9IQPrE</guid>
-      <pubDate>Sat, 29 Aug 2026 10:20:15 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Almanya'dan Trump'a: İran savaşını bitir! Recai Aksu ekonomik gerekçelere dikkat çekti!</description>
     </item>
   </channel>
 </rss>
