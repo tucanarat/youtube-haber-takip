@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 15:35:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 15:40:29 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: MHP'li yurttaştan Özgür Özel'e: Sizi destekliyorum!</title>
+      <link>https://www.youtube.com/shorts/mZncvXkt9BQ</link>
+      <guid isPermaLink="false">mZncvXkt9BQ</guid>
+      <pubDate>Sat, 29 Aug 2026 15:30:27 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: MHP'li yurttaştan Özgür Özel'e: Sizi destekliyorum!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Karadeniz'de Türk Gemisi Vuruldu! Putin'den Gizli Şanghay Planı! ABD Yaptırımları Deliniyor</title>
+      <link>https://www.youtube.com/watch?v=WTMyiAbvMYo</link>
+      <guid isPermaLink="false">WTMyiAbvMYo</guid>
+      <pubDate>Sat, 29 Aug 2026 15:30:07 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Karadeniz'de Türk Gemisi Vuruldu! Putin'den Gizli Şanghay Planı! ABD Yaptırımları Deliniyor</description>
+    </item>
     <item>
       <title>Halk TV: FACİA RESMEN 'GELİYORUM' DEMİŞ! 2 kişinin öldüğü otobüs kazasında kahreden görüntüler ortaya çıktı!</title>
       <link>https://www.youtube.com/watch?v=yWqwLFD7U1U</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">d6bajpHM_N8</guid>
       <pubDate>Sat, 29 Aug 2026 11:36:29 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI Özgür Özel'e Kayseri'de yoğun ilgi...</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Rojin Kabaiş Dosyasında Kan Donduran Tüyler Ürperten DNA Gerçeği Adli Tıp Uzmanı Açıkladı</title>
-      <link>https://www.youtube.com/watch?v=u1LTVTsJtRg</link>
-      <guid isPermaLink="false">u1LTVTsJtRg</guid>
-      <pubDate>Sat, 29 Aug 2026 11:30:31 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Rojin Kabaiş Dosyasında Kan Donduran Tüyler Ürperten DNA Gerçeği Adli Tıp Uzmanı Açıkladı</description>
-    </item>
-    <item>
-      <title>Halk TV: ÖZGÜR ÖZEL YİNE KIRDI GEÇİRDİ! Yanında telefonu çalan teyzeye yaptığı espri herkesi kahkahaya boğdu!</title>
-      <link>https://www.youtube.com/watch?v=qK27LQlwHgk</link>
-      <guid isPermaLink="false">qK27LQlwHgk</guid>
-      <pubDate>Sat, 29 Aug 2026 11:25:32 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ÖZGÜR ÖZEL YİNE KIRDI GEÇİRDİ! Yanında telefonu çalan teyzeye yaptığı espri herkesi kahkahaya boğdu!</description>
     </item>
   </channel>
 </rss>
