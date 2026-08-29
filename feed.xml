@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 08:45:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 08:50:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: BU SÖZLER AKP'DE KIZILCA KIYAMET KOPARTIR! Süleymancılara operasyona Bülent Arınç'tan şok sözler!</title>
+      <link>https://www.youtube.com/watch?v=diJFV7AGDaI</link>
+      <guid isPermaLink="false">diJFV7AGDaI</guid>
+      <pubDate>Sat, 29 Aug 2026 08:40:20 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BU SÖZLER AKP'DE KIZILCA KIYAMET KOPARTIR! Süleymancılara operasyona Bülent Arınç'tan şok sözler!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Adnan Oktar Örgütünün Kan Donduran Şantaj Çarkı! Eski Mürit Tek Tek Anlattı</title>
       <link>https://www.youtube.com/watch?v=ucMMBpKZ44Q</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">9gy39Yz2N_4</guid>
       <pubDate>Fri, 28 Aug 2026 22:02:52 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Haber Bülteni | Gülinay Selçuk</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: #CANLI İyi Ki Hafta Sonu Damla Doğan Tuncel</title>
-      <link>https://www.youtube.com/watch?v=fIg3pQb_uVo</link>
-      <guid isPermaLink="false">fIg3pQb_uVo</guid>
-      <pubDate>Fri, 28 Aug 2026 22:01:53 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: #CANLI İyi Ki Hafta Sonu Damla Doğan Tuncel</description>
     </item>
   </channel>
 </rss>
