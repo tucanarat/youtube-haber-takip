@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 09:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 09:05:22 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: YATIRIMCIYA SOĞUK DUŞ ETKİSİ! Zirveyi zorlayan altın çok sert düştü! Uzmanlardan kritik uyarı!</title>
+      <link>https://www.youtube.com/watch?v=lQyh7-Gp80A</link>
+      <guid isPermaLink="false">lQyh7-Gp80A</guid>
+      <pubDate>Sat, 29 Aug 2026 09:00:19 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YATIRIMCIYA SOĞUK DUŞ ETKİSİ! Zirveyi zorlayan altın çok sert düştü! Uzmanlardan kritik uyarı!</description>
+    </item>
     <item>
       <title>Cumhuriyet: Malatya’dan 'Çerçeve Yasa' protestosu! "İHANETİN ZAMAN AŞIMI YOKTUR"</title>
       <link>https://www.youtube.com/shorts/YWq-NaUV3Z0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">dqBh193YpzI</guid>
       <pubDate>Fri, 28 Aug 2026 23:00:02 +0000</pubDate>
       <description>Halk TV kanalından yeni video: KOCAELİ'DE ÖZGÜR ÖZEL RÜZGARI! Şükrü Küçükşahin’den iktidar için kritik uyarı</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti Lideri, halkın bağışları ile alınan o otobüsü böyle anlattı! #shorts</title>
-      <link>https://www.youtube.com/shorts/K974bK2jjSA</link>
-      <guid isPermaLink="false">K974bK2jjSA</guid>
-      <pubDate>Fri, 28 Aug 2026 22:45:27 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti Lideri, halkın bağışları ile alınan o otobüsü böyle anlattı! #shorts</description>
     </item>
   </channel>
 </rss>
