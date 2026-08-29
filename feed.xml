@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 17:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 17:45:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: CUMHUR'A YOLUN SONU GÖZÜKTÜ! Bakırhan'ın 'Demirtaş' ve 'yasa' çıkışı köşeye sıkıştırır! Resti çekti!</title>
+      <link>https://www.youtube.com/watch?v=4KFjcMVR7pg</link>
+      <guid isPermaLink="false">4KFjcMVR7pg</guid>
+      <pubDate>Sat, 29 Aug 2026 17:35:10 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: CUMHUR'A YOLUN SONU GÖZÜKTÜ! Bakırhan'ın 'Demirtaş' ve 'yasa' çıkışı köşeye sıkıştırır! Resti çekti!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Avrupa'da Eylül Kabusu Başladı! Rusya'nın Yeni Hedefi Belli Oldu! Kritik Erdoğan Putin Zirvesi</title>
       <link>https://www.youtube.com/watch?v=mpY0B4igorE</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">gxOxma-LY5M</guid>
       <pubDate>Sat, 29 Aug 2026 12:30:19 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ÜÇ KARDEŞ DENİZDE BOĞULARAK ÖLMÜŞTÜ! Bıraktıkları o not kan donduracak! Ölüme böyle gitmişler!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Deniz Türkeri Yapay Zeka - Baran Aras | Kargoyu Robotlar mı Getirecek? Lojistikte Yapay Zeka Devrimi</title>
-      <link>https://www.youtube.com/watch?v=oyirbQwJyRc</link>
-      <guid isPermaLink="false">oyirbQwJyRc</guid>
-      <pubDate>Sat, 29 Aug 2026 12:30:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Deniz Türkeri Yapay Zeka - Baran Aras | Kargoyu Robotlar mı Getirecek? Lojistikte Yapay Zeka Devrimi</description>
     </item>
   </channel>
 </rss>
