@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 19:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 19:25:24 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: MEHMET AKİF ERSOY ŞİKAYET ETMİŞTİ! Tahliye vaadiyle para talep eden 1'i avukat 4 kişi tutuklandı!</title>
+      <link>https://www.youtube.com/watch?v=0eo1N3IEDEo</link>
+      <guid isPermaLink="false">0eo1N3IEDEo</guid>
+      <pubDate>Sat, 29 Aug 2026 19:15:28 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: MEHMET AKİF ERSOY ŞİKAYET ETMİŞTİ! Tahliye vaadiyle para talep eden 1'i avukat 4 kişi tutuklandı!</description>
+    </item>
     <item>
       <title>Halk TV: SARAY’DAKİ DEPREMİN FİTİLİ ATEŞLENDİ! Fikret Bila'dan planları çöpe attıracak detay! Gündem olacak!</title>
       <link>https://www.youtube.com/watch?v=rzW-MYyfzKA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">3s54NHIsEB0</guid>
       <pubDate>Sat, 29 Aug 2026 13:00:12 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Çakarlı Araçtaki Sır Belaruslular Kim? Murat Ağırel Anlattı! Süleymancıların Firari Ağı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Özgür Özel'in esnaf ziyareti mitinge döndü! KAYSERİ'DE GÖRÜLMEMİŞ SEVGİ SELİ!</title>
-      <link>https://www.youtube.com/watch?v=czNOzRRZckA</link>
-      <guid isPermaLink="false">czNOzRRZckA</guid>
-      <pubDate>Sat, 29 Aug 2026 13:00:06 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Özgür Özel'in esnaf ziyareti mitinge döndü! KAYSERİ'DE GÖRÜLMEMİŞ SEVGİ SELİ!</description>
     </item>
   </channel>
 </rss>
