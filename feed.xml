@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 09:55:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 10:00:50 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: #CANLI İyi Ki Hafta Sonu Damla Doğan Tuncel</title>
+      <link>https://www.youtube.com/watch?v=fIg3pQb_uVo</link>
+      <guid isPermaLink="false">fIg3pQb_uVo</guid>
+      <pubDate>Sat, 29 Aug 2026 09:59:47 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: #CANLI İyi Ki Hafta Sonu Damla Doğan Tuncel</description>
+    </item>
     <item>
       <title>Cumhuriyet: "TRT dizisinin seti merayı tahrip etti" iddiası! Muhtar suç duyurusunda bulundu...</title>
       <link>https://www.youtube.com/watch?v=GrBiIF8zImg</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">2WJIT4QknKs</guid>
       <pubDate>Sat, 29 Aug 2026 01:48:07 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI Özgür Özel Derince Belediyesi'nin Çenesuyu İşletmesi'nin açılışında konuşuyor</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "YENİ Parti'nin Üye Sayısı 600 Bini Geçti!" Zeynel Lüle ile Ankara Günlüğü</title>
-      <link>https://www.youtube.com/watch?v=hF4h3Pz0S4U</link>
-      <guid isPermaLink="false">hF4h3Pz0S4U</guid>
-      <pubDate>Sat, 29 Aug 2026 01:23:05 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "YENİ Parti'nin Üye Sayısı 600 Bini Geçti!" Zeynel Lüle ile Ankara Günlüğü</description>
     </item>
   </channel>
 </rss>
