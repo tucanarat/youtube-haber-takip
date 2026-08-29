@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 07:20:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 07:25:23 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Haber Bülteni | Nagihan Turhan</title>
+      <link>https://www.youtube.com/watch?v=Af0N63geS_M</link>
+      <guid isPermaLink="false">Af0N63geS_M</guid>
+      <pubDate>Sat, 29 Aug 2026 07:17:36 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Haber Bülteni | Nagihan Turhan</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Maç Varsa Erman Hoca Var | Erman Toroğlu</title>
+      <link>https://www.youtube.com/watch?v=MDLnisNg5pU</link>
+      <guid isPermaLink="false">MDLnisNg5pU</guid>
+      <pubDate>Sat, 29 Aug 2026 07:16:32 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Maç Varsa Erman Hoca Var | Erman Toroğlu</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Masada Ne Var? | Burak Tatari</title>
+      <link>https://www.youtube.com/watch?v=-Xodt8jypbg</link>
+      <guid isPermaLink="false">-Xodt8jypbg</guid>
+      <pubDate>Sat, 29 Aug 2026 07:14:36 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Masada Ne Var? | Burak Tatari</description>
+    </item>
     <item>
       <title>Cumhuriyet: Ege'ye kaçanların yeni sığınağı: Dikili | İki Bavul Bir Mikrofon</title>
       <link>https://www.youtube.com/watch?v=NPwMYS4Olg8</link>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">5xV2M2zHCcg</guid>
       <pubDate>Fri, 28 Aug 2026 20:45:12 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SICAK GELİŞME! Komedyen Deniz Göktaş hakkında hem tahliye hem tutuklama kararı!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: İstanbul Sanayi Odası Meclis Başkanı Ender Yılmaz açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=oKG1dImMWfU</link>
-      <guid isPermaLink="false">oKG1dImMWfU</guid>
-      <pubDate>Fri, 28 Aug 2026 20:42:16 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: İstanbul Sanayi Odası Meclis Başkanı Ender Yılmaz açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Mansur Yavaş Düğmeye Bastı! İmamoğlu'ndan Büyük Destek! İktidarın Oyununu Bozdular</title>
-      <link>https://www.youtube.com/watch?v=eaLKCdi2O3E</link>
-      <guid isPermaLink="false">eaLKCdi2O3E</guid>
-      <pubDate>Fri, 28 Aug 2026 20:40:08 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Mansur Yavaş Düğmeye Bastı! İmamoğlu'ndan Büyük Destek! İktidarın Oyununu Bozdular</description>
-    </item>
-    <item>
-      <title>Halk TV: MENDERES’TE BİLİRKİŞİ RAPORU GÜNDEMDE! Çiçek’ten çarpıcı açıklama!</title>
-      <link>https://www.youtube.com/watch?v=V7yq8tWutkg</link>
-      <guid isPermaLink="false">V7yq8tWutkg</guid>
-      <pubDate>Fri, 28 Aug 2026 20:30:00 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: MENDERES’TE BİLİRKİŞİ RAPORU GÜNDEMDE! Çiçek’ten çarpıcı açıklama!</description>
     </item>
   </channel>
 </rss>
