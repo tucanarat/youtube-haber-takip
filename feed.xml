@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 18:05:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 18:10:30 +0000</lastBuildDate>
     <item>
       <title>Halk TV: BUTLANDA HER ŞEYİ DURDURACAK O HAMLE GELİYOR! Cumhur Uzun o programı ilk kez açıkladı! Tarih verdi!</title>
       <link>https://www.youtube.com/watch?v=R_aYHx0_osM</link>
       <guid isPermaLink="false">R_aYHx0_osM</guid>
       <pubDate>Sat, 29 Aug 2026 18:05:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BUTLANDA HER ŞEYİ DURDURACAK O HAMLE GELİYOR! Cumhur Uzun o programı ilk kez açıkladı! Tarih verdi!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İmamoğlu'nun Savunmasına Sansür! Mahkemeden Olay Karar! İBB Davasında Sıcak Gelişme</title>
+      <link>https://www.youtube.com/watch?v=OMzKhQnNFkA</link>
+      <guid isPermaLink="false">OMzKhQnNFkA</guid>
+      <pubDate>Sat, 29 Aug 2026 18:00:32 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İmamoğlu'nun Savunmasına Sansür! Mahkemeden Olay Karar! İBB Davasında Sıcak Gelişme</description>
     </item>
     <item>
       <title>Tele2 Haber: Almanya'da esnaf kepenk kapattı! Göçmenlerden aşırı sağcı AfD'ye tepki!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">pCDFu0SWX7A</guid>
       <pubDate>Sat, 29 Aug 2026 12:50:01 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Özel: Bu yürüyüş 'ister aç kal ister karnını doyur sokakta kal' denen emeklinin onur yürüyüşü!</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel: Bizim iktidarımızda her mahallede bir kreş olacak!</title>
-      <link>https://www.youtube.com/shorts/ZFNTC09SrdQ</link>
-      <guid isPermaLink="false">ZFNTC09SrdQ</guid>
-      <pubDate>Sat, 29 Aug 2026 12:49:14 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel: Bizim iktidarımızda her mahallede bir kreş olacak!</description>
     </item>
   </channel>
 </rss>
