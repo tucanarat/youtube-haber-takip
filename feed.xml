@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 14:05:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 14:10:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SON DAKİKA! Karadeniz'de Türk gemilerine saldırı sonrası Ukrayna Büyükelçisi Dışişleri'ne çağrıldı!</title>
+      <link>https://www.youtube.com/watch?v=ehz5UrrDekc</link>
+      <guid isPermaLink="false">ehz5UrrDekc</guid>
+      <pubDate>Sat, 29 Aug 2026 14:03:18 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! Karadeniz'de Türk gemilerine saldırı sonrası Ukrayna Büyükelçisi Dışişleri'ne çağrıldı!</description>
+    </item>
     <item>
       <title>Halk TV: Özgür Özel, Kayseri'de kendisini dinleyen vatandaşlar tarafından otobüsüne kadar uğurlandı!</title>
       <link>https://www.youtube.com/shorts/T5mg-stJdTY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">mAfDGz9dMwU</guid>
       <pubDate>Sat, 29 Aug 2026 10:40:34 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Almanya'da esnaf kepenk kapattı! Göçmenlerden aşırı sağcı AfD'ye tepki!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: İBB Başkan Vekili Nuri Aslan, Ulugazi Yağlı Güreş Festivali'nde konuşuyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=6OJjF2Tdl_M</link>
-      <guid isPermaLink="false">6OJjF2Tdl_M</guid>
-      <pubDate>Sat, 29 Aug 2026 10:36:14 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: İBB Başkan Vekili Nuri Aslan, Ulugazi Yağlı Güreş Festivali'nde konuşuyor #Canlı</description>
     </item>
   </channel>
 </rss>
