@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 07:25:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 07:30:40 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Kaş'ta orman yangını #shorts</title>
+      <link>https://www.youtube.com/shorts/RkT2Xduem3I</link>
+      <guid isPermaLink="false">RkT2Xduem3I</guid>
+      <pubDate>Sat, 29 Aug 2026 07:29:40 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Kaş'ta orman yangını #shorts</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Haber Bülteni | Nagihan Turhan</title>
       <link>https://www.youtube.com/watch?v=Af0N63geS_M</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">NONx2VpsMSQ</guid>
       <pubDate>Fri, 28 Aug 2026 21:00:02 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: İmamoğlu'ndan kitabının yasaklanmasına tepki: Bu kitabı milyonlar okuyacak savunmamı herkes görecek</description>
-    </item>
-    <item>
-      <title>Halk TV: SICAK GELİŞME! Komedyen Deniz Göktaş hakkında hem tahliye hem tutuklama kararı!</title>
-      <link>https://www.youtube.com/watch?v=5xV2M2zHCcg</link>
-      <guid isPermaLink="false">5xV2M2zHCcg</guid>
-      <pubDate>Fri, 28 Aug 2026 20:45:12 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SICAK GELİŞME! Komedyen Deniz Göktaş hakkında hem tahliye hem tutuklama kararı!</description>
     </item>
   </channel>
 </rss>
