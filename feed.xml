@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 17:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 17:05:30 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: "Kendimi Çok Dövdüm, Çok Haksızlık Ettim" | Pınar Erbaş | İpek Özbey ile Perdenin Arkası</title>
       <link>https://www.youtube.com/watch?v=4tc7bn4MtAw</link>
       <guid isPermaLink="false">4tc7bn4MtAw</guid>
       <pubDate>Sat, 29 Aug 2026 17:00:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: "Kendimi Çok Dövdüm, Çok Haksızlık Ettim" | Pınar Erbaş | İpek Özbey ile Perdenin Arkası</description>
+    </item>
+    <item>
+      <title>Halk TV: YANGINLAR DURDURULAMIYOR! Alevler her yeri sardı, yerleşim yerleri boşaltıldı! Vicdanları sızlatır!</title>
+      <link>https://www.youtube.com/watch?v=Y9UDrGF4bxo</link>
+      <guid isPermaLink="false">Y9UDrGF4bxo</guid>
+      <pubDate>Sat, 29 Aug 2026 16:55:08 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YANGINLAR DURDURULAMIYOR! Alevler her yeri sardı, yerleşim yerleri boşaltıldı! Vicdanları sızlatır!</description>
     </item>
     <item>
       <title>Halk TV: Gülşah Ekinci ile Hafta Sonu Ana Haber (29 Ağustos 2026)</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">6_9QdkUn-dQ</guid>
       <pubDate>Sat, 29 Aug 2026 12:27:19 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Özel'den yanında telefonu çalan teyzeye espri: 'Gelin Hatice' arıyor. Açsaydın konuşurduk!</description>
-    </item>
-    <item>
-      <title>Halk TV: 70 yaşındaki Kayserili teyze Özgür Özel'e böyle dert yandı!</title>
-      <link>https://www.youtube.com/shorts/dPgRp0FWV_E</link>
-      <guid isPermaLink="false">dPgRp0FWV_E</guid>
-      <pubDate>Sat, 29 Aug 2026 12:26:35 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: 70 yaşındaki Kayserili teyze Özgür Özel'e böyle dert yandı!</description>
     </item>
   </channel>
 </rss>
