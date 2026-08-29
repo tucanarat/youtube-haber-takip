@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 21:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 22:00:59 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Burçin Atılgan ile Gündem Özel (29 Ağustos 2026)</title>
+      <link>https://www.youtube.com/watch?v=2Z184r_z-vI</link>
+      <guid isPermaLink="false">2Z184r_z-vI</guid>
+      <pubDate>Sat, 29 Aug 2026 22:00:52 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Burçin Atılgan ile Gündem Özel (29 Ağustos 2026)</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Galatasaray - Göztepe Maçı | Maç Varsa Erman Hoca Var | Erman Toroğlu</title>
+      <link>https://www.youtube.com/watch?v=MDLnisNg5pU</link>
+      <guid isPermaLink="false">MDLnisNg5pU</guid>
+      <pubDate>Sat, 29 Aug 2026 21:56:54 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Galatasaray - Göztepe Maçı | Maç Varsa Erman Hoca Var | Erman Toroğlu</description>
+    </item>
     <item>
       <title>Halk TV: SARAY’DA HESAPLAR BİRBİRİNE GİRECEK! Sinsi plan canlı yayında suçüstü yakalandı! Cumhur Uzun anlattı</title>
       <link>https://www.youtube.com/watch?v=dqbERNliL_c</link>
@@ -253,13 +267,6 @@
       <description>SÖZCÜ TV kanalından yeni video: Hafta Sonu Ana Haber | Senem Toluay Ilgaz | 29 Ağustos</description>
     </item>
     <item>
-      <title>Halk TV: Burçin Atılgan ile Gündem Özel (29 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=2Z184r_z-vI</link>
-      <guid isPermaLink="false">2Z184r_z-vI</guid>
-      <pubDate>Sat, 29 Aug 2026 16:48:52 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Burçin Atılgan ile Gündem Özel (29 Ağustos 2026)</description>
-    </item>
-    <item>
       <title>SÖZCÜ TV: Türkiye'nin Dibinde Sinsi İttifak! Yunanistan Savunmayı Devretti! İsrail Füzeleri Ege'de</title>
       <link>https://www.youtube.com/watch?v=E-u13MpExo8</link>
       <guid isPermaLink="false">E-u13MpExo8</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">oWMyXoTM--s</guid>
       <pubDate>Sat, 29 Aug 2026 15:00:04 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Kayseri Özgür Özel'e kucağını açtı! Halktan sevgi seli!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Putin O Ülkeye Saldıracak! NATO'yu Alarma Geçiren İddia! Uzman İsim Anlattı</title>
-      <link>https://www.youtube.com/watch?v=Sh8rnk29m3g</link>
-      <guid isPermaLink="false">Sh8rnk29m3g</guid>
-      <pubDate>Sat, 29 Aug 2026 15:00:03 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Putin O Ülkeye Saldıracak! NATO'yu Alarma Geçiren İddia! Uzman İsim Anlattı</description>
     </item>
   </channel>
 </rss>
