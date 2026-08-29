@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 11:30:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 11:35:24 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ÖZGÜR ÖZEL YİNE KIRDI GEÇİRDİ! Yanında telefonu çalan teyzeye yaptığı espri herkesi kahkahaya boğdu!</title>
+      <link>https://www.youtube.com/watch?v=qK27LQlwHgk</link>
+      <guid isPermaLink="false">qK27LQlwHgk</guid>
+      <pubDate>Sat, 29 Aug 2026 11:25:32 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ÖZGÜR ÖZEL YİNE KIRDI GEÇİRDİ! Yanında telefonu çalan teyzeye yaptığı espri herkesi kahkahaya boğdu!</description>
+    </item>
     <item>
       <title>Cumhuriyet: #CANLI Özgür Özel Kayseri’da kadınlarla bir araya geldi</title>
       <link>https://www.youtube.com/watch?v=AdfG09ax6BM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">LIqQ0E57ykA</guid>
       <pubDate>Sat, 29 Aug 2026 07:44:14 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Osmaniye'de yumurta büyüklüğünde dolu yağdı</description>
-    </item>
-    <item>
-      <title>Halk TV: İnegöl'de dur ihtarına uymayan sürücüye 240 bin lira para cezası verildi!</title>
-      <link>https://www.youtube.com/shorts/q96fnnXanzc</link>
-      <guid isPermaLink="false">q96fnnXanzc</guid>
-      <pubDate>Sat, 29 Aug 2026 07:40:36 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İnegöl'de dur ihtarına uymayan sürücüye 240 bin lira para cezası verildi!</description>
     </item>
   </channel>
 </rss>
