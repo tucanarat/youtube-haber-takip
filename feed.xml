@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 16:20:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 16:25:27 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Antalya- Seydikemer'de Çıkan Yangın Kaş'ta Ormana Sıçradı! Söndürme Çalışmaları Sürüyor!</title>
+      <link>https://www.youtube.com/watch?v=i7JSwJlryV8</link>
+      <guid isPermaLink="false">i7JSwJlryV8</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:46 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Antalya- Seydikemer'de Çıkan Yangın Kaş'ta Ormana Sıçradı! Söndürme Çalışmaları Sürüyor!</description>
+    </item>
+    <item>
+      <title>Halk TV: TAYYAR’DAN BOMBA 'İDRİS ŞAHİN' İDDİASI! Akın Gürlek çelişkili bulmuştu, ifadesi alınacak! Şok detay!</title>
+      <link>https://www.youtube.com/watch?v=aZOF80om2GE</link>
+      <guid isPermaLink="false">aZOF80om2GE</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:27 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: TAYYAR’DAN BOMBA 'İDRİS ŞAHİN' İDDİASI! Akın Gürlek çelişkili bulmuştu, ifadesi alınacak! Şok detay!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Deniz Göktaş'tan Mektup! Özgürlüğü Sadece 2 Dakika Sürdü! Tahliye Oldu Tutuklandı</title>
+      <link>https://www.youtube.com/watch?v=-WCahVnAnW0</link>
+      <guid isPermaLink="false">-WCahVnAnW0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:24 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Deniz Göktaş'tan Mektup! Özgürlüğü Sadece 2 Dakika Sürdü! Tahliye Oldu Tutuklandı</description>
+    </item>
     <item>
       <title>Halk TV: HESAPLAR TUTMADI, BEŞTEPE KARIŞACAK! Üsküdar seçimi planları ellerinde patladı! Kabus olacak sözler!</title>
       <link>https://www.youtube.com/watch?v=2_HDU5clwKY</link>
@@ -83,13 +104,6 @@
       <guid isPermaLink="false">eaKGldXvjZc</guid>
       <pubDate>Sat, 29 Aug 2026 14:57:22 +0000</pubDate>
       <description>Halk TV kanalından yeni video: KAYSERİ'DE MEYDAN HINCAHINÇ DOLDU! Özgür Özel'in sözleri meydanı ayağa kaldırdı! Tarihi görüntüler!</description>
-    </item>
-    <item>
-      <title>Halk TV: Antalya- Seydikemer'de Çıkan Yangın Kaş'ta Ormana Sıçradı! Söndürme Çalışmaları Sürüyor!</title>
-      <link>https://www.youtube.com/watch?v=i7JSwJlryV8</link>
-      <guid isPermaLink="false">i7JSwJlryV8</guid>
-      <pubDate>Sat, 29 Aug 2026 14:57:08 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Antalya- Seydikemer'de Çıkan Yangın Kaş'ta Ormana Sıçradı! Söndürme Çalışmaları Sürüyor!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Haber Bülteni | Gülinay Selçuk | 29 Ağustos</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">WSfFcnlMQPc</guid>
       <pubDate>Sat, 29 Aug 2026 12:07:50 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Özgür Özel'e Kayseri'de yoğun ilgi</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Özgür Özel Kayseri'de pastırma kesti</title>
-      <link>https://www.youtube.com/shorts/tEWlwtr2PCc</link>
-      <guid isPermaLink="false">tEWlwtr2PCc</guid>
-      <pubDate>Sat, 29 Aug 2026 12:06:45 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Özgür Özel Kayseri'de pastırma kesti</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: BOYNUNA SARILIP AĞLADILAR! Özgür Özel Kayseri'de ilgiden adım atamadı!</title>
-      <link>https://www.youtube.com/watch?v=VCZMxDrpS5c</link>
-      <guid isPermaLink="false">VCZMxDrpS5c</guid>
-      <pubDate>Sat, 29 Aug 2026 12:01:36 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: BOYNUNA SARILIP AĞLADILAR! Özgür Özel Kayseri'de ilgiden adım atamadı!</description>
     </item>
   </channel>
 </rss>
