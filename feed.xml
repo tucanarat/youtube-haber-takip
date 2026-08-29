@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 20:50:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 20:55:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: AKP SON DÜZLÜKTE! Ortaya çıkan bu iddialar kıyameti kopartır! Bahadır Özgür perde arkasını araladı!</title>
+      <link>https://www.youtube.com/watch?v=VVPQgoPd1r0</link>
+      <guid isPermaLink="false">VVPQgoPd1r0</guid>
+      <pubDate>Sat, 29 Aug 2026 20:55:06 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: AKP SON DÜZLÜKTE! Ortaya çıkan bu iddialar kıyameti kopartır! Bahadır Özgür perde arkasını araladı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Masada Ne Var? | Burak Tatari | 29 Ağustos</title>
       <link>https://www.youtube.com/watch?v=-Xodt8jypbg</link>
       <guid isPermaLink="false">-Xodt8jypbg</guid>
       <pubDate>Sat, 29 Aug 2026 20:42:32 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Masada Ne Var? | Burak Tatari | 29 Ağustos</description>
+    </item>
+    <item>
+      <title>Halk TV: SON DAKİKA! SEVENLERİNİN GÖZÜ ORADAYDI! Cem Yılmaz'ın sağlık durumuna ilişkin doktorundan açıklama!</title>
+      <link>https://www.youtube.com/watch?v=9YblF5x32PI</link>
+      <guid isPermaLink="false">9YblF5x32PI</guid>
+      <pubDate>Sat, 29 Aug 2026 20:41:10 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! SEVENLERİNİN GÖZÜ ORADAYDI! Cem Yılmaz'ın sağlık durumuna ilişkin doktorundan açıklama!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Mansur Yavaş Anketleri Salladı! Siyasette Erken Seçim Rüzgarları! AKP'ye Tarihi Fark</title>
@@ -48,13 +62,6 @@
       <guid isPermaLink="false">TGIyebM6taI</guid>
       <pubDate>Sat, 29 Aug 2026 20:00:25 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Özgür Özel'in Elindeki Büyük Koz! İktidarın Gizli Seçim Planı! Edgar Şar'dan Kritik Uyarı</description>
-    </item>
-    <item>
-      <title>Halk TV: AKP SON DÜZLÜKTE! Ortaya çıkan bu iddialar kıyameti kopartır! Bahadır Özgür perde arkasını araladı!</title>
-      <link>https://www.youtube.com/watch?v=VVPQgoPd1r0</link>
-      <guid isPermaLink="false">VVPQgoPd1r0</guid>
-      <pubDate>Sat, 29 Aug 2026 19:58:19 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: AKP SON DÜZLÜKTE! Ortaya çıkan bu iddialar kıyameti kopartır! Bahadır Özgür perde arkasını araladı!</description>
     </item>
     <item>
       <title>Halk TV: BATMAN'DAN KAN DONDURAN OLAY! Annesini öldürüp çöp konteynerine attı, emniyete gidip teslim oldu!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">xOlQKyQADl4</guid>
       <pubDate>Sat, 29 Aug 2026 14:30:33 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Süleymancılar Dosyasında 10 Yıllık Sır! Yok Denilen Otopsi Videosu Ortaya Çıktı? Uzman İsim Anlattı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Özgür Özel Kayseri'de yaşadığı şaşkınlığı böyle anlattı</title>
-      <link>https://www.youtube.com/shorts/LyuZ3TGPJgM</link>
-      <guid isPermaLink="false">LyuZ3TGPJgM</guid>
-      <pubDate>Sat, 29 Aug 2026 14:30:12 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Özgür Özel Kayseri'de yaşadığı şaşkınlığı böyle anlattı</description>
     </item>
   </channel>
 </rss>
