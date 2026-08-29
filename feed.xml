@@ -6,13 +6,34 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 15:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 15:05:24 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Kayseri Özgür Özel'e kucağını açtı! Halktan sevgi seli!</title>
+      <link>https://www.youtube.com/shorts/oWMyXoTM--s</link>
+      <guid isPermaLink="false">oWMyXoTM--s</guid>
+      <pubDate>Sat, 29 Aug 2026 15:00:04 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Kayseri Özgür Özel'e kucağını açtı! Halktan sevgi seli!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Putin O Ülkeye Saldıracak! NATO'yu Alarma Geçiren İddia! Uzman İsim Anlattı</title>
+      <link>https://www.youtube.com/watch?v=Sh8rnk29m3g</link>
+      <guid isPermaLink="false">Sh8rnk29m3g</guid>
+      <pubDate>Sat, 29 Aug 2026 15:00:03 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Putin O Ülkeye Saldıracak! NATO'yu Alarma Geçiren İddia! Uzman İsim Anlattı</description>
+    </item>
     <item>
       <title>Halk TV: Işın Eliçin ile Sınırsız (29 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=D03-0x8f3IQ</link>
       <guid isPermaLink="false">D03-0x8f3IQ</guid>
       <pubDate>Sat, 29 Aug 2026 14:58:34 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Işın Eliçin ile Sınırsız (29 Ağustos 2026)</description>
+    </item>
+    <item>
+      <title>Halk TV: KAYSERİ'DE MEYDAN HINCAHINÇ DOLDU! Özgür Özel'in sözleri meydanı ayağa kaldırdı! Tarihi görüntüler!</title>
+      <link>https://www.youtube.com/watch?v=eaKGldXvjZc</link>
+      <guid isPermaLink="false">eaKGldXvjZc</guid>
+      <pubDate>Sat, 29 Aug 2026 14:57:22 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KAYSERİ'DE MEYDAN HINCAHINÇ DOLDU! Özgür Özel'in sözleri meydanı ayağa kaldırdı! Tarihi görüntüler!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: #CANLI Haber Bülteni | Gülinay Selçuk</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">Fi8EJL9NvdM</guid>
       <pubDate>Sat, 29 Aug 2026 11:18:39 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Kadınlarla bir araya geldi #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti Genel Başkanı Özgür Özel, Kadınlarla Bir Araya Geldi (29 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=tP1eqhg8Nho</link>
-      <guid isPermaLink="false">tP1eqhg8Nho</guid>
-      <pubDate>Sat, 29 Aug 2026 11:16:25 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Kadınlarla Bir Araya Geldi (29 Ağustos 2026)</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Özgür Özel, Kayseri'de kadınlarla bir araya geldi</title>
-      <link>https://www.youtube.com/watch?v=ja58cQyMl9g</link>
-      <guid isPermaLink="false">ja58cQyMl9g</guid>
-      <pubDate>Sat, 29 Aug 2026 11:15:45 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Özgür Özel, Kayseri'de kadınlarla bir araya geldi</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Özgür Özel Kayseri'de! Kadınlar AKP'yi Şikayet Etti!</title>
-      <link>https://www.youtube.com/watch?v=LHT_oBGovys</link>
-      <guid isPermaLink="false">LHT_oBGovys</guid>
-      <pubDate>Sat, 29 Aug 2026 11:12:56 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Özgür Özel Kayseri'de! Kadınlar AKP'yi Şikayet Etti!</description>
     </item>
   </channel>
 </rss>
