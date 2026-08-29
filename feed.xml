@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 18:31:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 18:35:29 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Hüseyin Raşit Yılmaz Eski Defterleri Açtı! Erdoğan'a Seslendi! Tarihi İmamoğlu Çıkışı</title>
+      <link>https://www.youtube.com/watch?v=qveudIi9f5w</link>
+      <guid isPermaLink="false">qveudIi9f5w</guid>
+      <pubDate>Sat, 29 Aug 2026 18:30:39 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Hüseyin Raşit Yılmaz Eski Defterleri Açtı! Erdoğan'a Seslendi! Tarihi İmamoğlu Çıkışı</description>
+    </item>
     <item>
       <title>Halk TV: SON DAKİKA! AYVACIK'TAKİ EVİNDE RAHATSIZLANDI! Ünlü Komedyen Cem Yılmaz hastaneye kaldırıldı!</title>
       <link>https://www.youtube.com/watch?v=jAzR6j4MTbk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">5IxrUlu4fZc</guid>
       <pubDate>Sat, 29 Aug 2026 12:51:28 +0000</pubDate>
       <description>Halk TV kanalından yeni video: KAYSERİ BÖYLE COŞKU GÖRMEDİ! Özgür Özel İçin Binler Meydana Akın Etti! Tarihi Görüntüler</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti lideri Özgür Özel, meydandaki kalabalığa böyle tepki verdi!</title>
-      <link>https://www.youtube.com/shorts/Na8M_dgkMhw</link>
-      <guid isPermaLink="false">Na8M_dgkMhw</guid>
-      <pubDate>Sat, 29 Aug 2026 12:50:17 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti lideri Özgür Özel, meydandaki kalabalığa böyle tepki verdi!</description>
     </item>
   </channel>
 </rss>
