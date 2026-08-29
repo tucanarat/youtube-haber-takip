@@ -18481,7 +18481,7 @@
   },
   "D03-0x8f3IQ": {
     "id": "D03-0x8f3IQ",
-    "title": "#CANLI | Işın Eliçin ile Sınırsız",
+    "title": "Işın Eliçin ile Sınırsız (29 Ağustos 2026)",
     "link": "https://www.youtube.com/watch?v=D03-0x8f3IQ",
     "published": "2026-08-29T12:52:42+00:00",
     "published_ts": 1788007962,
@@ -18563,8 +18563,8 @@
     "id": "Ns9x9l6_PMw",
     "title": "#CANLI Haber Bülteni | Gülinay Selçuk",
     "link": "https://www.youtube.com/watch?v=Ns9x9l6_PMw",
-    "published": "2026-08-29T13:49:37+00:00",
-    "published_ts": 1788011377,
+    "published": "2026-08-29T14:52:59+00:00",
+    "published_ts": 1788015179,
     "channel_name": "SÖZCÜ TV"
   },
   "jna5Si8atD0": {
@@ -18630,5 +18630,13 @@
     "published": "2026-08-29T14:38:40+00:00",
     "published_ts": 1788014320,
     "channel_name": "Cumhuriyet"
+  },
+  "wGduotKbgP4": {
+    "id": "wGduotKbgP4",
+    "title": "#CANLI | Gülşah Ekinci ile Hafta Sonu Ana Haber | #geçim",
+    "link": "https://www.youtube.com/watch?v=wGduotKbgP4",
+    "published": "2026-08-29T14:39:59+00:00",
+    "published_ts": 1788014399,
+    "channel_name": "Halk TV"
   }
 }

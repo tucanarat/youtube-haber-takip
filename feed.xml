@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 14:50:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 14:55:25 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: #CANLI Haber Bülteni | Gülinay Selçuk</title>
+      <link>https://www.youtube.com/watch?v=Ns9x9l6_PMw</link>
+      <guid isPermaLink="false">Ns9x9l6_PMw</guid>
+      <pubDate>Sat, 29 Aug 2026 14:52:59 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: #CANLI Haber Bülteni | Gülinay Selçuk</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Gülşah Ekinci ile Hafta Sonu Ana Haber | #geçim</title>
+      <link>https://www.youtube.com/watch?v=wGduotKbgP4</link>
+      <guid isPermaLink="false">wGduotKbgP4</guid>
+      <pubDate>Sat, 29 Aug 2026 14:39:59 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Gülşah Ekinci ile Hafta Sonu Ana Haber | #geçim</description>
+    </item>
     <item>
       <title>Cumhuriyet: Çal'da 4 Rakip Firma Nasıl Yol Arkadaşı Oldu? | Özgür Ulusoy ile Çal Bağ Yolu’nda</title>
       <link>https://www.youtube.com/watch?v=kmG0r-KuqpU</link>
@@ -69,13 +83,6 @@
       <guid isPermaLink="false">9gy39Yz2N_4</guid>
       <pubDate>Sat, 29 Aug 2026 13:53:56 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Haber Bülteni | Gülinay Selçuk | 29 Ağustos</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: #CANLI Haber Bülteni | Gülinay Selçuk</title>
-      <link>https://www.youtube.com/watch?v=Ns9x9l6_PMw</link>
-      <guid isPermaLink="false">Ns9x9l6_PMw</guid>
-      <pubDate>Sat, 29 Aug 2026 13:49:37 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: #CANLI Haber Bülteni | Gülinay Selçuk</description>
     </item>
     <item>
       <title>Halk TV: KAYSERİ'DE BÖYLE COŞKU GÖRÜLMEDİ! Özgür Özel AKP'nin kalesini böyle fethetti! İzdihamdan zor yürüdü!</title>
@@ -141,11 +148,11 @@
       <description>Tele2 Haber kanalından yeni video: KAYSERİ ÖZGÜR ÖZEL'İ BIRAKMADI! ADIM ATTIĞI HER YER DOLDU TAŞTI!</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | Işın Eliçin ile Sınırsız</title>
+      <title>Halk TV: Işın Eliçin ile Sınırsız (29 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=D03-0x8f3IQ</link>
       <guid isPermaLink="false">D03-0x8f3IQ</guid>
       <pubDate>Sat, 29 Aug 2026 12:52:42 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Işın Eliçin ile Sınırsız</description>
+      <description>Halk TV kanalından yeni video: Işın Eliçin ile Sınırsız (29 Ağustos 2026)</description>
     </item>
     <item>
       <title>Halk TV: KAYSERİ BÖYLE COŞKU GÖRMEDİ! Özgür Özel İçin Binler Meydana Akın Etti! Tarihi Görüntüler</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">LHT_oBGovys</guid>
       <pubDate>Sat, 29 Aug 2026 11:12:56 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Özgür Özel Kayseri'de! Kadınlar AKP'yi Şikayet Etti!</description>
-    </item>
-    <item>
-      <title>Halk TV: TAHLİYE KARARI ÇIKAR ÇIKMAZ YENİDEN TUTUKLANDI! Komedyen Deniz Göktaş'tan o karar için ilk açıklama!</title>
-      <link>https://www.youtube.com/watch?v=wApQDYpFmzM</link>
-      <guid isPermaLink="false">wApQDYpFmzM</guid>
-      <pubDate>Sat, 29 Aug 2026 11:10:11 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: TAHLİYE KARARI ÇIKAR ÇIKMAZ YENİDEN TUTUKLANDI! Komedyen Deniz Göktaş'tan o karar için ilk açıklama!</description>
     </item>
   </channel>
 </rss>
