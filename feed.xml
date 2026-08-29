@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 13:10:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 13:15:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Serhan Başbahçıvan ile Öğle Haberleri (29 Ağustos 2026)</title>
+      <link>https://www.youtube.com/watch?v=iik6XjD1Wt8</link>
+      <guid isPermaLink="false">iik6XjD1Wt8</guid>
+      <pubDate>Sat, 29 Aug 2026 13:06:31 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Serhan Başbahçıvan ile Öğle Haberleri (29 Ağustos 2026)</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Çakarlı Araçtaki Sır Belaruslular Kim? Murat Ağırel Anlattı! Süleymancıların Firari Ağı</title>
       <link>https://www.youtube.com/watch?v=3s54NHIsEB0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">viN7lypkiHE</guid>
       <pubDate>Sat, 29 Aug 2026 10:00:26 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Özgür Özel AKP'nin Ekrem İmamoğlu Hamlesini Duyurdu! Yasak Geldi! Kitabı Basılmadan Toplatıldı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İyi ki Hafta Sonu | Damla Doğan Tuncel 29 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=fIg3pQb_uVo</link>
-      <guid isPermaLink="false">fIg3pQb_uVo</guid>
-      <pubDate>Sat, 29 Aug 2026 09:59:47 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İyi ki Hafta Sonu | Damla Doğan Tuncel 29 Ağustos</description>
     </item>
   </channel>
 </rss>
