@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 20:30:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 20:35:28 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Mansur Yavaş Anketleri Salladı! Siyasette Erken Seçim Rüzgarları! AKP'ye Tarihi Fark</title>
+      <link>https://www.youtube.com/watch?v=W6oZG7v5x8g</link>
+      <guid isPermaLink="false">W6oZG7v5x8g</guid>
+      <pubDate>Sat, 29 Aug 2026 20:30:13 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Mansur Yavaş Anketleri Salladı! Siyasette Erken Seçim Rüzgarları! AKP'ye Tarihi Fark</description>
+    </item>
     <item>
       <title>Halk TV: Cem Yılmaz'ın Sağlık Durumuna İlişkin Doktoru Prof. Dr. Ercan Akşit Açıklamalarda Bulundu!</title>
       <link>https://www.youtube.com/watch?v=Ekg4d338JSs</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">5MoV2o0Vreo</guid>
       <pubDate>Sat, 29 Aug 2026 14:27:42 +0000</pubDate>
       <description>Halk TV kanalından yeni video: AKP'NİN KALESİNDE SARAY'I TİTRETECEK SÖZLER! Özgür Özel Kayseri'yi ayağa kaldırdı, coşku tavan yaptı</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! Karadeniz'de Türk gemilerine saldırı sonrası Ukrayna Büyükelçisi Dışişleri'ne çağrıldı!</title>
-      <link>https://www.youtube.com/watch?v=ehz5UrrDekc</link>
-      <guid isPermaLink="false">ehz5UrrDekc</guid>
-      <pubDate>Sat, 29 Aug 2026 14:03:18 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! Karadeniz'de Türk gemilerine saldırı sonrası Ukrayna Büyükelçisi Dışişleri'ne çağrıldı!</description>
     </item>
   </channel>
 </rss>
