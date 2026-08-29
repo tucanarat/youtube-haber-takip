@@ -6,13 +6,34 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 19:40:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 19:45:33 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: İktidarı Sarsan Anket Açıklandı! AKP'nin Kalesi Kayseri'de Özgür Özel'den Gövde Gösterisi</title>
       <link>https://www.youtube.com/watch?v=dZEPWGPAHlA</link>
       <guid isPermaLink="false">dZEPWGPAHlA</guid>
       <pubDate>Sat, 29 Aug 2026 19:30:28 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İktidarı Sarsan Anket Açıklandı! AKP'nin Kalesi Kayseri'de Özgür Özel'den Gövde Gösterisi</description>
+    </item>
+    <item>
+      <title>Halk TV: ERDOĞAN VE KILIÇDAROĞLU YIKILACAK! Kayseri sokakları Özel ile yıkıldı! Tüm dengeler altüst olacak!</title>
+      <link>https://www.youtube.com/watch?v=ZolEQzbRkF0</link>
+      <guid isPermaLink="false">ZolEQzbRkF0</guid>
+      <pubDate>Sat, 29 Aug 2026 19:30:22 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ERDOĞAN VE KILIÇDAROĞLU YIKILACAK! Kayseri sokakları Özel ile yıkıldı! Tüm dengeler altüst olacak!</description>
+    </item>
+    <item>
+      <title>Halk TV: Kayseri'de bir vatandaş: Bu seçimde sandıklarınıza sahip çıkın başkanım!</title>
+      <link>https://www.youtube.com/shorts/H6lY84sPJaM</link>
+      <guid isPermaLink="false">H6lY84sPJaM</guid>
+      <pubDate>Sat, 29 Aug 2026 19:30:18 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Kayseri'de bir vatandaş: Bu seçimde sandıklarınıza sahip çıkın başkanım!</description>
+    </item>
+    <item>
+      <title>Halk TV: Özgür Özel, kalabalıkta sıkışan muhabiri kurtarmaya çalıştı!</title>
+      <link>https://www.youtube.com/shorts/1y72VQhJdgo</link>
+      <guid isPermaLink="false">1y72VQhJdgo</guid>
+      <pubDate>Sat, 29 Aug 2026 19:30:17 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Özgür Özel, kalabalıkta sıkışan muhabiri kurtarmaya çalıştı!</description>
     </item>
     <item>
       <title>Halk TV: MEHMET AKİF ERSOY ŞİKAYET ETMİŞTİ! Tahliye vaadiyle para talep eden 1'i avukat 4 kişi tutuklandı!</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">FWE4TmwbKGs</guid>
       <pubDate>Sat, 29 Aug 2026 13:30:37 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Gülistan Doku Olayında Olay Gelişme! Dalgıç Kayıtlarıyla Oynandı! Emrullah Erdinç Anlattı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Özgür Özel'in Kayseri ziyareti mitinge dönüştü! "ARKAMDAN GELENLERE HELAL OLSUN"</title>
-      <link>https://www.youtube.com/watch?v=7F61HiCYWu4</link>
-      <guid isPermaLink="false">7F61HiCYWu4</guid>
-      <pubDate>Sat, 29 Aug 2026 13:18:26 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Özgür Özel'in Kayseri ziyareti mitinge dönüştü! "ARKAMDAN GELENLERE HELAL OLSUN"</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Millet Caddesi'nde esnafı ziyaret ediyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=QgaDgAcTi4o</link>
-      <guid isPermaLink="false">QgaDgAcTi4o</guid>
-      <pubDate>Sat, 29 Aug 2026 13:18:09 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Millet Caddesi'nde esnafı ziyaret ediyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: Serhan Başbahçıvan ile Öğle Haberleri (29 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=iik6XjD1Wt8</link>
-      <guid isPermaLink="false">iik6XjD1Wt8</guid>
-      <pubDate>Sat, 29 Aug 2026 13:06:31 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Serhan Başbahçıvan ile Öğle Haberleri (29 Ağustos 2026)</description>
     </item>
   </channel>
 </rss>
