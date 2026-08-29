@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 16:45:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 16:50:37 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Burçin Atılgan ile Gündem Özel | #Halktv</title>
+      <link>https://www.youtube.com/watch?v=2Z184r_z-vI</link>
+      <guid isPermaLink="false">2Z184r_z-vI</guid>
+      <pubDate>Sat, 29 Aug 2026 16:48:52 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Burçin Atılgan ile Gündem Özel | #Halktv</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Türkiye'nin Dibinde Sinsi İttifak! Yunanistan Savunmayı Devretti! İsrail Füzeleri Ege'de</title>
       <link>https://www.youtube.com/watch?v=E-u13MpExo8</link>
@@ -15,11 +22,11 @@
       <description>SÖZCÜ TV kanalından yeni video: Türkiye'nin Dibinde Sinsi İttifak! Yunanistan Savunmayı Devretti! İsrail Füzeleri Ege'de</description>
     </item>
     <item>
-      <title>Halk TV: SARAY VE GENEL MERKEZİ KİLİTLEYECEK! Özgür Özel'den yeri yerinden oynatacak mesajı verdi! Olay olur!</title>
+      <title>Halk TV: SARAY VE GENEL MERKEZİ KİLİTLEYECEK! Özgür Özel yeri yerinden oynatacak mesajı verdi! Olay olacak!</title>
       <link>https://www.youtube.com/watch?v=sEZCvP53fII</link>
       <guid isPermaLink="false">sEZCvP53fII</guid>
       <pubDate>Sat, 29 Aug 2026 16:40:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SARAY VE GENEL MERKEZİ KİLİTLEYECEK! Özgür Özel'den yeri yerinden oynatacak mesajı verdi! Olay olur!</description>
+      <description>Halk TV kanalından yeni video: SARAY VE GENEL MERKEZİ KİLİTLEYECEK! Özgür Özel yeri yerinden oynatacak mesajı verdi! Olay olacak!</description>
     </item>
     <item>
       <title>Halk TV: Antalya- Seydikemer'de Çıkan Yangın Kaş'ta Ormana Sıçradı! Söndürme Çalışmaları Sürüyor!</title>
@@ -127,11 +134,11 @@
       <description>SÖZCÜ TV kanalından yeni video: Haber Bülteni | Gülinay Selçuk | 29 Ağustos</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | Gülşah Ekinci ile Hafta Sonu Ana Haber | #geçim</title>
+      <title>Halk TV: Gülşah Ekinci ile Hafta Sonu Ana Haber (29 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=wGduotKbgP4</link>
       <guid isPermaLink="false">wGduotKbgP4</guid>
       <pubDate>Sat, 29 Aug 2026 14:39:59 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Gülşah Ekinci ile Hafta Sonu Ana Haber | #geçim</description>
+      <description>Halk TV kanalından yeni video: Gülşah Ekinci ile Hafta Sonu Ana Haber (29 Ağustos 2026)</description>
     </item>
     <item>
       <title>Cumhuriyet: Çal'da 4 Rakip Firma Nasıl Yol Arkadaşı Oldu? | Özgür Ulusoy ile Çal Bağ Yolu’nda</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">AFngLf2MHzg</guid>
       <pubDate>Sat, 29 Aug 2026 12:25:46 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Yurttaşlar, yaşadıklarını, ekonomik bunalım, işsizlik ve barınma sorunlarını Özgür Özel'e anlattı!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: 70 yaşındaki Kayserili teyze Özgür Özel'e dert yandı: İş bulsam ben de çalışırım</title>
-      <link>https://www.youtube.com/shorts/FehA5iyfUyo</link>
-      <guid isPermaLink="false">FehA5iyfUyo</guid>
-      <pubDate>Sat, 29 Aug 2026 12:13:45 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: 70 yaşındaki Kayserili teyze Özgür Özel'e dert yandı: İş bulsam ben de çalışırım</description>
     </item>
   </channel>
 </rss>
