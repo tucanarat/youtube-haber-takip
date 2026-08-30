@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 08:10:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 08:15:29 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Cumhurbaşkanı Erdoğan Ve Devlet Erkanı Anıtkabir'de!</title>
+      <link>https://www.youtube.com/watch?v=SxBdXe01BO0</link>
+      <guid isPermaLink="false">SxBdXe01BO0</guid>
+      <pubDate>Sun, 30 Aug 2026 08:05:13 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Cumhurbaşkanı Erdoğan Ve Devlet Erkanı Anıtkabir'de!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: 30 Ağustos Zafer Bayramı dolayısıyla Diyarbakır Valiliği önünde kutlama programı düzenleniyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=vtC_iUsuODU</link>
       <guid isPermaLink="false">vtC_iUsuODU</guid>
       <pubDate>Sun, 30 Aug 2026 08:00:49 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: 30 Ağustos Zafer Bayramı dolayısıyla Diyarbakır Valiliği önünde kutlama programı düzenleniyor #Canlı</description>
+    </item>
+    <item>
+      <title>Halk TV: CUMHUR'UN TEMELLERİNİ YERİNDEN OYNATTI! Özgür Özel, Erdoğan ve Bahçeli'nin kalesini yıktı! Şok rest!</title>
+      <link>https://www.youtube.com/watch?v=xdxCAShPQiU</link>
+      <guid isPermaLink="false">xdxCAShPQiU</guid>
+      <pubDate>Sun, 30 Aug 2026 08:00:37 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: CUMHUR'UN TEMELLERİNİ YERİNDEN OYNATTI! Özgür Özel, Erdoğan ve Bahçeli'nin kalesini yıktı! Şok rest!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: GÖKÇEKLERİN GİZLİ SERVETİ! Murat Ağırel Belge Belge İfşa Etti! Melih Gökçek'in Almanya'daki Sırrı!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">un38S8j0FbY</guid>
       <pubDate>Sat, 29 Aug 2026 21:00:09 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İktidarın İmamoğlu ve Mansur Yavaş Korkusu! Özgür Özel Düğmeye Bastı! Siyasette Fırtına</description>
-    </item>
-    <item>
-      <title>Halk TV: AKP SON DÜZLÜKTE! Ortaya çıkan bu iddialar kıyameti kopartır! Bahadır Özgür perde arkasını araladı!</title>
-      <link>https://www.youtube.com/watch?v=VVPQgoPd1r0</link>
-      <guid isPermaLink="false">VVPQgoPd1r0</guid>
-      <pubDate>Sat, 29 Aug 2026 20:55:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: AKP SON DÜZLÜKTE! Ortaya çıkan bu iddialar kıyameti kopartır! Bahadır Özgür perde arkasını araladı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Masada Ne Var? | Burak Tatari | 29 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=-Xodt8jypbg</link>
-      <guid isPermaLink="false">-Xodt8jypbg</guid>
-      <pubDate>Sat, 29 Aug 2026 20:42:32 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Masada Ne Var? | Burak Tatari | 29 Ağustos</description>
     </item>
   </channel>
 </rss>
