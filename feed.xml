@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 10:20:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 10:25:25 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: TÜM TÜRKİYE'Yİ SARSMIŞTI, MASAK DÜĞMEYE BASTI! Şeytantepe dosyasında 31 kişinin hesabı incelenecek!</title>
+      <link>https://www.youtube.com/watch?v=zbs9y0SKWho</link>
+      <guid isPermaLink="false">zbs9y0SKWho</guid>
+      <pubDate>Sun, 30 Aug 2026 10:20:21 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: TÜM TÜRKİYE'Yİ SARSMIŞTI, MASAK DÜĞMEYE BASTI! Şeytantepe dosyasında 31 kişinin hesabı incelenecek!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Yurttaşlar 30 Ağustos Zafer Bayramı'nda Ata'nın huzurunda #Canlı</title>
       <link>https://www.youtube.com/watch?v=m4s9R8zpAog</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Ypobu2yo26Y</guid>
       <pubDate>Sun, 30 Aug 2026 07:52:18 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: 30 Ağustos Zafer Bayramı, İstanbul Vatan Caddesi'nde kutlama töreni</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: 'Şimşek de baskılara dayanamadı' Sermayeye kredi muslukları yeniden açıldı! Fatura kime çıkacak?</title>
-      <link>https://www.youtube.com/watch?v=kLvHvVwqwk4</link>
-      <guid isPermaLink="false">kLvHvVwqwk4</guid>
-      <pubDate>Sun, 30 Aug 2026 07:47:50 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: 'Şimşek de baskılara dayanamadı' Sermayeye kredi muslukları yeniden açıldı! Fatura kime çıkacak?</description>
     </item>
   </channel>
 </rss>
