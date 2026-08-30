@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 00:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 01:00:53 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: #CANLI Özgür Özel'e Kayseri'de yoğun ilgi...</title>
+      <link>https://www.youtube.com/watch?v=d6bajpHM_N8</link>
+      <guid isPermaLink="false">d6bajpHM_N8</guid>
+      <pubDate>Sun, 30 Aug 2026 00:57:58 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI Özgür Özel'e Kayseri'de yoğun ilgi...</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: DEM Parti Eş Genel Başkanı Tuncer Bakırhan, Şanlıurfa'daki halk toplantısında konuşuyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=LCG58LKoQqs</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">sEZCvP53fII</guid>
       <pubDate>Sat, 29 Aug 2026 16:40:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SARAY VE GENEL MERKEZİ KİLİTLEYECEK! Özgür Özel yeri yerinden oynatacak mesajı verdi! Olay olacak!</description>
-    </item>
-    <item>
-      <title>Halk TV: Antalya- Seydikemer'de Çıkan Yangın Kaş'ta Ormana Sıçradı! Söndürme Çalışmaları Sürüyor!</title>
-      <link>https://www.youtube.com/watch?v=i7JSwJlryV8</link>
-      <guid isPermaLink="false">i7JSwJlryV8</guid>
-      <pubDate>Sat, 29 Aug 2026 16:21:46 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Antalya- Seydikemer'de Çıkan Yangın Kaş'ta Ormana Sıçradı! Söndürme Çalışmaları Sürüyor!</description>
     </item>
   </channel>
 </rss>
