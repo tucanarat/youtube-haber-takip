@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 12:35:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 12:40:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SON DAKİKA! GİRNE’DE ÖLÜ SAYISI 6’YA YÜKSELDİ, YÜZLERCE KİŞİYE ULAŞILAMIYOR! Can pazarı sürüyor!</title>
+      <link>https://www.youtube.com/watch?v=MBgqaPxl17Q</link>
+      <guid isPermaLink="false">MBgqaPxl17Q</guid>
+      <pubDate>Sun, 30 Aug 2026 12:40:00 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! GİRNE’DE ÖLÜ SAYISI 6’YA YÜKSELDİ, YÜZLERCE KİŞİYE ULAŞILAMIYOR! Can pazarı sürüyor!</description>
+    </item>
+    <item>
+      <title>Halk TV: Özgür Özel tam kalkacakken teyzenin ayran ikramını geri çevirmedi!</title>
+      <link>https://www.youtube.com/shorts/dvz227nK55Y</link>
+      <guid isPermaLink="false">dvz227nK55Y</guid>
+      <pubDate>Sun, 30 Aug 2026 12:30:33 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Özgür Özel tam kalkacakken teyzenin ayran ikramını geri çevirmedi!</description>
+    </item>
     <item>
       <title>Halk TV: MİLYONLARIN GÖZÜ KULAĞI GİRNE'DE! KKTC Cumhurbaşkanı bölgeye intikal ediyor! Görüntüler korkunç!</title>
       <link>https://www.youtube.com/watch?v=kjLbXFMg9F0</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">MPxz4XiiqHc</guid>
       <pubDate>Sun, 30 Aug 2026 09:29:33 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Hatıralar ışığında 30 Ağustos - Tolga Aydoğan</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Gerçek kumandan kimdir? - Ahmet Tan</title>
-      <link>https://www.youtube.com/watch?v=6Q6eZBO3euw</link>
-      <guid isPermaLink="false">6Q6eZBO3euw</guid>
-      <pubDate>Sun, 30 Aug 2026 09:29:31 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Gerçek kumandan kimdir? - Ahmet Tan</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Emperyalizmle mücadele (12) - Emre Kongar</title>
-      <link>https://www.youtube.com/watch?v=-1IdUbnFsxg</link>
-      <guid isPermaLink="false">-1IdUbnFsxg</guid>
-      <pubDate>Sun, 30 Aug 2026 09:29:13 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Emperyalizmle mücadele (12) - Emre Kongar</description>
     </item>
   </channel>
 </rss>
