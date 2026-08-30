@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 15:45:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 15:50:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: BU KEZ SLOGAN YOK, ALKIŞ VAR! Erdoğan’ın Anıtkabir ziyaretinde ezber bozan görüntüler!</title>
+      <link>https://www.youtube.com/watch?v=YFpUnlt9C34</link>
+      <guid isPermaLink="false">YFpUnlt9C34</guid>
+      <pubDate>Sun, 30 Aug 2026 15:40:26 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BU KEZ SLOGAN YOK, ALKIŞ VAR! Erdoğan’ın Anıtkabir ziyaretinde ezber bozan görüntüler!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İdam Fermanından Başkomutanlığa! Atatürk'ün Ülkelere İlham Olan Büyük Direnişi | Naim Babüroğlu</title>
       <link>https://www.youtube.com/watch?v=L-eCgmjgLvs</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">RWbXrE3C4a0</guid>
       <pubDate>Sun, 30 Aug 2026 11:30:19 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Yolcuların Kamerasından Facia! 267 Kişilik Gemi Sulara Gömülürken Yaşanan Panik</description>
-    </item>
-    <item>
-      <title>Halk TV: ATA’NIN HUZURUNDA MAHŞERİ KALABALIK! 30 Ağustos coşkusu sel oldu aktı! Bu sözler yürekleri ısıtacak!</title>
-      <link>https://www.youtube.com/watch?v=7MxMdYov4tU</link>
-      <guid isPermaLink="false">7MxMdYov4tU</guid>
-      <pubDate>Sun, 30 Aug 2026 11:25:04 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ATA’NIN HUZURUNDA MAHŞERİ KALABALIK! 30 Ağustos coşkusu sel oldu aktı! Bu sözler yürekleri ısıtacak!</description>
     </item>
   </channel>
 </rss>
