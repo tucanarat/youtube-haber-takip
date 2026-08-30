@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 20:30:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 20:35:26 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Masada Ne Var? | Burak Tatari | 30 Ağustos</title>
+      <link>https://www.youtube.com/watch?v=ML9GkoYxG1k</link>
+      <guid isPermaLink="false">ML9GkoYxG1k</guid>
+      <pubDate>Sun, 30 Aug 2026 20:34:24 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Masada Ne Var? | Burak Tatari | 30 Ağustos</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Geminin Batan Anlar İlk Kez Yayınlandı! Girne'deki Faciada Neler Yaşandı? Tüyler Ürperten Detay</title>
+      <link>https://www.youtube.com/watch?v=wtfvN1RFbBA</link>
+      <guid isPermaLink="false">wtfvN1RFbBA</guid>
+      <pubDate>Sun, 30 Aug 2026 20:30:14 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Geminin Batan Anlar İlk Kez Yayınlandı! Girne'deki Faciada Neler Yaşandı? Tüyler Ürperten Detay</description>
+    </item>
     <item>
       <title>Halk TV: Son görüntüleri gece yarısı kayda girdi! 3 kardeşin babası günler sonrası çarpıcı bilgiler verdi!</title>
       <link>https://www.youtube.com/watch?v=LJvSYCCQTwg</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">ju99IFsn-C0</guid>
       <pubDate>Sun, 30 Aug 2026 14:30:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Öner Döşer'den 12 Burca Kritik Uyarı! Doğum Haritanızdaki Sırrı Öner Döşer Çözüyor</description>
-    </item>
-    <item>
-      <title>Halk TV: DUYMAYA YÜREK DAYANMAZ! Girne'de alabora olan gemiden kurtulan yolcular yaşadıkları dehşeti anlattı!</title>
-      <link>https://www.youtube.com/watch?v=wnfs-0VdgZ0</link>
-      <guid isPermaLink="false">wnfs-0VdgZ0</guid>
-      <pubDate>Sun, 30 Aug 2026 14:25:38 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: DUYMAYA YÜREK DAYANMAZ! Girne'de alabora olan gemiden kurtulan yolcular yaşadıkları dehşeti anlattı!</description>
-    </item>
-    <item>
-      <title>Halk TV: İŞTE, BATMA ANINDA GEMİDE YAŞANAN DEHŞET ANLARI!</title>
-      <link>https://www.youtube.com/shorts/wnWgYDUdk3Q</link>
-      <guid isPermaLink="false">wnWgYDUdk3Q</guid>
-      <pubDate>Sun, 30 Aug 2026 14:10:23 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İŞTE, BATMA ANINDA GEMİDE YAŞANAN DEHŞET ANLARI!</description>
     </item>
   </channel>
 </rss>
