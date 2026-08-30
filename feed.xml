@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 17:10:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 17:15:32 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Cumhurbaşkanı Erdoğan, 30 Ağustos Zafer Bayramı Özel Programı'nda konuşuyor #Canlı,</title>
+      <link>https://www.youtube.com/watch?v=2iEiYQqzs9w</link>
+      <guid isPermaLink="false">2iEiYQqzs9w</guid>
+      <pubDate>Sun, 30 Aug 2026 17:13:18 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Cumhurbaşkanı Erdoğan, 30 Ağustos Zafer Bayramı Özel Programı'nda konuşuyor #Canlı,</description>
+    </item>
     <item>
       <title>Halk TV: Genel merkezde çalışmalar tamamlandı... Utku Çakırözer, üye sayısını Halk TV’ye açıkladı!</title>
       <link>https://www.youtube.com/watch?v=pPdneyIYcds</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">dvz227nK55Y</guid>
       <pubDate>Sun, 30 Aug 2026 12:30:33 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Özel tam kalkacakken teyzenin ayran ikramını geri çevirmedi!</description>
-    </item>
-    <item>
-      <title>Halk TV: MİLYONLARIN GÖZÜ KULAĞI GİRNE'DE! KKTC Cumhurbaşkanı bölgeye intikal ediyor! Görüntüler korkunç!</title>
-      <link>https://www.youtube.com/watch?v=kjLbXFMg9F0</link>
-      <guid isPermaLink="false">kjLbXFMg9F0</guid>
-      <pubDate>Sun, 30 Aug 2026 12:25:04 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: MİLYONLARIN GÖZÜ KULAĞI GİRNE'DE! KKTC Cumhurbaşkanı bölgeye intikal ediyor! Görüntüler korkunç!</description>
     </item>
   </channel>
 </rss>
