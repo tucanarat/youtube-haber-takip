@@ -19041,7 +19041,7 @@
   },
   "XxckStBWXuU": {
     "id": "XxckStBWXuU",
-    "title": "Haber Bülteni | Gülinay Selçuk",
+    "title": "#CANLI Haber Bülteni | Gülinay Selçuk",
     "link": "https://www.youtube.com/watch?v=XxckStBWXuU",
     "published": "2026-08-29T22:57:47+00:00",
     "published_ts": 1788044267,
@@ -19441,10 +19441,10 @@
   },
   "xi4swJ7xbeM": {
     "id": "xi4swJ7xbeM",
-    "title": "#CANLI | Cumhurbaşkanı Erdoğan, Zafer Bayramı Tebriklerini Kabul Ediyor!",
+    "title": "Cumhurbaşkanı Erdoğan, Zafer Bayramı Tebriklerini Kabul Etti!",
     "link": "https://www.youtube.com/watch?v=xi4swJ7xbeM",
-    "published": "2026-08-30T09:31:42+00:00",
-    "published_ts": 1788082302,
+    "published": "2026-08-30T10:00:13+00:00",
+    "published_ts": 1788084013,
     "channel_name": "Halk TV"
   },
   "btRwqVlxP3Q": {
@@ -19542,5 +19542,45 @@
     "published": "2026-08-30T09:43:45+00:00",
     "published_ts": 1788083025,
     "channel_name": "ANKA Haber Ajansı"
+  },
+  "HrUNelVRoOs": {
+    "id": "HrUNelVRoOs",
+    "title": "Putin'in Gizli Şanghay Planı! NATO'yu Alarma Geçiren İddia! Rusya O Ülkeye Saldıracak! | İkbal Dürre",
+    "link": "https://www.youtube.com/watch?v=HrUNelVRoOs",
+    "published": "2026-08-30T10:00:06+00:00",
+    "published_ts": 1788084006,
+    "channel_name": "SÖZCÜ TV"
+  },
+  "EHrko0KvlGU": {
+    "id": "EHrko0KvlGU",
+    "title": "#CANLI | Serhan Başbahçıvan ile Öğle Haberleri",
+    "link": "https://www.youtube.com/watch?v=EHrko0KvlGU",
+    "published": "2026-08-30T09:27:16+00:00",
+    "published_ts": 1788082036,
+    "channel_name": "Halk TV"
+  },
+  "6ZVZTZcyu1U": {
+    "id": "6ZVZTZcyu1U",
+    "title": "#CANLI | DEM Parti Eş Genel Başkanı Tülay Hatimoğulları, İzmir'de halk buluşmasında konuşuyor",
+    "link": "https://www.youtube.com/watch?v=6ZVZTZcyu1U",
+    "published": "2026-08-30T09:56:32+00:00",
+    "published_ts": 1788083792,
+    "channel_name": "Halk TV"
+  },
+  "cJrUlXRQ87c": {
+    "id": "cJrUlXRQ87c",
+    "title": "Özlem Gültekin’in ölümünde yeni iddialar! Erhan çelik o iddiaya ateş püskürdü!",
+    "link": "https://www.youtube.com/watch?v=cJrUlXRQ87c",
+    "published": "2026-08-30T10:00:32+00:00",
+    "published_ts": 1788084032,
+    "channel_name": "Halk TV"
+  },
+  "P37WgVsqj_Y": {
+    "id": "P37WgVsqj_Y",
+    "title": "Melih Gökçek hakkında soruşturma başlatıldı! Hüsnü Mahalli'den çok kritik yorum...",
+    "link": "https://www.youtube.com/watch?v=P37WgVsqj_Y",
+    "published": "2026-08-30T10:00:19+00:00",
+    "published_ts": 1788084019,
+    "channel_name": "Tele2 Haber"
   }
 }
