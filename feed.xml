@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 14:55:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 15:00:49 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Işın Eliçin ile Sınırsız (30 Ağustos 2026)</title>
+      <link>https://www.youtube.com/watch?v=kR6BykEqrr0</link>
+      <guid isPermaLink="false">kR6BykEqrr0</guid>
+      <pubDate>Sun, 30 Aug 2026 14:56:58 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Işın Eliçin ile Sınırsız (30 Ağustos 2026)</description>
+    </item>
+    <item>
+      <title>Halk TV: YENİ DETAYLAR GELMEYE DEVAM EDİYOR! Girne'deki gemi tamamen sulara gömülmüş! Bölgeden son durum!</title>
+      <link>https://www.youtube.com/watch?v=rGRDEGpfdqs</link>
+      <guid isPermaLink="false">rGRDEGpfdqs</guid>
+      <pubDate>Sun, 30 Aug 2026 14:55:06 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YENİ DETAYLAR GELMEYE DEVAM EDİYOR! Girne'deki gemi tamamen sulara gömülmüş! Bölgeden son durum!</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Gülşah Ekinci ile Hafta Sonu Ana Haber</title>
       <link>https://www.youtube.com/watch?v=OxYSEzfu3Hg</link>
@@ -160,13 +174,6 @@
       <guid isPermaLink="false">NJGwYYxRApE</guid>
       <pubDate>Sun, 30 Aug 2026 12:59:12 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Girne açıklarında 267 kişiyi taşıyan yolcu gemisi battı: Hayatını kaybedenler var</description>
-    </item>
-    <item>
-      <title>Halk TV: Işın Eliçin ile Sınırsız (30 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=kR6BykEqrr0</link>
-      <guid isPermaLink="false">kR6BykEqrr0</guid>
-      <pubDate>Sun, 30 Aug 2026 12:53:26 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Işın Eliçin ile Sınırsız (30 Ağustos 2026)</description>
     </item>
     <item>
       <title>Halk TV: ‘GEMİDE DELİK VARDI’ İDDİASI! Girne’deki facia göz göre göre gelmiş! Nazar Erişkin’den şok bilgiler!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">rXXhw8D1EuU</guid>
       <pubDate>Sun, 30 Aug 2026 11:10:07 +0000</pubDate>
       <description>Halk TV kanalından yeni video: GENEL MERKEZ KARANLIĞA GÖMÜLECEK! Özgür Özel felç edecek o hamleyi yarın yapıyor! Hesaplar şaşacak!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: DENİZİN ORTASINDA CAN PAZARI! Girne Açıklarında 267 Kişilik Yolcu Gemisi Battı! İşte İlk Görüntüler!</title>
-      <link>https://www.youtube.com/watch?v=RLsxarIPSa4</link>
-      <guid isPermaLink="false">RLsxarIPSa4</guid>
-      <pubDate>Sun, 30 Aug 2026 11:03:10 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: DENİZİN ORTASINDA CAN PAZARI! Girne Açıklarında 267 Kişilik Yolcu Gemisi Battı! İşte İlk Görüntüler!</description>
     </item>
   </channel>
 </rss>
