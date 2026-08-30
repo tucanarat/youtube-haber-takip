@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 06:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 06:10:33 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: 30 Ağustos Zafer Bayramı dolayısıyla Beşiktaş'ta törenler düzenleniyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=XfCSzCamuWc</link>
+      <guid isPermaLink="false">XfCSzCamuWc</guid>
+      <pubDate>Sun, 30 Aug 2026 05:58:36 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: 30 Ağustos Zafer Bayramı dolayısıyla Beşiktaş'ta törenler düzenleniyor #Canlı</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: 30 Ağustos Zafer Bayramı dolayısıyla Taksim Cumhuriyet Anıtı'nda tören düzenleniyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=IrFp7CocI-U</link>
+      <guid isPermaLink="false">IrFp7CocI-U</guid>
+      <pubDate>Sun, 30 Aug 2026 05:53:10 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: 30 Ağustos Zafer Bayramı dolayısıyla Taksim Cumhuriyet Anıtı'nda tören düzenleniyor #Canlı</description>
+    </item>
     <item>
       <title>Cumhuriyet: #CANLI Özgür Özel'e Kayseri'de yoğun ilgi...</title>
       <link>https://www.youtube.com/watch?v=d6bajpHM_N8</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">wGduotKbgP4</guid>
       <pubDate>Sat, 29 Aug 2026 16:55:03 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Gülşah Ekinci ile Hafta Sonu Ana Haber (29 Ağustos 2026)</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Hafta Sonu Ana Haber | Senem Toluay Ilgaz | 29 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=LxwOLPH4h3k</link>
-      <guid isPermaLink="false">LxwOLPH4h3k</guid>
-      <pubDate>Sat, 29 Aug 2026 16:52:20 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Hafta Sonu Ana Haber | Senem Toluay Ilgaz | 29 Ağustos</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Türkiye'nin Dibinde Sinsi İttifak! Yunanistan Savunmayı Devretti! İsrail Füzeleri Ege'de</title>
-      <link>https://www.youtube.com/watch?v=E-u13MpExo8</link>
-      <guid isPermaLink="false">E-u13MpExo8</guid>
-      <pubDate>Sat, 29 Aug 2026 16:40:10 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Türkiye'nin Dibinde Sinsi İttifak! Yunanistan Savunmayı Devretti! İsrail Füzeleri Ege'de</description>
     </item>
   </channel>
 </rss>
