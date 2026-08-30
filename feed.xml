@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 22:01:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 22:05:25 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Cumhurbaşkanı Erdoğan, Zafer Bayramı tebriklerini kabul ediyor / Ankara #Canlı</title>
+      <link>https://www.youtube.com/watch?v=v2B2DqzqKMo</link>
+      <guid isPermaLink="false">v2B2DqzqKMo</guid>
+      <pubDate>Sun, 30 Aug 2026 22:04:41 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Cumhurbaşkanı Erdoğan, Zafer Bayramı tebriklerini kabul ediyor / Ankara #Canlı</description>
+    </item>
+    <item>
+      <title>Halk TV: Manavgat’ta orman yangını! Havadan ve karadan müdahale ediliyor! #shorts</title>
+      <link>https://www.youtube.com/shorts/j0vRldQ8nKk</link>
+      <guid isPermaLink="false">j0vRldQ8nKk</guid>
+      <pubDate>Sun, 30 Aug 2026 22:00:00 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Manavgat’ta orman yangını! Havadan ve karadan müdahale ediliyor! #shorts</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: #CANLI Samsunspor - Fenerbahçe Maçı | Maç Varsa Erman Hoca Var | Erman Toroğlu</title>
       <link>https://www.youtube.com/watch?v=aQlyFo3hG8s</link>
@@ -15,11 +29,11 @@
       <description>SÖZCÜ TV kanalından yeni video: #CANLI Samsunspor - Fenerbahçe Maçı | Maç Varsa Erman Hoca Var | Erman Toroğlu</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | Sinem Fıstıkoğlu ile Sansürsüz</title>
+      <title>Halk TV: Sinem Fıstıkoğlu ile Sansürsüz (30 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=eIfKhX5x4yA</link>
       <guid isPermaLink="false">eIfKhX5x4yA</guid>
       <pubDate>Sun, 30 Aug 2026 21:54:05 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Sinem Fıstıkoğlu ile Sansürsüz</description>
+      <description>Halk TV kanalından yeni video: Sinem Fıstıkoğlu ile Sansürsüz (30 Ağustos 2026)</description>
     </item>
     <item>
       <title>Halk TV: MELİH GÖKÇEK SORUŞTURMASI DERİNLEŞİYOR! Bahadır Özgür tek tek anlattı</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">nMD8_uqc1Is</guid>
       <pubDate>Sun, 30 Aug 2026 16:30:26 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: AKP'de Kavala Çatlağı! Tuğrul Türkeş'ten Mehmet Uçum'a Zehir Zemberek Sözler</description>
-    </item>
-    <item>
-      <title>Halk TV: Cem Yılmaz’ın hastane görüntüsü ortaya çıktı! Doktorundan ilk açıklama geldi!</title>
-      <link>https://www.youtube.com/watch?v=h7ThupT3I4I</link>
-      <guid isPermaLink="false">h7ThupT3I4I</guid>
-      <pubDate>Sun, 30 Aug 2026 16:20:35 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Cem Yılmaz’ın hastane görüntüsü ortaya çıktı! Doktorundan ilk açıklama geldi!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: YENİ Parti İstanbul İl Başkanı Çelik, Bahçelievler'de 30 Ağustos fener alayına katılıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=PYKQuBc3ls8</link>
-      <guid isPermaLink="false">PYKQuBc3ls8</guid>
-      <pubDate>Sun, 30 Aug 2026 16:20:09 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti İstanbul İl Başkanı Çelik, Bahçelievler'de 30 Ağustos fener alayına katılıyor #Canlı</description>
     </item>
   </channel>
 </rss>
