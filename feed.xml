@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 09:00:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 09:05:27 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI Namık Koçak - Hüsnü Mahalli ile Forum 30.08.26</title>
+      <link>https://www.youtube.com/watch?v=jP9XTAoVrek</link>
+      <guid isPermaLink="false">jP9XTAoVrek</guid>
+      <pubDate>Sun, 30 Aug 2026 09:04:40 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Namık Koçak - Hüsnü Mahalli ile Forum 30.08.26</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: "İMAMOĞLU VATAN HAİNİ Mİ?" Hüsnü Mahalli'den Ekrem İmamoğlu'nun yasaklanan 'SAVUNMA' kitabı tepkisi!</title>
+      <link>https://www.youtube.com/watch?v=pD3gJi8-IxE</link>
+      <guid isPermaLink="false">pD3gJi8-IxE</guid>
+      <pubDate>Sun, 30 Aug 2026 09:00:06 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "İMAMOĞLU VATAN HAİNİ Mİ?" Hüsnü Mahalli'den Ekrem İmamoğlu'nun yasaklanan 'SAVUNMA' kitabı tepkisi!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: CHP İstanbul İl Başkanı Gürsel Tekin ilçe başkanlarıyla Cumhuriyet Anıtı'na çelenk bırakıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=UTGfdJCcCmI</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">qGd1yuyaaUQ</guid>
       <pubDate>Sat, 29 Aug 2026 22:30:19 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Netanyahu'nun Büyük Oyunu! Suriye ve İran'ı Karıştıran Strateji! Edgar Şar'dan Çarpıcı Bölge Analizi</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: CHP İstanbul İl Başkanı Gürsel Tekin, İl Başkanlığı'ndaki 30 Ağustos programına katıldı #Canlı</title>
-      <link>https://www.youtube.com/watch?v=ShD_5oxnhMk</link>
-      <guid isPermaLink="false">ShD_5oxnhMk</guid>
-      <pubDate>Sat, 29 Aug 2026 22:20:04 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP İstanbul İl Başkanı Gürsel Tekin, İl Başkanlığı'ndaki 30 Ağustos programına katıldı #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: Burçin Atılgan ile Gündem Özel (29 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=2Z184r_z-vI</link>
-      <guid isPermaLink="false">2Z184r_z-vI</guid>
-      <pubDate>Sat, 29 Aug 2026 22:00:52 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Burçin Atılgan ile Gündem Özel (29 Ağustos 2026)</description>
     </item>
   </channel>
 </rss>
