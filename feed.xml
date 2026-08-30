@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 07:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 07:25:24 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Cemal Enginyurt'un danışmanı Cem Tekinoğlu gözaltına alındı!</title>
+      <link>https://www.youtube.com/shorts/uDQ6Ri48O04</link>
+      <guid isPermaLink="false">uDQ6Ri48O04</guid>
+      <pubDate>Sun, 30 Aug 2026 07:21:56 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Cemal Enginyurt'un danışmanı Cem Tekinoğlu gözaltına alındı!</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: Ağustos Zafer Bayramı dolayısıyla İzmir'de resmi geçit töreni düzenleniyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=c7XAdCPAuQE</link>
+      <guid isPermaLink="false">c7XAdCPAuQE</guid>
+      <pubDate>Sun, 30 Aug 2026 07:19:04 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Ağustos Zafer Bayramı dolayısıyla İzmir'de resmi geçit töreni düzenleniyor #Canlı</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti Şişli ilçe başkanlığı açılışı #Canlı</title>
       <link>https://www.youtube.com/watch?v=sc5Gbq-OJ1Y</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">rzW-MYyfzKA</guid>
       <pubDate>Sat, 29 Aug 2026 19:00:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SARAY’DAKİ DEPREMİN FİTİLİ ATEŞLENDİ! Fikret Bila'dan planları çöpe attıracak detay! Gündem olacak!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: AKP'de Deprem! Erdoğan'ı Korkutan Anket! Tamer Bolat Çarpıcı Sonuçları Açıkladı</title>
-      <link>https://www.youtube.com/watch?v=Xqss4hvWy8I</link>
-      <guid isPermaLink="false">Xqss4hvWy8I</guid>
-      <pubDate>Sat, 29 Aug 2026 19:00:04 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: AKP'de Deprem! Erdoğan'ı Korkutan Anket! Tamer Bolat Çarpıcı Sonuçları Açıkladı</description>
-    </item>
-    <item>
-      <title>Halk TV: ERDOĞAN BUNU ISKALADI! Deniz Tansi'den Saray'ı sarsacak Özgür Özel sözleri! Acı reçeteyi yazdı!</title>
-      <link>https://www.youtube.com/watch?v=dJf7E6hGCDc</link>
-      <guid isPermaLink="false">dJf7E6hGCDc</guid>
-      <pubDate>Sat, 29 Aug 2026 18:40:07 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ERDOĞAN BUNU ISKALADI! Deniz Tansi'den Saray'ı sarsacak Özgür Özel sözleri! Acı reçeteyi yazdı!</description>
     </item>
   </channel>
 </rss>
