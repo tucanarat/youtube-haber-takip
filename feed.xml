@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 20:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 20:40:33 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: Masada Ne Var? | Burak Tatari | 30 Ağustos</title>
       <link>https://www.youtube.com/watch?v=ML9GkoYxG1k</link>
       <guid isPermaLink="false">ML9GkoYxG1k</guid>
       <pubDate>Sun, 30 Aug 2026 20:34:24 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Masada Ne Var? | Burak Tatari | 30 Ağustos</description>
+    </item>
+    <item>
+      <title>Halk TV: AKP’nin seçim planına Erdal Sağlam’dan sert yorum! Özel sektöre ucuz kredi desteğinin perde arkası!</title>
+      <link>https://www.youtube.com/watch?v=jSGyD0fNyRw</link>
+      <guid isPermaLink="false">jSGyD0fNyRw</guid>
+      <pubDate>Sun, 30 Aug 2026 20:30:19 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: AKP’nin seçim planına Erdal Sağlam’dan sert yorum! Özel sektöre ucuz kredi desteğinin perde arkası!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Geminin Batan Anlar İlk Kez Yayınlandı! Girne'deki Faciada Neler Yaşandı? Tüyler Ürperten Detay</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">2eQKXL7H3GE</guid>
       <pubDate>Sun, 30 Aug 2026 14:35:05 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BATAN GEMİYE İLİŞKİN KAHREDEN GERÇEK ORTAYA ÇIKTI! Rasih Reşat neler anlattı neler! Meğer aylarca...</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Öner Döşer'den 12 Burca Kritik Uyarı! Doğum Haritanızdaki Sırrı Öner Döşer Çözüyor</title>
-      <link>https://www.youtube.com/watch?v=ju99IFsn-C0</link>
-      <guid isPermaLink="false">ju99IFsn-C0</guid>
-      <pubDate>Sun, 30 Aug 2026 14:30:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Öner Döşer'den 12 Burca Kritik Uyarı! Doğum Haritanızdaki Sırrı Öner Döşer Çözüyor</description>
     </item>
   </channel>
 </rss>
