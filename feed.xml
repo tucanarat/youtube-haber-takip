@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 22:55:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 23:00:56 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: #CANLI Haber Bülteni | Ceylin Çağatay</title>
+      <link>https://www.youtube.com/watch?v=c2tmMvNLErY</link>
+      <guid isPermaLink="false">c2tmMvNLErY</guid>
+      <pubDate>Sun, 30 Aug 2026 22:59:28 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: #CANLI Haber Bülteni | Ceylin Çağatay</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti Kadıköy ilçe başkanlığı açılışı #Canlı</title>
       <link>https://www.youtube.com/watch?v=eTeP_4UpMjc</link>
@@ -90,13 +97,6 @@
       <guid isPermaLink="false">4SFeOZQMuOY</guid>
       <pubDate>Sun, 30 Aug 2026 21:45:15 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Ekrem Açıkel ile Hafta Başı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: #CANLI Haber Bülteni | Ceylin Çağatay</title>
-      <link>https://www.youtube.com/watch?v=c2tmMvNLErY</link>
-      <guid isPermaLink="false">c2tmMvNLErY</guid>
-      <pubDate>Sun, 30 Aug 2026 21:45:00 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: #CANLI Haber Bülteni | Ceylin Çağatay</description>
     </item>
     <item>
       <title>Halk TV: SON DAKİKA! YENİ Partili vekiller feci gemi kazası sonrası Kıbrıs'ta! Başarır'dan kritik bilgiler!</title>
