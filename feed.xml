@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 20:05:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 20:10:33 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Katamaran Faciasında Kan Donduran İddia: Bile Bile Ölüme Mi Gittiler? Uzman İsim Anlattı</title>
+      <link>https://www.youtube.com/watch?v=2S4GlcbTLjU</link>
+      <guid isPermaLink="false">2S4GlcbTLjU</guid>
+      <pubDate>Sun, 30 Aug 2026 20:00:04 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Katamaran Faciasında Kan Donduran İddia: Bile Bile Ölüme Mi Gittiler? Uzman İsim Anlattı</description>
+    </item>
     <item>
       <title>Halk TV: GİRNE AÇIKLARINDA FACİANIN HEMEN ÖNCESİ! Geminin batmadan önceki görüntüleri ortaya çıktı!</title>
       <link>https://www.youtube.com/watch?v=m9XOTwASRLA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">6iHu1qwvO4U</guid>
       <pubDate>Sun, 30 Aug 2026 14:00:32 +0000</pubDate>
       <description>Halk TV kanalından yeni video: "GEMİ DÖNMEMEK İÇİN İNAT ETTİ!" Yolculardan kan donduran iddialar! KKTC CTP Vekili Özuslu anlattı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: FACİADA İHMAL ZİNCİRİ! Fırtınada Sefer İnadı Kazayı Getirdi! Batan Gemideki Çarpıcı Delik Detayı</title>
-      <link>https://www.youtube.com/watch?v=UByalxGirXg</link>
-      <guid isPermaLink="false">UByalxGirXg</guid>
-      <pubDate>Sun, 30 Aug 2026 14:00:08 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: FACİADA İHMAL ZİNCİRİ! Fırtınada Sefer İnadı Kazayı Getirdi! Batan Gemideki Çarpıcı Delik Detayı</description>
     </item>
   </channel>
 </rss>
