@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 22:05:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 22:10:36 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: GİRNE AÇIKLARINDA YOLCU GEMİSİ BATTI! 7 Kişi Hayatını Kaybetti, 23 Kişi Aranıyor! (30 Ağustos 2026)</title>
+      <link>https://www.youtube.com/watch?v=SuHBpeosA20</link>
+      <guid isPermaLink="false">SuHBpeosA20</guid>
+      <pubDate>Sun, 30 Aug 2026 22:08:54 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: GİRNE AÇIKLARINDA YOLCU GEMİSİ BATTI! 7 Kişi Hayatını Kaybetti, 23 Kişi Aranıyor! (30 Ağustos 2026)</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Cumhurbaşkanı Erdoğan, Zafer Bayramı tebriklerini kabul ediyor / Ankara #Canlı</title>
       <link>https://www.youtube.com/watch?v=v2B2DqzqKMo</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">rGButYd9WNg</guid>
       <pubDate>Sun, 30 Aug 2026 16:40:07 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BATAN GEMİDE TEKNİK SORUN İDDİASI GÜNDEMDE! Nazar Erişkin’den Girne’deki gemi kazasına çarpıcı yorum</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: AKP'de Kavala Çatlağı! Tuğrul Türkeş'ten Mehmet Uçum'a Zehir Zemberek Sözler</title>
-      <link>https://www.youtube.com/watch?v=nMD8_uqc1Is</link>
-      <guid isPermaLink="false">nMD8_uqc1Is</guid>
-      <pubDate>Sun, 30 Aug 2026 16:30:26 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: AKP'de Kavala Çatlağı! Tuğrul Türkeş'ten Mehmet Uçum'a Zehir Zemberek Sözler</description>
     </item>
   </channel>
 </rss>
