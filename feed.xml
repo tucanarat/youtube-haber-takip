@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 14:45:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 14:50:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: HER ANI DEHŞET VERİCİ! İşte batma anında yolcu gemisinde yaşanan o yürek yakıcı anlar!</title>
+      <link>https://www.youtube.com/watch?v=o0XurQnS0qI</link>
+      <guid isPermaLink="false">o0XurQnS0qI</guid>
+      <pubDate>Sun, 30 Aug 2026 14:45:37 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: HER ANI DEHŞET VERİCİ! İşte batma anında yolcu gemisinde yaşanan o yürek yakıcı anlar!</description>
+    </item>
     <item>
       <title>Halk TV: BATAN GEMİYE İLİŞKİN KAHREDEN GERÇEK ORTAYA ÇIKTI! Rasih Reşat neler anlattı neler! Meğer aylarca...</title>
       <link>https://www.youtube.com/watch?v=2eQKXL7H3GE</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">tzLHEAG5tTE</guid>
       <pubDate>Sun, 30 Aug 2026 10:47:05 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Parti Kadıköy İlçe Başkanlığı Açılışı! (30 Ağustos 2026)</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI YENİ Parti Kadıköy ilçe başkanlığı açılışı</title>
-      <link>https://www.youtube.com/watch?v=YIf-NQ3Gd8M</link>
-      <guid isPermaLink="false">YIf-NQ3Gd8M</guid>
-      <pubDate>Sun, 30 Aug 2026 10:46:16 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti Kadıköy ilçe başkanlığı açılışı</description>
     </item>
   </channel>
 </rss>
