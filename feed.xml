@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 21:35:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 21:40:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SON DAKİKA! Yeni Partili vekiller feci gemi kazası sonrası Kıbrıs'ta! Başarır'dan kritik bilgiler!</title>
+      <link>https://www.youtube.com/watch?v=ykcdJPNTfK4</link>
+      <guid isPermaLink="false">ykcdJPNTfK4</guid>
+      <pubDate>Sun, 30 Aug 2026 21:30:24 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! Yeni Partili vekiller feci gemi kazası sonrası Kıbrıs'ta! Başarır'dan kritik bilgiler!</description>
+    </item>
     <item>
       <title>Halk TV: SON DAKİKA! 7 mürettebatla birlikte gözaltına alınmıştı... Girne'de batan geminin kaptanı tutuklandı</title>
       <link>https://www.youtube.com/watch?v=Xc0JPK4bFvI</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">l9BlAHSb3CA</guid>
       <pubDate>Sun, 30 Aug 2026 15:26:08 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Milli Savunma Üniversitesi Harp Okulları Diploma Alma ve Sancak Devir Teslim Töreni</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Girne Açıklarında Gemi Faciası! 267 Kişilik Yolcu Gemisi Battı! Katamaran Alabora Oldu!</title>
-      <link>https://www.youtube.com/watch?v=e2jTxw0y5-s</link>
-      <guid isPermaLink="false">e2jTxw0y5-s</guid>
-      <pubDate>Sun, 30 Aug 2026 15:24:14 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Girne Açıklarında Gemi Faciası! 267 Kişilik Yolcu Gemisi Battı! Katamaran Alabora Oldu!</description>
     </item>
   </channel>
 </rss>
