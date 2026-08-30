@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 07:10:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 07:15:30 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Cumhurbaşkanı Erdoğan ve devlet erkanı Anıtkabir'de #Canlı</title>
+      <link>https://www.youtube.com/watch?v=dyIYn1S59Zc</link>
+      <guid isPermaLink="false">dyIYn1S59Zc</guid>
+      <pubDate>Sun, 30 Aug 2026 07:13:36 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Cumhurbaşkanı Erdoğan ve devlet erkanı Anıtkabir'de #Canlı</description>
+    </item>
     <item>
       <title>Cumhuriyet: Kalp krizi geçiren Cem Yılmaz'ın sağlık durumu nasıl? Doktordan ilk açıklama</title>
       <link>https://www.youtube.com/shorts/2F0FRpcIqUc</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">qveudIi9f5w</guid>
       <pubDate>Sat, 29 Aug 2026 18:30:39 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Hüseyin Raşit Yılmaz Eski Defterleri Açtı! Erdoğan'a Seslendi! Tarihi İmamoğlu Çıkışı</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! AYVACIK'TAKİ EVİNDE RAHATSIZLANDI! Ünlü Komedyen Cem Yılmaz hastaneye kaldırıldı!</title>
-      <link>https://www.youtube.com/watch?v=jAzR6j4MTbk</link>
-      <guid isPermaLink="false">jAzR6j4MTbk</guid>
-      <pubDate>Sat, 29 Aug 2026 18:20:07 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! AYVACIK'TAKİ EVİNDE RAHATSIZLANDI! Ünlü Komedyen Cem Yılmaz hastaneye kaldırıldı!</description>
     </item>
   </channel>
 </rss>
