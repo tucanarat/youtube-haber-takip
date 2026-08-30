@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 07:30:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 07:35:23 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: 30 Ağustos Zafer Bayramı dolayısıyla Vatan Caddesi'nde kutlama töreni düzenleniyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=f4RUjhOpK2k</link>
+      <guid isPermaLink="false">f4RUjhOpK2k</guid>
+      <pubDate>Sun, 30 Aug 2026 07:32:06 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: 30 Ağustos Zafer Bayramı dolayısıyla Vatan Caddesi'nde kutlama töreni düzenleniyor #Canlı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Rojin Kabaiş Dosyasında Tüyler Ürperten İddia! Adli Tıp Uzmanı Açıkladı! Ölümündeki Büyük Çelişki</title>
+      <link>https://www.youtube.com/watch?v=QZTH9eSVAgc</link>
+      <guid isPermaLink="false">QZTH9eSVAgc</guid>
+      <pubDate>Sun, 30 Aug 2026 07:30:18 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Rojin Kabaiş Dosyasında Tüyler Ürperten İddia! Adli Tıp Uzmanı Açıkladı! Ölümündeki Büyük Çelişki</description>
+    </item>
     <item>
       <title>Cumhuriyet: 'Yeni Türk devleti’ kurduran zafer! Taksim’de 30 Ağustos töreni...</title>
       <link>https://www.youtube.com/watch?v=z6fJ5yMTrXk</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">H6lY84sPJaM</guid>
       <pubDate>Sat, 29 Aug 2026 19:30:18 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Kayseri'de bir vatandaş: Bu seçimde sandıklarınıza sahip çıkın başkanım!</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel, kalabalıkta sıkışan muhabiri kurtarmaya çalıştı!</title>
-      <link>https://www.youtube.com/shorts/1y72VQhJdgo</link>
-      <guid isPermaLink="false">1y72VQhJdgo</guid>
-      <pubDate>Sat, 29 Aug 2026 19:30:17 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel, kalabalıkta sıkışan muhabiri kurtarmaya çalıştı!</description>
-    </item>
-    <item>
-      <title>Halk TV: MEHMET AKİF ERSOY ŞİKAYET ETMİŞTİ! Tahliye vaadiyle para talep eden 1'i avukat 4 kişi tutuklandı!</title>
-      <link>https://www.youtube.com/watch?v=0eo1N3IEDEo</link>
-      <guid isPermaLink="false">0eo1N3IEDEo</guid>
-      <pubDate>Sat, 29 Aug 2026 19:15:28 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: MEHMET AKİF ERSOY ŞİKAYET ETMİŞTİ! Tahliye vaadiyle para talep eden 1'i avukat 4 kişi tutuklandı!</description>
     </item>
   </channel>
 </rss>
