@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 04:55:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 05:00:50 +0000</lastBuildDate>
     <item>
       <title>Cumhuriyet: #CANLI Özgür Özel'e Kayseri'de yoğun ilgi...</title>
       <link>https://www.youtube.com/watch?v=d6bajpHM_N8</link>
@@ -43,6 +43,13 @@
       <description>SÖZCÜ TV kanalından yeni video: Haber Bülteni | Nagihan Turhan | 30 Ağustos</description>
     </item>
     <item>
+      <title>Halk TV: #CANLI | Nevra Öner ile Hafta Sonu Sabah</title>
+      <link>https://www.youtube.com/watch?v=WlisZfoXP80</link>
+      <guid isPermaLink="false">WlisZfoXP80</guid>
+      <pubDate>Sat, 29 Aug 2026 22:58:46 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Nevra Öner ile Hafta Sonu Sabah</description>
+    </item>
+    <item>
       <title>SÖZCÜ TV: Haber Bülteni | Gülinay Selçuk</title>
       <link>https://www.youtube.com/watch?v=XxckStBWXuU</link>
       <guid isPermaLink="false">XxckStBWXuU</guid>
@@ -57,11 +64,11 @@
       <description>SÖZCÜ TV kanalından yeni video: İyi ki Hafta Sonu | Damla Doğan Tuncel</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: Sabah Kahvesi | Nagihan Turhan</title>
+      <title>SÖZCÜ TV: #CANLI Sabah Kahvesi | Nagihan Turhan</title>
       <link>https://www.youtube.com/watch?v=5hj1jrJU8oo</link>
       <guid isPermaLink="false">5hj1jrJU8oo</guid>
       <pubDate>Sat, 29 Aug 2026 22:56:52 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Sabah Kahvesi | Nagihan Turhan</description>
+      <description>SÖZCÜ TV kanalından yeni video: #CANLI Sabah Kahvesi | Nagihan Turhan</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Netanyahu'nun Büyük Oyunu! Suriye ve İran'ı Karıştıran Strateji! Edgar Şar'dan Çarpıcı Bölge Analizi</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">E-u13MpExo8</guid>
       <pubDate>Sat, 29 Aug 2026 16:40:10 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Türkiye'nin Dibinde Sinsi İttifak! Yunanistan Savunmayı Devretti! İsrail Füzeleri Ege'de</description>
-    </item>
-    <item>
-      <title>Halk TV: SARAY VE GENEL MERKEZİ KİLİTLEYECEK! Özgür Özel yeri yerinden oynatacak mesajı verdi! Olay olacak!</title>
-      <link>https://www.youtube.com/watch?v=sEZCvP53fII</link>
-      <guid isPermaLink="false">sEZCvP53fII</guid>
-      <pubDate>Sat, 29 Aug 2026 16:40:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SARAY VE GENEL MERKEZİ KİLİTLEYECEK! Özgür Özel yeri yerinden oynatacak mesajı verdi! Olay olacak!</description>
     </item>
   </channel>
 </rss>
