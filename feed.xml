@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 22:30:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 22:35:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Nepal'deki selde hayatını kaybedenlerin sayısı 794'e yükseldi! #shorts</title>
+      <link>https://www.youtube.com/shorts/DAnjNnPF9MM</link>
+      <guid isPermaLink="false">DAnjNnPF9MM</guid>
+      <pubDate>Sun, 30 Aug 2026 22:20:26 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Nepal'deki selde hayatını kaybedenlerin sayısı 794'e yükseldi! #shorts</description>
+    </item>
     <item>
       <title>Halk TV: GİRNE AÇIKLARINDA YOLCU GEMİSİ BATTI! 7 Kişi Hayatını Kaybetti, 23 Kişi Aranıyor! (30 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=SuHBpeosA20</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">MatC9ZABnyo</guid>
       <pubDate>Sun, 30 Aug 2026 16:55:05 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Hafta Sonu Ana Haber | Serap Belovacıklı| 30 Ağustos</description>
-    </item>
-    <item>
-      <title>Halk TV: BATAN GEMİDE TEKNİK SORUN İDDİASI GÜNDEMDE! Nazar Erişkin’den Girne’deki gemi kazasına çarpıcı yorum</title>
-      <link>https://www.youtube.com/watch?v=rGButYd9WNg</link>
-      <guid isPermaLink="false">rGButYd9WNg</guid>
-      <pubDate>Sun, 30 Aug 2026 16:40:07 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BATAN GEMİDE TEKNİK SORUN İDDİASI GÜNDEMDE! Nazar Erişkin’den Girne’deki gemi kazasına çarpıcı yorum</description>
     </item>
   </channel>
 </rss>
