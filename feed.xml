@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 17:30:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 17:35:23 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: KİEV'DE YILIN EN KANLI SALDIRISI! Zelenski'den Ağır Misilleme! Putin'i Çıldırtacak Olay</title>
+      <link>https://www.youtube.com/watch?v=PBpcofR-S1o</link>
+      <guid isPermaLink="false">PBpcofR-S1o</guid>
+      <pubDate>Sun, 30 Aug 2026 17:30:02 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: KİEV'DE YILIN EN KANLI SALDIRISI! Zelenski'den Ağır Misilleme! Putin'i Çıldırtacak Olay</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | YENİ Parti İstanbul İl Başkanı Özgür Çelik, 30 Ağustos fener alayına katılıyor</title>
       <link>https://www.youtube.com/watch?v=c6dexO2c698</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">a0qho5N8ji8</guid>
       <pubDate>Sun, 30 Aug 2026 12:49:32 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Girne’de alabora olan gemiden kurtarılan yolcular limana getirildi!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: "Çıkış İzni Yoktu" İddiası! Girne'deki Gemi Faciası Kaza mı İhmal mi? Emekli Amiral'den Acı Tahmin!</title>
-      <link>https://www.youtube.com/watch?v=MVtOSS4unmU</link>
-      <guid isPermaLink="false">MVtOSS4unmU</guid>
-      <pubDate>Sun, 30 Aug 2026 12:43:26 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: "Çıkış İzni Yoktu" İddiası! Girne'deki Gemi Faciası Kaza mı İhmal mi? Emekli Amiral'den Acı Tahmin!</description>
     </item>
   </channel>
 </rss>
