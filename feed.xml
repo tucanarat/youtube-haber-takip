@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 07:25:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 07:30:40 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: 'Yeni Türk devleti’ kurduran zafer! Taksim’de 30 Ağustos töreni...</title>
+      <link>https://www.youtube.com/watch?v=z6fJ5yMTrXk</link>
+      <guid isPermaLink="false">z6fJ5yMTrXk</guid>
+      <pubDate>Sun, 30 Aug 2026 07:22:35 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: 'Yeni Türk devleti’ kurduran zafer! Taksim’de 30 Ağustos töreni...</description>
+    </item>
     <item>
       <title>Halk TV: Cemal Enginyurt'un danışmanı Cem Tekinoğlu gözaltına alındı!</title>
       <link>https://www.youtube.com/shorts/uDQ6Ri48O04</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">0eo1N3IEDEo</guid>
       <pubDate>Sat, 29 Aug 2026 19:15:28 +0000</pubDate>
       <description>Halk TV kanalından yeni video: MEHMET AKİF ERSOY ŞİKAYET ETMİŞTİ! Tahliye vaadiyle para talep eden 1'i avukat 4 kişi tutuklandı!</description>
-    </item>
-    <item>
-      <title>Halk TV: SARAY’DAKİ DEPREMİN FİTİLİ ATEŞLENDİ! Fikret Bila'dan planları çöpe attıracak detay! Gündem olacak!</title>
-      <link>https://www.youtube.com/watch?v=rzW-MYyfzKA</link>
-      <guid isPermaLink="false">rzW-MYyfzKA</guid>
-      <pubDate>Sat, 29 Aug 2026 19:00:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SARAY’DAKİ DEPREMİN FİTİLİ ATEŞLENDİ! Fikret Bila'dan planları çöpe attıracak detay! Gündem olacak!</description>
     </item>
   </channel>
 </rss>
