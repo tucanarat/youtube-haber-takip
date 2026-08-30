@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 15:30:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 15:35:26 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: İdam Fermanından Başkomutanlığa! Atatürk'ün Ülkelere İlham Olan Büyük Direnişi | Naim Babüroğlu</title>
+      <link>https://www.youtube.com/watch?v=L-eCgmjgLvs</link>
+      <guid isPermaLink="false">L-eCgmjgLvs</guid>
+      <pubDate>Sun, 30 Aug 2026 15:30:11 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İdam Fermanından Başkomutanlığa! Atatürk'ün Ülkelere İlham Olan Büyük Direnişi | Naim Babüroğlu</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Milli Savunma Üniversitesi Harp Okulları Diploma Alma ve Sancak Devir Teslim Töreni</title>
       <link>https://www.youtube.com/watch?v=l9BlAHSb3CA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">7MxMdYov4tU</guid>
       <pubDate>Sun, 30 Aug 2026 11:25:04 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ATA’NIN HUZURUNDA MAHŞERİ KALABALIK! 30 Ağustos coşkusu sel oldu aktı! Bu sözler yürekleri ısıtacak!</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | GİRNE AÇIKLARINDA YOLCU GEMİSİ BATTI! 7 Kişi Hayatını Kaybetti, 23 Kişi Aranıyor!</title>
-      <link>https://www.youtube.com/watch?v=SuHBpeosA20</link>
-      <guid isPermaLink="false">SuHBpeosA20</guid>
-      <pubDate>Sun, 30 Aug 2026 11:20:52 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | GİRNE AÇIKLARINDA YOLCU GEMİSİ BATTI! 7 Kişi Hayatını Kaybetti, 23 Kişi Aranıyor!</description>
     </item>
   </channel>
 </rss>
