@@ -6,20 +6,13 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 15:05:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 15:10:34 +0000</lastBuildDate>
     <item>
       <title>Halk TV: YENİ PARTİ GENEL MERKEZ’İ  AÇILIŞA HAZIR!</title>
       <link>https://www.youtube.com/shorts/byAFhCuF9Xg</link>
       <guid isPermaLink="false">byAFhCuF9Xg</guid>
       <pubDate>Sun, 30 Aug 2026 15:03:39 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ PARTİ GENEL MERKEZ’İ  AÇILIŞA HAZIR!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Girne Açıklarında Gemi Faciası! 267 Kişilik Yolcu Gemisi Battı! Katamaran Alabora Oldu!</title>
-      <link>https://www.youtube.com/watch?v=MzXRIIKGG6U</link>
-      <guid isPermaLink="false">MzXRIIKGG6U</guid>
-      <pubDate>Sun, 30 Aug 2026 15:01:54 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Girne Açıklarında Gemi Faciası! 267 Kişilik Yolcu Gemisi Battı! Katamaran Alabora Oldu!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: EGE'DE KIRMIZI ALARM! Yunanistan Türk İHA’sına Karşı F-16 Kaldırdı! Atina'dan Diplomatik Nota!</title>
@@ -244,6 +237,13 @@
       <guid isPermaLink="false">kjLbXFMg9F0</guid>
       <pubDate>Sun, 30 Aug 2026 12:25:04 +0000</pubDate>
       <description>Halk TV kanalından yeni video: MİLYONLARIN GÖZÜ KULAĞI GİRNE'DE! KKTC Cumhurbaşkanı bölgeye intikal ediyor! Görüntüler korkunç!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Girne Açıklarında Gemi Faciası! 267 Kişilik Yolcu Gemisi Battı! Katamaran Alabora Oldu!</title>
+      <link>https://www.youtube.com/watch?v=MzXRIIKGG6U</link>
+      <guid isPermaLink="false">MzXRIIKGG6U</guid>
+      <pubDate>Sun, 30 Aug 2026 12:21:10 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Girne Açıklarında Gemi Faciası! 267 Kişilik Yolcu Gemisi Battı! Katamaran Alabora Oldu!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Gemi Neden Battı? Uzman Kaptandan Çarpıcı İddia! GEMİ BU YÜZDEN BATMIŞ OLABİLİR!</title>
