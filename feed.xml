@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 16:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 16:05:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Listede kimler yok ki... Yakayı ele veren 'Ponzi Mine'nin, savcı ile rüşvet yazışmaları ortaya çıktı</title>
+      <link>https://www.youtube.com/watch?v=wrqPgBsOxdc</link>
+      <guid isPermaLink="false">wrqPgBsOxdc</guid>
+      <pubDate>Sun, 30 Aug 2026 16:00:18 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Listede kimler yok ki... Yakayı ele veren 'Ponzi Mine'nin, savcı ile rüşvet yazışmaları ortaya çıktı</description>
+    </item>
     <item>
       <title>Halk TV: BU KEZ SLOGAN YOK, ALKIŞ VAR! Erdoğan’ın Anıtkabir ziyaretinde ezber bozan görüntüler!</title>
       <link>https://www.youtube.com/watch?v=YFpUnlt9C34</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">DOLZiahO1Dc</guid>
       <pubDate>Sun, 30 Aug 2026 11:34:49 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Girne açıklarında yolcu gemisi battı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Yolcuların Kamerasından Facia! 267 Kişilik Gemi Sulara Gömülürken Yaşanan Panik</title>
-      <link>https://www.youtube.com/watch?v=RWbXrE3C4a0</link>
-      <guid isPermaLink="false">RWbXrE3C4a0</guid>
-      <pubDate>Sun, 30 Aug 2026 11:30:19 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Yolcuların Kamerasından Facia! 267 Kişilik Gemi Sulara Gömülürken Yaşanan Panik</description>
     </item>
   </channel>
 </rss>
