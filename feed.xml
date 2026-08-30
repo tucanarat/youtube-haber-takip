@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 16:45:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 16:48:49 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | YENİ Parti İstanbul İl Başkanı Özgür Çelik, 30 Ağustos fener alayına katılıyor</title>
+      <link>https://www.youtube.com/watch?v=c6dexO2c698</link>
+      <guid isPermaLink="false">c6dexO2c698</guid>
+      <pubDate>Sun, 30 Aug 2026 16:46:54 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti İstanbul İl Başkanı Özgür Çelik, 30 Ağustos fener alayına katılıyor</description>
+    </item>
+    <item>
+      <title>Halk TV: BATAN GEMİDE TEKNİK SORUN İDDİASI GÜNDEMDE! Nazar Erişkin’den Girne’deki gemi kazasına çarpıcı yorum</title>
+      <link>https://www.youtube.com/watch?v=rGButYd9WNg</link>
+      <guid isPermaLink="false">rGButYd9WNg</guid>
+      <pubDate>Sun, 30 Aug 2026 16:40:07 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BATAN GEMİDE TEKNİK SORUN İDDİASI GÜNDEMDE! Nazar Erişkin’den Girne’deki gemi kazasına çarpıcı yorum</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: AKP'de Kavala Çatlağı! Tuğrul Türkeş'ten Mehmet Uçum'a Zehir Zemberek Sözler</title>
       <link>https://www.youtube.com/watch?v=nMD8_uqc1Is</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">JK3fMWOws-M</guid>
       <pubDate>Sun, 30 Aug 2026 12:10:02 +0000</pubDate>
       <description>Halk TV kanalından yeni video: 30 bin avrodan 3,86 milyon avroluk gayrimenkule! Gökçek ailesinin Almanya’daki milyonluk yatırımları</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Girne'den Acı Görüntüler! Yolcu Gemisi Alabora Oldu! Kurtulanlar Limana Getiriliyor!</title>
-      <link>https://www.youtube.com/watch?v=QUZT83RHi4o</link>
-      <guid isPermaLink="false">QUZT83RHi4o</guid>
-      <pubDate>Sun, 30 Aug 2026 12:02:47 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Girne'den Acı Görüntüler! Yolcu Gemisi Alabora Oldu! Kurtulanlar Limana Getiriliyor!</description>
-    </item>
-    <item>
-      <title>Halk TV: GİRNE’DEN KARA HABER GELDİ! Sulara gömülen gemide 1 kişi hayatını kaybetti! İşte son gelişmeler...</title>
-      <link>https://www.youtube.com/watch?v=2StWUb_N56o</link>
-      <guid isPermaLink="false">2StWUb_N56o</guid>
-      <pubDate>Sun, 30 Aug 2026 12:00:25 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: GİRNE’DEN KARA HABER GELDİ! Sulara gömülen gemide 1 kişi hayatını kaybetti! İşte son gelişmeler...</description>
     </item>
   </channel>
 </rss>
