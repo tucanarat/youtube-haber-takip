@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 07:40:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 07:45:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | YENİ Parti Şişli İlçe Başkanlığı Açılışı! Özgür Çelik Konuşuyor!</title>
+      <link>https://www.youtube.com/watch?v=4klYitaFnXY</link>
+      <guid isPermaLink="false">4klYitaFnXY</guid>
+      <pubDate>Sun, 30 Aug 2026 07:43:11 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti Şişli İlçe Başkanlığı Açılışı! Özgür Çelik Konuşuyor!</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: YENİ Parti Şişli ilçe başkanlığı açılışı #Canlı</title>
+      <link>https://www.youtube.com/watch?v=sc5Gbq-OJ1Y</link>
+      <guid isPermaLink="false">sc5Gbq-OJ1Y</guid>
+      <pubDate>Sun, 30 Aug 2026 07:43:02 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Şişli ilçe başkanlığı açılışı #Canlı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Masada Ne Var? | Burak Tatari</title>
+      <link>https://www.youtube.com/watch?v=ML9GkoYxG1k</link>
+      <guid isPermaLink="false">ML9GkoYxG1k</guid>
+      <pubDate>Sun, 30 Aug 2026 07:39:19 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Masada Ne Var? | Burak Tatari</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | 30 Ağustos Zafer Bayramı Dolayısıyla Vatan Caddesi'nde Kutlama Töreni Düzenleniyor!</title>
       <link>https://www.youtube.com/watch?v=tTUYS3cZXxY</link>
@@ -55,13 +76,6 @@
       <guid isPermaLink="false">c7XAdCPAuQE</guid>
       <pubDate>Sun, 30 Aug 2026 07:19:04 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Ağustos Zafer Bayramı dolayısıyla İzmir'de resmi geçit töreni düzenleniyor #Canlı</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: YENİ Parti Şişli ilçe başkanlığı açılışı #Canlı</title>
-      <link>https://www.youtube.com/watch?v=sc5Gbq-OJ1Y</link>
-      <guid isPermaLink="false">sc5Gbq-OJ1Y</guid>
-      <pubDate>Sun, 30 Aug 2026 07:15:58 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Şişli ilçe başkanlığı açılışı #Canlı</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Cumhurbaşkanı Erdoğan ve devlet erkanı Anıtkabir'de #Canlı</title>
@@ -167,13 +181,6 @@
       <guid isPermaLink="false">XfCSzCamuWc</guid>
       <pubDate>Sun, 30 Aug 2026 06:14:38 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: 30 Ağustos Zafer Bayramı dolayısıyla Beşiktaş'ta törenler düzenleniyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | YENİ Parti Şişli İlçe Başkanlığı Açılışı! Özgür Çelik Konuşuyor!</title>
-      <link>https://www.youtube.com/watch?v=4klYitaFnXY</link>
-      <guid isPermaLink="false">4klYitaFnXY</guid>
-      <pubDate>Sun, 30 Aug 2026 06:12:16 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti Şişli İlçe Başkanlığı Açılışı! Özgür Çelik Konuşuyor!</description>
     </item>
     <item>
       <title>Cumhuriyet: #CANLI Özgür Özel'e Kayseri'de yoğun ilgi...</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">TGIyebM6taI</guid>
       <pubDate>Sat, 29 Aug 2026 20:00:25 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Özgür Özel'in Elindeki Büyük Koz! İktidarın Gizli Seçim Planı! Edgar Şar'dan Kritik Uyarı</description>
-    </item>
-    <item>
-      <title>Halk TV: BATMAN'DAN KAN DONDURAN OLAY! Annesini öldürüp çöp konteynerine attı, emniyete gidip teslim oldu!</title>
-      <link>https://www.youtube.com/watch?v=hZ-v5vLAZhY</link>
-      <guid isPermaLink="false">hZ-v5vLAZhY</guid>
-      <pubDate>Sat, 29 Aug 2026 19:45:19 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BATMAN'DAN KAN DONDURAN OLAY! Annesini öldürüp çöp konteynerine attı, emniyete gidip teslim oldu!</description>
     </item>
   </channel>
 </rss>
