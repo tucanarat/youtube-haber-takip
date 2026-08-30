@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 14:50:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 14:55:27 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Gülşah Ekinci ile Hafta Sonu Ana Haber</title>
+      <link>https://www.youtube.com/watch?v=OxYSEzfu3Hg</link>
+      <guid isPermaLink="false">OxYSEzfu3Hg</guid>
+      <pubDate>Sun, 30 Aug 2026 14:53:12 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Gülşah Ekinci ile Hafta Sonu Ana Haber</description>
+    </item>
+    <item>
+      <title>Halk TV: İşte, batma anında gemide yaşanan dehşet anları!</title>
+      <link>https://www.youtube.com/shorts/ZlypYiC2Wis</link>
+      <guid isPermaLink="false">ZlypYiC2Wis</guid>
+      <pubDate>Sun, 30 Aug 2026 14:49:21 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İşte, batma anında gemide yaşanan dehşet anları!</description>
+    </item>
+    <item>
+      <title>Halk TV: GİRNE'DE BATAN GEMİDEKİ BİR YOLCU O ANLARI KAYDA ALDI!</title>
+      <link>https://www.youtube.com/shorts/xplwQSP-_Vw</link>
+      <guid isPermaLink="false">xplwQSP-_Vw</guid>
+      <pubDate>Sun, 30 Aug 2026 14:47:20 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: GİRNE'DE BATAN GEMİDEKİ BİR YOLCU O ANLARI KAYDA ALDI!</description>
+    </item>
     <item>
       <title>Halk TV: HER ANI DEHŞET VERİCİ! İşte batma anında yolcu gemisinde yaşanan o yürek yakıcı anlar!</title>
       <link>https://www.youtube.com/watch?v=o0XurQnS0qI</link>
@@ -141,11 +162,11 @@
       <description>Cumhuriyet kanalından yeni video: Girne açıklarında 267 kişiyi taşıyan yolcu gemisi battı: Hayatını kaybedenler var</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | Işın Eliçin ile Sınırsız</title>
+      <title>Halk TV: Işın Eliçin ile Sınırsız (30 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=kR6BykEqrr0</link>
       <guid isPermaLink="false">kR6BykEqrr0</guid>
       <pubDate>Sun, 30 Aug 2026 12:53:26 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Işın Eliçin ile Sınırsız</description>
+      <description>Halk TV kanalından yeni video: Işın Eliçin ile Sınırsız (30 Ağustos 2026)</description>
     </item>
     <item>
       <title>Halk TV: ‘GEMİDE DELİK VARDI’ İDDİASI! Girne’deki facia göz göre göre gelmiş! Nazar Erişkin’den şok bilgiler!</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">RLsxarIPSa4</guid>
       <pubDate>Sun, 30 Aug 2026 11:03:10 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: DENİZİN ORTASINDA CAN PAZARI! Girne Açıklarında 267 Kişilik Yolcu Gemisi Battı! İşte İlk Görüntüler!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Eski Büyükelçi Okçal'dan skandal 'TABELA ÜNİVERSİTE' iddiası! Mahalli'den çok kritik hatırlatma...</title>
-      <link>https://www.youtube.com/watch?v=ec66xOR84pw</link>
-      <guid isPermaLink="false">ec66xOR84pw</guid>
-      <pubDate>Sun, 30 Aug 2026 11:00:18 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Eski Büyükelçi Okçal'dan skandal 'TABELA ÜNİVERSİTE' iddiası! Mahalli'den çok kritik hatırlatma...</description>
-    </item>
-    <item>
-      <title>Halk TV: GİRNE'DE BÜYÜK FACİA! Yolcu gemisi battı, yüzlerce kişi kurtarılmayı bekliyor! Dehşet dolu anlar!</title>
-      <link>https://www.youtube.com/watch?v=Yac2mUASy5c</link>
-      <guid isPermaLink="false">Yac2mUASy5c</guid>
-      <pubDate>Sun, 30 Aug 2026 10:55:35 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: GİRNE'DE BÜYÜK FACİA! Yolcu gemisi battı, yüzlerce kişi kurtarılmayı bekliyor! Dehşet dolu anlar!</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti Kadıköy İlçe Başkanlığı Açılışı! (30 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=tzLHEAG5tTE</link>
-      <guid isPermaLink="false">tzLHEAG5tTE</guid>
-      <pubDate>Sun, 30 Aug 2026 10:47:05 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti Kadıköy İlçe Başkanlığı Açılışı! (30 Ağustos 2026)</description>
     </item>
   </channel>
 </rss>
