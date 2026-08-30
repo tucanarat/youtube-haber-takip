@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 23:15:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 23:20:36 +0000</lastBuildDate>
     <item>
-      <title>SÖZCÜ TV: #CANLI Haber Bülteni | Ceylin Çağatay</title>
+      <title>SÖZCÜ TV: Merve Ekinci ile Uyanma Vakti</title>
+      <link>https://www.youtube.com/watch?v=8uyrSj9iBEk</link>
+      <guid isPermaLink="false">8uyrSj9iBEk</guid>
+      <pubDate>Sun, 30 Aug 2026 23:17:53 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Merve Ekinci ile Uyanma Vakti</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Haber Bülteni | Ceylin Çağatay 31 Ağustos</title>
       <link>https://www.youtube.com/watch?v=c2tmMvNLErY</link>
       <guid isPermaLink="false">c2tmMvNLErY</guid>
       <pubDate>Sun, 30 Aug 2026 22:59:28 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: #CANLI Haber Bülteni | Ceylin Çağatay</description>
+      <description>SÖZCÜ TV kanalından yeni video: Haber Bülteni | Ceylin Çağatay 31 Ağustos</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti Kadıköy ilçe başkanlığı açılışı #Canlı</title>
@@ -57,11 +64,11 @@
       <description>Halk TV kanalından yeni video: Manavgat’ta orman yangını! Havadan ve karadan müdahale ediliyor! #shorts</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: #CANLI Samsunspor - Fenerbahçe Maçı | Maç Varsa Erman Hoca Var | Erman Toroğlu</title>
+      <title>SÖZCÜ TV: Samsunspor - Fenerbahçe Maçı | Maç Varsa Erman Hoca Var | Erman Toroğlu | 29 Ağustos</title>
       <link>https://www.youtube.com/watch?v=aQlyFo3hG8s</link>
       <guid isPermaLink="false">aQlyFo3hG8s</guid>
       <pubDate>Sun, 30 Aug 2026 21:56:32 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: #CANLI Samsunspor - Fenerbahçe Maçı | Maç Varsa Erman Hoca Var | Erman Toroğlu</description>
+      <description>SÖZCÜ TV kanalından yeni video: Samsunspor - Fenerbahçe Maçı | Maç Varsa Erman Hoca Var | Erman Toroğlu | 29 Ağustos</description>
     </item>
     <item>
       <title>Halk TV: Sinem Fıstıkoğlu ile Sansürsüz (30 Ağustos 2026)</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">pPdneyIYcds</guid>
       <pubDate>Sun, 30 Aug 2026 17:00:11 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Genel merkezde çalışmalar tamamlandı... Utku Çakırözer, üye sayısını Halk TV’ye açıkladı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: "Kahraman İlan Edilmek İstemiyorum!" | Senem Toluay Ilgaz | İpek Özbey ile Perdenin Arkası</title>
-      <link>https://www.youtube.com/watch?v=3JWuZEIhX0s</link>
-      <guid isPermaLink="false">3JWuZEIhX0s</guid>
-      <pubDate>Sun, 30 Aug 2026 17:00:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: "Kahraman İlan Edilmek İstemiyorum!" | Senem Toluay Ilgaz | İpek Özbey ile Perdenin Arkası</description>
     </item>
   </channel>
 </rss>
