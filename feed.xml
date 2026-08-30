@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 12:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 12:10:29 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Girne'den Acı Görüntüler! Yolcu Gemisi Alabora Oldu! Kurtulanlar Limana Getiriliyor!</title>
+      <link>https://www.youtube.com/watch?v=QUZT83RHi4o</link>
+      <guid isPermaLink="false">QUZT83RHi4o</guid>
+      <pubDate>Sun, 30 Aug 2026 12:02:47 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Girne'den Acı Görüntüler! Yolcu Gemisi Alabora Oldu! Kurtulanlar Limana Getiriliyor!</description>
+    </item>
     <item>
       <title>Halk TV: GİRNE’DEN KARA HABER GELDİ! Sulara gömülen gemide 1 kişi hayatını kaybetti! İşte son gelişmeler...</title>
       <link>https://www.youtube.com/watch?v=2StWUb_N56o</link>
       <guid isPermaLink="false">2StWUb_N56o</guid>
       <pubDate>Sun, 30 Aug 2026 12:00:25 +0000</pubDate>
       <description>Halk TV kanalından yeni video: GİRNE’DEN KARA HABER GELDİ! Sulara gömülen gemide 1 kişi hayatını kaybetti! İşte son gelişmeler...</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: "TÜRKİYE DEMOKRASİSİ ZEDELENİYOR" Özgür Çelik'ten 30 Ağustos Zafer Bayramı’nda demokrasi vurgusu!</title>
+      <link>https://www.youtube.com/watch?v=jPa3xp7dqpk</link>
+      <guid isPermaLink="false">jPa3xp7dqpk</guid>
+      <pubDate>Sun, 30 Aug 2026 12:00:10 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "TÜRKİYE DEMOKRASİSİ ZEDELENİYOR" Özgür Çelik'ten 30 Ağustos Zafer Bayramı’nda demokrasi vurgusu!</description>
     </item>
     <item>
       <title>Halk TV: GİRNE'DE ÖLÜMLE BURUN BURUNA! Alabora olan gemiden dehşet verici görüntüler! Böyle sulara gömülmüş!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">r8arb2VM0QU</guid>
       <pubDate>Sun, 30 Aug 2026 09:20:22 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ERDOĞAN'IN DEFTERİNİ DÜRDÜLER! İmamoğlu ve Özel'in resti Saray'ın ışıklarını söndürtmez! Olay olur!</description>
-    </item>
-    <item>
-      <title>Halk TV: 30 Ağustos Zafer Bayramı Dolayısıyla Vatan Caddesi'nde Kutlama Töreni Düzenlendi!</title>
-      <link>https://www.youtube.com/watch?v=tTUYS3cZXxY</link>
-      <guid isPermaLink="false">tTUYS3cZXxY</guid>
-      <pubDate>Sun, 30 Aug 2026 09:16:54 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: 30 Ağustos Zafer Bayramı Dolayısıyla Vatan Caddesi'nde Kutlama Töreni Düzenlendi!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: 30 Ağustos Zafer Bayramı kutlanıyor... Erdoğan ve devlet erkanı Anıtkabir'de</title>
-      <link>https://www.youtube.com/watch?v=6M77U8BdAaA</link>
-      <guid isPermaLink="false">6M77U8BdAaA</guid>
-      <pubDate>Sun, 30 Aug 2026 09:15:45 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: 30 Ağustos Zafer Bayramı kutlanıyor... Erdoğan ve devlet erkanı Anıtkabir'de</description>
     </item>
   </channel>
 </rss>
