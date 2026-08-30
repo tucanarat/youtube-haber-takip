@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 13:10:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 13:15:29 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SON DAKİKA! GİRNE’DE 7 KİŞİ DENİZDE CAN VERDİ! 23 kişiyi bulmak için kurtarma çalışmaları sürüyor!</title>
+      <link>https://www.youtube.com/watch?v=Y4PxaTBb2MI</link>
+      <guid isPermaLink="false">Y4PxaTBb2MI</guid>
+      <pubDate>Sun, 30 Aug 2026 13:10:07 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! GİRNE’DE 7 KİŞİ DENİZDE CAN VERDİ! 23 kişiyi bulmak için kurtarma çalışmaları sürüyor!</description>
+    </item>
     <item>
       <title>Halk TV: Serhan Başbahçıvan ile Öğle Haberleri (30 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=EHrko0KvlGU</link>
       <guid isPermaLink="false">EHrko0KvlGU</guid>
       <pubDate>Sun, 30 Aug 2026 13:02:33 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Serhan Başbahçıvan ile Öğle Haberleri (30 Ağustos 2026)</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Girne'de Acı Haber Duyuruldu! Feci Kazada Can Kayıpları Var! '70-80 KİŞİDEN HABER ALINAMIYOR'</title>
+      <link>https://www.youtube.com/watch?v=PpLhCYgVN4w</link>
+      <guid isPermaLink="false">PpLhCYgVN4w</guid>
+      <pubDate>Sun, 30 Aug 2026 13:00:23 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Girne'de Acı Haber Duyuruldu! Feci Kazada Can Kayıpları Var! '70-80 KİŞİDEN HABER ALINAMIYOR'</description>
     </item>
     <item>
       <title>Halk TV: GEMİ BU YÜZDEN BATMIŞ OLABİLİR! Olay yerindeki isim dehşet veren detayları anlattı! Meğer yolcular..</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">qWdGVcX_8FI</guid>
       <pubDate>Sun, 30 Aug 2026 09:54:04 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İyi ki Hafta Sonu | Damla Doğan Tuncel 30 Ağustos</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: DEM Parti Eş Genel Başkanı Tülay Hatimoğulları, İzmir'de halk buluşmasında konuşuyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=RnvWEoGUouk</link>
-      <guid isPermaLink="false">RnvWEoGUouk</guid>
-      <pubDate>Sun, 30 Aug 2026 09:49:37 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: DEM Parti Eş Genel Başkanı Tülay Hatimoğulları, İzmir'de halk buluşmasında konuşuyor #Canlı</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: DEM Parti Eş Genel Başkanı Tülay Hatimoğulları, İzmir'de halk buluşmasında konuşuyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=02TN6ufsLlg</link>
-      <guid isPermaLink="false">02TN6ufsLlg</guid>
-      <pubDate>Sun, 30 Aug 2026 09:46:21 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: DEM Parti Eş Genel Başkanı Tülay Hatimoğulları, İzmir'de halk buluşmasında konuşuyor #Canlı</description>
     </item>
   </channel>
 </rss>
