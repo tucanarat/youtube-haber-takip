@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 19:31:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 19:35:26 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: KAPTAN GÖZALTINDA! Girne Açıklarındaki Gemi Faciasında Korkunç İhmal İddiası</title>
+      <link>https://www.youtube.com/watch?v=AK79_HeATGQ</link>
+      <guid isPermaLink="false">AK79_HeATGQ</guid>
+      <pubDate>Sun, 30 Aug 2026 19:30:33 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: KAPTAN GÖZALTINDA! Girne Açıklarındaki Gemi Faciasında Korkunç İhmal İddiası</description>
+    </item>
     <item>
       <title>Halk TV: BURSA'DA BÜYÜK SKANDAL! AKP’li Başkanvekili geldi, Atatürk portresi kayboldu!</title>
       <link>https://www.youtube.com/watch?v=9xoAdR9T_D8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">rhVcg-bJCJ0</guid>
       <pubDate>Sun, 30 Aug 2026 13:41:16 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Girne açıklarında alabora olan gemi için Taşucu Limanı'nda ekipler harekete geçti!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Girne açıklarında 267 kişiyi taşıyan yolcu gemisi battı: Hayatını kaybedenler var</title>
-      <link>https://www.youtube.com/shorts/HjvGN5q_n7k</link>
-      <guid isPermaLink="false">HjvGN5q_n7k</guid>
-      <pubDate>Sun, 30 Aug 2026 13:40:50 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Girne açıklarında 267 kişiyi taşıyan yolcu gemisi battı: Hayatını kaybedenler var</description>
     </item>
   </channel>
 </rss>
