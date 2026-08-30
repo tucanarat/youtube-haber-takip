@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 13:25:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 13:30:39 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Girne açıklarına alabora olan gemiden kurtulan yolcu dehşet anlarını anlattı!</title>
+      <link>https://www.youtube.com/shorts/MBh2Ac0eWAQ</link>
+      <guid isPermaLink="false">MBh2Ac0eWAQ</guid>
+      <pubDate>Sun, 30 Aug 2026 13:28:24 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Girne açıklarına alabora olan gemiden kurtulan yolcu dehşet anlarını anlattı!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Kurtulan Yolcu O Anları Anlattı! "Kendileri Kaçtı İnsanlar İçeride Kaldı" Batan Gemide İhmal Zinciri</title>
+      <link>https://www.youtube.com/watch?v=wyDYYGuKQXc</link>
+      <guid isPermaLink="false">wyDYYGuKQXc</guid>
+      <pubDate>Sun, 30 Aug 2026 13:23:19 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Kurtulan Yolcu O Anları Anlattı! "Kendileri Kaçtı İnsanlar İçeride Kaldı" Batan Gemide İhmal Zinciri</description>
+    </item>
     <item>
       <title>Halk TV: SON DAKİKA! GİRNE’DE 7 KİŞİ DENİZDE CAN VERDİ! 23 kişiyi bulmak için kurtarma çalışmaları sürüyor!</title>
       <link>https://www.youtube.com/watch?v=Y4PxaTBb2MI</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">xi4swJ7xbeM</guid>
       <pubDate>Sun, 30 Aug 2026 10:00:13 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Cumhurbaşkanı Erdoğan, Zafer Bayramı Tebriklerini Kabul Etti!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Putin'in Gizli Şanghay Planı! NATO'yu Alarma Geçiren İddia! Rusya O Ülkeye Saldıracak! | İkbal Dürre</title>
-      <link>https://www.youtube.com/watch?v=HrUNelVRoOs</link>
-      <guid isPermaLink="false">HrUNelVRoOs</guid>
-      <pubDate>Sun, 30 Aug 2026 10:00:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Putin'in Gizli Şanghay Planı! NATO'yu Alarma Geçiren İddia! Rusya O Ülkeye Saldıracak! | İkbal Dürre</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İyi ki Hafta Sonu | Damla Doğan Tuncel 30 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=qWdGVcX_8FI</link>
-      <guid isPermaLink="false">qWdGVcX_8FI</guid>
-      <pubDate>Sun, 30 Aug 2026 09:54:04 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İyi ki Hafta Sonu | Damla Doğan Tuncel 30 Ağustos</description>
     </item>
   </channel>
 </rss>
