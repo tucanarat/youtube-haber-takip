@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 12:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 12:25:23 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Erdoğan, Özgür Özel ve devlet erkanı, 30 Ağustos Zafer Bayramı'nda Anıtkabir'i ziyaret etti!</title>
+      <link>https://www.youtube.com/shorts/Ik9pN1d4Mss</link>
+      <guid isPermaLink="false">Ik9pN1d4Mss</guid>
+      <pubDate>Sun, 30 Aug 2026 12:20:10 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Erdoğan, Özgür Özel ve devlet erkanı, 30 Ağustos Zafer Bayramı'nda Anıtkabir'i ziyaret etti!</description>
+    </item>
     <item>
       <title>Halk TV: Taksim Anıtı'ndaki çelenk sunumunda en çok alkışı alan isim Özgür Çelik oldu!</title>
       <link>https://www.youtube.com/shorts/MMh1EoCFq5c</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">EHrko0KvlGU</guid>
       <pubDate>Sun, 30 Aug 2026 09:27:16 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | Serhan Başbahçıvan ile Öğle Haberleri</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Samsunspor - Fenerbahçe Maçı | Maç Varsa Erman Hoca Var | Erman Toroğlu</title>
-      <link>https://www.youtube.com/watch?v=aQlyFo3hG8s</link>
-      <guid isPermaLink="false">aQlyFo3hG8s</guid>
-      <pubDate>Sun, 30 Aug 2026 09:24:01 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Samsunspor - Fenerbahçe Maçı | Maç Varsa Erman Hoca Var | Erman Toroğlu</description>
     </item>
   </channel>
 </rss>
