@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 16:50:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 16:55:28 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: #CANLI Hafta Sonu Ana Haber | Serap Belovacıklı</title>
+      <link>https://www.youtube.com/watch?v=MatC9ZABnyo</link>
+      <guid isPermaLink="false">MatC9ZABnyo</guid>
+      <pubDate>Sun, 30 Aug 2026 16:55:05 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: #CANLI Hafta Sonu Ana Haber | Serap Belovacıklı</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Sinem Fıstıkoğlu ile Sansürsüz</title>
+      <link>https://www.youtube.com/watch?v=eIfKhX5x4yA</link>
+      <guid isPermaLink="false">eIfKhX5x4yA</guid>
+      <pubDate>Sun, 30 Aug 2026 16:52:25 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Sinem Fıstıkoğlu ile Sansürsüz</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | YENİ Parti İstanbul İl Başkanı Özgür Çelik, 30 Ağustos fener alayına katılıyor</title>
       <link>https://www.youtube.com/watch?v=c6dexO2c698</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">Ik9pN1d4Mss</guid>
       <pubDate>Sun, 30 Aug 2026 12:20:10 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Erdoğan, Özgür Özel ve devlet erkanı, 30 Ağustos Zafer Bayramı'nda Anıtkabir'i ziyaret etti!</description>
-    </item>
-    <item>
-      <title>Halk TV: Taksim Anıtı'ndaki çelenk sunumunda en çok alkışı alan isim Özgür Çelik oldu!</title>
-      <link>https://www.youtube.com/shorts/MMh1EoCFq5c</link>
-      <guid isPermaLink="false">MMh1EoCFq5c</guid>
-      <pubDate>Sun, 30 Aug 2026 12:12:27 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Taksim Anıtı'ndaki çelenk sunumunda en çok alkışı alan isim Özgür Çelik oldu!</description>
-    </item>
-    <item>
-      <title>Halk TV: 30 bin avrodan 3,86 milyon avroluk gayrimenkule! Gökçek ailesinin Almanya’daki milyonluk yatırımları</title>
-      <link>https://www.youtube.com/watch?v=JK3fMWOws-M</link>
-      <guid isPermaLink="false">JK3fMWOws-M</guid>
-      <pubDate>Sun, 30 Aug 2026 12:10:02 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: 30 bin avrodan 3,86 milyon avroluk gayrimenkule! Gökçek ailesinin Almanya’daki milyonluk yatırımları</description>
     </item>
   </channel>
 </rss>
