@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 22:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 22:40:32 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: DEM Parti Eş Genel Başkanı Tülay Hatimoğulları, İzmir'de halk buluşmasında konuşuyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=RnvWEoGUouk</link>
+      <guid isPermaLink="false">RnvWEoGUouk</guid>
+      <pubDate>Sun, 30 Aug 2026 22:32:39 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: DEM Parti Eş Genel Başkanı Tülay Hatimoğulları, İzmir'de halk buluşmasında konuşuyor #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: Nepal'deki selde hayatını kaybedenlerin sayısı 794'e yükseldi! #shorts</title>
       <link>https://www.youtube.com/shorts/DAnjNnPF9MM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">OxYSEzfu3Hg</guid>
       <pubDate>Sun, 30 Aug 2026 16:56:09 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | Gülşah Ekinci ile Hafta Sonu Ana Haber</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Hafta Sonu Ana Haber | Serap Belovacıklı| 30 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=MatC9ZABnyo</link>
-      <guid isPermaLink="false">MatC9ZABnyo</guid>
-      <pubDate>Sun, 30 Aug 2026 16:55:05 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Hafta Sonu Ana Haber | Serap Belovacıklı| 30 Ağustos</description>
     </item>
   </channel>
 </rss>
