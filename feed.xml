@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 14:25:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 14:30:42 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: DUYMAYA YÜREK DAYANMAZ! Girne'de alabora olan gemiden kurtulan yolcular yaşadıkları dehşeti anlattı!</title>
+      <link>https://www.youtube.com/watch?v=wnfs-0VdgZ0</link>
+      <guid isPermaLink="false">wnfs-0VdgZ0</guid>
+      <pubDate>Sun, 30 Aug 2026 14:25:38 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: DUYMAYA YÜREK DAYANMAZ! Girne'de alabora olan gemiden kurtulan yolcular yaşadıkları dehşeti anlattı!</description>
+    </item>
     <item>
       <title>Halk TV: İŞTE, BATMA ANINDA GEMİDE YAŞANAN DEHŞET ANLARI!</title>
       <link>https://www.youtube.com/shorts/wnWgYDUdk3Q</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">-cO2OOA_WlQ</guid>
       <pubDate>Sun, 30 Aug 2026 10:40:12 +0000</pubDate>
       <description>Halk TV kanalından yeni video: KAN DONDURAN CİNAYET! 100 kiloluk adamı derin dondurucuya koydular! Meğer 11 yıl boyunca…</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Yurttaşlar 30 Ağustos Zafer Bayramı'nda Ata'nın huzurunda #Canlı</title>
-      <link>https://www.youtube.com/watch?v=m4s9R8zpAog</link>
-      <guid isPermaLink="false">m4s9R8zpAog</guid>
-      <pubDate>Sun, 30 Aug 2026 10:38:19 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Yurttaşlar 30 Ağustos Zafer Bayramı'nda Ata'nın huzurunda #Canlı</description>
     </item>
   </channel>
 </rss>
