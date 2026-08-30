@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 10:40:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 10:45:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: KAN DONDURAN CİNAYET! 100 kiloluk adamı derin dondurucuya koydular! Meğer 11 yıl boyunca…</title>
+      <link>https://www.youtube.com/watch?v=-cO2OOA_WlQ</link>
+      <guid isPermaLink="false">-cO2OOA_WlQ</guid>
+      <pubDate>Sun, 30 Aug 2026 10:40:12 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KAN DONDURAN CİNAYET! 100 kiloluk adamı derin dondurucuya koydular! Meğer 11 yıl boyunca…</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Yurttaşlar 30 Ağustos Zafer Bayramı'nda Ata'nın huzurunda #Canlı</title>
       <link>https://www.youtube.com/watch?v=m4s9R8zpAog</link>
@@ -50,11 +57,11 @@
       <description>Cumhuriyet kanalından yeni video: Çal için el ele verdiler</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | YENİ Parti Kadıköy İlçe Başkanlığı Açılışı!</title>
+      <title>Halk TV: YENİ Parti Kadıköy İlçe Başkanlığı Açılışı! (30 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=tzLHEAG5tTE</link>
       <guid isPermaLink="false">tzLHEAG5tTE</guid>
       <pubDate>Sun, 30 Aug 2026 10:05:53 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti Kadıköy İlçe Başkanlığı Açılışı!</description>
+      <description>Halk TV kanalından yeni video: YENİ Parti Kadıköy İlçe Başkanlığı Açılışı! (30 Ağustos 2026)</description>
     </item>
     <item>
       <title>Tele2 Haber: #CANLI YENİ Parti Kadıköy ilçe başkanlığı açılışı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">xdxCAShPQiU</guid>
       <pubDate>Sun, 30 Aug 2026 08:00:37 +0000</pubDate>
       <description>Halk TV kanalından yeni video: CUMHUR'UN TEMELLERİNİ YERİNDEN OYNATTI! Özgür Özel, Erdoğan ve Bahçeli'nin kalesini yıktı! Şok rest!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: GÖKÇEKLERİN GİZLİ SERVETİ! Murat Ağırel Belge Belge İfşa Etti! Melih Gökçek'in Almanya'daki Sırrı!</title>
-      <link>https://www.youtube.com/watch?v=WHYIMVsDIhU</link>
-      <guid isPermaLink="false">WHYIMVsDIhU</guid>
-      <pubDate>Sun, 30 Aug 2026 08:00:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: GÖKÇEKLERİN GİZLİ SERVETİ! Murat Ağırel Belge Belge İfşa Etti! Melih Gökçek'in Almanya'daki Sırrı!</description>
     </item>
   </channel>
 </rss>
