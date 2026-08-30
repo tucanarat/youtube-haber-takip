@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 11:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 11:40:31 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Yolcuların Kamerasından Facia! 267 Kişilik Gemi Sulara Gömülürken Yaşanan Panik</title>
+      <link>https://www.youtube.com/watch?v=RWbXrE3C4a0</link>
+      <guid isPermaLink="false">RWbXrE3C4a0</guid>
+      <pubDate>Sun, 30 Aug 2026 11:30:19 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Yolcuların Kamerasından Facia! 267 Kişilik Gemi Sulara Gömülürken Yaşanan Panik</description>
+    </item>
     <item>
       <title>Halk TV: ATA’NIN HUZURUNDA MAHŞERİ KALABALIK! 30 Ağustos coşkusu sel oldu aktı! Bu sözler yürekleri ısıtacak!</title>
       <link>https://www.youtube.com/watch?v=7MxMdYov4tU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">sRoTEkV9Ebw</guid>
       <pubDate>Sun, 30 Aug 2026 09:00:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Uğur Mumcu Suikastı Mehmet Ağar MİT İddiaları! Devletin Gizlediği Rapor | Erol Mütercimler Anlattı</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: CHP İstanbul İl Başkanı Gürsel Tekin ilçe başkanlarıyla Cumhuriyet Anıtı'na çelenk bırakıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=UTGfdJCcCmI</link>
-      <guid isPermaLink="false">UTGfdJCcCmI</guid>
-      <pubDate>Sun, 30 Aug 2026 08:52:17 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP İstanbul İl Başkanı Gürsel Tekin ilçe başkanlarıyla Cumhuriyet Anıtı'na çelenk bırakıyor #Canlı</description>
     </item>
   </channel>
 </rss>
