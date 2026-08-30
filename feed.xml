@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 09:50:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 09:55:26 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: İyi ki Hafta Sonu | Damla Doğan Tuncel 30 Ağustos</title>
+      <link>https://www.youtube.com/watch?v=qWdGVcX_8FI</link>
+      <guid isPermaLink="false">qWdGVcX_8FI</guid>
+      <pubDate>Sun, 30 Aug 2026 09:54:04 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İyi ki Hafta Sonu | Damla Doğan Tuncel 30 Ağustos</description>
+    </item>
     <item>
       <title>Halk TV: HALK TV AİLESİ DAHA DA GÜÇLENİYOR! Deniz Bayramoğlu yeni yayın döneminde bu ekranlarda olacak!</title>
       <link>https://www.youtube.com/watch?v=hKhxFdJ1Ne4</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">8fxh1jwJAvk</guid>
       <pubDate>Sun, 30 Aug 2026 06:59:59 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Sarıkamış'ın meşhur boz ayısı barajda yüzerken yakalandı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Nevra Öner ile Hafta Sonu Sabah (30 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=WlisZfoXP80</link>
-      <guid isPermaLink="false">WlisZfoXP80</guid>
-      <pubDate>Sun, 30 Aug 2026 06:58:56 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Nevra Öner ile Hafta Sonu Sabah (30 Ağustos 2026)</description>
     </item>
   </channel>
 </rss>
