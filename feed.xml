@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 09:45:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 09:50:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: HALK TV AİLESİ DAHA DA GÜÇLENİYOR! Deniz Bayramoğlu yeni yayın döneminde bu ekranlarda olacak!</title>
+      <link>https://www.youtube.com/watch?v=hKhxFdJ1Ne4</link>
+      <guid isPermaLink="false">hKhxFdJ1Ne4</guid>
+      <pubDate>Sun, 30 Aug 2026 09:40:04 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: HALK TV AİLESİ DAHA DA GÜÇLENİYOR! Deniz Bayramoğlu yeni yayın döneminde bu ekranlarda olacak!</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Cumhurbaşkanı Erdoğan, Zafer Bayramı Tebriklerini Kabul Ediyor!</title>
       <link>https://www.youtube.com/watch?v=xi4swJ7xbeM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">WlisZfoXP80</guid>
       <pubDate>Sun, 30 Aug 2026 06:58:56 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Nevra Öner ile Hafta Sonu Sabah (30 Ağustos 2026)</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Sabah Kahvesi | Nagihan Turhan 30 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=5hj1jrJU8oo</link>
-      <guid isPermaLink="false">5hj1jrJU8oo</guid>
-      <pubDate>Sun, 30 Aug 2026 06:56:42 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Sabah Kahvesi | Nagihan Turhan 30 Ağustos</description>
     </item>
   </channel>
 </rss>
