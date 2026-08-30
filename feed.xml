@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 19:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 19:40:32 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: KAPTAN GÖZALTINDA! Girne Açıklarındaki Gemi Faciasında Korkunç İhmal İddiası</title>
       <link>https://www.youtube.com/watch?v=AK79_HeATGQ</link>
       <guid isPermaLink="false">AK79_HeATGQ</guid>
       <pubDate>Sun, 30 Aug 2026 19:30:33 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: KAPTAN GÖZALTINDA! Girne Açıklarındaki Gemi Faciasında Korkunç İhmal İddiası</description>
+    </item>
+    <item>
+      <title>Halk TV: SON DAKİKA! KKTC’de 3 günlük yas ilan edildi: Batan gemide can kaybı 18’e yükseldi!</title>
+      <link>https://www.youtube.com/watch?v=wGNH3msMBOA</link>
+      <guid isPermaLink="false">wGNH3msMBOA</guid>
+      <pubDate>Sun, 30 Aug 2026 19:30:13 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! KKTC’de 3 günlük yas ilan edildi: Batan gemide can kaybı 18’e yükseldi!</description>
     </item>
     <item>
       <title>Halk TV: BURSA'DA BÜYÜK SKANDAL! AKP’li Başkanvekili geldi, Atatürk portresi kayboldu!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">-GxBc2baWPc</guid>
       <pubDate>Sun, 30 Aug 2026 13:42:08 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: 'GEMİ YARA ALMIŞ OLABİLİR' Yolcu Gemisi Girne'de Neden Battı? Uzman Kaptan'dan Çarpıcı İddia!</description>
-    </item>
-    <item>
-      <title>Halk TV: Girne açıklarında alabora olan gemi için Taşucu Limanı'nda ekipler harekete geçti!</title>
-      <link>https://www.youtube.com/shorts/rhVcg-bJCJ0</link>
-      <guid isPermaLink="false">rhVcg-bJCJ0</guid>
-      <pubDate>Sun, 30 Aug 2026 13:41:16 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Girne açıklarında alabora olan gemi için Taşucu Limanı'nda ekipler harekete geçti!</description>
     </item>
   </channel>
 </rss>
