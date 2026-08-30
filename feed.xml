@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 10:45:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 10:50:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: YENİ Parti Kadıköy İlçe Başkanlığı Açılışı! (30 Ağustos 2026)</title>
+      <link>https://www.youtube.com/watch?v=tzLHEAG5tTE</link>
+      <guid isPermaLink="false">tzLHEAG5tTE</guid>
+      <pubDate>Sun, 30 Aug 2026 10:47:05 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YENİ Parti Kadıköy İlçe Başkanlığı Açılışı! (30 Ağustos 2026)</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #CANLI YENİ Parti Kadıköy ilçe başkanlığı açılışı</title>
+      <link>https://www.youtube.com/watch?v=YIf-NQ3Gd8M</link>
+      <guid isPermaLink="false">YIf-NQ3Gd8M</guid>
+      <pubDate>Sun, 30 Aug 2026 10:46:16 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti Kadıköy ilçe başkanlığı açılışı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: SON DAKİKA! Girne Açıklarında Gemi Faciası! 279 Kişilik Yolcu Gemisi Battı! Katamaran Alabora Oldu!</title>
+      <link>https://www.youtube.com/watch?v=2J-WeBe8BJ8</link>
+      <guid isPermaLink="false">2J-WeBe8BJ8</guid>
+      <pubDate>Sun, 30 Aug 2026 10:44:17 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: SON DAKİKA! Girne Açıklarında Gemi Faciası! 279 Kişilik Yolcu Gemisi Battı! Katamaran Alabora Oldu!</description>
+    </item>
     <item>
       <title>Halk TV: KAN DONDURAN CİNAYET! 100 kiloluk adamı derin dondurucuya koydular! Meğer 11 yıl boyunca…</title>
       <link>https://www.youtube.com/watch?v=-cO2OOA_WlQ</link>
@@ -55,20 +76,6 @@
       <guid isPermaLink="false">KTIQz4opfdI</guid>
       <pubDate>Sun, 30 Aug 2026 10:06:45 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Çal için el ele verdiler</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti Kadıköy İlçe Başkanlığı Açılışı! (30 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=tzLHEAG5tTE</link>
-      <guid isPermaLink="false">tzLHEAG5tTE</guid>
-      <pubDate>Sun, 30 Aug 2026 10:05:53 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti Kadıköy İlçe Başkanlığı Açılışı! (30 Ağustos 2026)</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI YENİ Parti Kadıköy ilçe başkanlığı açılışı</title>
-      <link>https://www.youtube.com/watch?v=YIf-NQ3Gd8M</link>
-      <guid isPermaLink="false">YIf-NQ3Gd8M</guid>
-      <pubDate>Sun, 30 Aug 2026 10:05:30 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti Kadıköy ilçe başkanlığı açılışı</description>
     </item>
     <item>
       <title>Halk TV: Özlem Gültekin’in ölümünde yeni iddialar! Erhan çelik o iddiaya ateş püskürdü!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">vtC_iUsuODU</guid>
       <pubDate>Sun, 30 Aug 2026 08:00:49 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: 30 Ağustos Zafer Bayramı dolayısıyla Diyarbakır Valiliği önünde kutlama programı düzenleniyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: CUMHUR'UN TEMELLERİNİ YERİNDEN OYNATTI! Özgür Özel, Erdoğan ve Bahçeli'nin kalesini yıktı! Şok rest!</title>
-      <link>https://www.youtube.com/watch?v=xdxCAShPQiU</link>
-      <guid isPermaLink="false">xdxCAShPQiU</guid>
-      <pubDate>Sun, 30 Aug 2026 08:00:37 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: CUMHUR'UN TEMELLERİNİ YERİNDEN OYNATTI! Özgür Özel, Erdoğan ve Bahçeli'nin kalesini yıktı! Şok rest!</description>
     </item>
   </channel>
 </rss>
