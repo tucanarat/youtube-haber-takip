@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 12:50:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 12:55:27 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: "Çıkış İzni Yoktu" İddiası! Girne'deki Gemi Faciası Kaza mı İhmal mi? Emekli Amiral'den Acı Tahmin!</title>
+      <link>https://www.youtube.com/watch?v=MVtOSS4unmU</link>
+      <guid isPermaLink="false">MVtOSS4unmU</guid>
+      <pubDate>Sun, 30 Aug 2026 12:43:26 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: "Çıkış İzni Yoktu" İddiası! Girne'deki Gemi Faciası Kaza mı İhmal mi? Emekli Amiral'den Acı Tahmin!</description>
+    </item>
     <item>
       <title>Halk TV: SON DAKİKA! GİRNE’DE ÖLÜ SAYISI 6’YA YÜKSELDİ, YÜZLERCE KİŞİYE ULAŞILAMIYOR! Can pazarı sürüyor!</title>
       <link>https://www.youtube.com/watch?v=MBgqaPxl17Q</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">zJKucnDiSbs</guid>
       <pubDate>Sun, 30 Aug 2026 09:29:35 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Oyun içinde oyun! - Zülal Kalkandelen</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Hatıralar ışığında 30 Ağustos - Tolga Aydoğan</title>
-      <link>https://www.youtube.com/watch?v=MPxz4XiiqHc</link>
-      <guid isPermaLink="false">MPxz4XiiqHc</guid>
-      <pubDate>Sun, 30 Aug 2026 09:29:33 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Hatıralar ışığında 30 Ağustos - Tolga Aydoğan</description>
     </item>
   </channel>
 </rss>
