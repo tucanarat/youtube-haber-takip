@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 11:15:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 11:20:31 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI Ülkü Çoban ile Manşet Ötesi (31.08.26)</title>
+      <link>https://www.youtube.com/watch?v=U-kUhjZEmTI</link>
+      <guid isPermaLink="false">U-kUhjZEmTI</guid>
+      <pubDate>Sun, 30 Aug 2026 11:14:30 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Ülkü Çoban ile Manşet Ötesi (31.08.26)</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #CANLI Onur Öncü ile Sabah Pusulası (31.08.26)</title>
+      <link>https://www.youtube.com/watch?v=_jAzWelhZ_8</link>
+      <guid isPermaLink="false">_jAzWelhZ_8</guid>
+      <pubDate>Sun, 30 Aug 2026 11:13:18 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Onur Öncü ile Sabah Pusulası (31.08.26)</description>
+    </item>
     <item>
       <title>Halk TV: GENEL MERKEZ KARANLIĞA GÖMÜLECEK! Özgür Özel felç edecek o hamleyi yarın yapıyor! Hesaplar şaşacak!</title>
       <link>https://www.youtube.com/watch?v=rXXhw8D1EuU</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">296Pe7d9Zg0</guid>
       <pubDate>Sun, 30 Aug 2026 08:32:09 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: 30 Ağustos Zafer Bayramı dolayısıyla İstanbul Boğazı'nda kortej geçişleri gerçekleştiriliyor #Canlı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: "BEYİN BANA İHANET ETTİ!" Esra Çavuşoğlu Kendi Bağımlılık Hikayesini Baştan Sona Anlattı</title>
-      <link>https://www.youtube.com/watch?v=UbxpCYll5kU</link>
-      <guid isPermaLink="false">UbxpCYll5kU</guid>
-      <pubDate>Sun, 30 Aug 2026 08:30:37 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: "BEYİN BANA İHANET ETTİ!" Esra Çavuşoğlu Kendi Bağımlılık Hikayesini Baştan Sona Anlattı</description>
-    </item>
-    <item>
-      <title>Halk TV: Cumhurbaşkanı Erdoğan Ve Devlet Erkanı Anıtkabir'de! (30 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=SxBdXe01BO0</link>
-      <guid isPermaLink="false">SxBdXe01BO0</guid>
-      <pubDate>Sun, 30 Aug 2026 08:25:48 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Cumhurbaşkanı Erdoğan Ve Devlet Erkanı Anıtkabir'de! (30 Ağustos 2026)</description>
     </item>
   </channel>
 </rss>
