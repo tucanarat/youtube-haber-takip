@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 18:30:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 18:35:24 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Makyajlı Gemi 8 Kişiye Mezar Oldu! Faciada Kan Donduran İhmaller Zinciri</title>
+      <link>https://www.youtube.com/watch?v=MFrOA-E2yJE</link>
+      <guid isPermaLink="false">MFrOA-E2yJE</guid>
+      <pubDate>Sun, 30 Aug 2026 18:30:04 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Makyajlı Gemi 8 Kişiye Mezar Oldu! Faciada Kan Donduran İhmaller Zinciri</description>
+    </item>
     <item>
       <title>Halk TV: Oral Çelik öldü: Abdi İpekçi cinayetinde de Bahçelievler katliamında da o vardı!</title>
       <link>https://www.youtube.com/watch?v=yCTtCqs_AqQ</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Y4PxaTBb2MI</guid>
       <pubDate>Sun, 30 Aug 2026 13:10:07 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SON DAKİKA! GİRNE’DE 7 KİŞİ DENİZDE CAN VERDİ! 23 kişiyi bulmak için kurtarma çalışmaları sürüyor!</description>
-    </item>
-    <item>
-      <title>Halk TV: Serhan Başbahçıvan ile Öğle Haberleri (30 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=EHrko0KvlGU</link>
-      <guid isPermaLink="false">EHrko0KvlGU</guid>
-      <pubDate>Sun, 30 Aug 2026 13:02:33 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Serhan Başbahçıvan ile Öğle Haberleri (30 Ağustos 2026)</description>
     </item>
   </channel>
 </rss>
