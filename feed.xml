@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 07:35:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 07:40:29 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | 30 Ağustos Zafer Bayramı Dolayısıyla Vatan Caddesi'nde Kutlama Töreni Düzenleniyor!</title>
+      <link>https://www.youtube.com/watch?v=tTUYS3cZXxY</link>
+      <guid isPermaLink="false">tTUYS3cZXxY</guid>
+      <pubDate>Sun, 30 Aug 2026 07:35:54 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | 30 Ağustos Zafer Bayramı Dolayısıyla Vatan Caddesi'nde Kutlama Töreni Düzenleniyor!</description>
+    </item>
+    <item>
+      <title>Halk TV: Prof. Dr. Ercan Akşit, Cem Yılmaz'ın sağlık durumuna ilişkin açıklamalarda bulundu!</title>
+      <link>https://www.youtube.com/shorts/ucMRIUmSo7s</link>
+      <guid isPermaLink="false">ucMRIUmSo7s</guid>
+      <pubDate>Sun, 30 Aug 2026 07:34:01 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Prof. Dr. Ercan Akşit, Cem Yılmaz'ın sağlık durumuna ilişkin açıklamalarda bulundu!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: 30 Ağustos Zafer Bayramı dolayısıyla Vatan Caddesi'nde kutlama töreni düzenleniyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=f4RUjhOpK2k</link>
@@ -153,6 +167,13 @@
       <guid isPermaLink="false">XfCSzCamuWc</guid>
       <pubDate>Sun, 30 Aug 2026 06:14:38 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: 30 Ağustos Zafer Bayramı dolayısıyla Beşiktaş'ta törenler düzenleniyor #Canlı</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | YENİ Parti Şişli İlçe Başkanlığı Açılışı! Özgür Çelik Konuşuyor!</title>
+      <link>https://www.youtube.com/watch?v=4klYitaFnXY</link>
+      <guid isPermaLink="false">4klYitaFnXY</guid>
+      <pubDate>Sun, 30 Aug 2026 06:12:16 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti Şişli İlçe Başkanlığı Açılışı! Özgür Çelik Konuşuyor!</description>
     </item>
     <item>
       <title>Cumhuriyet: #CANLI Özgür Özel'e Kayseri'de yoğun ilgi...</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">hZ-v5vLAZhY</guid>
       <pubDate>Sat, 29 Aug 2026 19:45:19 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BATMAN'DAN KAN DONDURAN OLAY! Annesini öldürüp çöp konteynerine attı, emniyete gidip teslim oldu!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İktidarı Sarsan Anket Açıklandı! AKP'nin Kalesi Kayseri'de Özgür Özel'den Gövde Gösterisi</title>
-      <link>https://www.youtube.com/watch?v=dZEPWGPAHlA</link>
-      <guid isPermaLink="false">dZEPWGPAHlA</guid>
-      <pubDate>Sat, 29 Aug 2026 19:30:28 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İktidarı Sarsan Anket Açıklandı! AKP'nin Kalesi Kayseri'de Özgür Özel'den Gövde Gösterisi</description>
-    </item>
-    <item>
-      <title>Halk TV: ERDOĞAN VE KILIÇDAROĞLU YIKILACAK! Kayseri sokakları Özel ile yıkıldı! Tüm dengeler altüst olacak!</title>
-      <link>https://www.youtube.com/watch?v=ZolEQzbRkF0</link>
-      <guid isPermaLink="false">ZolEQzbRkF0</guid>
-      <pubDate>Sat, 29 Aug 2026 19:30:22 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ERDOĞAN VE KILIÇDAROĞLU YIKILACAK! Kayseri sokakları Özel ile yıkıldı! Tüm dengeler altüst olacak!</description>
-    </item>
-    <item>
-      <title>Halk TV: Kayseri'de bir vatandaş: Bu seçimde sandıklarınıza sahip çıkın başkanım!</title>
-      <link>https://www.youtube.com/shorts/H6lY84sPJaM</link>
-      <guid isPermaLink="false">H6lY84sPJaM</guid>
-      <pubDate>Sat, 29 Aug 2026 19:30:18 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Kayseri'de bir vatandaş: Bu seçimde sandıklarınıza sahip çıkın başkanım!</description>
     </item>
   </channel>
 </rss>
