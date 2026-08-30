@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 19:25:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 19:30:42 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: BURSA'DA BÜYÜK SKANDAL! AKP’li Başkanvekili geldi, Atatürk portresi kayboldu!</title>
+      <link>https://www.youtube.com/watch?v=9xoAdR9T_D8</link>
+      <guid isPermaLink="false">9xoAdR9T_D8</guid>
+      <pubDate>Sun, 30 Aug 2026 19:20:39 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BURSA'DA BÜYÜK SKANDAL! AKP’li Başkanvekili geldi, Atatürk portresi kayboldu!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Kıbrıs'ta Dehşet Gecesi! Batan Gemiden 242 Kişi Kurtarıldı, 8 Ölü Var!</title>
       <link>https://www.youtube.com/watch?v=N3nFsEi5ti8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">HjvGN5q_n7k</guid>
       <pubDate>Sun, 30 Aug 2026 13:40:50 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Girne açıklarında 267 kişiyi taşıyan yolcu gemisi battı: Hayatını kaybedenler var</description>
-    </item>
-    <item>
-      <title>Halk TV: SÖZÜN BİTTİĞİ YER! Yardım bekleyen yolcuların paniği kameralara böyle yansıdı! Vicdanları yaralar!</title>
-      <link>https://www.youtube.com/watch?v=TNFlxXiW3iQ</link>
-      <guid isPermaLink="false">TNFlxXiW3iQ</guid>
-      <pubDate>Sun, 30 Aug 2026 13:40:23 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SÖZÜN BİTTİĞİ YER! Yardım bekleyen yolcuların paniği kameralara böyle yansıdı! Vicdanları yaralar!</description>
     </item>
   </channel>
 </rss>
