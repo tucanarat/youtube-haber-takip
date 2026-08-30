@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 22:40:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 22:45:34 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: YENİ Parti Kadıköy ilçe başkanlığı açılışı #Canlı</title>
+      <link>https://www.youtube.com/watch?v=eTeP_4UpMjc</link>
+      <guid isPermaLink="false">eTeP_4UpMjc</guid>
+      <pubDate>Sun, 30 Aug 2026 22:45:32 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Kadıköy ilçe başkanlığı açılışı #Canlı</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: DEM Parti Eş Genel Başkanı Tülay Hatimoğulları, İzmir'de halk buluşmasında konuşuyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=RnvWEoGUouk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">3JWuZEIhX0s</guid>
       <pubDate>Sun, 30 Aug 2026 17:00:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: "Kahraman İlan Edilmek İstemiyorum!" | Senem Toluay Ilgaz | İpek Özbey ile Perdenin Arkası</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Gülşah Ekinci ile Hafta Sonu Ana Haber</title>
-      <link>https://www.youtube.com/watch?v=OxYSEzfu3Hg</link>
-      <guid isPermaLink="false">OxYSEzfu3Hg</guid>
-      <pubDate>Sun, 30 Aug 2026 16:56:09 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Gülşah Ekinci ile Hafta Sonu Ana Haber</description>
     </item>
   </channel>
 </rss>
