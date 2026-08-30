@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 21:15:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 21:20:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SON DAKİKA! 7 mürettebatla birlikte gözaltına alınmıştı... Girne'de batan geminin kaptanı tutuklandı</title>
+      <link>https://www.youtube.com/watch?v=Xc0JPK4bFvI</link>
+      <guid isPermaLink="false">Xc0JPK4bFvI</guid>
+      <pubDate>Sun, 30 Aug 2026 21:10:37 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! 7 mürettebatla birlikte gözaltına alınmıştı... Girne'de batan geminin kaptanı tutuklandı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Özlem Gürses ile Sözcü Ana Haber</title>
       <link>https://www.youtube.com/watch?v=XxZjpqmlq3E</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">e2jTxw0y5-s</guid>
       <pubDate>Sun, 30 Aug 2026 15:24:14 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Girne Açıklarında Gemi Faciası! 267 Kişilik Yolcu Gemisi Battı! Katamaran Alabora Oldu!</description>
-    </item>
-    <item>
-      <title>Halk TV: EN AZ 7 KİŞİ CAN VERDİ... Batan geminin kaptanı ile ilgili sarsıcı bilgiler ortaya çıktı!</title>
-      <link>https://www.youtube.com/watch?v=WDG3Sjep79M</link>
-      <guid isPermaLink="false">WDG3Sjep79M</guid>
-      <pubDate>Sun, 30 Aug 2026 15:18:33 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: EN AZ 7 KİŞİ CAN VERDİ... Batan geminin kaptanı ile ilgili sarsıcı bilgiler ortaya çıktı!</description>
     </item>
   </channel>
 </rss>
