@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 12:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 12:05:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: GİRNE’DEN KARA HABER GELDİ! Sulara gömülen gemide 1 kişi hayatını kaybetti! İşte son gelişmeler...</title>
+      <link>https://www.youtube.com/watch?v=2StWUb_N56o</link>
+      <guid isPermaLink="false">2StWUb_N56o</guid>
+      <pubDate>Sun, 30 Aug 2026 12:00:25 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: GİRNE’DEN KARA HABER GELDİ! Sulara gömülen gemide 1 kişi hayatını kaybetti! İşte son gelişmeler...</description>
+    </item>
+    <item>
+      <title>Halk TV: GİRNE'DE ÖLÜMLE BURUN BURUNA! Alabora olan gemiden dehşet verici görüntüler! Böyle sulara gömülmüş!</title>
+      <link>https://www.youtube.com/watch?v=diPEoyKtsv8</link>
+      <guid isPermaLink="false">diPEoyKtsv8</guid>
+      <pubDate>Sun, 30 Aug 2026 11:50:26 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: GİRNE'DE ÖLÜMLE BURUN BURUNA! Alabora olan gemiden dehşet verici görüntüler! Böyle sulara gömülmüş!</description>
+    </item>
     <item>
       <title>Halk TV: ÇOK ACI GÖRÜNTÜLER: Girne açıklarında en az 260 kişiyi taşıyan yolcu gemisi battı!</title>
       <link>https://www.youtube.com/shorts/iYcPzmgAYMg</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">6M77U8BdAaA</guid>
       <pubDate>Sun, 30 Aug 2026 09:15:45 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: 30 Ağustos Zafer Bayramı kutlanıyor... Erdoğan ve devlet erkanı Anıtkabir'de</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: 30 Ağustos Zafer Bayramı dolayısıyla Vatan Caddesi'nde kutlama töreni düzenleniyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=f4RUjhOpK2k</link>
-      <guid isPermaLink="false">f4RUjhOpK2k</guid>
-      <pubDate>Sun, 30 Aug 2026 09:10:46 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: 30 Ağustos Zafer Bayramı dolayısıyla Vatan Caddesi'nde kutlama töreni düzenleniyor #Canlı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Hüsnü Mahalli'den yasaklanan 'SAVUNMA' kitabı tepkisi! | Namık Koçak - Hüsnü Mahalli ile Forum</title>
-      <link>https://www.youtube.com/watch?v=jP9XTAoVrek</link>
-      <guid isPermaLink="false">jP9XTAoVrek</guid>
-      <pubDate>Sun, 30 Aug 2026 09:04:40 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Hüsnü Mahalli'den yasaklanan 'SAVUNMA' kitabı tepkisi! | Namık Koçak - Hüsnü Mahalli ile Forum</description>
     </item>
   </channel>
 </rss>
