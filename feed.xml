@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 19:55:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 20:00:49 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: GİRNE AÇIKLARINDA FACİANIN HEMEN ÖNCESİ! Geminin batmadan önceki görüntüleri ortaya çıktı!</title>
+      <link>https://www.youtube.com/watch?v=m9XOTwASRLA</link>
+      <guid isPermaLink="false">m9XOTwASRLA</guid>
+      <pubDate>Sun, 30 Aug 2026 19:50:22 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: GİRNE AÇIKLARINDA FACİANIN HEMEN ÖNCESİ! Geminin batmadan önceki görüntüleri ortaya çıktı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: KAPTAN GÖZALTINDA! Girne Açıklarındaki Gemi Faciasında Korkunç İhmal İddiası</title>
       <link>https://www.youtube.com/watch?v=AK79_HeATGQ</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">UByalxGirXg</guid>
       <pubDate>Sun, 30 Aug 2026 14:00:08 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: FACİADA İHMAL ZİNCİRİ! Fırtınada Sefer İnadı Kazayı Getirdi! Batan Gemideki Çarpıcı Delik Detayı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: 'GEMİ YARA ALMIŞ OLABİLİR' Yolcu Gemisi Girne'de Neden Battı? Uzman Kaptan'dan Çarpıcı İddia!</title>
-      <link>https://www.youtube.com/watch?v=-GxBc2baWPc</link>
-      <guid isPermaLink="false">-GxBc2baWPc</guid>
-      <pubDate>Sun, 30 Aug 2026 13:42:08 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: 'GEMİ YARA ALMIŞ OLABİLİR' Yolcu Gemisi Girne'de Neden Battı? Uzman Kaptan'dan Çarpıcı İddia!</description>
     </item>
   </channel>
 </rss>
