@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 17:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 17:05:29 +0000</lastBuildDate>
     <item>
       <title>Halk TV: Genel merkezde çalışmalar tamamlandı... Utku Çakırözer, üye sayısını Halk TV’ye açıkladı!</title>
       <link>https://www.youtube.com/watch?v=pPdneyIYcds</link>
       <guid isPermaLink="false">pPdneyIYcds</guid>
       <pubDate>Sun, 30 Aug 2026 17:00:11 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Genel merkezde çalışmalar tamamlandı... Utku Çakırözer, üye sayısını Halk TV’ye açıkladı!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: "Kahraman İlan Edilmek İstemiyorum!" | Senem Toluay Ilgaz | İpek Özbey ile Perdenin Arkası</title>
+      <link>https://www.youtube.com/watch?v=3JWuZEIhX0s</link>
+      <guid isPermaLink="false">3JWuZEIhX0s</guid>
+      <pubDate>Sun, 30 Aug 2026 17:00:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: "Kahraman İlan Edilmek İstemiyorum!" | Senem Toluay Ilgaz | İpek Özbey ile Perdenin Arkası</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | Gülşah Ekinci ile Hafta Sonu Ana Haber</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">kjLbXFMg9F0</guid>
       <pubDate>Sun, 30 Aug 2026 12:25:04 +0000</pubDate>
       <description>Halk TV kanalından yeni video: MİLYONLARIN GÖZÜ KULAĞI GİRNE'DE! KKTC Cumhurbaşkanı bölgeye intikal ediyor! Görüntüler korkunç!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Gemi Neden Battı? Uzman Kaptandan Çarpıcı İddia! GEMİ BU YÜZDEN BATMIŞ OLABİLİR!</title>
-      <link>https://www.youtube.com/watch?v=z15Tmnsiq8M</link>
-      <guid isPermaLink="false">z15Tmnsiq8M</guid>
-      <pubDate>Sun, 30 Aug 2026 12:20:40 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Gemi Neden Battı? Uzman Kaptandan Çarpıcı İddia! GEMİ BU YÜZDEN BATMIŞ OLABİLİR!</description>
     </item>
   </channel>
 </rss>
