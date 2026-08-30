@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 20:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 20:25:25 +0000</lastBuildDate>
     <item>
-      <title>SÖZCÜ TV: Katamaran Faciasında Kan Donduran İddia: Bile Bile Ölüme Mi Gittiler? Uzman İsim Anlattı</title>
+      <title>Halk TV: Son görüntüleri gece yarısı kayda girdi! 3 kardeşin babası günler sonrası çarpıcı bilgiler verdi!</title>
+      <link>https://www.youtube.com/watch?v=LJvSYCCQTwg</link>
+      <guid isPermaLink="false">LJvSYCCQTwg</guid>
+      <pubDate>Sun, 30 Aug 2026 20:10:01 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Son görüntüleri gece yarısı kayda girdi! 3 kardeşin babası günler sonrası çarpıcı bilgiler verdi!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Kıbrıs Katamaran Faciasında Kan Donduran İddia: Bile Bile Ölüme Mi Gittiler? Uzman İsim Anlattı</title>
       <link>https://www.youtube.com/watch?v=2S4GlcbTLjU</link>
       <guid isPermaLink="false">2S4GlcbTLjU</guid>
       <pubDate>Sun, 30 Aug 2026 20:00:04 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Katamaran Faciasında Kan Donduran İddia: Bile Bile Ölüme Mi Gittiler? Uzman İsim Anlattı</description>
+      <description>SÖZCÜ TV kanalından yeni video: Kıbrıs Katamaran Faciasında Kan Donduran İddia: Bile Bile Ölüme Mi Gittiler? Uzman İsim Anlattı</description>
     </item>
     <item>
       <title>Halk TV: GİRNE AÇIKLARINDA FACİANIN HEMEN ÖNCESİ! Geminin batmadan önceki görüntüleri ortaya çıktı!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">wnWgYDUdk3Q</guid>
       <pubDate>Sun, 30 Aug 2026 14:10:23 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İŞTE, BATMA ANINDA GEMİDE YAŞANAN DEHŞET ANLARI!</description>
-    </item>
-    <item>
-      <title>Halk TV: "GEMİ DÖNMEMEK İÇİN İNAT ETTİ!" Yolculardan kan donduran iddialar! KKTC CTP Vekili Özuslu anlattı!</title>
-      <link>https://www.youtube.com/watch?v=6iHu1qwvO4U</link>
-      <guid isPermaLink="false">6iHu1qwvO4U</guid>
-      <pubDate>Sun, 30 Aug 2026 14:00:32 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: "GEMİ DÖNMEMEK İÇİN İNAT ETTİ!" Yolculardan kan donduran iddialar! KKTC CTP Vekili Özuslu anlattı!</description>
     </item>
   </channel>
 </rss>
