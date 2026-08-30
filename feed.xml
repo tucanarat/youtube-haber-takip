@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 17:20:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 17:25:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Gemi kazasında deniz koşulları tartışması! Alper Gergin’den kazaya ilişkin kritik değerlendirme</title>
+      <link>https://www.youtube.com/watch?v=YRnLGvHrN9w</link>
+      <guid isPermaLink="false">YRnLGvHrN9w</guid>
+      <pubDate>Sun, 30 Aug 2026 17:20:33 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Gemi kazasında deniz koşulları tartışması! Alper Gergin’den kazaya ilişkin kritik değerlendirme</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Cumhurbaşkanı Erdoğan, 30 Ağustos Zafer Bayramı Özel Programı'nda konuşuyor #Canlı,</title>
       <link>https://www.youtube.com/watch?v=2iEiYQqzs9w</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">MBgqaPxl17Q</guid>
       <pubDate>Sun, 30 Aug 2026 12:40:00 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SON DAKİKA! GİRNE’DE ÖLÜ SAYISI 6’YA YÜKSELDİ, YÜZLERCE KİŞİYE ULAŞILAMIYOR! Can pazarı sürüyor!</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel tam kalkacakken teyzenin ayran ikramını geri çevirmedi!</title>
-      <link>https://www.youtube.com/shorts/dvz227nK55Y</link>
-      <guid isPermaLink="false">dvz227nK55Y</guid>
-      <pubDate>Sun, 30 Aug 2026 12:30:33 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel tam kalkacakken teyzenin ayran ikramını geri çevirmedi!</description>
     </item>
   </channel>
 </rss>
