@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 14:10:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 14:15:28 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: İŞTE, BATMA ANINDA GEMİDE YAŞANAN DEHŞET ANLARI!</title>
+      <link>https://www.youtube.com/shorts/wnWgYDUdk3Q</link>
+      <guid isPermaLink="false">wnWgYDUdk3Q</guid>
+      <pubDate>Sun, 30 Aug 2026 14:10:23 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İŞTE, BATMA ANINDA GEMİDE YAŞANAN DEHŞET ANLARI!</description>
+    </item>
+    <item>
+      <title>Halk TV: "GEMİ DÖNMEMEK İÇİN İNAT ETTİ!" Yolculardan kan donduran iddialar! KKTC CTP Vekili Özuslu anlattı!</title>
+      <link>https://www.youtube.com/watch?v=6iHu1qwvO4U</link>
+      <guid isPermaLink="false">6iHu1qwvO4U</guid>
+      <pubDate>Sun, 30 Aug 2026 14:00:32 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: "GEMİ DÖNMEMEK İÇİN İNAT ETTİ!" Yolculardan kan donduran iddialar! KKTC CTP Vekili Özuslu anlattı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: FACİADA İHMAL ZİNCİRİ! Fırtınada Sefer İnadı Kazayı Getirdi! Batan Gemideki Çarpıcı Delik Detayı</title>
       <link>https://www.youtube.com/watch?v=UByalxGirXg</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">m4s9R8zpAog</guid>
       <pubDate>Sun, 30 Aug 2026 10:38:19 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Yurttaşlar 30 Ağustos Zafer Bayramı'nda Ata'nın huzurunda #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: DEM Parti Eş Genel Başkanı Tülay Hatimoğulları, İzmir'de Halk Buluşmasında Konuştu!</title>
-      <link>https://www.youtube.com/watch?v=6ZVZTZcyu1U</link>
-      <guid isPermaLink="false">6ZVZTZcyu1U</guid>
-      <pubDate>Sun, 30 Aug 2026 10:36:32 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: DEM Parti Eş Genel Başkanı Tülay Hatimoğulları, İzmir'de Halk Buluşmasında Konuştu!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: SARIŞIN KURT KOCATEPE'DE! Atatürk'ün Yunan Komutan Hacıanesti'yi Yıkan Tarihi Sözü! | Naim Babüroğlu</title>
-      <link>https://www.youtube.com/watch?v=jT9I6FdIkGY</link>
-      <guid isPermaLink="false">jT9I6FdIkGY</guid>
-      <pubDate>Sun, 30 Aug 2026 10:30:13 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: SARIŞIN KURT KOCATEPE'DE! Atatürk'ün Yunan Komutan Hacıanesti'yi Yıkan Tarihi Sözü! | Naim Babüroğlu</description>
     </item>
   </channel>
 </rss>
