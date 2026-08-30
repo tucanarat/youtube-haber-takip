@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 18:40:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 18:45:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Kozinoğlu dosyası 15 yıl sonra yeniden açılıyor! Gardiyanlar ve sağlık ekibi yeniden sorgulanacak!</title>
+      <link>https://www.youtube.com/watch?v=98aQJJZ-NlM</link>
+      <guid isPermaLink="false">98aQJJZ-NlM</guid>
+      <pubDate>Sun, 30 Aug 2026 18:40:07 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Kozinoğlu dosyası 15 yıl sonra yeniden açılıyor! Gardiyanlar ve sağlık ekibi yeniden sorgulanacak!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Makyajlı Gemi 8 Kişiye Mezar Oldu! Faciada Kan Donduran İhmaller Zinciri</title>
       <link>https://www.youtube.com/watch?v=MFrOA-E2yJE</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">wyDYYGuKQXc</guid>
       <pubDate>Sun, 30 Aug 2026 13:23:19 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Kurtulan Yolcu O Anları Anlattı! "Kendileri Kaçtı İnsanlar İçeride Kaldı" Batan Gemide İhmal Zinciri</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! GİRNE’DE 7 KİŞİ DENİZDE CAN VERDİ! 23 kişiyi bulmak için kurtarma çalışmaları sürüyor!</title>
-      <link>https://www.youtube.com/watch?v=Y4PxaTBb2MI</link>
-      <guid isPermaLink="false">Y4PxaTBb2MI</guid>
-      <pubDate>Sun, 30 Aug 2026 13:10:07 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! GİRNE’DE 7 KİŞİ DENİZDE CAN VERDİ! 23 kişiyi bulmak için kurtarma çalışmaları sürüyor!</description>
     </item>
   </channel>
 </rss>
