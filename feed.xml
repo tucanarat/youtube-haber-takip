@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 09:05:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 09:10:30 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: #CANLI Namık Koçak - Hüsnü Mahalli ile Forum 30.08.26</title>
       <link>https://www.youtube.com/watch?v=jP9XTAoVrek</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">pD3gJi8-IxE</guid>
       <pubDate>Sun, 30 Aug 2026 09:00:06 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "İMAMOĞLU VATAN HAİNİ Mİ?" Hüsnü Mahalli'den Ekrem İmamoğlu'nun yasaklanan 'SAVUNMA' kitabı tepkisi!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Uğur Mumcu Suikastı Mehmet Ağar MİT İddiaları! Devletin Gizlediği Rapor | Erol Mütercimler Anlattı</title>
+      <link>https://www.youtube.com/watch?v=sRoTEkV9Ebw</link>
+      <guid isPermaLink="false">sRoTEkV9Ebw</guid>
+      <pubDate>Sun, 30 Aug 2026 09:00:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Uğur Mumcu Suikastı Mehmet Ağar MİT İddiaları! Devletin Gizlediği Rapor | Erol Mütercimler Anlattı</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: CHP İstanbul İl Başkanı Gürsel Tekin ilçe başkanlarıyla Cumhuriyet Anıtı'na çelenk bırakıyor #Canlı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">qWdGVcX_8FI</guid>
       <pubDate>Sat, 29 Aug 2026 22:57:21 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: #CANLI İyi ki Hafta Sonu | Damla Doğan Tuncel</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Netanyahu'nun Büyük Oyunu! Suriye ve İran'ı Karıştıran Strateji! Edgar Şar'dan Çarpıcı Bölge Analizi</title>
-      <link>https://www.youtube.com/watch?v=qGd1yuyaaUQ</link>
-      <guid isPermaLink="false">qGd1yuyaaUQ</guid>
-      <pubDate>Sat, 29 Aug 2026 22:30:19 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Netanyahu'nun Büyük Oyunu! Suriye ve İran'ı Karıştıran Strateji! Edgar Şar'dan Çarpıcı Bölge Analizi</description>
     </item>
   </channel>
 </rss>
