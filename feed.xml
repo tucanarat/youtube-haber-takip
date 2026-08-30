@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 13:50:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 13:55:22 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Milli Savunma Üniversitesi Harp Okulları Diploma Alma ve Sancak Devir Teslim Töreni</title>
+      <link>https://www.youtube.com/watch?v=l9BlAHSb3CA</link>
+      <guid isPermaLink="false">l9BlAHSb3CA</guid>
+      <pubDate>Sun, 30 Aug 2026 13:44:32 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Milli Savunma Üniversitesi Harp Okulları Diploma Alma ve Sancak Devir Teslim Töreni</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: 'GEMİ YARA ALMIŞ OLABİLİR' Yolcu Gemisi Girne'de Neden Battı? Uzman Kaptan'dan Çarpıcı İddia!</title>
       <link>https://www.youtube.com/watch?v=-GxBc2baWPc</link>
@@ -20,6 +27,13 @@
       <guid isPermaLink="false">rhVcg-bJCJ0</guid>
       <pubDate>Sun, 30 Aug 2026 13:41:16 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Girne açıklarında alabora olan gemi için Taşucu Limanı'nda ekipler harekete geçti!</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Girne açıklarında 267 kişiyi taşıyan yolcu gemisi battı: Hayatını kaybedenler var</title>
+      <link>https://www.youtube.com/shorts/HjvGN5q_n7k</link>
+      <guid isPermaLink="false">HjvGN5q_n7k</guid>
+      <pubDate>Sun, 30 Aug 2026 13:40:50 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Girne açıklarında 267 kişiyi taşıyan yolcu gemisi battı: Hayatını kaybedenler var</description>
     </item>
     <item>
       <title>Halk TV: SÖZÜN BİTTİĞİ YER! Yardım bekleyen yolcuların paniği kameralara böyle yansıdı! Vicdanları yaralar!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">zbs9y0SKWho</guid>
       <pubDate>Sun, 30 Aug 2026 10:20:21 +0000</pubDate>
       <description>Halk TV kanalından yeni video: TÜM TÜRKİYE'Yİ SARSMIŞTI, MASAK DÜĞMEYE BASTI! Şeytantepe dosyasında 31 kişinin hesabı incelenecek!</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel ile Kayserili esnaf arasında güldüren "pastırma" diyaloğu!</title>
-      <link>https://www.youtube.com/shorts/xwpUGaujkGU</link>
-      <guid isPermaLink="false">xwpUGaujkGU</guid>
-      <pubDate>Sun, 30 Aug 2026 10:08:42 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel ile Kayserili esnaf arasında güldüren "pastırma" diyaloğu!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Çal için el ele verdiler</title>
-      <link>https://www.youtube.com/shorts/KTIQz4opfdI</link>
-      <guid isPermaLink="false">KTIQz4opfdI</guid>
-      <pubDate>Sun, 30 Aug 2026 10:06:45 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Çal için el ele verdiler</description>
     </item>
   </channel>
 </rss>
