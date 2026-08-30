@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 16:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 16:10:30 +0000</lastBuildDate>
     <item>
       <title>Halk TV: Listede kimler yok ki... Yakayı ele veren 'Ponzi Mine'nin, savcı ile rüşvet yazışmaları ortaya çıktı</title>
       <link>https://www.youtube.com/watch?v=wrqPgBsOxdc</link>
       <guid isPermaLink="false">wrqPgBsOxdc</guid>
       <pubDate>Sun, 30 Aug 2026 16:00:18 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Listede kimler yok ki... Yakayı ele veren 'Ponzi Mine'nin, savcı ile rüşvet yazışmaları ortaya çıktı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Eski Gemi, Sahte Kaptan! Kıbrıs'taki Deniz Faciasının Perde Arkası! BİLE BİLE ÖLÜME GİTMİŞLER</title>
+      <link>https://www.youtube.com/watch?v=qWW1BkMqwPs</link>
+      <guid isPermaLink="false">qWW1BkMqwPs</guid>
+      <pubDate>Sun, 30 Aug 2026 16:00:18 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Eski Gemi, Sahte Kaptan! Kıbrıs'taki Deniz Faciasının Perde Arkası! BİLE BİLE ÖLÜME GİTMİŞLER</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: "İnandıklarım Uğruna 2 Kez Kovuldum!" | Damla Doğan Tuncel | İpek Özbey ile Perdenin Arkası</title>
+      <link>https://www.youtube.com/watch?v=iIhnNQy0JAs</link>
+      <guid isPermaLink="false">iIhnNQy0JAs</guid>
+      <pubDate>Sun, 30 Aug 2026 16:00:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: "İnandıklarım Uğruna 2 Kez Kovuldum!" | Damla Doğan Tuncel | İpek Özbey ile Perdenin Arkası</description>
     </item>
     <item>
       <title>Halk TV: BU KEZ SLOGAN YOK, ALKIŞ VAR! Erdoğan’ın Anıtkabir ziyaretinde ezber bozan görüntüler!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">iYcPzmgAYMg</guid>
       <pubDate>Sun, 30 Aug 2026 11:42:04 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ÇOK ACI GÖRÜNTÜLER: Girne açıklarında en az 260 kişiyi taşıyan yolcu gemisi battı!</description>
-    </item>
-    <item>
-      <title>Halk TV: DURUM ÇOK CİDDİ! Girne'deki facianın yeni görüntüleri ortaya çıktı! Denizin ortasında can pazarı!</title>
-      <link>https://www.youtube.com/watch?v=ghevx8qVg3k</link>
-      <guid isPermaLink="false">ghevx8qVg3k</guid>
-      <pubDate>Sun, 30 Aug 2026 11:40:16 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: DURUM ÇOK CİDDİ! Girne'deki facianın yeni görüntüleri ortaya çıktı! Denizin ortasında can pazarı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Girne açıklarında yolcu gemisi battı!</title>
-      <link>https://www.youtube.com/shorts/DOLZiahO1Dc</link>
-      <guid isPermaLink="false">DOLZiahO1Dc</guid>
-      <pubDate>Sun, 30 Aug 2026 11:34:49 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Girne açıklarında yolcu gemisi battı!</description>
     </item>
   </channel>
 </rss>
