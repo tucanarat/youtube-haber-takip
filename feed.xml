@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 19:05:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 19:10:36 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Kıbrıs'ta Dehşet Gecesi! Batan Gemiden 242 Kişi Kurtarıldı, 8 Ölü Var!</title>
+      <link>https://www.youtube.com/watch?v=N3nFsEi5ti8</link>
+      <guid isPermaLink="false">N3nFsEi5ti8</guid>
+      <pubDate>Sun, 30 Aug 2026 19:00:36 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Kıbrıs'ta Dehşet Gecesi! Batan Gemiden 242 Kişi Kurtarıldı, 8 Ölü Var!</description>
+    </item>
+    <item>
+      <title>Halk TV: Kalp krizi geçiren Cem Yılmaz'dan sağlık durumu açıklaması! 'Doktorlar “stresten uzak durun” dedi'</title>
+      <link>https://www.youtube.com/watch?v=Q0PIas55kYk</link>
+      <guid isPermaLink="false">Q0PIas55kYk</guid>
+      <pubDate>Sun, 30 Aug 2026 19:00:36 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Kalp krizi geçiren Cem Yılmaz'dan sağlık durumu açıklaması! 'Doktorlar “stresten uzak durun” dedi'</description>
+    </item>
     <item>
       <title>Halk TV: Kozinoğlu dosyası 15 yıl sonra yeniden açılıyor! Gardiyanlar ve sağlık ekibi yeniden sorgulanacak!</title>
       <link>https://www.youtube.com/watch?v=98aQJJZ-NlM</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">TNFlxXiW3iQ</guid>
       <pubDate>Sun, 30 Aug 2026 13:40:23 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SÖZÜN BİTTİĞİ YER! Yardım bekleyen yolcuların paniği kameralara böyle yansıdı! Vicdanları yaralar!</description>
-    </item>
-    <item>
-      <title>Halk TV: Girne açıklarına alabora olan gemiden kurtulan yolcu dehşet anlarını anlattı!</title>
-      <link>https://www.youtube.com/shorts/MBh2Ac0eWAQ</link>
-      <guid isPermaLink="false">MBh2Ac0eWAQ</guid>
-      <pubDate>Sun, 30 Aug 2026 13:28:24 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Girne açıklarına alabora olan gemiden kurtulan yolcu dehşet anlarını anlattı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Kurtulan Yolcu O Anları Anlattı! "Kendileri Kaçtı İnsanlar İçeride Kaldı" Batan Gemide İhmal Zinciri</title>
-      <link>https://www.youtube.com/watch?v=wyDYYGuKQXc</link>
-      <guid isPermaLink="false">wyDYYGuKQXc</guid>
-      <pubDate>Sun, 30 Aug 2026 13:23:19 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Kurtulan Yolcu O Anları Anlattı! "Kendileri Kaçtı İnsanlar İçeride Kaldı" Batan Gemide İhmal Zinciri</description>
     </item>
   </channel>
 </rss>
