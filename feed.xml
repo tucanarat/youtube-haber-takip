@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 07:00:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 07:05:26 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: "En Büyük Kalp Krizlerinden Biri!" Cem Yılmaz'dan Korkutan Haber! Apar Topar Hastaneye Kaldırıldı!</title>
+      <link>https://www.youtube.com/watch?v=wLNXVqJrqg4</link>
+      <guid isPermaLink="false">wLNXVqJrqg4</guid>
+      <pubDate>Sun, 30 Aug 2026 07:00:07 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: "En Büyük Kalp Krizlerinden Biri!" Cem Yılmaz'dan Korkutan Haber! Apar Topar Hastaneye Kaldırıldı!</description>
+    </item>
     <item>
       <title>Cumhuriyet: Sarıkamış'ın meşhur boz ayısı barajda yüzerken yakalandı!</title>
       <link>https://www.youtube.com/shorts/8fxh1jwJAvk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">R_aYHx0_osM</guid>
       <pubDate>Sat, 29 Aug 2026 18:05:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BUTLANDA HER ŞEYİ DURDURACAK O HAMLE GELİYOR! Cumhur Uzun o programı ilk kez açıkladı! Tarih verdi!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İmamoğlu'nun Savunmasına Sansür! Mahkemeden Olay Karar! İBB Davasında Sıcak Gelişme</title>
-      <link>https://www.youtube.com/watch?v=OMzKhQnNFkA</link>
-      <guid isPermaLink="false">OMzKhQnNFkA</guid>
-      <pubDate>Sat, 29 Aug 2026 18:00:32 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İmamoğlu'nun Savunmasına Sansür! Mahkemeden Olay Karar! İBB Davasında Sıcak Gelişme</description>
     </item>
   </channel>
 </rss>
