@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 21:05:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 21:10:36 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: 30 Ağustos Zafer Bayramı, İstanbul Vatan Caddesi'nde kutlama töreni</title>
+      <link>https://www.youtube.com/watch?v=Ypobu2yo26Y</link>
+      <guid isPermaLink="false">Ypobu2yo26Y</guid>
+      <pubDate>Sun, 30 Aug 2026 21:06:07 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: 30 Ağustos Zafer Bayramı, İstanbul Vatan Caddesi'nde kutlama töreni</description>
+    </item>
     <item>
       <title>Halk TV: ÇARPICI BİLGİLER! Girne'deki gemi faciasında ihmal mi var? Neler yaşandı? Gazeteci Erişkin anlattı!</title>
       <link>https://www.youtube.com/watch?v=Iier2Aak9jU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ZlypYiC2Wis</guid>
       <pubDate>Sun, 30 Aug 2026 14:49:21 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İşte, batma anında gemide yaşanan dehşet anları!</description>
-    </item>
-    <item>
-      <title>Halk TV: GİRNE'DE BATAN GEMİDEKİ BİR YOLCU O ANLARI KAYDA ALDI!</title>
-      <link>https://www.youtube.com/shorts/xplwQSP-_Vw</link>
-      <guid isPermaLink="false">xplwQSP-_Vw</guid>
-      <pubDate>Sun, 30 Aug 2026 14:47:20 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: GİRNE'DE BATAN GEMİDEKİ BİR YOLCU O ANLARI KAYDA ALDI!</description>
     </item>
   </channel>
 </rss>
