@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 13:40:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 13:45:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Girne açıklarında alabora olan gemi için Taşucu Limanı'nda ekipler harekete geçti!</title>
+      <link>https://www.youtube.com/shorts/rhVcg-bJCJ0</link>
+      <guid isPermaLink="false">rhVcg-bJCJ0</guid>
+      <pubDate>Sun, 30 Aug 2026 13:41:16 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Girne açıklarında alabora olan gemi için Taşucu Limanı'nda ekipler harekete geçti!</description>
+    </item>
+    <item>
+      <title>Halk TV: SÖZÜN BİTTİĞİ YER! Yardım bekleyen yolcuların paniği kameralara böyle yansıdı! Vicdanları yaralar!</title>
+      <link>https://www.youtube.com/watch?v=TNFlxXiW3iQ</link>
+      <guid isPermaLink="false">TNFlxXiW3iQ</guid>
+      <pubDate>Sun, 30 Aug 2026 13:40:23 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SÖZÜN BİTTİĞİ YER! Yardım bekleyen yolcuların paniği kameralara böyle yansıdı! Vicdanları yaralar!</description>
+    </item>
     <item>
       <title>Halk TV: Girne açıklarına alabora olan gemiden kurtulan yolcu dehşet anlarını anlattı!</title>
       <link>https://www.youtube.com/shorts/MBh2Ac0eWAQ</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">cJrUlXRQ87c</guid>
       <pubDate>Sun, 30 Aug 2026 10:00:32 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özlem Gültekin’in ölümünde yeni iddialar! Erhan çelik o iddiaya ateş püskürdü!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Melih Gökçek hakkında soruşturma başlatıldı! Hüsnü Mahalli'den çok kritik yorum...</title>
-      <link>https://www.youtube.com/watch?v=P37WgVsqj_Y</link>
-      <guid isPermaLink="false">P37WgVsqj_Y</guid>
-      <pubDate>Sun, 30 Aug 2026 10:00:19 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Melih Gökçek hakkında soruşturma başlatıldı! Hüsnü Mahalli'den çok kritik yorum...</description>
-    </item>
-    <item>
-      <title>Halk TV: Cumhurbaşkanı Erdoğan, Zafer Bayramı Tebriklerini Kabul Etti!</title>
-      <link>https://www.youtube.com/watch?v=xi4swJ7xbeM</link>
-      <guid isPermaLink="false">xi4swJ7xbeM</guid>
-      <pubDate>Sun, 30 Aug 2026 10:00:13 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Cumhurbaşkanı Erdoğan, Zafer Bayramı Tebriklerini Kabul Etti!</description>
     </item>
   </channel>
 </rss>
