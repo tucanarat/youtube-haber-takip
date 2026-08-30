@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 12:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 12:19:15 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Taksim Anıtı'ndaki çelenk sunumunda en çok alkışı alan isim Özgür Çelik oldu!</title>
+      <link>https://www.youtube.com/shorts/MMh1EoCFq5c</link>
+      <guid isPermaLink="false">MMh1EoCFq5c</guid>
+      <pubDate>Sun, 30 Aug 2026 12:12:27 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Taksim Anıtı'ndaki çelenk sunumunda en çok alkışı alan isim Özgür Çelik oldu!</description>
+    </item>
+    <item>
+      <title>Halk TV: 30 bin avrodan 3,86 milyon avroluk gayrimenkule! Gökçek ailesinin Almanya’daki milyonluk yatırımları</title>
+      <link>https://www.youtube.com/watch?v=JK3fMWOws-M</link>
+      <guid isPermaLink="false">JK3fMWOws-M</guid>
+      <pubDate>Sun, 30 Aug 2026 12:10:02 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: 30 bin avrodan 3,86 milyon avroluk gayrimenkule! Gökçek ailesinin Almanya’daki milyonluk yatırımları</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Girne'den Acı Görüntüler! Yolcu Gemisi Alabora Oldu! Kurtulanlar Limana Getiriliyor!</title>
       <link>https://www.youtube.com/watch?v=QUZT83RHi4o</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">aQlyFo3hG8s</guid>
       <pubDate>Sun, 30 Aug 2026 09:24:01 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Samsunspor - Fenerbahçe Maçı | Maç Varsa Erman Hoca Var | Erman Toroğlu</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: CHP Ankara İl Başkanı Fahri Yıldırım, Zafer Bayramı dolayısıyla Atatürk Anıtına çelenk bırakıyor</title>
-      <link>https://www.youtube.com/watch?v=btRwqVlxP3Q</link>
-      <guid isPermaLink="false">btRwqVlxP3Q</guid>
-      <pubDate>Sun, 30 Aug 2026 09:22:24 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP Ankara İl Başkanı Fahri Yıldırım, Zafer Bayramı dolayısıyla Atatürk Anıtına çelenk bırakıyor</description>
-    </item>
-    <item>
-      <title>Halk TV: ERDOĞAN'IN DEFTERİNİ DÜRDÜLER! İmamoğlu ve Özel'in resti Saray'ın ışıklarını söndürtmez! Olay olur!</title>
-      <link>https://www.youtube.com/watch?v=r8arb2VM0QU</link>
-      <guid isPermaLink="false">r8arb2VM0QU</guid>
-      <pubDate>Sun, 30 Aug 2026 09:20:22 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ERDOĞAN'IN DEFTERİNİ DÜRDÜLER! İmamoğlu ve Özel'in resti Saray'ın ışıklarını söndürtmez! Olay olur!</description>
     </item>
   </channel>
 </rss>
