@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 20:55:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 21:00:54 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ÇARPICI BİLGİLER! Girne'deki gemi faciasında ihmal mi var? Neler yaşandı? Gazeteci Erişkin anlattı!</title>
+      <link>https://www.youtube.com/watch?v=Iier2Aak9jU</link>
+      <guid isPermaLink="false">Iier2Aak9jU</guid>
+      <pubDate>Sun, 30 Aug 2026 20:50:08 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ÇARPICI BİLGİLER! Girne'deki gemi faciasında ihmal mi var? Neler yaşandı? Gazeteci Erişkin anlattı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Senem Toluay Ilgaz ile Öncesi Sonrası</title>
       <link>https://www.youtube.com/watch?v=dhnVuOmacTE</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">xplwQSP-_Vw</guid>
       <pubDate>Sun, 30 Aug 2026 14:47:20 +0000</pubDate>
       <description>Halk TV kanalından yeni video: GİRNE'DE BATAN GEMİDEKİ BİR YOLCU O ANLARI KAYDA ALDI!</description>
-    </item>
-    <item>
-      <title>Halk TV: HER ANI DEHŞET VERİCİ! İşte batma anında yolcu gemisinde yaşanan o yürek yakıcı anlar!</title>
-      <link>https://www.youtube.com/watch?v=o0XurQnS0qI</link>
-      <guid isPermaLink="false">o0XurQnS0qI</guid>
-      <pubDate>Sun, 30 Aug 2026 14:45:37 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: HER ANI DEHŞET VERİCİ! İşte batma anında yolcu gemisinde yaşanan o yürek yakıcı anlar!</description>
     </item>
   </channel>
 </rss>
