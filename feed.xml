@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 14:05:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 14:10:33 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: FACİADA İHMAL ZİNCİRİ! Fırtınada Sefer İnadı Kazayı Getirdi! Batan Gemideki Çarpıcı Delik Detayı</title>
+      <link>https://www.youtube.com/watch?v=UByalxGirXg</link>
+      <guid isPermaLink="false">UByalxGirXg</guid>
+      <pubDate>Sun, 30 Aug 2026 14:00:08 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: FACİADA İHMAL ZİNCİRİ! Fırtınada Sefer İnadı Kazayı Getirdi! Batan Gemideki Çarpıcı Delik Detayı</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Milli Savunma Üniversitesi Harp Okulları Diploma Alma ve Sancak Devir Teslim Töreni</title>
       <link>https://www.youtube.com/watch?v=l9BlAHSb3CA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">jT9I6FdIkGY</guid>
       <pubDate>Sun, 30 Aug 2026 10:30:13 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: SARIŞIN KURT KOCATEPE'DE! Atatürk'ün Yunan Komutan Hacıanesti'yi Yıkan Tarihi Sözü! | Naim Babüroğlu</description>
-    </item>
-    <item>
-      <title>Halk TV: TÜM TÜRKİYE'Yİ SARSMIŞTI, MASAK DÜĞMEYE BASTI! Şeytantepe dosyasında 31 kişinin hesabı incelenecek!</title>
-      <link>https://www.youtube.com/watch?v=zbs9y0SKWho</link>
-      <guid isPermaLink="false">zbs9y0SKWho</guid>
-      <pubDate>Sun, 30 Aug 2026 10:20:21 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: TÜM TÜRKİYE'Yİ SARSMIŞTI, MASAK DÜĞMEYE BASTI! Şeytantepe dosyasında 31 kişinin hesabı incelenecek!</description>
     </item>
   </channel>
 </rss>
