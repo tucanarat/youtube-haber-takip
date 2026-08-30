@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 21:55:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 22:00:55 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: #CANLI Samsunspor - Fenerbahçe Maçı | Maç Varsa Erman Hoca Var | Erman Toroğlu</title>
+      <link>https://www.youtube.com/watch?v=aQlyFo3hG8s</link>
+      <guid isPermaLink="false">aQlyFo3hG8s</guid>
+      <pubDate>Sun, 30 Aug 2026 21:56:32 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: #CANLI Samsunspor - Fenerbahçe Maçı | Maç Varsa Erman Hoca Var | Erman Toroğlu</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Sinem Fıstıkoğlu ile Sansürsüz</title>
       <link>https://www.youtube.com/watch?v=eIfKhX5x4yA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">PYKQuBc3ls8</guid>
       <pubDate>Sun, 30 Aug 2026 16:20:09 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti İstanbul İl Başkanı Çelik, Bahçelievler'de 30 Ağustos fener alayına katılıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: Listede kimler yok ki... Yakayı ele veren 'Ponzi Mine'nin, savcı ile rüşvet yazışmaları ortaya çıktı</title>
-      <link>https://www.youtube.com/watch?v=wrqPgBsOxdc</link>
-      <guid isPermaLink="false">wrqPgBsOxdc</guid>
-      <pubDate>Sun, 30 Aug 2026 16:00:18 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Listede kimler yok ki... Yakayı ele veren 'Ponzi Mine'nin, savcı ile rüşvet yazışmaları ortaya çıktı</description>
     </item>
   </channel>
 </rss>
