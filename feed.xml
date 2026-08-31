@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 10:50:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 10:55:29 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: EVLADI 'BABA NOLUR BENİ BIRAKMA' DİYE BAĞIRMIŞ! Girne'den yükselen bu çığlık kahredecek! Tarifi yok!</title>
+      <link>https://www.youtube.com/watch?v=TBYAziUK2Iw</link>
+      <guid isPermaLink="false">TBYAziUK2Iw</guid>
+      <pubDate>Mon, 31 Aug 2026 10:50:24 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: EVLADI 'BABA NOLUR BENİ BIRAKMA' DİYE BAĞIRMIŞ! Girne'den yükselen bu çığlık kahredecek! Tarifi yok!</description>
+    </item>
     <item>
       <title>Cumhuriyet: #CANLI  İBB Davasında 72. gün! Silivri’de bu hafta tahliyeler bekleniyor</title>
       <link>https://www.youtube.com/watch?v=sS0lKLnG-fA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Twd84-rb37U</guid>
       <pubDate>Mon, 31 Aug 2026 08:20:26 +0000</pubDate>
       <description>Halk TV kanalından yeni video: "CAMI KIRIP İNSANLARI ÇIKARDIK" Girne açıklarında alabora olan gemideki dehşeti anlattı! Şok sözler!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Marmara’da görsel şölen: Tekirdağ açıklarında yunuslar feribotla yarıştı</title>
-      <link>https://www.youtube.com/shorts/HHaf3KXnib4</link>
-      <guid isPermaLink="false">HHaf3KXnib4</guid>
-      <pubDate>Mon, 31 Aug 2026 08:16:45 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Marmara’da görsel şölen: Tekirdağ açıklarında yunuslar feribotla yarıştı</description>
     </item>
   </channel>
 </rss>
