@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 10:40:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 10:45:35 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: ALİ MAHİR BAŞARIR, KKTC CUMHURBAŞKANI İLE GÖRÜŞTÜ! "KULAKLARIMDA ÇINLIYOR!"</title>
       <link>https://www.youtube.com/shorts/NM0iZcm4ex4</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">conxFKG0LJ8</guid>
       <pubDate>Mon, 31 Aug 2026 10:35:38 +0000</pubDate>
       <description>Halk TV kanalından yeni video: TÜM OKLAR ONUN ÜSTÜNDE! Alabora olan geminin kaptanı ilk kez konuştu! "Ön tarafı kaybedince..."</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Polisten Fatih'te dronlu denetim: İçki içen kişiler sesli anonsla uyarıldı</title>
+      <link>https://www.youtube.com/shorts/DaHKaoLhCFc</link>
+      <guid isPermaLink="false">DaHKaoLhCFc</guid>
+      <pubDate>Mon, 31 Aug 2026 10:34:57 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Polisten Fatih'te dronlu denetim: İçki içen kişiler sesli anonsla uyarıldı</description>
     </item>
     <item>
       <title>Halk TV: "GEMİ SU ALIYOR; GERİ DÖNELİM GİRNE'YE" DİYE BAĞIRMIŞLAR!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">LF0wgx6g3UA</guid>
       <pubDate>Mon, 31 Aug 2026 08:15:16 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: "Abi Geri Dönsün!" | Girne'de Korku Dolu Anlar #shorts</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: #CANLI  İBB Davasında 72. gün! Silivri’de bu hafta tahliyeler bekleniyor</title>
-      <link>https://www.youtube.com/watch?v=sS0lKLnG-fA</link>
-      <guid isPermaLink="false">sS0lKLnG-fA</guid>
-      <pubDate>Mon, 31 Aug 2026 08:14:37 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI  İBB Davasında 72. gün! Silivri’de bu hafta tahliyeler bekleniyor</description>
     </item>
   </channel>
 </rss>
