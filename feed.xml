@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 08:05:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 08:10:33 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Ali Mahir Başarır Girne Limanı Önünde Açıklama Yaptı! "18 Olarak Bildiğimiz Sayı 20 Olabilir..."</title>
+      <link>https://www.youtube.com/watch?v=icFzpv9tWL0</link>
+      <guid isPermaLink="false">icFzpv9tWL0</guid>
+      <pubDate>Mon, 31 Aug 2026 08:08:45 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Ali Mahir Başarır Girne Limanı Önünde Açıklama Yaptı! "18 Olarak Bildiğimiz Sayı 20 Olabilir..."</description>
+    </item>
     <item>
       <title>Cumhuriyet: KKTC'de yolcu gemisi faciası! Cumhurbaşkanı Erhürman'dan açıklama...</title>
       <link>https://www.youtube.com/watch?v=uPECqjzwB2M</link>
@@ -99,11 +106,11 @@
       <description>Cumhuriyet kanalından yeni video: Çukurova'nın iki simgesi bir arada: Karpuzlu bici bici yoğun ilgi görüyor</description>
     </item>
     <item>
-      <title>Tele2 Haber: Girne Turizm Limanı önünde son durum #Canlı</title>
+      <title>Tele2 Haber: #CANLI Girne Turizm Limanı önünde son durum #Canlı</title>
       <link>https://www.youtube.com/watch?v=0B5cyT39yQY</link>
       <guid isPermaLink="false">0B5cyT39yQY</guid>
       <pubDate>Mon, 31 Aug 2026 07:50:41 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Girne Turizm Limanı önünde son durum #Canlı</description>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Girne Turizm Limanı önünde son durum #Canlı</description>
     </item>
     <item>
       <title>Tele2 Haber: #CANLI Eski CHP Genel Başkan Vekili Cevdet Selvi için TBMM'de cenaze töreni düzenleniyor</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">eIfKhX5x4yA</guid>
       <pubDate>Sun, 30 Aug 2026 21:54:05 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Sinem Fıstıkoğlu ile Sansürsüz (30 Ağustos 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: MELİH GÖKÇEK SORUŞTURMASI DERİNLEŞİYOR! Bahadır Özgür tek tek anlattı</title>
-      <link>https://www.youtube.com/watch?v=BvoAkrJKd1c</link>
-      <guid isPermaLink="false">BvoAkrJKd1c</guid>
-      <pubDate>Sun, 30 Aug 2026 21:50:13 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: MELİH GÖKÇEK SORUŞTURMASI DERİNLEŞİYOR! Bahadır Özgür tek tek anlattı</description>
     </item>
   </channel>
 </rss>
