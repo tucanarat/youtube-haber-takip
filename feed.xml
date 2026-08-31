@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 22:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 22:10:33 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: Özlem Gürses ile Sözcü Ana Haber</title>
       <link>https://www.youtube.com/watch?v=aaQR4mebFlA</link>
@@ -62,6 +62,13 @@
       <guid isPermaLink="false">rzTnysWbRiQ</guid>
       <pubDate>Mon, 31 Aug 2026 22:00:23 +0000</pubDate>
       <description>Halk TV kanalından yeni video: "ONA HAKKIM HELAL DEĞİL!" Özgür Özel'den, AKP'ye geçen isimlere ilişkin gündem olacak sözler!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: "İKTİDARI İNANILMAZ RAHATLATIR!" Hacaloğlu ve Eroğlu Gökçek soruşturmasının şifrelerini anlattı!</title>
+      <link>https://www.youtube.com/watch?v=Ilc30eXU8ng</link>
+      <guid isPermaLink="false">Ilc30eXU8ng</guid>
+      <pubDate>Mon, 31 Aug 2026 22:00:06 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "İKTİDARI İNANILMAZ RAHATLATIR!" Hacaloğlu ve Eroğlu Gökçek soruşturmasının şifrelerini anlattı!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: İsmail Küçükkaya ile Günaydın Türkiyem</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">6QYiwn2pOFA</guid>
       <pubDate>Mon, 31 Aug 2026 18:30:31 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: TOGG'da Babayiğit Depremi! Erdoğan'ı Teyakkuza Geçiren İstifa! Özlem Gürses Anlattı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Arif Kocabıyık, Bulgaristan'a geçmeye çalışırken tırın altında yakalandı</title>
-      <link>https://www.youtube.com/shorts/bkDbSrTiSTY</link>
-      <guid isPermaLink="false">bkDbSrTiSTY</guid>
-      <pubDate>Mon, 31 Aug 2026 18:24:59 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Arif Kocabıyık, Bulgaristan'a geçmeye çalışırken tırın altında yakalandı</description>
     </item>
   </channel>
 </rss>
