@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 19:30:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 19:35:26 +0000</lastBuildDate>
     <item>
       <title>Halk TV: #CANLI | YENİ Parti Lideri Özgür Özel'den Halk TV'ye Gündemi Sarsacak Açıklamalar! | Özel Röportaj</title>
       <link>https://www.youtube.com/watch?v=YHF-KallwwI</link>
@@ -27,6 +27,13 @@
       <guid isPermaLink="false">MB4x4hZ84w8</guid>
       <pubDate>Mon, 31 Aug 2026 19:27:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | Bilge Yurtdagülen ile Gündem Özel</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: İBB DAVASINDA TAHLİYE OLACAK MI?Hilmi Hacaloğlu ve Ersin Eroğlu ile Kayıt Dışı | Konuk: Gülşah İnce</title>
+      <link>https://www.youtube.com/watch?v=dPgevI7s7tk</link>
+      <guid isPermaLink="false">dPgevI7s7tk</guid>
+      <pubDate>Mon, 31 Aug 2026 19:22:29 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: İBB DAVASINDA TAHLİYE OLACAK MI?Hilmi Hacaloğlu ve Ersin Eroğlu ile Kayıt Dışı | Konuk: Gülşah İnce</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | Sinem Fıstıkoğlu ile Sansürsüz</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ULuIne_ujjY</guid>
       <pubDate>Mon, 31 Aug 2026 16:30:20 +0000</pubDate>
       <description>Halk TV kanalından yeni video: FACİANIN GELECEĞİ BİR GÜN ÖNCEDEN BELLİYMİŞ! İşte Girne'deki gemi felaketinden kan donduran detaylar</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Gökçek Ailesinin Almanya Oyunu Patladı! 8.5 Milyon Euro'luk Sır! Murat Ağırel Tek Tek Anlattı</title>
-      <link>https://www.youtube.com/watch?v=gGjxD0B6Mro</link>
-      <guid isPermaLink="false">gGjxD0B6Mro</guid>
-      <pubDate>Mon, 31 Aug 2026 16:30:16 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Gökçek Ailesinin Almanya Oyunu Patladı! 8.5 Milyon Euro'luk Sır! Murat Ağırel Tek Tek Anlattı</description>
     </item>
   </channel>
 </rss>
