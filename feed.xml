@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 09:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 09:45:36 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Tuncer Bakırhan, yaşamını yitiren eski Belediye Başkanı Mehdi Zana'nın ailesini ziyaret ediyor</title>
+      <link>https://www.youtube.com/watch?v=Qu-FWLW9yrc</link>
+      <guid isPermaLink="false">Qu-FWLW9yrc</guid>
+      <pubDate>Mon, 31 Aug 2026 09:44:09 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Tuncer Bakırhan, yaşamını yitiren eski Belediye Başkanı Mehdi Zana'nın ailesini ziyaret ediyor</description>
+    </item>
     <item>
       <title>Halk TV: ALABORA OLAN GEMİNİN KAPTANINA DAİR ŞOK İDDİA! Mustafa Baflı, Kıbrıs’tan aktardı! Korkunç detaylar!</title>
       <link>https://www.youtube.com/watch?v=66Tiz_ijmpU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Z-tOIdPo-Yg</guid>
       <pubDate>Mon, 31 Aug 2026 07:02:41 +0000</pubDate>
       <description>Halk TV kanalından yeni video: FACİA 'GELİYORUM' DEMİŞ! Girne'de batan gemiden sağ kurtulan yurttaş Halk TV'ye konuştu! Olay sözler</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Evren Özalkuş ile Gerçek | Konuk: Orhan Uğuroğlu ve İrem Yüzer</title>
-      <link>https://www.youtube.com/watch?v=4tO1CQ2QiH8</link>
-      <guid isPermaLink="false">4tO1CQ2QiH8</guid>
-      <pubDate>Mon, 31 Aug 2026 07:02:36 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Evren Özalkuş ile Gerçek | Konuk: Orhan Uğuroğlu ve İrem Yüzer</description>
     </item>
   </channel>
 </rss>
