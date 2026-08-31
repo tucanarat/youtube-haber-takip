@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 20:20:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 20:25:28 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: İBB Davasında Neler Oluyor? Afşin Hatipoğlu'ndan AKP'ye Zehir Zemberek İmamoğlu Çıkışı</title>
+      <link>https://www.youtube.com/watch?v=NE0CWA0dRM4</link>
+      <guid isPermaLink="false">NE0CWA0dRM4</guid>
+      <pubDate>Mon, 31 Aug 2026 20:20:23 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İBB Davasında Neler Oluyor? Afşin Hatipoğlu'ndan AKP'ye Zehir Zemberek İmamoğlu Çıkışı</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Eski CHP Genel Başkan Vekili Cevdet Selvi için TBMM'de cenaze töreni düzenleniyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=fV3XdUfJkik</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Ilc30eXU8ng</guid>
       <pubDate>Mon, 31 Aug 2026 17:11:00 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "İKTİDARI İNANILMAZ RAHATLATIR!" Hacaloğlu ve Eroğlu Gökçek soruşturmasının şifrelerini anlattı!</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti Lideri Özgür Özel, Saat 20:00’dan İtibaren Halk TV’de Soruları Yanıtlayacak!</title>
-      <link>https://www.youtube.com/watch?v=cC9Zly0qpiE</link>
-      <guid isPermaLink="false">cC9Zly0qpiE</guid>
-      <pubDate>Mon, 31 Aug 2026 17:07:04 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti Lideri Özgür Özel, Saat 20:00’dan İtibaren Halk TV’de Soruları Yanıtlayacak!</description>
     </item>
   </channel>
 </rss>
