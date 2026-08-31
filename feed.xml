@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 18:00:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 18:05:26 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Savcı, İmamoğlu'nun basılmayan kitabında ne yazdığını nasıl öğrendi? İşte toplatılma gerekçesi!</title>
+      <link>https://www.youtube.com/watch?v=BoG3Q0bZVpU</link>
+      <guid isPermaLink="false">BoG3Q0bZVpU</guid>
+      <pubDate>Mon, 31 Aug 2026 18:00:36 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Savcı, İmamoğlu'nun basılmayan kitabında ne yazdığını nasıl öğrendi? İşte toplatılma gerekçesi!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Ankara'da İttifak Kulisleri! Erdoğan'ın Uykuları Kaçacak! Ümit Özdağ ve Dervişoğlu Düğmeye Bastı</title>
       <link>https://www.youtube.com/watch?v=jWgZ5T7KVnw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">UhepuH22NBY</guid>
       <pubDate>Mon, 31 Aug 2026 14:52:24 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI  İBB Davasında 72. gün! Resul Emrah Şahan ne söyledi?</description>
-    </item>
-    <item>
-      <title>Halk TV: BÖLGEYİ YİNE ATEŞ SARDI! ABD ve İran birbirini kalbinden vurdu! Ünal ve Karaçam'dan korkutan bigiler</title>
-      <link>https://www.youtube.com/watch?v=PaEhGLz7_pw</link>
-      <guid isPermaLink="false">PaEhGLz7_pw</guid>
-      <pubDate>Mon, 31 Aug 2026 14:42:26 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BÖLGEYİ YİNE ATEŞ SARDI! ABD ve İran birbirini kalbinden vurdu! Ünal ve Karaçam'dan korkutan bigiler</description>
     </item>
   </channel>
 </rss>
