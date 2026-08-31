@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 14:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 14:40:41 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Murat Ağırel Gökçek soruşturmasında ifade verdi: ''Soruşturma çok genişleyecek''</title>
+      <link>https://www.youtube.com/shorts/zRIQZL6wJUE</link>
+      <guid isPermaLink="false">zRIQZL6wJUE</guid>
+      <pubDate>Mon, 31 Aug 2026 14:32:18 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Murat Ağırel Gökçek soruşturmasında ifade verdi: ''Soruşturma çok genişleyecek''</description>
+    </item>
     <item>
       <title>Halk TV: Özgür Özel'den Bakan Gürlek'in 'hala canlı yayın istiyorlar mı' sözlerine yanıt!</title>
       <link>https://www.youtube.com/shorts/eFsgC092zYM</link>
@@ -34,6 +41,13 @@
       <guid isPermaLink="false">LBJeXs9xWLw</guid>
       <pubDate>Mon, 31 Aug 2026 14:30:18 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Özel, YENİ Parti'nin üye sayısını açıkladı!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: "Personel conta gevşemiş dedi" Gemideki yolcu yaşananları anbean anlattı! "ALTTA KALANLAR BOĞULDU"</title>
+      <link>https://www.youtube.com/watch?v=1NHCQPlvxI8</link>
+      <guid isPermaLink="false">1NHCQPlvxI8</guid>
+      <pubDate>Mon, 31 Aug 2026 14:30:06 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "Personel conta gevşemiş dedi" Gemideki yolcu yaşananları anbean anlattı! "ALTTA KALANLAR BOĞULDU"</description>
     </item>
     <item>
       <title>Halk TV: Özgür Özel: 539 milyon liralık bir bütçemiz oluştu, bu tarihte görülmemiş bir teveccühtür!</title>
@@ -111,13 +125,6 @@
       <guid isPermaLink="false">suggqhVWle4</guid>
       <pubDate>Mon, 31 Aug 2026 14:06:09 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Girne'de batan feribotun son anları kamerada!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "Personel conta gevşemiş dedi" Gemideki yolcu yaşananları anbean anlattı! "ALTTA KALANLAR BOĞULDU"</title>
-      <link>https://www.youtube.com/watch?v=1NHCQPlvxI8</link>
-      <guid isPermaLink="false">1NHCQPlvxI8</guid>
-      <pubDate>Mon, 31 Aug 2026 14:03:28 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "Personel conta gevşemiş dedi" Gemideki yolcu yaşananları anbean anlattı! "ALTTA KALANLAR BOĞULDU"</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Serap Belovacıklı ile Haber Saati | 31 Ağustos</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">NLXCB9ROn18</guid>
       <pubDate>Mon, 31 Aug 2026 12:35:26 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ERDOĞAN'A ŞOK! İmamoğlu'nun basılmadan yasaklanan kitabı için eski danışmanı bakın neler dedi!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Yangın paniğiyle fileye takıldı: Mahsur kalan kedinin imdadına itfaiye yetişti</title>
-      <link>https://www.youtube.com/shorts/GA-gA3Z1PKc</link>
-      <guid isPermaLink="false">GA-gA3Z1PKc</guid>
-      <pubDate>Mon, 31 Aug 2026 12:34:58 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Yangın paniğiyle fileye takıldı: Mahsur kalan kedinin imdadına itfaiye yetişti</description>
     </item>
   </channel>
 </rss>
