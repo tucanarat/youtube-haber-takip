@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 15:10:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 15:15:32 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Girne açıklarında alabora olan geminin batmadan önceki görüntüleri ortaya çıktı;</title>
+      <link>https://www.youtube.com/shorts/2e9WxNdYjTY</link>
+      <guid isPermaLink="false">2e9WxNdYjTY</guid>
+      <pubDate>Mon, 31 Aug 2026 15:10:29 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Girne açıklarında alabora olan geminin batmadan önceki görüntüleri ortaya çıktı;</description>
+    </item>
+    <item>
+      <title>Halk TV: ERDOĞAN’IN EN BÜYÜK SIRRI ORTAYA ÇIKTI! Seçim öncesi o hamleyi yapacakmış! Sertaç Eş tarih verdi!</title>
+      <link>https://www.youtube.com/watch?v=xhnt-YtHQH0</link>
+      <guid isPermaLink="false">xhnt-YtHQH0</guid>
+      <pubDate>Mon, 31 Aug 2026 15:10:27 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ERDOĞAN’IN EN BÜYÜK SIRRI ORTAYA ÇIKTI! Seçim öncesi o hamleyi yapacakmış! Sertaç Eş tarih verdi!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Alevi aydınlardan Öcalan'ın ittifak mesajına çok sert tepki!</title>
       <link>https://www.youtube.com/watch?v=B6jUIjgwXpo</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">LjJCL3KzdNE</guid>
       <pubDate>Mon, 31 Aug 2026 13:05:30 +0000</pubDate>
       <description>Halk TV kanalından yeni video: DEHŞET ANLARINI AĞLAYARAK ANLATTI! Girne'de batan geminin kaptanından akılalmaz ihmaller zinciri!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "Parti Paralarının Aktarıldığı İddiaları Var!" Barış Övgün'den Butlancıları Terletecek İddia!</title>
-      <link>https://www.youtube.com/watch?v=e7ZqIueLY0U</link>
-      <guid isPermaLink="false">e7ZqIueLY0U</guid>
-      <pubDate>Mon, 31 Aug 2026 13:05:09 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "Parti Paralarının Aktarıldığı İddiaları Var!" Barış Övgün'den Butlancıları Terletecek İddia!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Otizmli bireyler ve aileler mağdur! Bürokrasi tedaviye engel oluyor... Aileden "Biz ölüyoruz" isyanı</title>
-      <link>https://www.youtube.com/watch?v=JTOYNoHL7P4</link>
-      <guid isPermaLink="false">JTOYNoHL7P4</guid>
-      <pubDate>Mon, 31 Aug 2026 13:00:18 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Otizmli bireyler ve aileler mağdur! Bürokrasi tedaviye engel oluyor... Aileden "Biz ölüyoruz" isyanı</description>
     </item>
   </channel>
 </rss>
