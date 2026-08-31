@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 02:55:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 03:00:57 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Süheyla Demir ile Günaydın Türkiye</title>
+      <link>https://www.youtube.com/watch?v=zWkD7DyWObo</link>
+      <guid isPermaLink="false">zWkD7DyWObo</guid>
+      <pubDate>Mon, 31 Aug 2026 02:58:23 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Süheyla Demir ile Günaydın Türkiye</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Merve Ekinci ile Uyanma Vakti</title>
       <link>https://www.youtube.com/watch?v=8uyrSj9iBEk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">2iEiYQqzs9w</guid>
       <pubDate>Sun, 30 Aug 2026 17:13:18 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Cumhurbaşkanı Erdoğan, 30 Ağustos Zafer Bayramı Özel Programı'nda konuşuyor #Canlı,</description>
-    </item>
-    <item>
-      <title>Halk TV: Genel merkezde çalışmalar tamamlandı... Utku Çakırözer, üye sayısını Halk TV’ye açıkladı!</title>
-      <link>https://www.youtube.com/watch?v=pPdneyIYcds</link>
-      <guid isPermaLink="false">pPdneyIYcds</guid>
-      <pubDate>Sun, 30 Aug 2026 17:00:11 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Genel merkezde çalışmalar tamamlandı... Utku Çakırözer, üye sayısını Halk TV’ye açıkladı!</description>
     </item>
   </channel>
 </rss>
