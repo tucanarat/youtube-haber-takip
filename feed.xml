@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 11:45:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 11:50:40 +0000</lastBuildDate>
     <item>
       <title>Halk TV: Girne'de yaşanan facianın yeni görüntüleri ortaya çıktı!</title>
       <link>https://www.youtube.com/shorts/BRNpcuVZRe8</link>
       <guid isPermaLink="false">BRNpcuVZRe8</guid>
       <pubDate>Mon, 31 Aug 2026 11:39:46 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Girne'de yaşanan facianın yeni görüntüleri ortaya çıktı!</description>
+    </item>
+    <item>
+      <title>Halk TV: Girne'deki gemi faciasında evlatlarını kaybeden annenin feryadı Ali Mahir Başarır'ı da ağlattı!</title>
+      <link>https://www.youtube.com/shorts/4lV2bonaLk8</link>
+      <guid isPermaLink="false">4lV2bonaLk8</guid>
+      <pubDate>Mon, 31 Aug 2026 11:39:30 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Girne'deki gemi faciasında evlatlarını kaybeden annenin feryadı Ali Mahir Başarır'ı da ağlattı!</description>
     </item>
     <item>
       <title>Halk TV: Ali Mahir Başarır'dan Girne'deki faciada yaralananlara ve acılı ailelere ziyaret!</title>
@@ -34,6 +41,13 @@
       <guid isPermaLink="false">oU7j3iA_nqk</guid>
       <pubDate>Mon, 31 Aug 2026 11:37:21 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Facianın izleri su yüzeyine çıktı: Girne'de batan geminin eşyaları denizde sürükleniyor</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: ÖZGÜR ÖZEL, YENİ PARTİ GENEL MERKEZ BİNASINA GELDİ! "ÇOK HEYECANLIYIZ"</title>
+      <link>https://www.youtube.com/shorts/w8EL64aaHOA</link>
+      <guid isPermaLink="false">w8EL64aaHOA</guid>
+      <pubDate>Mon, 31 Aug 2026 11:37:00 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: ÖZGÜR ÖZEL, YENİ PARTİ GENEL MERKEZ BİNASINA GELDİ! "ÇOK HEYECANLIYIZ"</description>
     </item>
     <item>
       <title>Halk TV: KALBİNİZ DAYANMAYACAK! Evladını kaybeden annenin feryadı Ali Mahir Başarır'ı ağlattı! Yürek yakacak!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">6DWhd5Va-oA</guid>
       <pubDate>Mon, 31 Aug 2026 09:30:22 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Genç Teğmenden Erdoğan'ın Önünde Tarihi Yemin! "SEÇİLMİŞ MİLLET İRADESİNİN EMRİNDEYİZ!"</description>
-    </item>
-    <item>
-      <title>Halk TV: YÜREK DAYANMAZ: Girne Turizm Limanı önünde bekleyişini sürdüren annenin sözleri duyanı ağlatıyor!</title>
-      <link>https://www.youtube.com/shorts/tYKq4GGnvPE</link>
-      <guid isPermaLink="false">tYKq4GGnvPE</guid>
-      <pubDate>Mon, 31 Aug 2026 09:23:36 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YÜREK DAYANMAZ: Girne Turizm Limanı önünde bekleyişini sürdüren annenin sözleri duyanı ağlatıyor!</description>
-    </item>
-    <item>
-      <title>Halk TV: TÜYLERİNİZ ÜRPERECEK! Girne'deki gemi faciasında dehşet verecek iddiayı Ali Mahir Başarır açıkladı!</title>
-      <link>https://www.youtube.com/watch?v=LK_W05xxe7o</link>
-      <guid isPermaLink="false">LK_W05xxe7o</guid>
-      <pubDate>Mon, 31 Aug 2026 09:20:33 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: TÜYLERİNİZ ÜRPERECEK! Girne'deki gemi faciasında dehşet verecek iddiayı Ali Mahir Başarır açıkladı!</description>
     </item>
   </channel>
 </rss>
