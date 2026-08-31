@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 23:00:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 23:05:25 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Emrullah Erdinç Anlatıyor! Gülistan Doku Davasında Büyük Sır Çözüldü! Türkiye Ayağa Kalkacak!</title>
+      <link>https://www.youtube.com/watch?v=RjZTVXW8P9I</link>
+      <guid isPermaLink="false">RjZTVXW8P9I</guid>
+      <pubDate>Mon, 31 Aug 2026 23:00:25 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Emrullah Erdinç Anlatıyor! Gülistan Doku Davasında Büyük Sır Çözüldü! Türkiye Ayağa Kalkacak!</description>
+    </item>
     <item>
       <title>Halk TV: YENİ Parti Milletvekili Cumhur Uzun’dan siyaset gündemini hareketlendirecek sözler!</title>
       <link>https://www.youtube.com/watch?v=AoBgf5CW8PQ</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">PkU-olODB3E</guid>
       <pubDate>Mon, 31 Aug 2026 19:00:04 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İsrail'i Titretecek Mekke İttifakı Çırağan'da İmzalandı! Hakan Fidan Netanyahu'ya Esti Gürledi</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel, Halk TV'de açıkladı! AKP'nin binasını tutan isim YENİ Parti'nin binası için bağış yapmış</title>
-      <link>https://www.youtube.com/watch?v=2_0jZ65otZU</link>
-      <guid isPermaLink="false">2_0jZ65otZU</guid>
-      <pubDate>Mon, 31 Aug 2026 18:55:39 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel, Halk TV'de açıkladı! AKP'nin binasını tutan isim YENİ Parti'nin binası için bağış yapmış</description>
     </item>
   </channel>
 </rss>
