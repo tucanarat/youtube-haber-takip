@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 12:45:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 12:50:33 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Murat Ağırel, Melih Gökçek soruşturmasında ifade vermesinin ardından açıklama yapıyor</title>
+      <link>https://www.youtube.com/watch?v=jcHFN-dhzB0</link>
+      <guid isPermaLink="false">jcHFN-dhzB0</guid>
+      <pubDate>Mon, 31 Aug 2026 12:41:46 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Murat Ağırel, Melih Gökçek soruşturmasında ifade vermesinin ardından açıklama yapıyor</description>
+    </item>
     <item>
       <title>Halk TV: Murat Ağırel, Melih Gökçek Soruşturmasında İfade Vermesinin Ardından Açıklama Yaptı</title>
       <link>https://www.youtube.com/watch?v=NwRTD62sXG4</link>
@@ -120,11 +127,11 @@
       <description>Halk TV kanalından yeni video: KAPTANIN İFADESİ HER ŞEYİ ELE VERDİ! Ortaya çıkan iddia korkunç! Yankı Bağcıoğlu neler neler anlattı</description>
     </item>
     <item>
-      <title>Tele2 Haber: #CANLI Girne’deki faciada yeni gelişme! | YENİ Parti şimdi de İnce’nin mi hedefinde? | Manşet Ötesi</title>
+      <title>Tele2 Haber: Girne’deki faciada yeni gelişme! | YENİ Parti şimdi de İnce’nin mi hedefinde? | Manşet Ötesi</title>
       <link>https://www.youtube.com/watch?v=U-kUhjZEmTI</link>
       <guid isPermaLink="false">U-kUhjZEmTI</guid>
       <pubDate>Mon, 31 Aug 2026 12:02:43 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Girne’deki faciada yeni gelişme! | YENİ Parti şimdi de İnce’nin mi hedefinde? | Manşet Ötesi</description>
+      <description>Tele2 Haber kanalından yeni video: Girne’deki faciada yeni gelişme! | YENİ Parti şimdi de İnce’nin mi hedefinde? | Manşet Ötesi</description>
     </item>
     <item>
       <title>Tele2 Haber: "AKLA İNCE İNCE ŞEYLER GELİYOR"  Muharrem İnce'nin Derdi CHP Koltuğu mu? Övgün'den Sert Yanıt!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">dg3Hl9Pq_9M</guid>
       <pubDate>Mon, 31 Aug 2026 10:27:26 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Girne'de arama kurtarma çalışmaları devam ediyor...  “Bir yetkili gelsin benim çocuğumu çıkarsın”</description>
-    </item>
-    <item>
-      <title>Halk TV: Eski CHP Genel Başkan Vekili Cevdet Selvi İçin Cenaze Töreni Düzenlendi!</title>
-      <link>https://www.youtube.com/watch?v=HOwOMtPAP9Y</link>
-      <guid isPermaLink="false">HOwOMtPAP9Y</guid>
-      <pubDate>Mon, 31 Aug 2026 10:26:11 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Eski CHP Genel Başkan Vekili Cevdet Selvi İçin Cenaze Töreni Düzenlendi!</description>
     </item>
   </channel>
 </rss>
