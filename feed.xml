@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 21:50:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 21:55:27 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Özgür Özel’den Deniz Göktaş’a Cem Yılmaz örneği! “Cezaevinde yatmak hayattan kayıp günler ama…”</title>
+      <link>https://www.youtube.com/watch?v=nwtuaOqM47E</link>
+      <guid isPermaLink="false">nwtuaOqM47E</guid>
+      <pubDate>Mon, 31 Aug 2026 21:45:49 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Özgür Özel’den Deniz Göktaş’a Cem Yılmaz örneği! “Cezaevinde yatmak hayattan kayıp günler ama…”</description>
+    </item>
     <item>
       <title>Halk TV: Özgür Özel, AKP'nin belediye başkanı veya vekil transferi ile sonuç alamayacağını kaydetti!</title>
       <link>https://www.youtube.com/watch?v=GlKNuZlQ1ik</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">jWgZ5T7KVnw</guid>
       <pubDate>Mon, 31 Aug 2026 17:45:30 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Ankara'da İttifak Kulisleri! Erdoğan'ın Uykuları Kaçacak! Ümit Özdağ ve Dervişoğlu Düğmeye Bastı</description>
-    </item>
-    <item>
-      <title>Halk TV: ALTIN ALACAKLAR DİKKAT! Mehmet Ali Yıldırımtürk'den milyonlara altın uyarısı!</title>
-      <link>https://www.youtube.com/watch?v=sNXmU7dlBdw</link>
-      <guid isPermaLink="false">sNXmU7dlBdw</guid>
-      <pubDate>Mon, 31 Aug 2026 17:45:28 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ALTIN ALACAKLAR DİKKAT! Mehmet Ali Yıldırımtürk'den milyonlara altın uyarısı!</description>
     </item>
   </channel>
 </rss>
