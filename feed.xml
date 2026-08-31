@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 23:05:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 23:10:32 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: Emrullah Erdinç Anlatıyor! Gülistan Doku Davasında Büyük Sır Çözüldü! Türkiye Ayağa Kalkacak!</title>
       <link>https://www.youtube.com/watch?v=RjZTVXW8P9I</link>
       <guid isPermaLink="false">RjZTVXW8P9I</guid>
       <pubDate>Mon, 31 Aug 2026 23:00:25 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Emrullah Erdinç Anlatıyor! Gülistan Doku Davasında Büyük Sır Çözüldü! Türkiye Ayağa Kalkacak!</description>
+    </item>
+    <item>
+      <title>Halk TV: SİYASETTE TABULARI YIKACAK SÖZLER! YENİ Partili Cumhur Uzun’dan dikkat çeken değerlendirme!</title>
+      <link>https://www.youtube.com/watch?v=QBnBVeo3eV8</link>
+      <guid isPermaLink="false">QBnBVeo3eV8</guid>
+      <pubDate>Mon, 31 Aug 2026 23:00:16 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SİYASETTE TABULARI YIKACAK SÖZLER! YENİ Partili Cumhur Uzun’dan dikkat çeken değerlendirme!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Melih Gökçek soruşturmasında neler oluyor? Timur Soykan'ın Binali Yıldırım iddiası!</title>
+      <link>https://www.youtube.com/shorts/N5t850tvSog</link>
+      <guid isPermaLink="false">N5t850tvSog</guid>
+      <pubDate>Mon, 31 Aug 2026 23:00:06 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Melih Gökçek soruşturmasında neler oluyor? Timur Soykan'ın Binali Yıldırım iddiası!</description>
     </item>
     <item>
       <title>Halk TV: YENİ Parti Milletvekili Cumhur Uzun’dan siyaset gündemini hareketlendirecek sözler!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">U7bzK8ZQl14</guid>
       <pubDate>Mon, 31 Aug 2026 19:00:30 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: İBB Davasında kritik soru! 'TAHLİYELER OLACAK MI?' Gülşah İnce, Silivri'den aktardı...</description>
-    </item>
-    <item>
-      <title>Halk TV: BÖLGEYİ YİNE ATEŞ SARDI! ABD ve İran birbirini kalbinden vurdu! Ünal ve Karaçam'dan korkutan bigiler</title>
-      <link>https://www.youtube.com/watch?v=PaEhGLz7_pw</link>
-      <guid isPermaLink="false">PaEhGLz7_pw</guid>
-      <pubDate>Mon, 31 Aug 2026 19:00:07 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BÖLGEYİ YİNE ATEŞ SARDI! ABD ve İran birbirini kalbinden vurdu! Ünal ve Karaçam'dan korkutan bigiler</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İsrail'i Titretecek Mekke İttifakı Çırağan'da İmzalandı! Hakan Fidan Netanyahu'ya Esti Gürledi</title>
-      <link>https://www.youtube.com/watch?v=PkU-olODB3E</link>
-      <guid isPermaLink="false">PkU-olODB3E</guid>
-      <pubDate>Mon, 31 Aug 2026 19:00:04 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İsrail'i Titretecek Mekke İttifakı Çırağan'da İmzalandı! Hakan Fidan Netanyahu'ya Esti Gürledi</description>
     </item>
   </channel>
 </rss>
