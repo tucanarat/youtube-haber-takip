@@ -6,13 +6,34 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 22:35:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 22:40:30 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Adalet Peşinde Aileleri Platformu, deprem davalarına ilişkin basın toplantısı düzenliyor</title>
+      <link>https://www.youtube.com/watch?v=nmjRtSxwt2U</link>
+      <guid isPermaLink="false">nmjRtSxwt2U</guid>
+      <pubDate>Mon, 31 Aug 2026 22:38:46 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Adalet Peşinde Aileleri Platformu, deprem davalarına ilişkin basın toplantısı düzenliyor</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Bilge Yurtdagülen ile Gündem Özel</title>
       <link>https://www.youtube.com/watch?v=MB4x4hZ84w8</link>
       <guid isPermaLink="false">MB4x4hZ84w8</guid>
       <pubDate>Mon, 31 Aug 2026 22:34:21 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | Bilge Yurtdagülen ile Gündem Özel</description>
+    </item>
+    <item>
+      <title>Halk TV: Yurt dışına çıkış yasağı bulunan Arif Kocabıyık, TIR dorsesinde Bulgaristan'a geçmeye çalışırken yak</title>
+      <link>https://www.youtube.com/shorts/v3XYa4NJvVo</link>
+      <guid isPermaLink="false">v3XYa4NJvVo</guid>
+      <pubDate>Mon, 31 Aug 2026 22:30:55 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Yurt dışına çıkış yasağı bulunan Arif Kocabıyık, TIR dorsesinde Bulgaristan'a geçmeye çalışırken yak</description>
+    </item>
+    <item>
+      <title>Halk TV: Özel, yoksulluk nedeniyle gençlerin evlenemediğini, evlenenlerinse çocuk yapmadığını söyledi!</title>
+      <link>https://www.youtube.com/watch?v=yQE676C_Rdk</link>
+      <guid isPermaLink="false">yQE676C_Rdk</guid>
+      <pubDate>Mon, 31 Aug 2026 22:30:25 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Özel, yoksulluk nedeniyle gençlerin evlenemediğini, evlenenlerinse çocuk yapmadığını söyledi!</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Eski CHP Genel Başkan Vekili Cevdet Selvi için cenaze töreni düzenleniyor</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">PpXnrOgsSRg</guid>
       <pubDate>Mon, 31 Aug 2026 18:45:09 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Güney Kore'de Tarikat Liderine Büyük Operasyon! Moon Tarikatı Çöktü! Hak Ja Han'a 2 Yıl Hapis Cezası</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Onur Öncü ile Sabah Pusulası</title>
-      <link>https://www.youtube.com/watch?v=VcZ5vpu1mt0</link>
-      <guid isPermaLink="false">VcZ5vpu1mt0</guid>
-      <pubDate>Mon, 31 Aug 2026 18:44:56 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Onur Öncü ile Sabah Pusulası</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Erdoğan'a ömür boyu cumhurbaşkanlığı planı mı? Orhan Uğuroğlu'ndan Bahçeli'ye Anayasa sorusu!</title>
-      <link>https://www.youtube.com/watch?v=xvRs2ByZogQ</link>
-      <guid isPermaLink="false">xvRs2ByZogQ</guid>
-      <pubDate>Mon, 31 Aug 2026 18:40:30 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Erdoğan'a ömür boyu cumhurbaşkanlığı planı mı? Orhan Uğuroğlu'ndan Bahçeli'ye Anayasa sorusu!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Ülkü Çoban ile Manşet Ötesi</title>
-      <link>https://www.youtube.com/watch?v=-qZgiN7eikI</link>
-      <guid isPermaLink="false">-qZgiN7eikI</guid>
-      <pubDate>Mon, 31 Aug 2026 18:39:03 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Ülkü Çoban ile Manşet Ötesi</description>
     </item>
   </channel>
 </rss>
