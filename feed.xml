@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 11:05:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 11:10:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: KILIÇDAROĞLU ASIL O PLANIN PARÇASIYMIŞ! Ankara kulisinden öyle bir şey sızdı ki! Sertaç Eş patlattı!</title>
+      <link>https://www.youtube.com/watch?v=OAlBwiDSaj4</link>
+      <guid isPermaLink="false">OAlBwiDSaj4</guid>
+      <pubDate>Mon, 31 Aug 2026 11:05:18 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KILIÇDAROĞLU ASIL O PLANIN PARÇASIYMIŞ! Ankara kulisinden öyle bir şey sızdı ki! Sertaç Eş patlattı!</description>
+    </item>
     <item>
       <title>Tele2 Haber: "Millet Nereye Yürüdüyse Özgür Özel Oraya Yürüdü!" Kayseri'deki Özgür Özel İzdihamının Sebebi Neydi?</title>
       <link>https://www.youtube.com/watch?v=FZmCrdwWLx0</link>
       <guid isPermaLink="false">FZmCrdwWLx0</guid>
       <pubDate>Mon, 31 Aug 2026 11:03:08 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "Millet Nereye Yürüdüyse Özgür Özel Oraya Yürüdü!" Kayseri'deki Özgür Özel İzdihamının Sebebi Neydi?</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İSMAİL KÜÇÜKKAYA BELGELERLE AÇIKLADI! Mühendis Girne'de Batan Gemi İçin 2018'de Uyarmış</title>
+      <link>https://www.youtube.com/watch?v=JjpSQHlPU9E</link>
+      <guid isPermaLink="false">JjpSQHlPU9E</guid>
+      <pubDate>Mon, 31 Aug 2026 11:00:18 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İSMAİL KÜÇÜKKAYA BELGELERLE AÇIKLADI! Mühendis Girne'de Batan Gemi İçin 2018'de Uyarmış</description>
     </item>
     <item>
       <title>Halk TV: EVLADI 'BABA NOLUR BENİ BIRAKMA' DİYE BAĞIRMIŞ! Girne'den yükselen bu çığlık kahredecek! Tarifi yok!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">jrHmD0YnMuA</guid>
       <pubDate>Mon, 31 Aug 2026 08:25:13 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Melih Gökçek'e Soruşturma! Almanya'daki Bina, İncek'teki 10 Banyolu Malikane Mercek Altında</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Özel ve Kılıçdaroğlu, Eski CHP Genel Başkan Vekili Cevdet Selvi'nin cenaze töreninde tokalaştı.</title>
-      <link>https://www.youtube.com/shorts/rNglr2sv8FU</link>
-      <guid isPermaLink="false">rNglr2sv8FU</guid>
-      <pubDate>Mon, 31 Aug 2026 08:23:12 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Özel ve Kılıçdaroğlu, Eski CHP Genel Başkan Vekili Cevdet Selvi'nin cenaze töreninde tokalaştı.</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Girne’deki faciada sıcak gelişme: Gözaltına alınan 9 kişi mahkemeye çıkarıldı</title>
-      <link>https://www.youtube.com/shorts/ZV1h9sekGx0</link>
-      <guid isPermaLink="false">ZV1h9sekGx0</guid>
-      <pubDate>Mon, 31 Aug 2026 08:20:48 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Girne’deki faciada sıcak gelişme: Gözaltına alınan 9 kişi mahkemeye çıkarıldı</description>
     </item>
   </channel>
 </rss>
