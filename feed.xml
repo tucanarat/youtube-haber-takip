@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 14:05:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 14:10:35 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: Serap Belovacıklı ile Haber Saati | 31 Ağustos</title>
       <link>https://www.youtube.com/watch?v=_UhMcxBb0Sg</link>
       <guid isPermaLink="false">_UhMcxBb0Sg</guid>
       <pubDate>Mon, 31 Aug 2026 14:00:31 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Serap Belovacıklı ile Haber Saati | 31 Ağustos</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: "NEDEN ALMANYA TERCİH EDİLDİ?" Ağırel tanık sıfatıyla ifadeye çağrıldı Melih Gökçek'e seslendi!</title>
+      <link>https://www.youtube.com/watch?v=pZB0dFONKE4</link>
+      <guid isPermaLink="false">pZB0dFONKE4</guid>
+      <pubDate>Mon, 31 Aug 2026 14:00:29 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "NEDEN ALMANYA TERCİH EDİLDİ?" Ağırel tanık sıfatıyla ifadeye çağrıldı Melih Gökçek'e seslendi!</description>
     </item>
     <item>
       <title>Halk TV: REKOR SAYILAR! Özgür Özel, YENİ Parti'ye bağış miktarını ve üye sayısını açıkladı! Dudak uçuklatır!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">BRNpcuVZRe8</guid>
       <pubDate>Mon, 31 Aug 2026 11:39:46 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Girne'de yaşanan facianın yeni görüntüleri ortaya çıktı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Girne'deki gemi faciasında evlatlarını kaybeden annenin feryadı Ali Mahir Başarır'ı da ağlattı!</title>
-      <link>https://www.youtube.com/shorts/4lV2bonaLk8</link>
-      <guid isPermaLink="false">4lV2bonaLk8</guid>
-      <pubDate>Mon, 31 Aug 2026 11:39:30 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Girne'deki gemi faciasında evlatlarını kaybeden annenin feryadı Ali Mahir Başarır'ı da ağlattı!</description>
     </item>
   </channel>
 </rss>
