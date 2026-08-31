@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 07:30:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 07:35:30 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Girne'de Batan Gemi Bir Ay Önce de Su Almış! Biletçiden Şoke Eden İtiraf! "GEMİ ZATEN SU ALIYORDU"</title>
+      <link>https://www.youtube.com/watch?v=dXkZ2rei-Ss</link>
+      <guid isPermaLink="false">dXkZ2rei-Ss</guid>
+      <pubDate>Mon, 31 Aug 2026 07:30:03 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Girne'de Batan Gemi Bir Ay Önce de Su Almış! Biletçiden Şoke Eden İtiraf! "GEMİ ZATEN SU ALIYORDU"</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti heyeti, Kriz Masası ziyareti sonrasında Girne Limanı önünde açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=tf61MwgS0ig</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">2S4GlcbTLjU</guid>
       <pubDate>Sun, 30 Aug 2026 20:00:04 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Kıbrıs Katamaran Faciasında Kan Donduran İddia: Bile Bile Ölüme Mi Gittiler? Uzman İsim Anlattı</description>
-    </item>
-    <item>
-      <title>Halk TV: GİRNE AÇIKLARINDA FACİANIN HEMEN ÖNCESİ! Geminin batmadan önceki görüntüleri ortaya çıktı!</title>
-      <link>https://www.youtube.com/watch?v=m9XOTwASRLA</link>
-      <guid isPermaLink="false">m9XOTwASRLA</guid>
-      <pubDate>Sun, 30 Aug 2026 19:50:22 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: GİRNE AÇIKLARINDA FACİANIN HEMEN ÖNCESİ! Geminin batmadan önceki görüntüleri ortaya çıktı!</description>
     </item>
   </channel>
 </rss>
