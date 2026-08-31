@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 14:00:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 14:05:32 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: Serap Belovacıklı ile Haber Saati | 31 Ağustos</title>
       <link>https://www.youtube.com/watch?v=_UhMcxBb0Sg</link>
       <guid isPermaLink="false">_UhMcxBb0Sg</guid>
       <pubDate>Mon, 31 Aug 2026 14:00:31 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Serap Belovacıklı ile Haber Saati | 31 Ağustos</description>
+    </item>
+    <item>
+      <title>Halk TV: REKOR SAYILAR! Özgür Özel, YENİ Parti'ye bağış miktarını ve üye sayısını açıkladı! Dudak uçuklatır!</title>
+      <link>https://www.youtube.com/watch?v=DI2e-UF64Rs</link>
+      <guid isPermaLink="false">DI2e-UF64Rs</guid>
+      <pubDate>Mon, 31 Aug 2026 14:00:20 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: REKOR SAYILAR! Özgür Özel, YENİ Parti'ye bağış miktarını ve üye sayısını açıkladı! Dudak uçuklatır!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: 'Cani ve Soykırımcı Netanyahu!' HAKAN FİDAN’DAN İSRAİL’E ÇOK SERT SÖZLER!</title>
+      <link>https://www.youtube.com/watch?v=bMlKIRarVZs</link>
+      <guid isPermaLink="false">bMlKIRarVZs</guid>
+      <pubDate>Mon, 31 Aug 2026 14:00:03 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: 'Cani ve Soykırımcı Netanyahu!' HAKAN FİDAN’DAN İSRAİL’E ÇOK SERT SÖZLER!</description>
     </item>
     <item>
       <title>Cumhuriyet: Büyüyen Servetler, Aç Kalan Çocuklar: Türkiye'nin "Derin Yoksulluk" Gerçeği | #cumhuriyetözel</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">4lV2bonaLk8</guid>
       <pubDate>Mon, 31 Aug 2026 11:39:30 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Girne'deki gemi faciasında evlatlarını kaybeden annenin feryadı Ali Mahir Başarır'ı da ağlattı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Ali Mahir Başarır'dan Girne'deki faciada yaralananlara ve acılı ailelere ziyaret!</title>
-      <link>https://www.youtube.com/shorts/5uYMH57cFZU</link>
-      <guid isPermaLink="false">5uYMH57cFZU</guid>
-      <pubDate>Mon, 31 Aug 2026 11:39:13 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ali Mahir Başarır'dan Girne'deki faciada yaralananlara ve acılı ailelere ziyaret!</description>
-    </item>
-    <item>
-      <title>Halk TV: Kayıp aileleri Girne Turizm Limanı önünde, yeterli açıklama yapılmadığını belirterek tepki gösterdi!</title>
-      <link>https://www.youtube.com/shorts/hWkEharxsXY</link>
-      <guid isPermaLink="false">hWkEharxsXY</guid>
-      <pubDate>Mon, 31 Aug 2026 11:38:51 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Kayıp aileleri Girne Turizm Limanı önünde, yeterli açıklama yapılmadığını belirterek tepki gösterdi!</description>
     </item>
   </channel>
 </rss>
