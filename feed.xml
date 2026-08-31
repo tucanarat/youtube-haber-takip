@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 11:30:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 11:35:24 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: İYİ Parti Sözcüsü Buğra Kavuncu, parti genel merkezinde basın açıklaması yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=1NXd_Wa3coA</link>
       <guid isPermaLink="false">1NXd_Wa3coA</guid>
       <pubDate>Mon, 31 Aug 2026 11:25:45 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: İYİ Parti Sözcüsü Buğra Kavuncu, parti genel merkezinde basın açıklaması yapıyor #Canlı</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Ali Mahir Başarır hastanede yaralıları ziyaret etti: "Göz göre göre ölüme gönderildik!"</title>
+      <link>https://www.youtube.com/watch?v=AWxbgfFibN4</link>
+      <guid isPermaLink="false">AWxbgfFibN4</guid>
+      <pubDate>Mon, 31 Aug 2026 11:21:51 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Ali Mahir Başarır hastanede yaralıları ziyaret etti: "Göz göre göre ölüme gönderildik!"</description>
     </item>
     <item>
       <title>Tele2 Haber: Özgür Özel soruları yanıtlıyor</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ouRO6IN8KdI</guid>
       <pubDate>Mon, 31 Aug 2026 08:50:25 +0000</pubDate>
       <description>Halk TV kanalından yeni video: KAYIP 18 KİŞİ HALA BULUNAMADI! Girne faciasında 9 kişi adliyeye sevk edildi! Umut Taştan aktardı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İSTANBUL'DA FİLM GİBİ OPERASYON! #shorts</title>
-      <link>https://www.youtube.com/shorts/1RyN9oPM5cA</link>
-      <guid isPermaLink="false">1RyN9oPM5cA</guid>
-      <pubDate>Mon, 31 Aug 2026 08:45:19 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İSTANBUL'DA FİLM GİBİ OPERASYON! #shorts</description>
     </item>
   </channel>
 </rss>
