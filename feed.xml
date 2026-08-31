@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 19:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 19:40:34 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: "KATİL NETANYAHU" KÖŞEYE SIKIŞTI! Özlem Gürses İsrail'in Sinsi Seçim Oyununu İfşa Etti</title>
+      <link>https://www.youtube.com/watch?v=JdSzmJMlDXg</link>
+      <guid isPermaLink="false">JdSzmJMlDXg</guid>
+      <pubDate>Mon, 31 Aug 2026 19:30:05 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: "KATİL NETANYAHU" KÖŞEYE SIKIŞTI! Özlem Gürses İsrail'in Sinsi Seçim Oyununu İfşa Etti</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | YENİ Parti Lideri Özgür Özel'den Halk TV'ye Gündemi Sarsacak Açıklamalar! | Özel Röportaj</title>
       <link>https://www.youtube.com/watch?v=YHF-KallwwI</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">77EOqzzCH5g</guid>
       <pubDate>Mon, 31 Aug 2026 16:45:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Mossad'ın Kirli Operasyonu Patladı! Erdoğan Karşı Çıktı Trump Fişi Çekti Özlem Gürses Anlattı</description>
-    </item>
-    <item>
-      <title>Halk TV: FACİANIN GELECEĞİ BİR GÜN ÖNCEDEN BELLİYMİŞ! İşte Girne'deki gemi felaketinden kan donduran detaylar</title>
-      <link>https://www.youtube.com/watch?v=ULuIne_ujjY</link>
-      <guid isPermaLink="false">ULuIne_ujjY</guid>
-      <pubDate>Mon, 31 Aug 2026 16:30:20 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: FACİANIN GELECEĞİ BİR GÜN ÖNCEDEN BELLİYMİŞ! İşte Girne'deki gemi felaketinden kan donduran detaylar</description>
     </item>
   </channel>
 </rss>
