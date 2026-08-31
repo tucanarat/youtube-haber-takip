@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 05:20:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 05:25:24 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: YENİ Parti İstanbul İl Başkanı Çelik, Bahçelievler'de 30 Ağustos fener alayına katılıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=PYKQuBc3ls8</link>
+      <guid isPermaLink="false">PYKQuBc3ls8</guid>
+      <pubDate>Mon, 31 Aug 2026 05:24:25 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti İstanbul İl Başkanı Çelik, Bahçelievler'de 30 Ağustos fener alayına katılıyor #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: Süheyla Demir ile Günaydın Türkiye (31 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=zWkD7DyWObo</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">PBpcofR-S1o</guid>
       <pubDate>Sun, 30 Aug 2026 17:30:02 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: KİEV'DE YILIN EN KANLI SALDIRISI! Zelenski'den Ağır Misilleme! Putin'i Çıldırtacak Olay</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | YENİ Parti İstanbul İl Başkanı Özgür Çelik, 30 Ağustos fener alayına katılıyor</title>
-      <link>https://www.youtube.com/watch?v=c6dexO2c698</link>
-      <guid isPermaLink="false">c6dexO2c698</guid>
-      <pubDate>Sun, 30 Aug 2026 17:26:17 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti İstanbul İl Başkanı Özgür Çelik, 30 Ağustos fener alayına katılıyor</description>
     </item>
   </channel>
 </rss>
