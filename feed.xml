@@ -6,20 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 12:40:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 12:45:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Murat Ağırel, Melih Gökçek Soruşturmasında İfade Vermesinin Ardından Açıklama Yaptı</title>
+      <link>https://www.youtube.com/watch?v=NwRTD62sXG4</link>
+      <guid isPermaLink="false">NwRTD62sXG4</guid>
+      <pubDate>Mon, 31 Aug 2026 12:41:26 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Murat Ağırel, Melih Gökçek Soruşturmasında İfade Vermesinin Ardından Açıklama Yaptı</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: Gazeteci Murat Ağırel açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=FdUa4T7bJgo</link>
+      <guid isPermaLink="false">FdUa4T7bJgo</guid>
+      <pubDate>Mon, 31 Aug 2026 12:41:10 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Gazeteci Murat Ağırel açıklama yapıyor #Canlı</description>
+    </item>
     <item>
       <title>Cumhuriyet: YENİ Parti genel merkezi açıldı: “İlk seçimde iktidar olmazsak kurultaya gideceğim”</title>
       <link>https://www.youtube.com/shorts/grrY4_XdHdw</link>
       <guid isPermaLink="false">grrY4_XdHdw</guid>
       <pubDate>Mon, 31 Aug 2026 12:38:16 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: YENİ Parti genel merkezi açıldı: “İlk seçimde iktidar olmazsak kurultaya gideceğim”</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Murat Ağırel, Melih Gökçek Soruşturmasında İfade Vermesinin Ardından Açıklama Yapıyor</title>
-      <link>https://www.youtube.com/watch?v=NwRTD62sXG4</link>
-      <guid isPermaLink="false">NwRTD62sXG4</guid>
-      <pubDate>Mon, 31 Aug 2026 12:36:04 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Murat Ağırel, Melih Gökçek Soruşturmasında İfade Vermesinin Ardından Açıklama Yapıyor</description>
     </item>
     <item>
       <title>Halk TV: ERDOĞAN'A ŞOK! İmamoğlu'nun basılmadan yasaklanan kitabı için eski danışmanı bakın neler dedi!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">HOwOMtPAP9Y</guid>
       <pubDate>Mon, 31 Aug 2026 10:26:11 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Eski CHP Genel Başkan Vekili Cevdet Selvi İçin Cenaze Töreni Düzenlendi!</description>
-    </item>
-    <item>
-      <title>Halk TV: Girne Açıklarında Alabora Olan Geminin Ardından Ekiplerin Arama çÇalışmaları Sürüyor</title>
-      <link>https://www.youtube.com/watch?v=QvUfzcHECpU</link>
-      <guid isPermaLink="false">QvUfzcHECpU</guid>
-      <pubDate>Mon, 31 Aug 2026 10:24:22 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Girne Açıklarında Alabora Olan Geminin Ardından Ekiplerin Arama çÇalışmaları Sürüyor</description>
     </item>
   </channel>
 </rss>
