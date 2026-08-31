@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 17:45:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 17:50:33 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Ankara'da İttifak Kulisleri! Erdoğan'ın Uykuları Kaçacak! Ümit Özdağ ve Dervişoğlu Düğmeye Bastı</title>
+      <link>https://www.youtube.com/watch?v=jWgZ5T7KVnw</link>
+      <guid isPermaLink="false">jWgZ5T7KVnw</guid>
+      <pubDate>Mon, 31 Aug 2026 17:45:30 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Ankara'da İttifak Kulisleri! Erdoğan'ın Uykuları Kaçacak! Ümit Özdağ ve Dervişoğlu Düğmeye Bastı</description>
+    </item>
+    <item>
+      <title>Halk TV: ALTIN ALACAKLAR DİKKAT! Mehmet Ali Yıldırımtürk'den milyonlara altın uyarısı!</title>
+      <link>https://www.youtube.com/watch?v=sNXmU7dlBdw</link>
+      <guid isPermaLink="false">sNXmU7dlBdw</guid>
+      <pubDate>Mon, 31 Aug 2026 17:45:28 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ALTIN ALACAKLAR DİKKAT! Mehmet Ali Yıldırımtürk'den milyonlara altın uyarısı!</description>
+    </item>
     <item>
       <title>Halk TV: "GELEN, ÇAYI VE ŞEKERİ İLE GELİYOR..." Özel, YENİ Parti'ye ilgilin oldukça yoğun olduğunu kaydetti!</title>
       <link>https://www.youtube.com/watch?v=FVGh7zfoq1g</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">PaEhGLz7_pw</guid>
       <pubDate>Mon, 31 Aug 2026 14:42:26 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BÖLGEYİ YİNE ATEŞ SARDI! ABD ve İran birbirini kalbinden vurdu! Ünal ve Karaçam'dan korkutan bigiler</description>
-    </item>
-    <item>
-      <title>Halk TV: YOK BÖYLE MEYDAN OKUMA! Özgür Özel öyle bir 'iktidar' vaadi verdi ki... Küçük dilinizi yutacaksınız!</title>
-      <link>https://www.youtube.com/watch?v=d8jWMHx4YNA</link>
-      <guid isPermaLink="false">d8jWMHx4YNA</guid>
-      <pubDate>Mon, 31 Aug 2026 14:40:21 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YOK BÖYLE MEYDAN OKUMA! Özgür Özel öyle bir 'iktidar' vaadi verdi ki... Küçük dilinizi yutacaksınız!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Murat Ağırel Gökçek soruşturmasında ifade verdi: ''Soruşturma çok genişleyecek''</title>
-      <link>https://www.youtube.com/shorts/zRIQZL6wJUE</link>
-      <guid isPermaLink="false">zRIQZL6wJUE</guid>
-      <pubDate>Mon, 31 Aug 2026 14:32:18 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Murat Ağırel Gökçek soruşturmasında ifade verdi: ''Soruşturma çok genişleyecek''</description>
     </item>
   </channel>
 </rss>
