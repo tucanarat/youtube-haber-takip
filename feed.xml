@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 13:50:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 13:55:35 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: #CANLI  İBB Davasında 72. gün! Resul Emrah Şahan ne söyledi?</title>
+      <link>https://www.youtube.com/watch?v=UhepuH22NBY</link>
+      <guid isPermaLink="false">UhepuH22NBY</guid>
+      <pubDate>Mon, 31 Aug 2026 13:53:16 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI  İBB Davasında 72. gün! Resul Emrah Şahan ne söyledi?</description>
+    </item>
     <item>
       <title>Halk TV: SAKIN KAÇIRMAYIN! Deniz Bayramoğlu 7 Eylül'den itibaren Halk TV izleyicisi ile beraber olacak!</title>
       <link>https://www.youtube.com/watch?v=JSp4t6VYBBU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">w8EL64aaHOA</guid>
       <pubDate>Mon, 31 Aug 2026 11:37:00 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: ÖZGÜR ÖZEL, YENİ PARTİ GENEL MERKEZ BİNASINA GELDİ! "ÇOK HEYECANLIYIZ"</description>
-    </item>
-    <item>
-      <title>Halk TV: KALBİNİZ DAYANMAYACAK! Evladını kaybeden annenin feryadı Ali Mahir Başarır'ı ağlattı! Yürek yakacak!</title>
-      <link>https://www.youtube.com/watch?v=eSM254iMBLU</link>
-      <guid isPermaLink="false">eSM254iMBLU</guid>
-      <pubDate>Mon, 31 Aug 2026 11:35:19 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KALBİNİZ DAYANMAYACAK! Evladını kaybeden annenin feryadı Ali Mahir Başarır'ı ağlattı! Yürek yakacak!</description>
     </item>
   </channel>
 </rss>
