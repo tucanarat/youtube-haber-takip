@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 16:45:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 16:50:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: 'KATİLLER' DİYE BAĞIRDILAR! Gemi faciasında gözaltına alınan 14 kişi böyle mahkemeye çıkarıldı!</title>
+      <link>https://www.youtube.com/watch?v=-orHMm_Dsxg</link>
+      <guid isPermaLink="false">-orHMm_Dsxg</guid>
+      <pubDate>Mon, 31 Aug 2026 16:45:12 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: 'KATİLLER' DİYE BAĞIRDILAR! Gemi faciasında gözaltına alınan 14 kişi böyle mahkemeye çıkarıldı!</description>
+    </item>
     <item>
       <title>Halk TV: FACİANIN GELECEĞİ BİR GÜN ÖNCEDEN BELLİYMİŞ! İşte Girne'deki gemi felaketinden kan donduran detaylar</title>
       <link>https://www.youtube.com/watch?v=ULuIne_ujjY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">tZie3_5kla8</guid>
       <pubDate>Mon, 31 Aug 2026 14:09:34 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Giresun’da sağanak bilançosu ağır oldu: Dere taştı, 2,2 milyon liralık hasar oluştu</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Girne'de batan feribotun son anları kamerada!</title>
-      <link>https://www.youtube.com/shorts/suggqhVWle4</link>
-      <guid isPermaLink="false">suggqhVWle4</guid>
-      <pubDate>Mon, 31 Aug 2026 14:06:09 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Girne'de batan feribotun son anları kamerada!</description>
     </item>
   </channel>
 </rss>
