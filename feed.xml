@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 18:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 18:30:46 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: Arif Kocabıyık, Bulgaristan'a geçmeye çalışırken tırın altında yakalandı</title>
       <link>https://www.youtube.com/shorts/bkDbSrTiSTY</link>
       <guid isPermaLink="false">bkDbSrTiSTY</guid>
       <pubDate>Mon, 31 Aug 2026 18:24:59 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Arif Kocabıyık, Bulgaristan'a geçmeye çalışırken tırın altında yakalandı</description>
+    </item>
+    <item>
+      <title>Halk TV: İBB DAVASINDA GERİLİM TIRMANDI! 72. duruşmanın ardından İmamoğlu’ndan olay olacak sözler!</title>
+      <link>https://www.youtube.com/watch?v=9dpEUCu3zr0</link>
+      <guid isPermaLink="false">9dpEUCu3zr0</guid>
+      <pubDate>Mon, 31 Aug 2026 18:20:20 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İBB DAVASINDA GERİLİM TIRMANDI! 72. duruşmanın ardından İmamoğlu’ndan olay olacak sözler!</description>
     </item>
     <item>
       <title>Tele2 Haber: İBB davasında bu hafta: Tahliye talepleri alınıyor! İrem Yüzer ve Orhan Uğuroğlu yorumluyor</title>
@@ -85,11 +92,11 @@
       <description>Halk TV kanalından yeni video: ALTIN ALACAKLAR DİKKAT! Mehmet Ali Yıldırımtürk'den milyonlara altın uyarısı!</description>
     </item>
     <item>
-      <title>Halk TV: "GELEN, ÇAYI VE ŞEKERİ İLE GELİYOR..." Özel, YENİ Parti'ye ilgilin oldukça yoğun olduğunu kaydetti!</title>
+      <title>Halk TV: "GELEN, ÇAYI VE ŞEKERİ İLE GELİYOR..." Özel, YENİ Parti'ye ilginin oldukça yoğun olduğunu kaydetti!</title>
       <link>https://www.youtube.com/watch?v=FVGh7zfoq1g</link>
       <guid isPermaLink="false">FVGh7zfoq1g</guid>
       <pubDate>Mon, 31 Aug 2026 17:40:17 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: "GELEN, ÇAYI VE ŞEKERİ İLE GELİYOR..." Özel, YENİ Parti'ye ilgilin oldukça yoğun olduğunu kaydetti!</description>
+      <description>Halk TV kanalından yeni video: "GELEN, ÇAYI VE ŞEKERİ İLE GELİYOR..." Özel, YENİ Parti'ye ilginin oldukça yoğun olduğunu kaydetti!</description>
     </item>
     <item>
       <title>Tele2 Haber: Girne'de gemi faciası | Melih Gökçek'e soruşturma! Murat Taylan ile Haber-Yorum (31.08.2026)</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">2e9WxNdYjTY</guid>
       <pubDate>Mon, 31 Aug 2026 15:10:29 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Girne açıklarında alabora olan geminin batmadan önceki görüntüleri ortaya çıktı;</description>
-    </item>
-    <item>
-      <title>Halk TV: ERDOĞAN’IN EN BÜYÜK SIRRI ORTAYA ÇIKTI! Seçim öncesi o hamleyi yapacakmış! Sertaç Eş tarih verdi!</title>
-      <link>https://www.youtube.com/watch?v=xhnt-YtHQH0</link>
-      <guid isPermaLink="false">xhnt-YtHQH0</guid>
-      <pubDate>Mon, 31 Aug 2026 15:10:27 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ERDOĞAN’IN EN BÜYÜK SIRRI ORTAYA ÇIKTI! Seçim öncesi o hamleyi yapacakmış! Sertaç Eş tarih verdi!</description>
     </item>
   </channel>
 </rss>
