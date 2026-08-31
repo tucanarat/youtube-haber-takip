@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 20:25:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 20:30:44 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: İBB Davasında Neler Oluyor? Afşin Hatipoğlu'ndan AKP'ye Zehir Zemberek İmamoğlu Çıkışı</title>
       <link>https://www.youtube.com/watch?v=NE0CWA0dRM4</link>
       <guid isPermaLink="false">NE0CWA0dRM4</guid>
       <pubDate>Mon, 31 Aug 2026 20:20:23 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İBB Davasında Neler Oluyor? Afşin Hatipoğlu'ndan AKP'ye Zehir Zemberek İmamoğlu Çıkışı</description>
+    </item>
+    <item>
+      <title>Halk TV: Cevdet Selvi son yolculuğuna uğurlandı! Özgür Özel ve Kılıçdaroğlu arasında dikkat çeken mesafe!</title>
+      <link>https://www.youtube.com/watch?v=tvoo8JUZSh0</link>
+      <guid isPermaLink="false">tvoo8JUZSh0</guid>
+      <pubDate>Mon, 31 Aug 2026 20:15:07 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Cevdet Selvi son yolculuğuna uğurlandı! Özgür Özel ve Kılıçdaroğlu arasında dikkat çeken mesafe!</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Eski CHP Genel Başkan Vekili Cevdet Selvi için TBMM'de cenaze töreni düzenleniyor #Canlı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">0GpI78D_cQA</guid>
       <pubDate>Mon, 31 Aug 2026 17:15:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: GEMİ İLK OLARA O NOKTADAN SU ALMIŞ! Bu detaylar tüylerinizi ürpertecek! Ertuğrul Senova anlattı!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "İKTİDARI İNANILMAZ RAHATLATIR!" Hacaloğlu ve Eroğlu Gökçek soruşturmasının şifrelerini anlattı!</title>
-      <link>https://www.youtube.com/watch?v=Ilc30eXU8ng</link>
-      <guid isPermaLink="false">Ilc30eXU8ng</guid>
-      <pubDate>Mon, 31 Aug 2026 17:11:00 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "İKTİDARI İNANILMAZ RAHATLATIR!" Hacaloğlu ve Eroğlu Gökçek soruşturmasının şifrelerini anlattı!</description>
     </item>
   </channel>
 </rss>
