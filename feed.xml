@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 19:15:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 19:20:33 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Melih Gökçek'in 100 Yolsuzluk Dosyası Neden Bekletiliyor? AKP'nin Derin Sessizliği</title>
+      <link>https://www.youtube.com/watch?v=0Z23LMhHCJY</link>
+      <guid isPermaLink="false">0Z23LMhHCJY</guid>
+      <pubDate>Mon, 31 Aug 2026 19:15:27 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Melih Gökçek'in 100 Yolsuzluk Dosyası Neden Bekletiliyor? AKP'nin Derin Sessizliği</description>
+    </item>
     <item>
       <title>Tele2 Haber: İBB Davasında kritik soru! 'TAHLİYELER OLACAK MI?' Gülşah İnce, Silivri'den aktardı...</title>
       <link>https://www.youtube.com/watch?v=U7bzK8ZQl14</link>
@@ -239,6 +246,13 @@
       <description>Halk TV kanalından yeni video: GEMİ İLK OLARA O NOKTADAN SU ALMIŞ! Bu detaylar tüylerinizi ürpertecek! Ertuğrul Senova anlattı!</description>
     </item>
     <item>
+      <title>Tele2 Haber: "İKTİDARI İNANILMAZ RAHATLATIR!" Hacaloğlu ve Eroğlu Gökçek soruşturmasının şifrelerini anlattı!</title>
+      <link>https://www.youtube.com/watch?v=Ilc30eXU8ng</link>
+      <guid isPermaLink="false">Ilc30eXU8ng</guid>
+      <pubDate>Mon, 31 Aug 2026 17:11:00 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "İKTİDARI İNANILMAZ RAHATLATIR!" Hacaloğlu ve Eroğlu Gökçek soruşturmasının şifrelerini anlattı!</description>
+    </item>
+    <item>
       <title>Halk TV: YENİ Parti Lideri Özgür Özel, Saat 20:00’dan İtibaren Halk TV’de Soruları Yanıtlayacak!</title>
       <link>https://www.youtube.com/watch?v=cC9Zly0qpiE</link>
       <guid isPermaLink="false">cC9Zly0qpiE</guid>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">Jka3-bM17Gs</guid>
       <pubDate>Mon, 31 Aug 2026 16:10:30 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Girne'de gemi kazasında 2 çocuğu kaybolan anne: Kızım elimden kaydı gitti</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | YENİ Parti Lideri Özgür Özel'den Halk TV'ye Gündemi Sarsacak Açıklamalar! | Özel Röportaj</title>
-      <link>https://www.youtube.com/watch?v=YHF-KallwwI</link>
-      <guid isPermaLink="false">YHF-KallwwI</guid>
-      <pubDate>Mon, 31 Aug 2026 16:03:10 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti Lideri Özgür Özel'den Halk TV'ye Gündemi Sarsacak Açıklamalar! | Özel Röportaj</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Muharrem İnce'den Olay Gönderme! Özlem Gürses'ten Zor Sorular! "Helal Para" Çıkışı Kime?</title>
-      <link>https://www.youtube.com/watch?v=OUhcdYCoMNY</link>
-      <guid isPermaLink="false">OUhcdYCoMNY</guid>
-      <pubDate>Mon, 31 Aug 2026 16:00:28 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Muharrem İnce'den Olay Gönderme! Özlem Gürses'ten Zor Sorular! "Helal Para" Çıkışı Kime?</description>
     </item>
   </channel>
 </rss>
