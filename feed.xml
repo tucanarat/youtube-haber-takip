@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 18:30:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 18:35:25 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: YENİ Parti Lideri Özel; Muharrem İnce'nin, kendisine gönderdiği mesajı ilk kez Halk TV'de açıkladı!</title>
+      <link>https://www.youtube.com/watch?v=DjZIdgKvUvI</link>
+      <guid isPermaLink="false">DjZIdgKvUvI</guid>
+      <pubDate>Mon, 31 Aug 2026 18:30:35 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YENİ Parti Lideri Özel; Muharrem İnce'nin, kendisine gönderdiği mesajı ilk kez Halk TV'de açıkladı!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: TOGG'da Babayiğit Depremi! Erdoğan'ı Teyakkuza Geçiren İstifa! Özlem Gürses Anlattı</title>
+      <link>https://www.youtube.com/watch?v=6QYiwn2pOFA</link>
+      <guid isPermaLink="false">6QYiwn2pOFA</guid>
+      <pubDate>Mon, 31 Aug 2026 18:30:31 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: TOGG'da Babayiğit Depremi! Erdoğan'ı Teyakkuza Geçiren İstifa! Özlem Gürses Anlattı</description>
+    </item>
     <item>
       <title>Tele2 Haber: Arif Kocabıyık, Bulgaristan'a geçmeye çalışırken tırın altında yakalandı</title>
       <link>https://www.youtube.com/shorts/bkDbSrTiSTY</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">Hm2ggOtJtDY</guid>
       <pubDate>Mon, 31 Aug 2026 15:25:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: KAPTANIN İFADESİ HER ŞEYİ ELE VERDİ! Ortaya çıkan iddia korkunç! Yankı Bağcıoğlu neler neler anlattı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: 19 Yıl Sonra Gelen Acı İtiraf! Uçmaması Gereken Uçak Yüzmemesi Gereken Gemi! İhmaller Zinciri</title>
-      <link>https://www.youtube.com/watch?v=yl00h5M6rx8</link>
-      <guid isPermaLink="false">yl00h5M6rx8</guid>
-      <pubDate>Mon, 31 Aug 2026 15:20:03 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: 19 Yıl Sonra Gelen Acı İtiraf! Uçmaması Gereken Uçak Yüzmemesi Gereken Gemi! İhmaller Zinciri</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Girne açıklarında alabora olan geminin batmadan önceki görüntüleri ortaya çıktı;</title>
-      <link>https://www.youtube.com/shorts/2e9WxNdYjTY</link>
-      <guid isPermaLink="false">2e9WxNdYjTY</guid>
-      <pubDate>Mon, 31 Aug 2026 15:10:29 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Girne açıklarında alabora olan geminin batmadan önceki görüntüleri ortaya çıktı;</description>
     </item>
   </channel>
 </rss>
