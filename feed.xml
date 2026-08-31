@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 14:40:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 14:45:39 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: YOK BÖYLE MEYDAN OKUMA! Özgür Özel öyle bir 'iktidar' vaadi verdi ki... Küçük dilinizi yutacaksınız!</title>
+      <link>https://www.youtube.com/watch?v=d8jWMHx4YNA</link>
+      <guid isPermaLink="false">d8jWMHx4YNA</guid>
+      <pubDate>Mon, 31 Aug 2026 14:40:21 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YOK BÖYLE MEYDAN OKUMA! Özgür Özel öyle bir 'iktidar' vaadi verdi ki... Küçük dilinizi yutacaksınız!</description>
+    </item>
     <item>
       <title>Cumhuriyet: Murat Ağırel Gökçek soruşturmasında ifade verdi: ''Soruşturma çok genişleyecek''</title>
       <link>https://www.youtube.com/shorts/zRIQZL6wJUE</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">grrY4_XdHdw</guid>
       <pubDate>Mon, 31 Aug 2026 12:38:16 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: YENİ Parti genel merkezi açıldı: “İlk seçimde iktidar olmazsak kurultaya gideceğim”</description>
-    </item>
-    <item>
-      <title>Halk TV: ERDOĞAN'A ŞOK! İmamoğlu'nun basılmadan yasaklanan kitabı için eski danışmanı bakın neler dedi!</title>
-      <link>https://www.youtube.com/watch?v=NLXCB9ROn18</link>
-      <guid isPermaLink="false">NLXCB9ROn18</guid>
-      <pubDate>Mon, 31 Aug 2026 12:35:26 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ERDOĞAN'A ŞOK! İmamoğlu'nun basılmadan yasaklanan kitabı için eski danışmanı bakın neler dedi!</description>
     </item>
   </channel>
 </rss>
