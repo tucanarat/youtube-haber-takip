@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 18:35:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 18:40:34 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI Ülkü Çoban ile Manşet Ötesi</title>
+      <link>https://www.youtube.com/watch?v=-qZgiN7eikI</link>
+      <guid isPermaLink="false">-qZgiN7eikI</guid>
+      <pubDate>Mon, 31 Aug 2026 18:39:03 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Ülkü Çoban ile Manşet Ötesi</description>
+    </item>
     <item>
       <title>Halk TV: YENİ Parti Lideri Özel; Muharrem İnce'nin, kendisine gönderdiği mesajı ilk kez Halk TV'de açıkladı!</title>
       <link>https://www.youtube.com/watch?v=DjZIdgKvUvI</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">XIq3r2HX82E</guid>
       <pubDate>Mon, 31 Aug 2026 15:30:27 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "MUTLAK BUTLAN PROJEYSE TUTMADI!" Barış Övgün Protokolde Geriye Düşen Butlan CHP'sini Eleştirdi!</description>
-    </item>
-    <item>
-      <title>Halk TV: KAPTANIN İFADESİ HER ŞEYİ ELE VERDİ! Ortaya çıkan iddia korkunç! Yankı Bağcıoğlu neler neler anlattı</title>
-      <link>https://www.youtube.com/watch?v=Hm2ggOtJtDY</link>
-      <guid isPermaLink="false">Hm2ggOtJtDY</guid>
-      <pubDate>Mon, 31 Aug 2026 15:25:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KAPTANIN İFADESİ HER ŞEYİ ELE VERDİ! Ortaya çıkan iddia korkunç! Yankı Bağcıoğlu neler neler anlattı</description>
     </item>
   </channel>
 </rss>
