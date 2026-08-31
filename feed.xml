@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 05:10:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 05:15:32 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: Merve Ekinci ile Uyanma Vakti 31 Ağustos</title>
       <link>https://www.youtube.com/watch?v=ANWfP3i1q_I</link>
@@ -15,11 +15,18 @@
       <description>SÖZCÜ TV kanalından yeni video: Merve Ekinci ile Uyanma Vakti 31 Ağustos</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | Süheyla Demir ile Günaydın Türkiye</title>
+      <title>Halk TV: #CANLI | Gökhan Kayış ile Haberler</title>
+      <link>https://www.youtube.com/watch?v=ixymgzSZmm8</link>
+      <guid isPermaLink="false">ixymgzSZmm8</guid>
+      <pubDate>Mon, 31 Aug 2026 03:00:50 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Gökhan Kayış ile Haberler</description>
+    </item>
+    <item>
+      <title>Halk TV: Süheyla Demir ile Günaydın Türkiye (31 Ağustos 2026)</title>
       <link>https://www.youtube.com/watch?v=zWkD7DyWObo</link>
       <guid isPermaLink="false">zWkD7DyWObo</guid>
       <pubDate>Mon, 31 Aug 2026 02:58:23 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Süheyla Demir ile Günaydın Türkiye</description>
+      <description>Halk TV kanalından yeni video: Süheyla Demir ile Günaydın Türkiye (31 Ağustos 2026)</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Merve Ekinci ile Uyanma Vakti</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">c6dexO2c698</guid>
       <pubDate>Sun, 30 Aug 2026 17:26:17 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti İstanbul İl Başkanı Özgür Çelik, 30 Ağustos fener alayına katılıyor</description>
-    </item>
-    <item>
-      <title>Halk TV: Gemi kazasında deniz koşulları tartışması! Alper Gergin’den kazaya ilişkin kritik değerlendirme</title>
-      <link>https://www.youtube.com/watch?v=YRnLGvHrN9w</link>
-      <guid isPermaLink="false">YRnLGvHrN9w</guid>
-      <pubDate>Sun, 30 Aug 2026 17:20:33 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Gemi kazasında deniz koşulları tartışması! Alper Gergin’den kazaya ilişkin kritik değerlendirme</description>
     </item>
   </channel>
 </rss>
