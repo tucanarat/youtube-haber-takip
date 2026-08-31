@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 22:20:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 22:25:28 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Eski CHP Genel Başkan Vekili Cevdet Selvi için cenaze töreni düzenleniyor</title>
+      <link>https://www.youtube.com/watch?v=OfkYaYIeg6Y</link>
+      <guid isPermaLink="false">OfkYaYIeg6Y</guid>
+      <pubDate>Mon, 31 Aug 2026 22:22:45 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Eski CHP Genel Başkan Vekili Cevdet Selvi için cenaze töreni düzenleniyor</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Özlem Gürses ile Sözcü Ana Haber</title>
       <link>https://www.youtube.com/watch?v=aaQR4mebFlA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">DjZIdgKvUvI</guid>
       <pubDate>Mon, 31 Aug 2026 18:30:35 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Parti Lideri Özel; Muharrem İnce'nin, kendisine gönderdiği mesajı ilk kez Halk TV'de açıkladı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: TOGG'da Babayiğit Depremi! Erdoğan'ı Teyakkuza Geçiren İstifa! Özlem Gürses Anlattı</title>
-      <link>https://www.youtube.com/watch?v=6QYiwn2pOFA</link>
-      <guid isPermaLink="false">6QYiwn2pOFA</guid>
-      <pubDate>Mon, 31 Aug 2026 18:30:31 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: TOGG'da Babayiğit Depremi! Erdoğan'ı Teyakkuza Geçiren İstifa! Özlem Gürses Anlattı</description>
     </item>
   </channel>
 </rss>
