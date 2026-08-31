@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 20:30:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 20:35:27 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: "BİRAZ DA SEN HADDİNİ BİL!" Özel, adını vermeden Mehmet Uçum'a sert sözlerle yüklendi!</title>
+      <link>https://www.youtube.com/watch?v=vOo_3d0jsYI</link>
+      <guid isPermaLink="false">vOo_3d0jsYI</guid>
+      <pubDate>Mon, 31 Aug 2026 20:30:06 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: "BİRAZ DA SEN HADDİNİ BİL!" Özel, adını vermeden Mehmet Uçum'a sert sözlerle yüklendi!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İBB Davasında Neler Oluyor? Afşin Hatipoğlu'ndan AKP'ye Zehir Zemberek İmamoğlu Çıkışı</title>
       <link>https://www.youtube.com/watch?v=NE0CWA0dRM4</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">u9lcHdUw30Q</guid>
       <pubDate>Mon, 31 Aug 2026 17:15:08 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Türkiye'nin Dibinde Sinsi İttifakı! Yunanistan ve İsrail'den 3 Milyarlık 'Aşil Kalkanı' İmzası</description>
-    </item>
-    <item>
-      <title>Halk TV: GEMİ İLK OLARA O NOKTADAN SU ALMIŞ! Bu detaylar tüylerinizi ürpertecek! Ertuğrul Senova anlattı!</title>
-      <link>https://www.youtube.com/watch?v=0GpI78D_cQA</link>
-      <guid isPermaLink="false">0GpI78D_cQA</guid>
-      <pubDate>Mon, 31 Aug 2026 17:15:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: GEMİ İLK OLARA O NOKTADAN SU ALMIŞ! Bu detaylar tüylerinizi ürpertecek! Ertuğrul Senova anlattı!</description>
     </item>
   </channel>
 </rss>
