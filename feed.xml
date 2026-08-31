@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 15:25:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 15:30:42 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: KAPTANIN İFADESİ HER ŞEYİ ELE VERDİ! Ortaya çıkan iddia korkunç! Yankı Bağcıoğlu neler neler anlattı</title>
+      <link>https://www.youtube.com/watch?v=Hm2ggOtJtDY</link>
+      <guid isPermaLink="false">Hm2ggOtJtDY</guid>
+      <pubDate>Mon, 31 Aug 2026 15:25:06 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KAPTANIN İFADESİ HER ŞEYİ ELE VERDİ! Ortaya çıkan iddia korkunç! Yankı Bağcıoğlu neler neler anlattı</description>
+    </item>
     <item>
       <title>Tele2 Haber: Girne açıklarında alabora olan geminin batmadan önceki görüntüleri ortaya çıktı;</title>
       <link>https://www.youtube.com/shorts/2e9WxNdYjTY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">2EXHTPutEM0</guid>
       <pubDate>Mon, 31 Aug 2026 13:09:43 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: 'SEÇİLMEZSEM BIRAKIRIM!' Özgür Özel'den YENİ Parti Genel Merkezi Açılışında İddialı Sözler!</description>
-    </item>
-    <item>
-      <title>Halk TV: DEHŞET ANLARINI AĞLAYARAK ANLATTI! Girne'de batan geminin kaptanından akılalmaz ihmaller zinciri!</title>
-      <link>https://www.youtube.com/watch?v=LjJCL3KzdNE</link>
-      <guid isPermaLink="false">LjJCL3KzdNE</guid>
-      <pubDate>Mon, 31 Aug 2026 13:05:30 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: DEHŞET ANLARINI AĞLAYARAK ANLATTI! Girne'de batan geminin kaptanından akılalmaz ihmaller zinciri!</description>
     </item>
   </channel>
 </rss>
