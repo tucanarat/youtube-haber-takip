@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 18:45:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 18:50:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: 30 AĞUSTOS TÖRENİ ÖNCESİ REZALET! Kaymakam ve koruma memuru herkesin gözü önünde birbirine girdi!</title>
+      <link>https://www.youtube.com/watch?v=mhNriByE4Zc</link>
+      <guid isPermaLink="false">mhNriByE4Zc</guid>
+      <pubDate>Mon, 31 Aug 2026 18:45:30 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: 30 AĞUSTOS TÖRENİ ÖNCESİ REZALET! Kaymakam ve koruma memuru herkesin gözü önünde birbirine girdi!</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI Onur Öncü ile Sabah Pusulası</title>
       <link>https://www.youtube.com/watch?v=VcZ5vpu1mt0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">tPBu-n36Bvg</guid>
       <pubDate>Mon, 31 Aug 2026 15:40:31 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses Açtı Ağzını Yumdu Gözünü! 8 Ölü 20 Kayıp! İşte Kıbrıs'taki Facianın İhmaller Zinciri</description>
-    </item>
-    <item>
-      <title>Halk TV: MEHMET ŞİMŞEK'İN ACI GÜNÜ! Batman'da spor salonundaki yangın faciasında yeğeni hayatını kaybetti!</title>
-      <link>https://www.youtube.com/watch?v=gVB6e_j9esc</link>
-      <guid isPermaLink="false">gVB6e_j9esc</guid>
-      <pubDate>Mon, 31 Aug 2026 15:40:20 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: MEHMET ŞİMŞEK'İN ACI GÜNÜ! Batman'da spor salonundaki yangın faciasında yeğeni hayatını kaybetti!</description>
     </item>
   </channel>
 </rss>
