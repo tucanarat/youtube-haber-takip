@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 15:00:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 15:05:28 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Alevi aydınlardan Öcalan'ın ittifak mesajına çok sert tepki!</title>
+      <link>https://www.youtube.com/watch?v=B6jUIjgwXpo</link>
+      <guid isPermaLink="false">B6jUIjgwXpo</guid>
+      <pubDate>Mon, 31 Aug 2026 15:00:39 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Alevi aydınlardan Öcalan'ın ittifak mesajına çok sert tepki!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Kıbrıs'taki Gemi Faciasında Kan Donduran İhmal! Açık Unutulan Kapılar ve Çarpıcı Kara Kutusu İddiası</title>
+      <link>https://www.youtube.com/watch?v=jpFuru22tb4</link>
+      <guid isPermaLink="false">jpFuru22tb4</guid>
+      <pubDate>Mon, 31 Aug 2026 15:00:37 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Kıbrıs'taki Gemi Faciasında Kan Donduran İhmal! Açık Unutulan Kapılar ve Çarpıcı Kara Kutusu İddiası</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | YENİ Parti Lideri Özgür Özel, Saat 20:00’dan İtibaren Halk TV’de Soruları Yanıtlayacak!</title>
       <link>https://www.youtube.com/watch?v=cC9Zly0qpiE</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">JTOYNoHL7P4</guid>
       <pubDate>Mon, 31 Aug 2026 13:00:18 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Otizmli bireyler ve aileler mağdur! Bürokrasi tedaviye engel oluyor... Aileden "Biz ölüyoruz" isyanı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Yunan Ordusunu İsrail Donatacak! Ege Adaları Füzelerle Çevriliyor! Netanyahu'dan Hain Plan</title>
-      <link>https://www.youtube.com/watch?v=HVsQimMuPso</link>
-      <guid isPermaLink="false">HVsQimMuPso</guid>
-      <pubDate>Mon, 31 Aug 2026 13:00:09 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Yunan Ordusunu İsrail Donatacak! Ege Adaları Füzelerle Çevriliyor! Netanyahu'dan Hain Plan</description>
-    </item>
-    <item>
-      <title>Halk TV: KAHROLACAKSINIZ! Kıbrıs'a çalışmaya giden iki kardeş izne dönerken boğularak can verdi! Acı detay!</title>
-      <link>https://www.youtube.com/watch?v=1rpUpIL1Hs0</link>
-      <guid isPermaLink="false">1rpUpIL1Hs0</guid>
-      <pubDate>Mon, 31 Aug 2026 12:50:24 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KAHROLACAKSINIZ! Kıbrıs'a çalışmaya giden iki kardeş izne dönerken boğularak can verdi! Acı detay!</description>
     </item>
   </channel>
 </rss>
