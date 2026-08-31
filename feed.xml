@@ -6,13 +6,34 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 09:45:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 09:50:37 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Adalet Peşinde Aileleri Platformu, deprem davalarına ilişkin basın toplantısı düzenliyor</title>
+      <link>https://www.youtube.com/watch?v=nmjRtSxwt2U</link>
+      <guid isPermaLink="false">nmjRtSxwt2U</guid>
+      <pubDate>Mon, 31 Aug 2026 09:48:01 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Adalet Peşinde Aileleri Platformu, deprem davalarına ilişkin basın toplantısı düzenliyor</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Güzellik Merkezinde Gizli Kamera Skandalı! #shorts</title>
+      <link>https://www.youtube.com/shorts/9hczAa3Pprs</link>
+      <guid isPermaLink="false">9hczAa3Pprs</guid>
+      <pubDate>Mon, 31 Aug 2026 09:45:15 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Güzellik Merkezinde Gizli Kamera Skandalı! #shorts</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Tuncer Bakırhan, yaşamını yitiren eski Belediye Başkanı Mehdi Zana'nın ailesini ziyaret ediyor</title>
       <link>https://www.youtube.com/watch?v=Qu-FWLW9yrc</link>
       <guid isPermaLink="false">Qu-FWLW9yrc</guid>
       <pubDate>Mon, 31 Aug 2026 09:44:09 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Tuncer Bakırhan, yaşamını yitiren eski Belediye Başkanı Mehdi Zana'nın ailesini ziyaret ediyor</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Girne açıklarında alabora olan gemiden kurtulan yolcular o anları anlattı: Boğulduklarını gördük...</title>
+      <link>https://www.youtube.com/shorts/3PA-x8EDhs4</link>
+      <guid isPermaLink="false">3PA-x8EDhs4</guid>
+      <pubDate>Mon, 31 Aug 2026 09:43:52 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Girne açıklarında alabora olan gemiden kurtulan yolcular o anları anlattı: Boğulduklarını gördük...</description>
     </item>
     <item>
       <title>Halk TV: ALABORA OLAN GEMİNİN KAPTANINA DAİR ŞOK İDDİA! Mustafa Baflı, Kıbrıs’tan aktardı! Korkunç detaylar!</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">dXkZ2rei-Ss</guid>
       <pubDate>Mon, 31 Aug 2026 07:30:03 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Girne'de Batan Gemi Bir Ay Önce de Su Almış! Biletçiden Şoke Eden İtiraf! "GEMİ ZATEN SU ALIYORDU"</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: YENİ Parti heyeti, Kriz Masası ziyareti sonrasında Girne Limanı önünde açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=tf61MwgS0ig</link>
-      <guid isPermaLink="false">tf61MwgS0ig</guid>
-      <pubDate>Mon, 31 Aug 2026 07:15:20 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti heyeti, Kriz Masası ziyareti sonrasında Girne Limanı önünde açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Hilmi Hacaloğlu ve Ersin Eroğlu ile Kayıt Dışı (31.08.2026)</title>
-      <link>https://www.youtube.com/watch?v=dPgevI7s7tk</link>
-      <guid isPermaLink="false">dPgevI7s7tk</guid>
-      <pubDate>Mon, 31 Aug 2026 07:05:40 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Hilmi Hacaloğlu ve Ersin Eroğlu ile Kayıt Dışı (31.08.2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: FACİA 'GELİYORUM' DEMİŞ! Girne'de batan gemiden sağ kurtulan yurttaş Halk TV'ye konuştu! Olay sözler</title>
-      <link>https://www.youtube.com/watch?v=Z-tOIdPo-Yg</link>
-      <guid isPermaLink="false">Z-tOIdPo-Yg</guid>
-      <pubDate>Mon, 31 Aug 2026 07:02:41 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: FACİA 'GELİYORUM' DEMİŞ! Girne'de batan gemiden sağ kurtulan yurttaş Halk TV'ye konuştu! Olay sözler</description>
     </item>
   </channel>
 </rss>
