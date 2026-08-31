@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 19:55:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 20:00:54 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Ekrem Açıkel ile Hafta Başı | 31 Ağustos</title>
+      <link>https://www.youtube.com/watch?v=4SFeOZQMuOY</link>
+      <guid isPermaLink="false">4SFeOZQMuOY</guid>
+      <pubDate>Mon, 31 Aug 2026 20:00:14 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Ekrem Açıkel ile Hafta Başı | 31 Ağustos</description>
+    </item>
+    <item>
+      <title>Halk TV: YENİ Parti Lideri Özgür Özel, Çerçeve yasaya verilen oyların barış umudu için verildiğini kaydetti</title>
+      <link>https://www.youtube.com/watch?v=Sd18RLQPwjM</link>
+      <guid isPermaLink="false">Sd18RLQPwjM</guid>
+      <pubDate>Mon, 31 Aug 2026 19:45:34 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YENİ Parti Lideri Özgür Özel, Çerçeve yasaya verilen oyların barış umudu için verildiğini kaydetti</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Süleymancılar ve Gökçeklerin Almanya İzleri! Afşin Hatipoğlu Neler Dedi Neler! Bomba Sözler</title>
       <link>https://www.youtube.com/watch?v=mtfE05uir50</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">W8HndErf4O4</guid>
       <pubDate>Mon, 31 Aug 2026 17:00:02 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Himalayalar'da Kıyamet Gibi Felaket! Çin ve Nepal Birbirine Girdi! Özlem Gürses Rakamıları Açıkladı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Özlem Gürses ile Sözcü Ana Haber  | 31 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=XxZjpqmlq3E</link>
-      <guid isPermaLink="false">XxZjpqmlq3E</guid>
-      <pubDate>Mon, 31 Aug 2026 16:58:58 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses ile Sözcü Ana Haber  | 31 Ağustos</description>
-    </item>
-    <item>
-      <title>Halk TV: 'KATİLLER' DİYE BAĞIRDILAR! Gemi faciasında gözaltına alınan 14 kişi böyle mahkemeye çıkarıldı!</title>
-      <link>https://www.youtube.com/watch?v=-orHMm_Dsxg</link>
-      <guid isPermaLink="false">-orHMm_Dsxg</guid>
-      <pubDate>Mon, 31 Aug 2026 16:45:12 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: 'KATİLLER' DİYE BAĞIRDILAR! Gemi faciasında gözaltına alınan 14 kişi böyle mahkemeye çıkarıldı!</description>
     </item>
   </channel>
 </rss>
