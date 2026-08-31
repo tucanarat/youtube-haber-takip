@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 09:15:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 09:20:34 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: TBMM'de Cevdet Selvi için cenaze töreni: Kemal Kılıçdaroğlu ve Özgür Özel tokalaştı</title>
+      <link>https://www.youtube.com/shorts/cALHKtoYxcg</link>
+      <guid isPermaLink="false">cALHKtoYxcg</guid>
+      <pubDate>Mon, 31 Aug 2026 09:12:25 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: TBMM'de Cevdet Selvi için cenaze töreni: Kemal Kılıçdaroğlu ve Özgür Özel tokalaştı</description>
+    </item>
     <item>
       <title>Halk TV: YASAKLI KİTABINDAN CÜMLELER PAYLAŞTI! İmamoğlu'ndan Silivri'yi ayağa kaldıran sözler! Çok konuşulur!</title>
       <link>https://www.youtube.com/watch?v=lDHY_0UkjMU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">FPdiApVr9_o</guid>
       <pubDate>Mon, 31 Aug 2026 06:51:54 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: YENİ Parti İstanbul İl Başkanı Özgür Çelik, Bahçelievler'de fener alayına katıldı.</description>
-    </item>
-    <item>
-      <title>Halk TV: GİRNE AÇIKLARINDA BÜYÜK FACİA! Gökhan Kayış, batan gemiyle ilgili sarsıcı bilgileri tek tek açıkladı</title>
-      <link>https://www.youtube.com/watch?v=vm_bvCSCICg</link>
-      <guid isPermaLink="false">vm_bvCSCICg</guid>
-      <pubDate>Mon, 31 Aug 2026 06:41:50 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: GİRNE AÇIKLARINDA BÜYÜK FACİA! Gökhan Kayış, batan gemiyle ilgili sarsıcı bilgileri tek tek açıkladı</description>
     </item>
   </channel>
 </rss>
