@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 10:35:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 10:40:30 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: ALİ MAHİR BAŞARIR, KKTC CUMHURBAŞKANI İLE GÖRÜŞTÜ! "KULAKLARIMDA ÇINLIYOR!"</title>
+      <link>https://www.youtube.com/shorts/NM0iZcm4ex4</link>
+      <guid isPermaLink="false">NM0iZcm4ex4</guid>
+      <pubDate>Mon, 31 Aug 2026 10:39:32 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: ALİ MAHİR BAŞARIR, KKTC CUMHURBAŞKANI İLE GÖRÜŞTÜ! "KULAKLARIMDA ÇINLIYOR!"</description>
+    </item>
+    <item>
+      <title>Halk TV: TÜM OKLAR ONUN ÜSTÜNDE! Alabora olan geminin kaptanı ilk kez konuştu! "Ön tarafı kaybedince..."</title>
+      <link>https://www.youtube.com/watch?v=conxFKG0LJ8</link>
+      <guid isPermaLink="false">conxFKG0LJ8</guid>
+      <pubDate>Mon, 31 Aug 2026 10:35:38 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: TÜM OKLAR ONUN ÜSTÜNDE! Alabora olan geminin kaptanı ilk kez konuştu! "Ön tarafı kaybedince..."</description>
+    </item>
     <item>
       <title>Halk TV: "GEMİ SU ALIYOR; GERİ DÖNELİM GİRNE'YE" DİYE BAĞIRMIŞLAR!</title>
       <link>https://www.youtube.com/shorts/glkxwGHphP8</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">sS0lKLnG-fA</guid>
       <pubDate>Mon, 31 Aug 2026 08:14:37 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI  İBB Davasında 72. gün! Silivri’de bu hafta tahliyeler bekleniyor</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Girne açıklarında alabora olan geminin batmadan önceki görüntüleri ortaya çıktı!</title>
-      <link>https://www.youtube.com/shorts/_p-zm_pgUA8</link>
-      <guid isPermaLink="false">_p-zm_pgUA8</guid>
-      <pubDate>Mon, 31 Aug 2026 08:11:34 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Girne açıklarında alabora olan geminin batmadan önceki görüntüleri ortaya çıktı!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Ali Mahir Başarır Girne Limanı Önünde Açıklama Yaptı! "18 Olarak Bildiğimiz Sayı 20 Olabilir..."</title>
-      <link>https://www.youtube.com/watch?v=icFzpv9tWL0</link>
-      <guid isPermaLink="false">icFzpv9tWL0</guid>
-      <pubDate>Mon, 31 Aug 2026 08:08:45 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Ali Mahir Başarır Girne Limanı Önünde Açıklama Yaptı! "18 Olarak Bildiğimiz Sayı 20 Olabilir..."</description>
     </item>
   </channel>
 </rss>
