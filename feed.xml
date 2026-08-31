@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 20:10:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 20:15:38 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Eski CHP Genel Başkan Vekili Cevdet Selvi için TBMM'de cenaze töreni düzenleniyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=fV3XdUfJkik</link>
+      <guid isPermaLink="false">fV3XdUfJkik</guid>
+      <pubDate>Mon, 31 Aug 2026 20:14:44 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Eski CHP Genel Başkan Vekili Cevdet Selvi için TBMM'de cenaze töreni düzenleniyor #Canlı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: 'Türkiye'nin Bölünme Projesinin...' Bartu Soral'dan Uyarı! Sinsi Planı İfşa Etti!</title>
       <link>https://www.youtube.com/watch?v=IhVKaD7l5W8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">cC9Zly0qpiE</guid>
       <pubDate>Mon, 31 Aug 2026 17:07:04 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Parti Lideri Özgür Özel, Saat 20:00’dan İtibaren Halk TV’de Soruları Yanıtlayacak!</description>
-    </item>
-    <item>
-      <title>Halk TV: Ece Üner ile Halk Ana Haber (31 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=PUpjhD_Bf14</link>
-      <guid isPermaLink="false">PUpjhD_Bf14</guid>
-      <pubDate>Mon, 31 Aug 2026 17:03:55 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ece Üner ile Halk Ana Haber (31 Ağustos 2026)</description>
     </item>
   </channel>
 </rss>
