@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 08:15:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 08:20:34 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Marmara’da görsel şölen: Tekirdağ açıklarında yunuslar feribotla yarıştı</title>
+      <link>https://www.youtube.com/shorts/HHaf3KXnib4</link>
+      <guid isPermaLink="false">HHaf3KXnib4</guid>
+      <pubDate>Mon, 31 Aug 2026 08:16:45 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Marmara’da görsel şölen: Tekirdağ açıklarında yunuslar feribotla yarıştı</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: #CANLI  İBB Davasında 71. gün! Beşli Çete şirketlerinden Makyol sahibi savunma yaptı!</title>
+      <link>https://www.youtube.com/watch?v=sS0lKLnG-fA</link>
+      <guid isPermaLink="false">sS0lKLnG-fA</guid>
+      <pubDate>Mon, 31 Aug 2026 08:14:37 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI  İBB Davasında 71. gün! Beşli Çete şirketlerinden Makyol sahibi savunma yaptı!</description>
+    </item>
     <item>
       <title>Cumhuriyet: Girne açıklarında alabora olan geminin batmadan önceki görüntüleri ortaya çıktı!</title>
       <link>https://www.youtube.com/shorts/_p-zm_pgUA8</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">v2B2DqzqKMo</guid>
       <pubDate>Sun, 30 Aug 2026 22:04:41 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Cumhurbaşkanı Erdoğan, Zafer Bayramı tebriklerini kabul ediyor / Ankara #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: Manavgat’ta orman yangını! Havadan ve karadan müdahale ediliyor! #shorts</title>
-      <link>https://www.youtube.com/shorts/j0vRldQ8nKk</link>
-      <guid isPermaLink="false">j0vRldQ8nKk</guid>
-      <pubDate>Sun, 30 Aug 2026 22:00:00 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Manavgat’ta orman yangını! Havadan ve karadan müdahale ediliyor! #shorts</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Samsunspor - Fenerbahçe Maçı | Maç Varsa Erman Hoca Var | Erman Toroğlu | 29 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=aQlyFo3hG8s</link>
-      <guid isPermaLink="false">aQlyFo3hG8s</guid>
-      <pubDate>Sun, 30 Aug 2026 21:56:32 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Samsunspor - Fenerbahçe Maçı | Maç Varsa Erman Hoca Var | Erman Toroğlu | 29 Ağustos</description>
     </item>
   </channel>
 </rss>
