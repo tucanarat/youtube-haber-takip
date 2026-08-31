@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 19:10:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 19:15:38 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: İBB Davasında kritik soru! 'TAHLİYELER OLACAK MI?' Gülşah İnce, Silivri'den aktardı...</title>
       <link>https://www.youtube.com/watch?v=U7bzK8ZQl14</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">PaEhGLz7_pw</guid>
       <pubDate>Mon, 31 Aug 2026 19:00:07 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BÖLGEYİ YİNE ATEŞ SARDI! ABD ve İran birbirini kalbinden vurdu! Ünal ve Karaçam'dan korkutan bigiler</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İsrail'i Titretecek Mekke İttifakı Çırağan'da İmzalandı! Hakan Fidan Netanyahu'ya Esti Gürledi</title>
+      <link>https://www.youtube.com/watch?v=PkU-olODB3E</link>
+      <guid isPermaLink="false">PkU-olODB3E</guid>
+      <pubDate>Mon, 31 Aug 2026 19:00:04 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İsrail'i Titretecek Mekke İttifakı Çırağan'da İmzalandı! Hakan Fidan Netanyahu'ya Esti Gürledi</description>
     </item>
     <item>
       <title>Halk TV: Özgür Özel, Halk TV'de açıkladı! AKP'nin binasını tutan isim YENİ Parti'nin binası için bağış yapmış</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">OUhcdYCoMNY</guid>
       <pubDate>Mon, 31 Aug 2026 16:00:28 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Muharrem İnce'den Olay Gönderme! Özlem Gürses'ten Zor Sorular! "Helal Para" Çıkışı Kime?</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Özgür Özel, YENİ Parti'nin toplam bağış miktarını ve üye sayısını açıkladı!</title>
-      <link>https://www.youtube.com/watch?v=LW0advfxgXs</link>
-      <guid isPermaLink="false">LW0advfxgXs</guid>
-      <pubDate>Mon, 31 Aug 2026 16:00:04 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Özgür Özel, YENİ Parti'nin toplam bağış miktarını ve üye sayısını açıkladı!</description>
     </item>
   </channel>
 </rss>
