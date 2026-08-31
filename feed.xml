@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 10:10:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 10:15:30 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Gazeteci Murat Ağırel açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=FdUa4T7bJgo</link>
+      <guid isPermaLink="false">FdUa4T7bJgo</guid>
+      <pubDate>Mon, 31 Aug 2026 10:11:36 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Gazeteci Murat Ağırel açıklama yapıyor #Canlı</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Girne Açıklarında Alabora Olan Geminin Ardından Ekiplerin Arama çÇalışmaları Sürüyor</title>
+      <link>https://www.youtube.com/watch?v=QvUfzcHECpU</link>
+      <guid isPermaLink="false">QvUfzcHECpU</guid>
+      <pubDate>Mon, 31 Aug 2026 10:09:30 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Girne Açıklarında Alabora Olan Geminin Ardından Ekiplerin Arama çÇalışmaları Sürüyor</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI YENİ Parti Heyeti, KKTC Cumhurbaşkanı ile görüşme sonrası açıklama yapıyor</title>
       <link>https://www.youtube.com/watch?v=UmYpItM08Xk</link>
@@ -36,11 +50,11 @@
       <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Heyeti, CTP Genel Başkanı ile görüşme sonrası açıklama yapıyor #Canlı</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | YENİ Parti Heyeti, KKTC Cumhurbaşkanı İle Görüşme Sonrası Açıklama Yapıyor!</title>
+      <title>Halk TV: YENİ Parti Heyeti, KKTC Cumhurbaşkanı İle Görüşme Sonrası Açıklama Yaptı!</title>
       <link>https://www.youtube.com/watch?v=RrwB-T3kaEM</link>
       <guid isPermaLink="false">RrwB-T3kaEM</guid>
       <pubDate>Mon, 31 Aug 2026 10:04:11 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti Heyeti, KKTC Cumhurbaşkanı İle Görüşme Sonrası Açıklama Yapıyor!</description>
+      <description>Halk TV kanalından yeni video: YENİ Parti Heyeti, KKTC Cumhurbaşkanı İle Görüşme Sonrası Açıklama Yaptı!</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | Eski CHP Genel Başkan Vekili Cevdet Selvi İçin Cenaze Töreni Düzenleniyor!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">LGdudQZfQfo</guid>
       <pubDate>Mon, 31 Aug 2026 07:59:37 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya ile Günaydın Türkiyem | 31 Ağustos</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Girne açıklarında alabora olan geminin batmadan önceki son anları ortaya çıktı</title>
-      <link>https://www.youtube.com/shorts/pXLfnE2jj98</link>
-      <guid isPermaLink="false">pXLfnE2jj98</guid>
-      <pubDate>Mon, 31 Aug 2026 07:55:25 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Girne açıklarında alabora olan geminin batmadan önceki son anları ortaya çıktı</description>
-    </item>
-    <item>
-      <title>Halk TV: Girne Turizm Limanı Önünde Son Durum (31 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=qSmgDyLUpMU</link>
-      <guid isPermaLink="false">qSmgDyLUpMU</guid>
-      <pubDate>Mon, 31 Aug 2026 07:55:01 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Girne Turizm Limanı Önünde Son Durum (31 Ağustos 2026)</description>
     </item>
   </channel>
 </rss>
