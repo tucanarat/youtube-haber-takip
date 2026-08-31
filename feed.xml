@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 12:56:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 13:00:55 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Gizem Çetin ile Parantez</title>
+      <link>https://www.youtube.com/watch?v=B_lk1IJrxk0</link>
+      <guid isPermaLink="false">B_lk1IJrxk0</guid>
+      <pubDate>Mon, 31 Aug 2026 12:58:53 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Gizem Çetin ile Parantez</description>
+    </item>
     <item>
       <title>Halk TV: KAHROLACAKSINIZ! Kıbrıs'a çalışmaya giden iki kardeş izne dönerken boğularak can verdi! Acı detay!</title>
       <link>https://www.youtube.com/watch?v=1rpUpIL1Hs0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">conxFKG0LJ8</guid>
       <pubDate>Mon, 31 Aug 2026 10:35:38 +0000</pubDate>
       <description>Halk TV kanalından yeni video: TÜM OKLAR ONUN ÜSTÜNDE! Alabora olan geminin kaptanı ilk kez konuştu! "Ön tarafı kaybedince..."</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Polisten Fatih'te dronlu denetim: İçki içen kişiler sesli anonsla uyarıldı</title>
-      <link>https://www.youtube.com/shorts/DaHKaoLhCFc</link>
-      <guid isPermaLink="false">DaHKaoLhCFc</guid>
-      <pubDate>Mon, 31 Aug 2026 10:34:57 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Polisten Fatih'te dronlu denetim: İçki içen kişiler sesli anonsla uyarıldı</description>
     </item>
   </channel>
 </rss>
