@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 13:55:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 14:00:57 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Serap Belovacıklı ile Haber Saati | 31 Ağustos</title>
+      <link>https://www.youtube.com/watch?v=_UhMcxBb0Sg</link>
+      <guid isPermaLink="false">_UhMcxBb0Sg</guid>
+      <pubDate>Mon, 31 Aug 2026 14:00:31 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Serap Belovacıklı ile Haber Saati | 31 Ağustos</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Büyüyen Servetler, Aç Kalan Çocuklar: Türkiye'nin "Derin Yoksulluk" Gerçeği | #cumhuriyetözel</title>
+      <link>https://www.youtube.com/watch?v=_BZAeu6zmLA</link>
+      <guid isPermaLink="false">_BZAeu6zmLA</guid>
+      <pubDate>Mon, 31 Aug 2026 13:58:36 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Büyüyen Servetler, Aç Kalan Çocuklar: Türkiye'nin "Derin Yoksulluk" Gerçeği | #cumhuriyetözel</description>
+    </item>
     <item>
       <title>Cumhuriyet: #CANLI  İBB Davasında 72. gün! Resul Emrah Şahan ne söyledi?</title>
       <link>https://www.youtube.com/watch?v=UhepuH22NBY</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">hWkEharxsXY</guid>
       <pubDate>Mon, 31 Aug 2026 11:38:51 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Kayıp aileleri Girne Turizm Limanı önünde, yeterli açıklama yapılmadığını belirterek tepki gösterdi!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Facianın izleri su yüzeyine çıktı: Girne'de batan geminin eşyaları denizde sürükleniyor</title>
-      <link>https://www.youtube.com/shorts/oU7j3iA_nqk</link>
-      <guid isPermaLink="false">oU7j3iA_nqk</guid>
-      <pubDate>Mon, 31 Aug 2026 11:37:21 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Facianın izleri su yüzeyine çıktı: Girne'de batan geminin eşyaları denizde sürükleniyor</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: ÖZGÜR ÖZEL, YENİ PARTİ GENEL MERKEZ BİNASINA GELDİ! "ÇOK HEYECANLIYIZ"</title>
-      <link>https://www.youtube.com/shorts/w8EL64aaHOA</link>
-      <guid isPermaLink="false">w8EL64aaHOA</guid>
-      <pubDate>Mon, 31 Aug 2026 11:37:00 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: ÖZGÜR ÖZEL, YENİ PARTİ GENEL MERKEZ BİNASINA GELDİ! "ÇOK HEYECANLIYIZ"</description>
     </item>
   </channel>
 </rss>
