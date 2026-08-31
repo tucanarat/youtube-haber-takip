@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 23:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 23:40:30 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Netanyahu Köşeye Sıkıştı! İsrail'den Sinsi Plan! Türkiye Yumruğunu Masaya Vurdu!</title>
+      <link>https://www.youtube.com/watch?v=BwHxL2J_S-E</link>
+      <guid isPermaLink="false">BwHxL2J_S-E</guid>
+      <pubDate>Mon, 31 Aug 2026 23:30:14 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Netanyahu Köşeye Sıkıştı! İsrail'den Sinsi Plan! Türkiye Yumruğunu Masaya Vurdu!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Emrullah Erdinç Anlatıyor! Gülistan Doku Davasında Büyük Sır Çözüldü! Türkiye Ayağa Kalkacak!</title>
       <link>https://www.youtube.com/watch?v=RjZTVXW8P9I</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">0Z23LMhHCJY</guid>
       <pubDate>Mon, 31 Aug 2026 19:15:27 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Melih Gökçek'in 100 Yolsuzluk Dosyası Neden Bekletiliyor? AKP'nin Derin Sessizliği</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: İBB Davasında kritik soru! 'TAHLİYELER OLACAK MI?' Gülşah İnce, Silivri'den aktardı...</title>
-      <link>https://www.youtube.com/watch?v=U7bzK8ZQl14</link>
-      <guid isPermaLink="false">U7bzK8ZQl14</guid>
-      <pubDate>Mon, 31 Aug 2026 19:00:30 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: İBB Davasında kritik soru! 'TAHLİYELER OLACAK MI?' Gülşah İnce, Silivri'den aktardı...</description>
     </item>
   </channel>
 </rss>
