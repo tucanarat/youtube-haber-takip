@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 08:50:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 08:55:27 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: KAYIP 18 KİŞİ HALA BULUNAMADI! Girne faciasında 9 kişi adliyeye sevk edildi! Umut Taştan aktardı!</title>
+      <link>https://www.youtube.com/watch?v=ouRO6IN8KdI</link>
+      <guid isPermaLink="false">ouRO6IN8KdI</guid>
+      <pubDate>Mon, 31 Aug 2026 08:50:25 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KAYIP 18 KİŞİ HALA BULUNAMADI! Girne faciasında 9 kişi adliyeye sevk edildi! Umut Taştan aktardı!</description>
+    </item>
     <item>
       <title>Halk TV: SICAK GÖRÜNTÜ! Özgür Özel ve Kılıçdaroğlu, eski CHP'li Cevdet Selvi'nin cenaze töreninde tokalaştı!</title>
       <link>https://www.youtube.com/watch?v=zB0TdEedOR0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">2iEiYQqzs9w</guid>
       <pubDate>Mon, 31 Aug 2026 05:34:48 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Cumhurbaşkanı Erdoğan, 30 Ağustos Zafer Bayramı Özel Programı'nda konuşuyor #Canlı,</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: YENİ Parti İstanbul İl Başkanı Çelik, Bahçelievler'de 30 Ağustos fener alayına katılıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=PYKQuBc3ls8</link>
-      <guid isPermaLink="false">PYKQuBc3ls8</guid>
-      <pubDate>Mon, 31 Aug 2026 05:24:25 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti İstanbul İl Başkanı Çelik, Bahçelievler'de 30 Ağustos fener alayına katılıyor #Canlı</description>
     </item>
   </channel>
 </rss>
