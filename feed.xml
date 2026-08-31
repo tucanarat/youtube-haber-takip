@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 09:55:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 10:00:53 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Ebru Baki ile Para Siyaset | İbrahim Kahveci (31 Ağustos 2026)</title>
+      <link>https://www.youtube.com/watch?v=kEJcUDcmCUY</link>
+      <guid isPermaLink="false">kEJcUDcmCUY</guid>
+      <pubDate>Mon, 31 Aug 2026 09:58:30 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Ebru Baki ile Para Siyaset | İbrahim Kahveci (31 Ağustos 2026)</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | YENİ Parti Heyeti, KKTC Cumhurbaşkanı İle Görüşme Sonrası Açıklama Yapıyor!</title>
+      <link>https://www.youtube.com/watch?v=RrwB-T3kaEM</link>
+      <guid isPermaLink="false">RrwB-T3kaEM</guid>
+      <pubDate>Mon, 31 Aug 2026 09:58:21 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti Heyeti, KKTC Cumhurbaşkanı İle Görüşme Sonrası Açıklama Yapıyor!</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: YENİ Parti Heyeti, KKTC Cumhurbaşkanı ile görüşme sonrası açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=3rTaIX1HtRw</link>
+      <guid isPermaLink="false">3rTaIX1HtRw</guid>
+      <pubDate>Mon, 31 Aug 2026 09:57:37 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Heyeti, KKTC Cumhurbaşkanı ile görüşme sonrası açıklama yapıyor #Canlı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Can Coşkun ile Gündem Masası 31 Ağustos</title>
       <link>https://www.youtube.com/watch?v=YpXkFyMlU8g</link>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">0B5cyT39yQY</guid>
       <pubDate>Mon, 31 Aug 2026 07:50:41 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Girne Turizm Limanı önünde son durum #Canlı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Eski CHP Genel Başkan Vekili Cevdet Selvi için TBMM'de cenaze töreni düzenleniyor</title>
-      <link>https://www.youtube.com/watch?v=1WbXb6vKyh8</link>
-      <guid isPermaLink="false">1WbXb6vKyh8</guid>
-      <pubDate>Mon, 31 Aug 2026 07:49:30 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Eski CHP Genel Başkan Vekili Cevdet Selvi için TBMM'de cenaze töreni düzenleniyor</description>
-    </item>
-    <item>
-      <title>Halk TV: İHMAL Mİ, CİNAYET Mİ? Girne açıklarında yaşanan felakette batan geminin kaptanı gözaltına alındı!</title>
-      <link>https://www.youtube.com/watch?v=5gt0l6RAzmU</link>
-      <guid isPermaLink="false">5gt0l6RAzmU</guid>
-      <pubDate>Mon, 31 Aug 2026 07:45:16 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İHMAL Mİ, CİNAYET Mİ? Girne açıklarında yaşanan felakette batan geminin kaptanı gözaltına alındı!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Su altı cenneti Saros Körfezi: Deniz tabanına bırakılan resifler su altı tutkunlarını çekiyor</title>
-      <link>https://www.youtube.com/shorts/1xSx-Qzdm3w</link>
-      <guid isPermaLink="false">1xSx-Qzdm3w</guid>
-      <pubDate>Mon, 31 Aug 2026 07:43:45 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Su altı cenneti Saros Körfezi: Deniz tabanına bırakılan resifler su altı tutkunlarını çekiyor</description>
     </item>
   </channel>
 </rss>
