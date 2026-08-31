@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 20:45:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 20:50:42 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Özel, soruşturmanın yapılması halinde Gökçek'in bir çok ismi ele verebileceğine işaret etti!</title>
+      <link>https://www.youtube.com/watch?v=6sbSeX1huKM</link>
+      <guid isPermaLink="false">6sbSeX1huKM</guid>
+      <pubDate>Mon, 31 Aug 2026 20:45:35 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Özel, soruşturmanın yapılması halinde Gökçek'in bir çok ismi ele verebileceğine işaret etti!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Bartu Soral İfşa Etti! Erdoğan ve AKP'nin Seçim Planını Ortaya Böyle Çıkardı</title>
+      <link>https://www.youtube.com/watch?v=QM4GFX8QQuU</link>
+      <guid isPermaLink="false">QM4GFX8QQuU</guid>
+      <pubDate>Mon, 31 Aug 2026 20:40:14 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Bartu Soral İfşa Etti! Erdoğan ve AKP'nin Seçim Planını Ortaya Böyle Çıkardı</description>
+    </item>
     <item>
       <title>Halk TV: "BİRAZ DA SEN HADDİNİ BİL!" Özel, adını vermeden Mehmet Uçum'a sert sözlerle yüklendi!</title>
       <link>https://www.youtube.com/watch?v=vOo_3d0jsYI</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">4VLPFBTK5a4</guid>
       <pubDate>Mon, 31 Aug 2026 17:24:55 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Nusayriler hakkında sözleri tepki toplamıştı! Kemal Öztürk hakkında gözaltı kararı!</description>
-    </item>
-    <item>
-      <title>Halk TV: AKP'nin 400 bin üyeye 1 yılda ulaştığını kaydeden Özgür Özel "18 günde 600 bin üyeye ulaştık" dedi!</title>
-      <link>https://www.youtube.com/watch?v=4s2pHQzKmTc</link>
-      <guid isPermaLink="false">4s2pHQzKmTc</guid>
-      <pubDate>Mon, 31 Aug 2026 17:17:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: AKP'nin 400 bin üyeye 1 yılda ulaştığını kaydeden Özgür Özel "18 günde 600 bin üyeye ulaştık" dedi!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Türkiye'nin Dibinde Sinsi İttifakı! Yunanistan ve İsrail'den 3 Milyarlık 'Aşil Kalkanı' İmzası</title>
-      <link>https://www.youtube.com/watch?v=u9lcHdUw30Q</link>
-      <guid isPermaLink="false">u9lcHdUw30Q</guid>
-      <pubDate>Mon, 31 Aug 2026 17:15:08 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Türkiye'nin Dibinde Sinsi İttifakı! Yunanistan ve İsrail'den 3 Milyarlık 'Aşil Kalkanı' İmzası</description>
     </item>
   </channel>
 </rss>
