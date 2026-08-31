@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 18:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 18:45:34 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI Onur Öncü ile Sabah Pusulası</title>
+      <link>https://www.youtube.com/watch?v=VcZ5vpu1mt0</link>
+      <guid isPermaLink="false">VcZ5vpu1mt0</guid>
+      <pubDate>Mon, 31 Aug 2026 18:44:56 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Onur Öncü ile Sabah Pusulası</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Erdoğan'a ömür boyu cumhurbaşkanlığı planı mı? Orhan Uğuroğlu'ndan Bahçeli'ye Anayasa sorusu!</title>
+      <link>https://www.youtube.com/watch?v=xvRs2ByZogQ</link>
+      <guid isPermaLink="false">xvRs2ByZogQ</guid>
+      <pubDate>Mon, 31 Aug 2026 18:40:30 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Erdoğan'a ömür boyu cumhurbaşkanlığı planı mı? Orhan Uğuroğlu'ndan Bahçeli'ye Anayasa sorusu!</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI Ülkü Çoban ile Manşet Ötesi</title>
       <link>https://www.youtube.com/watch?v=-qZgiN7eikI</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">gVB6e_j9esc</guid>
       <pubDate>Mon, 31 Aug 2026 15:40:20 +0000</pubDate>
       <description>Halk TV kanalından yeni video: MEHMET ŞİMŞEK'İN ACI GÜNÜ! Batman'da spor salonundaki yangın faciasında yeğeni hayatını kaybetti!</description>
-    </item>
-    <item>
-      <title>Halk TV: Bugün Ne Oldu? | Girne Faciasında 9 Tutuklama, Açlık Sınırı Belli Oldu!</title>
-      <link>https://www.youtube.com/shorts/IYDTdfloJjU</link>
-      <guid isPermaLink="false">IYDTdfloJjU</guid>
-      <pubDate>Mon, 31 Aug 2026 15:33:43 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Bugün Ne Oldu? | Girne Faciasında 9 Tutuklama, Açlık Sınırı Belli Oldu!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "MUTLAK BUTLAN PROJEYSE TUTMADI!" Barış Övgün Protokolde Geriye Düşen Butlan CHP'sini Eleştirdi!</title>
-      <link>https://www.youtube.com/watch?v=XIq3r2HX82E</link>
-      <guid isPermaLink="false">XIq3r2HX82E</guid>
-      <pubDate>Mon, 31 Aug 2026 15:30:27 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "MUTLAK BUTLAN PROJEYSE TUTMADI!" Barış Övgün Protokolde Geriye Düşen Butlan CHP'sini Eleştirdi!</description>
     </item>
   </channel>
 </rss>
