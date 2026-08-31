@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 21:15:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 21:20:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: YENİ Parti Lideri Özgür Özel, temel hedefinin partisini birinci parti yapmak olduğunu vurguladı!</title>
+      <link>https://www.youtube.com/watch?v=4L22jfMD96M</link>
+      <guid isPermaLink="false">4L22jfMD96M</guid>
+      <pubDate>Mon, 31 Aug 2026 21:15:17 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YENİ Parti Lideri Özgür Özel, temel hedefinin partisini birinci parti yapmak olduğunu vurguladı!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: "15-20 BİNİ GEÇER Mİ ŞÜPHELİYİM!" Hilmi Hacaloğlu 'SAVUNMA' kitabı için kritik noktaya dikkat çekti!</title>
+      <link>https://www.youtube.com/watch?v=o7-575Vr0jg</link>
+      <guid isPermaLink="false">o7-575Vr0jg</guid>
+      <pubDate>Mon, 31 Aug 2026 21:15:07 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "15-20 BİNİ GEÇER Mİ ŞÜPHELİYİM!" Hilmi Hacaloğlu 'SAVUNMA' kitabı için kritik noktaya dikkat çekti!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Kıbrıs Açıklarında Can Pazarı! 7 Yıllık Çürük Gemi! Kaptan Kaçtı! Yolcuların Şikayetleri Gizlendi</title>
       <link>https://www.youtube.com/watch?v=nswR531Kmpg</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">YeJ4U7FXrtw</guid>
       <pubDate>Mon, 31 Aug 2026 17:39:47 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Girne'de gemi faciası | Melih Gökçek'e soruşturma! Murat Taylan ile Haber-Yorum (31.08.2026)</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Girne'de alabora olan gemiye dair dehşet veren iddialar! SABIKALI ÇIKTI!</title>
-      <link>https://www.youtube.com/watch?v=Eu0tx75ywR4</link>
-      <guid isPermaLink="false">Eu0tx75ywR4</guid>
-      <pubDate>Mon, 31 Aug 2026 17:30:40 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Girne'de alabora olan gemiye dair dehşet veren iddialar! SABIKALI ÇIKTI!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Kıbrıs'ta Evlat Acısı Feryatları! Özlem Gürses'in Boğazı Düğümlendi! Ailelerin Acı Gözyaşları</title>
-      <link>https://www.youtube.com/watch?v=6-_rUcyVM_s</link>
-      <guid isPermaLink="false">6-_rUcyVM_s</guid>
-      <pubDate>Mon, 31 Aug 2026 17:30:35 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Kıbrıs'ta Evlat Acısı Feryatları! Özlem Gürses'in Boğazı Düğümlendi! Ailelerin Acı Gözyaşları</description>
     </item>
   </channel>
 </rss>
