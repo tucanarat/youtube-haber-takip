@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 17:30:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 17:35:26 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Girne'de alabora olan gemiye dair dehşet veren iddialar! SABIKALI ÇIKTI!</title>
+      <link>https://www.youtube.com/watch?v=Eu0tx75ywR4</link>
+      <guid isPermaLink="false">Eu0tx75ywR4</guid>
+      <pubDate>Mon, 31 Aug 2026 17:30:40 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Girne'de alabora olan gemiye dair dehşet veren iddialar! SABIKALI ÇIKTI!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Kıbrıs'ta Evlat Acısı Feryatları! Özlem Gürses'in Boğazı Düğümlendi! Ailelerin Acı Gözyaşları</title>
+      <link>https://www.youtube.com/watch?v=6-_rUcyVM_s</link>
+      <guid isPermaLink="false">6-_rUcyVM_s</guid>
+      <pubDate>Mon, 31 Aug 2026 17:30:35 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Kıbrıs'ta Evlat Acısı Feryatları! Özlem Gürses'in Boğazı Düğümlendi! Ailelerin Acı Gözyaşları</description>
+    </item>
+    <item>
+      <title>Halk TV: "SORUN YOK" UN AĞIR BİLANÇOSU! Girne’de yaşanan facianın ardından akılalmaz skandal!</title>
+      <link>https://www.youtube.com/watch?v=T_BHvlQsqFA</link>
+      <guid isPermaLink="false">T_BHvlQsqFA</guid>
+      <pubDate>Mon, 31 Aug 2026 17:30:02 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: "SORUN YOK" UN AĞIR BİLANÇOSU! Girne’de yaşanan facianın ardından akılalmaz skandal!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Nusayriler hakkında sözleri tepki toplamıştı! Kemal Öztürk hakkında gözaltı kararı!</title>
       <link>https://www.youtube.com/watch?v=4VLPFBTK5a4</link>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">TXXQFhK8Qso</guid>
       <pubDate>Mon, 31 Aug 2026 14:30:26 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Girne'de Batan Gemiden Kurtulanlar Anlattı: "Can Yeleği Yoktu Batıyoruz Dediler"</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel: Partiyi iktidar yapmazsam derhal kurultaya gideceğim!</title>
-      <link>https://www.youtube.com/shorts/BzSVv2v1jkc</link>
-      <guid isPermaLink="false">BzSVv2v1jkc</guid>
-      <pubDate>Mon, 31 Aug 2026 14:30:19 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel: Partiyi iktidar yapmazsam derhal kurultaya gideceğim!</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel, YENİ Parti'nin üye sayısını açıkladı!</title>
-      <link>https://www.youtube.com/shorts/LBJeXs9xWLw</link>
-      <guid isPermaLink="false">LBJeXs9xWLw</guid>
-      <pubDate>Mon, 31 Aug 2026 14:30:18 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel, YENİ Parti'nin üye sayısını açıkladı!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "Personel conta gevşemiş dedi" Gemideki yolcu yaşananları anbean anlattı! "ALTTA KALANLAR BOĞULDU"</title>
-      <link>https://www.youtube.com/watch?v=1NHCQPlvxI8</link>
-      <guid isPermaLink="false">1NHCQPlvxI8</guid>
-      <pubDate>Mon, 31 Aug 2026 14:30:06 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "Personel conta gevşemiş dedi" Gemideki yolcu yaşananları anbean anlattı! "ALTTA KALANLAR BOĞULDU"</description>
     </item>
   </channel>
 </rss>
