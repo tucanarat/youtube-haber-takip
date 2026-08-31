@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 11:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 11:05:28 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: "Millet Nereye Yürüdüyse Özgür Özel Oraya Yürüdü!" Kayseri'deki Özgür Özel İzdihamının Sebebi Neydi?</title>
+      <link>https://www.youtube.com/watch?v=FZmCrdwWLx0</link>
+      <guid isPermaLink="false">FZmCrdwWLx0</guid>
+      <pubDate>Mon, 31 Aug 2026 11:03:08 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "Millet Nereye Yürüdüyse Özgür Özel Oraya Yürüdü!" Kayseri'deki Özgür Özel İzdihamının Sebebi Neydi?</description>
+    </item>
     <item>
       <title>Halk TV: EVLADI 'BABA NOLUR BENİ BIRAKMA' DİYE BAĞIRMIŞ! Girne'den yükselen bu çığlık kahredecek! Tarifi yok!</title>
       <link>https://www.youtube.com/watch?v=TBYAziUK2Iw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ZV1h9sekGx0</guid>
       <pubDate>Mon, 31 Aug 2026 08:20:48 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Girne’deki faciada sıcak gelişme: Gözaltına alınan 9 kişi mahkemeye çıkarıldı</description>
-    </item>
-    <item>
-      <title>Halk TV: "CAMI KIRIP İNSANLARI ÇIKARDIK" Girne açıklarında alabora olan gemideki dehşeti anlattı! Şok sözler!</title>
-      <link>https://www.youtube.com/watch?v=Twd84-rb37U</link>
-      <guid isPermaLink="false">Twd84-rb37U</guid>
-      <pubDate>Mon, 31 Aug 2026 08:20:26 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: "CAMI KIRIP İNSANLARI ÇIKARDIK" Girne açıklarında alabora olan gemideki dehşeti anlattı! Şok sözler!</description>
     </item>
   </channel>
 </rss>
