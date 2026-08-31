@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 12:05:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 12:10:33 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Parti Meclisi'nde konuşuyor</title>
+      <link>https://www.youtube.com/watch?v=IESEJDp0akU</link>
+      <guid isPermaLink="false">IESEJDp0akU</guid>
+      <pubDate>Mon, 31 Aug 2026 12:07:53 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Parti Meclisi'nde konuşuyor</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Parti Meclisi'nde konuşuyor</title>
+      <link>https://www.youtube.com/watch?v=_axcN2Zb3LM</link>
+      <guid isPermaLink="false">_axcN2Zb3LM</guid>
+      <pubDate>Mon, 31 Aug 2026 12:07:33 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Parti Meclisi'nde konuşuyor</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI Girne’deki faciada yeni gelişme! | YENİ Parti şimdi de İnce’nin mi hedefinde? | Manşet Ötesi</title>
       <link>https://www.youtube.com/watch?v=U-kUhjZEmTI</link>
@@ -155,11 +169,11 @@
       <description>ANKA Haber Ajansı kanalından yeni video: Özgür Özel soruları yanıtlıyor #Canlı</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI</title>
+      <title>Halk TV: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Parti Meclisi'nde Konuşuyor!</title>
       <link>https://www.youtube.com/watch?v=AD05FO4IwFA</link>
       <guid isPermaLink="false">AD05FO4IwFA</guid>
       <pubDate>Mon, 31 Aug 2026 11:15:35 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI</description>
+      <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Parti Meclisi'nde Konuşuyor!</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Zafer Partisi Genel Başkanı Ümit Özdağ, Hürriyetçi Sendikalar Konfederasyonu'nu ziyaret etti #Canlı</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">YpXkFyMlU8g</guid>
       <pubDate>Mon, 31 Aug 2026 09:54:36 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Can Coşkun ile Gündem Masası 31 Ağustos</description>
-    </item>
-    <item>
-      <title>Halk TV: BATAN GEMİDEN KURTULAN KADIN YAŞADIKLARINI ALİ MAHİR BAŞARIR'A ANLATTI!</title>
-      <link>https://www.youtube.com/shorts/RRoSB9h-atg</link>
-      <guid isPermaLink="false">RRoSB9h-atg</guid>
-      <pubDate>Mon, 31 Aug 2026 09:52:21 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BATAN GEMİDEN KURTULAN KADIN YAŞADIKLARINI ALİ MAHİR BAŞARIR'A ANLATTI!</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | İrem Sansak ile Haber Masası</title>
-      <link>https://www.youtube.com/watch?v=8m6VeRpz_KM</link>
-      <guid isPermaLink="false">8m6VeRpz_KM</guid>
-      <pubDate>Mon, 31 Aug 2026 09:51:34 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | İrem Sansak ile Haber Masası</description>
     </item>
   </channel>
 </rss>
