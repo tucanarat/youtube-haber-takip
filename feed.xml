@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 12:30:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 12:35:26 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: YENİ Parti genel merkezinde açıldı:Bizim kasamızdaki servet para değil, milletin bize olan güvenidir</title>
+      <link>https://www.youtube.com/shorts/g41U16yo8T4</link>
+      <guid isPermaLink="false">g41U16yo8T4</guid>
+      <pubDate>Mon, 31 Aug 2026 12:30:12 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: YENİ Parti genel merkezinde açıldı:Bizim kasamızdaki servet para değil, milletin bize olan güvenidir</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Zafer Partisi Genel Başkanı Ümit Özdağ, Hürriyetçi Sendikalar Konfederasyonu'nu ziyaret etti #Canlı</title>
       <link>https://www.youtube.com/watch?v=ljN2yDGo9pA</link>
@@ -20,6 +27,13 @@
       <guid isPermaLink="false">EuWrPHiw-lg</guid>
       <pubDate>Mon, 31 Aug 2026 12:21:25 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Şampiyonlar evinde: Filenin Sultanları altın madalya ile yurda döndü</description>
+    </item>
+    <item>
+      <title>Halk TV: KORKUNÇ İDDİA KAN DONDURDU! Gemi kaptanı, yolcular henüz kurtarılmadan gemiyi böyle terk etmiş!</title>
+      <link>https://www.youtube.com/watch?v=VBAIL4tdk8c</link>
+      <guid isPermaLink="false">VBAIL4tdk8c</guid>
+      <pubDate>Mon, 31 Aug 2026 12:20:30 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KORKUNÇ İDDİA KAN DONDURDU! Gemi kaptanı, yolcular henüz kurtarılmadan gemiyi böyle terk etmiş!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: YENİ Parti Genel Merkezi Açılıyor! Özgür Özel Açıklamalarda Bulunuyor!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">m2IVSw-r_Nw</guid>
       <pubDate>Mon, 31 Aug 2026 10:05:10 +0000</pubDate>
       <description>Halk TV kanalından yeni video: GÖZYAŞLARINA BOĞULACAKSINIZ! Faciada 2 evladını kaybeden anneden acı dolu feryat! Sözün bittiği yer!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: YENİ Parti Heyeti, CTP Genel Başkanı ile görüşme sonrası açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=3rTaIX1HtRw</link>
-      <guid isPermaLink="false">3rTaIX1HtRw</guid>
-      <pubDate>Mon, 31 Aug 2026 10:04:21 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Heyeti, CTP Genel Başkanı ile görüşme sonrası açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti Heyeti, KKTC Cumhurbaşkanı İle Görüşme Sonrası Açıklama Yaptı!</title>
-      <link>https://www.youtube.com/watch?v=RrwB-T3kaEM</link>
-      <guid isPermaLink="false">RrwB-T3kaEM</guid>
-      <pubDate>Mon, 31 Aug 2026 10:04:11 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti Heyeti, KKTC Cumhurbaşkanı İle Görüşme Sonrası Açıklama Yaptı!</description>
     </item>
   </channel>
 </rss>
