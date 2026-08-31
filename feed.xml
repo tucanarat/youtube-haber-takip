@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 18:20:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 18:25:26 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Arif Kocabıyık, Bulgaristan'a geçmeye çalışırken tırın altında yakalandı</title>
+      <link>https://www.youtube.com/shorts/bkDbSrTiSTY</link>
+      <guid isPermaLink="false">bkDbSrTiSTY</guid>
+      <pubDate>Mon, 31 Aug 2026 18:24:59 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Arif Kocabıyık, Bulgaristan'a geçmeye çalışırken tırın altında yakalandı</description>
+    </item>
     <item>
       <title>Tele2 Haber: İBB davasında bu hafta: Tahliye talepleri alınıyor! İrem Yüzer ve Orhan Uğuroğlu yorumluyor</title>
       <link>https://www.youtube.com/watch?v=1rHyM6tSIOE</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">xhnt-YtHQH0</guid>
       <pubDate>Mon, 31 Aug 2026 15:10:27 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ERDOĞAN’IN EN BÜYÜK SIRRI ORTAYA ÇIKTI! Seçim öncesi o hamleyi yapacakmış! Sertaç Eş tarih verdi!</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | YENİ PARTİ GENEL MERKEZİ’NDE İLK CANLI YAYIN HALK TV’DE! Özgür Özel'den Çarpıcı Sözler!</title>
-      <link>https://www.youtube.com/watch?v=USiPFNrH4j0</link>
-      <guid isPermaLink="false">USiPFNrH4j0</guid>
-      <pubDate>Mon, 31 Aug 2026 15:04:24 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | YENİ PARTİ GENEL MERKEZİ’NDE İLK CANLI YAYIN HALK TV’DE! Özgür Özel'den Çarpıcı Sözler!</description>
     </item>
   </channel>
 </rss>
