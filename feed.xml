@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 06:45:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 06:50:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: GİRNE AÇIKLARINDA BÜYÜK FACİA! Gökhan Kayış, batan gemiyle ilgili sarsıcı bilgileri tek tek açıkladı</title>
+      <link>https://www.youtube.com/watch?v=vm_bvCSCICg</link>
+      <guid isPermaLink="false">vm_bvCSCICg</guid>
+      <pubDate>Mon, 31 Aug 2026 06:41:50 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: GİRNE AÇIKLARINDA BÜYÜK FACİA! Gökhan Kayış, batan gemiyle ilgili sarsıcı bilgileri tek tek açıkladı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: KAPTANIN EHLİYETİ YOK MUYDU? Sözcü Girne'de! "Çocuklarım Ellerimden Kaydı"</title>
       <link>https://www.youtube.com/watch?v=lRknNvmGkNM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">MrTbObYO2A8</guid>
       <pubDate>Sun, 30 Aug 2026 18:00:34 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Ankara'yı Çileden Çıkaracak İmza! Ege Adalarına İsrail Füzeleri! Netanyahu'nun Sinsi Planı</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Cumhurbaşkanı Erdoğan, 30 Ağustos Zafer Bayramı Özel Programı'nda konuşuyor!</title>
-      <link>https://www.youtube.com/watch?v=njdsWXBjZVk</link>
-      <guid isPermaLink="false">njdsWXBjZVk</guid>
-      <pubDate>Sun, 30 Aug 2026 17:41:07 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Cumhurbaşkanı Erdoğan, 30 Ağustos Zafer Bayramı Özel Programı'nda konuşuyor!</description>
     </item>
   </channel>
 </rss>
