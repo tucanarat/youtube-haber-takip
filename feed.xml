@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 15:55:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 16:00:56 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Özgür Özel, YENİ Parti'nin toplam bağış miktarını ve üye sayısını açıkladı!</title>
+      <link>https://www.youtube.com/watch?v=LW0advfxgXs</link>
+      <guid isPermaLink="false">LW0advfxgXs</guid>
+      <pubDate>Mon, 31 Aug 2026 16:00:04 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Özgür Özel, YENİ Parti'nin toplam bağış miktarını ve üye sayısını açıkladı!</description>
+    </item>
+    <item>
+      <title>Halk TV: HERKES GÖZYAŞLARINA BOĞULDU! Evlatlarını kaybeden anne babanın yürek yakan feryadı! Kahreden detay!</title>
+      <link>https://www.youtube.com/watch?v=EoA4ILl0rcE</link>
+      <guid isPermaLink="false">EoA4ILl0rcE</guid>
+      <pubDate>Mon, 31 Aug 2026 15:55:09 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: HERKES GÖZYAŞLARINA BOĞULDU! Evlatlarını kaybeden anne babanın yürek yakan feryadı! Kahreden detay!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Alabora olan gemiden kurtulan yolcu anlattı: ÇOCUKLARIN BOĞULDUĞUNU GÖRDÜK</title>
       <link>https://www.youtube.com/shorts/_LKWoa-IOEI</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">T-6s3ah-zMs</guid>
       <pubDate>Mon, 31 Aug 2026 13:45:06 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Girne Açıklarında Gemi Faciası'nın Arka Yüzü | Kaptan Yolculardan Önce Mi Kaçtı? | Gündem Özel</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Girne açıklarında yaşanan gemi faciasında sanıklar mahkemeye çıktı.</title>
-      <link>https://www.youtube.com/shorts/RWP5WREICPE</link>
-      <guid isPermaLink="false">RWP5WREICPE</guid>
-      <pubDate>Mon, 31 Aug 2026 13:40:21 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Girne açıklarında yaşanan gemi faciasında sanıklar mahkemeye çıktı.</description>
-    </item>
-    <item>
-      <title>Halk TV: GEMİ PERSONELİNDEN İTİRAF GİBİ SÖZLER! O yolcu dehşetin şok detaylarını anlattı! Meğer ilk önce...</title>
-      <link>https://www.youtube.com/watch?v=iU7NjHcHNbY</link>
-      <guid isPermaLink="false">iU7NjHcHNbY</guid>
-      <pubDate>Mon, 31 Aug 2026 13:35:26 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: GEMİ PERSONELİNDEN İTİRAF GİBİ SÖZLER! O yolcu dehşetin şok detaylarını anlattı! Meğer ilk önce...</description>
     </item>
   </channel>
 </rss>
