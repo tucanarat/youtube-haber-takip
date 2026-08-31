@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 13:30:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 13:35:30 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Yolcu Gemisinde Korkunç İhmal! Gemi Kurtarma Uzmanı Anlattı! Girne'deki Facianın Perde Arkası...</title>
+      <link>https://www.youtube.com/watch?v=rdfSdk_KK88</link>
+      <guid isPermaLink="false">rdfSdk_KK88</guid>
+      <pubDate>Mon, 31 Aug 2026 13:30:22 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Yolcu Gemisinde Korkunç İhmal! Gemi Kurtarma Uzmanı Anlattı! Girne'deki Facianın Perde Arkası...</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Melih Gökçek İfadeye Çağırılmıştı! Barış Övgün'den Gökçek Hakkında Çok Çarpıcı Sorular!</title>
+      <link>https://www.youtube.com/watch?v=T6WZTOAwB0s</link>
+      <guid isPermaLink="false">T6WZTOAwB0s</guid>
+      <pubDate>Mon, 31 Aug 2026 13:30:01 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Melih Gökçek İfadeye Çağırılmıştı! Barış Övgün'den Gökçek Hakkında Çok Çarpıcı Sorular!</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Parti Meclisi'nde konuşuyor</title>
       <link>https://www.youtube.com/watch?v=_axcN2Zb3LM</link>
@@ -20,6 +34,13 @@
       <guid isPermaLink="false">IESEJDp0akU</guid>
       <pubDate>Mon, 31 Aug 2026 13:26:34 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Parti Meclisi'nde konuşuyor</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Girne Açıklarında Gemi Faciası'nın Arka Yüzü | Kaptan Yolculardan Önce Mi Kaçtı? | Gündem Özel</title>
+      <link>https://www.youtube.com/watch?v=T-6s3ah-zMs</link>
+      <guid isPermaLink="false">T-6s3ah-zMs</guid>
+      <pubDate>Mon, 31 Aug 2026 13:24:38 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Girne Açıklarında Gemi Faciası'nın Arka Yüzü | Kaptan Yolculardan Önce Mi Kaçtı? | Gündem Özel</description>
     </item>
     <item>
       <title>Halk TV: İrem Sansak ile Haber Masası (31 Ağustos 2026)</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">ff3bNOvuGkg</guid>
       <pubDate>Mon, 31 Aug 2026 11:21:28 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Özgür Özel soruları yanıtlıyor</description>
-    </item>
-    <item>
-      <title>Halk TV: GÖZYAŞLARI DİNMEDİ! Torunlarını kaybeden kadının bu sözleri boğazları düğümleyecek! En acı bekleyiş!</title>
-      <link>https://www.youtube.com/watch?v=M9FiD7WW3PQ</link>
-      <guid isPermaLink="false">M9FiD7WW3PQ</guid>
-      <pubDate>Mon, 31 Aug 2026 11:20:15 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: GÖZYAŞLARI DİNMEDİ! Torunlarını kaybeden kadının bu sözleri boğazları düğümleyecek! En acı bekleyiş!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Özgür Özel soruları yanıtlıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=6VqX77g_PC0</link>
-      <guid isPermaLink="false">6VqX77g_PC0</guid>
-      <pubDate>Mon, 31 Aug 2026 11:18:37 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Özgür Özel soruları yanıtlıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: KILIÇDAROĞLU ASIL O PLANIN PARÇASIYMIŞ! Ankara kulisinden öyle bir şey sızdı ki! Sertaç Eş patlattı!</title>
-      <link>https://www.youtube.com/watch?v=OAlBwiDSaj4</link>
-      <guid isPermaLink="false">OAlBwiDSaj4</guid>
-      <pubDate>Mon, 31 Aug 2026 11:05:18 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KILIÇDAROĞLU ASIL O PLANIN PARÇASIYMIŞ! Ankara kulisinden öyle bir şey sızdı ki! Sertaç Eş patlattı!</description>
     </item>
   </channel>
 </rss>
