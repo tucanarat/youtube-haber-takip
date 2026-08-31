@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 08:30:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 08:35:30 +0000</lastBuildDate>
     <item>
       <title>Cumhuriyet: Bir noktadan sonsuzluğa - Güven Baykan</title>
       <link>https://www.youtube.com/watch?v=LvW-_FzXrYc</link>
@@ -27,13 +27,6 @@
       <guid isPermaLink="false">7u7Dn7fTkcg</guid>
       <pubDate>Mon, 31 Aug 2026 08:25:23 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Alevler yaklaştı, o toprağa sığındı: Çaresiz kaplumbağanın kurtarılma anları</description>
-    </item>
-    <item>
-      <title>Halk TV: Melih Gökçek'e Soruşturma! Almanya'daki Bina, İncek'teki 10 Banyolu Malikane Mercek Altında</title>
-      <link>https://www.youtube.com/watch?v=jrHmD0YnMuA</link>
-      <guid isPermaLink="false">jrHmD0YnMuA</guid>
-      <pubDate>Mon, 31 Aug 2026 08:25:13 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Melih Gökçek'e Soruşturma! Almanya'daki Bina, İncek'teki 10 Banyolu Malikane Mercek Altında</description>
     </item>
     <item>
       <title>Tele2 Haber: Özel ve Kılıçdaroğlu, Eski CHP Genel Başkan Vekili Cevdet Selvi'nin cenaze töreninde tokalaştı.</title>
@@ -118,6 +111,13 @@
       <guid isPermaLink="false">LGdudQZfQfo</guid>
       <pubDate>Mon, 31 Aug 2026 07:59:37 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya ile Günaydın Türkiyem | 31 Ağustos</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Melih Gökçek'e Soruşturma! Almanya'daki Bina, İncek'teki 10 Banyolu Malikane Mercek Altında</title>
+      <link>https://www.youtube.com/watch?v=jrHmD0YnMuA</link>
+      <guid isPermaLink="false">jrHmD0YnMuA</guid>
+      <pubDate>Mon, 31 Aug 2026 07:55:44 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Melih Gökçek'e Soruşturma! Almanya'daki Bina, İncek'teki 10 Banyolu Malikane Mercek Altında</description>
     </item>
     <item>
       <title>Cumhuriyet: Girne açıklarında alabora olan geminin batmadan önceki son anları ortaya çıktı</title>
