@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 08:10:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 08:15:28 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Girne açıklarında alabora olan geminin batmadan önceki görüntüleri ortaya çıktı!</title>
+      <link>https://www.youtube.com/shorts/_p-zm_pgUA8</link>
+      <guid isPermaLink="false">_p-zm_pgUA8</guid>
+      <pubDate>Mon, 31 Aug 2026 08:11:34 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Girne açıklarında alabora olan geminin batmadan önceki görüntüleri ortaya çıktı!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Ali Mahir Başarır Girne Limanı Önünde Açıklama Yaptı! "18 Olarak Bildiğimiz Sayı 20 Olabilir..."</title>
       <link>https://www.youtube.com/watch?v=icFzpv9tWL0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">aQlyFo3hG8s</guid>
       <pubDate>Sun, 30 Aug 2026 21:56:32 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Samsunspor - Fenerbahçe Maçı | Maç Varsa Erman Hoca Var | Erman Toroğlu | 29 Ağustos</description>
-    </item>
-    <item>
-      <title>Halk TV: Sinem Fıstıkoğlu ile Sansürsüz (30 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=eIfKhX5x4yA</link>
-      <guid isPermaLink="false">eIfKhX5x4yA</guid>
-      <pubDate>Sun, 30 Aug 2026 21:54:05 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Sinem Fıstıkoğlu ile Sansürsüz (30 Ağustos 2026)</description>
     </item>
   </channel>
 </rss>
