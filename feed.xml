@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 07:15:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 07:20:41 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: YENİ Parti heyeti, Kriz Masası ziyareti sonrasında Girne Limanı önünde açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=tf61MwgS0ig</link>
+      <guid isPermaLink="false">tf61MwgS0ig</guid>
+      <pubDate>Mon, 31 Aug 2026 07:15:20 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti heyeti, Kriz Masası ziyareti sonrasında Girne Limanı önünde açıklama yapıyor #Canlı</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI Hilmi Hacaloğlu ve Ersin Eroğlu ile Kayıt Dışı (31.08.2026)</title>
       <link>https://www.youtube.com/watch?v=dPgevI7s7tk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">m9XOTwASRLA</guid>
       <pubDate>Sun, 30 Aug 2026 19:50:22 +0000</pubDate>
       <description>Halk TV kanalından yeni video: GİRNE AÇIKLARINDA FACİANIN HEMEN ÖNCESİ! Geminin batmadan önceki görüntüleri ortaya çıktı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: KAPTAN GÖZALTINDA! Girne Açıklarındaki Gemi Faciasında Korkunç İhmal İddiası</title>
-      <link>https://www.youtube.com/watch?v=AK79_HeATGQ</link>
-      <guid isPermaLink="false">AK79_HeATGQ</guid>
-      <pubDate>Sun, 30 Aug 2026 19:30:33 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: KAPTAN GÖZALTINDA! Girne Açıklarındaki Gemi Faciasında Korkunç İhmal İddiası</description>
     </item>
   </channel>
 </rss>
