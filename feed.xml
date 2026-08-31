@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 19:50:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 19:55:29 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Süleymancılar ve Gökçeklerin Almanya İzleri! Afşin Hatipoğlu Neler Dedi Neler! Bomba Sözler</title>
+      <link>https://www.youtube.com/watch?v=mtfE05uir50</link>
+      <guid isPermaLink="false">mtfE05uir50</guid>
+      <pubDate>Mon, 31 Aug 2026 19:45:17 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Süleymancılar ve Gökçeklerin Almanya İzleri! Afşin Hatipoğlu Neler Dedi Neler! Bomba Sözler</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: "KATİL NETANYAHU" KÖŞEYE SIKIŞTI! Özlem Gürses İsrail'in Sinsi Seçim Oyununu İfşa Etti</title>
       <link>https://www.youtube.com/watch?v=JdSzmJMlDXg</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">-orHMm_Dsxg</guid>
       <pubDate>Mon, 31 Aug 2026 16:45:12 +0000</pubDate>
       <description>Halk TV kanalından yeni video: 'KATİLLER' DİYE BAĞIRDILAR! Gemi faciasında gözaltına alınan 14 kişi böyle mahkemeye çıkarıldı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Mossad'ın Kirli Operasyonu Patladı! Erdoğan Karşı Çıktı Trump Fişi Çekti Özlem Gürses Anlattı</title>
-      <link>https://www.youtube.com/watch?v=77EOqzzCH5g</link>
-      <guid isPermaLink="false">77EOqzzCH5g</guid>
-      <pubDate>Mon, 31 Aug 2026 16:45:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Mossad'ın Kirli Operasyonu Patladı! Erdoğan Karşı Çıktı Trump Fişi Çekti Özlem Gürses Anlattı</description>
     </item>
   </channel>
 </rss>
