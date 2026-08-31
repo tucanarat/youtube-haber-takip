@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 22:40:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 22:45:30 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: Adalet Peşinde Aileleri Platformu, deprem davalarına ilişkin basın toplantısı düzenliyor</title>
       <link>https://www.youtube.com/watch?v=nmjRtSxwt2U</link>
@@ -34,6 +34,13 @@
       <guid isPermaLink="false">yQE676C_Rdk</guid>
       <pubDate>Mon, 31 Aug 2026 22:30:25 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özel, yoksulluk nedeniyle gençlerin evlenemediğini, evlenenlerinse çocuk yapmadığını söyledi!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Ozan Bingöl'den AKP'ye Tarihi İsyan! Vatandaşa Kara Haber! İğneden İpliğe Zam Yağmuru</title>
+      <link>https://www.youtube.com/watch?v=5hQo9hDVW3A</link>
+      <guid isPermaLink="false">5hQo9hDVW3A</guid>
+      <pubDate>Mon, 31 Aug 2026 22:30:09 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Ozan Bingöl'den AKP'ye Tarihi İsyan! Vatandaşa Kara Haber! İğneden İpliğe Zam Yağmuru</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Eski CHP Genel Başkan Vekili Cevdet Selvi için cenaze töreni düzenleniyor</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">mhNriByE4Zc</guid>
       <pubDate>Mon, 31 Aug 2026 18:45:30 +0000</pubDate>
       <description>Halk TV kanalından yeni video: 30 AĞUSTOS TÖRENİ ÖNCESİ REZALET! Kaymakam ve koruma memuru herkesin gözü önünde birbirine girdi!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Güney Kore'de Tarikat Liderine Büyük Operasyon! Moon Tarikatı Çöktü! Hak Ja Han'a 2 Yıl Hapis Cezası</title>
-      <link>https://www.youtube.com/watch?v=PpXnrOgsSRg</link>
-      <guid isPermaLink="false">PpXnrOgsSRg</guid>
-      <pubDate>Mon, 31 Aug 2026 18:45:09 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Güney Kore'de Tarikat Liderine Büyük Operasyon! Moon Tarikatı Çöktü! Hak Ja Han'a 2 Yıl Hapis Cezası</description>
     </item>
   </channel>
 </rss>
