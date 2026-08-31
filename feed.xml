@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 07:45:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 07:50:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: İHMAL Mİ, CİNAYET Mİ? Girne açıklarında yaşanan felakette batan geminin kaptanı gözaltına alındı!</title>
+      <link>https://www.youtube.com/watch?v=5gt0l6RAzmU</link>
+      <guid isPermaLink="false">5gt0l6RAzmU</guid>
+      <pubDate>Mon, 31 Aug 2026 07:45:16 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İHMAL Mİ, CİNAYET Mİ? Girne açıklarında yaşanan felakette batan geminin kaptanı gözaltına alındı!</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Su altı cenneti Saros Körfezi: Deniz tabanına bırakılan resifler su altı tutkunlarını çekiyor</title>
+      <link>https://www.youtube.com/shorts/1xSx-Qzdm3w</link>
+      <guid isPermaLink="false">1xSx-Qzdm3w</guid>
+      <pubDate>Mon, 31 Aug 2026 07:43:45 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Su altı cenneti Saros Körfezi: Deniz tabanına bırakılan resifler su altı tutkunlarını çekiyor</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Eski CHP Genel Başkan Vekili Cevdet Selvi için TBMM'de cenaze töreni düzenleniyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=fV3XdUfJkik</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">dhnVuOmacTE</guid>
       <pubDate>Sun, 30 Aug 2026 20:47:45 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Senem Toluay Ilgaz ile Öncesi Sonrası</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Can Coşkun ile Gündem Masası</title>
-      <link>https://www.youtube.com/watch?v=YpXkFyMlU8g</link>
-      <guid isPermaLink="false">YpXkFyMlU8g</guid>
-      <pubDate>Sun, 30 Aug 2026 20:40:31 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Can Coşkun ile Gündem Masası</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: #CANLI İsmail Küçükkaya ile Günaydın Türkiyem</title>
-      <link>https://www.youtube.com/watch?v=LGdudQZfQfo</link>
-      <guid isPermaLink="false">LGdudQZfQfo</guid>
-      <pubDate>Sun, 30 Aug 2026 20:39:24 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: #CANLI İsmail Küçükkaya ile Günaydın Türkiyem</description>
     </item>
   </channel>
 </rss>
