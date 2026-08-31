@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 08:40:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 08:45:33 +0000</lastBuildDate>
     <item>
       <title>Halk TV: SICAK GÖRÜNTÜ! Özgür Özel ve Kılıçdaroğlu, eski CHP'li Cevdet Selvi'nin cenaze töreninde tokalaştı!</title>
       <link>https://www.youtube.com/watch?v=zB0TdEedOR0</link>
       <guid isPermaLink="false">zB0TdEedOR0</guid>
       <pubDate>Mon, 31 Aug 2026 08:35:01 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SICAK GÖRÜNTÜ! Özgür Özel ve Kılıçdaroğlu, eski CHP'li Cevdet Selvi'nin cenaze töreninde tokalaştı!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Acılı Anne Anlattı: "20 Kişinin Üzerine Basarak Çıktım" GİRNE'DE DENİZDE CAN PAZARI!</title>
+      <link>https://www.youtube.com/watch?v=mHVmVzIJSZ0</link>
+      <guid isPermaLink="false">mHVmVzIJSZ0</guid>
+      <pubDate>Mon, 31 Aug 2026 08:30:36 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Acılı Anne Anlattı: "20 Kişinin Üzerine Basarak Çıktım" GİRNE'DE DENİZDE CAN PAZARI!</description>
     </item>
     <item>
       <title>Cumhuriyet: Bir noktadan sonsuzluğa - Güven Baykan</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">PYKQuBc3ls8</guid>
       <pubDate>Mon, 31 Aug 2026 05:24:25 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti İstanbul İl Başkanı Çelik, Bahçelievler'de 30 Ağustos fener alayına katılıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: Süheyla Demir ile Günaydın Türkiye (31 Ağustos 2026)</title>
-      <link>https://www.youtube.com/watch?v=zWkD7DyWObo</link>
-      <guid isPermaLink="false">zWkD7DyWObo</guid>
-      <pubDate>Mon, 31 Aug 2026 05:15:58 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Süheyla Demir ile Günaydın Türkiye (31 Ağustos 2026)</description>
     </item>
   </channel>
 </rss>
