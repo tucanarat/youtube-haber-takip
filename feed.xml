@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 13:35:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 13:40:36 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: GEMİ PERSONELİNDEN İTİRAF GİBİ SÖZLER! O yolcu dehşetin şok detaylarını anlattı! Meğer ilk önce...</title>
+      <link>https://www.youtube.com/watch?v=iU7NjHcHNbY</link>
+      <guid isPermaLink="false">iU7NjHcHNbY</guid>
+      <pubDate>Mon, 31 Aug 2026 13:35:26 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: GEMİ PERSONELİNDEN İTİRAF GİBİ SÖZLER! O yolcu dehşetin şok detaylarını anlattı! Meğer ilk önce...</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Yolcu Gemisinde Korkunç İhmal! Gemi Kurtarma Uzmanı Anlattı! Girne'deki Facianın Perde Arkası...</title>
       <link>https://www.youtube.com/watch?v=rdfSdk_KK88</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">AWxbgfFibN4</guid>
       <pubDate>Mon, 31 Aug 2026 11:21:51 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Ali Mahir Başarır hastanede yaralıları ziyaret etti: "Göz göre göre ölüme gönderildik!"</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Özgür Özel soruları yanıtlıyor</title>
-      <link>https://www.youtube.com/watch?v=ff3bNOvuGkg</link>
-      <guid isPermaLink="false">ff3bNOvuGkg</guid>
-      <pubDate>Mon, 31 Aug 2026 11:21:28 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Özgür Özel soruları yanıtlıyor</description>
     </item>
   </channel>
 </rss>
