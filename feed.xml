@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 06:15:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 06:20:31 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: KAPTANIN EHLİYETİ YOK MUYDU? Sözcü Girne'de! "Çocuklarım Ellerimden Kaydı"</title>
+      <link>https://www.youtube.com/watch?v=lRknNvmGkNM</link>
+      <guid isPermaLink="false">lRknNvmGkNM</guid>
+      <pubDate>Mon, 31 Aug 2026 06:00:02 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: KAPTANIN EHLİYETİ YOK MUYDU? Sözcü Girne'de! "Çocuklarım Ellerimden Kaydı"</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Cumhurbaşkanı Erdoğan, 30 Ağustos Zafer Bayramı Özel Programı'nda konuşuyor #Canlı,</title>
       <link>https://www.youtube.com/watch?v=2iEiYQqzs9w</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">njdsWXBjZVk</guid>
       <pubDate>Sun, 30 Aug 2026 17:41:07 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | Cumhurbaşkanı Erdoğan, 30 Ağustos Zafer Bayramı Özel Programı'nda konuşuyor!</description>
-    </item>
-    <item>
-      <title>Halk TV: Şamil Tayyar’dan kurulan taziye çadırlarına sert tepki! “Duydum ki devlet de rahatsızmış...”</title>
-      <link>https://www.youtube.com/watch?v=Yp7YN2-pUgQ</link>
-      <guid isPermaLink="false">Yp7YN2-pUgQ</guid>
-      <pubDate>Sun, 30 Aug 2026 17:40:08 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Şamil Tayyar’dan kurulan taziye çadırlarına sert tepki! “Duydum ki devlet de rahatsızmış...”</description>
     </item>
   </channel>
 </rss>
