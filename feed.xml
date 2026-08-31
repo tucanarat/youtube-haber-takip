@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 13:20:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 13:25:28 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: İrem Sansak ile Haber Masası (31 Ağustos 2026)</title>
+      <link>https://www.youtube.com/watch?v=8m6VeRpz_KM</link>
+      <guid isPermaLink="false">8m6VeRpz_KM</guid>
+      <pubDate>Mon, 31 Aug 2026 13:23:13 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İrem Sansak ile Haber Masası (31 Ağustos 2026)</description>
+    </item>
+    <item>
+      <title>Halk TV: Her birinin hikayesi yürek yakıyor! Gemide aranan isimlerin bilgileri ortaya çıkmaya devam ediyor!</title>
+      <link>https://www.youtube.com/watch?v=cCsz9Fy5vH4</link>
+      <guid isPermaLink="false">cCsz9Fy5vH4</guid>
+      <pubDate>Mon, 31 Aug 2026 13:20:38 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Her birinin hikayesi yürek yakıyor! Gemide aranan isimlerin bilgileri ortaya çıkmaya devam ediyor!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Parti Meclisi'nde konuşuyor / Ankara #Canlı</title>
       <link>https://www.youtube.com/watch?v=o5mNhggg5EI</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">OAlBwiDSaj4</guid>
       <pubDate>Mon, 31 Aug 2026 11:05:18 +0000</pubDate>
       <description>Halk TV kanalından yeni video: KILIÇDAROĞLU ASIL O PLANIN PARÇASIYMIŞ! Ankara kulisinden öyle bir şey sızdı ki! Sertaç Eş patlattı!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "Millet Nereye Yürüdüyse Özgür Özel Oraya Yürüdü!" Kayseri'deki Özgür Özel İzdihamının Sebebi Neydi?</title>
-      <link>https://www.youtube.com/watch?v=FZmCrdwWLx0</link>
-      <guid isPermaLink="false">FZmCrdwWLx0</guid>
-      <pubDate>Mon, 31 Aug 2026 11:03:08 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "Millet Nereye Yürüdüyse Özgür Özel Oraya Yürüdü!" Kayseri'deki Özgür Özel İzdihamının Sebebi Neydi?</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İSMAİL KÜÇÜKKAYA BELGELERLE AÇIKLADI! Mühendis Girne'de Batan Gemi İçin 2018'de Uyarmış</title>
-      <link>https://www.youtube.com/watch?v=JjpSQHlPU9E</link>
-      <guid isPermaLink="false">JjpSQHlPU9E</guid>
-      <pubDate>Mon, 31 Aug 2026 11:00:18 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İSMAİL KÜÇÜKKAYA BELGELERLE AÇIKLADI! Mühendis Girne'de Batan Gemi İçin 2018'de Uyarmış</description>
     </item>
   </channel>
 </rss>
