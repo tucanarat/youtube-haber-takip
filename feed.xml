@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 08:50:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 08:55:25 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti Sözcüsü Zeynel Emre YENİ Parti Genel Merkezi’nde basın açıklaması yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=cgjSREMDyiY</link>
       <guid isPermaLink="false">cgjSREMDyiY</guid>
       <pubDate>Tue, 01 Sep 2026 08:48:11 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Sözcüsü Zeynel Emre YENİ Parti Genel Merkezi’nde basın açıklaması yapıyor #Canlı</description>
+    </item>
+    <item>
+      <title>Halk TV: Ekrem İmamoğlu'nun kitabı basım aşamasındayken yasaklandı! “Savunmamı millet dinler!”</title>
+      <link>https://www.youtube.com/watch?v=yjJtdqcysHY</link>
+      <guid isPermaLink="false">yjJtdqcysHY</guid>
+      <pubDate>Tue, 01 Sep 2026 08:45:37 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Ekrem İmamoğlu'nun kitabı basım aşamasındayken yasaklandı! “Savunmamı millet dinler!”</description>
     </item>
     <item>
       <title>Cumhuriyet: İYİ Partili Buğra Kavuncu: Millet size teröristleri affedin diye mi o verdi?</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">BwHxL2J_S-E</guid>
       <pubDate>Mon, 31 Aug 2026 23:30:14 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Netanyahu Köşeye Sıkıştı! İsrail'den Sinsi Plan! Türkiye Yumruğunu Masaya Vurdu!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Emrullah Erdinç Anlatıyor! Gülistan Doku Davasında Büyük Sır Çözüldü! Türkiye Ayağa Kalkacak!</title>
-      <link>https://www.youtube.com/watch?v=RjZTVXW8P9I</link>
-      <guid isPermaLink="false">RjZTVXW8P9I</guid>
-      <pubDate>Mon, 31 Aug 2026 23:00:25 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Emrullah Erdinç Anlatıyor! Gülistan Doku Davasında Büyük Sır Çözüldü! Türkiye Ayağa Kalkacak!</description>
     </item>
   </channel>
 </rss>
