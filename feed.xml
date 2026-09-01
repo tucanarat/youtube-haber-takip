@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 15:40:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 15:45:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | YENİ Parti Beşiktaş İlçe Başkanlığı açılış töreni</title>
+      <link>https://www.youtube.com/watch?v=ZI7nOMmyrGU</link>
+      <guid isPermaLink="false">ZI7nOMmyrGU</guid>
+      <pubDate>Tue, 01 Sep 2026 15:40:20 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti Beşiktaş İlçe Başkanlığı açılış töreni</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti Beşiktaş İlçe Başkanlığı açılış töreni / İstanbul #Canlı</title>
       <link>https://www.youtube.com/watch?v=tXpJ2UuPI_k</link>
       <guid isPermaLink="false">tXpJ2UuPI_k</guid>
       <pubDate>Tue, 01 Sep 2026 15:37:53 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Beşiktaş İlçe Başkanlığı açılış töreni / İstanbul #Canlı</description>
+    </item>
+    <item>
+      <title>Halk TV: Girne'deki faciada hayatını kaybedenlerin sayısı açıklanandan fazla mı? O isim şok iddiayı açıkladı!</title>
+      <link>https://www.youtube.com/watch?v=ur0v4rqOJEU</link>
+      <guid isPermaLink="false">ur0v4rqOJEU</guid>
+      <pubDate>Tue, 01 Sep 2026 15:35:05 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Girne'deki faciada hayatını kaybedenlerin sayısı açıklanandan fazla mı? O isim şok iddiayı açıkladı!</description>
     </item>
     <item>
       <title>Tele2 Haber: "Kılıçdaroğu'nun Özel'e Aday Yapma Dediği İsim Kılıçdaroğlu'nu Ziyaret Etti!" Butlandan Skandal!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">bgWVlXviFhc</guid>
       <pubDate>Tue, 01 Sep 2026 13:00:02 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İrem Sansak ile Haber Masası (1 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: Kıbrıs'taki tekne faciasından yeni görüntüler! Dehşet anları ortaya çıktı!</title>
-      <link>https://www.youtube.com/shorts/R_-V1yhC25g</link>
-      <guid isPermaLink="false">R_-V1yhC25g</guid>
-      <pubDate>Tue, 01 Sep 2026 12:58:42 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Kıbrıs'taki tekne faciasından yeni görüntüler! Dehşet anları ortaya çıktı!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Yeni adli yıl başlıyor... Tanrıkulu: Yargı, Cumhuriyet tarihinin en ağır güven krizini yaşıyor</title>
-      <link>https://www.youtube.com/shorts/dI_IWeZo4nU</link>
-      <guid isPermaLink="false">dI_IWeZo4nU</guid>
-      <pubDate>Tue, 01 Sep 2026 12:55:43 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Yeni adli yıl başlıyor... Tanrıkulu: Yargı, Cumhuriyet tarihinin en ağır güven krizini yaşıyor</description>
     </item>
   </channel>
 </rss>
