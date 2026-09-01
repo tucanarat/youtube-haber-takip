@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 08:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 08:20:41 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Amedspor’un Trabzonspor’u 2-1 mağlup etmesinin ardından galibiyet coşkusu gece boyunca sürdü!</title>
+      <link>https://www.youtube.com/shorts/xYufQeKoSfc</link>
+      <guid isPermaLink="false">xYufQeKoSfc</guid>
+      <pubDate>Tue, 01 Sep 2026 08:18:59 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Amedspor’un Trabzonspor’u 2-1 mağlup etmesinin ardından galibiyet coşkusu gece boyunca sürdü!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: CHP Grup Başkanvekili Rahmi Aşkın Türeli TBMM'de açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=lr8pkP5OXkg</link>
@@ -22,11 +29,25 @@
       <description>Cumhuriyet kanalından yeni video: YENİ Parti ile CHP arasında 'telefon' polemiği! Güç: AKP ile beraber yaptığınız her şeyi görüyoruz</description>
     </item>
     <item>
+      <title>Halk TV: YENİ Parti Lideri Özgür Özel'den balıkçılık sezonu mesajı: Bereketli, kazasız ve bol kazançlı olsun!</title>
+      <link>https://www.youtube.com/shorts/XvPIwggryOk</link>
+      <guid isPermaLink="false">XvPIwggryOk</guid>
+      <pubDate>Tue, 01 Sep 2026 08:05:54 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YENİ Parti Lideri Özgür Özel'den balıkçılık sezonu mesajı: Bereketli, kazasız ve bol kazançlı olsun!</description>
+    </item>
+    <item>
       <title>ANKA Haber Ajansı: İstanbul Barosu yeni adli yıl başlarken "Adalet Bildirisi"ni açıklıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=W2V1XA5rGro</link>
       <guid isPermaLink="false">W2V1XA5rGro</guid>
       <pubDate>Tue, 01 Sep 2026 08:05:13 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: İstanbul Barosu yeni adli yıl başlarken "Adalet Bildirisi"ni açıklıyor #Canlı</description>
+    </item>
+    <item>
+      <title>Halk TV: BU İDDİA KAN DONDURUR! Girne'de alabora olan geminin kaptanının ehliyeti yok muydu? Şok gerçekler!</title>
+      <link>https://www.youtube.com/watch?v=AGHPr28P9Dc</link>
+      <guid isPermaLink="false">AGHPr28P9Dc</guid>
+      <pubDate>Tue, 01 Sep 2026 08:05:13 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BU İDDİA KAN DONDURUR! Girne'de alabora olan geminin kaptanının ehliyeti yok muydu? Şok gerçekler!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: İsmail Küçükkaya ile Günaydın Türkiyem | 1 Eylül</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">5hQo9hDVW3A</guid>
       <pubDate>Mon, 31 Aug 2026 22:30:09 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Ozan Bingöl'den AKP'ye Tarihi İsyan! Vatandaşa Kara Haber! İğneden İpliğe Zam Yağmuru</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Eski CHP Genel Başkan Vekili Cevdet Selvi için cenaze töreni düzenleniyor</title>
-      <link>https://www.youtube.com/watch?v=OfkYaYIeg6Y</link>
-      <guid isPermaLink="false">OfkYaYIeg6Y</guid>
-      <pubDate>Mon, 31 Aug 2026 22:22:45 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Eski CHP Genel Başkan Vekili Cevdet Selvi için cenaze töreni düzenleniyor</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel, ekonomide yaşanan tüm sorunların kaynağında AKP'nin yer aldığına vurgu yaptı!</title>
-      <link>https://www.youtube.com/watch?v=gvzmWQkD2do</link>
-      <guid isPermaLink="false">gvzmWQkD2do</guid>
-      <pubDate>Mon, 31 Aug 2026 22:15:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel, ekonomide yaşanan tüm sorunların kaynağında AKP'nin yer aldığına vurgu yaptı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Özlem Gürses ile Sözcü Ana Haber</title>
-      <link>https://www.youtube.com/watch?v=aaQR4mebFlA</link>
-      <guid isPermaLink="false">aaQR4mebFlA</guid>
-      <pubDate>Mon, 31 Aug 2026 22:02:47 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses ile Sözcü Ana Haber</description>
     </item>
   </channel>
 </rss>
