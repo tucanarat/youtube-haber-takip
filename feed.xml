@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 11:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 11:05:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: MELİH GÖKÇEK İTİRAF ETTİ! Yurt dışındaki malları için akıllara zarar savunma! Kaçak yeri kalmadı!</title>
+      <link>https://www.youtube.com/watch?v=ZDn4Y9BQbwo</link>
+      <guid isPermaLink="false">ZDn4Y9BQbwo</guid>
+      <pubDate>Tue, 01 Sep 2026 11:00:19 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: MELİH GÖKÇEK İTİRAF ETTİ! Yurt dışındaki malları için akıllara zarar savunma! Kaçak yeri kalmadı!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: 2026 - 2027 Adli Yılı açılış töreni #canlı</title>
       <link>https://www.youtube.com/watch?v=XWTnVP096ng</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Ywy0vYazziw</guid>
       <pubDate>Tue, 01 Sep 2026 08:31:23 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: ‘Bize zorla Türkçe öğretecekler’ - Deniz Berktay</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Saygı Öztürk İsmail Küçükkaya'ya Bombayı Anlattı! Melih Gökçek'in Cevap Veremediği Sorular!</title>
-      <link>https://www.youtube.com/watch?v=chb4xguO3sg</link>
-      <guid isPermaLink="false">chb4xguO3sg</guid>
-      <pubDate>Tue, 01 Sep 2026 08:30:31 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Saygı Öztürk İsmail Küçükkaya'ya Bombayı Anlattı! Melih Gökçek'in Cevap Veremediği Sorular!</description>
     </item>
   </channel>
 </rss>
