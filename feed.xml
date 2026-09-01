@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 15:05:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 15:10:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: KILIÇDAROĞLU BÖYLESİNİ DUYMADI! Çağatay Güç'ten Genel Merkezi yakıp yıkacak çıkış! Neler dedi neler!</title>
+      <link>https://www.youtube.com/watch?v=5IwJRwi0ZS4</link>
+      <guid isPermaLink="false">5IwJRwi0ZS4</guid>
+      <pubDate>Tue, 01 Sep 2026 15:05:25 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KILIÇDAROĞLU BÖYLESİNİ DUYMADI! Çağatay Güç'ten Genel Merkezi yakıp yıkacak çıkış! Neler dedi neler!</description>
+    </item>
+    <item>
+      <title>Halk TV: KKTC Cumhurbaşkanı Tufan Erhürman, batık geminin yerinin tespit edildiğini açıkladı!</title>
+      <link>https://www.youtube.com/shorts/_UYW5qQTmEs</link>
+      <guid isPermaLink="false">_UYW5qQTmEs</guid>
+      <pubDate>Tue, 01 Sep 2026 15:00:32 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KKTC Cumhurbaşkanı Tufan Erhürman, batık geminin yerinin tespit edildiğini açıkladı!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Alevi kurumlarından Kemal Öztürk ve Altan Tan'a suç duyurusu!</title>
       <link>https://www.youtube.com/watch?v=asloYJvxYto</link>
@@ -55,6 +69,13 @@
       <guid isPermaLink="false">b_kj8DMtLqs</guid>
       <pubDate>Tue, 01 Sep 2026 14:50:21 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ PARTİ BİNASINDA İLK PARTİ MECLİSİ TOPLANTISI! Son durum ne? Masada neler konuşuldu?</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: İBB Davası'nda 73. gün! Kimler neler söyledi? Silivri'de neler oldu?</title>
+      <link>https://www.youtube.com/watch?v=XUyjj489zCk</link>
+      <guid isPermaLink="false">XUyjj489zCk</guid>
+      <pubDate>Tue, 01 Sep 2026 14:49:57 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: İBB Davası'nda 73. gün! Kimler neler söyledi? Silivri'de neler oldu?</description>
     </item>
     <item>
       <title>Halk TV: YENİ Parti Artvin Milletvekili Uğur Bayraktutan: Başaran Aksu süresiz açlık grevine başladı!</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">a-trGf00Ns4</guid>
       <pubDate>Tue, 01 Sep 2026 12:15:50 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SÖZLERİ ÇOK KONUŞULDU! Resul Emrah Şahan: Barışı demokrasiye dönüştürmek hakiki cesaret ister!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Tanzanya’dan Kırkpınar er meydanına: 11 yaşındaki 'Arap Osman'ın başpehlivanlık hayali</title>
-      <link>https://www.youtube.com/shorts/DbQLYvtrkpg</link>
-      <guid isPermaLink="false">DbQLYvtrkpg</guid>
-      <pubDate>Tue, 01 Sep 2026 12:09:42 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Tanzanya’dan Kırkpınar er meydanına: 11 yaşındaki 'Arap Osman'ın başpehlivanlık hayali</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Tuncelili Halime bir yandan hayvancılık yapıyor diğer yandan KPSS’ye hazırlanıyor</title>
-      <link>https://www.youtube.com/watch?v=EfRO1Cut2AQ</link>
-      <guid isPermaLink="false">EfRO1Cut2AQ</guid>
-      <pubDate>Tue, 01 Sep 2026 12:07:03 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Tuncelili Halime bir yandan hayvancılık yapıyor diğer yandan KPSS’ye hazırlanıyor</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: KKTC Cumhurbaşkanından Girne faciası açıklaması: Soruşturma başlatıldı!</title>
-      <link>https://www.youtube.com/watch?v=OVdRtZNeAiQ</link>
-      <guid isPermaLink="false">OVdRtZNeAiQ</guid>
-      <pubDate>Tue, 01 Sep 2026 12:06:33 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: KKTC Cumhurbaşkanından Girne faciası açıklaması: Soruşturma başlatıldı!</description>
     </item>
   </channel>
 </rss>
