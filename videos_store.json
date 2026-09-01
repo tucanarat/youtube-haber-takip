@@ -22529,7 +22529,7 @@
   },
   "aaQR4mebFlA": {
     "id": "aaQR4mebFlA",
-    "title": "Özlem Gürses ile Sözcü Ana Haber",
+    "title": "#CANLI Özlem Gürses ile Sözcü Ana Haber",
     "link": "https://www.youtube.com/watch?v=aaQR4mebFlA",
     "published": "2026-08-31T22:02:47+00:00",
     "published_ts": 1788213767,
@@ -23862,5 +23862,21 @@
     "published": "2026-09-01T14:50:21+00:00",
     "published_ts": 1788274221,
     "channel_name": "Halk TV"
+  },
+  "o8SklFj3l60": {
+    "id": "o8SklFj3l60",
+    "title": "Putin'in S-400'leri Yok Edildi! Zelenski'nin Ordusu Atağa Geçti! Rusya İHA Yağdırdı!",
+    "link": "https://www.youtube.com/watch?v=o8SklFj3l60",
+    "published": "2026-09-01T15:00:08+00:00",
+    "published_ts": 1788274808,
+    "channel_name": "SÖZCÜ TV"
+  },
+  "asloYJvxYto": {
+    "id": "asloYJvxYto",
+    "title": "Alevi kurumlarından Kemal Öztürk ve Altan Tan'a suç duyurusu!",
+    "link": "https://www.youtube.com/watch?v=asloYJvxYto",
+    "published": "2026-09-01T15:00:12+00:00",
+    "published_ts": 1788274812,
+    "channel_name": "Tele2 Haber"
   }
 }

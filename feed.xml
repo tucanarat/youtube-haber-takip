@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 15:01:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 15:05:29 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Alevi kurumlarından Kemal Öztürk ve Altan Tan'a suç duyurusu!</title>
+      <link>https://www.youtube.com/watch?v=asloYJvxYto</link>
+      <guid isPermaLink="false">asloYJvxYto</guid>
+      <pubDate>Tue, 01 Sep 2026 15:00:12 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Alevi kurumlarından Kemal Öztürk ve Altan Tan'a suç duyurusu!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Putin'in S-400'leri Yok Edildi! Zelenski'nin Ordusu Atağa Geçti! Rusya İHA Yağdırdı!</title>
+      <link>https://www.youtube.com/watch?v=o8SklFj3l60</link>
+      <guid isPermaLink="false">o8SklFj3l60</guid>
+      <pubDate>Tue, 01 Sep 2026 15:00:08 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Putin'in S-400'leri Yok Edildi! Zelenski'nin Ordusu Atağa Geçti! Rusya İHA Yağdırdı!</description>
+    </item>
     <item>
       <title>Halk TV: Gizem Çetin ile Parantez (1 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=cgqbzg4ybMU</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">OVdRtZNeAiQ</guid>
       <pubDate>Tue, 01 Sep 2026 12:06:33 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: KKTC Cumhurbaşkanından Girne faciası açıklaması: Soruşturma başlatıldı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: '2 Evladımı Kaybettim' Kayıp Yakınları Çileden Çıkartan Olay! Acılı Baba Böyle İsyan Etti</title>
-      <link>https://www.youtube.com/watch?v=3X2a1YMbga8</link>
-      <guid isPermaLink="false">3X2a1YMbga8</guid>
-      <pubDate>Tue, 01 Sep 2026 12:00:35 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: '2 Evladımı Kaybettim' Kayıp Yakınları Çileden Çıkartan Olay! Acılı Baba Böyle İsyan Etti</description>
-    </item>
-    <item>
-      <title>Halk TV: Muharrem İnce: “helal para” sözüm Yeni Parti'ye değildi! Özgür Özel nasıl cevap verdi?</title>
-      <link>https://www.youtube.com/watch?v=Yc47psAWV9I</link>
-      <guid isPermaLink="false">Yc47psAWV9I</guid>
-      <pubDate>Tue, 01 Sep 2026 12:00:01 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Muharrem İnce: “helal para” sözüm Yeni Parti'ye değildi! Özgür Özel nasıl cevap verdi?</description>
     </item>
   </channel>
 </rss>
