@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 08:00:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 08:05:26 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: İsmail Küçükkaya ile Günaydın Türkiyem | 1 Eylül</title>
+      <link>https://www.youtube.com/watch?v=bCvGjwbtrw0</link>
+      <guid isPermaLink="false">bCvGjwbtrw0</guid>
+      <pubDate>Tue, 01 Sep 2026 08:04:04 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya ile Günaydın Türkiyem | 1 Eylül</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İsmail Küçükkaya Ağzının Payını Verdi 'Türkiye Başka Ülkelere Benzemez' Netanyahu'dan Tehdit!</title>
+      <link>https://www.youtube.com/watch?v=H92vVhIOBnQ</link>
+      <guid isPermaLink="false">H92vVhIOBnQ</guid>
+      <pubDate>Tue, 01 Sep 2026 08:00:31 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya Ağzının Payını Verdi 'Türkiye Başka Ülkelere Benzemez' Netanyahu'dan Tehdit!</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Yoksulluk hayalleri de çalıyor: Büyüyünce "hiç" olmak isteyen çocukların acı gerçeği...</title>
+      <link>https://www.youtube.com/shorts/mEy-vu-AfRc</link>
+      <guid isPermaLink="false">mEy-vu-AfRc</guid>
+      <pubDate>Tue, 01 Sep 2026 08:00:03 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Yoksulluk hayalleri de çalıyor: Büyüyünce "hiç" olmak isteyen çocukların acı gerçeği...</description>
+    </item>
     <item>
       <title>Cumhuriyet: Dehşet anları kamerada! Girne açıklarında alabora olan gemiden yeni görüntüler ortaya çıktı</title>
       <link>https://www.youtube.com/shorts/01T0rFAZaYA</link>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">1UDfMuoZTv0</guid>
       <pubDate>Mon, 31 Aug 2026 22:01:18 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Senem Toluay Ilgaz ile Öncesi Sonrası</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Kamusal Alanda Yeni Gözetim! Alkol Tüketenlere Şok Dron Müdahalesi! Sokak Güvenliğinde Farklı Boyut</title>
-      <link>https://www.youtube.com/watch?v=-h7kiq-Iais</link>
-      <guid isPermaLink="false">-h7kiq-Iais</guid>
-      <pubDate>Mon, 31 Aug 2026 22:00:37 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Kamusal Alanda Yeni Gözetim! Alkol Tüketenlere Şok Dron Müdahalesi! Sokak Güvenliğinde Farklı Boyut</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Can Coşkun ile Gündem Masası</title>
-      <link>https://www.youtube.com/watch?v=1jbDZwFomt4</link>
-      <guid isPermaLink="false">1jbDZwFomt4</guid>
-      <pubDate>Mon, 31 Aug 2026 22:00:32 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Can Coşkun ile Gündem Masası</description>
-    </item>
-    <item>
-      <title>Halk TV: "ONA HAKKIM HELAL DEĞİL!" Özgür Özel'den, AKP'ye geçen isimlere ilişkin gündem olacak sözler!</title>
-      <link>https://www.youtube.com/watch?v=rzTnysWbRiQ</link>
-      <guid isPermaLink="false">rzTnysWbRiQ</guid>
-      <pubDate>Mon, 31 Aug 2026 22:00:23 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: "ONA HAKKIM HELAL DEĞİL!" Özgür Özel'den, AKP'ye geçen isimlere ilişkin gündem olacak sözler!</description>
     </item>
   </channel>
 </rss>

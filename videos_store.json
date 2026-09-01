@@ -22569,7 +22569,7 @@
   },
   "1jbDZwFomt4": {
     "id": "1jbDZwFomt4",
-    "title": "Can Coşkun ile Gündem Masası",
+    "title": "#CANLI Can Coşkun ile Gündem Masası",
     "link": "https://www.youtube.com/watch?v=1jbDZwFomt4",
     "published": "2026-08-31T22:00:32+00:00",
     "published_ts": 1788213632,
@@ -22579,8 +22579,8 @@
     "id": "bCvGjwbtrw0",
     "title": "İsmail Küçükkaya ile Günaydın Türkiyem | 1 Eylül",
     "link": "https://www.youtube.com/watch?v=bCvGjwbtrw0",
-    "published": "2026-08-31T21:59:54+00:00",
-    "published_ts": 1788213594,
+    "published": "2026-09-01T08:04:04+00:00",
+    "published_ts": 1788249844,
     "channel_name": "SÖZCÜ TV"
   },
   "S9kyPNKMscM": {
@@ -22886,5 +22886,21 @@
     "published": "2026-09-01T07:50:45+00:00",
     "published_ts": 1788249045,
     "channel_name": "Cumhuriyet"
+  },
+  "mEy-vu-AfRc": {
+    "id": "mEy-vu-AfRc",
+    "title": "Yoksulluk hayalleri de çalıyor: Büyüyünce \"hiç\" olmak isteyen çocukların acı gerçeği...",
+    "link": "https://www.youtube.com/shorts/mEy-vu-AfRc",
+    "published": "2026-09-01T08:00:03+00:00",
+    "published_ts": 1788249603,
+    "channel_name": "Cumhuriyet"
+  },
+  "H92vVhIOBnQ": {
+    "id": "H92vVhIOBnQ",
+    "title": "İsmail Küçükkaya Ağzının Payını Verdi 'Türkiye Başka Ülkelere Benzemez' Netanyahu'dan Tehdit!",
+    "link": "https://www.youtube.com/watch?v=H92vVhIOBnQ",
+    "published": "2026-09-01T08:00:31+00:00",
+    "published_ts": 1788249631,
+    "channel_name": "SÖZCÜ TV"
   }
 }
