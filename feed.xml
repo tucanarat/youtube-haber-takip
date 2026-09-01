@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 23:20:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 23:25:28 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: ABD Vurdu! Brent Petrol Uçuşa Geçti! Putin'in Gizli Nükleer Planı! Mehmet Öğütçü'den Çarpıcı Uyarı</title>
+      <link>https://www.youtube.com/watch?v=RWfLd9Dx4Wo</link>
+      <guid isPermaLink="false">RWfLd9Dx4Wo</guid>
+      <pubDate>Tue, 01 Sep 2026 23:10:17 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: ABD Vurdu! Brent Petrol Uçuşa Geçti! Putin'in Gizli Nükleer Planı! Mehmet Öğütçü'den Çarpıcı Uyarı</description>
+    </item>
     <item>
       <title>Halk TV: İstiklal Caddesi’nde karanfil gerilimi! İBB zabıtası karanfil dağıtmak istedi, polis izin vermedi!</title>
       <link>https://www.youtube.com/shorts/Tn7qB0405qQ</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">l_Kabah24rs</guid>
       <pubDate>Tue, 01 Sep 2026 19:15:03 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SÜLEYMANCILAR DOSYASINDA KRİTİK GELİŞME! Eski İçişleri Bakanı İdris Naim Şahin serbest bırakıldı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İran, ABD Üslerini Füzelerle Vurdu! Trump ve Pentagon Bunu Beklemiyordu! Cehennem Kapıları Açıldı</title>
-      <link>https://www.youtube.com/watch?v=lYrkKAPRA9M</link>
-      <guid isPermaLink="false">lYrkKAPRA9M</guid>
-      <pubDate>Tue, 01 Sep 2026 19:10:38 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İran, ABD Üslerini Füzelerle Vurdu! Trump ve Pentagon Bunu Beklemiyordu! Cehennem Kapıları Açıldı</description>
     </item>
   </channel>
 </rss>
