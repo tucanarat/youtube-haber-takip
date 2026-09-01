@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 16:52:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 16:55:24 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: DEM Parti Eş Genel Başkanı Tülay Hatimoğulları, 1 Eylül Dünya Barış Günü kapsamında açıklama yapıyor</title>
+      <link>https://www.youtube.com/watch?v=VFnJbK7GHYY</link>
+      <guid isPermaLink="false">VFnJbK7GHYY</guid>
+      <pubDate>Tue, 01 Sep 2026 16:54:44 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: DEM Parti Eş Genel Başkanı Tülay Hatimoğulları, 1 Eylül Dünya Barış Günü kapsamında açıklama yapıyor</description>
+    </item>
     <item>
       <title>Halk TV: FEYATLARI YÜREK DAĞLADI! Girne deniz kazasında iki çocuğu kaybolan anne  Erhürmana tepki gösterdi</title>
       <link>https://www.youtube.com/watch?v=w323MMFppU8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ipXCWpt7p2U</guid>
       <pubDate>Tue, 01 Sep 2026 13:43:54 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI KKTC Cumhurbaşkanı Tufan Erhürman açıklama yapıyor</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Tarihi eser ararken jandarmaya basıldılar: Kırklareli'deki kaçak kazı operasyonu kamerada</title>
-      <link>https://www.youtube.com/shorts/-ndjN4q4XSM</link>
-      <guid isPermaLink="false">-ndjN4q4XSM</guid>
-      <pubDate>Tue, 01 Sep 2026 13:39:51 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Tarihi eser ararken jandarmaya basıldılar: Kırklareli'deki kaçak kazı operasyonu kamerada</description>
     </item>
   </channel>
 </rss>
