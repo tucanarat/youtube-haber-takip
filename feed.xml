@@ -6,13 +6,34 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 14:05:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 14:10:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SON DAKİKA! TIR'ın dorsesinde yurt dışına kaçarken yakalanmıştı! Arif Kocabıyık tutuklandı!</title>
+      <link>https://www.youtube.com/watch?v=aOenYZncS3Y</link>
+      <guid isPermaLink="false">aOenYZncS3Y</guid>
+      <pubDate>Tue, 01 Sep 2026 14:05:34 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! TIR'ın dorsesinde yurt dışına kaçarken yakalanmıştı! Arif Kocabıyık tutuklandı!</description>
+    </item>
+    <item>
+      <title>Halk TV: KKTC Cumhurbaşkanı Tufan Erhürman’a sert tepki: "Bana açıklama yapacaksın!”</title>
+      <link>https://www.youtube.com/shorts/HAUPYXsQQLo</link>
+      <guid isPermaLink="false">HAUPYXsQQLo</guid>
+      <pubDate>Tue, 01 Sep 2026 14:01:42 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KKTC Cumhurbaşkanı Tufan Erhürman’a sert tepki: "Bana açıklama yapacaksın!”</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Aliyev'den Pezeşkiyan'ı Kahkahaya Boğan Su Şakası! "Bir Azerbaycan Suyundan da İçin"</title>
       <link>https://www.youtube.com/watch?v=t0qjg7IxKps</link>
       <guid isPermaLink="false">t0qjg7IxKps</guid>
       <pubDate>Tue, 01 Sep 2026 14:00:35 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Aliyev'den Pezeşkiyan'ı Kahkahaya Boğan Su Şakası! "Bir Azerbaycan Suyundan da İçin"</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Akın Gürlek'e Ersöz'den Çarpıcı İmamoğlu Yanıtı! "Siyasetçiler Bu Tür Polemiklere Girer!"</title>
+      <link>https://www.youtube.com/watch?v=kmA1TYel1l8</link>
+      <guid isPermaLink="false">kmA1TYel1l8</guid>
+      <pubDate>Tue, 01 Sep 2026 14:00:34 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Akın Gürlek'e Ersöz'den Çarpıcı İmamoğlu Yanıtı! "Siyasetçiler Bu Tür Polemiklere Girer!"</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Eski İçişleri Bakanı İdris Naim Şahin'in avukatı Gürbüz Özdemir açıklama yapıyor #Canlı</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">1P2rl8dJStY</guid>
       <pubDate>Tue, 01 Sep 2026 11:27:30 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI 2026-2027 adli yılı başlıyor... Açılış töreninden canlı yayın…</description>
-    </item>
-    <item>
-      <title>Halk TV: Kapıkule sınırında yakalanan Arif Kocabıyık 'Anamur'a gidecektim' dedi!</title>
-      <link>https://www.youtube.com/shorts/nOhpNyD2Tpc</link>
-      <guid isPermaLink="false">nOhpNyD2Tpc</guid>
-      <pubDate>Tue, 01 Sep 2026 11:20:28 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Kapıkule sınırında yakalanan Arif Kocabıyık 'Anamur'a gidecektim' dedi!</description>
-    </item>
-    <item>
-      <title>Halk TV: TCG Işın Gemisi Komutanı Deniz Binbaşı Ulaş Cesur: Batığı tespit edip 500 metrede arama yapacağız!</title>
-      <link>https://www.youtube.com/shorts/sauGNw9fXeI</link>
-      <guid isPermaLink="false">sauGNw9fXeI</guid>
-      <pubDate>Tue, 01 Sep 2026 11:20:27 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: TCG Işın Gemisi Komutanı Deniz Binbaşı Ulaş Cesur: Batığı tespit edip 500 metrede arama yapacağız!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI 2026 - 2027 Adli Yılı açılış töreni</title>
-      <link>https://www.youtube.com/watch?v=W9AHkGe5RWU</link>
-      <guid isPermaLink="false">W9AHkGe5RWU</guid>
-      <pubDate>Tue, 01 Sep 2026 11:18:01 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI 2026 - 2027 Adli Yılı açılış töreni</description>
     </item>
   </channel>
 </rss>
