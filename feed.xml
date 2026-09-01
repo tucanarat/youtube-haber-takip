@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 09:30:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 09:35:28 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: YENİ Parti Sözcüsü Zeynel Emre, Genel Merkez'de Basın Açıklaması Yaptı (1 Eylül 2026)</title>
+      <link>https://www.youtube.com/watch?v=j4szw_AG3A8</link>
+      <guid isPermaLink="false">j4szw_AG3A8</guid>
+      <pubDate>Tue, 01 Sep 2026 09:34:05 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YENİ Parti Sözcüsü Zeynel Emre, Genel Merkez'de Basın Açıklaması Yaptı (1 Eylül 2026)</description>
+    </item>
+    <item>
+      <title>Halk TV: MELİH GÖKÇEK'İN YALANI ÇABUK ÇÖKTÜ: Daire alıp Alman vatandaşı olmak mümkün değil!</title>
+      <link>https://www.youtube.com/watch?v=wK1nD5ojw7Q</link>
+      <guid isPermaLink="false">wK1nD5ojw7Q</guid>
+      <pubDate>Tue, 01 Sep 2026 09:30:31 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: MELİH GÖKÇEK'İN YALANI ÇABUK ÇÖKTÜ: Daire alıp Alman vatandaşı olmak mümkün değil!</description>
+    </item>
     <item>
       <title>Cumhuriyet: Çarşı pazarda ithal soğana tepki: "Bizim tarlamız, köylümüz yok mu?"</title>
       <link>https://www.youtube.com/shorts/F1mwfVEx5Ag</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">tTotQDtROAg</guid>
       <pubDate>Tue, 01 Sep 2026 06:56:25 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Gökhan Kayış ile Haberler (1 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Özgür Özel'den balıkçılık sezonu mesajı: Bereketli, kazasız ve bol kazançlı olsun!</title>
-      <link>https://www.youtube.com/shorts/nHxWFndXpDk</link>
-      <guid isPermaLink="false">nHxWFndXpDk</guid>
-      <pubDate>Tue, 01 Sep 2026 06:55:19 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Özgür Özel'den balıkçılık sezonu mesajı: Bereketli, kazasız ve bol kazançlı olsun!</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Ebru Baki ile Para Siyaset | İbrahim Kahveci</title>
-      <link>https://www.youtube.com/watch?v=l1cg3hbkuMk</link>
-      <guid isPermaLink="false">l1cg3hbkuMk</guid>
-      <pubDate>Tue, 01 Sep 2026 06:51:19 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Ebru Baki ile Para Siyaset | İbrahim Kahveci</description>
     </item>
   </channel>
 </rss>
