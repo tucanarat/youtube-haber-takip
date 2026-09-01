@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 21:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 21:25:24 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ORTADOĞU’DA ALEVLER YÜKSELİYOR! ABD ve İran arasında karşılıklı saldırılar başladı!</title>
+      <link>https://www.youtube.com/watch?v=0Wt8pO9OzH8</link>
+      <guid isPermaLink="false">0Wt8pO9OzH8</guid>
+      <pubDate>Tue, 01 Sep 2026 21:15:27 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ORTADOĞU’DA ALEVLER YÜKSELİYOR! ABD ve İran arasında karşılıklı saldırılar başladı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: ABD Vurdu! Hürmüz Kapatıldı Petrol Uçtu! Mücteba Hamaney Düğmeye Bastı! İran'dan Füze Yağmuru</title>
       <link>https://www.youtube.com/watch?v=bMAlkBbYgGU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">bKOCSLL3dg0</guid>
       <pubDate>Tue, 01 Sep 2026 17:00:17 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Murat Taylan'dan Akın Gürlek'in 'adalet' hattına: Merdan Yanardağ 135'i arayınca ne diyeceksiniz?</description>
-    </item>
-    <item>
-      <title>Halk TV: AKILLARA TAKILAN SORU: Melih Gökçek soruşturması hukuka uygun ilerleyecek mi?</title>
-      <link>https://www.youtube.com/watch?v=ikdFLcAssYM</link>
-      <guid isPermaLink="false">ikdFLcAssYM</guid>
-      <pubDate>Tue, 01 Sep 2026 17:00:00 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: AKILLARA TAKILAN SORU: Melih Gökçek soruşturması hukuka uygun ilerleyecek mi?</description>
     </item>
   </channel>
 </rss>
