@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 10:50:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 10:55:27 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Özgür Özel'den Çarpıcı AKP İçinde Arınma Cevabı! "DUY DA İNANMA!"</title>
+      <link>https://www.youtube.com/watch?v=I9MMgT9hgfg</link>
+      <guid isPermaLink="false">I9MMgT9hgfg</guid>
+      <pubDate>Tue, 01 Sep 2026 10:45:23 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Özgür Özel'den Çarpıcı AKP İçinde Arınma Cevabı! "DUY DA İNANMA!"</description>
+    </item>
     <item>
       <title>Cumhuriyet: Mustafa Balbay anlattı: İşte iktidarın 'Anayasa' planı...</title>
       <link>https://www.youtube.com/watch?v=s7SwpYZ99FY</link>
       <guid isPermaLink="false">s7SwpYZ99FY</guid>
       <pubDate>Tue, 01 Sep 2026 10:43:51 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Mustafa Balbay anlattı: İşte iktidarın 'Anayasa' planı...</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: ABB AVUKATI NADİ TÜRKASLAN'DAN ÇOK KRİTİK MELİH GÖKÇEK AÇIKLAMASI!</title>
+      <link>https://www.youtube.com/shorts/J5uuoUToAow</link>
+      <guid isPermaLink="false">J5uuoUToAow</guid>
+      <pubDate>Tue, 01 Sep 2026 10:41:43 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: ABB AVUKATI NADİ TÜRKASLAN'DAN ÇOK KRİTİK MELİH GÖKÇEK AÇIKLAMASI!</description>
     </item>
     <item>
       <title>Cumhuriyet: #CANLI İBB Davasında 73. gün! Necati Özkan neler söyledi?</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">xYufQeKoSfc</guid>
       <pubDate>Tue, 01 Sep 2026 08:18:59 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Amedspor’un Trabzonspor’u 2-1 mağlup etmesinin ardından galibiyet coşkusu gece boyunca sürdü!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI İstanbul Barosu yeni adli yıl başlarken "Adalet Bildirisi"ni açıklıyor</title>
-      <link>https://www.youtube.com/watch?v=wuOxjsoFPtU</link>
-      <guid isPermaLink="false">wuOxjsoFPtU</guid>
-      <pubDate>Tue, 01 Sep 2026 08:15:43 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI İstanbul Barosu yeni adli yıl başlarken "Adalet Bildirisi"ni açıklıyor</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: CHP Grup Başkanvekili Rahmi Aşkın Türeli TBMM'de açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=lr8pkP5OXkg</link>
-      <guid isPermaLink="false">lr8pkP5OXkg</guid>
-      <pubDate>Tue, 01 Sep 2026 08:10:35 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP Grup Başkanvekili Rahmi Aşkın Türeli TBMM'de açıklama yapıyor #Canlı</description>
     </item>
   </channel>
 </rss>
