@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 22:30:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 22:35:26 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: Diyarbakır Kent Koruma ve Dayanışma Platformu, 1 Eylül Dünya Barış Günü dolayısıyla açıklama yapıyor</title>
       <link>https://www.youtube.com/watch?v=8kECW0Guwsk</link>
       <guid isPermaLink="false">8kECW0Guwsk</guid>
       <pubDate>Tue, 01 Sep 2026 22:30:37 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Diyarbakır Kent Koruma ve Dayanışma Platformu, 1 Eylül Dünya Barış Günü dolayısıyla açıklama yapıyor</description>
+    </item>
+    <item>
+      <title>Halk TV: Orhan Sarıbal’ın Bursa’da yaptığı konuşmayı dinleyen kişi sayısının azlığı kayda böyle girdi!</title>
+      <link>https://www.youtube.com/shorts/oz1WurSAJQ0</link>
+      <guid isPermaLink="false">oz1WurSAJQ0</guid>
+      <pubDate>Tue, 01 Sep 2026 22:30:34 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Orhan Sarıbal’ın Bursa’da yaptığı konuşmayı dinleyen kişi sayısının azlığı kayda böyle girdi!</description>
     </item>
     <item>
       <title>Halk TV: "HUKUKİ BİR SONUÇ ÇIKMAYACAK..." Bahadır Özgür’den Gökçek soruşturmaları için çarpıcı yorum!</title>
@@ -57,11 +64,11 @@
       <description>Halk TV kanalından yeni video: YENİ Partide üye hareketliliği dikkat çekti! Ulaş Karasu: “VATANDAŞLAR BİNALARIMIZA AKIN EDİYOR!”</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | Bilge Yurtdagülen ile Gündem Özel</title>
+      <title>Halk TV: Bilge Yurtdagülen ile Gündem Özel (1 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=qsjRGK5j4q4</link>
       <guid isPermaLink="false">qsjRGK5j4q4</guid>
       <pubDate>Tue, 01 Sep 2026 22:00:45 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Bilge Yurtdagülen ile Gündem Özel</description>
+      <description>Halk TV kanalından yeni video: Bilge Yurtdagülen ile Gündem Özel (1 Eylül 2026)</description>
     </item>
     <item>
       <title>Halk TV: İzmir’de 15 günde 60 bin üye! Çağatay Güç: “YENİ PARTİ İKTİDARA HAZIRLANIYOR!” #shorts</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">rcCpEwSqUcM</guid>
       <pubDate>Tue, 01 Sep 2026 18:30:29 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: TARİKATLARDA İSTİHBARAT OYUNU! Erol Mütercimler'den Türkiye'yi Ayağa Kaldıracak Sözler</description>
-    </item>
-    <item>
-      <title>Halk TV: FLAŞ AÇIKLAMA: "Türkiyenin birinci partisiyiz, iktidara hazırlanıyoruz." Çağatay Güç neler söyledi?</title>
-      <link>https://www.youtube.com/watch?v=ppONr3j26ek</link>
-      <guid isPermaLink="false">ppONr3j26ek</guid>
-      <pubDate>Tue, 01 Sep 2026 18:30:22 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: FLAŞ AÇIKLAMA: "Türkiyenin birinci partisiyiz, iktidara hazırlanıyoruz." Çağatay Güç neler söyledi?</description>
     </item>
   </channel>
 </rss>
