@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 12:35:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 12:40:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: DEMEDİĞİNİ BIRAKMADI! Mustafa Balbay'dan Melih Gökçek'in ipliğini pazara çıkaracak sözler! Olay olur</title>
+      <link>https://www.youtube.com/watch?v=uO1gcokOr-Q</link>
+      <guid isPermaLink="false">uO1gcokOr-Q</guid>
+      <pubDate>Tue, 01 Sep 2026 12:30:25 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: DEMEDİĞİNİ BIRAKMADI! Mustafa Balbay'dan Melih Gökçek'in ipliğini pazara çıkaracak sözler! Olay olur</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Erdoğan Mossad'ın Gizli Operasyonunu Engellemiş! İsrail Basını Açıkladı! Netanyahu Deliye Dönmüş</title>
       <link>https://www.youtube.com/watch?v=6nQ6vR55v7M</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">UH_RdJ4vcm0</guid>
       <pubDate>Tue, 01 Sep 2026 09:53:12 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Kaş’taki orman yangınının acı bilançosu: Yanan alanlar böyle görüntülendi</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | İrem Sansak ile Haber Masası</title>
-      <link>https://www.youtube.com/watch?v=bgWVlXviFhc</link>
-      <guid isPermaLink="false">bgWVlXviFhc</guid>
-      <pubDate>Tue, 01 Sep 2026 09:52:38 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | İrem Sansak ile Haber Masası</description>
     </item>
   </channel>
 </rss>
