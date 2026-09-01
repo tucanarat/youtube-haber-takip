@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 22:45:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 22:50:29 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Diyarbakır’da 1 Eylül Dünya Barış Günü kapsamında düzenlenen yürüyüşe on binlerce kişi katıldı!</title>
+      <link>https://www.youtube.com/shorts/dOB-xI-jM80</link>
+      <guid isPermaLink="false">dOB-xI-jM80</guid>
+      <pubDate>Tue, 01 Sep 2026 22:45:36 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Diyarbakır’da 1 Eylül Dünya Barış Günü kapsamında düzenlenen yürüyüşe on binlerce kişi katıldı!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Diyarbakır Kent Koruma ve Dayanışma Platformu, 1 Eylül Dünya Barış Günü dolayısıyla açıklama yapıyor</title>
       <link>https://www.youtube.com/watch?v=8kECW0Guwsk</link>
@@ -20,6 +27,13 @@
       <guid isPermaLink="false">oz1WurSAJQ0</guid>
       <pubDate>Tue, 01 Sep 2026 22:30:34 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Orhan Sarıbal’ın Bursa’da yaptığı konuşmayı dinleyen kişi sayısının azlığı kayda böyle girdi!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: "Helikopter Olsaydı..." Kıbrıs'taki Faciada Kahreden Detay! Arama Kurtarma Yetersiz Mi Kaldı?</title>
+      <link>https://www.youtube.com/watch?v=it7ObC8HBtc</link>
+      <guid isPermaLink="false">it7ObC8HBtc</guid>
+      <pubDate>Tue, 01 Sep 2026 22:30:24 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: "Helikopter Olsaydı..." Kıbrıs'taki Faciada Kahreden Detay! Arama Kurtarma Yetersiz Mi Kaldı?</description>
     </item>
     <item>
       <title>Halk TV: "HUKUKİ BİR SONUÇ ÇIKMAYACAK..." Bahadır Özgür’den Gökçek soruşturmaları için çarpıcı yorum!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">YnBbVKFCnjc</guid>
       <pubDate>Tue, 01 Sep 2026 19:00:06 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Mekke İttifakı hangi ülkeye karşı? Musa Özuğurlu İbrahim Kalın'ın açıklamasına dikkat çekti!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Kanlı Vekalet Savaşlarını Nevzat Çiçek Anlattı! İran ABD İsrail Arasında Kıyamet Kopabilir!</title>
-      <link>https://www.youtube.com/watch?v=UMzC1SmBOlk</link>
-      <guid isPermaLink="false">UMzC1SmBOlk</guid>
-      <pubDate>Tue, 01 Sep 2026 18:50:09 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Kanlı Vekalet Savaşlarını Nevzat Çiçek Anlattı! İran ABD İsrail Arasında Kıyamet Kopabilir!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: TARİKATLARDA İSTİHBARAT OYUNU! Erol Mütercimler'den Türkiye'yi Ayağa Kaldıracak Sözler</title>
-      <link>https://www.youtube.com/watch?v=rcCpEwSqUcM</link>
-      <guid isPermaLink="false">rcCpEwSqUcM</guid>
-      <pubDate>Tue, 01 Sep 2026 18:30:29 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: TARİKATLARDA İSTİHBARAT OYUNU! Erol Mütercimler'den Türkiye'yi Ayağa Kaldıracak Sözler</description>
     </item>
   </channel>
 </rss>
