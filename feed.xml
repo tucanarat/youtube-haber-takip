@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 22:55:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 23:00:50 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: İran'dan ABD'ye Füzeli Misilleme! Mücteba Hamaney'den Netanyahu ve Trump'a Peş Peşe Ağır Darbe</title>
+      <link>https://www.youtube.com/watch?v=pRv0pe3n-is</link>
+      <guid isPermaLink="false">pRv0pe3n-is</guid>
+      <pubDate>Tue, 01 Sep 2026 22:50:26 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İran'dan ABD'ye Füzeli Misilleme! Mücteba Hamaney'den Netanyahu ve Trump'a Peş Peşe Ağır Darbe</description>
+    </item>
     <item>
       <title>Halk TV: Diyarbakır’da 1 Eylül Dünya Barış Günü kapsamında düzenlenen yürüyüşe on binlerce kişi katıldı!</title>
       <link>https://www.youtube.com/shorts/dOB-xI-jM80</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">7HiJltGsysk</guid>
       <pubDate>Tue, 01 Sep 2026 19:00:26 +0000</pubDate>
       <description>Halk TV kanalından yeni video: “GİTSİN ORAYI DA ZİYARET ETSİN!” İzmir’de ziyaret öncesi gerilim! Çağatay Güç’ten sert mesaj!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Mekke İttifakı hangi ülkeye karşı? Musa Özuğurlu İbrahim Kalın'ın açıklamasına dikkat çekti!</title>
-      <link>https://www.youtube.com/watch?v=YnBbVKFCnjc</link>
-      <guid isPermaLink="false">YnBbVKFCnjc</guid>
-      <pubDate>Tue, 01 Sep 2026 19:00:06 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Mekke İttifakı hangi ülkeye karşı? Musa Özuğurlu İbrahim Kalın'ın açıklamasına dikkat çekti!</description>
     </item>
   </channel>
 </rss>
