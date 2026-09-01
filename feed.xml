@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 18:25:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 18:30:43 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: VE O KARANLIK PLAN PATLADI! Kılıçdaroğlu'nun bütün foyası meydana çıktı! Afşin Hatipoğlu anlattı!</title>
+      <link>https://www.youtube.com/watch?v=XB2yGYLg4Rs</link>
+      <guid isPermaLink="false">XB2yGYLg4Rs</guid>
+      <pubDate>Tue, 01 Sep 2026 18:17:57 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: VE O KARANLIK PLAN PATLADI! Kılıçdaroğlu'nun bütün foyası meydana çıktı! Afşin Hatipoğlu anlattı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Yunanistan'dan Ege'de Küstah Hamle! İsrail ile 3 Milyar Euroluk Anlaşma! Eski Bakandan Büyük İsyan</title>
       <link>https://www.youtube.com/watch?v=53jszV6CrCU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">asloYJvxYto</guid>
       <pubDate>Tue, 01 Sep 2026 15:00:12 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Alevi kurumlarından Kemal Öztürk ve Altan Tan'a suç duyurusu!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Putin'in S-400'leri Yok Edildi! Zelenski'nin Ordusu Atağa Geçti! Rusya İHA Yağdırdı!</title>
-      <link>https://www.youtube.com/watch?v=o8SklFj3l60</link>
-      <guid isPermaLink="false">o8SklFj3l60</guid>
-      <pubDate>Tue, 01 Sep 2026 15:00:08 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Putin'in S-400'leri Yok Edildi! Zelenski'nin Ordusu Atağa Geçti! Rusya İHA Yağdırdı!</description>
     </item>
   </channel>
 </rss>
