@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 09:05:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 09:10:34 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: #CANLI YENİ Parti Sözcüsü Zeynel Emre'den flaş açıklamalar</title>
+      <link>https://www.youtube.com/watch?v=AerLhcp1hZI</link>
+      <guid isPermaLink="false">AerLhcp1hZI</guid>
+      <pubDate>Tue, 01 Sep 2026 09:04:57 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI YENİ Parti Sözcüsü Zeynel Emre'den flaş açıklamalar</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI YENİ Parti Sözcüsü Zeynel Emre YENİ Parti Genel Merkezi’nde basın açıklaması yapıyoR</title>
       <link>https://www.youtube.com/watch?v=VSfV8nmdNp8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">8KTmcV9drkM</guid>
       <pubDate>Tue, 01 Sep 2026 05:35:00 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İpek Özbey ile Karşı Karşıya | Erol Mütercimler &amp; Nevzat Çiçek</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Afşin Hatipoğlu İsyan Etti | İmamoğlu'na Tuzak, Gökçek'in Almanya Sırrı, Mansur Yavaş'a Operasyon</title>
-      <link>https://www.youtube.com/watch?v=5AkBfyIKrkQ</link>
-      <guid isPermaLink="false">5AkBfyIKrkQ</guid>
-      <pubDate>Tue, 01 Sep 2026 05:09:13 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Afşin Hatipoğlu İsyan Etti | İmamoğlu'na Tuzak, Gökçek'in Almanya Sırrı, Mansur Yavaş'a Operasyon</description>
     </item>
   </channel>
 </rss>
