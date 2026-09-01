@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 15:35:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 15:40:30 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: YENİ Parti Beşiktaş İlçe Başkanlığı açılış töreni / İstanbul #Canlı</title>
+      <link>https://www.youtube.com/watch?v=tXpJ2UuPI_k</link>
+      <guid isPermaLink="false">tXpJ2UuPI_k</guid>
+      <pubDate>Tue, 01 Sep 2026 15:37:53 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Beşiktaş İlçe Başkanlığı açılış töreni / İstanbul #Canlı</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: "Kılıçdaroğu'nun Özel'e Aday Yapma Dediği İsim Kılıçdaroğlu'nu Ziyaret Etti!" Butlandan Skandal!</title>
+      <link>https://www.youtube.com/watch?v=GdZCmL78oLQ</link>
+      <guid isPermaLink="false">GdZCmL78oLQ</guid>
+      <pubDate>Tue, 01 Sep 2026 15:30:34 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "Kılıçdaroğu'nun Özel'e Aday Yapma Dediği İsim Kılıçdaroğlu'nu Ziyaret Etti!" Butlandan Skandal!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: FACİA GÖZ GÖRE GÖRE GELDİ! 'Bu Tekne Denize Elverişli Değildi!' Uzman İsim Hataları Anlattı!</title>
       <link>https://www.youtube.com/watch?v=p8nBHrjQhDE</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">dI_IWeZo4nU</guid>
       <pubDate>Tue, 01 Sep 2026 12:55:43 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Yeni adli yıl başlıyor... Tanrıkulu: Yargı, Cumhuriyet tarihinin en ağır güven krizini yaşıyor</description>
-    </item>
-    <item>
-      <title>Halk TV: CHP kurultay davasında flaş karar! 8 kişi hakkında tahliye kararı verildi! Tek tutuklu o isim kaldı!</title>
-      <link>https://www.youtube.com/watch?v=pFXGm0icd3E</link>
-      <guid isPermaLink="false">pFXGm0icd3E</guid>
-      <pubDate>Tue, 01 Sep 2026 12:45:34 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: CHP kurultay davasında flaş karar! 8 kişi hakkında tahliye kararı verildi! Tek tutuklu o isim kaldı!</description>
-    </item>
-    <item>
-      <title>Halk TV: DEMEDİĞİNİ BIRAKMADI! Mustafa Balbay'dan Melih Gökçek'in ipliğini pazara çıkaracak sözler! Olay olur</title>
-      <link>https://www.youtube.com/watch?v=uO1gcokOr-Q</link>
-      <guid isPermaLink="false">uO1gcokOr-Q</guid>
-      <pubDate>Tue, 01 Sep 2026 12:30:25 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: DEMEDİĞİNİ BIRAKMADI! Mustafa Balbay'dan Melih Gökçek'in ipliğini pazara çıkaracak sözler! Olay olur</description>
     </item>
   </channel>
 </rss>
