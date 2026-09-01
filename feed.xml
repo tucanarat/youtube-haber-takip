@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 11:20:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 11:25:29 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Kapıkule sınırında yakalanan Arif Kocabıyık 'Anamur'a gidecektim' dedi!</title>
+      <link>https://www.youtube.com/shorts/nOhpNyD2Tpc</link>
+      <guid isPermaLink="false">nOhpNyD2Tpc</guid>
+      <pubDate>Tue, 01 Sep 2026 11:20:28 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Kapıkule sınırında yakalanan Arif Kocabıyık 'Anamur'a gidecektim' dedi!</description>
+    </item>
+    <item>
+      <title>Halk TV: TCG Işın Gemisi Komutanı Deniz Binbaşı Ulaş Cesur: Batığı tespit edip 500 metrede arama yapacağız!</title>
+      <link>https://www.youtube.com/shorts/sauGNw9fXeI</link>
+      <guid isPermaLink="false">sauGNw9fXeI</guid>
+      <pubDate>Tue, 01 Sep 2026 11:20:27 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: TCG Işın Gemisi Komutanı Deniz Binbaşı Ulaş Cesur: Batığı tespit edip 500 metrede arama yapacağız!</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI 2026 - 2027 Adli Yılı açılış töreni</title>
       <link>https://www.youtube.com/watch?v=W9AHkGe5RWU</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">9UiMl-kIHrc</guid>
       <pubDate>Tue, 01 Sep 2026 09:00:00 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Girne'de 514 Metrelik Sır! Batan Gemide Kara Kutu Gelişmesi! Tüm Cevaplar O Cihazda</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: YENİ Parti Sözcüsü Zeynel Emre YENİ Parti Genel Merkezi’nde basın açıklaması yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=cgjSREMDyiY</link>
-      <guid isPermaLink="false">cgjSREMDyiY</guid>
-      <pubDate>Tue, 01 Sep 2026 08:48:11 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Sözcüsü Zeynel Emre YENİ Parti Genel Merkezi’nde basın açıklaması yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: Ekrem İmamoğlu'nun kitabı basım aşamasındayken yasaklandı! “Savunmamı millet dinler!”</title>
-      <link>https://www.youtube.com/watch?v=yjJtdqcysHY</link>
-      <guid isPermaLink="false">yjJtdqcysHY</guid>
-      <pubDate>Tue, 01 Sep 2026 08:45:37 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ekrem İmamoğlu'nun kitabı basım aşamasındayken yasaklandı! “Savunmamı millet dinler!”</description>
     </item>
   </channel>
 </rss>
