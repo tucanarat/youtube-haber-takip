@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 19:55:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 20:00:49 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: TBB Başkanı Erinç Sağkan'dan Akın Gürlek'i kızdıran açılış konuşması!</title>
+      <link>https://www.youtube.com/watch?v=jmB_LWbeamg</link>
+      <guid isPermaLink="false">jmB_LWbeamg</guid>
+      <pubDate>Tue, 01 Sep 2026 20:00:06 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: TBB Başkanı Erinç Sağkan'dan Akın Gürlek'i kızdıran açılış konuşması!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Ortadoğu'da Kızılca Kıyamet! Devrim Muhafızları'ndan Peş Peşe Misilleme! Trump Çıldıracak</title>
+      <link>https://www.youtube.com/watch?v=IQUtPVxGSmY</link>
+      <guid isPermaLink="false">IQUtPVxGSmY</guid>
+      <pubDate>Tue, 01 Sep 2026 19:50:17 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Ortadoğu'da Kızılca Kıyamet! Devrim Muhafızları'ndan Peş Peşe Misilleme! Trump Çıldıracak</description>
+    </item>
     <item>
       <title>Halk TV: KARANFİL DAĞITIMINA POLİS ENGELİ! İBB zabıtasının yıl dönümü kutlamasında gerilim</title>
       <link>https://www.youtube.com/watch?v=W00w8ZwTxak</link>
@@ -225,13 +239,6 @@
       <description>SÖZCÜ TV kanalından yeni video: Altın Tepetaklak! ABD'de Panik Türkiye'de Kriz! Petrolde Rekor Zirve! Gözler Hürmüz Boğazında</description>
     </item>
     <item>
-      <title>Tele2 Haber: TBB Başkanı Erinç Sağkan'dan Akın Gürlek'i kızdıran açılış konuşması!</title>
-      <link>https://www.youtube.com/watch?v=jmB_LWbeamg</link>
-      <guid isPermaLink="false">jmB_LWbeamg</guid>
-      <pubDate>Tue, 01 Sep 2026 17:03:46 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: TBB Başkanı Erinç Sağkan'dan Akın Gürlek'i kızdıran açılış konuşması!</description>
-    </item>
-    <item>
       <title>Tele2 Haber: 'MELİH GÖKÇEK SUÇ ÖRGÜTÜ' ŞİKAYETİ! Murat Taylan ile Haber-Yorum (01.09.2026)</title>
       <link>https://www.youtube.com/watch?v=CGLJH3Xj3po</link>
       <guid isPermaLink="false">CGLJH3Xj3po</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">40OvqQz1KWA</guid>
       <pubDate>Tue, 01 Sep 2026 16:10:07 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Kıbrıs'taki Batan Gemi 550 Metre'de Bulundu! Kara Kutu Açılıyor! Özlem Gürses'ten Sert Sözler</description>
-    </item>
-    <item>
-      <title>Halk TV: Casperlar ve Çirkinler çetesi İstanbul'a kâbus gibi çöktü: 580 sayfalık iddianamede neler yok ki!</title>
-      <link>https://www.youtube.com/watch?v=xSyYwmP6DUg</link>
-      <guid isPermaLink="false">xSyYwmP6DUg</guid>
-      <pubDate>Tue, 01 Sep 2026 16:00:34 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Casperlar ve Çirkinler çetesi İstanbul'a kâbus gibi çöktü: 580 sayfalık iddianamede neler yok ki!</description>
     </item>
   </channel>
 </rss>
