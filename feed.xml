@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 18:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 18:05:23 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: HALK TV GİRNE'DEN BİLDİRİYOR! KKTC’de facia sonrası yürek yakan bekleyiş sürüyor!</title>
+      <link>https://www.youtube.com/watch?v=TCUpNlfWPYY</link>
+      <guid isPermaLink="false">TCUpNlfWPYY</guid>
+      <pubDate>Tue, 01 Sep 2026 18:00:35 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: HALK TV GİRNE'DEN BİLDİRİYOR! KKTC’de facia sonrası yürek yakan bekleyiş sürüyor!</description>
+    </item>
+    <item>
+      <title>Halk TV: Gemi kazasında hayatını kaybeden Nisa Türer'in kuzeni: Yüreğimiz yanıyor!</title>
+      <link>https://www.youtube.com/watch?v=3fP5db2PNSA</link>
+      <guid isPermaLink="false">3fP5db2PNSA</guid>
+      <pubDate>Tue, 01 Sep 2026 18:00:07 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Gemi kazasında hayatını kaybeden Nisa Türer'in kuzeni: Yüreğimiz yanıyor!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Melih Gökçek için yeni suç duyurusu: 'Gökçekler suç örgütü' Murat Taylan arka planına işaret etti!</title>
       <link>https://www.youtube.com/watch?v=XQ2Q_sPaMS4</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">cgqbzg4ybMU</guid>
       <pubDate>Tue, 01 Sep 2026 14:59:56 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Gizem Çetin ile Parantez (1 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Damla Doğan Tuncel ile 1 Saat | 1 Eylül</title>
-      <link>https://www.youtube.com/watch?v=JqtM6omeMsk</link>
-      <guid isPermaLink="false">JqtM6omeMsk</guid>
-      <pubDate>Tue, 01 Sep 2026 14:57:52 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Damla Doğan Tuncel ile 1 Saat | 1 Eylül</description>
-    </item>
-    <item>
-      <title>Halk TV: Acılı anne KKTC Cumhurbaşkanına feryat etti!</title>
-      <link>https://www.youtube.com/shorts/IlCJq7rllaQ</link>
-      <guid isPermaLink="false">IlCJq7rllaQ</guid>
-      <pubDate>Tue, 01 Sep 2026 14:52:35 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Acılı anne KKTC Cumhurbaşkanına feryat etti!</description>
     </item>
   </channel>
 </rss>
