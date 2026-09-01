@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 13:00:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 13:05:26 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Sefa Yılmaz'dan çok söz hakkı çıkışı! "Avukatların sözünü keserek..."</title>
+      <link>https://www.youtube.com/watch?v=pW6-lLfFpn0</link>
+      <guid isPermaLink="false">pW6-lLfFpn0</guid>
+      <pubDate>Tue, 01 Sep 2026 13:00:15 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Sefa Yılmaz'dan çok söz hakkı çıkışı! "Avukatların sözünü keserek..."</description>
+    </item>
     <item>
       <title>Halk TV: 'DURUN' ÇIĞLIKLARINA RAĞMEN DAHA DA HIZLANMIŞLAR! Kurtulanlar Halk TV'ye konuştu! Korkunç detaylar!</title>
       <link>https://www.youtube.com/watch?v=UR134wq02kM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">l1cg3hbkuMk</guid>
       <pubDate>Tue, 01 Sep 2026 10:00:46 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Ebru Baki ile Para Siyaset | İbrahim Kahveci (1 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: KATLİAM GİBİ KAZANIN HESABI BÖYLE SORULACAK! İsmail Emre Telci tek tek anlattı! Dinlemeden geçmeyin!</title>
-      <link>https://www.youtube.com/watch?v=oD3vu5XZyh8</link>
-      <guid isPermaLink="false">oD3vu5XZyh8</guid>
-      <pubDate>Tue, 01 Sep 2026 10:00:33 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KATLİAM GİBİ KAZANIN HESABI BÖYLE SORULACAK! İsmail Emre Telci tek tek anlattı! Dinlemeden geçmeyin!</description>
     </item>
   </channel>
 </rss>
