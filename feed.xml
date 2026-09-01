@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 13:10:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 13:15:36 +0000</lastBuildDate>
     <item>
       <title>Cumhuriyet: İbrahim Kaboğlu Şükran Soner'i andı...</title>
       <link>https://www.youtube.com/shorts/9s0tpNR3VS8</link>
       <guid isPermaLink="false">9s0tpNR3VS8</guid>
       <pubDate>Tue, 01 Sep 2026 13:02:00 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: İbrahim Kaboğlu Şükran Soner'i andı...</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Batan Geminin 25 Yıllık Arıza Geçmişi! Hasarlı Gemi Nasıl Onay Aldı? Uzman İsim Açıkladı!</title>
+      <link>https://www.youtube.com/watch?v=Hzp4pVYL5R4</link>
+      <guid isPermaLink="false">Hzp4pVYL5R4</guid>
+      <pubDate>Tue, 01 Sep 2026 13:00:28 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Batan Geminin 25 Yıllık Arıza Geçmişi! Hasarlı Gemi Nasıl Onay Aldı? Uzman İsim Açıkladı!</description>
     </item>
     <item>
       <title>Tele2 Haber: Sefa Yılmaz'dan çok söz hakkı çıkışı! "Avukatların sözünü keserek..."</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">jqtjzI4V1jo</guid>
       <pubDate>Tue, 01 Sep 2026 10:09:33 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: ABB avukatı Nadi Türkaslan, eski ABB Başkanı Melih Gökçek ve ailesi hakkında suç duyurusunda bulundu</description>
-    </item>
-    <item>
-      <title>Halk TV: ABB Avukatı Nadi Türkaslan, Melih Gökçek ve Ailesi Hakkında Suç Duyurusunda Bulundu</title>
-      <link>https://www.youtube.com/watch?v=r9L666J6RE8</link>
-      <guid isPermaLink="false">r9L666J6RE8</guid>
-      <pubDate>Tue, 01 Sep 2026 10:08:38 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ABB Avukatı Nadi Türkaslan, Melih Gökçek ve Ailesi Hakkında Suç Duyurusunda Bulundu</description>
     </item>
   </channel>
 </rss>
