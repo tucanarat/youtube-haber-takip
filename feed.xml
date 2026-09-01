@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 20:45:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 20:50:42 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: İmamoğlu'nun kitabı mahkeme kararı olmadan toplatılmış! Zeynel Emre: BÖYLE GAYRİCİDDİLİK OLMAZ!</title>
+      <link>https://www.youtube.com/watch?v=MI8Q3NJmMEg</link>
+      <guid isPermaLink="false">MI8Q3NJmMEg</guid>
+      <pubDate>Tue, 01 Sep 2026 20:45:30 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İmamoğlu'nun kitabı mahkeme kararı olmadan toplatılmış! Zeynel Emre: BÖYLE GAYRİCİDDİLİK OLMAZ!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Diyarbakır Barosu, 2026-2027 Adli Yılı'nın başlaması dolayısıyla adliye önünde açıklama yapıyor</title>
       <link>https://www.youtube.com/watch?v=sM3DHrYB3To</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">8v4SoPRCZpY</guid>
       <pubDate>Tue, 01 Sep 2026 16:33:52 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: MURAT TAYLAN'DAN AKIN GÜRLEK'E 'ADALET' HATTI TEPKİSİ!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Deniz Göktaş'a cezaevinden çıkmadan 3. tutuklama! Murat Taylan Dalton sözlerini tekrar izletti!</title>
-      <link>https://www.youtube.com/watch?v=pqI6qMuHLic</link>
-      <guid isPermaLink="false">pqI6qMuHLic</guid>
-      <pubDate>Tue, 01 Sep 2026 16:30:28 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Deniz Göktaş'a cezaevinden çıkmadan 3. tutuklama! Murat Taylan Dalton sözlerini tekrar izletti!</description>
     </item>
   </channel>
 </rss>
