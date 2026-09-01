@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 19:25:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 19:30:42 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: Tuncer Bakırhan, 1 Eylül Dünya Barış Günü kapsamında açıklama yapıyor / İstanbul #Canlı</title>
       <link>https://www.youtube.com/watch?v=T1UldIdK4y0</link>
       <guid isPermaLink="false">T1UldIdK4y0</guid>
       <pubDate>Tue, 01 Sep 2026 19:20:20 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Tuncer Bakırhan, 1 Eylül Dünya Barış Günü kapsamında açıklama yapıyor / İstanbul #Canlı</description>
+    </item>
+    <item>
+      <title>Halk TV: SÜLEYMANCILAR DOSYASINDA KRİTİK GELİŞME! Eski İçişleri Bakanı İdris Naim Şahin serbest bırakıldı!</title>
+      <link>https://www.youtube.com/watch?v=l_Kabah24rs</link>
+      <guid isPermaLink="false">l_Kabah24rs</guid>
+      <pubDate>Tue, 01 Sep 2026 19:15:03 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SÜLEYMANCILAR DOSYASINDA KRİTİK GELİŞME! Eski İçişleri Bakanı İdris Naim Şahin serbest bırakıldı!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: İran, ABD Üslerini Füzelerle Vurdu! Trump ve Pentagon Bunu Beklemiyordu! Cehennem Kapıları Açıldı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">tXpJ2UuPI_k</guid>
       <pubDate>Tue, 01 Sep 2026 15:37:53 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Beşiktaş İlçe Başkanlığı açılış töreni / İstanbul #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: Girne'deki faciada hayatını kaybedenlerin sayısı açıklanandan fazla mı? O isim şok iddiayı açıkladı!</title>
-      <link>https://www.youtube.com/watch?v=ur0v4rqOJEU</link>
-      <guid isPermaLink="false">ur0v4rqOJEU</guid>
-      <pubDate>Tue, 01 Sep 2026 15:35:05 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Girne'deki faciada hayatını kaybedenlerin sayısı açıklanandan fazla mı? O isim şok iddiayı açıkladı!</description>
     </item>
   </channel>
 </rss>
