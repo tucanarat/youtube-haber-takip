@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 11:25:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 11:30:44 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Melih Gökçek hakkında suç duyurusu! "Belediyenin başkalarına giden varlıklarına sahip çıkıyoruz"</title>
+      <link>https://www.youtube.com/watch?v=zIM4-um51ps</link>
+      <guid isPermaLink="false">zIM4-um51ps</guid>
+      <pubDate>Tue, 01 Sep 2026 11:29:24 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Melih Gökçek hakkında suç duyurusu! "Belediyenin başkalarına giden varlıklarına sahip çıkıyoruz"</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: #CANLI 2026-2027 adli yılı başlıyor... Açılış töreninden canlı yayın…</title>
+      <link>https://www.youtube.com/watch?v=1P2rl8dJStY</link>
+      <guid isPermaLink="false">1P2rl8dJStY</guid>
+      <pubDate>Tue, 01 Sep 2026 11:27:30 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI 2026-2027 adli yılı başlıyor... Açılış töreninden canlı yayın…</description>
+    </item>
     <item>
       <title>Halk TV: Kapıkule sınırında yakalanan Arif Kocabıyık 'Anamur'a gidecektim' dedi!</title>
       <link>https://www.youtube.com/shorts/nOhpNyD2Tpc</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">1xhjtr_5sqA</guid>
       <pubDate>Tue, 01 Sep 2026 09:00:44 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Deniz Göktaş Serbest Bırakılıp Yeniden Tutuklanmıştı Kabaoğlu Tepki Gösterdi! "Keyfiliğin Teyidi!</description>
-    </item>
-    <item>
-      <title>Halk TV: Okula dönüşün ağır faturası: Kırtasiye masrafı 2.500 TL'yi buldu, çanta alamayan öğrenciler var!</title>
-      <link>https://www.youtube.com/watch?v=aK3GMteAo1Y</link>
-      <guid isPermaLink="false">aK3GMteAo1Y</guid>
-      <pubDate>Tue, 01 Sep 2026 09:00:07 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Okula dönüşün ağır faturası: Kırtasiye masrafı 2.500 TL'yi buldu, çanta alamayan öğrenciler var!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Girne'de 514 Metrelik Sır! Batan Gemide Kara Kutu Gelişmesi! Tüm Cevaplar O Cihazda</title>
-      <link>https://www.youtube.com/watch?v=9UiMl-kIHrc</link>
-      <guid isPermaLink="false">9UiMl-kIHrc</guid>
-      <pubDate>Tue, 01 Sep 2026 09:00:00 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Girne'de 514 Metrelik Sır! Batan Gemide Kara Kutu Gelişmesi! Tüm Cevaplar O Cihazda</description>
     </item>
   </channel>
 </rss>
