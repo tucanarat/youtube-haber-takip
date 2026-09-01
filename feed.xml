@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 17:05:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 17:10:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | DEM Parti Eş Genel Başkanı Bakırhan, 1 Eylül Dünya Barış Günükapsamında açıklama yapıyor</title>
+      <link>https://www.youtube.com/watch?v=ZYsgsUVvdps</link>
+      <guid isPermaLink="false">ZYsgsUVvdps</guid>
+      <pubDate>Tue, 01 Sep 2026 17:05:08 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | DEM Parti Eş Genel Başkanı Bakırhan, 1 Eylül Dünya Barış Günükapsamında açıklama yapıyor</description>
+    </item>
     <item>
       <title>Tele2 Haber: MELİH GÖKÇEK SUÇ ÖRGÜTÜ ŞİKAYETİ! Murat Taylan ile Haber-Yorum (01.09.2026)</title>
       <link>https://www.youtube.com/watch?v=CGLJH3Xj3po</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">t0qjg7IxKps</guid>
       <pubDate>Tue, 01 Sep 2026 14:00:35 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Aliyev'den Pezeşkiyan'ı Kahkahaya Boğan Su Şakası! "Bir Azerbaycan Suyundan da İçin"</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Akın Gürlek'e Ersöz'den Çarpıcı İmamoğlu Yanıtı! "Siyasetçiler Bu Tür Polemiklere Girer!"</title>
-      <link>https://www.youtube.com/watch?v=kmA1TYel1l8</link>
-      <guid isPermaLink="false">kmA1TYel1l8</guid>
-      <pubDate>Tue, 01 Sep 2026 14:00:34 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Akın Gürlek'e Ersöz'den Çarpıcı İmamoğlu Yanıtı! "Siyasetçiler Bu Tür Polemiklere Girer!"</description>
     </item>
   </channel>
 </rss>
