@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 07:40:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 07:45:31 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Av yasağı kalktı! Nuri Aslan: Haydi rastgele, vira bismillah</title>
+      <link>https://www.youtube.com/watch?v=c9gag__CnDM</link>
+      <guid isPermaLink="false">c9gag__CnDM</guid>
+      <pubDate>Tue, 01 Sep 2026 07:31:24 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Av yasağı kalktı! Nuri Aslan: Haydi rastgele, vira bismillah</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Melih Gökçek O İddiayı Kabul Etti! Murat Ağırel Bombayı Patlattı! 'Soruşturma Büyüyecek'</title>
+      <link>https://www.youtube.com/watch?v=Ni4mHosIfqc</link>
+      <guid isPermaLink="false">Ni4mHosIfqc</guid>
+      <pubDate>Tue, 01 Sep 2026 07:30:20 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Melih Gökçek O İddiayı Kabul Etti! Murat Ağırel Bombayı Patlattı! 'Soruşturma Büyüyecek'</description>
+    </item>
     <item>
       <title>Halk TV: Girne'de Alabora Olan Yolcu Gemisinin Arama Kurtarma Çalışmaları Devam Ediyor</title>
       <link>https://www.youtube.com/watch?v=-_mJcAxPq90</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">4L22jfMD96M</guid>
       <pubDate>Mon, 31 Aug 2026 21:15:17 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Parti Lideri Özgür Özel, temel hedefinin partisini birinci parti yapmak olduğunu vurguladı!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "15-20 BİNİ GEÇER Mİ ŞÜPHELİYİM!" Hilmi Hacaloğlu 'SAVUNMA' kitabı için kritik noktaya dikkat çekti!</title>
-      <link>https://www.youtube.com/watch?v=o7-575Vr0jg</link>
-      <guid isPermaLink="false">o7-575Vr0jg</guid>
-      <pubDate>Mon, 31 Aug 2026 21:15:07 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "15-20 BİNİ GEÇER Mİ ŞÜPHELİYİM!" Hilmi Hacaloğlu 'SAVUNMA' kitabı için kritik noktaya dikkat çekti!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Kıbrıs Açıklarında Can Pazarı! 7 Yıllık Çürük Gemi! Kaptan Kaçtı! Yolcuların Şikayetleri Gizlendi</title>
-      <link>https://www.youtube.com/watch?v=nswR531Kmpg</link>
-      <guid isPermaLink="false">nswR531Kmpg</guid>
-      <pubDate>Mon, 31 Aug 2026 21:00:37 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Kıbrıs Açıklarında Can Pazarı! 7 Yıllık Çürük Gemi! Kaptan Kaçtı! Yolcuların Şikayetleri Gizlendi</description>
     </item>
   </channel>
 </rss>
