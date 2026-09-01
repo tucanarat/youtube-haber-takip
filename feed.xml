@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 20:40:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 20:45:32 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Diyarbakır Barosu, 2026-2027 Adli Yılı'nın başlaması dolayısıyla adliye önünde açıklama yapıyor</title>
+      <link>https://www.youtube.com/watch?v=sM3DHrYB3To</link>
+      <guid isPermaLink="false">sM3DHrYB3To</guid>
+      <pubDate>Tue, 01 Sep 2026 20:42:16 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Diyarbakır Barosu, 2026-2027 Adli Yılı'nın başlaması dolayısıyla adliye önünde açıklama yapıyor</description>
+    </item>
     <item>
       <title>Halk TV: “ADALETİ BEKLEME SIRASINA GİRDİK!” Depremde yakınlarını kaybeden avukattan isyan!</title>
       <link>https://www.youtube.com/watch?v=_U5JdeQVbEU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">pqI6qMuHLic</guid>
       <pubDate>Tue, 01 Sep 2026 16:30:28 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Deniz Göktaş'a cezaevinden çıkmadan 3. tutuklama! Murat Taylan Dalton sözlerini tekrar izletti!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Dokunan Yanar Devri Bitti! Melih Gökçek ve Ailesine Suç Örgütü Davası! Özlem Gürses Deşifre Etti</title>
-      <link>https://www.youtube.com/watch?v=8iQ2oClUs_M</link>
-      <guid isPermaLink="false">8iQ2oClUs_M</guid>
-      <pubDate>Tue, 01 Sep 2026 16:30:27 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Dokunan Yanar Devri Bitti! Melih Gökçek ve Ailesine Suç Örgütü Davası! Özlem Gürses Deşifre Etti</description>
     </item>
   </channel>
 </rss>
