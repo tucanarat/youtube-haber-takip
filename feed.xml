@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 12:45:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 12:50:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: CHP kurultay davasında flaş karar! 8 kişi hakkında tahliye kararı verildi! Tek tutuklu o isim kaldı!</title>
+      <link>https://www.youtube.com/watch?v=pFXGm0icd3E</link>
+      <guid isPermaLink="false">pFXGm0icd3E</guid>
+      <pubDate>Tue, 01 Sep 2026 12:45:34 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: CHP kurultay davasında flaş karar! 8 kişi hakkında tahliye kararı verildi! Tek tutuklu o isim kaldı!</description>
+    </item>
     <item>
       <title>Halk TV: DEMEDİĞİNİ BIRAKMADI! Mustafa Balbay'dan Melih Gökçek'in ipliğini pazara çıkaracak sözler! Olay olur</title>
       <link>https://www.youtube.com/watch?v=uO1gcokOr-Q</link>
@@ -27,6 +34,13 @@
       <guid isPermaLink="false">GqNa4NGdUB0</guid>
       <pubDate>Tue, 01 Sep 2026 12:26:32 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Manisa’da mahalleliyi isyan ettiren kokunun kaynağı belli oldu: Apartmandakilerden 'çöp ev' tepkisi</description>
+    </item>
+    <item>
+      <title>Halk TV: 'DURUN' ÇIĞLIKLARINA RAĞMEN DAHA DA HIZLANMIŞLAR! Kurtulanlar Halk TV'ye konuştu! Korkunç detaylar!</title>
+      <link>https://www.youtube.com/watch?v=UR134wq02kM</link>
+      <guid isPermaLink="false">UR134wq02kM</guid>
+      <pubDate>Tue, 01 Sep 2026 12:18:08 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: 'DURUN' ÇIĞLIKLARINA RAĞMEN DAHA DA HIZLANMIŞLAR! Kurtulanlar Halk TV'ye konuştu! Korkunç detaylar!</description>
     </item>
     <item>
       <title>Halk TV: SÖZLERİ ÇOK KONUŞULDU! Resul Emrah Şahan: Barışı demokrasiye dönüştürmek hakiki cesaret ister!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">1jbDZwFomt4</guid>
       <pubDate>Tue, 01 Sep 2026 09:56:10 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Can Coşkun ile Gündem Masası | 1 Eylül</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Girne Gemi Faciası 3. Gününde | 3 Bin GT'lik kaptanlık belgesi var ama... HSC Type Rating nerede?</title>
-      <link>https://www.youtube.com/watch?v=Ja_I8Dp_hV0</link>
-      <guid isPermaLink="false">Ja_I8Dp_hV0</guid>
-      <pubDate>Tue, 01 Sep 2026 09:54:41 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Girne Gemi Faciası 3. Gününde | 3 Bin GT'lik kaptanlık belgesi var ama... HSC Type Rating nerede?</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Kaş’taki orman yangınının acı bilançosu: Yanan alanlar böyle görüntülendi</title>
-      <link>https://www.youtube.com/shorts/UH_RdJ4vcm0</link>
-      <guid isPermaLink="false">UH_RdJ4vcm0</guid>
-      <pubDate>Tue, 01 Sep 2026 09:53:12 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Kaş’taki orman yangınının acı bilançosu: Yanan alanlar böyle görüntülendi</description>
     </item>
   </channel>
 </rss>
