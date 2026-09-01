@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 11:45:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 11:50:36 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI Mansur Yavaş’tan Gökçekler için suç duyurusu I İBB Davası’nda son durum! | Manşet Ötesi</title>
+      <link>https://www.youtube.com/watch?v=-qZgiN7eikI</link>
+      <guid isPermaLink="false">-qZgiN7eikI</guid>
+      <pubDate>Tue, 01 Sep 2026 11:46:32 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Mansur Yavaş’tan Gökçekler için suç duyurusu I İBB Davası’nda son durum! | Manşet Ötesi</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Milli sporcuya vicdansız tuzak: Görme engelli haltercinin 800 bin lirasını çarptılar</title>
+      <link>https://www.youtube.com/shorts/udPlcWFfRFY</link>
+      <guid isPermaLink="false">udPlcWFfRFY</guid>
+      <pubDate>Tue, 01 Sep 2026 11:43:05 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Milli sporcuya vicdansız tuzak: Görme engelli haltercinin 800 bin lirasını çarptılar</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: "HER ŞEY OLUR!" Özgür Özel Yeni İttifak mı Kuracak? Erdoğan'ı Tedirgin Edecek Hamle!</title>
       <link>https://www.youtube.com/watch?v=CDk0ZmitV7o</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">Y5uI-aryZEA</guid>
       <pubDate>Tue, 01 Sep 2026 09:16:25 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Cumhurbaşkanı Erdoğan, Şanghay İşbirliği Örgütü Devlet Başkanları Zirvesi'nde konuşuyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: ABD'nin İsrail Büyükelçisinden şok açıklama: İsrail'in saldırısı Ankara'ya uyarıydı!</title>
-      <link>https://www.youtube.com/watch?v=rtIk2LTHDU4</link>
-      <guid isPermaLink="false">rtIk2LTHDU4</guid>
-      <pubDate>Tue, 01 Sep 2026 09:15:34 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ABD'nin İsrail Büyükelçisinden şok açıklama: İsrail'in saldırısı Ankara'ya uyarıydı!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: #CANLI YENİ Parti Sözcüsü Zeynel Emre'den flaş açıklamalar</title>
-      <link>https://www.youtube.com/watch?v=AerLhcp1hZI</link>
-      <guid isPermaLink="false">AerLhcp1hZI</guid>
-      <pubDate>Tue, 01 Sep 2026 09:04:57 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI YENİ Parti Sözcüsü Zeynel Emre'den flaş açıklamalar</description>
     </item>
   </channel>
 </rss>
