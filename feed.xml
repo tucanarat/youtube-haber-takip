@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 08:10:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 08:15:30 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: CHP Grup Başkanvekili Rahmi Aşkın Türeli TBMM'de açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=lr8pkP5OXkg</link>
+      <guid isPermaLink="false">lr8pkP5OXkg</guid>
+      <pubDate>Tue, 01 Sep 2026 08:10:35 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: CHP Grup Başkanvekili Rahmi Aşkın Türeli TBMM'de açıklama yapıyor #Canlı</description>
+    </item>
     <item>
       <title>Cumhuriyet: YENİ Parti ile CHP arasında 'telefon' polemiği! Güç: AKP ile beraber yaptığınız her şeyi görüyoruz</title>
       <link>https://www.youtube.com/watch?v=OUUBurSWv9g</link>
       <guid isPermaLink="false">OUUBurSWv9g</guid>
       <pubDate>Tue, 01 Sep 2026 08:08:08 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: YENİ Parti ile CHP arasında 'telefon' polemiği! Güç: AKP ile beraber yaptığınız her şeyi görüyoruz</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: İstanbul Barosu yeni adli yıl başlarken "Adalet Bildirisi"ni açıklıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=W2V1XA5rGro</link>
+      <guid isPermaLink="false">W2V1XA5rGro</guid>
+      <pubDate>Tue, 01 Sep 2026 08:05:13 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: İstanbul Barosu yeni adli yıl başlarken "Adalet Bildirisi"ni açıklıyor #Canlı</description>
     </item>
     <item>
       <title>SÖZCÜ TV: İsmail Küçükkaya ile Günaydın Türkiyem | 1 Eylül</title>
@@ -27,6 +41,13 @@
       <guid isPermaLink="false">H92vVhIOBnQ</guid>
       <pubDate>Tue, 01 Sep 2026 08:00:31 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya Ağzının Payını Verdi 'Türkiye Başka Ülkelere Benzemez' Netanyahu'dan Tehdit!</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: Diyarbakır Barosu, 2026-2027 Adli Yılı'nın başlaması dolayısıyla adliye önünde açıklama yapıyor</title>
+      <link>https://www.youtube.com/watch?v=sM3DHrYB3To</link>
+      <guid isPermaLink="false">sM3DHrYB3To</guid>
+      <pubDate>Tue, 01 Sep 2026 08:00:06 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Diyarbakır Barosu, 2026-2027 Adli Yılı'nın başlaması dolayısıyla adliye önünde açıklama yapıyor</description>
     </item>
     <item>
       <title>Cumhuriyet: Yoksulluk hayalleri de çalıyor: Büyüyünce "hiç" olmak isteyen çocukların acı gerçeği...</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">aaQR4mebFlA</guid>
       <pubDate>Mon, 31 Aug 2026 22:02:47 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses ile Sözcü Ana Haber</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Pınar Erbaş ile Gecenin Sözü | 31 Ağustos</title>
-      <link>https://www.youtube.com/watch?v=d5OaRZhEoQ0</link>
-      <guid isPermaLink="false">d5OaRZhEoQ0</guid>
-      <pubDate>Mon, 31 Aug 2026 22:02:40 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Pınar Erbaş ile Gecenin Sözü | 31 Ağustos</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Damla Doğan Tuncel ile 1 Saat</title>
-      <link>https://www.youtube.com/watch?v=JqtM6omeMsk</link>
-      <guid isPermaLink="false">JqtM6omeMsk</guid>
-      <pubDate>Mon, 31 Aug 2026 22:02:10 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Damla Doğan Tuncel ile 1 Saat</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Serap Belovacıklı ile Haber Saati</title>
-      <link>https://www.youtube.com/watch?v=ptktVeHDjE4</link>
-      <guid isPermaLink="false">ptktVeHDjE4</guid>
-      <pubDate>Mon, 31 Aug 2026 22:01:50 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Serap Belovacıklı ile Haber Saati</description>
     </item>
   </channel>
 </rss>
