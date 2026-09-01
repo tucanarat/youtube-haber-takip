@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 12:00:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 12:05:28 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: '2 Evladımı Kaybettim' Kayıp Yakınları Çileden Çıkartan Olay! Acılı Baba Böyle İsyan Etti</title>
+      <link>https://www.youtube.com/watch?v=3X2a1YMbga8</link>
+      <guid isPermaLink="false">3X2a1YMbga8</guid>
+      <pubDate>Tue, 01 Sep 2026 12:00:35 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: '2 Evladımı Kaybettim' Kayıp Yakınları Çileden Çıkartan Olay! Acılı Baba Böyle İsyan Etti</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Senem Toluay Ilgaz ile Öncesi Sonrası | 1 Eylül</title>
       <link>https://www.youtube.com/watch?v=1UDfMuoZTv0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">wK1nD5ojw7Q</guid>
       <pubDate>Tue, 01 Sep 2026 09:30:31 +0000</pubDate>
       <description>Halk TV kanalından yeni video: MELİH GÖKÇEK'İN YALANI ÇABUK ÇÖKTÜ: Daire alıp Alman vatandaşı olmak mümkün değil!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Özgür Özel Öyle Bir Muharrem İnce Açıklaması Yaptı ki! İsmail Küçükkaya O Sözleri Anlattı</title>
-      <link>https://www.youtube.com/watch?v=wNaF2_uExuw</link>
-      <guid isPermaLink="false">wNaF2_uExuw</guid>
-      <pubDate>Tue, 01 Sep 2026 09:30:18 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Özgür Özel Öyle Bir Muharrem İnce Açıklaması Yaptı ki! İsmail Küçükkaya O Sözleri Anlattı</description>
     </item>
   </channel>
 </rss>
