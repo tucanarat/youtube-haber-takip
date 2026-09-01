@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 09:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 09:20:29 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Odunpazarı Belediye Başkanı'ndan dikkat çeken 'YENİ Parti' açıklaması...</title>
+      <link>https://www.youtube.com/watch?v=oo4kCs_Biec</link>
+      <guid isPermaLink="false">oo4kCs_Biec</guid>
+      <pubDate>Tue, 01 Sep 2026 09:16:59 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Odunpazarı Belediye Başkanı'ndan dikkat çeken 'YENİ Parti' açıklaması...</description>
+    </item>
     <item>
       <title>Cumhuriyet: #CANLI YENİ Parti Sözcüsü Zeynel Emre'den flaş açıklamalar</title>
       <link>https://www.youtube.com/watch?v=AerLhcp1hZI</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">_APCl2oZV1s</guid>
       <pubDate>Tue, 01 Sep 2026 05:36:03 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Pınar Erbaş ile Gecenin Sözü</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İpek Özbey ile Karşı Karşıya | Erol Mütercimler &amp; Nevzat Çiçek</title>
-      <link>https://www.youtube.com/watch?v=8KTmcV9drkM</link>
-      <guid isPermaLink="false">8KTmcV9drkM</guid>
-      <pubDate>Tue, 01 Sep 2026 05:35:00 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İpek Özbey ile Karşı Karşıya | Erol Mütercimler &amp; Nevzat Çiçek</description>
     </item>
   </channel>
 </rss>
