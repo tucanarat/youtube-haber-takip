@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 10:45:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 10:50:32 +0000</lastBuildDate>
     <item>
       <title>Cumhuriyet: Mustafa Balbay anlattı: İşte iktidarın 'Anayasa' planı...</title>
       <link>https://www.youtube.com/watch?v=s7SwpYZ99FY</link>
@@ -34,6 +34,13 @@
       <guid isPermaLink="false">5AkBfyIKrkQ</guid>
       <pubDate>Tue, 01 Sep 2026 10:30:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Afşin Hatipoğlu İsyan Etti | İmamoğlu'na Tuzak, Gökçek'in Almanya Sırrı, Mansur Yavaş'a Operasyon</description>
+    </item>
+    <item>
+      <title>Halk TV: O İSİMLERE TAHLİYE KARARI ÇIKABİLİR! İsmail Emre Telci, İBB davasıyla ilgili bomba bilgiler açıkladı</title>
+      <link>https://www.youtube.com/watch?v=QPaELEWXgC4</link>
+      <guid isPermaLink="false">QPaELEWXgC4</guid>
+      <pubDate>Tue, 01 Sep 2026 10:30:00 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: O İSİMLERE TAHLİYE KARARI ÇIKABİLİR! İsmail Emre Telci, İBB davasıyla ilgili bomba bilgiler açıkladı</description>
     </item>
     <item>
       <title>Tele2 Haber: Melih Gökçek ve Ailesi Hakkında ABB'den Suç Duyurusu! Çok Çarpıcı "Suç Örgütü" Vurgusu!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">lr8pkP5OXkg</guid>
       <pubDate>Tue, 01 Sep 2026 08:10:35 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: CHP Grup Başkanvekili Rahmi Aşkın Türeli TBMM'de açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: YENİ Parti ile CHP arasında 'telefon' polemiği! Güç: AKP ile beraber yaptığınız her şeyi görüyoruz</title>
-      <link>https://www.youtube.com/watch?v=OUUBurSWv9g</link>
-      <guid isPermaLink="false">OUUBurSWv9g</guid>
-      <pubDate>Tue, 01 Sep 2026 08:08:08 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: YENİ Parti ile CHP arasında 'telefon' polemiği! Güç: AKP ile beraber yaptığınız her şeyi görüyoruz</description>
     </item>
   </channel>
 </rss>
