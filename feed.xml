@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 09:35:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 09:40:32 +0000</lastBuildDate>
     <item>
       <title>Halk TV: YENİ Parti Sözcüsü Zeynel Emre, Genel Merkez'de Basın Açıklaması Yaptı (1 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=j4szw_AG3A8</link>
@@ -15,11 +15,32 @@
       <description>Halk TV kanalından yeni video: YENİ Parti Sözcüsü Zeynel Emre, Genel Merkez'de Basın Açıklaması Yaptı (1 Eylül 2026)</description>
     </item>
     <item>
+      <title>Cumhuriyet: Umut Akdoğan Sincan Cezaevi'nde: Gökçek ailesine bile adalet dilerim</title>
+      <link>https://www.youtube.com/shorts/FuD8bXqklpk</link>
+      <guid isPermaLink="false">FuD8bXqklpk</guid>
+      <pubDate>Tue, 01 Sep 2026 09:32:44 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Umut Akdoğan Sincan Cezaevi'nde: Gökçek ailesine bile adalet dilerim</description>
+    </item>
+    <item>
       <title>Halk TV: MELİH GÖKÇEK'İN YALANI ÇABUK ÇÖKTÜ: Daire alıp Alman vatandaşı olmak mümkün değil!</title>
       <link>https://www.youtube.com/watch?v=wK1nD5ojw7Q</link>
       <guid isPermaLink="false">wK1nD5ojw7Q</guid>
       <pubDate>Tue, 01 Sep 2026 09:30:31 +0000</pubDate>
       <description>Halk TV kanalından yeni video: MELİH GÖKÇEK'İN YALANI ÇABUK ÇÖKTÜ: Daire alıp Alman vatandaşı olmak mümkün değil!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Özgür Özel Öyle Bir Muharrem İnce Açıklaması Yaptı ki! İsmail Küçükkaya O Sözleri Anlattı</title>
+      <link>https://www.youtube.com/watch?v=wNaF2_uExuw</link>
+      <guid isPermaLink="false">wNaF2_uExuw</guid>
+      <pubDate>Tue, 01 Sep 2026 09:30:18 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Özgür Özel Öyle Bir Muharrem İnce Açıklaması Yaptı ki! İsmail Küçükkaya O Sözleri Anlattı</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: İthal soğan yurttaşı isyan ettirdi! "BİZİM TARLAMIZ, KÖYLÜMÜZ YOK MU?"</title>
+      <link>https://www.youtube.com/watch?v=QyF5oPtwvDM</link>
+      <guid isPermaLink="false">QyF5oPtwvDM</guid>
+      <pubDate>Tue, 01 Sep 2026 09:27:24 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: İthal soğan yurttaşı isyan ettirdi! "BİZİM TARLAMIZ, KÖYLÜMÜZ YOK MU?"</description>
     </item>
     <item>
       <title>Cumhuriyet: Çarşı pazarda ithal soğana tepki: "Bizim tarlamız, köylümüz yok mu?"</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">MyeWPp-rNwU</guid>
       <pubDate>Tue, 01 Sep 2026 07:00:17 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BUTLAN CHP'SİNE ŞOK! Özgür Özel bu sözlerle yerden yere vurdu! Kılıçdaroğlu bununla baş edemez!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Girne'deki Gemi Faciasında Şok İfade! Geminin Ön Bölümü Böyle Kopmuş! 514 Metre Derinlikteki Sır</title>
-      <link>https://www.youtube.com/watch?v=e0JeqVx03RA</link>
-      <guid isPermaLink="false">e0JeqVx03RA</guid>
-      <pubDate>Tue, 01 Sep 2026 07:00:16 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Girne'deki Gemi Faciasında Şok İfade! Geminin Ön Bölümü Böyle Kopmuş! 514 Metre Derinlikteki Sır</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Murat Taylan ile Haber-Yorum (01.09.2026)</title>
-      <link>https://www.youtube.com/watch?v=CGLJH3Xj3po</link>
-      <guid isPermaLink="false">CGLJH3Xj3po</guid>
-      <pubDate>Tue, 01 Sep 2026 06:59:54 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Murat Taylan ile Haber-Yorum (01.09.2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: Gökhan Kayış ile Haberler (1 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=tTotQDtROAg</link>
-      <guid isPermaLink="false">tTotQDtROAg</guid>
-      <pubDate>Tue, 01 Sep 2026 06:56:25 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Gökhan Kayış ile Haberler (1 Eylül 2026)</description>
     </item>
   </channel>
 </rss>
