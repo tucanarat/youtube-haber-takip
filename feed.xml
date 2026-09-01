@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 22:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 22:30:45 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Diyarbakır Kent Koruma ve Dayanışma Platformu, 1 Eylül Dünya Barış Günü dolayısıyla açıklama yapıyor</title>
+      <link>https://www.youtube.com/watch?v=8kECW0Guwsk</link>
+      <guid isPermaLink="false">8kECW0Guwsk</guid>
+      <pubDate>Tue, 01 Sep 2026 22:30:37 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Diyarbakır Kent Koruma ve Dayanışma Platformu, 1 Eylül Dünya Barış Günü dolayısıyla açıklama yapıyor</description>
+    </item>
     <item>
       <title>Halk TV: "HUKUKİ BİR SONUÇ ÇIKMAYACAK..." Bahadır Özgür’den Gökçek soruşturmaları için çarpıcı yorum!</title>
       <link>https://www.youtube.com/watch?v=WyYkVKwo-QA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ppONr3j26ek</guid>
       <pubDate>Tue, 01 Sep 2026 18:30:22 +0000</pubDate>
       <description>Halk TV kanalından yeni video: FLAŞ AÇIKLAMA: "Türkiyenin birinci partisiyiz, iktidara hazırlanıyoruz." Çağatay Güç neler söyledi?</description>
-    </item>
-    <item>
-      <title>Halk TV: VE O KARANLIK PLAN PATLADI! Kılıçdaroğlu'nun bütün foyası meydana çıktı! Afşin Hatipoğlu anlattı!</title>
-      <link>https://www.youtube.com/watch?v=XB2yGYLg4Rs</link>
-      <guid isPermaLink="false">XB2yGYLg4Rs</guid>
-      <pubDate>Tue, 01 Sep 2026 18:17:57 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: VE O KARANLIK PLAN PATLADI! Kılıçdaroğlu'nun bütün foyası meydana çıktı! Afşin Hatipoğlu anlattı!</description>
     </item>
   </channel>
 </rss>
