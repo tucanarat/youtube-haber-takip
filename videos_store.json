@@ -22531,8 +22531,8 @@
     "id": "aaQR4mebFlA",
     "title": "Özlem Gürses ile Sözcü Ana Haber | 1 Eylül",
     "link": "https://www.youtube.com/watch?v=aaQR4mebFlA",
-    "published": "2026-08-31T22:02:47+00:00",
-    "published_ts": 1788213767,
+    "published": "2026-09-01T16:56:54+00:00",
+    "published_ts": 1788281814,
     "channel_name": "SÖZCÜ TV"
   },
   "JqtM6omeMsk": {
@@ -22793,7 +22793,7 @@
   },
   "CGLJH3Xj3po": {
     "id": "CGLJH3Xj3po",
-    "title": "#CANLI Murat Taylan ile Haber-Yorum (01.09.2026)",
+    "title": "MELİH GÖKÇEK SUÇ ÖRGÜTÜ ŞİKAYETİ! Murat Taylan ile Haber-Yorum (01.09.2026)",
     "link": "https://www.youtube.com/watch?v=CGLJH3Xj3po",
     "published": "2026-09-01T06:59:54+00:00",
     "published_ts": 1788245994,
@@ -23835,8 +23835,8 @@
     "id": "wtcHfhRlxy8",
     "title": "Ece Üner ile Halk Ana Haber (1 Eylül 2026)",
     "link": "https://www.youtube.com/watch?v=wtcHfhRlxy8",
-    "published": "2026-09-01T14:09:13+00:00",
-    "published_ts": 1788271753,
+    "published": "2026-09-01T16:58:58+00:00",
+    "published_ts": 1788281938,
     "channel_name": "Halk TV"
   },
   "IlCJq7rllaQ": {
@@ -24062,5 +24062,21 @@
     "published": "2026-09-01T16:54:44+00:00",
     "published_ts": 1788281684,
     "channel_name": "Halk TV"
+  },
+  "k3YBWxcioHA": {
+    "id": "k3YBWxcioHA",
+    "title": "Tülay Hatimoğulları, 1 Eylül Dünya Barış Günü kapsamında açıklama yapıyor / Diyarbakır #Canlı",
+    "link": "https://www.youtube.com/watch?v=k3YBWxcioHA",
+    "published": "2026-09-01T16:49:53+00:00",
+    "published_ts": 1788281393,
+    "channel_name": "ANKA Haber Ajansı"
+  },
+  "T1UldIdK4y0": {
+    "id": "T1UldIdK4y0",
+    "title": "Tuncer Bakırhan, 1 Eylül Dünya Barış Günü kapsamında açıklama yapıyor / İstanbul #Canlı",
+    "link": "https://www.youtube.com/watch?v=T1UldIdK4y0",
+    "published": "2026-09-01T16:55:10+00:00",
+    "published_ts": 1788281710,
+    "channel_name": "ANKA Haber Ajansı"
   }
 }
