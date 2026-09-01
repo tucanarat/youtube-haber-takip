@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 08:20:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 08:25:25 +0000</lastBuildDate>
     <item>
       <title>Halk TV: Amedspor’un Trabzonspor’u 2-1 mağlup etmesinin ardından galibiyet coşkusu gece boyunca sürdü!</title>
       <link>https://www.youtube.com/shorts/xYufQeKoSfc</link>
       <guid isPermaLink="false">xYufQeKoSfc</guid>
       <pubDate>Tue, 01 Sep 2026 08:18:59 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Amedspor’un Trabzonspor’u 2-1 mağlup etmesinin ardından galibiyet coşkusu gece boyunca sürdü!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #CANLI İstanbul Barosu yeni adli yıl başlarken "Adalet Bildirisi"ni açıklıyor</title>
+      <link>https://www.youtube.com/watch?v=wuOxjsoFPtU</link>
+      <guid isPermaLink="false">wuOxjsoFPtU</guid>
+      <pubDate>Tue, 01 Sep 2026 08:15:43 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI İstanbul Barosu yeni adli yıl başlarken "Adalet Bildirisi"ni açıklıyor</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: CHP Grup Başkanvekili Rahmi Aşkın Türeli TBMM'de açıklama yapıyor #Canlı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">yQE676C_Rdk</guid>
       <pubDate>Mon, 31 Aug 2026 22:30:25 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özel, yoksulluk nedeniyle gençlerin evlenemediğini, evlenenlerinse çocuk yapmadığını söyledi!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Ozan Bingöl'den AKP'ye Tarihi İsyan! Vatandaşa Kara Haber! İğneden İpliğe Zam Yağmuru</title>
-      <link>https://www.youtube.com/watch?v=5hQo9hDVW3A</link>
-      <guid isPermaLink="false">5hQo9hDVW3A</guid>
-      <pubDate>Mon, 31 Aug 2026 22:30:09 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Ozan Bingöl'den AKP'ye Tarihi İsyan! Vatandaşa Kara Haber! İğneden İpliğe Zam Yağmuru</description>
     </item>
   </channel>
 </rss>
