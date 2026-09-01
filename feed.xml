@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 09:40:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 09:45:31 +0000</lastBuildDate>
     <item>
       <title>Halk TV: YENİ Parti Sözcüsü Zeynel Emre, Genel Merkez'de Basın Açıklaması Yaptı (1 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=j4szw_AG3A8</link>
       <guid isPermaLink="false">j4szw_AG3A8</guid>
       <pubDate>Tue, 01 Sep 2026 09:34:05 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Parti Sözcüsü Zeynel Emre, Genel Merkez'de Basın Açıklaması Yaptı (1 Eylül 2026)</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: "Bunu Gerçekleştirenler Hesabını Verecekler!" İmamoğlu'nun "Millet Şahidimdir" Kitabı Toplatılmıştı!</title>
+      <link>https://www.youtube.com/watch?v=0vgY-ELJRMw</link>
+      <guid isPermaLink="false">0vgY-ELJRMw</guid>
+      <pubDate>Tue, 01 Sep 2026 09:33:44 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "Bunu Gerçekleştirenler Hesabını Verecekler!" İmamoğlu'nun "Millet Şahidimdir" Kitabı Toplatılmıştı!</description>
     </item>
     <item>
       <title>Cumhuriyet: Umut Akdoğan Sincan Cezaevi'nde: Gökçek ailesine bile adalet dilerim</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">2qNvF70aceQ</guid>
       <pubDate>Tue, 01 Sep 2026 07:00:19 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Gençler neden gitmek istiyor? "Kaybedecek değil, kazanacak bir şeyimiz kalmadı!"</description>
-    </item>
-    <item>
-      <title>Halk TV: BUTLAN CHP'SİNE ŞOK! Özgür Özel bu sözlerle yerden yere vurdu! Kılıçdaroğlu bununla baş edemez!</title>
-      <link>https://www.youtube.com/watch?v=MyeWPp-rNwU</link>
-      <guid isPermaLink="false">MyeWPp-rNwU</guid>
-      <pubDate>Tue, 01 Sep 2026 07:00:17 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BUTLAN CHP'SİNE ŞOK! Özgür Özel bu sözlerle yerden yere vurdu! Kılıçdaroğlu bununla baş edemez!</description>
     </item>
   </channel>
 </rss>
