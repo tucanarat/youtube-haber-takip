@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 13:55:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 14:00:54 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Eski İçişleri Bakanı İdris Naim Şahin'in avukatı Gürbüz Özdemir açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=oS5bLs8ZG7w</link>
+      <guid isPermaLink="false">oS5bLs8ZG7w</guid>
+      <pubDate>Tue, 01 Sep 2026 13:55:36 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Eski İçişleri Bakanı İdris Naim Şahin'in avukatı Gürbüz Özdemir açıklama yapıyor #Canlı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Serap Belovacıklı ile Haber Saati | 1 Eylül</title>
       <link>https://www.youtube.com/watch?v=ptktVeHDjE4</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">HBLHM4jVHfY</guid>
       <pubDate>Tue, 01 Sep 2026 11:17:03 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "Aykut Erdoğdu ve Birçok Sanık Tahliye Olmalı!" Silivri'den Çarpıcı Gelişmeleri Avukat Ersöz Aktardı</description>
-    </item>
-    <item>
-      <title>Halk TV: Yeni Partinin 600 bin üyesi neyi işaret ediyor? Özel: AKP ilk yılında 400 binde kalmıştı</title>
-      <link>https://www.youtube.com/watch?v=4hwm_hRChoI</link>
-      <guid isPermaLink="false">4hwm_hRChoI</guid>
-      <pubDate>Tue, 01 Sep 2026 11:15:14 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Yeni Partinin 600 bin üyesi neyi işaret ediyor? Özel: AKP ilk yılında 400 binde kalmıştı</description>
     </item>
   </channel>
 </rss>
