@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 11:40:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 11:45:32 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: "HER ŞEY OLUR!" Özgür Özel Yeni İttifak mı Kuracak? Erdoğan'ı Tedirgin Edecek Hamle!</title>
       <link>https://www.youtube.com/watch?v=CDk0ZmitV7o</link>
       <guid isPermaLink="false">CDk0ZmitV7o</guid>
       <pubDate>Tue, 01 Sep 2026 11:30:37 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: "HER ŞEY OLUR!" Özgür Özel Yeni İttifak mı Kuracak? Erdoğan'ı Tedirgin Edecek Hamle!</description>
+    </item>
+    <item>
+      <title>Halk TV: YAKAYI BÖYLE ELE VERDİ! Yurt dışı çıkış yasağı bulunan Arif Kocabıyık, TIR dorsesinde yakalandı!</title>
+      <link>https://www.youtube.com/watch?v=XEoNseZHusc</link>
+      <guid isPermaLink="false">XEoNseZHusc</guid>
+      <pubDate>Tue, 01 Sep 2026 11:30:24 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YAKAYI BÖYLE ELE VERDİ! Yurt dışı çıkış yasağı bulunan Arif Kocabıyık, TIR dorsesinde yakalandı!</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: İstanbul Alevi Kurumları, İstanbul Adliyesi önünde açıklama yapıyor #Canlı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">AerLhcp1hZI</guid>
       <pubDate>Tue, 01 Sep 2026 09:04:57 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI YENİ Parti Sözcüsü Zeynel Emre'den flaş açıklamalar</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI YENİ Parti Sözcüsü Zeynel Emre YENİ Parti Genel Merkezi’nde basın açıklaması yapıyoR</title>
-      <link>https://www.youtube.com/watch?v=VSfV8nmdNp8</link>
-      <guid isPermaLink="false">VSfV8nmdNp8</guid>
-      <pubDate>Tue, 01 Sep 2026 09:03:00 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti Sözcüsü Zeynel Emre YENİ Parti Genel Merkezi’nde basın açıklaması yapıyoR</description>
     </item>
   </channel>
 </rss>
