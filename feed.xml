@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 21:05:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 21:10:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SON DAKİKA! ABD ve İran arasında yeni çatışma! İran’dan beklenen misilleme geldi</title>
+      <link>https://www.youtube.com/watch?v=Z09amO6_dOg</link>
+      <guid isPermaLink="false">Z09amO6_dOg</guid>
+      <pubDate>Tue, 01 Sep 2026 21:04:55 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! ABD ve İran arasında yeni çatışma! İran’dan beklenen misilleme geldi</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: CHP Grup Başkanvekili Rahmi Aşkın Türeli TBMM'de açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=lr8pkP5OXkg</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">wtcHfhRlxy8</guid>
       <pubDate>Tue, 01 Sep 2026 16:58:58 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Ece Üner ile Halk Ana Haber (1 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Özlem Gürses ile Sözcü Ana Haber | 1 Eylül</title>
-      <link>https://www.youtube.com/watch?v=aaQR4mebFlA</link>
-      <guid isPermaLink="false">aaQR4mebFlA</guid>
-      <pubDate>Tue, 01 Sep 2026 16:56:54 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses ile Sözcü Ana Haber | 1 Eylül</description>
     </item>
   </channel>
 </rss>
