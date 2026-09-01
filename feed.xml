@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 15:20:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 15:25:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: BUTLANCILAR MENDERES'İ ELLERİYLE AKP'YE VERMİŞTİ! O başkan ilk iş 'Kent Lokantası'nı kapattı! Pes!</title>
+      <link>https://www.youtube.com/watch?v=Knq-bUMB0IE</link>
+      <guid isPermaLink="false">Knq-bUMB0IE</guid>
+      <pubDate>Tue, 01 Sep 2026 15:20:07 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BUTLANCILAR MENDERES'İ ELLERİYLE AKP'YE VERMİŞTİ! O başkan ilk iş 'Kent Lokantası'nı kapattı! Pes!</description>
+    </item>
     <item>
       <title>Halk TV: KILIÇDAROĞLU BÖYLESİNİ DUYMADI! Çağatay Güç'ten Genel Merkezi yakıp yıkacak çıkış! Neler dedi neler!</title>
       <link>https://www.youtube.com/watch?v=5IwJRwi0ZS4</link>
@@ -76,6 +83,13 @@
       <guid isPermaLink="false">XUyjj489zCk</guid>
       <pubDate>Tue, 01 Sep 2026 14:49:57 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: İBB Davası'nda 73. gün! Kimler neler söyledi? Silivri'de neler oldu?</description>
+    </item>
+    <item>
+      <title>Halk TV: VE O KARANLIK PLAN PATLADI! Kılıçdaroğlu'nun bütün foyası meydana çıktı! Afşin Hatipoğlu anlattı!</title>
+      <link>https://www.youtube.com/watch?v=XB2yGYLg4Rs</link>
+      <guid isPermaLink="false">XB2yGYLg4Rs</guid>
+      <pubDate>Tue, 01 Sep 2026 14:42:20 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: VE O KARANLIK PLAN PATLADI! Kılıçdaroğlu'nun bütün foyası meydana çıktı! Afşin Hatipoğlu anlattı!</description>
     </item>
     <item>
       <title>Halk TV: YENİ Parti Artvin Milletvekili Uğur Bayraktutan: Başaran Aksu süresiz açlık grevine başladı!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">6nQ6vR55v7M</guid>
       <pubDate>Tue, 01 Sep 2026 12:30:16 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Erdoğan Mossad'ın Gizli Operasyonunu Engellemiş! İsrail Basını Açıkladı! Netanyahu Deliye Dönmüş</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Manisa’da mahalleliyi isyan ettiren kokunun kaynağı belli oldu: Apartmandakilerden 'çöp ev' tepkisi</title>
-      <link>https://www.youtube.com/shorts/GqNa4NGdUB0</link>
-      <guid isPermaLink="false">GqNa4NGdUB0</guid>
-      <pubDate>Tue, 01 Sep 2026 12:26:32 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Manisa’da mahalleliyi isyan ettiren kokunun kaynağı belli oldu: Apartmandakilerden 'çöp ev' tepkisi</description>
-    </item>
-    <item>
-      <title>Halk TV: SÖZLERİ ÇOK KONUŞULDU! Resul Emrah Şahan: Barışı demokrasiye dönüştürmek hakiki cesaret ister!</title>
-      <link>https://www.youtube.com/watch?v=a-trGf00Ns4</link>
-      <guid isPermaLink="false">a-trGf00Ns4</guid>
-      <pubDate>Tue, 01 Sep 2026 12:15:50 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SÖZLERİ ÇOK KONUŞULDU! Resul Emrah Şahan: Barışı demokrasiye dönüştürmek hakiki cesaret ister!</description>
     </item>
   </channel>
 </rss>
