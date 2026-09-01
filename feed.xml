@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 18:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 18:25:23 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Yunanistan'dan Ege'de Küstah Hamle! İsrail ile 3 Milyar Euroluk Anlaşma! Eski Bakandan Büyük İsyan</title>
+      <link>https://www.youtube.com/watch?v=53jszV6CrCU</link>
+      <guid isPermaLink="false">53jszV6CrCU</guid>
+      <pubDate>Tue, 01 Sep 2026 18:10:17 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Yunanistan'dan Ege'de Küstah Hamle! İsrail ile 3 Milyar Euroluk Anlaşma! Eski Bakandan Büyük İsyan</description>
+    </item>
     <item>
       <title>Halk TV: HALK TV GİRNE'DEN BİLDİRİYOR! KKTC’de facia sonrası yürek yakan bekleyiş sürüyor!</title>
       <link>https://www.youtube.com/watch?v=TCUpNlfWPYY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">o8SklFj3l60</guid>
       <pubDate>Tue, 01 Sep 2026 15:00:08 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Putin'in S-400'leri Yok Edildi! Zelenski'nin Ordusu Atağa Geçti! Rusya İHA Yağdırdı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Gizem Çetin ile Parantez (1 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=cgqbzg4ybMU</link>
-      <guid isPermaLink="false">cgqbzg4ybMU</guid>
-      <pubDate>Tue, 01 Sep 2026 14:59:56 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Gizem Çetin ile Parantez (1 Eylül 2026)</description>
     </item>
   </channel>
 </rss>
