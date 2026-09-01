@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 19:40:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 19:41:28 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: İSTANBUL'DA KRİTİK ZİRVE! Hakan Fidan’dan Netanyahu’yu küplere bindirecek açıklama!</title>
+      <link>https://www.youtube.com/watch?v=TQC88EnRz64</link>
+      <guid isPermaLink="false">TQC88EnRz64</guid>
+      <pubDate>Tue, 01 Sep 2026 19:30:13 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İSTANBUL'DA KRİTİK ZİRVE! Hakan Fidan’dan Netanyahu’yu küplere bindirecek açıklama!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Tuncer Bakırhan, 1 Eylül Dünya Barış Günü kapsamında açıklama yapıyor / İstanbul #Canlı</title>
       <link>https://www.youtube.com/watch?v=T1UldIdK4y0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">P-XxTF2mjv0</guid>
       <pubDate>Tue, 01 Sep 2026 15:50:19 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: '514 Metreye Gömülen...' Kıbırs'ta İhmaller Zinciri! Sahte Ehliyet Çatlak Gemi! Özlem Gürses Anlattı</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: YENİ Parti Beşiktaş İlçe Başkanlığı açılış töreni / İstanbul #Canlı</title>
-      <link>https://www.youtube.com/watch?v=tXpJ2UuPI_k</link>
-      <guid isPermaLink="false">tXpJ2UuPI_k</guid>
-      <pubDate>Tue, 01 Sep 2026 15:37:53 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Beşiktaş İlçe Başkanlığı açılış töreni / İstanbul #Canlı</description>
     </item>
   </channel>
 </rss>
