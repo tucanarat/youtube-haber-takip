@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 20:15:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 20:20:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: BOMBA PATLADI! Muharrem İnce, Özgür Özel'e öyle bir mesaj göndermiş ki! İlk kez Halk TV'de açıkladı!</title>
+      <link>https://www.youtube.com/watch?v=scK9e547mTs</link>
+      <guid isPermaLink="false">scK9e547mTs</guid>
+      <pubDate>Tue, 01 Sep 2026 20:15:12 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BOMBA PATLADI! Muharrem İnce, Özgür Özel'e öyle bir mesaj göndermiş ki! İlk kez Halk TV'de açıkladı!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İran Sokaklara Döküldü: Hürmüz Boğazı'nda İpler Kopuyor Mu? Nevzat Çiçek Öyle Şeyler Anlattı ki...</title>
+      <link>https://www.youtube.com/watch?v=SCrr11Zif68</link>
+      <guid isPermaLink="false">SCrr11Zif68</guid>
+      <pubDate>Tue, 01 Sep 2026 20:10:28 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İran Sokaklara Döküldü: Hürmüz Boğazı'nda İpler Kopuyor Mu? Nevzat Çiçek Öyle Şeyler Anlattı ki...</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İpek Özbey ile Karşı Karşıya | Erol Mütercimler &amp; Nevzat Çiçek | 1 Eylül</title>
       <link>https://www.youtube.com/watch?v=8KTmcV9drkM</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">qcFT1uLdFBI</guid>
       <pubDate>Tue, 01 Sep 2026 16:17:56 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Eski İçişleri Bakanı İdris Naim Şahin'in avukatı Gürbüz Özdemir açıklama yapıyor / Ankara #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti Beşiktaş İlçe Başkanlığı Açılış Töreni!</title>
-      <link>https://www.youtube.com/watch?v=ZI7nOMmyrGU</link>
-      <guid isPermaLink="false">ZI7nOMmyrGU</guid>
-      <pubDate>Tue, 01 Sep 2026 16:16:11 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti Beşiktaş İlçe Başkanlığı Açılış Töreni!</description>
-    </item>
-    <item>
-      <title>Halk TV: TÜM SEVENLERİNİ KORKUTMUŞTU! Cem Yılmaz'a ilk müdahaleyi yapan doktorlar konuştu! Meğer kalbinde...</title>
-      <link>https://www.youtube.com/watch?v=UpW0fFee-m0</link>
-      <guid isPermaLink="false">UpW0fFee-m0</guid>
-      <pubDate>Tue, 01 Sep 2026 16:15:09 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: TÜM SEVENLERİNİ KORKUTMUŞTU! Cem Yılmaz'a ilk müdahaleyi yapan doktorlar konuştu! Meğer kalbinde...</description>
     </item>
   </channel>
 </rss>
