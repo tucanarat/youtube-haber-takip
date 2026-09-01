@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 10:55:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 11:00:53 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: 2026 - 2027 Adli Yılı açılış töreni #canlı</title>
+      <link>https://www.youtube.com/watch?v=XWTnVP096ng</link>
+      <guid isPermaLink="false">XWTnVP096ng</guid>
+      <pubDate>Tue, 01 Sep 2026 10:50:19 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: 2026 - 2027 Adli Yılı açılış töreni #canlı</description>
+    </item>
     <item>
       <title>Tele2 Haber: Özgür Özel'den Çarpıcı AKP İçinde Arınma Cevabı! "DUY DA İNANMA!"</title>
       <link>https://www.youtube.com/watch?v=I9MMgT9hgfg</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">chb4xguO3sg</guid>
       <pubDate>Tue, 01 Sep 2026 08:30:31 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Saygı Öztürk İsmail Küçükkaya'ya Bombayı Anlattı! Melih Gökçek'in Cevap Veremediği Sorular!</description>
-    </item>
-    <item>
-      <title>Halk TV: Amedspor’un Trabzonspor’u 2-1 mağlup etmesinin ardından galibiyet coşkusu gece boyunca sürdü!</title>
-      <link>https://www.youtube.com/shorts/xYufQeKoSfc</link>
-      <guid isPermaLink="false">xYufQeKoSfc</guid>
-      <pubDate>Tue, 01 Sep 2026 08:18:59 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Amedspor’un Trabzonspor’u 2-1 mağlup etmesinin ardından galibiyet coşkusu gece boyunca sürdü!</description>
     </item>
   </channel>
 </rss>
