@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 19:10:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 19:15:27 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: İran, ABD Üslerini Füzelerle Vurdu! Trump ve Pentagon Bunu Beklemiyordu! Cehennem Kapıları Açıldı</title>
+      <link>https://www.youtube.com/watch?v=lYrkKAPRA9M</link>
+      <guid isPermaLink="false">lYrkKAPRA9M</guid>
+      <pubDate>Tue, 01 Sep 2026 19:10:38 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İran, ABD Üslerini Füzelerle Vurdu! Trump ve Pentagon Bunu Beklemiyordu! Cehennem Kapıları Açıldı</description>
+    </item>
     <item>
       <title>Halk TV: “GİTSİN ORAYI DA ZİYARET ETSİN!” İzmir’de ziyaret öncesi gerilim! Çağatay Güç’ten sert mesaj!</title>
       <link>https://www.youtube.com/watch?v=7HiJltGsysk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ur0v4rqOJEU</guid>
       <pubDate>Tue, 01 Sep 2026 15:35:05 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Girne'deki faciada hayatını kaybedenlerin sayısı açıklanandan fazla mı? O isim şok iddiayı açıkladı!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "Kılıçdaroğu'nun Özel'e Aday Yapma Dediği İsim Kılıçdaroğlu'nu Ziyaret Etti!" Butlandan Skandal!</title>
-      <link>https://www.youtube.com/watch?v=GdZCmL78oLQ</link>
-      <guid isPermaLink="false">GdZCmL78oLQ</guid>
-      <pubDate>Tue, 01 Sep 2026 15:30:34 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "Kılıçdaroğu'nun Özel'e Aday Yapma Dediği İsim Kılıçdaroğlu'nu Ziyaret Etti!" Butlandan Skandal!</description>
     </item>
   </channel>
 </rss>
