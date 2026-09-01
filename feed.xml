@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 19:50:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 19:55:35 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: KARANFİL DAĞITIMINA POLİS ENGELİ! İBB zabıtasının yıl dönümü kutlamasında gerilim</title>
+      <link>https://www.youtube.com/watch?v=W00w8ZwTxak</link>
+      <guid isPermaLink="false">W00w8ZwTxak</guid>
+      <pubDate>Tue, 01 Sep 2026 19:45:20 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KARANFİL DAĞITIMINA POLİS ENGELİ! İBB zabıtasının yıl dönümü kutlamasında gerilim</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: ABD'NİN KİRLİ YPG PLANI! İRAN'DAN Trump'a Füze Şoku! Orta Doğu'da Yeni Krizin Perde Arkası</title>
       <link>https://www.youtube.com/watch?v=SFsTaU47rrc</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">xSyYwmP6DUg</guid>
       <pubDate>Tue, 01 Sep 2026 16:00:34 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Casperlar ve Çirkinler çetesi İstanbul'a kâbus gibi çöktü: 580 sayfalık iddianamede neler yok ki!</description>
-    </item>
-    <item>
-      <title>Halk TV: YÜREK DAYANMIYOR! Gemi batarken neler yaşandı? Ailelerin acı bekleyişi sürüyor...</title>
-      <link>https://www.youtube.com/watch?v=2zTmfYWgxdI</link>
-      <guid isPermaLink="false">2zTmfYWgxdI</guid>
-      <pubDate>Tue, 01 Sep 2026 15:50:39 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YÜREK DAYANMIYOR! Gemi batarken neler yaşandı? Ailelerin acı bekleyişi sürüyor...</description>
     </item>
   </channel>
 </rss>
