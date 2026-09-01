@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 20:05:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 20:10:29 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: İpek Özbey ile Karşı Karşıya | Erol Mütercimler &amp; Nevzat Çiçek | 1 Eylül</title>
+      <link>https://www.youtube.com/watch?v=8KTmcV9drkM</link>
+      <guid isPermaLink="false">8KTmcV9drkM</guid>
+      <pubDate>Tue, 01 Sep 2026 20:02:14 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İpek Özbey ile Karşı Karşıya | Erol Mütercimler &amp; Nevzat Çiçek | 1 Eylül</description>
+    </item>
     <item>
       <title>Halk TV: AKP'YE TOPUKLAYANLARI REZİL RÜSVA ETTİ! Özgür Özel'in sözleri yeri göğü inletecek! Saray sallanır!</title>
       <link>https://www.youtube.com/watch?v=sro-H0jltMo</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">UpW0fFee-m0</guid>
       <pubDate>Tue, 01 Sep 2026 16:15:09 +0000</pubDate>
       <description>Halk TV kanalından yeni video: TÜM SEVENLERİNİ KORKUTMUŞTU! Cem Yılmaz'a ilk müdahaleyi yapan doktorlar konuştu! Meğer kalbinde...</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Bilge Yurtdagülen ile Gündem Özel</title>
-      <link>https://www.youtube.com/watch?v=qsjRGK5j4q4</link>
-      <guid isPermaLink="false">qsjRGK5j4q4</guid>
-      <pubDate>Tue, 01 Sep 2026 16:12:47 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Bilge Yurtdagülen ile Gündem Özel</description>
     </item>
   </channel>
 </rss>
