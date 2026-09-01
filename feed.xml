@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 16:30:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 16:35:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Alevi kurumlarından Kemal Öztürk ve Altan Tan'a suç duyurusu!</title>
+      <link>https://www.youtube.com/watch?v=LqNs2sLRY5s</link>
+      <guid isPermaLink="false">LqNs2sLRY5s</guid>
+      <pubDate>Tue, 01 Sep 2026 16:30:06 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Alevi kurumlarından Kemal Öztürk ve Altan Tan'a suç duyurusu!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Eski İçişleri Bakanı İdris Naim Şahin'in avukatı Gürbüz Özdemir açıklama yapıyor / Ankara #Canlı</title>
       <link>https://www.youtube.com/watch?v=qcFT1uLdFBI</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">yTOgQvqGuao</guid>
       <pubDate>Tue, 01 Sep 2026 13:30:03 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: İBB Zabıtası'nın 200'üncü kuruluş yıl dönümü kutlamasında polisten şaşırtan müdahale</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İSRAİL DONANMASI ALARMDA! Türk Deniz Kuvvetleri İsrail'i Korkuttu! ABD'li İsimden İtiraflar!</title>
-      <link>https://www.youtube.com/watch?v=MY8mFYQ18ME</link>
-      <guid isPermaLink="false">MY8mFYQ18ME</guid>
-      <pubDate>Tue, 01 Sep 2026 13:30:03 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İSRAİL DONANMASI ALARMDA! Türk Deniz Kuvvetleri İsrail'i Korkuttu! ABD'li İsimden İtiraflar!</description>
     </item>
   </channel>
 </rss>
