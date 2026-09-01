@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 20:25:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 20:30:48 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: İRAN'DAN ABD ÜSLERİNE FÜZE YAĞMURU! Hürmüz'de Suudi Gemisi Vuruldu! Gözler Trump'ta</title>
+      <link>https://www.youtube.com/watch?v=iBlQ57qHkoE</link>
+      <guid isPermaLink="false">iBlQ57qHkoE</guid>
+      <pubDate>Tue, 01 Sep 2026 20:30:08 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İRAN'DAN ABD ÜSLERİNE FÜZE YAĞMURU! Hürmüz'de Suudi Gemisi Vuruldu! Gözler Trump'ta</description>
+    </item>
     <item>
       <title>Halk TV: BOMBA PATLADI! Muharrem İnce, Özgür Özel'e öyle bir mesaj göndermiş ki! İlk kez Halk TV'de açıkladı!</title>
       <link>https://www.youtube.com/watch?v=scK9e547mTs</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">LqNs2sLRY5s</guid>
       <pubDate>Tue, 01 Sep 2026 16:30:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Alevi kurumlarından Kemal Öztürk ve Altan Tan'a suç duyurusu!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Eski İçişleri Bakanı İdris Naim Şahin'in avukatı Gürbüz Özdemir açıklama yapıyor / Ankara #Canlı</title>
-      <link>https://www.youtube.com/watch?v=qcFT1uLdFBI</link>
-      <guid isPermaLink="false">qcFT1uLdFBI</guid>
-      <pubDate>Tue, 01 Sep 2026 16:17:56 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Eski İçişleri Bakanı İdris Naim Şahin'in avukatı Gürbüz Özdemir açıklama yapıyor / Ankara #Canlı</description>
     </item>
   </channel>
 </rss>
