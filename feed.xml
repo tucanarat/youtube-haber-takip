@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 17:30:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 17:35:26 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: İmamoğlu'nun kitabının toplatılması kararına itiraz! Tora Pekin'den 'Öcalan' hatırlatması!</title>
       <link>https://www.youtube.com/watch?v=HL8ZwI25gps</link>
       <guid isPermaLink="false">HL8ZwI25gps</guid>
       <pubDate>Tue, 01 Sep 2026 17:30:06 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: İmamoğlu'nun kitabının toplatılması kararına itiraz! Tora Pekin'den 'Öcalan' hatırlatması!</description>
+    </item>
+    <item>
+      <title>Halk TV: BUTLAN BELİNİ ARTIK DOĞRULTAMAZ! YENİ Parti'de üye sayısı ağızları açık bırakacak! Kabusları olacak!</title>
+      <link>https://www.youtube.com/watch?v=-qeqlIPdm4Q</link>
+      <guid isPermaLink="false">-qeqlIPdm4Q</guid>
+      <pubDate>Tue, 01 Sep 2026 17:30:05 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BUTLAN BELİNİ ARTIK DOĞRULTAMAZ! YENİ Parti'de üye sayısı ağızları açık bırakacak! Kabusları olacak!</description>
     </item>
     <item>
       <title>Tele2 Haber: #CANLI Zeynel Lüle ile Ankara Günlüğü | Konuk: İsmail Hakkı Tombul (02.09.26)</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">-y3N4NBEfsI</guid>
       <pubDate>Tue, 01 Sep 2026 14:35:41 +0000</pubDate>
       <description>Halk TV kanalından yeni video: 1 Eylül Dünya Barış Günü’nde YENİ Partili Sezgin Tanrıkulu’ndan çağrı</description>
-    </item>
-    <item>
-      <title>Halk TV: İZLEMEYE YÜREĞİNİZ DAYANMAYACAK! Girne'deki facianın yeni görüntüleri ortaya çıktı! Dehşet verici!</title>
-      <link>https://www.youtube.com/watch?v=DDFbgE_fmjU</link>
-      <guid isPermaLink="false">DDFbgE_fmjU</guid>
-      <pubDate>Tue, 01 Sep 2026 14:35:35 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İZLEMEYE YÜREĞİNİZ DAYANMAYACAK! Girne'deki facianın yeni görüntüleri ortaya çıktı! Dehşet verici!</description>
     </item>
   </channel>
 </rss>
