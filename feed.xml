@@ -6,12 +6,12 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 13:40:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 13:45:30 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: #CANLI KKTC Cumhurbaşkanı Tufan Erhürman açıklama yapıyor</title>
       <link>https://www.youtube.com/watch?v=ipXCWpt7p2U</link>
       <guid isPermaLink="false">ipXCWpt7p2U</guid>
-      <pubDate>Tue, 01 Sep 2026 13:38:40 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 13:43:54 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI KKTC Cumhurbaşkanı Tufan Erhürman açıklama yapıyor</description>
     </item>
     <item>
@@ -27,6 +27,13 @@
       <guid isPermaLink="false">yTOgQvqGuao</guid>
       <pubDate>Tue, 01 Sep 2026 13:30:03 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: İBB Zabıtası'nın 200'üncü kuruluş yıl dönümü kutlamasında polisten şaşırtan müdahale</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İSRAİL DONANMASI ALARMDA! Türk Deniz Kuvvetleri İsrail'i Korkuttu! ABD'li İsimden İtiraflar!</title>
+      <link>https://www.youtube.com/watch?v=MY8mFYQ18ME</link>
+      <guid isPermaLink="false">MY8mFYQ18ME</guid>
+      <pubDate>Tue, 01 Sep 2026 13:30:03 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İSRAİL DONANMASI ALARMDA! Türk Deniz Kuvvetleri İsrail'i Korkuttu! ABD'li İsimden İtiraflar!</description>
     </item>
     <item>
       <title>Tele2 Haber: YENİ PARTİ MİLLETVEKİLİ BAYRAKTUTAN BAŞARAN AKSU'NUN SON DURUMUNU ANLATTI</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">2AF1sRZK-Bs</guid>
       <pubDate>Tue, 01 Sep 2026 10:30:25 +0000</pubDate>
       <description>Halk TV kanalından yeni video: KAYIPLARIN İSİMLERİ BELLİ OLDU! Girne'deki faciada yürek yakan detay! Mucize için bekleyiş sürüyor!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Afşin Hatipoğlu İsyan Etti | İmamoğlu'na Tuzak, Gökçek'in Almanya Sırrı, Mansur Yavaş'a Operasyon</title>
-      <link>https://www.youtube.com/watch?v=5AkBfyIKrkQ</link>
-      <guid isPermaLink="false">5AkBfyIKrkQ</guid>
-      <pubDate>Tue, 01 Sep 2026 10:30:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Afşin Hatipoğlu İsyan Etti | İmamoğlu'na Tuzak, Gökçek'in Almanya Sırrı, Mansur Yavaş'a Operasyon</description>
     </item>
   </channel>
 </rss>
