@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 10:30:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 10:35:26 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: #CANLI İBB Davasında 73. gün! Necati Özkan neler söyledi?</title>
+      <link>https://www.youtube.com/watch?v=eh7okbEllNU</link>
+      <guid isPermaLink="false">eh7okbEllNU</guid>
+      <pubDate>Tue, 01 Sep 2026 10:35:24 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI İBB Davasında 73. gün! Necati Özkan neler söyledi?</description>
+    </item>
+    <item>
+      <title>Halk TV: KAYIPLARIN İSİMLERİ BELLİ OLDU! Girne'deki faciada yürek yakan detay! Mucize için bekleyiş sürüyor!</title>
+      <link>https://www.youtube.com/watch?v=2AF1sRZK-Bs</link>
+      <guid isPermaLink="false">2AF1sRZK-Bs</guid>
+      <pubDate>Tue, 01 Sep 2026 10:30:25 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KAYIPLARIN İSİMLERİ BELLİ OLDU! Girne'deki faciada yürek yakan detay! Mucize için bekleyiş sürüyor!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Afşin Hatipoğlu İsyan Etti | İmamoğlu'na Tuzak, Gökçek'in Almanya Sırrı, Mansur Yavaş'a Operasyon</title>
+      <link>https://www.youtube.com/watch?v=5AkBfyIKrkQ</link>
+      <guid isPermaLink="false">5AkBfyIKrkQ</guid>
+      <pubDate>Tue, 01 Sep 2026 10:30:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Afşin Hatipoğlu İsyan Etti | İmamoğlu'na Tuzak, Gökçek'in Almanya Sırrı, Mansur Yavaş'a Operasyon</description>
+    </item>
     <item>
       <title>Tele2 Haber: Melih Gökçek ve Ailesi Hakkında ABB'den Suç Duyurusu! Çok Çarpıcı "Suç Örgütü" Vurgusu!</title>
       <link>https://www.youtube.com/watch?v=UWpHJU3OSII</link>
@@ -62,13 +83,6 @@
       <guid isPermaLink="false">xSHJhEiJpuo</guid>
       <pubDate>Tue, 01 Sep 2026 10:00:07 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Saygı Öztürk Kulisleri Verdi! Özgür Özel ve Ekrem İmamoğlu Ankara'daki Dengeleri Bozdu!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: #CANLI İBB Davasında 73. gün! Necati Özkan neler söyledi?</title>
-      <link>https://www.youtube.com/watch?v=eh7okbEllNU</link>
-      <guid isPermaLink="false">eh7okbEllNU</guid>
-      <pubDate>Tue, 01 Sep 2026 09:58:10 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI İBB Davasında 73. gün! Necati Özkan neler söyledi?</description>
     </item>
     <item>
       <title>Tele2 Haber: "İktidara Büyük Orta Doğu Projesinde Verilen Rol Bu!" Mekke Paktına Zeynel Emre'den Çok Sert Tepki!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">XvPIwggryOk</guid>
       <pubDate>Tue, 01 Sep 2026 08:05:54 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Parti Lideri Özgür Özel'den balıkçılık sezonu mesajı: Bereketli, kazasız ve bol kazançlı olsun!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: İstanbul Barosu yeni adli yıl başlarken "Adalet Bildirisi"ni açıklıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=W2V1XA5rGro</link>
-      <guid isPermaLink="false">W2V1XA5rGro</guid>
-      <pubDate>Tue, 01 Sep 2026 08:05:13 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: İstanbul Barosu yeni adli yıl başlarken "Adalet Bildirisi"ni açıklıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: BU İDDİA KAN DONDURUR! Girne'de alabora olan geminin kaptanının ehliyeti yok muydu? Şok gerçekler!</title>
-      <link>https://www.youtube.com/watch?v=AGHPr28P9Dc</link>
-      <guid isPermaLink="false">AGHPr28P9Dc</guid>
-      <pubDate>Tue, 01 Sep 2026 08:05:13 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BU İDDİA KAN DONDURUR! Girne'de alabora olan geminin kaptanının ehliyeti yok muydu? Şok gerçekler!</description>
     </item>
   </channel>
 </rss>
