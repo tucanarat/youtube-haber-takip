@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 23:05:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 23:10:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: İstiklal Caddesi’nde karanfil gerilimi! İBB zabıtası karanfil dağıtmak istedi, polis izin vermedi!</title>
+      <link>https://www.youtube.com/shorts/Tn7qB0405qQ</link>
+      <guid isPermaLink="false">Tn7qB0405qQ</guid>
+      <pubDate>Tue, 01 Sep 2026 23:00:27 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İstiklal Caddesi’nde karanfil gerilimi! İBB zabıtası karanfil dağıtmak istedi, polis izin vermedi!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İran'dan ABD'ye Füzeli Misilleme! Mücteba Hamaney'den Netanyahu ve Trump'a Peş Peşe Ağır Darbe</title>
       <link>https://www.youtube.com/watch?v=pRv0pe3n-is</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">lYrkKAPRA9M</guid>
       <pubDate>Tue, 01 Sep 2026 19:10:38 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İran, ABD Üslerini Füzelerle Vurdu! Trump ve Pentagon Bunu Beklemiyordu! Cehennem Kapıları Açıldı</description>
-    </item>
-    <item>
-      <title>Halk TV: “GİTSİN ORAYI DA ZİYARET ETSİN!” İzmir’de ziyaret öncesi gerilim! Çağatay Güç’ten sert mesaj!</title>
-      <link>https://www.youtube.com/watch?v=7HiJltGsysk</link>
-      <guid isPermaLink="false">7HiJltGsysk</guid>
-      <pubDate>Tue, 01 Sep 2026 19:00:26 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: “GİTSİN ORAYI DA ZİYARET ETSİN!” İzmir’de ziyaret öncesi gerilim! Çağatay Güç’ten sert mesaj!</description>
     </item>
   </channel>
 </rss>
