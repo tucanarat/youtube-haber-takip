@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 08:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 08:10:33 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: YENİ Parti ile CHP arasında 'telefon' polemiği! Güç: AKP ile beraber yaptığınız her şeyi görüyoruz</title>
+      <link>https://www.youtube.com/watch?v=OUUBurSWv9g</link>
+      <guid isPermaLink="false">OUUBurSWv9g</guid>
+      <pubDate>Tue, 01 Sep 2026 08:08:08 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: YENİ Parti ile CHP arasında 'telefon' polemiği! Güç: AKP ile beraber yaptığınız her şeyi görüyoruz</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İsmail Küçükkaya ile Günaydın Türkiyem | 1 Eylül</title>
       <link>https://www.youtube.com/watch?v=bCvGjwbtrw0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ptktVeHDjE4</guid>
       <pubDate>Mon, 31 Aug 2026 22:01:50 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Serap Belovacıklı ile Haber Saati</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Senem Toluay Ilgaz ile Öncesi Sonrası</title>
-      <link>https://www.youtube.com/watch?v=1UDfMuoZTv0</link>
-      <guid isPermaLink="false">1UDfMuoZTv0</guid>
-      <pubDate>Mon, 31 Aug 2026 22:01:18 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Senem Toluay Ilgaz ile Öncesi Sonrası</description>
     </item>
   </channel>
 </rss>
