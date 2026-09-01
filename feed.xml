@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 13:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 13:10:35 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: İbrahim Kaboğlu Şükran Soner'i andı...</title>
+      <link>https://www.youtube.com/shorts/9s0tpNR3VS8</link>
+      <guid isPermaLink="false">9s0tpNR3VS8</guid>
+      <pubDate>Tue, 01 Sep 2026 13:02:00 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: İbrahim Kaboğlu Şükran Soner'i andı...</description>
+    </item>
     <item>
       <title>Tele2 Haber: Sefa Yılmaz'dan çok söz hakkı çıkışı! "Avukatların sözünü keserek..."</title>
       <link>https://www.youtube.com/watch?v=pW6-lLfFpn0</link>
@@ -34,6 +41,13 @@
       <guid isPermaLink="false">R_-V1yhC25g</guid>
       <pubDate>Tue, 01 Sep 2026 12:58:42 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Kıbrıs'taki tekne faciasından yeni görüntüler! Dehşet anları ortaya çıktı!</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Yeni adli yıl başlıyor... Tanrıkulu: Yargı, Cumhuriyet tarihinin en ağır güven krizini yaşıyor</title>
+      <link>https://www.youtube.com/shorts/dI_IWeZo4nU</link>
+      <guid isPermaLink="false">dI_IWeZo4nU</guid>
+      <pubDate>Tue, 01 Sep 2026 12:55:43 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Yeni adli yıl başlıyor... Tanrıkulu: Yargı, Cumhuriyet tarihinin en ağır güven krizini yaşıyor</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | Gizem Çetin ile Parantez</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">r9L666J6RE8</guid>
       <pubDate>Tue, 01 Sep 2026 10:08:38 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ABB Avukatı Nadi Türkaslan, Melih Gökçek ve Ailesi Hakkında Suç Duyurusunda Bulundu</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI ABB avukatı Nadi Türkaslan'dan eski ABB Başkanı Melih Gökçek ve ailesi hakkında suç duyurusu</title>
-      <link>https://www.youtube.com/watch?v=9YSHWpKNOE0</link>
-      <guid isPermaLink="false">9YSHWpKNOE0</guid>
-      <pubDate>Tue, 01 Sep 2026 10:08:18 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI ABB avukatı Nadi Türkaslan'dan eski ABB Başkanı Melih Gökçek ve ailesi hakkında suç duyurusu</description>
-    </item>
-    <item>
-      <title>Halk TV: Ebru Baki ile Para Siyaset | İbrahim Kahveci (1 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=l1cg3hbkuMk</link>
-      <guid isPermaLink="false">l1cg3hbkuMk</guid>
-      <pubDate>Tue, 01 Sep 2026 10:00:46 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ebru Baki ile Para Siyaset | İbrahim Kahveci (1 Eylül 2026)</description>
     </item>
   </channel>
 </rss>
