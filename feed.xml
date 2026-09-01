@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 15:30:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 15:35:25 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: FACİA GÖZ GÖRE GÖRE GELDİ! 'Bu Tekne Denize Elverişli Değildi!' Uzman İsim Hataları Anlattı!</title>
+      <link>https://www.youtube.com/watch?v=p8nBHrjQhDE</link>
+      <guid isPermaLink="false">p8nBHrjQhDE</guid>
+      <pubDate>Tue, 01 Sep 2026 15:30:14 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: FACİA GÖZ GÖRE GÖRE GELDİ! 'Bu Tekne Denize Elverişli Değildi!' Uzman İsim Hataları Anlattı!</description>
+    </item>
     <item>
       <title>Halk TV: BUTLANCILAR MENDERES'İ ELLERİYLE AKP'YE VERMİŞTİ! O başkan ilk iş 'Kent Lokantası'nı kapattı! Pes!</title>
       <link>https://www.youtube.com/watch?v=Knq-bUMB0IE</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">uO1gcokOr-Q</guid>
       <pubDate>Tue, 01 Sep 2026 12:30:25 +0000</pubDate>
       <description>Halk TV kanalından yeni video: DEMEDİĞİNİ BIRAKMADI! Mustafa Balbay'dan Melih Gökçek'in ipliğini pazara çıkaracak sözler! Olay olur</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Erdoğan Mossad'ın Gizli Operasyonunu Engellemiş! İsrail Basını Açıkladı! Netanyahu Deliye Dönmüş</title>
-      <link>https://www.youtube.com/watch?v=6nQ6vR55v7M</link>
-      <guid isPermaLink="false">6nQ6vR55v7M</guid>
-      <pubDate>Tue, 01 Sep 2026 12:30:16 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Erdoğan Mossad'ın Gizli Operasyonunu Engellemiş! İsrail Basını Açıkladı! Netanyahu Deliye Dönmüş</description>
     </item>
   </channel>
 </rss>
