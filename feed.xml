@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 23:30:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 23:35:26 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Giresun'da Korkutan Salgın! 700 Kişi Acile Koştu! İçme Suyuna Dikkat! Uzman İsimden Acil Uyarı</title>
+      <link>https://www.youtube.com/watch?v=CEOY9A83268</link>
+      <guid isPermaLink="false">CEOY9A83268</guid>
+      <pubDate>Tue, 01 Sep 2026 23:30:23 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Giresun'da Korkutan Salgın! 700 Kişi Acile Koştu! İçme Suyuna Dikkat! Uzman İsimden Acil Uyarı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: ABD Vurdu! Brent Petrol Uçuşa Geçti! Putin'in Gizli Nükleer Planı! Mehmet Öğütçü'den Çarpıcı Uyarı</title>
       <link>https://www.youtube.com/watch?v=RWfLd9Dx4Wo</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">T1UldIdK4y0</guid>
       <pubDate>Tue, 01 Sep 2026 19:20:20 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Tuncer Bakırhan, 1 Eylül Dünya Barış Günü kapsamında açıklama yapıyor / İstanbul #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: SÜLEYMANCILAR DOSYASINDA KRİTİK GELİŞME! Eski İçişleri Bakanı İdris Naim Şahin serbest bırakıldı!</title>
-      <link>https://www.youtube.com/watch?v=l_Kabah24rs</link>
-      <guid isPermaLink="false">l_Kabah24rs</guid>
-      <pubDate>Tue, 01 Sep 2026 19:15:03 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SÜLEYMANCILAR DOSYASINDA KRİTİK GELİŞME! Eski İçişleri Bakanı İdris Naim Şahin serbest bırakıldı!</description>
     </item>
   </channel>
 </rss>
