@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 15:50:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 15:55:25 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: YÜREK DAYANMIYOR! Gemi batarken neler yaşandı? Ailelerin acı bekleyişi sürüyor...</title>
+      <link>https://www.youtube.com/watch?v=2zTmfYWgxdI</link>
+      <guid isPermaLink="false">2zTmfYWgxdI</guid>
+      <pubDate>Tue, 01 Sep 2026 15:50:39 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YÜREK DAYANMIYOR! Gemi batarken neler yaşandı? Ailelerin acı bekleyişi sürüyor...</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | YENİ Parti Beşiktaş İlçe Başkanlığı açılış töreni</title>
       <link>https://www.youtube.com/watch?v=ZI7nOMmyrGU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">UR134wq02kM</guid>
       <pubDate>Tue, 01 Sep 2026 13:00:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: 'DURUN' ÇIĞLIKLARINA RAĞMEN DAHA DA HIZLANMIŞLAR! Kurtulanlar Halk TV'ye konuştu! Korkunç detaylar!</description>
-    </item>
-    <item>
-      <title>Halk TV: İrem Sansak ile Haber Masası (1 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=bgWVlXviFhc</link>
-      <guid isPermaLink="false">bgWVlXviFhc</guid>
-      <pubDate>Tue, 01 Sep 2026 13:00:02 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İrem Sansak ile Haber Masası (1 Eylül 2026)</description>
     </item>
   </channel>
 </rss>
