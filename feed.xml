@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 21:15:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 21:20:34 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: ABD Vurdu! Hürmüz Kapatıldı Petrol Uçtu! Mücteba Hamaney Düğmeye Bastı! İran'dan Füze Yağmuru</title>
+      <link>https://www.youtube.com/watch?v=bMAlkBbYgGU</link>
+      <guid isPermaLink="false">bMAlkBbYgGU</guid>
+      <pubDate>Tue, 01 Sep 2026 21:10:24 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: ABD Vurdu! Hürmüz Kapatıldı Petrol Uçtu! Mücteba Hamaney Düğmeye Bastı! İran'dan Füze Yağmuru</description>
+    </item>
     <item>
       <title>Halk TV: SON DAKİKA! ABD ve İran arasında yeni çatışma! İran’dan beklenen misilleme geldi</title>
       <link>https://www.youtube.com/watch?v=Z09amO6_dOg</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ikdFLcAssYM</guid>
       <pubDate>Tue, 01 Sep 2026 17:00:00 +0000</pubDate>
       <description>Halk TV kanalından yeni video: AKILLARA TAKILAN SORU: Melih Gökçek soruşturması hukuka uygun ilerleyecek mi?</description>
-    </item>
-    <item>
-      <title>Halk TV: Ece Üner ile Halk Ana Haber (1 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=wtcHfhRlxy8</link>
-      <guid isPermaLink="false">wtcHfhRlxy8</guid>
-      <pubDate>Tue, 01 Sep 2026 16:58:58 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ece Üner ile Halk Ana Haber (1 Eylül 2026)</description>
     </item>
   </channel>
 </rss>
