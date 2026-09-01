@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 10:40:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 10:45:30 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Mustafa Balbay anlattı: İşte iktidarın 'Anayasa' planı...</title>
+      <link>https://www.youtube.com/watch?v=s7SwpYZ99FY</link>
+      <guid isPermaLink="false">s7SwpYZ99FY</guid>
+      <pubDate>Tue, 01 Sep 2026 10:43:51 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Mustafa Balbay anlattı: İşte iktidarın 'Anayasa' planı...</description>
+    </item>
     <item>
       <title>Cumhuriyet: #CANLI İBB Davasında 73. gün! Necati Özkan neler söyledi?</title>
       <link>https://www.youtube.com/watch?v=eh7okbEllNU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">OUUBurSWv9g</guid>
       <pubDate>Tue, 01 Sep 2026 08:08:08 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: YENİ Parti ile CHP arasında 'telefon' polemiği! Güç: AKP ile beraber yaptığınız her şeyi görüyoruz</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti Lideri Özgür Özel'den balıkçılık sezonu mesajı: Bereketli, kazasız ve bol kazançlı olsun!</title>
-      <link>https://www.youtube.com/shorts/XvPIwggryOk</link>
-      <guid isPermaLink="false">XvPIwggryOk</guid>
-      <pubDate>Tue, 01 Sep 2026 08:05:54 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti Lideri Özgür Özel'den balıkçılık sezonu mesajı: Bereketli, kazasız ve bol kazançlı olsun!</description>
     </item>
   </channel>
 </rss>
