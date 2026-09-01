@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 09:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 09:30:43 +0000</lastBuildDate>
     <item>
       <title>Cumhuriyet: Çarşı pazarda ithal soğana tepki: "Bizim tarlamız, köylümüz yok mu?"</title>
       <link>https://www.youtube.com/shorts/F1mwfVEx5Ag</link>
@@ -27,6 +27,13 @@
       <guid isPermaLink="false">oo4kCs_Biec</guid>
       <pubDate>Tue, 01 Sep 2026 09:16:59 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Odunpazarı Belediye Başkanı'ndan dikkat çeken 'YENİ Parti' açıklaması...</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: Cumhurbaşkanı Erdoğan, Şanghay İşbirliği Örgütü Devlet Başkanları Zirvesi'nde konuşuyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=Y5uI-aryZEA</link>
+      <guid isPermaLink="false">Y5uI-aryZEA</guid>
+      <pubDate>Tue, 01 Sep 2026 09:16:25 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Cumhurbaşkanı Erdoğan, Şanghay İşbirliği Örgütü Devlet Başkanları Zirvesi'nde konuşuyor #Canlı</description>
     </item>
     <item>
       <title>Halk TV: ABD'nin İsrail Büyükelçisinden şok açıklama: İsrail'in saldırısı Ankara'ya uyarıydı!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">l1cg3hbkuMk</guid>
       <pubDate>Tue, 01 Sep 2026 06:51:19 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | Ebru Baki ile Para Siyaset | İbrahim Kahveci</description>
-    </item>
-    <item>
-      <title>Halk TV: FIRTINA ÖNCESİ SESSİZLİK! Melih Gökçek, hakkındaki iddialara ne diyecek? Taş üstünde taş kalmayacak!</title>
-      <link>https://www.youtube.com/watch?v=Gw5h8FurLYU</link>
-      <guid isPermaLink="false">Gw5h8FurLYU</guid>
-      <pubDate>Tue, 01 Sep 2026 06:39:45 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: FIRTINA ÖNCESİ SESSİZLİK! Melih Gökçek, hakkındaki iddialara ne diyecek? Taş üstünde taş kalmayacak!</description>
     </item>
   </channel>
 </rss>
