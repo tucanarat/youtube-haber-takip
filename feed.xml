@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 19:41:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 19:45:27 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: ABD'NİN KİRLİ YPG PLANI! İRAN'DAN Trump'a Füze Şoku! Orta Doğu'da Yeni Krizin Perde Arkası</title>
+      <link>https://www.youtube.com/watch?v=SFsTaU47rrc</link>
+      <guid isPermaLink="false">SFsTaU47rrc</guid>
+      <pubDate>Tue, 01 Sep 2026 19:30:25 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: ABD'NİN KİRLİ YPG PLANI! İRAN'DAN Trump'a Füze Şoku! Orta Doğu'da Yeni Krizin Perde Arkası</description>
+    </item>
     <item>
       <title>Halk TV: İSTANBUL'DA KRİTİK ZİRVE! Hakan Fidan’dan Netanyahu’yu küplere bindirecek açıklama!</title>
       <link>https://www.youtube.com/watch?v=TQC88EnRz64</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">2zTmfYWgxdI</guid>
       <pubDate>Tue, 01 Sep 2026 15:50:39 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YÜREK DAYANMIYOR! Gemi batarken neler yaşandı? Ailelerin acı bekleyişi sürüyor...</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: '514 Metreye Gömülen...' Kıbırs'ta İhmaller Zinciri! Sahte Ehliyet Çatlak Gemi! Özlem Gürses Anlattı</title>
-      <link>https://www.youtube.com/watch?v=P-XxTF2mjv0</link>
-      <guid isPermaLink="false">P-XxTF2mjv0</guid>
-      <pubDate>Tue, 01 Sep 2026 15:50:19 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: '514 Metreye Gömülen...' Kıbırs'ta İhmaller Zinciri! Sahte Ehliyet Çatlak Gemi! Özlem Gürses Anlattı</description>
     </item>
   </channel>
 </rss>
