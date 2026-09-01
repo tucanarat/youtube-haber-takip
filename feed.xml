@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 22:10:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 22:15:32 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Trump Vurdu! Rusya Çin Düğmeye Bastı! İran Ortadoğu'ya Kıyameti Yaşatmaya Başladı! 3. Dünya Savaşı</title>
+      <link>https://www.youtube.com/watch?v=TXXGGk6SviI</link>
+      <guid isPermaLink="false">TXXGGk6SviI</guid>
+      <pubDate>Tue, 01 Sep 2026 22:10:14 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Trump Vurdu! Rusya Çin Düğmeye Bastı! İran Ortadoğu'ya Kıyameti Yaşatmaya Başladı! 3. Dünya Savaşı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Trump Düğmeye Bastı! İran'dan Tarihi Rest! Ortadoğu Alev Topu! O Üsler Vuruluyor</title>
       <link>https://www.youtube.com/watch?v=KySOhQHiKhE</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">TCUpNlfWPYY</guid>
       <pubDate>Tue, 01 Sep 2026 18:00:35 +0000</pubDate>
       <description>Halk TV kanalından yeni video: HALK TV GİRNE'DEN BİLDİRİYOR! KKTC’de facia sonrası yürek yakan bekleyiş sürüyor!</description>
-    </item>
-    <item>
-      <title>Halk TV: Gemi kazasında hayatını kaybeden Nisa Türer'in kuzeni: Yüreğimiz yanıyor!</title>
-      <link>https://www.youtube.com/watch?v=3fP5db2PNSA</link>
-      <guid isPermaLink="false">3fP5db2PNSA</guid>
-      <pubDate>Tue, 01 Sep 2026 18:00:07 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Gemi kazasında hayatını kaybeden Nisa Türer'in kuzeni: Yüreğimiz yanıyor!</description>
     </item>
   </channel>
 </rss>
