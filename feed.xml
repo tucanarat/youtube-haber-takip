@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 00:15:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 00:20:36 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Tuncer Bakırhan, yaşamını yitiren eski Belediye Başkanı Mehdi Zana'nın ailesini ziyaret ediyor</title>
+      <link>https://www.youtube.com/watch?v=Qu-FWLW9yrc</link>
+      <guid isPermaLink="false">Qu-FWLW9yrc</guid>
+      <pubDate>Tue, 01 Sep 2026 00:16:56 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Tuncer Bakırhan, yaşamını yitiren eski Belediye Başkanı Mehdi Zana'nın ailesini ziyaret ediyor</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: İYİ Parti Sözcüsü Buğra Kavuncu, parti genel merkezinde basın açıklaması yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=1NXd_Wa3coA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">j4szw_AG3A8</guid>
       <pubDate>Mon, 31 Aug 2026 19:21:28 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | Sinem Fıstıkoğlu ile Sansürsüz</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel, çerçeve yasa sürecinde sahadan gelen değerlendirmeleri dikkate aldıklarını kaydetti!</title>
-      <link>https://www.youtube.com/watch?v=ZUp-_W2-J4g</link>
-      <guid isPermaLink="false">ZUp-_W2-J4g</guid>
-      <pubDate>Mon, 31 Aug 2026 19:20:11 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel, çerçeve yasa sürecinde sahadan gelen değerlendirmeleri dikkate aldıklarını kaydetti!</description>
     </item>
   </channel>
 </rss>
