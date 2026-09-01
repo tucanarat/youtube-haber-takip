@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 13:15:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 13:20:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: 3 DOSYA GÜNDEMDE, MELİH GÖKÇEK TUTUŞACAK! ABB avukatı yeni hamleyi açıkladı! Yer yerinden oynayacak!</title>
+      <link>https://www.youtube.com/watch?v=Z65CnQL3aIY</link>
+      <guid isPermaLink="false">Z65CnQL3aIY</guid>
+      <pubDate>Tue, 01 Sep 2026 13:15:11 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: 3 DOSYA GÜNDEMDE, MELİH GÖKÇEK TUTUŞACAK! ABB avukatı yeni hamleyi açıkladı! Yer yerinden oynayacak!</description>
+    </item>
     <item>
       <title>Cumhuriyet: İbrahim Kaboğlu Şükran Soner'i andı...</title>
       <link>https://www.youtube.com/shorts/9s0tpNR3VS8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">BzSXNFPGBD8</guid>
       <pubDate>Tue, 01 Sep 2026 10:15:14 +0000</pubDate>
       <description>Halk TV kanalından yeni video: GİRNE'DEKİ FACİANIN GÖRGÜ TANIĞI KONUŞTU! Felaket adım adım böyle yaşanmış! Şoke olacağınız detaylar</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: ABB avukatı Nadi Türkaslan, eski ABB Başkanı Melih Gökçek ve ailesi hakkında suç duyurusunda bulundu</title>
-      <link>https://www.youtube.com/watch?v=jqtjzI4V1jo</link>
-      <guid isPermaLink="false">jqtjzI4V1jo</guid>
-      <pubDate>Tue, 01 Sep 2026 10:09:33 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: ABB avukatı Nadi Türkaslan, eski ABB Başkanı Melih Gökçek ve ailesi hakkında suç duyurusunda bulundu</description>
     </item>
   </channel>
 </rss>
