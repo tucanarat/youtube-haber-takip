@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 14:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 14:25:30 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Girne'de facia... KKTC Cumhurbaşkanı Erhürman'ın açıklaması sırasında flaş tepki</title>
+      <link>https://www.youtube.com/watch?v=NxNtnp88xGU</link>
+      <guid isPermaLink="false">NxNtnp88xGU</guid>
+      <pubDate>Tue, 01 Sep 2026 14:20:08 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Girne'de facia... KKTC Cumhurbaşkanı Erhürman'ın açıklaması sırasında flaş tepki</description>
+    </item>
+    <item>
+      <title>Halk TV: SON DAKİKA! BATAN GEMİNİN YERİ TESPİT EDİLDİ! KKTC Cumhurbaşkanı Erhürman'dan kritik açıklamalar!</title>
+      <link>https://www.youtube.com/watch?v=EPHNlFv5d3g</link>
+      <guid isPermaLink="false">EPHNlFv5d3g</guid>
+      <pubDate>Tue, 01 Sep 2026 14:15:16 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! BATAN GEMİNİN YERİ TESPİT EDİLDİ! KKTC Cumhurbaşkanı Erhürman'dan kritik açıklamalar!</description>
+    </item>
     <item>
       <title>Halk TV: SON DAKİKA! TIR'ın dorsesinde yurt dışına kaçarken yakalanmıştı! Arif Kocabıyık tutuklandı!</title>
       <link>https://www.youtube.com/watch?v=aOenYZncS3Y</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">XEoNseZHusc</guid>
       <pubDate>Tue, 01 Sep 2026 11:30:24 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YAKAYI BÖYLE ELE VERDİ! Yurt dışı çıkış yasağı bulunan Arif Kocabıyık, TIR dorsesinde yakalandı!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Melih Gökçek hakkında suç duyurusu! "Belediyenin başkalarına giden varlıklarına sahip çıkıyoruz"</title>
-      <link>https://www.youtube.com/watch?v=zIM4-um51ps</link>
-      <guid isPermaLink="false">zIM4-um51ps</guid>
-      <pubDate>Tue, 01 Sep 2026 11:29:24 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Melih Gökçek hakkında suç duyurusu! "Belediyenin başkalarına giden varlıklarına sahip çıkıyoruz"</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: #CANLI 2026-2027 adli yılı başlıyor... Açılış töreninden canlı yayın…</title>
-      <link>https://www.youtube.com/watch?v=1P2rl8dJStY</link>
-      <guid isPermaLink="false">1P2rl8dJStY</guid>
-      <pubDate>Tue, 01 Sep 2026 11:27:30 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI 2026-2027 adli yılı başlıyor... Açılış töreninden canlı yayın…</description>
     </item>
   </channel>
 </rss>
