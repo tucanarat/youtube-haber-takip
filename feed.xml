@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 12:50:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 12:55:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Gizem Çetin ile Parantez</title>
+      <link>https://www.youtube.com/watch?v=cgqbzg4ybMU</link>
+      <guid isPermaLink="false">cgqbzg4ybMU</guid>
+      <pubDate>Tue, 01 Sep 2026 12:52:05 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Gizem Çetin ile Parantez</description>
+    </item>
     <item>
       <title>Halk TV: CHP kurultay davasında flaş karar! 8 kişi hakkında tahliye kararı verildi! Tek tutuklu o isim kaldı!</title>
       <link>https://www.youtube.com/watch?v=pFXGm0icd3E</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">6RBBMV9beE8</guid>
       <pubDate>Tue, 01 Sep 2026 09:56:56 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "İktidara Büyük Orta Doğu Projesinde Verilen Rol Bu!" Mekke Paktına Zeynel Emre'den Çok Sert Tepki!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Can Coşkun ile Gündem Masası | 1 Eylül</title>
-      <link>https://www.youtube.com/watch?v=1jbDZwFomt4</link>
-      <guid isPermaLink="false">1jbDZwFomt4</guid>
-      <pubDate>Tue, 01 Sep 2026 09:56:10 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Can Coşkun ile Gündem Masası | 1 Eylül</description>
     </item>
   </channel>
 </rss>
