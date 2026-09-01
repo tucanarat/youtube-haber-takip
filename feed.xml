@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 20:00:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 20:05:27 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: AKP'YE TOPUKLAYANLARI REZİL RÜSVA ETTİ! Özgür Özel'in sözleri yeri göğü inletecek! Saray sallanır!</title>
+      <link>https://www.youtube.com/watch?v=sro-H0jltMo</link>
+      <guid isPermaLink="false">sro-H0jltMo</guid>
+      <pubDate>Tue, 01 Sep 2026 20:00:24 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: AKP'YE TOPUKLAYANLARI REZİL RÜSVA ETTİ! Özgür Özel'in sözleri yeri göğü inletecek! Saray sallanır!</description>
+    </item>
     <item>
       <title>Tele2 Haber: TBB Başkanı Erinç Sağkan'dan Akın Gürlek'i kızdıran açılış konuşması!</title>
       <link>https://www.youtube.com/watch?v=jmB_LWbeamg</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">qsjRGK5j4q4</guid>
       <pubDate>Tue, 01 Sep 2026 16:12:47 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | Bilge Yurtdagülen ile Gündem Özel</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Kıbrıs'taki Batan Gemi 550 Metre'de Bulundu! Kara Kutu Açılıyor! Özlem Gürses'ten Sert Sözler</title>
-      <link>https://www.youtube.com/watch?v=40OvqQz1KWA</link>
-      <guid isPermaLink="false">40OvqQz1KWA</guid>
-      <pubDate>Tue, 01 Sep 2026 16:10:07 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Kıbrıs'taki Batan Gemi 550 Metre'de Bulundu! Kara Kutu Açılıyor! Özlem Gürses'ten Sert Sözler</description>
     </item>
   </channel>
 </rss>
