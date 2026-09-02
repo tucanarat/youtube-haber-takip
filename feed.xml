@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 22:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 22:05:28 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: #CANLI Pınar Erbaş ile Gecenin Sözü</title>
+      <link>https://www.youtube.com/watch?v=Zs2dsN76l3Y</link>
+      <guid isPermaLink="false">Zs2dsN76l3Y</guid>
+      <pubDate>Wed, 02 Sep 2026 22:02:50 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: #CANLI Pınar Erbaş ile Gecenin Sözü</description>
+    </item>
+    <item>
+      <title>Halk TV: Özgür Özel’in yeni yol haritasına Akif Beki’den dikkat çeken yorum!</title>
+      <link>https://www.youtube.com/watch?v=N6XvJVnLFOo</link>
+      <guid isPermaLink="false">N6XvJVnLFOo</guid>
+      <pubDate>Wed, 02 Sep 2026 21:55:37 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Özgür Özel’in yeni yol haritasına Akif Beki’den dikkat çeken yorum!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Sahte Kaptan ve İhmaller! Filo Jet Faciasının Kan Donduran Perde Arkasını İsmail Saymaz Anlattı</title>
       <link>https://www.youtube.com/watch?v=tEBw4FdIYb4</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">9bBVMGc908Q</guid>
       <pubDate>Wed, 02 Sep 2026 17:58:41 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: UZAYLI İSTİLASI DEĞİL, POLİSTEN DRONLA 'ALKOL' MÜDAHALESİ!</description>
-    </item>
-    <item>
-      <title>Halk TV: ÇARPMA NOKTASI ORASI OLABİLİR! Silivri'de faciaya ilişkin şok detay! Uzakyol Kaptanı Anıker anlattı!</title>
-      <link>https://www.youtube.com/watch?v=OB9sqMS6-D8</link>
-      <guid isPermaLink="false">OB9sqMS6-D8</guid>
-      <pubDate>Wed, 02 Sep 2026 17:55:07 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ÇARPMA NOKTASI ORASI OLABİLİR! Silivri'de faciaya ilişkin şok detay! Uzakyol Kaptanı Anıker anlattı!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: GÖKHAN ÇAPOĞLU'NDAN KRİTİK SOSYAL YAŞAM YORUMU!</title>
-      <link>https://www.youtube.com/shorts/xgoEKkyp6uM</link>
-      <guid isPermaLink="false">xgoEKkyp6uM</guid>
-      <pubDate>Wed, 02 Sep 2026 17:49:39 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: GÖKHAN ÇAPOĞLU'NDAN KRİTİK SOSYAL YAŞAM YORUMU!</description>
     </item>
   </channel>
 </rss>
