@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 20:45:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 20:50:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: GİRNE'DE KRİTİK GELİŞME! Batan geminin enkazı 550 metre derinlikte bulundu!</title>
+      <link>https://www.youtube.com/watch?v=7qJOp9Izv8g</link>
+      <guid isPermaLink="false">7qJOp9Izv8g</guid>
+      <pubDate>Wed, 02 Sep 2026 20:40:33 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: GİRNE'DE KRİTİK GELİŞME! Batan geminin enkazı 550 metre derinlikte bulundu!</description>
+    </item>
     <item>
       <title>Tele2 Haber: İbrahim Uslu'dan Gökçek soruşturması yorumu: Bu anlamda ilk kez önemli bir siyasiye dava açılıyor</title>
       <link>https://www.youtube.com/watch?v=kFEROIPutO8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">FNtIOXb6ye4</guid>
       <pubDate>Wed, 02 Sep 2026 17:00:14 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses'ten Tarihe Geçecek Kıyaslama! Melih Gökçek'e Davet İmamoğlu'na Şafak Baskını</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Özgür Özel-Kılıçdaroğlu tokalaşma karesine tepki yağdı! Murat Taylan'dan nezaket-meşruiyet ayrımı!</title>
-      <link>https://www.youtube.com/watch?v=iqfTn_J0zjs</link>
-      <guid isPermaLink="false">iqfTn_J0zjs</guid>
-      <pubDate>Wed, 02 Sep 2026 17:00:13 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Özgür Özel-Kılıçdaroğlu tokalaşma karesine tepki yağdı! Murat Taylan'dan nezaket-meşruiyet ayrımı!</description>
     </item>
   </channel>
 </rss>
