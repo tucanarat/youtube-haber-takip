@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 12:30:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 12:35:35 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: "CHP Tüzüğüyle Hemen Hemen Aynı!" Uğur Poyraz'dan Çarpıcı YENİ Parti Tüzüğü Yorumu!</title>
+      <link>https://www.youtube.com/watch?v=FqGE54KA4z0</link>
+      <guid isPermaLink="false">FqGE54KA4z0</guid>
+      <pubDate>Wed, 02 Sep 2026 12:30:40 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "CHP Tüzüğüyle Hemen Hemen Aynı!" Uğur Poyraz'dan Çarpıcı YENİ Parti Tüzüğü Yorumu!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Erinç Sağkan'dan İsmail Küçükkaya'ya Çok Konuşulacak Sözler! Akın Gürlek'e Seslendi!</title>
+      <link>https://www.youtube.com/watch?v=x7nltoZoT3k</link>
+      <guid isPermaLink="false">x7nltoZoT3k</guid>
+      <pubDate>Wed, 02 Sep 2026 12:30:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Erinç Sağkan'dan İsmail Küçükkaya'ya Çok Konuşulacak Sözler! Akın Gürlek'e Seslendi!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: CHP Genel Başkanı Kemal Kılıçdaroğlu, İzmir Esnaf ve Sanatkarlar Odaları Birliği'ni ziyaret ediyor</title>
       <link>https://www.youtube.com/watch?v=pn2sQnB_5J4</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">Hz8YPw87oss</guid>
       <pubDate>Wed, 02 Sep 2026 10:40:02 +0000</pubDate>
       <description>Halk TV kanalından yeni video: KILIÇDAROĞLU'NU İYİCE KAPANA KISTIRDI! Özgür Özel masaya vura vura resti çekti! Butlan fena karışır!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: İnan Demirel ile Gündemdekiler | Konuk: İbrahim Uslu (02.09.26)</title>
-      <link>https://www.youtube.com/watch?v=X_Oo-nLA4oo</link>
-      <guid isPermaLink="false">X_Oo-nLA4oo</guid>
-      <pubDate>Wed, 02 Sep 2026 10:34:46 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: İnan Demirel ile Gündemdekiler | Konuk: İbrahim Uslu (02.09.26)</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: TÜRK LİRASININ ÇÖKÜŞÜ! İsmail Küçükkaya 200 TL ve 100 Doları Yan Yana Koydu! İsyan Etti</title>
-      <link>https://www.youtube.com/watch?v=cJchjH8JrzQ</link>
-      <guid isPermaLink="false">cJchjH8JrzQ</guid>
-      <pubDate>Wed, 02 Sep 2026 10:30:07 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: TÜRK LİRASININ ÇÖKÜŞÜ! İsmail Küçükkaya 200 TL ve 100 Doları Yan Yana Koydu! İsyan Etti</description>
     </item>
   </channel>
 </rss>
