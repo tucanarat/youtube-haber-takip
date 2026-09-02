@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 10:40:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 10:45:31 +0000</lastBuildDate>
     <item>
       <title>Cumhuriyet: #CANLI Cumhuriyet'in hafızasıydı... Şükran Soner son yolculuğuna uğurlanıyor</title>
       <link>https://www.youtube.com/watch?v=bcNyJdMLYBY</link>
       <guid isPermaLink="false">bcNyJdMLYBY</guid>
-      <pubDate>Wed, 02 Sep 2026 10:33:42 +0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 10:44:43 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI Cumhuriyet'in hafızasıydı... Şükran Soner son yolculuğuna uğurlanıyor</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Marmara Denizi'nde gemi kazası! Tuğberk İmamoğlu isimli gemi 11 dakikada battı, 10 kişi kayıp...</title>
+      <link>https://www.youtube.com/watch?v=bIkSAknRZeo</link>
+      <guid isPermaLink="false">bIkSAknRZeo</guid>
+      <pubDate>Wed, 02 Sep 2026 10:40:39 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Marmara Denizi'nde gemi kazası! Tuğberk İmamoğlu isimli gemi 11 dakikada battı, 10 kişi kayıp...</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: İnan Demirel ile Gündemdekiler | Konuk: İbrahim Uslu (02.09.26)</title>
+      <link>https://www.youtube.com/watch?v=X_Oo-nLA4oo</link>
+      <guid isPermaLink="false">X_Oo-nLA4oo</guid>
+      <pubDate>Wed, 02 Sep 2026 10:34:46 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: İnan Demirel ile Gündemdekiler | Konuk: İbrahim Uslu (02.09.26)</description>
     </item>
     <item>
       <title>SÖZCÜ TV: TÜRK LİRASININ ÇÖKÜŞÜ! İsmail Küçükkaya 200 TL ve 100 Doları Yan Yana Koydu! İsyan Etti</title>
@@ -85,11 +99,11 @@
       <description>SÖZCÜ TV kanalından yeni video: Mahalleliye Yakalanan Hırsızın Epilepsi Numarası! #shorts</description>
     </item>
     <item>
-      <title>Halk TV: GÖKÇEK'E BİR SUÇ DUYURUSU DAHA! Avukat Nadi Türkaslan'dan bomba İddialar!</title>
+      <title>Halk TV: GÖKÇEK'E BİR SUÇ DUYURUSU DAHA! Avukat Nadi Türkaslan'dan bomba iddialar!</title>
       <link>https://www.youtube.com/watch?v=TW_NpJruspE</link>
       <guid isPermaLink="false">TW_NpJruspE</guid>
       <pubDate>Wed, 02 Sep 2026 10:10:23 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: GÖKÇEK'E BİR SUÇ DUYURUSU DAHA! Avukat Nadi Türkaslan'dan bomba İddialar!</description>
+      <description>Halk TV kanalından yeni video: GÖKÇEK'E BİR SUÇ DUYURUSU DAHA! Avukat Nadi Türkaslan'dan bomba iddialar!</description>
     </item>
     <item>
       <title>Halk TV: YENİ Parti Grup Başkanvekili Ali Mahir Başarır, TBMM'de Açıklama Yaptı!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">leFW90rG3d0</guid>
       <pubDate>Wed, 02 Sep 2026 08:42:07 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Dış politikada da kuşku - Öztin Akgüç</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: 30 Ağustos’u görmezden gelenler! - Zülal Kalkandelen</title>
-      <link>https://www.youtube.com/watch?v=DpWjw-Awczg</link>
-      <guid isPermaLink="false">DpWjw-Awczg</guid>
-      <pubDate>Wed, 02 Sep 2026 08:42:01 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: 30 Ağustos’u görmezden gelenler! - Zülal Kalkandelen</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: 4 büyük kader! - Tuğrul Akşar</title>
-      <link>https://www.youtube.com/watch?v=WIvEeOSqOwg</link>
-      <guid isPermaLink="false">WIvEeOSqOwg</guid>
-      <pubDate>Wed, 02 Sep 2026 08:42:00 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: 4 büyük kader! - Tuğrul Akşar</description>
     </item>
   </channel>
 </rss>
