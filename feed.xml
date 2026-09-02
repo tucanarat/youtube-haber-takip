@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 16:15:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 16:20:36 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SON DAKİKA! 'DOKUNULMAZLIĞIM KALDIRILSIN' DEMİŞTİ! KKTC Ulaştırma Bakanı görevden alındı!</title>
+      <link>https://www.youtube.com/watch?v=Qg2zK_z4ahw</link>
+      <guid isPermaLink="false">Qg2zK_z4ahw</guid>
+      <pubDate>Wed, 02 Sep 2026 16:10:16 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! 'DOKUNULMAZLIĞIM KALDIRILSIN' DEMİŞTİ! KKTC Ulaştırma Bakanı görevden alındı!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: CHP Merkez Yönetim Kurulu Toplantısı sona erdi #Canlı</title>
       <link>https://www.youtube.com/watch?v=FWmi17i2ewU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">4V5szBH6twU</guid>
       <pubDate>Wed, 02 Sep 2026 13:20:19 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Şükran Soner'e veda... Müjdat Gezen: ''Biz onunla yine buluşuruz''</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Gemisini batıran kaptan! - Mustafa Balbay</title>
-      <link>https://www.youtube.com/watch?v=LaN_5wYSXyg</link>
-      <guid isPermaLink="false">LaN_5wYSXyg</guid>
-      <pubDate>Wed, 02 Sep 2026 13:18:45 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Gemisini batıran kaptan! - Mustafa Balbay</description>
     </item>
   </channel>
 </rss>
