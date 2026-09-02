@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 22:20:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 22:25:26 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Merve Ekinci ile Uyanma Vakti</title>
+      <link>https://www.youtube.com/watch?v=KTGoYkJ_esk</link>
+      <guid isPermaLink="false">KTGoYkJ_esk</guid>
+      <pubDate>Wed, 02 Sep 2026 22:24:03 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Merve Ekinci ile Uyanma Vakti</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Kürşad Oğuz ile Rota</title>
       <link>https://www.youtube.com/watch?v=WcrnFKHl8DQ</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">TZBGxtBDkN0</guid>
       <pubDate>Wed, 02 Sep 2026 18:10:31 +0000</pubDate>
       <description>Halk TV kanalından yeni video: "Gerçek sorumluların hesap vermesini istiyoruz!" Ali Mahir Başarır basın toplantısında konuştu.</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Fıstık Bağları ve Lüks Konutlar! Gökçek Ailesinin İnanılmaz Servetini Murat Ağırel'den Dinleyin</title>
-      <link>https://www.youtube.com/watch?v=4HQmoUqn9SI</link>
-      <guid isPermaLink="false">4HQmoUqn9SI</guid>
-      <pubDate>Wed, 02 Sep 2026 18:00:08 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Fıstık Bağları ve Lüks Konutlar! Gökçek Ailesinin İnanılmaz Servetini Murat Ağırel'den Dinleyin</description>
     </item>
   </channel>
 </rss>
