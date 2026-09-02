@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 07:30:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 07:35:26 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Umut Akdoğan kasap oldu, kıyma hesabı yaptı...  "200 lirayla alabildiğim kıyma bu"</title>
+      <link>https://www.youtube.com/watch?v=R1zK0v-3t40</link>
+      <guid isPermaLink="false">R1zK0v-3t40</guid>
+      <pubDate>Wed, 02 Sep 2026 07:33:24 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Umut Akdoğan kasap oldu, kıyma hesabı yaptı...  "200 lirayla alabildiğim kıyma bu"</description>
+    </item>
     <item>
       <title>Cumhuriyet: YENİ Partili Aşkın Genç'ten zam tepkisi: "Vatandaşın geliri yoldaki fiyat artışına yetişemiyor"</title>
       <link>https://www.youtube.com/shorts/l0GN_a7_vM4</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">qsjRGK5j4q4</guid>
       <pubDate>Tue, 01 Sep 2026 22:00:45 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Bilge Yurtdagülen ile Gündem Özel (1 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: İzmir’de 15 günde 60 bin üye! Çağatay Güç: “YENİ PARTİ İKTİDARA HAZIRLANIYOR!” #shorts</title>
-      <link>https://www.youtube.com/shorts/TU8G_E0-Hz0</link>
-      <guid isPermaLink="false">TU8G_E0-Hz0</guid>
-      <pubDate>Tue, 01 Sep 2026 21:54:36 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İzmir’de 15 günde 60 bin üye! Çağatay Güç: “YENİ PARTİ İKTİDARA HAZIRLANIYOR!” #shorts</description>
     </item>
   </channel>
 </rss>
