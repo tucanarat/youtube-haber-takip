@@ -24449,7 +24449,7 @@
   },
   "QLwXWjkXDDQ": {
     "id": "QLwXWjkXDDQ",
-    "title": "Can Coşkun ile Gündem Masası",
+    "title": "#CANLI Can Coşkun ile Gündem Masası",
     "link": "https://www.youtube.com/watch?v=QLwXWjkXDDQ",
     "published": "2026-09-01T21:48:23+00:00",
     "published_ts": 1788299303,
@@ -24457,10 +24457,10 @@
   },
   "3GaLWNBuj-k": {
     "id": "3GaLWNBuj-k",
-    "title": "#CANLI İsmail Küçükkaya ile Günaydın Türkiyem",
+    "title": "İsmail Küçükkaya ile Günaydın Türkiyem | 2 Eylül",
     "link": "https://www.youtube.com/watch?v=3GaLWNBuj-k",
-    "published": "2026-09-01T21:48:00+00:00",
-    "published_ts": 1788299280,
+    "published": "2026-09-02T07:59:37+00:00",
+    "published_ts": 1788335977,
     "channel_name": "SÖZCÜ TV"
   },
   "PYe6-6id2wE": {
@@ -24886,5 +24886,45 @@
     "published": "2026-09-02T08:00:17+00:00",
     "published_ts": 1788336017,
     "channel_name": "Halk TV"
+  },
+  "3Fyex9GQooQ": {
+    "id": "3Fyex9GQooQ",
+    "title": "Marmara'da Facia! İki Gemi Çarpıştı! Tuğberk İmamoğlu Gemisi Battı mı? 10 Denizci Kayıp",
+    "link": "https://www.youtube.com/watch?v=3Fyex9GQooQ",
+    "published": "2026-09-02T08:00:15+00:00",
+    "published_ts": 1788336015,
+    "channel_name": "SÖZCÜ TV"
+  },
+  "EbEo_-lume0": {
+    "id": "EbEo_-lume0",
+    "title": "Avrupa Hareketlilik Haftası Medya Lansmanı ve Çalıştayı #Canlı",
+    "link": "https://www.youtube.com/watch?v=EbEo_-lume0",
+    "published": "2026-09-02T07:55:41+00:00",
+    "published_ts": 1788335741,
+    "channel_name": "ANKA Haber Ajansı"
+  },
+  "YD73xE2thrw": {
+    "id": "YD73xE2thrw",
+    "title": "BBP Genel Başkanı Mustafa Destici, partisinin genel merkezinde basın toplantısı düzenliyor #Canlı",
+    "link": "https://www.youtube.com/watch?v=YD73xE2thrw",
+    "published": "2026-09-02T07:53:57+00:00",
+    "published_ts": 1788335637,
+    "channel_name": "ANKA Haber Ajansı"
+  },
+  "st0yzrTiczU": {
+    "id": "st0yzrTiczU",
+    "title": "Onur Öncü'den DİSK ve TÜRK-İŞ'e Başaran Aksu Tepkisi! \"Utanmazlıklarını Her Fırsatta...\"",
+    "link": "https://www.youtube.com/shorts/st0yzrTiczU",
+    "published": "2026-09-02T08:02:39+00:00",
+    "published_ts": 1788336159,
+    "channel_name": "Tele2 Haber"
+  },
+  "sfsWZv357Z4": {
+    "id": "sfsWZv357Z4",
+    "title": "\"Seçimlerden Sonra Demokratik ve Sivil Anayasa Yapacağız!\" Özgür Özel'den Bomba Anayasa Çıkışı!\"",
+    "link": "https://www.youtube.com/watch?v=sfsWZv357Z4",
+    "published": "2026-09-02T07:57:13+00:00",
+    "published_ts": 1788335833,
+    "channel_name": "Tele2 Haber"
   }
 }
