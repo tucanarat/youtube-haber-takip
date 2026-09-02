@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 07:15:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 07:20:35 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Adalet Bakanı Akın Gürlek Adli Yıl açılış programında konuşuyor</title>
+      <link>https://www.youtube.com/watch?v=GOUPstG6NxM</link>
+      <guid isPermaLink="false">GOUPstG6NxM</guid>
+      <pubDate>Wed, 02 Sep 2026 07:19:31 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Adalet Bakanı Akın Gürlek Adli Yıl açılış programında konuşuyor</description>
+    </item>
+    <item>
+      <title>Halk TV: İŞTE İLK FOTOĞRAF! Gece yarısı Silivri açıklarında batan Tuğberk İmamoğlu gemisi böyle görüntülendi!</title>
+      <link>https://www.youtube.com/watch?v=LFFyJ7-PFSU</link>
+      <guid isPermaLink="false">LFFyJ7-PFSU</guid>
+      <pubDate>Wed, 02 Sep 2026 07:15:17 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İŞTE İLK FOTOĞRAF! Gece yarısı Silivri açıklarında batan Tuğberk İmamoğlu gemisi böyle görüntülendi!</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: #CANLI Adli yıl başladı... İstanbul Adliyesi'nden açılış programı…</title>
+      <link>https://www.youtube.com/watch?v=R_GA2k5sQlQ</link>
+      <guid isPermaLink="false">R_GA2k5sQlQ</guid>
+      <pubDate>Wed, 02 Sep 2026 07:10:53 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI Adli yıl başladı... İstanbul Adliyesi'nden açılış programı…</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI Evren Özalkuş ile Gerçek | Konuk: Gökhan Çapoğlu ve Onur Cıngıl</title>
       <link>https://www.youtube.com/watch?v=N8E0FJryxqo</link>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">Y5uI-aryZEA</guid>
       <pubDate>Tue, 01 Sep 2026 21:51:20 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Cumhurbaşkanı Erdoğan, Şanghay İşbirliği Örgütü Devlet Başkanları Zirvesi'nde konuşuyor #Canlı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: NEVZAT ÇİÇEK TEK TEK AÇIKLADI: Türkiye'yi Hedef Alan İsrail Planı ve Yeni Körfez İttifakı</title>
-      <link>https://www.youtube.com/watch?v=dIeNfzf7ltc</link>
-      <guid isPermaLink="false">dIeNfzf7ltc</guid>
-      <pubDate>Tue, 01 Sep 2026 21:50:00 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: NEVZAT ÇİÇEK TEK TEK AÇIKLADI: Türkiye'yi Hedef Alan İsrail Planı ve Yeni Körfez İttifakı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Özlem Gürses ile Sözcü Ana Haber</title>
-      <link>https://www.youtube.com/watch?v=4ImlT6haIxM</link>
-      <guid isPermaLink="false">4ImlT6haIxM</guid>
-      <pubDate>Tue, 01 Sep 2026 21:49:51 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses ile Sözcü Ana Haber</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Damla Doğan Tuncel ile 1 Saat</title>
-      <link>https://www.youtube.com/watch?v=GHblg-CcEVs</link>
-      <guid isPermaLink="false">GHblg-CcEVs</guid>
-      <pubDate>Tue, 01 Sep 2026 21:49:32 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Damla Doğan Tuncel ile 1 Saat</description>
     </item>
   </channel>
 </rss>
