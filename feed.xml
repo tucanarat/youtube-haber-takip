@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 12:50:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 12:55:28 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: CHP Genel Başkanı Kemal Kılıçdaroğlu, İzmir Esnaf ve Sanatkarlar Odaları Birliği'ni ziyaret ediyor</title>
+      <link>https://www.youtube.com/watch?v=g8_pdCQnA_0</link>
+      <guid isPermaLink="false">g8_pdCQnA_0</guid>
+      <pubDate>Wed, 02 Sep 2026 12:52:53 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkanı Kemal Kılıçdaroğlu, İzmir Esnaf ve Sanatkarlar Odaları Birliği'ni ziyaret ediyor</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Gizem Çetin ile Parantez</title>
+      <link>https://www.youtube.com/watch?v=v5pFev7vGgY</link>
+      <guid isPermaLink="false">v5pFev7vGgY</guid>
+      <pubDate>Wed, 02 Sep 2026 12:52:47 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Gizem Çetin ile Parantez</description>
+    </item>
     <item>
       <title>Halk TV: HERKES KULAĞINA BAKSIN! "Bu çizgi kalp krizi riskiyle bağlantılı olabilir!" Uzman isim anlattı!</title>
       <link>https://www.youtube.com/watch?v=ucj6Xhp67oI</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">I_Wg8Jxv1Ms</guid>
       <pubDate>Wed, 02 Sep 2026 10:44:46 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Silivri'de batan gemiyi takip eden basın mensuplarına saldırı!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: #CANLI Cumhuriyet'in hafızasıydı... Şükran Soner son yolculuğuna uğurlanıyor</title>
-      <link>https://www.youtube.com/watch?v=bcNyJdMLYBY</link>
-      <guid isPermaLink="false">bcNyJdMLYBY</guid>
-      <pubDate>Wed, 02 Sep 2026 10:44:43 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI Cumhuriyet'in hafızasıydı... Şükran Soner son yolculuğuna uğurlanıyor</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Marmara Denizi'nde gemi kazası! Tuğberk İmamoğlu isimli gemi 11 dakikada battı, 10 kişi kayıp...</title>
-      <link>https://www.youtube.com/watch?v=bIkSAknRZeo</link>
-      <guid isPermaLink="false">bIkSAknRZeo</guid>
-      <pubDate>Wed, 02 Sep 2026 10:40:39 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Marmara Denizi'nde gemi kazası! Tuğberk İmamoğlu isimli gemi 11 dakikada battı, 10 kişi kayıp...</description>
     </item>
   </channel>
 </rss>
