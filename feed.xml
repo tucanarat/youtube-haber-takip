@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 19:15:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 19:20:34 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: CHP Genel Başkanı Kemal Kılıçdaroğlu, "Mağdur Aileler ile Yemek" programına katılıyor / İzmir #Canlı</title>
+      <link>https://www.youtube.com/watch?v=GndlNUPwvfQ</link>
+      <guid isPermaLink="false">GndlNUPwvfQ</guid>
+      <pubDate>Wed, 02 Sep 2026 19:18:18 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkanı Kemal Kılıçdaroğlu, "Mağdur Aileler ile Yemek" programına katılıyor / İzmir #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: Eski MB Başkanı Gaye Erkan ile ilgili yeni skandal bilgiler geliyor: Sitedekileri tehdit etmiş!</title>
       <link>https://www.youtube.com/watch?v=7Vw5Wiku8kc</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">q9Pw9MOHIFA</guid>
       <pubDate>Wed, 02 Sep 2026 16:00:00 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses Silivri'deki Gemi Kazasının 11 Dakikasını Anlattı! Gemideki 10 Denizciye Ne Oldu?</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: CHP Genel Başkanı Kemal Kılıçdaroğlu, CHP İl binasına yürüyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=H_0aXoOLTNA</link>
-      <guid isPermaLink="false">H_0aXoOLTNA</guid>
-      <pubDate>Wed, 02 Sep 2026 15:55:56 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkanı Kemal Kılıçdaroğlu, CHP İl binasına yürüyor #Canlı</description>
     </item>
   </channel>
 </rss>
