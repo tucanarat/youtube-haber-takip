@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 00:35:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 00:40:32 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: 2026 - 2027 Adli Yılı açılış töreni #canlı</title>
+      <link>https://www.youtube.com/watch?v=XWTnVP096ng</link>
+      <guid isPermaLink="false">XWTnVP096ng</guid>
+      <pubDate>Wed, 02 Sep 2026 00:40:10 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: 2026 - 2027 Adli Yılı açılış töreni #canlı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Aleyna Tilki'den Gündem Olacak Tekelleşme İsyanı! Müzik Sektöründe Kara Kutu Açıldı</title>
       <link>https://www.youtube.com/watch?v=Ka87T9NGueU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">IQUtPVxGSmY</guid>
       <pubDate>Tue, 01 Sep 2026 19:50:17 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Ortadoğu'da Kızılca Kıyamet! Devrim Muhafızları'ndan Peş Peşe Misilleme! Trump Çıldıracak</description>
-    </item>
-    <item>
-      <title>Halk TV: KARANFİL DAĞITIMINA POLİS ENGELİ! İBB zabıtasının yıl dönümü kutlamasında gerilim</title>
-      <link>https://www.youtube.com/watch?v=W00w8ZwTxak</link>
-      <guid isPermaLink="false">W00w8ZwTxak</guid>
-      <pubDate>Tue, 01 Sep 2026 19:45:20 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KARANFİL DAĞITIMINA POLİS ENGELİ! İBB zabıtasının yıl dönümü kutlamasında gerilim</description>
     </item>
   </channel>
 </rss>
