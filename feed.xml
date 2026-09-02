@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 16:20:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 16:25:26 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Netanyahu'dan 7 Ekim İtirafı: "Beni Uyandırmadılar!" Özlem Gürses'ten Bomba Yorum!</title>
+      <link>https://www.youtube.com/watch?v=-bC5dEO-wD0</link>
+      <guid isPermaLink="false">-bC5dEO-wD0</guid>
+      <pubDate>Wed, 02 Sep 2026 16:15:14 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Netanyahu'dan 7 Ekim İtirafı: "Beni Uyandırmadılar!" Özlem Gürses'ten Bomba Yorum!</description>
+    </item>
     <item>
       <title>Halk TV: SON DAKİKA! 'DOKUNULMAZLIĞIM KALDIRILSIN' DEMİŞTİ! KKTC Ulaştırma Bakanı görevden alındı!</title>
       <link>https://www.youtube.com/watch?v=Qg2zK_z4ahw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">g8_pdCQnA_0</guid>
       <pubDate>Wed, 02 Sep 2026 13:22:51 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkanı Kemal Kılıçdaroğlu, İzmir Esnaf ve Sanatkarlar Odaları Birliği'ni ziyaret ediyor</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Şükran Soner'e veda... Müjdat Gezen: ''Biz onunla yine buluşuruz''</title>
-      <link>https://www.youtube.com/shorts/4V5szBH6twU</link>
-      <guid isPermaLink="false">4V5szBH6twU</guid>
-      <pubDate>Wed, 02 Sep 2026 13:20:19 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Şükran Soner'e veda... Müjdat Gezen: ''Biz onunla yine buluşuruz''</description>
     </item>
   </channel>
 </rss>
