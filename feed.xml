@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 18:10:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 18:15:35 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: "Gerçek sorumluların hesap vermesini istiyoruz!" Ali Mahir Başarır basın toplantısında konuştu.</title>
+      <link>https://www.youtube.com/watch?v=TZBGxtBDkN0</link>
+      <guid isPermaLink="false">TZBGxtBDkN0</guid>
+      <pubDate>Wed, 02 Sep 2026 18:10:31 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: "Gerçek sorumluların hesap vermesini istiyoruz!" Ali Mahir Başarır basın toplantısında konuştu.</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Fıstık Bağları ve Lüks Konutlar! Gökçek Ailesinin İnanılmaz Servetini Murat Ağırel'den Dinleyin</title>
       <link>https://www.youtube.com/watch?v=4HQmoUqn9SI</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">W23rQtHl9zg</guid>
       <pubDate>Wed, 02 Sep 2026 15:10:37 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SON DAKİKA! GÜNDEM BU ÇIKIŞLA SALLANDI! KKTC Ulaştırma Bakanı Arıklı'dan flaş 'dokunulmazlık' çıkışı</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Mustafa Destici, Ukrayna'nın Ankara Büyükelçisi Nariman Celalov ile açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=4_GgfAklQ4k</link>
-      <guid isPermaLink="false">4_GgfAklQ4k</guid>
-      <pubDate>Wed, 02 Sep 2026 15:09:14 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Mustafa Destici, Ukrayna'nın Ankara Büyükelçisi Nariman Celalov ile açıklama yapıyor #Canlı</description>
     </item>
   </channel>
 </rss>
