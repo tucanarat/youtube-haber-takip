@@ -24449,10 +24449,10 @@
   },
   "QLwXWjkXDDQ": {
     "id": "QLwXWjkXDDQ",
-    "title": "#CANLI Can Coşkun ile Gündem Masası",
+    "title": "Can Coşkun ile Gündem Masası | 2 Eylül",
     "link": "https://www.youtube.com/watch?v=QLwXWjkXDDQ",
-    "published": "2026-09-01T21:48:23+00:00",
-    "published_ts": 1788299303,
+    "published": "2026-09-02T10:00:14+00:00",
+    "published_ts": 1788343214,
     "channel_name": "SÖZCÜ TV"
   },
   "3GaLWNBuj-k": {
@@ -25222,5 +25222,29 @@
     "published": "2026-09-02T09:55:15+00:00",
     "published_ts": 1788342915,
     "channel_name": "Halk TV"
+  },
+  "TzThyhtjkvc": {
+    "id": "TzThyhtjkvc",
+    "title": "#CANLI Can Coşkun ile Gündem Masası",
+    "link": "https://www.youtube.com/watch?v=TzThyhtjkvc",
+    "published": "2026-09-02T09:56:04+00:00",
+    "published_ts": 1788342964,
+    "channel_name": "SÖZCÜ TV"
+  },
+  "44PXxBynnn4": {
+    "id": "44PXxBynnn4",
+    "title": "Erinç Sağkan İsmail Küçükkaya'ya Neler Anlattı Neler! Ekrem İmamoğlu'na Büyük Haksızlık!",
+    "link": "https://www.youtube.com/watch?v=44PXxBynnn4",
+    "published": "2026-09-02T10:00:24+00:00",
+    "published_ts": 1788343224,
+    "channel_name": "SÖZCÜ TV"
+  },
+  "iY3DkE2Gpzg": {
+    "id": "iY3DkE2Gpzg",
+    "title": "Özgür Özel, partisinin genel merkezinde  İl Başkanları Toplantısında konuşuyor",
+    "link": "https://www.youtube.com/watch?v=iY3DkE2Gpzg",
+    "published": "2026-09-02T09:56:43+00:00",
+    "published_ts": 1788343003,
+    "channel_name": "ANKA Haber Ajansı"
   }
 }
