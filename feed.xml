@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 07:10:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 07:15:32 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: #CANLI Evren Özalkuş ile Gerçek | Konuk: Gökhan Çapoğlu ve Onur Cıngıl</title>
       <link>https://www.youtube.com/watch?v=N8E0FJryxqo</link>
       <guid isPermaLink="false">N8E0FJryxqo</guid>
       <pubDate>Wed, 02 Sep 2026 07:00:37 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Evren Özalkuş ile Gerçek | Konuk: Gökhan Çapoğlu ve Onur Cıngıl</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Kıbrıs'ta Acı ve İsyan! "ÖLMEDİLER ÖLDÜRÜLDÜLER!" Ailelerden Tufan Erhürman'a Sert Tepki!</title>
+      <link>https://www.youtube.com/watch?v=k1FHT7ym4wI</link>
+      <guid isPermaLink="false">k1FHT7ym4wI</guid>
+      <pubDate>Wed, 02 Sep 2026 07:00:27 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Kıbrıs'ta Acı ve İsyan! "ÖLMEDİLER ÖLDÜRÜLDÜLER!" Ailelerden Tufan Erhürman'a Sert Tepki!</description>
     </item>
     <item>
       <title>Halk TV: Gökhan Kayış ile Haberler (2 Eylül 2026)</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">GHblg-CcEVs</guid>
       <pubDate>Tue, 01 Sep 2026 21:49:32 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Damla Doğan Tuncel ile 1 Saat</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Senem Toluay Ilgaz ile Öncesi Sonrası</title>
-      <link>https://www.youtube.com/watch?v=878kxn4TeCo</link>
-      <guid isPermaLink="false">878kxn4TeCo</guid>
-      <pubDate>Tue, 01 Sep 2026 21:49:09 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Senem Toluay Ilgaz ile Öncesi Sonrası</description>
     </item>
   </channel>
 </rss>
