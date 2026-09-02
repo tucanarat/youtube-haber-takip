@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 23:05:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 23:10:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Silivri açıklarında 2 gemi çarpıştı! Arama kurtarma çalışmaları sürüyor! #shorts</title>
+      <link>https://www.youtube.com/shorts/G0hICr02rPk</link>
+      <guid isPermaLink="false">G0hICr02rPk</guid>
+      <pubDate>Wed, 02 Sep 2026 23:00:34 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Silivri açıklarında 2 gemi çarpıştı! Arama kurtarma çalışmaları sürüyor! #shorts</description>
+    </item>
     <item>
       <title>Halk TV: Butlan kararı ile göreve gelen CHP Genel Başkanı Kemal Kılıçdaroğlu, İzmir'de konuşma yaptı! #shorts</title>
       <link>https://www.youtube.com/shorts/DWy0BC40xV8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">LPpelfB_TWc</guid>
       <pubDate>Wed, 02 Sep 2026 19:00:11 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Melih Gökçek Hakkında Çarpıcı Suç Örgütü ve İhale İddiaları! ŞOK ŞEMAYI MURAT AĞIREL İFŞA ETTİ</description>
-    </item>
-    <item>
-      <title>Halk TV: PATLIYOR! İcra dosyası sayısı 26 milyonu aştı! Avukatlar da şaşkın!</title>
-      <link>https://www.youtube.com/watch?v=35JOz2IMDMQ</link>
-      <guid isPermaLink="false">35JOz2IMDMQ</guid>
-      <pubDate>Wed, 02 Sep 2026 18:55:14 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: PATLIYOR! İcra dosyası sayısı 26 milyonu aştı! Avukatlar da şaşkın!</description>
     </item>
   </channel>
 </rss>
