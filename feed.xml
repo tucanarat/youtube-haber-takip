@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 16:30:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 16:35:27 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Melih Gökçek ifadeye çağrıldı! Sürpriz gelir mi? Murat Taylan 'Mansur Yavaş hazırlığını' analiz etti</title>
+      <link>https://www.youtube.com/watch?v=HF2bh8J7xc0</link>
+      <guid isPermaLink="false">HF2bh8J7xc0</guid>
+      <pubDate>Wed, 02 Sep 2026 16:30:19 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Melih Gökçek ifadeye çağrıldı! Sürpriz gelir mi? Murat Taylan 'Mansur Yavaş hazırlığını' analiz etti</description>
+    </item>
     <item>
       <title>Halk TV: Rusya semalarında alarm! Türkiye’den kalkan uçaklar geri döndü</title>
       <link>https://www.youtube.com/watch?v=-O21FUgJv3M</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ZpLkQTETgx4</guid>
       <pubDate>Wed, 02 Sep 2026 13:27:08 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Parti Lideri Özgür Özel: Türkiye'yi yönetmeye hazırız!</description>
-    </item>
-    <item>
-      <title>Halk TV: DURUŞMAYA BUZ KESTİREN SÖZLER! İBB davasında itirafçı Murat Kapki'nin sözleri çok konuşulacak!</title>
-      <link>https://www.youtube.com/watch?v=gyxSZl-BGzs</link>
-      <guid isPermaLink="false">gyxSZl-BGzs</guid>
-      <pubDate>Wed, 02 Sep 2026 13:25:21 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: DURUŞMAYA BUZ KESTİREN SÖZLER! İBB davasında itirafçı Murat Kapki'nin sözleri çok konuşulacak!</description>
     </item>
   </channel>
 </rss>
