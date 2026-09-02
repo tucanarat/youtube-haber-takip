@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 14:40:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 14:45:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: O KAZADAN KALAN EŞYALAR KARAYA VURDU! Girne sahilinde yürek burkan görüntüler!</title>
+      <link>https://www.youtube.com/watch?v=5WPFYLvAVs0</link>
+      <guid isPermaLink="false">5WPFYLvAVs0</guid>
+      <pubDate>Wed, 02 Sep 2026 14:40:34 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: O KAZADAN KALAN EŞYALAR KARAYA VURDU! Girne sahilinde yürek burkan görüntüler!</description>
+    </item>
+    <item>
+      <title>Halk TV: Melih Gökçek Şüpheli Sıfatıyla İfade Verecek, Özgür Özel’den Yeni Yol Haritası | Bugün Ne Oldu?</title>
+      <link>https://www.youtube.com/shorts/1BmQcuEFLN4</link>
+      <guid isPermaLink="false">1BmQcuEFLN4</guid>
+      <pubDate>Wed, 02 Sep 2026 14:34:47 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Melih Gökçek Şüpheli Sıfatıyla İfade Verecek, Özgür Özel’den Yeni Yol Haritası | Bugün Ne Oldu?</description>
+    </item>
     <item>
       <title>Tele2 Haber: "Melih Gökçek İfadeye Çağrıldı Diye Sevinir Hale Geidik!" Uğur Emek'ten Çarpıcı AKP Projeksiyonu!</title>
       <link>https://www.youtube.com/watch?v=r_DInssqTgs</link>
@@ -20,6 +34,13 @@
       <guid isPermaLink="false">ZuYot-rUnpU</guid>
       <pubDate>Wed, 02 Sep 2026 14:30:21 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "ÇERÇEVE YASA REJİMİ KALICILAŞTIRMADIR!" Zeynel Lüle ile Ankara Günlüğü | Konuk: İsmail Hakkı Tombul</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: MELİH GÖKÇEK'İN ÇARKI PATLADI! Ankara'daki Büyük Vurgun! FETÖ İddiaları! | Mustafa Balbay</title>
+      <link>https://www.youtube.com/watch?v=F4bJ0BZ6Kq8</link>
+      <guid isPermaLink="false">F4bJ0BZ6Kq8</guid>
+      <pubDate>Wed, 02 Sep 2026 14:30:15 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: MELİH GÖKÇEK'İN ÇARKI PATLADI! Ankara'daki Büyük Vurgun! FETÖ İddiaları! | Mustafa Balbay</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | CHP'nin Genel Başkanlığına Atanan Kılıçdaroğlu CHP İl Binasına Yürüyor!</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">l_VLUZdvo9k</guid>
       <pubDate>Wed, 02 Sep 2026 12:07:09 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Batan Tuğberk İmamoğlu gemisinin İskenderun Limanı’ndan ayrılış görüntüleri ortaya çıktı!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "İtirafa İnanılıyor Geri Çekene İnanılmıyor!" Uğur Poyraz'dan Çarpıcı İBB Davası Yorumu!</title>
-      <link>https://www.youtube.com/watch?v=RDgBbdGsBrk</link>
-      <guid isPermaLink="false">RDgBbdGsBrk</guid>
-      <pubDate>Wed, 02 Sep 2026 12:00:33 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "İtirafa İnanılıyor Geri Çekene İnanılmıyor!" Uğur Poyraz'dan Çarpıcı İBB Davası Yorumu!</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel: Patron millettir, siyasetçi milletin çalışanıdır!</title>
-      <link>https://www.youtube.com/shorts/bmGD7isP1ig</link>
-      <guid isPermaLink="false">bmGD7isP1ig</guid>
-      <pubDate>Wed, 02 Sep 2026 12:00:14 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel: Patron millettir, siyasetçi milletin çalışanıdır!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Erdoğan ve Putin'in Gizemli 90 Dakikası! İsrail Yunanistan Paniğe Kapıldı! Şanghay Hamlesi</title>
-      <link>https://www.youtube.com/watch?v=RBEynUvI0bY</link>
-      <guid isPermaLink="false">RBEynUvI0bY</guid>
-      <pubDate>Wed, 02 Sep 2026 12:00:07 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Erdoğan ve Putin'in Gizemli 90 Dakikası! İsrail Yunanistan Paniğe Kapıldı! Şanghay Hamlesi</description>
     </item>
   </channel>
 </rss>
