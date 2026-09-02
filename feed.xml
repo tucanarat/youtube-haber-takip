@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 19:47:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 19:50:36 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: İstanbul Adliyesi'nde Adli Yıl açılış programı düzenleniyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=DsWVg2wKAok</link>
@@ -22,11 +22,25 @@
       <description>Halk TV kanalından yeni video: "ETTEN GEÇTİK, KEMİK ALIYORUZ!" Tencerede et değil kemik kaynıyor! Vatandaş anlattı!</description>
     </item>
     <item>
+      <title>SÖZCÜ TV: Melih Gökçek Gözden Çıkarıldı mı? Ankara'yı Sarsan Dosyanın Perde Arkası! Barış Terkoğlu İfşa Etti</title>
+      <link>https://www.youtube.com/watch?v=EOC9y2cx_Es</link>
+      <guid isPermaLink="false">EOC9y2cx_Es</guid>
+      <pubDate>Wed, 02 Sep 2026 19:40:05 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Melih Gökçek Gözden Çıkarıldı mı? Ankara'yı Sarsan Dosyanın Perde Arkası! Barış Terkoğlu İfşa Etti</description>
+    </item>
+    <item>
       <title>ANKA Haber Ajansı: CHP Genel Başkanı Kemal Kılıçdaroğlu, İzmir'de yürüyüş gerçekleştiriyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=OrJKT7SuvTo</link>
       <guid isPermaLink="false">OrJKT7SuvTo</guid>
       <pubDate>Wed, 02 Sep 2026 19:39:32 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkanı Kemal Kılıçdaroğlu, İzmir'de yürüyüş gerçekleştiriyor #Canlı</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: #CANLI Adli yıl başladı... İstanbul Adliyesi'nden açılış programı…</title>
+      <link>https://www.youtube.com/watch?v=R_GA2k5sQlQ</link>
+      <guid isPermaLink="false">R_GA2k5sQlQ</guid>
+      <pubDate>Wed, 02 Sep 2026 19:37:12 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI Adli yıl başladı... İstanbul Adliyesi'nden açılış programı…</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | Ankara'nın Altındağ ilçesinde bir binada çıkan yangına ekipler müdahale ediyor!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">bCK22KV1cdY</guid>
       <pubDate>Wed, 02 Sep 2026 16:30:23 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İran'dan ABD Üslerine Peş Peşe Füzeler! TRUMP NEFES ALAMIYOR! Düğün Evine ABD Saldırısı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Melih Gökçek ifadeye çağrıldı! Sürpriz gelir mi? Murat Taylan 'Mansur Yavaş hazırlığını' analiz etti</title>
-      <link>https://www.youtube.com/watch?v=HF2bh8J7xc0</link>
-      <guid isPermaLink="false">HF2bh8J7xc0</guid>
-      <pubDate>Wed, 02 Sep 2026 16:30:19 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Melih Gökçek ifadeye çağrıldı! Sürpriz gelir mi? Murat Taylan 'Mansur Yavaş hazırlığını' analiz etti</description>
-    </item>
-    <item>
-      <title>Halk TV: Rusya semalarında alarm! Türkiye’den kalkan uçaklar geri döndü</title>
-      <link>https://www.youtube.com/watch?v=-O21FUgJv3M</link>
-      <guid isPermaLink="false">-O21FUgJv3M</guid>
-      <pubDate>Wed, 02 Sep 2026 16:25:34 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Rusya semalarında alarm! Türkiye’den kalkan uçaklar geri döndü</description>
     </item>
   </channel>
 </rss>
