@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 13:55:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 14:00:54 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Senem Toluay Ilgaz ile Öncesi Sonrası | 2 Eylül</title>
+      <link>https://www.youtube.com/watch?v=878kxn4TeCo</link>
+      <guid isPermaLink="false">878kxn4TeCo</guid>
+      <pubDate>Wed, 02 Sep 2026 13:59:18 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Senem Toluay Ilgaz ile Öncesi Sonrası | 2 Eylül</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Mustafa Destici, Ukrayna'nın Ankara Büyükelçisi Nariman Celalov ile açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=4_GgfAklQ4k</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">5YZNZKQLLgM</guid>
       <pubDate>Wed, 02 Sep 2026 11:23:52 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Özgür Özel: Tarihin en hızlı örgütlenme süreci...</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Facia sonrası Kıbrıs uçak biletlerine zam! “Böyle bir günde bu yapılır mı?"</title>
-      <link>https://www.youtube.com/watch?v=WQgiEmkvDvU</link>
-      <guid isPermaLink="false">WQgiEmkvDvU</guid>
-      <pubDate>Wed, 02 Sep 2026 11:21:50 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Facia sonrası Kıbrıs uçak biletlerine zam! “Böyle bir günde bu yapılır mı?"</description>
     </item>
   </channel>
 </rss>
