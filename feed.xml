@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 09:40:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 09:45:36 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Denizcilik Genel Müdürü Ünal Baylan, Silivri Açıklarında Batan Gemi İçin Açıklama Yapıyor</title>
+      <link>https://www.youtube.com/watch?v=VVXvUDmVYqc</link>
+      <guid isPermaLink="false">VVXvUDmVYqc</guid>
+      <pubDate>Wed, 02 Sep 2026 09:40:51 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Denizcilik Genel Müdürü Ünal Baylan, Silivri Açıklarında Batan Gemi İçin Açıklama Yapıyor</description>
+    </item>
+    <item>
+      <title>Halk TV: SON DAKİKA! SİLİVRİ'DE İKİ GEMİ BU YÜZDEN ÇARPIŞMIŞ OLABİLİR! İmamoğlu Denizcilik’ten ilk açıklama!</title>
+      <link>https://www.youtube.com/watch?v=TWIUAo4oKB4</link>
+      <guid isPermaLink="false">TWIUAo4oKB4</guid>
+      <pubDate>Wed, 02 Sep 2026 09:40:04 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! SİLİVRİ'DE İKİ GEMİ BU YÜZDEN ÇARPIŞMIŞ OLABİLİR! İmamoğlu Denizcilik’ten ilk açıklama!</description>
+    </item>
     <item>
       <title>Cumhuriyet: Şükran Soner'e veda... Oğlu: Annem demokratik bir ülkede ölemedi</title>
       <link>https://www.youtube.com/shorts/j_BfQFZTnNM</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">R_GA2k5sQlQ</guid>
       <pubDate>Wed, 02 Sep 2026 07:10:53 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI Adli yıl başladı... İstanbul Adliyesi'nden açılış programı…</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Evren Özalkuş ile Gerçek | Konuk: Gökhan Çapoğlu ve Onur Cıngıl</title>
-      <link>https://www.youtube.com/watch?v=N8E0FJryxqo</link>
-      <guid isPermaLink="false">N8E0FJryxqo</guid>
-      <pubDate>Wed, 02 Sep 2026 07:00:37 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Evren Özalkuş ile Gerçek | Konuk: Gökhan Çapoğlu ve Onur Cıngıl</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Kıbrıs'ta Acı ve İsyan! "ÖLMEDİLER ÖLDÜRÜLDÜLER!" Ailelerden Tufan Erhürman'a Sert Tepki!</title>
-      <link>https://www.youtube.com/watch?v=k1FHT7ym4wI</link>
-      <guid isPermaLink="false">k1FHT7ym4wI</guid>
-      <pubDate>Wed, 02 Sep 2026 07:00:27 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Kıbrıs'ta Acı ve İsyan! "ÖLMEDİLER ÖLDÜRÜLDÜLER!" Ailelerden Tufan Erhürman'a Sert Tepki!</description>
     </item>
   </channel>
 </rss>
