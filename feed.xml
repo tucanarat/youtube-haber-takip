@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 12:45:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 12:50:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: HERKES KULAĞINA BAKSIN! "Bu çizgi kalp krizi riskiyle bağlantılı olabilir!" Uzman isim anlattı!</title>
+      <link>https://www.youtube.com/watch?v=ucj6Xhp67oI</link>
+      <guid isPermaLink="false">ucj6Xhp67oI</guid>
+      <pubDate>Wed, 02 Sep 2026 12:40:34 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: HERKES KULAĞINA BAKSIN! "Bu çizgi kalp krizi riskiyle bağlantılı olabilir!" Uzman isim anlattı!</description>
+    </item>
     <item>
       <title>Tele2 Haber: "CHP Tüzüğüyle Hemen Hemen Aynı!" Uğur Poyraz'dan Çarpıcı YENİ Parti Tüzüğü Yorumu!</title>
       <link>https://www.youtube.com/watch?v=FqGE54KA4z0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">bIkSAknRZeo</guid>
       <pubDate>Wed, 02 Sep 2026 10:40:39 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Marmara Denizi'nde gemi kazası! Tuğberk İmamoğlu isimli gemi 11 dakikada battı, 10 kişi kayıp...</description>
-    </item>
-    <item>
-      <title>Halk TV: KILIÇDAROĞLU'NU İYİCE KAPANA KISTIRDI! Özgür Özel masaya vura vura resti çekti! Butlan fena karışır!</title>
-      <link>https://www.youtube.com/watch?v=Hz8YPw87oss</link>
-      <guid isPermaLink="false">Hz8YPw87oss</guid>
-      <pubDate>Wed, 02 Sep 2026 10:40:02 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KILIÇDAROĞLU'NU İYİCE KAPANA KISTIRDI! Özgür Özel masaya vura vura resti çekti! Butlan fena karışır!</description>
     </item>
   </channel>
 </rss>
