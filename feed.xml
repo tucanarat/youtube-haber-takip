@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 19:45:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 19:47:15 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: İstanbul Adliyesi'nde Adli Yıl açılış programı düzenleniyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=DsWVg2wKAok</link>
+      <guid isPermaLink="false">DsWVg2wKAok</guid>
+      <pubDate>Wed, 02 Sep 2026 19:45:23 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: İstanbul Adliyesi'nde Adli Yıl açılış programı düzenleniyor #Canlı</description>
+    </item>
+    <item>
+      <title>Halk TV: "ETTEN GEÇTİK, KEMİK ALIYORUZ!" Tencerede et değil kemik kaynıyor! Vatandaş anlattı!</title>
+      <link>https://www.youtube.com/watch?v=7erYovBimA4</link>
+      <guid isPermaLink="false">7erYovBimA4</guid>
+      <pubDate>Wed, 02 Sep 2026 19:40:06 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: "ETTEN GEÇTİK, KEMİK ALIYORUZ!" Tencerede et değil kemik kaynıyor! Vatandaş anlattı!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: CHP Genel Başkanı Kemal Kılıçdaroğlu, İzmir'de yürüyüş gerçekleştiriyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=OrJKT7SuvTo</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">-O21FUgJv3M</guid>
       <pubDate>Wed, 02 Sep 2026 16:25:34 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Rusya semalarında alarm! Türkiye’den kalkan uçaklar geri döndü</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Netanyahu'dan 7 Ekim İtirafı: "Beni Uyandırmadılar!" Özlem Gürses'ten Bomba Yorum!</title>
-      <link>https://www.youtube.com/watch?v=-bC5dEO-wD0</link>
-      <guid isPermaLink="false">-bC5dEO-wD0</guid>
-      <pubDate>Wed, 02 Sep 2026 16:15:14 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Netanyahu'dan 7 Ekim İtirafı: "Beni Uyandırmadılar!" Özlem Gürses'ten Bomba Yorum!</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! 'DOKUNULMAZLIĞIM KALDIRILSIN' DEMİŞTİ! KKTC Ulaştırma Bakanı görevden alındı!</title>
-      <link>https://www.youtube.com/watch?v=Qg2zK_z4ahw</link>
-      <guid isPermaLink="false">Qg2zK_z4ahw</guid>
-      <pubDate>Wed, 02 Sep 2026 16:10:16 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! 'DOKUNULMAZLIĞIM KALDIRILSIN' DEMİŞTİ! KKTC Ulaştırma Bakanı görevden alındı!</description>
     </item>
   </channel>
 </rss>
