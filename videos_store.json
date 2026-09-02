@@ -24449,7 +24449,7 @@
   },
   "QLwXWjkXDDQ": {
     "id": "QLwXWjkXDDQ",
-    "title": "#CANLI Can Coşkun ile Gündem Masası",
+    "title": "Can Coşkun ile Gündem Masası | 2 Eylül",
     "link": "https://www.youtube.com/watch?v=QLwXWjkXDDQ",
     "published": "2026-09-01T21:48:23+00:00",
     "published_ts": 1788299303,
@@ -24681,7 +24681,7 @@
   },
   "qTf4kKRA_d4": {
     "id": "qTf4kKRA_d4",
-    "title": "#CANLI | Ebru Baki ile Para Siyaset | İbrahim Kahveci",
+    "title": "Ebru Baki ile Para Siyaset | İbrahim Kahveci (2 Eylül 2026)",
     "link": "https://www.youtube.com/watch?v=qTf4kKRA_d4",
     "published": "2026-09-02T06:50:45+00:00",
     "published_ts": 1788331845,
@@ -25198,5 +25198,21 @@
     "published": "2026-09-02T09:40:26+00:00",
     "published_ts": 1788342026,
     "channel_name": "Cumhuriyet"
+  },
+  "owMrpGahAg8": {
+    "id": "owMrpGahAg8",
+    "title": "#CANLI | İrem Sansak ile Haber Masası",
+    "link": "https://www.youtube.com/watch?v=owMrpGahAg8",
+    "published": "2026-09-02T09:51:26+00:00",
+    "published_ts": 1788342686,
+    "channel_name": "Halk TV"
+  },
+  "fgSwtHvytao": {
+    "id": "fgSwtHvytao",
+    "title": "Ali Mahir Başarır'dan Kıbrıs'taki Deniz Faciasına İlişkin Korkunç İhmai İddiaları! \"Çok Vahim!\"",
+    "link": "https://www.youtube.com/watch?v=fgSwtHvytao",
+    "published": "2026-09-02T09:51:47+00:00",
+    "published_ts": 1788342707,
+    "channel_name": "Tele2 Haber"
   }
 }

@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 09:50:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 09:55:28 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Ali Mahir Başarır'dan Kıbrıs'taki Deniz Faciasına İlişkin Korkunç İhmai İddiaları! "Çok Vahim!"</title>
+      <link>https://www.youtube.com/watch?v=fgSwtHvytao</link>
+      <guid isPermaLink="false">fgSwtHvytao</guid>
+      <pubDate>Wed, 02 Sep 2026 09:51:47 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Ali Mahir Başarır'dan Kıbrıs'taki Deniz Faciasına İlişkin Korkunç İhmai İddiaları! "Çok Vahim!"</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | İrem Sansak ile Haber Masası</title>
+      <link>https://www.youtube.com/watch?v=owMrpGahAg8</link>
+      <guid isPermaLink="false">owMrpGahAg8</guid>
+      <pubDate>Wed, 02 Sep 2026 09:51:26 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | İrem Sansak ile Haber Masası</description>
+    </item>
     <item>
       <title>Cumhuriyet: Şükran Soner'e veda... Alev Coşkun: İçimiz yanıyor...</title>
       <link>https://www.youtube.com/shorts/O848VG6qxfY</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">R1zK0v-3t40</guid>
       <pubDate>Wed, 02 Sep 2026 07:33:24 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Umut Akdoğan kasap oldu, kıyma hesabı yaptı...  "200 lirayla alabildiğim kıyma bu"</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Melih Gökçek Hakkında Suç Örgütü İddiası! Belediye Parasıyla TV Kanalı! İsmail Küçükkaya Anlattı</title>
-      <link>https://www.youtube.com/watch?v=Hu0Cfz0Lo9c</link>
-      <guid isPermaLink="false">Hu0Cfz0Lo9c</guid>
-      <pubDate>Wed, 02 Sep 2026 07:33:18 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Melih Gökçek Hakkında Suç Örgütü İddiası! Belediye Parasıyla TV Kanalı! İsmail Küçükkaya Anlattı</description>
-    </item>
-    <item>
-      <title>Halk TV: Okulların açılmasından hemen önce... Yumurta fiyatları uçtu; aileler kara kara düşünüyor!</title>
-      <link>https://www.youtube.com/watch?v=diaizZ_eYA0</link>
-      <guid isPermaLink="false">diaizZ_eYA0</guid>
-      <pubDate>Wed, 02 Sep 2026 07:30:37 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Okulların açılmasından hemen önce... Yumurta fiyatları uçtu; aileler kara kara düşünüyor!</description>
     </item>
   </channel>
 </rss>
