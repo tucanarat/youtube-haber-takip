@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 22:45:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 22:50:34 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Yaşamını yitiren gazeteci Şükran Soner için cenaze namazı kılınıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=0TGx9uSpHjU</link>
+      <guid isPermaLink="false">0TGx9uSpHjU</guid>
+      <pubDate>Wed, 02 Sep 2026 22:40:59 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Yaşamını yitiren gazeteci Şükran Soner için cenaze namazı kılınıyor #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: "NİYET TANSİYONU YÜKSELTMEK!" İngiltere Başbakanı’ndan halka Rusya’ya karşı stok yapma çağrısı!</title>
       <link>https://www.youtube.com/watch?v=VRXRHI-dguY</link>
@@ -57,11 +64,11 @@
       <description>SÖZCÜ TV kanalından yeni video: Merve Ekinci ile Uyanma Vakti</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | Kürşad Oğuz ile Rota</title>
+      <title>Halk TV: Kürşad Oğuz ile Rota (2 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=WcrnFKHl8DQ</link>
       <guid isPermaLink="false">WcrnFKHl8DQ</guid>
       <pubDate>Wed, 02 Sep 2026 22:12:30 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Kürşad Oğuz ile Rota</description>
+      <description>Halk TV kanalından yeni video: Kürşad Oğuz ile Rota (2 Eylül 2026)</description>
     </item>
     <item>
       <title>SÖZCÜ TV: MELİH GÖKÇEK'E CANLI YAYINDA SOĞUK DUŞ! Murat Ağırel O Tapuları Tek Tek İfşa Etti</title>
@@ -232,11 +239,11 @@
       <description>SÖZCÜ TV kanalından yeni video: Melih Gökçek ve Cem Küçük Dosyası Patladı! 3.8 MİLYON EURO NEREDE? İsmail Saymaz Bir Bir Anlattı</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | Ankara'nın Altındağ ilçesinde bir binada çıkan yangına ekipler müdahale ediyor!</title>
+      <title>Halk TV: Ankara'nın Altındağ ilçesinde bir binada çıkan yangına ekipler müdahale ediyor! (2 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=XA3T9P76m9I</link>
       <guid isPermaLink="false">XA3T9P76m9I</guid>
       <pubDate>Wed, 02 Sep 2026 19:58:31 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Ankara'nın Altındağ ilçesinde bir binada çıkan yangına ekipler müdahale ediyor!</description>
+      <description>Halk TV kanalından yeni video: Ankara'nın Altındağ ilçesinde bir binada çıkan yangına ekipler müdahale ediyor! (2 Eylül 2026)</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Gazeteci Masası - İsmail Saymaz, Barış Terkoğlu, Saygı Öztürk, Murat Ağırel - 2 Eylül</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">X_Oo-nLA4oo</guid>
       <pubDate>Wed, 02 Sep 2026 18:54:02 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "ŞÜPHELİ" MELİH GÖKÇEK İFADE VERECEK! İnan Demirel ile Gündemdekiler | Konuk: İbrahim Uslu (2.09.26)</description>
-    </item>
-    <item>
-      <title>Halk TV: ABD’DEN İRAN’A KANLI TEHDİT! Bölgede kan gövdeyi götürecek! Işın Eliçin’den korkutan senaryo!</title>
-      <link>https://www.youtube.com/watch?v=YVL8P4pfLfE</link>
-      <guid isPermaLink="false">YVL8P4pfLfE</guid>
-      <pubDate>Wed, 02 Sep 2026 18:40:25 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ABD’DEN İRAN’A KANLI TEHDİT! Bölgede kan gövdeyi götürecek! Işın Eliçin’den korkutan senaryo!</description>
     </item>
   </channel>
 </rss>
