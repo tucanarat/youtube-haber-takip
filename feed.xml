@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 00:40:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 00:45:29 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: 2026 - 2027 Adli Yılı açılış töreni #canlı</title>
       <link>https://www.youtube.com/watch?v=XWTnVP096ng</link>
       <guid isPermaLink="false">XWTnVP096ng</guid>
       <pubDate>Wed, 02 Sep 2026 00:40:10 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: 2026 - 2027 Adli Yılı açılış töreni #canlı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Giresun'da Nepal'i Andıran Görüntüler! Metrekareye 200 Kilo Yağmur Yağdı! Yollar Göle Döndü</title>
+      <link>https://www.youtube.com/watch?v=5jNAt6YBAdY</link>
+      <guid isPermaLink="false">5jNAt6YBAdY</guid>
+      <pubDate>Wed, 02 Sep 2026 00:30:25 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Giresun'da Nepal'i Andıran Görüntüler! Metrekareye 200 Kilo Yağmur Yağdı! Yollar Göle Döndü</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Aleyna Tilki'den Gündem Olacak Tekelleşme İsyanı! Müzik Sektöründe Kara Kutu Açıldı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">jmB_LWbeamg</guid>
       <pubDate>Tue, 01 Sep 2026 20:00:06 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: TBB Başkanı Erinç Sağkan'dan Akın Gürlek'i kızdıran açılış konuşması!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Ortadoğu'da Kızılca Kıyamet! Devrim Muhafızları'ndan Peş Peşe Misilleme! Trump Çıldıracak</title>
-      <link>https://www.youtube.com/watch?v=IQUtPVxGSmY</link>
-      <guid isPermaLink="false">IQUtPVxGSmY</guid>
-      <pubDate>Tue, 01 Sep 2026 19:50:17 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Ortadoğu'da Kızılca Kıyamet! Devrim Muhafızları'ndan Peş Peşe Misilleme! Trump Çıldıracak</description>
     </item>
   </channel>
 </rss>
