@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 13:40:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 13:45:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ACILI BEKLEYİŞ SÜRÜYOR! Silivri'deki gemi faciasında denizcilerin kimlikleri belli oldu! Kahredecek!</title>
+      <link>https://www.youtube.com/watch?v=Ie6WlNpw0mE</link>
+      <guid isPermaLink="false">Ie6WlNpw0mE</guid>
+      <pubDate>Wed, 02 Sep 2026 13:40:07 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ACILI BEKLEYİŞ SÜRÜYOR! Silivri'deki gemi faciasında denizcilerin kimlikleri belli oldu! Kahredecek!</description>
+    </item>
     <item>
       <title>Halk TV: Silivri açıklarında çarpışan iki geminin telsiz konuşması ortaya çıktı!</title>
       <link>https://www.youtube.com/shorts/1nUF8OOs7jo</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Sk7EmcD2Wr4</guid>
       <pubDate>Wed, 02 Sep 2026 11:18:05 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Özgür Özel açıkladı: İşte YENİ Parti'nin kurultay takvimi</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Jandarma Affetmedi! Plakadaki 'L' Harfini 'U' Yaptı! 140 BİN TL Ceza Yedi! #shorts</title>
-      <link>https://www.youtube.com/shorts/EETW3k-JGWA</link>
-      <guid isPermaLink="false">EETW3k-JGWA</guid>
-      <pubDate>Wed, 02 Sep 2026 11:15:32 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Jandarma Affetmedi! Plakadaki 'L' Harfini 'U' Yaptı! 140 BİN TL Ceza Yedi! #shorts</description>
     </item>
   </channel>
 </rss>
