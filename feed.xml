@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 08:45:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 08:50:34 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Serap Belovacıklı ile Gazeteci Masası</title>
+      <link>https://www.youtube.com/watch?v=T1GH5UDlHtI</link>
+      <guid isPermaLink="false">T1GH5UDlHtI</guid>
+      <pubDate>Wed, 02 Sep 2026 08:48:20 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Serap Belovacıklı ile Gazeteci Masası</description>
+    </item>
+    <item>
+      <title>Halk TV: BAKAN URALOĞLU ACI HABERİ AÇIKLADI! Silivri açıklarında batan gemi kısa süre içinde sulara gömülmüş!</title>
+      <link>https://www.youtube.com/watch?v=kXeyUwvzd4k</link>
+      <guid isPermaLink="false">kXeyUwvzd4k</guid>
+      <pubDate>Wed, 02 Sep 2026 08:45:17 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BAKAN URALOĞLU ACI HABERİ AÇIKLADI! Silivri açıklarında batan gemi kısa süre içinde sulara gömülmüş!</description>
+    </item>
     <item>
       <title>Cumhuriyet: Dış politikada da kuşku - Öztin Akgüç</title>
       <link>https://www.youtube.com/watch?v=leFW90rG3d0</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">njKawVSuurM</guid>
       <pubDate>Wed, 02 Sep 2026 05:24:51 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SON DAKİKA! BİR GEMİ FACİASI DAHA! Silivri açıklarında iki gemi çarpıştı! 10 denizciye ulaşılamıyor!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Pınar Erbaş ile Gecenin Sözü</title>
-      <link>https://www.youtube.com/watch?v=Zs2dsN76l3Y</link>
-      <guid isPermaLink="false">Zs2dsN76l3Y</guid>
-      <pubDate>Wed, 02 Sep 2026 05:24:07 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Pınar Erbaş ile Gecenin Sözü</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Silivri Açıklarında 2 Gemi Çarpıştı! 10 Personel Kayıp! Marmara'da Kabus Gibi Gece</title>
-      <link>https://www.youtube.com/watch?v=YYTEWUqgMV8</link>
-      <guid isPermaLink="false">YYTEWUqgMV8</guid>
-      <pubDate>Wed, 02 Sep 2026 05:21:48 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Silivri Açıklarında 2 Gemi Çarpıştı! 10 Personel Kayıp! Marmara'da Kabus Gibi Gece</description>
     </item>
   </channel>
 </rss>
