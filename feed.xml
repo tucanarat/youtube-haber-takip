@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 11:15:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 11:20:37 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Özgür Özel: Ev kadınlarına sigorta ve emeklilik hakkı tanıyacağız!</title>
+      <link>https://www.youtube.com/shorts/KSECVB3rLm4</link>
+      <guid isPermaLink="false">KSECVB3rLm4</guid>
+      <pubDate>Wed, 02 Sep 2026 11:15:03 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Özgür Özel: Ev kadınlarına sigorta ve emeklilik hakkı tanıyacağız!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Özgür Özel, partisinin genel merkezinde  İl Başkanları Toplantısında konuşuyor</title>
       <link>https://www.youtube.com/watch?v=iY3DkE2Gpzg</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">CPYpp6IN0qU</guid>
       <pubDate>Wed, 02 Sep 2026 09:25:37 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SON DAKİKA! Hakkındaki iddialar gündem olmuştu! Melih Gökçek, 'şüpheli' sıfatıyla ifadeye çağrıldı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Dün gece batan Tuğberk İmamoğlu gemisinin 2 ay önceki görüntüleri ortaya çıktı!</title>
-      <link>https://www.youtube.com/shorts/h7ZHKxPHXJo</link>
-      <guid isPermaLink="false">h7ZHKxPHXJo</guid>
-      <pubDate>Wed, 02 Sep 2026 09:22:49 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Dün gece batan Tuğberk İmamoğlu gemisinin 2 ay önceki görüntüleri ortaya çıktı!</description>
     </item>
   </channel>
 </rss>
