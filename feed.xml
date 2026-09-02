@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 15:45:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 15:50:49 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: İsmail Hakkı Tombul'dan çok kritik 'ÇERÇEVE YASA' yorumu!</title>
+      <link>https://www.youtube.com/watch?v=Uy74d8DmIDg</link>
+      <guid isPermaLink="false">Uy74d8DmIDg</guid>
+      <pubDate>Wed, 02 Sep 2026 15:45:08 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: İsmail Hakkı Tombul'dan çok kritik 'ÇERÇEVE YASA' yorumu!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Binali Yıldırım'ın Hikayesini Timur Soykan Anlattı: Gemiler, 480 Milyon Euro, Gizli Şirketler</title>
       <link>https://www.youtube.com/watch?v=ewa3UczWo8g</link>
       <guid isPermaLink="false">ewa3UczWo8g</guid>
       <pubDate>Wed, 02 Sep 2026 15:45:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Binali Yıldırım'ın Hikayesini Timur Soykan Anlattı: Gemiler, 480 Milyon Euro, Gizli Şirketler</description>
+    </item>
+    <item>
+      <title>Halk TV: SİLİVRİ’DE GÖZYAŞLARI SEL OLDU! Kürsüdeki o sözler salona buz kestirdi! Gamze Altunay aktardı!</title>
+      <link>https://www.youtube.com/watch?v=HlwSX7Ot_3g</link>
+      <guid isPermaLink="false">HlwSX7Ot_3g</guid>
+      <pubDate>Wed, 02 Sep 2026 15:40:16 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SİLİVRİ’DE GÖZYAŞLARI SEL OLDU! Kürsüdeki o sözler salona buz kestirdi! Gamze Altunay aktardı!</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | KKTC Başbakanı Ünal Üstel, Girne gemisine ilişkin açıklamalarda bulunuyor</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">QJbovrsbvuI</guid>
       <pubDate>Wed, 02 Sep 2026 13:02:50 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | Ece Üner ile Halk Ana Haber | #kayıp</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "Gökçek İstemiş, Erdoğan Yapmış" Uğur Emek'ten Hiçbir Yerde Duyamayacağınız Erdoğan-Gökçek Anektodu!</title>
-      <link>https://www.youtube.com/watch?v=6Ivt3IRcOWs</link>
-      <guid isPermaLink="false">6Ivt3IRcOWs</guid>
-      <pubDate>Wed, 02 Sep 2026 13:00:32 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "Gökçek İstemiş, Erdoğan Yapmış" Uğur Emek'ten Hiçbir Yerde Duyamayacağınız Erdoğan-Gökçek Anektodu!</description>
-    </item>
-    <item>
-      <title>Halk TV: AMAN SOFRANIZA KOYMAYIN! İstanbul’da denetlenen o üründen öyle bir şey çıktı ki! Kanınız donacak!</title>
-      <link>https://www.youtube.com/watch?v=IvAauZcocog</link>
-      <guid isPermaLink="false">IvAauZcocog</guid>
-      <pubDate>Wed, 02 Sep 2026 12:55:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: AMAN SOFRANIZA KOYMAYIN! İstanbul’da denetlenen o üründen öyle bir şey çıktı ki! Kanınız donacak!</description>
     </item>
   </channel>
 </rss>
