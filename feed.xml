@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 00:55:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 01:00:51 +0000</lastBuildDate>
     <item>
       <title>Cumhuriyet: #CANLI 2026-2027 adli yılı başlıyor... Açılış töreninden canlı yayın…</title>
       <link>https://www.youtube.com/watch?v=1P2rl8dJStY</link>
       <guid isPermaLink="false">1P2rl8dJStY</guid>
       <pubDate>Wed, 02 Sep 2026 00:50:24 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI 2026-2027 adli yılı başlıyor... Açılış töreninden canlı yayın…</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Özlem Gürses'e Kelimeler Yetmedi! Mide Bulandıran Dosya! Muhittin Böcek ve Fuhuş Ağı Skandalı</title>
+      <link>https://www.youtube.com/watch?v=g4bNK-athRQ</link>
+      <guid isPermaLink="false">g4bNK-athRQ</guid>
+      <pubDate>Wed, 02 Sep 2026 00:50:03 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses'e Kelimeler Yetmedi! Mide Bulandıran Dosya! Muhittin Böcek ve Fuhuş Ağı Skandalı</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: 2026 - 2027 Adli Yılı açılış töreni #canlı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">8KTmcV9drkM</guid>
       <pubDate>Tue, 01 Sep 2026 20:02:14 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İpek Özbey ile Karşı Karşıya | Erol Mütercimler &amp; Nevzat Çiçek | 1 Eylül</description>
-    </item>
-    <item>
-      <title>Halk TV: AKP'YE TOPUKLAYANLARI REZİL RÜSVA ETTİ! Özgür Özel'in sözleri yeri göğü inletecek! Saray sallanır!</title>
-      <link>https://www.youtube.com/watch?v=sro-H0jltMo</link>
-      <guid isPermaLink="false">sro-H0jltMo</guid>
-      <pubDate>Tue, 01 Sep 2026 20:00:24 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: AKP'YE TOPUKLAYANLARI REZİL RÜSVA ETTİ! Özgür Özel'in sözleri yeri göğü inletecek! Saray sallanır!</description>
     </item>
   </channel>
 </rss>
