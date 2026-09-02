@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 10:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 10:30:45 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Silivri Açıklarında 2 Gemi Çarpıştı! 10 Personele Ulaşılamıyor</title>
+      <link>https://www.youtube.com/watch?v=jWABH7iBbkQ</link>
+      <guid isPermaLink="false">jWABH7iBbkQ</guid>
+      <pubDate>Wed, 02 Sep 2026 10:27:32 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Silivri Açıklarında 2 Gemi Çarpıştı! 10 Personele Ulaşılamıyor</description>
+    </item>
     <item>
       <title>Tele2 Haber: Melih Gökçek 4 Eylül'de "Şüpheli" Sıfatıyla İfade Verecek! "Gözaltına Alınma İşlemi Olacak mı?"</title>
       <link>https://www.youtube.com/watch?v=eVD_6g_1eJY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">53yzmXnsASw</guid>
       <pubDate>Wed, 02 Sep 2026 08:30:36 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Trump Köşeye Sıkıştı! İRAN'DAN ABD ÜSLERİNE FÜZE YAĞMURU! "Çok Sayıda Asker Öldürüldü"</description>
-    </item>
-    <item>
-      <title>Halk TV: İŞTE KAZANIN EN GÜÇLÜ NEDENİ! Kara haberi o isim açıkladı! Batan gemide 10 denizci hayatını kaybetti</title>
-      <link>https://www.youtube.com/watch?v=KiAhbTr3w0I</link>
-      <guid isPermaLink="false">KiAhbTr3w0I</guid>
-      <pubDate>Wed, 02 Sep 2026 08:30:22 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İŞTE KAZANIN EN GÜÇLÜ NEDENİ! Kara haberi o isim açıkladı! Batan gemide 10 denizci hayatını kaybetti</description>
     </item>
   </channel>
 </rss>
