@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 04:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 05:00:55 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: YENİ Parti Beşiktaş İlçe Başkanlığı açılış töreni / İstanbul #Canlı</title>
+      <link>https://www.youtube.com/watch?v=tXpJ2UuPI_k</link>
+      <guid isPermaLink="false">tXpJ2UuPI_k</guid>
+      <pubDate>Wed, 02 Sep 2026 04:12:15 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Beşiktaş İlçe Başkanlığı açılış töreni / İstanbul #Canlı</description>
+    </item>
     <item>
       <title>Cumhuriyet: #CANLI 2026-2027 adli yılı başlıyor... Açılış töreninden canlı yayın…</title>
       <link>https://www.youtube.com/watch?v=1P2rl8dJStY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">SCrr11Zif68</guid>
       <pubDate>Tue, 01 Sep 2026 20:10:28 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İran Sokaklara Döküldü: Hürmüz Boğazı'nda İpler Kopuyor Mu? Nevzat Çiçek Öyle Şeyler Anlattı ki...</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İpek Özbey ile Karşı Karşıya | Erol Mütercimler &amp; Nevzat Çiçek | 1 Eylül</title>
-      <link>https://www.youtube.com/watch?v=8KTmcV9drkM</link>
-      <guid isPermaLink="false">8KTmcV9drkM</guid>
-      <pubDate>Tue, 01 Sep 2026 20:02:14 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İpek Özbey ile Karşı Karşıya | Erol Mütercimler &amp; Nevzat Çiçek | 1 Eylül</description>
     </item>
   </channel>
 </rss>
