@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 18:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 18:45:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ABD’DEN İRAN’A KANLI TEHDİT! Bölgede kan gövdeyi götürecek! Işın Eliçin’den korkutan senaryo!</title>
+      <link>https://www.youtube.com/watch?v=YVL8P4pfLfE</link>
+      <guid isPermaLink="false">YVL8P4pfLfE</guid>
+      <pubDate>Wed, 02 Sep 2026 18:40:25 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ABD’DEN İRAN’A KANLI TEHDİT! Bölgede kan gövdeyi götürecek! Işın Eliçin’den korkutan senaryo!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Kitap yazmak, savunma yapmak, espri yapmak yasak! Gökhan Çapoğlu: Sosyal bastırmaya gidiliyor</title>
       <link>https://www.youtube.com/watch?v=ydEudepET0A</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">TU3srhFF84Y</guid>
       <pubDate>Wed, 02 Sep 2026 15:30:08 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: İçki Yasağına Uğur Poyraz'dan Çok Ağır Tepki! "Devlet Hukuksuzluk Kanunsuzluk Yapar mı!"</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Timur Soykan'dan Tarihe Geçecek Melih Gökçek ve AKP Sözleri! "Dokunurlarsa Sistem Çöker"</title>
-      <link>https://www.youtube.com/watch?v=YnlncpMmOEo</link>
-      <guid isPermaLink="false">YnlncpMmOEo</guid>
-      <pubDate>Wed, 02 Sep 2026 15:30:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Timur Soykan'dan Tarihe Geçecek Melih Gökçek ve AKP Sözleri! "Dokunurlarsa Sistem Çöker"</description>
     </item>
   </channel>
 </rss>
