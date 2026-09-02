@@ -6,13 +6,34 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 17:00:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 17:05:25 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Ece Üner ile Halk Ana Haber | #kayıp</title>
+      <link>https://www.youtube.com/watch?v=QJbovrsbvuI</link>
+      <guid isPermaLink="false">QJbovrsbvuI</guid>
+      <pubDate>Wed, 02 Sep 2026 17:00:14 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Ece Üner ile Halk Ana Haber | #kayıp</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Özlem Gürses'ten Tarihe Geçecek Kıyaslama! Melih Gökçek'e Davet İmamoğlu'na Şafak Baskını</title>
+      <link>https://www.youtube.com/watch?v=FNtIOXb6ye4</link>
+      <guid isPermaLink="false">FNtIOXb6ye4</guid>
+      <pubDate>Wed, 02 Sep 2026 17:00:14 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses'ten Tarihe Geçecek Kıyaslama! Melih Gökçek'e Davet İmamoğlu'na Şafak Baskını</description>
+    </item>
     <item>
       <title>Tele2 Haber: Özgür Özel-Kılıçdaroğlu tokalaşma karesine tepki yağdı! Murat Taylan'dan nezaket-meşruiyet ayrımı!</title>
       <link>https://www.youtube.com/watch?v=iqfTn_J0zjs</link>
       <guid isPermaLink="false">iqfTn_J0zjs</guid>
       <pubDate>Wed, 02 Sep 2026 17:00:13 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Özgür Özel-Kılıçdaroğlu tokalaşma karesine tepki yağdı! Murat Taylan'dan nezaket-meşruiyet ayrımı!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Ev Sahipleri Dikkat: 12 Aylık Kiranın 2'si Devlete Gidecek! | Mahmut Aydoğmuş | Vergi Kafe</title>
+      <link>https://www.youtube.com/watch?v=z9dIgQpy6i0</link>
+      <guid isPermaLink="false">z9dIgQpy6i0</guid>
+      <pubDate>Wed, 02 Sep 2026 17:00:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Ev Sahipleri Dikkat: 12 Aylık Kiranın 2'si Devlete Gidecek! | Mahmut Aydoğmuş | Vergi Kafe</description>
     </item>
     <item>
       <title>Tele2 Haber: Özgür Özel-Kılıçdaroğlu tokalaşması | Gökçek ifade verecek! Murat Taylan ile Haber-Yorum</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">F4bJ0BZ6Kq8</guid>
       <pubDate>Wed, 02 Sep 2026 14:30:15 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: MELİH GÖKÇEK'İN ÇARKI PATLADI! Ankara'daki Büyük Vurgun! FETÖ İddiaları! | Mustafa Balbay</description>
-    </item>
-    <item>
-      <title>Halk TV: 60 yıllık gazeteci Şükran Sonel son yolculuğuna uğurlanıyor! Duayen gazeteciye son veda...</title>
-      <link>https://www.youtube.com/watch?v=oPdZDCPUSts</link>
-      <guid isPermaLink="false">oPdZDCPUSts</guid>
-      <pubDate>Wed, 02 Sep 2026 14:25:16 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: 60 yıllık gazeteci Şükran Sonel son yolculuğuna uğurlanıyor! Duayen gazeteciye son veda...</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Ümit Özdağ: Sevr’in 106. lanet olası yıl dönümünde PKK'ya af çıkardılar</title>
-      <link>https://www.youtube.com/watch?v=p6sTnLvaBjM</link>
-      <guid isPermaLink="false">p6sTnLvaBjM</guid>
-      <pubDate>Wed, 02 Sep 2026 14:18:17 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Ümit Özdağ: Sevr’in 106. lanet olası yıl dönümünde PKK'ya af çıkardılar</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Nevzat Çiçek Anlatıyor | Devlet ve Tarikatlar, Netanyahu, Mekke Anlaşması, Erdoğan, İran, Türkiye</title>
-      <link>https://www.youtube.com/watch?v=zeYmDDIKgjQ</link>
-      <guid isPermaLink="false">zeYmDDIKgjQ</guid>
-      <pubDate>Wed, 02 Sep 2026 14:15:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Nevzat Çiçek Anlatıyor | Devlet ve Tarikatlar, Netanyahu, Mekke Anlaşması, Erdoğan, İran, Türkiye</description>
     </item>
   </channel>
 </rss>
