@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 21:25:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 21:30:46 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: “NASIL BİR ÖRGÜT ÜYESİYİM Kİ...” Murat Kapki’den mahkemede çarpıcı sözler!</title>
+      <link>https://www.youtube.com/watch?v=imX-UC5GXv0</link>
+      <guid isPermaLink="false">imX-UC5GXv0</guid>
+      <pubDate>Wed, 02 Sep 2026 21:25:21 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: “NASIL BİR ÖRGÜT ÜYESİYİM Kİ...” Murat Kapki’den mahkemede çarpıcı sözler!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: BBP Genel Başkanı Mustafa Destici, partisinin genel merkezinde basın toplantısı düzenliyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=YD73xE2thrw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">t0_1rlonmhA</guid>
       <pubDate>Wed, 02 Sep 2026 17:40:37 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ŞOK EDEN OLAY! Ali Mahir Başarır sert tepki gösterdi! Kıbrıs'a uçak biletleri uçtu!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: MELİH GÖKÇEK DOSYASI AÇILDI! Almanya'da Milyonluk Lüksemburg Pazarlığı Murat Ağırel Belgeledi</title>
-      <link>https://www.youtube.com/watch?v=Gv_OD32Uqdw</link>
-      <guid isPermaLink="false">Gv_OD32Uqdw</guid>
-      <pubDate>Wed, 02 Sep 2026 17:40:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: MELİH GÖKÇEK DOSYASI AÇILDI! Almanya'da Milyonluk Lüksemburg Pazarlığı Murat Ağırel Belgeledi</description>
     </item>
   </channel>
 </rss>
