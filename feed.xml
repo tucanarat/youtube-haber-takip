@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 12:00:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 12:05:30 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: "İtirafa İnanılıyor Geri Çekene İnanılmıyor!" Uğur Poyraz'dan Çarpıcı İBB Davası Yorumu!</title>
+      <link>https://www.youtube.com/watch?v=RDgBbdGsBrk</link>
+      <guid isPermaLink="false">RDgBbdGsBrk</guid>
+      <pubDate>Wed, 02 Sep 2026 12:00:33 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "İtirafa İnanılıyor Geri Çekene İnanılmıyor!" Uğur Poyraz'dan Çarpıcı İBB Davası Yorumu!</description>
+    </item>
+    <item>
+      <title>Halk TV: Özgür Özel: Patron millettir, siyasetçi milletin çalışanıdır!</title>
+      <link>https://www.youtube.com/shorts/bmGD7isP1ig</link>
+      <guid isPermaLink="false">bmGD7isP1ig</guid>
+      <pubDate>Wed, 02 Sep 2026 12:00:14 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Özgür Özel: Patron millettir, siyasetçi milletin çalışanıdır!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Zafer Partisi Genel Başkanı Ümit Özdağ'dan, Belediye İş Sendikası ziyareti sonrası açıklama #Canlı</title>
       <link>https://www.youtube.com/watch?v=e05vO-UaPtY</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">TW_NpJruspE</guid>
       <pubDate>Wed, 02 Sep 2026 10:10:23 +0000</pubDate>
       <description>Halk TV kanalından yeni video: GÖKÇEK'E BİR SUÇ DUYURUSU DAHA! Avukat Nadi Türkaslan'dan bomba iddialar!</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti Grup Başkanvekili Ali Mahir Başarır, TBMM'de Açıklama Yaptı! (2 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=2NuAxOl5rb4</link>
-      <guid isPermaLink="false">2NuAxOl5rb4</guid>
-      <pubDate>Wed, 02 Sep 2026 10:09:29 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti Grup Başkanvekili Ali Mahir Başarır, TBMM'de Açıklama Yaptı! (2 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: #CANLI YENİ Parti İl Başkanları Toplantısı: Özgür Özel’den flaş açıklamalar</title>
-      <link>https://www.youtube.com/watch?v=nntsLxrUYbw</link>
-      <guid isPermaLink="false">nntsLxrUYbw</guid>
-      <pubDate>Wed, 02 Sep 2026 10:08:09 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI YENİ Parti İl Başkanları Toplantısı: Özgür Özel’den flaş açıklamalar</description>
     </item>
   </channel>
 </rss>
