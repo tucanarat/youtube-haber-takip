@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 14:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 14:20:33 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: Mustafa Destici, Ukrayna'nın Ankara Büyükelçisi Nariman Celalov ile açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=JHbquYUilxA</link>
       <guid isPermaLink="false">JHbquYUilxA</guid>
       <pubDate>Wed, 02 Sep 2026 14:13:46 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Mustafa Destici, Ukrayna'nın Ankara Büyükelçisi Nariman Celalov ile açıklama yapıyor #Canlı</description>
+    </item>
+    <item>
+      <title>Halk TV: SON DAKİKA! HESAPLAR TUTMADI, AKP KARIŞACAK! Üsküdar seçiminin yenilenmesi itirazına ret geldi!</title>
+      <link>https://www.youtube.com/watch?v=1drG4fsGbrY</link>
+      <guid isPermaLink="false">1drG4fsGbrY</guid>
+      <pubDate>Wed, 02 Sep 2026 14:10:38 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! HESAPLAR TUTMADI, AKP KARIŞACAK! Üsküdar seçiminin yenilenmesi itirazına ret geldi!</description>
     </item>
     <item>
       <title>Tele2 Haber: 'SONUNA KADAR SAVUNURUM!" Nazmi Bilgin'den Merdan Yanardağ ve tutuklu gazeteciler değerlendirmesi...</title>
@@ -183,6 +190,13 @@
       <description>Cumhuriyet kanalından yeni video: Silivri açıklarında kazaya karışan gemideki telsiz kayıtları ortaya çıktı!</description>
     </item>
     <item>
+      <title>Halk TV: ÇARPMA NOKTASI ORASI OLABİLİR! Silivri'de faciaya ilişkin şok detay! Uzakyol Kaptanı Anıker anlattı!</title>
+      <link>https://www.youtube.com/watch?v=OB9sqMS6-D8</link>
+      <guid isPermaLink="false">OB9sqMS6-D8</guid>
+      <pubDate>Wed, 02 Sep 2026 12:50:33 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ÇARPMA NOKTASI ORASI OLABİLİR! Silivri'de faciaya ilişkin şok detay! Uzakyol Kaptanı Anıker anlattı!</description>
+    </item>
+    <item>
       <title>Halk TV: HERKES KULAĞINA BAKSIN! "Bu çizgi kalp krizi riskiyle bağlantılı olabilir!" Uzman isim anlattı!</title>
       <link>https://www.youtube.com/watch?v=ucj6Xhp67oI</link>
       <guid isPermaLink="false">ucj6Xhp67oI</guid>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">vqtedgC2hf8</guid>
       <pubDate>Wed, 02 Sep 2026 11:36:21 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Özel: Seçim geceleri birbirimizi teselli etmek için değil, kazanmak için buradayız!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: ÖZGÜR ÖZEL'DEN İL BAŞKANLARI TOPLANTISININ ARDINDAN KRİTİK KONUŞMA!</title>
-      <link>https://www.youtube.com/shorts/DVNoSQwDrus</link>
-      <guid isPermaLink="false">DVNoSQwDrus</guid>
-      <pubDate>Wed, 02 Sep 2026 11:34:35 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: ÖZGÜR ÖZEL'DEN İL BAŞKANLARI TOPLANTISININ ARDINDAN KRİTİK KONUŞMA!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Erol Mütercimler Putin Dosyasını Açtı | Putin'in Karadeniz Planı! Rusya Çin ve Avrupa Savaşı</title>
-      <link>https://www.youtube.com/watch?v=mAdyOxaPUj8</link>
-      <guid isPermaLink="false">mAdyOxaPUj8</guid>
-      <pubDate>Wed, 02 Sep 2026 11:30:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Erol Mütercimler Putin Dosyasını Açtı | Putin'in Karadeniz Planı! Rusya Çin ve Avrupa Savaşı</description>
     </item>
   </channel>
 </rss>
