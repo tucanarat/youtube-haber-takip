@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 15:30:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 15:35:25 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: İçki Yasağına Uğur Poyraz'dan Çok Ağır Tepki! "Devlet Hukuksuzluk Kanunsuzluk Yapar mı!"</title>
+      <link>https://www.youtube.com/watch?v=TU3srhFF84Y</link>
+      <guid isPermaLink="false">TU3srhFF84Y</guid>
+      <pubDate>Wed, 02 Sep 2026 15:30:08 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: İçki Yasağına Uğur Poyraz'dan Çok Ağır Tepki! "Devlet Hukuksuzluk Kanunsuzluk Yapar mı!"</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Timur Soykan'dan Tarihe Geçecek Melih Gökçek ve AKP Sözleri! "Dokunurlarsa Sistem Çöker"</title>
       <link>https://www.youtube.com/watch?v=YnlncpMmOEo</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">OB9sqMS6-D8</guid>
       <pubDate>Wed, 02 Sep 2026 12:50:33 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ÇARPMA NOKTASI ORASI OLABİLİR! Silivri'de faciaya ilişkin şok detay! Uzakyol Kaptanı Anıker anlattı!</description>
-    </item>
-    <item>
-      <title>Halk TV: HERKES KULAĞINA BAKSIN! "Bu çizgi kalp krizi riskiyle bağlantılı olabilir!" Uzman isim anlattı!</title>
-      <link>https://www.youtube.com/watch?v=ucj6Xhp67oI</link>
-      <guid isPermaLink="false">ucj6Xhp67oI</guid>
-      <pubDate>Wed, 02 Sep 2026 12:40:34 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: HERKES KULAĞINA BAKSIN! "Bu çizgi kalp krizi riskiyle bağlantılı olabilir!" Uzman isim anlattı!</description>
     </item>
   </channel>
 </rss>
