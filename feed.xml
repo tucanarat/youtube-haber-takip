@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 09:55:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 10:00:55 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Ebru Baki ile Para Siyaset | İbrahim Kahveci (2 Eylül 2026)</title>
+      <link>https://www.youtube.com/watch?v=qTf4kKRA_d4</link>
+      <guid isPermaLink="false">qTf4kKRA_d4</guid>
+      <pubDate>Wed, 02 Sep 2026 09:58:31 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Ebru Baki ile Para Siyaset | İbrahim Kahveci (2 Eylül 2026)</description>
+    </item>
+    <item>
+      <title>Halk TV: SİLİVRİ’DEKİ KAZADA GEMİ 11 DAKİKADA BATMIŞ! 10 denizciye hala ulaşılamadı! Bakan Uraloğlu açıkladı!</title>
+      <link>https://www.youtube.com/watch?v=R5BQI1Xoqj0</link>
+      <guid isPermaLink="false">R5BQI1Xoqj0</guid>
+      <pubDate>Wed, 02 Sep 2026 09:55:15 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SİLİVRİ’DEKİ KAZADA GEMİ 11 DAKİKADA BATMIŞ! 10 denizciye hala ulaşılamadı! Bakan Uraloğlu açıkladı!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Ali Mahir Başarır'dan Kıbrıs'taki Deniz Faciasına İlişkin Korkunç İhmai İddiaları! "Çok Vahim!"</title>
       <link>https://www.youtube.com/watch?v=fgSwtHvytao</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">CKQ9TkvaqkE</guid>
       <pubDate>Wed, 02 Sep 2026 07:41:37 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Silivri açıklarında 2 gemi çarpıştı! Arama kurtarma çalışması başlatıldı</description>
-    </item>
-    <item>
-      <title>Halk TV: Adalet Bakanı Akın Gürlek, Adli Yıl Açılış Programında Konuştu (2 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=GOUPstG6NxM</link>
-      <guid isPermaLink="false">GOUPstG6NxM</guid>
-      <pubDate>Wed, 02 Sep 2026 07:38:47 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Adalet Bakanı Akın Gürlek, Adli Yıl Açılış Programında Konuştu (2 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Umut Akdoğan kasap oldu, kıyma hesabı yaptı...  "200 lirayla alabildiğim kıyma bu"</title>
-      <link>https://www.youtube.com/watch?v=R1zK0v-3t40</link>
-      <guid isPermaLink="false">R1zK0v-3t40</guid>
-      <pubDate>Wed, 02 Sep 2026 07:33:24 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Umut Akdoğan kasap oldu, kıyma hesabı yaptı...  "200 lirayla alabildiğim kıyma bu"</description>
     </item>
   </channel>
 </rss>
