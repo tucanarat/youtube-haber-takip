@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 08:30:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 08:35:29 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Denizcilik Genel Müdürlüğü: "Tuğberk İmamoğlu gemisinin batmış olduğu değerlendirilmektedir."</title>
+      <link>https://www.youtube.com/shorts/I9ras7Xzm5s</link>
+      <guid isPermaLink="false">I9ras7Xzm5s</guid>
+      <pubDate>Wed, 02 Sep 2026 08:34:50 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Denizcilik Genel Müdürlüğü: "Tuğberk İmamoğlu gemisinin batmış olduğu değerlendirilmektedir."</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Trump Köşeye Sıkıştı! İRAN'DAN ABD ÜSLERİNE FÜZE YAĞMURU! "Çok Sayıda Asker Öldürüldü"</title>
+      <link>https://www.youtube.com/watch?v=53yzmXnsASw</link>
+      <guid isPermaLink="false">53yzmXnsASw</guid>
+      <pubDate>Wed, 02 Sep 2026 08:30:36 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Trump Köşeye Sıkıştı! İRAN'DAN ABD ÜSLERİNE FÜZE YAĞMURU! "Çok Sayıda Asker Öldürüldü"</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Yaşamını Yitiren Gazeteci Şükran Soner İçin Cenaze Töreni Düzenleniyor!</title>
       <link>https://www.youtube.com/watch?v=WJRjpTa5xmE</link>
@@ -20,6 +34,13 @@
       <guid isPermaLink="false">SetsscoeSSY</guid>
       <pubDate>Wed, 02 Sep 2026 08:28:31 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Yaşamını yitiren gazeteci Şükran Soner için Cumhuriyet Gazetesi’nde cenaze töreni düzenleniyor</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: Yaşamını yitiren gazeteci Şükran Soner için Cumhuriyet Gazetesi’nde cenaze töreni düzenleniyor</title>
+      <link>https://www.youtube.com/watch?v=28SEvFoem-g</link>
+      <guid isPermaLink="false">28SEvFoem-g</guid>
+      <pubDate>Wed, 02 Sep 2026 08:28:01 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Yaşamını yitiren gazeteci Şükran Soner için Cumhuriyet Gazetesi’nde cenaze töreni düzenleniyor</description>
     </item>
     <item>
       <title>Tele2 Haber: Başaran Aksu Cezaevinde Süresiz Açlık Grevine Başladı | Onur Öncü ile Sabah Pusulası</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">1P2rl8dJStY</guid>
       <pubDate>Wed, 02 Sep 2026 00:50:24 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI 2026-2027 adli yılı başlıyor... Açılış töreninden canlı yayın…</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Özlem Gürses'e Kelimeler Yetmedi! Mide Bulandıran Dosya! Muhittin Böcek ve Fuhuş Ağı Skandalı</title>
-      <link>https://www.youtube.com/watch?v=g4bNK-athRQ</link>
-      <guid isPermaLink="false">g4bNK-athRQ</guid>
-      <pubDate>Wed, 02 Sep 2026 00:50:03 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses'e Kelimeler Yetmedi! Mide Bulandıran Dosya! Muhittin Böcek ve Fuhuş Ağı Skandalı</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: 2026 - 2027 Adli Yılı açılış töreni #canlı</title>
-      <link>https://www.youtube.com/watch?v=XWTnVP096ng</link>
-      <guid isPermaLink="false">XWTnVP096ng</guid>
-      <pubDate>Wed, 02 Sep 2026 00:40:10 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: 2026 - 2027 Adli Yılı açılış töreni #canlı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Giresun'da Nepal'i Andıran Görüntüler! Metrekareye 200 Kilo Yağmur Yağdı! Yollar Göle Döndü</title>
-      <link>https://www.youtube.com/watch?v=5jNAt6YBAdY</link>
-      <guid isPermaLink="false">5jNAt6YBAdY</guid>
-      <pubDate>Wed, 02 Sep 2026 00:30:25 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Giresun'da Nepal'i Andıran Görüntüler! Metrekareye 200 Kilo Yağmur Yağdı! Yollar Göle Döndü</description>
     </item>
   </channel>
 </rss>
