@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 18:25:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 18:30:48 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Kitap yazmak, savunma yapmak, espri yapmak yasak! Gökhan Çapoğlu: Sosyal bastırmaya gidiliyor</title>
+      <link>https://www.youtube.com/watch?v=ydEudepET0A</link>
+      <guid isPermaLink="false">ydEudepET0A</guid>
+      <pubDate>Wed, 02 Sep 2026 18:30:03 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Kitap yazmak, savunma yapmak, espri yapmak yasak! Gökhan Çapoğlu: Sosyal bastırmaya gidiliyor</description>
+    </item>
+    <item>
+      <title>Halk TV: SERİ KATİL CİNAYETİ! 4 yıldır aranan 17 yaşındaki Zeynep'in cesedi Esenyurt'ta bulundu! Dehşet an!</title>
+      <link>https://www.youtube.com/watch?v=28-UqxZ_GLU</link>
+      <guid isPermaLink="false">28-UqxZ_GLU</guid>
+      <pubDate>Wed, 02 Sep 2026 18:25:16 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SERİ KATİL CİNAYETİ! 4 yıldır aranan 17 yaşındaki Zeynep'in cesedi Esenyurt'ta bulundu! Dehşet an!</description>
+    </item>
     <item>
       <title>Halk TV: KKTC’de Bakan Erhan Arıklı görevden alındı! Gemi faciasında 14 zanlıdan 9’u tutuklandı!</title>
       <link>https://www.youtube.com/watch?v=EXHYatuPnpE</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">YnlncpMmOEo</guid>
       <pubDate>Wed, 02 Sep 2026 15:30:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Timur Soykan'dan Tarihe Geçecek Melih Gökçek ve AKP Sözleri! "Dokunurlarsa Sistem Çöker"</description>
-    </item>
-    <item>
-      <title>Halk TV: TUĞBERK İMAMOĞLU GEMİSİNE AİT CAN SALI VE FİLİKA ORTAYA ÇIKTI! İşte o görüntüler!</title>
-      <link>https://www.youtube.com/watch?v=irD3hKAXSDE</link>
-      <guid isPermaLink="false">irD3hKAXSDE</guid>
-      <pubDate>Wed, 02 Sep 2026 15:25:10 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: TUĞBERK İMAMOĞLU GEMİSİNE AİT CAN SALI VE FİLİKA ORTAYA ÇIKTI! İşte o görüntüler!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: SOL Parti'den 'YAN YANA' çağrısı! İsmail Hakkı Tombul, buluşmaları ve hedefleri anlattı...</title>
-      <link>https://www.youtube.com/watch?v=Qp-J-bwRSBE</link>
-      <guid isPermaLink="false">Qp-J-bwRSBE</guid>
-      <pubDate>Wed, 02 Sep 2026 15:15:24 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: SOL Parti'den 'YAN YANA' çağrısı! İsmail Hakkı Tombul, buluşmaları ve hedefleri anlattı...</description>
     </item>
   </channel>
 </rss>
