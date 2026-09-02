@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 10:30:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 10:35:28 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: TÜRK LİRASININ ÇÖKÜŞÜ! İsmail Küçükkaya 200 TL ve 100 Doları Yan Yana Koydu! İsyan Etti</title>
+      <link>https://www.youtube.com/watch?v=cJchjH8JrzQ</link>
+      <guid isPermaLink="false">cJchjH8JrzQ</guid>
+      <pubDate>Wed, 02 Sep 2026 10:30:07 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: TÜRK LİRASININ ÇÖKÜŞÜ! İsmail Küçükkaya 200 TL ve 100 Doları Yan Yana Koydu! İsyan Etti</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Silivri Açıklarında 2 Gemi Çarpıştı! 10 Personele Ulaşılamıyor</title>
       <link>https://www.youtube.com/watch?v=jWABH7iBbkQ</link>
@@ -239,6 +246,13 @@
       <description>SÖZCÜ TV kanalından yeni video: Özgür Özel’den Çok Konuşulacak Rest! İsmail Küçükkaya Şifreyi Çözdü! Yol Haritasını Anlattı</description>
     </item>
     <item>
+      <title>SÖZCÜ TV: Ev Sahipleri Dikkat: 12 Aylık Kiranın 2'si Devlete Gidecek! | Mahmut Aydoğmuş | Vergi Kafe</title>
+      <link>https://www.youtube.com/watch?v=z9dIgQpy6i0</link>
+      <guid isPermaLink="false">z9dIgQpy6i0</guid>
+      <pubDate>Wed, 02 Sep 2026 09:30:08 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Ev Sahipleri Dikkat: 12 Aylık Kiranın 2'si Devlete Gidecek! | Mahmut Aydoğmuş | Vergi Kafe</description>
+    </item>
+    <item>
       <title>Halk TV: SON DAKİKA! Hakkındaki iddialar gündem olmuştu! Melih Gökçek, 'şüpheli' sıfatıyla ifadeye çağrıldı!</title>
       <link>https://www.youtube.com/watch?v=CPYpp6IN0qU</link>
       <guid isPermaLink="false">CPYpp6IN0qU</guid>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">I9ras7Xzm5s</guid>
       <pubDate>Wed, 02 Sep 2026 08:34:50 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Denizcilik Genel Müdürlüğü: "Tuğberk İmamoğlu gemisinin batmış olduğu değerlendirilmektedir."</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: #CANLI İBB Davasında 73. gün! Tutuklular tahliye talebinde bulunuyor</title>
-      <link>https://www.youtube.com/watch?v=ZCWV-ijy1PE</link>
-      <guid isPermaLink="false">ZCWV-ijy1PE</guid>
-      <pubDate>Wed, 02 Sep 2026 08:31:03 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI İBB Davasında 73. gün! Tutuklular tahliye talebinde bulunuyor</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Trump Köşeye Sıkıştı! İRAN'DAN ABD ÜSLERİNE FÜZE YAĞMURU! "Çok Sayıda Asker Öldürüldü"</title>
-      <link>https://www.youtube.com/watch?v=53yzmXnsASw</link>
-      <guid isPermaLink="false">53yzmXnsASw</guid>
-      <pubDate>Wed, 02 Sep 2026 08:30:36 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Trump Köşeye Sıkıştı! İRAN'DAN ABD ÜSLERİNE FÜZE YAĞMURU! "Çok Sayıda Asker Öldürüldü"</description>
     </item>
   </channel>
 </rss>
