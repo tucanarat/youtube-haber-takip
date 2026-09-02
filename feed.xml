@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 09:25:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 09:30:45 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SON DAKİKA! Hakkındaki iddialar gündem olmuştu! Melih Gökçek, 'şüpheli' sıfatıyla ifadeye çağrıldı!</title>
+      <link>https://www.youtube.com/watch?v=CPYpp6IN0qU</link>
+      <guid isPermaLink="false">CPYpp6IN0qU</guid>
+      <pubDate>Wed, 02 Sep 2026 09:25:37 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! Hakkındaki iddialar gündem olmuştu! Melih Gökçek, 'şüpheli' sıfatıyla ifadeye çağrıldı!</description>
+    </item>
     <item>
       <title>Halk TV: Dün gece batan Tuğberk İmamoğlu gemisinin 2 ay önceki görüntüleri ortaya çıktı!</title>
       <link>https://www.youtube.com/shorts/h7ZHKxPHXJo</link>
@@ -97,6 +104,13 @@
       <guid isPermaLink="false">WIvEeOSqOwg</guid>
       <pubDate>Wed, 02 Sep 2026 08:42:00 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: 4 büyük kader! - Tuğrul Akşar</description>
+    </item>
+    <item>
+      <title>Halk TV: AMAN SOFRANIZA KOYMAYIN! İstanbul’da denetlenen o üründen öyle bir şey çıktı ki! Kanınız donacak!</title>
+      <link>https://www.youtube.com/watch?v=IvAauZcocog</link>
+      <guid isPermaLink="false">IvAauZcocog</guid>
+      <pubDate>Wed, 02 Sep 2026 08:36:44 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: AMAN SOFRANIZA KOYMAYIN! İstanbul’da denetlenen o üründen öyle bir şey çıktı ki! Kanınız donacak!</description>
     </item>
     <item>
       <title>Tele2 Haber: Denizcilik Genel Müdürlüğü: "Tuğberk İmamoğlu gemisinin batmış olduğu değerlendirilmektedir."</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">7TXVTsfniJE</guid>
       <pubDate>Wed, 02 Sep 2026 06:45:26 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ACI HABER: İçinde 10 mürettebatın olduğu Tuğberk İmamoğlu gemisi Silivri açıklarında battı!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: İstanbul Adliyesi'nde Adli Yıl açılış programı düzenleniyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=DsWVg2wKAok</link>
-      <guid isPermaLink="false">DsWVg2wKAok</guid>
-      <pubDate>Wed, 02 Sep 2026 06:44:47 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: İstanbul Adliyesi'nde Adli Yıl açılış programı düzenleniyor #Canlı</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: İstanbul Adliyesi'nde Adli Yıl açılış programı düzenleniyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=H8MDC5BaRSc</link>
-      <guid isPermaLink="false">H8MDC5BaRSc</guid>
-      <pubDate>Wed, 02 Sep 2026 06:39:34 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: İstanbul Adliyesi'nde Adli Yıl açılış programı düzenleniyor #Canlı</description>
     </item>
   </channel>
 </rss>
