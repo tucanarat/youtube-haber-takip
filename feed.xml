@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 12:55:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 13:00:54 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: AMAN SOFRANIZA KOYMAYIN! İstanbul’da denetlenen o üründen öyle bir şey çıktı ki! Kanınız donacak!</title>
+      <link>https://www.youtube.com/watch?v=IvAauZcocog</link>
+      <guid isPermaLink="false">IvAauZcocog</guid>
+      <pubDate>Wed, 02 Sep 2026 12:55:06 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: AMAN SOFRANIZA KOYMAYIN! İstanbul’da denetlenen o üründen öyle bir şey çıktı ki! Kanınız donacak!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: CHP Genel Başkanı Kemal Kılıçdaroğlu, İzmir Esnaf ve Sanatkarlar Odaları Birliği'ni ziyaret ediyor</title>
       <link>https://www.youtube.com/watch?v=g8_pdCQnA_0</link>
@@ -20,6 +27,13 @@
       <guid isPermaLink="false">v5pFev7vGgY</guid>
       <pubDate>Wed, 02 Sep 2026 12:52:47 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | Gizem Çetin ile Parantez</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Silivri açıklarında kazaya karışan gemideki telsiz kayıtları ortaya çıktı!</title>
+      <link>https://www.youtube.com/shorts/1FS9ETJHQRc</link>
+      <guid isPermaLink="false">1FS9ETJHQRc</guid>
+      <pubDate>Wed, 02 Sep 2026 12:52:01 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Silivri açıklarında kazaya karışan gemideki telsiz kayıtları ortaya çıktı!</description>
     </item>
     <item>
       <title>Halk TV: HERKES KULAĞINA BAKSIN! "Bu çizgi kalp krizi riskiyle bağlantılı olabilir!" Uzman isim anlattı!</title>
@@ -64,11 +78,11 @@
       <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkanı Kemal Kılıçdaroğlu, Ege Serbest Bölgesi'ni ziyaret etti / İzmir #Canlı</description>
     </item>
     <item>
-      <title>Tele2 Haber: #CANLI Melih Gökçek ifadeye çağrıldı! I YENİ Parti'nin 7 Sözü | Manşet Ötesi</title>
+      <title>Tele2 Haber: Melih Gökçek ifadeye çağrıldı! I YENİ Parti'nin 7 Sözü | Manşet Ötesi</title>
       <link>https://www.youtube.com/watch?v=Ckje71cyZGU</link>
       <guid isPermaLink="false">Ckje71cyZGU</guid>
       <pubDate>Wed, 02 Sep 2026 12:19:14 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Melih Gökçek ifadeye çağrıldı! I YENİ Parti'nin 7 Sözü | Manşet Ötesi</description>
+      <description>Tele2 Haber kanalından yeni video: Melih Gökçek ifadeye çağrıldı! I YENİ Parti'nin 7 Sözü | Manşet Ötesi</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Ateşe Verdi Kenara Geçip İtfaiyenin Söndürmesini İzledi! Böyle Rahatlık Görülmedi! #shorts</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">TzThyhtjkvc</guid>
       <pubDate>Wed, 02 Sep 2026 10:53:51 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Can Coşkun ile Gündem Masası | 2 Eylül</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel: Mahkemede adalet, gelirde adalet, vergide adalet, sosyal hayatta adalet!</title>
-      <link>https://www.youtube.com/shorts/yVB2iv0PRsQ</link>
-      <guid isPermaLink="false">yVB2iv0PRsQ</guid>
-      <pubDate>Wed, 02 Sep 2026 10:49:53 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel: Mahkemede adalet, gelirde adalet, vergide adalet, sosyal hayatta adalet!</description>
-    </item>
-    <item>
-      <title>Halk TV: Silivri'de batan gemiyi takip eden basın mensuplarına saldırı!</title>
-      <link>https://www.youtube.com/shorts/I_Wg8Jxv1Ms</link>
-      <guid isPermaLink="false">I_Wg8Jxv1Ms</guid>
-      <pubDate>Wed, 02 Sep 2026 10:44:46 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Silivri'de batan gemiyi takip eden basın mensuplarına saldırı!</description>
     </item>
   </channel>
 </rss>
