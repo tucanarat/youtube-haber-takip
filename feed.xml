@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 10:45:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 10:50:35 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Silivri'de batan gemiyi takip eden basın mensuplarına saldırı!</title>
+      <link>https://www.youtube.com/shorts/I_Wg8Jxv1Ms</link>
+      <guid isPermaLink="false">I_Wg8Jxv1Ms</guid>
+      <pubDate>Wed, 02 Sep 2026 10:44:46 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Silivri'de batan gemiyi takip eden basın mensuplarına saldırı!</description>
+    </item>
     <item>
       <title>Cumhuriyet: #CANLI Cumhuriyet'in hafızasıydı... Şükran Soner son yolculuğuna uğurlanıyor</title>
       <link>https://www.youtube.com/watch?v=bcNyJdMLYBY</link>
@@ -20,6 +27,13 @@
       <guid isPermaLink="false">bIkSAknRZeo</guid>
       <pubDate>Wed, 02 Sep 2026 10:40:39 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Marmara Denizi'nde gemi kazası! Tuğberk İmamoğlu isimli gemi 11 dakikada battı, 10 kişi kayıp...</description>
+    </item>
+    <item>
+      <title>Halk TV: KILIÇDAROĞLU'NU İYİCE KAPANA KISTIRDI! Özgür Özel masaya vura vura resti çekti! Butlan fena karışır!</title>
+      <link>https://www.youtube.com/watch?v=Hz8YPw87oss</link>
+      <guid isPermaLink="false">Hz8YPw87oss</guid>
+      <pubDate>Wed, 02 Sep 2026 10:40:02 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KILIÇDAROĞLU'NU İYİCE KAPANA KISTIRDI! Özgür Özel masaya vura vura resti çekti! Butlan fena karışır!</description>
     </item>
     <item>
       <title>Tele2 Haber: İnan Demirel ile Gündemdekiler | Konuk: İbrahim Uslu (02.09.26)</title>
@@ -169,11 +183,11 @@
       <description>ANKA Haber Ajansı kanalından yeni video: Özgür Özel, partisinin genel merkezinde  İl Başkanları Toplantısında konuşuyor</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: #CANLI Can Coşkun ile Gündem Masası</title>
+      <title>SÖZCÜ TV: Can Coşkun ile Gündem Masası | 2 Eylül</title>
       <link>https://www.youtube.com/watch?v=TzThyhtjkvc</link>
       <guid isPermaLink="false">TzThyhtjkvc</guid>
       <pubDate>Wed, 02 Sep 2026 09:56:04 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: #CANLI Can Coşkun ile Gündem Masası</description>
+      <description>SÖZCÜ TV kanalından yeni video: Can Coşkun ile Gündem Masası | 2 Eylül</description>
     </item>
     <item>
       <title>Halk TV: SİLİVRİ’DEKİ KAZADA GEMİ 11 DAKİKADA BATMIŞ! 10 denizciye hala ulaşılamadı! Bakan Uraloğlu açıkladı!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">T1GH5UDlHtI</guid>
       <pubDate>Wed, 02 Sep 2026 08:48:20 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Serap Belovacıklı ile Gazeteci Masası</description>
-    </item>
-    <item>
-      <title>Halk TV: BAKAN URALOĞLU ACI HABERİ AÇIKLADI! Silivri açıklarında batan gemi kısa süre içinde sulara gömülmüş!</title>
-      <link>https://www.youtube.com/watch?v=kXeyUwvzd4k</link>
-      <guid isPermaLink="false">kXeyUwvzd4k</guid>
-      <pubDate>Wed, 02 Sep 2026 08:45:17 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BAKAN URALOĞLU ACI HABERİ AÇIKLADI! Silivri açıklarında batan gemi kısa süre içinde sulara gömülmüş!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Dış politikada da kuşku - Öztin Akgüç</title>
-      <link>https://www.youtube.com/watch?v=leFW90rG3d0</link>
-      <guid isPermaLink="false">leFW90rG3d0</guid>
-      <pubDate>Wed, 02 Sep 2026 08:42:07 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Dış politikada da kuşku - Öztin Akgüç</description>
     </item>
   </channel>
 </rss>
