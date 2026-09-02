@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 00:45:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 00:50:28 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: #CANLI 2026-2027 adli yılı başlıyor... Açılış töreninden canlı yayın…</title>
+      <link>https://www.youtube.com/watch?v=1P2rl8dJStY</link>
+      <guid isPermaLink="false">1P2rl8dJStY</guid>
+      <pubDate>Wed, 02 Sep 2026 00:50:24 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI 2026-2027 adli yılı başlıyor... Açılış töreninden canlı yayın…</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: 2026 - 2027 Adli Yılı açılış töreni #canlı</title>
       <link>https://www.youtube.com/watch?v=XWTnVP096ng</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">sro-H0jltMo</guid>
       <pubDate>Tue, 01 Sep 2026 20:00:24 +0000</pubDate>
       <description>Halk TV kanalından yeni video: AKP'YE TOPUKLAYANLARI REZİL RÜSVA ETTİ! Özgür Özel'in sözleri yeri göğü inletecek! Saray sallanır!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: TBB Başkanı Erinç Sağkan'dan Akın Gürlek'i kızdıran açılış konuşması!</title>
-      <link>https://www.youtube.com/watch?v=jmB_LWbeamg</link>
-      <guid isPermaLink="false">jmB_LWbeamg</guid>
-      <pubDate>Tue, 01 Sep 2026 20:00:06 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: TBB Başkanı Erinç Sağkan'dan Akın Gürlek'i kızdıran açılış konuşması!</description>
     </item>
   </channel>
 </rss>
