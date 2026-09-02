@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 11:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 11:45:32 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: ÖZGÜR ÖZEL'DEN İL BAŞKANLARI TOPLANTISININ ARDINDAN KRİTİK KONUŞMA!</title>
+      <link>https://www.youtube.com/shorts/DVNoSQwDrus</link>
+      <guid isPermaLink="false">DVNoSQwDrus</guid>
+      <pubDate>Wed, 02 Sep 2026 11:34:35 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: ÖZGÜR ÖZEL'DEN İL BAŞKANLARI TOPLANTISININ ARDINDAN KRİTİK KONUŞMA!</description>
+    </item>
     <item>
       <title>Halk TV: Özgür Özel: İlk dönemimizde Türkiye'yi Avrupa Birliği'ne tam üye yapacağız!</title>
       <link>https://www.youtube.com/shorts/HKr_bdd0KLY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">9PLoHDfMk5E</guid>
       <pubDate>Wed, 02 Sep 2026 09:48:01 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Grup Başkanvekili Ali Mahir Başarır, TBMM'de açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: Denizcilik Genel Müdürü Ünal Baylan, Silivri Açıklarında Batan Gemi İçin Açıklama Yaptı</title>
-      <link>https://www.youtube.com/watch?v=VVXvUDmVYqc</link>
-      <guid isPermaLink="false">VVXvUDmVYqc</guid>
-      <pubDate>Wed, 02 Sep 2026 09:44:34 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Denizcilik Genel Müdürü Ünal Baylan, Silivri Açıklarında Batan Gemi İçin Açıklama Yaptı</description>
     </item>
   </channel>
 </rss>
