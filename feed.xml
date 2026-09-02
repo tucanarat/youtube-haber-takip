@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 17:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 17:25:25 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Sürgün edildikten sonra İBB'de zabıta müdürü olmuştu! Eski Emniyet Müdürü Alper'e polisten şok tepki</title>
+      <link>https://www.youtube.com/watch?v=02WFaDt9Jx4</link>
+      <guid isPermaLink="false">02WFaDt9Jx4</guid>
+      <pubDate>Wed, 02 Sep 2026 17:10:09 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Sürgün edildikten sonra İBB'de zabıta müdürü olmuştu! Eski Emniyet Müdürü Alper'e polisten şok tepki</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: CHP Genel Başkanı Kemal Kılıçdaroğlu, "Milli Bilinç ve Güçlü Türkiye Buluşması"nda / İzmir #Canlı</title>
       <link>https://www.youtube.com/watch?v=qOl9trL-S3E</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">r_DInssqTgs</guid>
       <pubDate>Wed, 02 Sep 2026 14:30:24 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "Melih Gökçek İfadeye Çağrıldı Diye Sevinir Hale Geidik!" Uğur Emek'ten Çarpıcı AKP Projeksiyonu!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "ÇERÇEVE YASA REJİMİ KALICILAŞTIRMADIR!" Zeynel Lüle ile Ankara Günlüğü | Konuk: İsmail Hakkı Tombul</title>
-      <link>https://www.youtube.com/watch?v=ZuYot-rUnpU</link>
-      <guid isPermaLink="false">ZuYot-rUnpU</guid>
-      <pubDate>Wed, 02 Sep 2026 14:30:21 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "ÇERÇEVE YASA REJİMİ KALICILAŞTIRMADIR!" Zeynel Lüle ile Ankara Günlüğü | Konuk: İsmail Hakkı Tombul</description>
     </item>
   </channel>
 </rss>
