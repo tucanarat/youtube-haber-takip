@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 00:15:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 00:20:28 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Aleyna Tilki'den Gündem Olacak Tekelleşme İsyanı! Müzik Sektöründe Kara Kutu Açıldı</title>
+      <link>https://www.youtube.com/watch?v=Ka87T9NGueU</link>
+      <guid isPermaLink="false">Ka87T9NGueU</guid>
+      <pubDate>Wed, 02 Sep 2026 00:10:26 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Aleyna Tilki'den Gündem Olacak Tekelleşme İsyanı! Müzik Sektöründe Kara Kutu Açıldı</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Adalet Peşinde Aileler Platformu, Adli Yıl Açılış Töreni öncesinde Yargıtay önünde açıklama yapıyor</title>
       <link>https://www.youtube.com/watch?v=kAkOqRJr3k8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">W00w8ZwTxak</guid>
       <pubDate>Tue, 01 Sep 2026 19:45:20 +0000</pubDate>
       <description>Halk TV kanalından yeni video: KARANFİL DAĞITIMINA POLİS ENGELİ! İBB zabıtasının yıl dönümü kutlamasında gerilim</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: ABD'NİN KİRLİ YPG PLANI! İRAN'DAN Trump'a Füze Şoku! Orta Doğu'da Yeni Krizin Perde Arkası</title>
-      <link>https://www.youtube.com/watch?v=SFsTaU47rrc</link>
-      <guid isPermaLink="false">SFsTaU47rrc</guid>
-      <pubDate>Tue, 01 Sep 2026 19:30:25 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: ABD'NİN KİRLİ YPG PLANI! İRAN'DAN Trump'a Füze Şoku! Orta Doğu'da Yeni Krizin Perde Arkası</description>
     </item>
   </channel>
 </rss>
