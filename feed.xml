@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 16:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 16:30:43 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Rusya semalarında alarm! Türkiye’den kalkan uçaklar geri döndü</title>
+      <link>https://www.youtube.com/watch?v=-O21FUgJv3M</link>
+      <guid isPermaLink="false">-O21FUgJv3M</guid>
+      <pubDate>Wed, 02 Sep 2026 16:25:34 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Rusya semalarında alarm! Türkiye’den kalkan uçaklar geri döndü</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Netanyahu'dan 7 Ekim İtirafı: "Beni Uyandırmadılar!" Özlem Gürses'ten Bomba Yorum!</title>
       <link>https://www.youtube.com/watch?v=-bC5dEO-wD0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">gyxSZl-BGzs</guid>
       <pubDate>Wed, 02 Sep 2026 13:25:21 +0000</pubDate>
       <description>Halk TV kanalından yeni video: DURUŞMAYA BUZ KESTİREN SÖZLER! İBB davasında itirafçı Murat Kapki'nin sözleri çok konuşulacak!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: CHP Genel Başkanı Kemal Kılıçdaroğlu, İzmir Esnaf ve Sanatkarlar Odaları Birliği'ni ziyaret ediyor</title>
-      <link>https://www.youtube.com/watch?v=g8_pdCQnA_0</link>
-      <guid isPermaLink="false">g8_pdCQnA_0</guid>
-      <pubDate>Wed, 02 Sep 2026 13:22:51 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkanı Kemal Kılıçdaroğlu, İzmir Esnaf ve Sanatkarlar Odaları Birliği'ni ziyaret ediyor</description>
     </item>
   </channel>
 </rss>
