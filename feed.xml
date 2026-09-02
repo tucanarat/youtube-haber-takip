@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 21:00:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 21:05:29 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: Telsiz kayıtları ortaya çıktı! İşte Silivri'de 2 gemi böyle çarpışmış!</title>
       <link>https://www.youtube.com/watch?v=YhLYfYLFf_8</link>
       <guid isPermaLink="false">YhLYfYLFf_8</guid>
       <pubDate>Wed, 02 Sep 2026 21:00:33 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Telsiz kayıtları ortaya çıktı! İşte Silivri'de 2 gemi böyle çarpışmış!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Adalet Bakanlığı'ndan Gökçek İçin Düğmeye mi Basıldı? Saygı Öztürk Türkiye'yi Sarsacak</title>
+      <link>https://www.youtube.com/watch?v=4lhVc_z5cO0</link>
+      <guid isPermaLink="false">4lhVc_z5cO0</guid>
+      <pubDate>Wed, 02 Sep 2026 21:00:16 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Adalet Bakanlığı'ndan Gökçek İçin Düğmeye mi Basıldı? Saygı Öztürk Türkiye'yi Sarsacak</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Yaşamını yitiren gazeteci Şükran Soner için Cumhuriyet Gazetesi’nde cenaze töreni düzenleniyor</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">QEcqnVW9wyE</guid>
       <pubDate>Wed, 02 Sep 2026 17:30:03 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Murat Taylan'dan Bakırhan'ın Alevilere yanıtına tepki! Yavuz Sultan Selim-İdris-i Bitlisi tartışması</description>
-    </item>
-    <item>
-      <title>Halk TV: KILIÇDAROĞLU'NU REZİL RÜSVA ETTİ! YENİ Partili Çağatay Güç'ten şok çıkış! Bu sözler gündemi sarsacak</title>
-      <link>https://www.youtube.com/watch?v=6_X1hfdJfDE</link>
-      <guid isPermaLink="false">6_X1hfdJfDE</guid>
-      <pubDate>Wed, 02 Sep 2026 17:25:09 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KILIÇDAROĞLU'NU REZİL RÜSVA ETTİ! YENİ Partili Çağatay Güç'ten şok çıkış! Bu sözler gündemi sarsacak</description>
     </item>
   </channel>
 </rss>
