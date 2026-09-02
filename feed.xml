@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 17:10:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 17:15:34 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: CHP Genel Başkanı Kemal Kılıçdaroğlu, "Milli Bilinç ve Güçlü Türkiye Buluşması"nda / İzmir #Canlı</title>
+      <link>https://www.youtube.com/watch?v=qOl9trL-S3E</link>
+      <guid isPermaLink="false">qOl9trL-S3E</guid>
+      <pubDate>Wed, 02 Sep 2026 17:05:53 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkanı Kemal Kılıçdaroğlu, "Milli Bilinç ve Güçlü Türkiye Buluşması"nda / İzmir #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Ece Üner ile Halk Ana Haber | #kayıp</title>
       <link>https://www.youtube.com/watch?v=QJbovrsbvuI</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ZuYot-rUnpU</guid>
       <pubDate>Wed, 02 Sep 2026 14:30:21 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "ÇERÇEVE YASA REJİMİ KALICILAŞTIRMADIR!" Zeynel Lüle ile Ankara Günlüğü | Konuk: İsmail Hakkı Tombul</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: MELİH GÖKÇEK'İN ÇARKI PATLADI! Ankara'daki Büyük Vurgun! FETÖ İddiaları! | Mustafa Balbay</title>
-      <link>https://www.youtube.com/watch?v=F4bJ0BZ6Kq8</link>
-      <guid isPermaLink="false">F4bJ0BZ6Kq8</guid>
-      <pubDate>Wed, 02 Sep 2026 14:30:15 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: MELİH GÖKÇEK'İN ÇARKI PATLADI! Ankara'daki Büyük Vurgun! FETÖ İddiaları! | Mustafa Balbay</description>
     </item>
   </channel>
 </rss>
