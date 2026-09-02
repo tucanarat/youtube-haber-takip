@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 15:00:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 15:05:31 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: "SUÇ YAPIŞTIRMAYA ÇALIŞILIYOR!" Nazmi Bilgin'den çok kritik Deniz Göktaş yorumu!</title>
+      <link>https://www.youtube.com/watch?v=94AhnGX4Dc0</link>
+      <guid isPermaLink="false">94AhnGX4Dc0</guid>
+      <pubDate>Wed, 02 Sep 2026 15:00:24 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "SUÇ YAPIŞTIRMAYA ÇALIŞILIYOR!" Nazmi Bilgin'den çok kritik Deniz Göktaş yorumu!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Naim Babüroğlu Putin ve Trump'ın Dünya Savaşı Oyununu Anlattı! İngiltere, İran ve Almanya Hedefte</title>
+      <link>https://www.youtube.com/watch?v=4mpD6Wo7po8</link>
+      <guid isPermaLink="false">4mpD6Wo7po8</guid>
+      <pubDate>Wed, 02 Sep 2026 15:00:16 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Naim Babüroğlu Putin ve Trump'ın Dünya Savaşı Oyununu Anlattı! İngiltere, İran ve Almanya Hedefte</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Damla Doğan Tuncel ile 1 Saat</title>
       <link>https://www.youtube.com/watch?v=GHblg-CcEVs</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">tDCgdrU1T8Y</guid>
       <pubDate>Wed, 02 Sep 2026 12:25:07 +0000</pubDate>
       <description>Halk TV kanalından yeni video: KAPTAN FACİANIN ÖNÜNE GEÇEMEMİŞ! Silivri açıklarındaki gemi kazasında telsiz kayıtları ortaya çıktı!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: CHP Genel Başkanı Kemal Kılıçdaroğlu, Ege Serbest Bölgesi'ni ziyaret etti / İzmir #Canlı</title>
-      <link>https://www.youtube.com/watch?v=qWOKyYQ_cVY</link>
-      <guid isPermaLink="false">qWOKyYQ_cVY</guid>
-      <pubDate>Wed, 02 Sep 2026 12:24:06 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkanı Kemal Kılıçdaroğlu, Ege Serbest Bölgesi'ni ziyaret etti / İzmir #Canlı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Melih Gökçek ifadeye çağrıldı! I YENİ Parti'nin 7 Sözü | Manşet Ötesi</title>
-      <link>https://www.youtube.com/watch?v=Ckje71cyZGU</link>
-      <guid isPermaLink="false">Ckje71cyZGU</guid>
-      <pubDate>Wed, 02 Sep 2026 12:19:14 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Melih Gökçek ifadeye çağrıldı! I YENİ Parti'nin 7 Sözü | Manşet Ötesi</description>
     </item>
   </channel>
 </rss>
