@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 10:10:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 10:15:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: GÖKÇEK'E BİR SUÇ DUYURUSU DAHA! Avukat Nadi Türkaslan'dan bomba İddialar!</title>
+      <link>https://www.youtube.com/watch?v=TW_NpJruspE</link>
+      <guid isPermaLink="false">TW_NpJruspE</guid>
+      <pubDate>Wed, 02 Sep 2026 10:10:23 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: GÖKÇEK'E BİR SUÇ DUYURUSU DAHA! Avukat Nadi Türkaslan'dan bomba İddialar!</description>
+    </item>
     <item>
       <title>Halk TV: YENİ Parti Grup Başkanvekili Ali Mahir Başarır, TBMM'de Açıklama Yaptı!</title>
       <link>https://www.youtube.com/watch?v=2NuAxOl5rb4</link>
@@ -34,6 +41,13 @@
       <guid isPermaLink="false">Kjjj4L5Ruus</guid>
       <pubDate>Wed, 02 Sep 2026 10:07:35 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, İl Başkanları Toplantısında Konuşuyor</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #CANLI YENİ Parti Genel Başkanı Özgür Özel, partisinin genel merkezinde İl Başkanları Toplantısında</title>
+      <link>https://www.youtube.com/watch?v=96Vy7HDdWA0</link>
+      <guid isPermaLink="false">96Vy7HDdWA0</guid>
+      <pubDate>Wed, 02 Sep 2026 10:07:16 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti Genel Başkanı Özgür Özel, partisinin genel merkezinde İl Başkanları Toplantısında</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Erinç Sağkan İsmail Küçükkaya'ya Neler Anlattı Neler! Ekrem İmamoğlu'na Büyük Haksızlık!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">WcmGIgRW9m4</guid>
       <pubDate>Wed, 02 Sep 2026 08:00:17 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SON GELİŞMELER! GEMİ MÜRETTEBATI KAZAYA UYKUDA MI YAKALANDI? Batan gemiden hala iz bulunamadı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Marmara'da Facia! İki Gemi Çarpıştı! Tuğberk İmamoğlu Gemisi Battı mı? 10 Denizci Kayıp</title>
-      <link>https://www.youtube.com/watch?v=3Fyex9GQooQ</link>
-      <guid isPermaLink="false">3Fyex9GQooQ</guid>
-      <pubDate>Wed, 02 Sep 2026 08:00:15 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Marmara'da Facia! İki Gemi Çarpıştı! Tuğberk İmamoğlu Gemisi Battı mı? 10 Denizci Kayıp</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İsmail Küçükkaya ile Günaydın Türkiyem | 2 Eylül</title>
-      <link>https://www.youtube.com/watch?v=3GaLWNBuj-k</link>
-      <guid isPermaLink="false">3GaLWNBuj-k</guid>
-      <pubDate>Wed, 02 Sep 2026 07:59:37 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya ile Günaydın Türkiyem | 2 Eylül</description>
     </item>
   </channel>
 </rss>
