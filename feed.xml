@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 10:35:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 10:40:29 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: #CANLI Cumhuriyet'in hafızasıydı... Şükran Soner son yolculuğuna uğurlanıyor</title>
+      <link>https://www.youtube.com/watch?v=bcNyJdMLYBY</link>
+      <guid isPermaLink="false">bcNyJdMLYBY</guid>
+      <pubDate>Wed, 02 Sep 2026 10:33:42 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI Cumhuriyet'in hafızasıydı... Şükran Soner son yolculuğuna uğurlanıyor</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: TÜRK LİRASININ ÇÖKÜŞÜ! İsmail Küçükkaya 200 TL ve 100 Doları Yan Yana Koydu! İsyan Etti</title>
       <link>https://www.youtube.com/watch?v=cJchjH8JrzQ</link>
@@ -20,6 +27,13 @@
       <guid isPermaLink="false">jWABH7iBbkQ</guid>
       <pubDate>Wed, 02 Sep 2026 10:27:32 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Silivri Açıklarında 2 Gemi Çarpıştı! 10 Personele Ulaşılamıyor</description>
+    </item>
+    <item>
+      <title>Halk TV: ORTA DOĞU YANGIN YERİNE DÖNDÜ! İran, ABD'nin saldırılarının ardından bölgeyi kıyamet yerine çevirdi!</title>
+      <link>https://www.youtube.com/watch?v=46suQVtkWxc</link>
+      <guid isPermaLink="false">46suQVtkWxc</guid>
+      <pubDate>Wed, 02 Sep 2026 10:25:00 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ORTA DOĞU YANGIN YERİNE DÖNDÜ! İran, ABD'nin saldırılarının ardından bölgeyi kıyamet yerine çevirdi!</description>
     </item>
     <item>
       <title>Tele2 Haber: Melih Gökçek 4 Eylül'de "Şüpheli" Sıfatıyla İfade Verecek! "Gözaltına Alınma İşlemi Olacak mı?"</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">WIvEeOSqOwg</guid>
       <pubDate>Wed, 02 Sep 2026 08:42:00 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: 4 büyük kader! - Tuğrul Akşar</description>
-    </item>
-    <item>
-      <title>Halk TV: AMAN SOFRANIZA KOYMAYIN! İstanbul’da denetlenen o üründen öyle bir şey çıktı ki! Kanınız donacak!</title>
-      <link>https://www.youtube.com/watch?v=IvAauZcocog</link>
-      <guid isPermaLink="false">IvAauZcocog</guid>
-      <pubDate>Wed, 02 Sep 2026 08:36:44 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: AMAN SOFRANIZA KOYMAYIN! İstanbul’da denetlenen o üründen öyle bir şey çıktı ki! Kanınız donacak!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Denizcilik Genel Müdürlüğü: "Tuğberk İmamoğlu gemisinin batmış olduğu değerlendirilmektedir."</title>
-      <link>https://www.youtube.com/shorts/I9ras7Xzm5s</link>
-      <guid isPermaLink="false">I9ras7Xzm5s</guid>
-      <pubDate>Wed, 02 Sep 2026 08:34:50 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Denizcilik Genel Müdürlüğü: "Tuğberk İmamoğlu gemisinin batmış olduğu değerlendirilmektedir."</description>
     </item>
   </channel>
 </rss>
