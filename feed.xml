@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 21:30:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 21:35:27 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Barış Terkoğlu İfşa Etti: İdris Naim Şahin Dosyasında Şok FETÖ Gerçekleri!</title>
+      <link>https://www.youtube.com/watch?v=B9jGvCk3hDA</link>
+      <guid isPermaLink="false">B9jGvCk3hDA</guid>
+      <pubDate>Wed, 02 Sep 2026 21:30:17 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Barış Terkoğlu İfşa Etti: İdris Naim Şahin Dosyasında Şok FETÖ Gerçekleri!</description>
+    </item>
     <item>
       <title>Halk TV: “NASIL BİR ÖRGÜT ÜYESİYİM Kİ...” Murat Kapki’den mahkemede çarpıcı sözler!</title>
       <link>https://www.youtube.com/watch?v=imX-UC5GXv0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">jKq2zrFMCkk</guid>
       <pubDate>Wed, 02 Sep 2026 17:42:33 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Onur Öncü ile Sabah Pusulası (3.09.26)</description>
-    </item>
-    <item>
-      <title>Halk TV: ŞOK EDEN OLAY! Ali Mahir Başarır sert tepki gösterdi! Kıbrıs'a uçak biletleri uçtu!</title>
-      <link>https://www.youtube.com/watch?v=t0_1rlonmhA</link>
-      <guid isPermaLink="false">t0_1rlonmhA</guid>
-      <pubDate>Wed, 02 Sep 2026 17:40:37 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ŞOK EDEN OLAY! Ali Mahir Başarır sert tepki gösterdi! Kıbrıs'a uçak biletleri uçtu!</description>
     </item>
   </channel>
 </rss>
