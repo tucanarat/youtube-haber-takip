@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 08:20:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 08:25:24 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Ulaştırma ve Altyapı Bakanı Uraloğlu açıkladı: Silivri'deki kazada gemi 11 dakikada batmış!</title>
+      <link>https://www.youtube.com/shorts/5rJa_TPnk4o</link>
+      <guid isPermaLink="false">5rJa_TPnk4o</guid>
+      <pubDate>Wed, 02 Sep 2026 08:20:00 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Ulaştırma ve Altyapı Bakanı Uraloğlu açıkladı: Silivri'deki kazada gemi 11 dakikada batmış!</description>
+    </item>
     <item>
       <title>Halk TV: SİLİVRİ'DE 10 MÜRETTABATLI GEMİ BATTI! İşte kazanın muhtemel sebepleri! Her bir detay çok çarpıcı!</title>
       <link>https://www.youtube.com/watch?v=xzcG_cf4T6g</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">FwfEnnLRTbQ</guid>
       <pubDate>Tue, 01 Sep 2026 23:50:16 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Yeni Parti'de Kurultay Sesleri! Özgür Özel O İsim İçin Düğmeye Bastı! İmamoğlu'na Şok Sansür</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Giresun'da Korkutan Salgın! 700 Kişi Acile Koştu! İçme Suyuna Dikkat! Uzman İsimden Acil Uyarı</title>
-      <link>https://www.youtube.com/watch?v=CEOY9A83268</link>
-      <guid isPermaLink="false">CEOY9A83268</guid>
-      <pubDate>Tue, 01 Sep 2026 23:30:23 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Giresun'da Korkutan Salgın! 700 Kişi Acile Koştu! İçme Suyuna Dikkat! Uzman İsimden Acil Uyarı</description>
     </item>
   </channel>
 </rss>
