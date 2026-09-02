@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 22:55:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 23:01:01 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Butlan kararı ile göreve gelen CHP Genel Başkanı Kemal Kılıçdaroğlu, İzmir'de konuşma yaptı! #shorts</title>
+      <link>https://www.youtube.com/shorts/DWy0BC40xV8</link>
+      <guid isPermaLink="false">DWy0BC40xV8</guid>
+      <pubDate>Wed, 02 Sep 2026 22:45:00 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Butlan kararı ile göreve gelen CHP Genel Başkanı Kemal Kılıçdaroğlu, İzmir'de konuşma yaptı! #shorts</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Yaşamını yitiren gazeteci Şükran Soner için cenaze namazı kılınıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=0TGx9uSpHjU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">35JOz2IMDMQ</guid>
       <pubDate>Wed, 02 Sep 2026 18:55:14 +0000</pubDate>
       <description>Halk TV kanalından yeni video: PATLIYOR! İcra dosyası sayısı 26 milyonu aştı! Avukatlar da şaşkın!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "ŞÜPHELİ" MELİH GÖKÇEK İFADE VERECEK! İnan Demirel ile Gündemdekiler | Konuk: İbrahim Uslu (2.09.26)</title>
-      <link>https://www.youtube.com/watch?v=X_Oo-nLA4oo</link>
-      <guid isPermaLink="false">X_Oo-nLA4oo</guid>
-      <pubDate>Wed, 02 Sep 2026 18:54:02 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "ŞÜPHELİ" MELİH GÖKÇEK İFADE VERECEK! İnan Demirel ile Gündemdekiler | Konuk: İbrahim Uslu (2.09.26)</description>
     </item>
   </channel>
 </rss>
