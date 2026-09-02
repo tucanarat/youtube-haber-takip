@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 14:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 14:25:28 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Nevzat Çiçek Anlatıyor | Devlet ve Tarikatlar, Netanyahu, Mekke Anlaşması, Erdoğan, İran, Türkiye</title>
+      <link>https://www.youtube.com/watch?v=zeYmDDIKgjQ</link>
+      <guid isPermaLink="false">zeYmDDIKgjQ</guid>
+      <pubDate>Wed, 02 Sep 2026 14:15:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Nevzat Çiçek Anlatıyor | Devlet ve Tarikatlar, Netanyahu, Mekke Anlaşması, Erdoğan, İran, Türkiye</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Mustafa Destici, Ukrayna'nın Ankara Büyükelçisi Nariman Celalov ile açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=JHbquYUilxA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">0fuL2hpdP6Y</guid>
       <pubDate>Wed, 02 Sep 2026 11:40:18 +0000</pubDate>
       <description>Halk TV kanalından yeni video: O GEMİDE KAHREDEN DETAY! Batan gemide bulunan aşçının ailesinin bekleyişi sürüyor! Sıcak saatler...</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel: Seçim geceleri birbirimizi teselli etmek için değil, kazanmak için buradayız!</title>
-      <link>https://www.youtube.com/shorts/vqtedgC2hf8</link>
-      <guid isPermaLink="false">vqtedgC2hf8</guid>
-      <pubDate>Wed, 02 Sep 2026 11:36:21 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel: Seçim geceleri birbirimizi teselli etmek için değil, kazanmak için buradayız!</description>
     </item>
   </channel>
 </rss>
