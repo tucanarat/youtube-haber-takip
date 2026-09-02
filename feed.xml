@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 13:10:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 13:15:33 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: 'İSKELEYE KIR DEMİŞTİM' Silivri'de Batan Geminin Ses Kaydı Ortaya Çıktı! Kaptanın Son Sözleri</title>
+      <link>https://www.youtube.com/watch?v=msBHoauwhck</link>
+      <guid isPermaLink="false">msBHoauwhck</guid>
+      <pubDate>Wed, 02 Sep 2026 13:14:09 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: 'İSKELEYE KIR DEMİŞTİM' Silivri'de Batan Geminin Ses Kaydı Ortaya Çıktı! Kaptanın Son Sözleri</description>
+    </item>
     <item>
       <title>Halk TV: İrem Sansak ile Haber Masası  (2 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=owMrpGahAg8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">v8tzwZEAbzM</guid>
       <pubDate>Wed, 02 Sep 2026 11:00:32 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Özel: Biz yoksulluğu yönetmeye değil, yok etmeye geliyoruz!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: ALTINDA BÜYÜK DÜŞÜŞ! Kapalıçarşı'da Panik Başladı! Gram Altın Alacaklar Dikkat!</title>
-      <link>https://www.youtube.com/watch?v=ngnEFFLYcV0</link>
-      <guid isPermaLink="false">ngnEFFLYcV0</guid>
-      <pubDate>Wed, 02 Sep 2026 11:00:28 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: ALTINDA BÜYÜK DÜŞÜŞ! Kapalıçarşı'da Panik Başladı! Gram Altın Alacaklar Dikkat!</description>
     </item>
   </channel>
 </rss>
