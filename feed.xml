@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 09:15:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 09:20:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: CEP TELEFONLARI YANIT VERMİYOR! Silivri'de batan gemide son durum ne? Gamze Altunay bölgeden aktardı</title>
+      <link>https://www.youtube.com/watch?v=yZtqe89_Ljk</link>
+      <guid isPermaLink="false">yZtqe89_Ljk</guid>
+      <pubDate>Wed, 02 Sep 2026 09:15:39 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: CEP TELEFONLARI YANIT VERMİYOR! Silivri'de batan gemide son durum ne? Gamze Altunay bölgeden aktardı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: AKP Melih Gökçek'i Gözden Çıkardı! Murat Ağırel Belgeleriyle Açıkladı! İsmail Küçükkaya Yorumladı!</title>
       <link>https://www.youtube.com/watch?v=kXmT9N18INA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">TXMtFe-Rtoo</guid>
       <pubDate>Wed, 02 Sep 2026 06:30:21 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Melih Gökçek'in Serveti Ortaya Çıktı! Murat Ağırel Tek Tek Anlattı! İsmail Küçükkaya'dan Bomba Yorum</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Murat Taylan ile Haber-Yorum (02.09.2026)</title>
-      <link>https://www.youtube.com/watch?v=wEWH_N-KTuA</link>
-      <guid isPermaLink="false">wEWH_N-KTuA</guid>
-      <pubDate>Wed, 02 Sep 2026 06:17:14 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Murat Taylan ile Haber-Yorum (02.09.2026)</description>
     </item>
   </channel>
 </rss>
