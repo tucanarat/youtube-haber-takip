@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 14:10:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 14:15:30 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Mustafa Destici, Ukrayna'nın Ankara Büyükelçisi Nariman Celalov ile açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=JHbquYUilxA</link>
+      <guid isPermaLink="false">JHbquYUilxA</guid>
+      <pubDate>Wed, 02 Sep 2026 14:13:46 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Mustafa Destici, Ukrayna'nın Ankara Büyükelçisi Nariman Celalov ile açıklama yapıyor #Canlı</description>
+    </item>
     <item>
       <title>Tele2 Haber: 'SONUNA KADAR SAVUNURUM!" Nazmi Bilgin'den Merdan Yanardağ ve tutuklu gazeteciler değerlendirmesi...</title>
       <link>https://www.youtube.com/watch?v=X6-8SO7qkWg</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">mAdyOxaPUj8</guid>
       <pubDate>Wed, 02 Sep 2026 11:30:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Erol Mütercimler Putin Dosyasını Açtı | Putin'in Karadeniz Planı! Rusya Çin ve Avrupa Savaşı</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel: İlk dönemimizde Türkiye'yi Avrupa Birliği'ne tam üye yapacağız!</title>
-      <link>https://www.youtube.com/shorts/HKr_bdd0KLY</link>
-      <guid isPermaLink="false">HKr_bdd0KLY</guid>
-      <pubDate>Wed, 02 Sep 2026 11:30:04 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel: İlk dönemimizde Türkiye'yi Avrupa Birliği'ne tam üye yapacağız!</description>
     </item>
   </channel>
 </rss>
