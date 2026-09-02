@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 19:55:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 20:00:54 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Melih Gökçek soruşturmasının gerçek anlamı ne? Avukat Onur Cingil'den ifadeye çağrılma sorusu!</title>
+      <link>https://www.youtube.com/watch?v=1iCsFyvWpi8</link>
+      <guid isPermaLink="false">1iCsFyvWpi8</guid>
+      <pubDate>Wed, 02 Sep 2026 20:00:17 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Melih Gökçek soruşturmasının gerçek anlamı ne? Avukat Onur Cingil'den ifadeye çağrılma sorusu!</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Ankara'nın Altındağ ilçesinde bir binada çıkan yangına ekipler müdahale ediyor!</title>
+      <link>https://www.youtube.com/watch?v=XA3T9P76m9I</link>
+      <guid isPermaLink="false">XA3T9P76m9I</guid>
+      <pubDate>Wed, 02 Sep 2026 19:58:31 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Ankara'nın Altındağ ilçesinde bir binada çıkan yangına ekipler müdahale ediyor!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: İstanbul Adliyesi'nde Adli Yıl açılış programı düzenleniyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=DsWVg2wKAok</link>
@@ -41,13 +55,6 @@
       <guid isPermaLink="false">R_GA2k5sQlQ</guid>
       <pubDate>Wed, 02 Sep 2026 19:37:12 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI Adli yıl başladı... İstanbul Adliyesi'nden açılış programı…</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Ankara'nın Altındağ ilçesinde bir binada çıkan yangına ekipler müdahale ediyor!</title>
-      <link>https://www.youtube.com/watch?v=XA3T9P76m9I</link>
-      <guid isPermaLink="false">XA3T9P76m9I</guid>
-      <pubDate>Wed, 02 Sep 2026 19:32:27 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Ankara'nın Altındağ ilçesinde bir binada çıkan yangına ekipler müdahale ediyor!</description>
     </item>
     <item>
       <title>Tele2 Haber: Pandora'nın kutusu açıldı mı? Gökhan Çapoğlu'ndan Gökçek soruşturması ve ekonomik boyutu yorumu</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">E9SXMzlLvho</guid>
       <pubDate>Wed, 02 Sep 2026 16:40:17 +0000</pubDate>
       <description>Halk TV kanalından yeni video: 4 yıldır aranıyordu... Cesedi Esenyurt'ta bulundu: Kan donduran 'seri katil' detayı ortaya çıktı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İran'dan ABD Üslerine Peş Peşe Füzeler! TRUMP NEFES ALAMIYOR! Düğün Evine ABD Saldırısı</title>
-      <link>https://www.youtube.com/watch?v=bCK22KV1cdY</link>
-      <guid isPermaLink="false">bCK22KV1cdY</guid>
-      <pubDate>Wed, 02 Sep 2026 16:30:23 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İran'dan ABD Üslerine Peş Peşe Füzeler! TRUMP NEFES ALAMIYOR! Düğün Evine ABD Saldırısı</description>
     </item>
   </channel>
 </rss>
