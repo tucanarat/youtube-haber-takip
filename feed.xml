@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 20:10:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 20:15:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ŞÜPHELİ SIFATIYLA İFADE VERECEK! Gökçekler için ifade tarihi belli oldu!</title>
+      <link>https://www.youtube.com/watch?v=MEe4VdDwHeA</link>
+      <guid isPermaLink="false">MEe4VdDwHeA</guid>
+      <pubDate>Wed, 02 Sep 2026 20:10:21 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ŞÜPHELİ SIFATIYLA İFADE VERECEK! Gökçekler için ifade tarihi belli oldu!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Melih Gökçek soruşturmasının gerçek anlamı ne? Avukat Onur Cingil'den ifadeye çağrılma sorusu!</title>
       <link>https://www.youtube.com/watch?v=1iCsFyvWpi8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">o2wjl4XCmoY</guid>
       <pubDate>Wed, 02 Sep 2026 16:55:27 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ACI TABLO! ÖĞRETMENLERİN SINAV SONUÇLARINA İNANAMAYACAKSINIZ! Kendi branşlarında bile çakıldılar!</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Kürşad Oğuz ile Rota</title>
-      <link>https://www.youtube.com/watch?v=WcrnFKHl8DQ</link>
-      <guid isPermaLink="false">WcrnFKHl8DQ</guid>
-      <pubDate>Wed, 02 Sep 2026 16:53:24 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Kürşad Oğuz ile Rota</description>
     </item>
   </channel>
 </rss>
