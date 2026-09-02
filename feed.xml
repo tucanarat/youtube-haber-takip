@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 00:00:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 00:04:36 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: Adalet Peşinde Aileler Platformu, Adli Yıl Açılış Töreni öncesinde Yargıtay önünde açıklama yapıyor</title>
       <link>https://www.youtube.com/watch?v=kAkOqRJr3k8</link>
       <guid isPermaLink="false">kAkOqRJr3k8</guid>
       <pubDate>Tue, 01 Sep 2026 23:52:32 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Adalet Peşinde Aileler Platformu, Adli Yıl Açılış Töreni öncesinde Yargıtay önünde açıklama yapıyor</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Yeni Parti'de Kurultay Sesleri! Özgür Özel O İsim İçin Düğmeye Bastı! İmamoğlu'na Şok Sansür</title>
+      <link>https://www.youtube.com/watch?v=FwfEnnLRTbQ</link>
+      <guid isPermaLink="false">FwfEnnLRTbQ</guid>
+      <pubDate>Tue, 01 Sep 2026 23:50:16 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Yeni Parti'de Kurultay Sesleri! Özgür Özel O İsim İçin Düğmeye Bastı! İmamoğlu'na Şok Sansür</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Giresun'da Korkutan Salgın! 700 Kişi Acile Koştu! İçme Suyuna Dikkat! Uzman İsimden Acil Uyarı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">SFsTaU47rrc</guid>
       <pubDate>Tue, 01 Sep 2026 19:30:25 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: ABD'NİN KİRLİ YPG PLANI! İRAN'DAN Trump'a Füze Şoku! Orta Doğu'da Yeni Krizin Perde Arkası</description>
-    </item>
-    <item>
-      <title>Halk TV: İSTANBUL'DA KRİTİK ZİRVE! Hakan Fidan’dan Netanyahu’yu küplere bindirecek açıklama!</title>
-      <link>https://www.youtube.com/watch?v=TQC88EnRz64</link>
-      <guid isPermaLink="false">TQC88EnRz64</guid>
-      <pubDate>Tue, 01 Sep 2026 19:30:13 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İSTANBUL'DA KRİTİK ZİRVE! Hakan Fidan’dan Netanyahu’yu küplere bindirecek açıklama!</description>
     </item>
   </channel>
 </rss>
