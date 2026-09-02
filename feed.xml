@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 19:30:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 19:35:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Ankara'nın Altındağ ilçesinde bir binada çıkan yangına ekipler müdahale ediyor!</title>
+      <link>https://www.youtube.com/watch?v=XA3T9P76m9I</link>
+      <guid isPermaLink="false">XA3T9P76m9I</guid>
+      <pubDate>Wed, 02 Sep 2026 19:32:27 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Ankara'nın Altındağ ilçesinde bir binada çıkan yangına ekipler müdahale ediyor!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Pandora'nın kutusu açıldı mı? Gökhan Çapoğlu'ndan Gökçek soruşturması ve ekonomik boyutu yorumu</title>
       <link>https://www.youtube.com/watch?v=A1_rzr8UR8o</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Qg2zK_z4ahw</guid>
       <pubDate>Wed, 02 Sep 2026 16:10:16 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SON DAKİKA! 'DOKUNULMAZLIĞIM KALDIRILSIN' DEMİŞTİ! KKTC Ulaştırma Bakanı görevden alındı!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: CHP Merkez Yönetim Kurulu Toplantısı sona erdi #Canlı</title>
-      <link>https://www.youtube.com/watch?v=FWmi17i2ewU</link>
-      <guid isPermaLink="false">FWmi17i2ewU</guid>
-      <pubDate>Wed, 02 Sep 2026 16:03:05 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP Merkez Yönetim Kurulu Toplantısı sona erdi #Canlı</description>
     </item>
   </channel>
 </rss>
