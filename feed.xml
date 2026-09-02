@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 09:00:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 09:05:31 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: AKP Melih Gökçek'i Gözden Çıkardı! Murat Ağırel Belgeleriyle Açıkladı! İsmail Küçükkaya Yorumladı!</title>
+      <link>https://www.youtube.com/watch?v=kXmT9N18INA</link>
+      <guid isPermaLink="false">kXmT9N18INA</guid>
+      <pubDate>Wed, 02 Sep 2026 09:00:17 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: AKP Melih Gökçek'i Gözden Çıkardı! Murat Ağırel Belgeleriyle Açıkladı! İsmail Küçükkaya Yorumladı!</description>
+    </item>
+    <item>
+      <title>Halk TV: SON DAKİKA! Girne'de onlarca kişiye mezar olan geminin enkazına ulaşıldı! İşte çarpıcı detaylar!</title>
+      <link>https://www.youtube.com/watch?v=44rqGKc9wbo</link>
+      <guid isPermaLink="false">44rqGKc9wbo</guid>
+      <pubDate>Wed, 02 Sep 2026 09:00:07 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! Girne'de onlarca kişiye mezar olan geminin enkazına ulaşıldı! İşte çarpıcı detaylar!</description>
+    </item>
     <item>
       <title>Halk TV: Yaşamını Yitiren Gazeteci Şükran Soner İçin Cenaze Töreni Düzenlendi! (2 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=WJRjpTa5xmE</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">wEWH_N-KTuA</guid>
       <pubDate>Wed, 02 Sep 2026 06:17:14 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Murat Taylan ile Haber-Yorum (02.09.2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: KORKUNÇ İDDİA! Silivri açıklarındaki kazada 10 mürettebatlı gemi battı mı? Tüyler ürpertecek detay!</title>
-      <link>https://www.youtube.com/watch?v=4m6P-KaMqQ8</link>
-      <guid isPermaLink="false">4m6P-KaMqQ8</guid>
-      <pubDate>Wed, 02 Sep 2026 06:15:07 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KORKUNÇ İDDİA! Silivri açıklarındaki kazada 10 mürettebatlı gemi battı mı? Tüyler ürpertecek detay!</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! BİR GEMİ FACİASI DAHA! Silivri açıklarında iki gemi çarpıştı! 10 denizciye ulaşılamıyor!</title>
-      <link>https://www.youtube.com/watch?v=njKawVSuurM</link>
-      <guid isPermaLink="false">njKawVSuurM</guid>
-      <pubDate>Wed, 02 Sep 2026 05:24:51 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! BİR GEMİ FACİASI DAHA! Silivri açıklarında iki gemi çarpıştı! 10 denizciye ulaşılamıyor!</description>
     </item>
   </channel>
 </rss>
