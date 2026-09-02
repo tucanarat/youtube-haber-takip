@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 10:50:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 10:55:26 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Can Coşkun ile Gündem Masası | 2 Eylül</title>
+      <link>https://www.youtube.com/watch?v=TzThyhtjkvc</link>
+      <guid isPermaLink="false">TzThyhtjkvc</guid>
+      <pubDate>Wed, 02 Sep 2026 10:53:51 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Can Coşkun ile Gündem Masası | 2 Eylül</description>
+    </item>
+    <item>
+      <title>Halk TV: Özgür Özel: Mahkemede adalet, gelirde adalet, vergide adalet, sosyal hayatta adalet!</title>
+      <link>https://www.youtube.com/shorts/yVB2iv0PRsQ</link>
+      <guid isPermaLink="false">yVB2iv0PRsQ</guid>
+      <pubDate>Wed, 02 Sep 2026 10:49:53 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Özgür Özel: Mahkemede adalet, gelirde adalet, vergide adalet, sosyal hayatta adalet!</description>
+    </item>
     <item>
       <title>Halk TV: Silivri'de batan gemiyi takip eden basın mensuplarına saldırı!</title>
       <link>https://www.youtube.com/shorts/I_Wg8Jxv1Ms</link>
@@ -183,13 +197,6 @@
       <description>ANKA Haber Ajansı kanalından yeni video: Özgür Özel, partisinin genel merkezinde  İl Başkanları Toplantısında konuşuyor</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: Can Coşkun ile Gündem Masası | 2 Eylül</title>
-      <link>https://www.youtube.com/watch?v=TzThyhtjkvc</link>
-      <guid isPermaLink="false">TzThyhtjkvc</guid>
-      <pubDate>Wed, 02 Sep 2026 09:56:04 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Can Coşkun ile Gündem Masası | 2 Eylül</description>
-    </item>
-    <item>
       <title>Halk TV: SİLİVRİ’DEKİ KAZADA GEMİ 11 DAKİKADA BATMIŞ! 10 denizciye hala ulaşılamadı! Bakan Uraloğlu açıkladı!</title>
       <link>https://www.youtube.com/watch?v=R5BQI1Xoqj0</link>
       <guid isPermaLink="false">R5BQI1Xoqj0</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">TsiUdjJ4B4g</guid>
       <pubDate>Wed, 02 Sep 2026 08:52:16 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI Emekçinin sesiydi... Şükran Soner'e veda ediyoruz…</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Serap Belovacıklı ile Gazeteci Masası</title>
-      <link>https://www.youtube.com/watch?v=T1GH5UDlHtI</link>
-      <guid isPermaLink="false">T1GH5UDlHtI</guid>
-      <pubDate>Wed, 02 Sep 2026 08:48:20 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Serap Belovacıklı ile Gazeteci Masası</description>
     </item>
   </channel>
 </rss>
