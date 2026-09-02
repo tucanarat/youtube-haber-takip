@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 16:40:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 16:45:31 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: İran'dan ABD Üslerine Peş Peşe Füzeler! TRUMP NEFES ALAMIYOR! Düğün Evine ABD Saldırısı</title>
+      <link>https://www.youtube.com/watch?v=bCK22KV1cdY</link>
+      <guid isPermaLink="false">bCK22KV1cdY</guid>
+      <pubDate>Wed, 02 Sep 2026 16:30:23 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İran'dan ABD Üslerine Peş Peşe Füzeler! TRUMP NEFES ALAMIYOR! Düğün Evine ABD Saldırısı</description>
+    </item>
     <item>
       <title>Tele2 Haber: Melih Gökçek ifadeye çağrıldı! Sürpriz gelir mi? Murat Taylan 'Mansur Yavaş hazırlığını' analiz etti</title>
       <link>https://www.youtube.com/watch?v=HF2bh8J7xc0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">oCX1rWnPydM</guid>
       <pubDate>Wed, 02 Sep 2026 13:27:15 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "MERDAN YANARDAĞ'I SONUNA KADAR SAVUNURUM!" Zeynel Lüle ve Nazmi Bilgin ile Medyamorfoz (02.09.26)</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti Lideri Özgür Özel: Türkiye'yi yönetmeye hazırız!</title>
-      <link>https://www.youtube.com/shorts/ZpLkQTETgx4</link>
-      <guid isPermaLink="false">ZpLkQTETgx4</guid>
-      <pubDate>Wed, 02 Sep 2026 13:27:08 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti Lideri Özgür Özel: Türkiye'yi yönetmeye hazırız!</description>
     </item>
   </channel>
 </rss>
