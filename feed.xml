@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 13:25:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 13:30:43 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI Zeynel Lüle ve Nazmi Bilgin ile Medyamorfoz (02.09.26)</title>
+      <link>https://www.youtube.com/watch?v=oCX1rWnPydM</link>
+      <guid isPermaLink="false">oCX1rWnPydM</guid>
+      <pubDate>Wed, 02 Sep 2026 13:27:15 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Zeynel Lüle ve Nazmi Bilgin ile Medyamorfoz (02.09.26)</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: CHP Genel Başkanı Kemal Kılıçdaroğlu, İzmir Esnaf ve Sanatkarlar Odaları Birliği'ni ziyaret ediyor</title>
+      <link>https://www.youtube.com/watch?v=g8_pdCQnA_0</link>
+      <guid isPermaLink="false">g8_pdCQnA_0</guid>
+      <pubDate>Wed, 02 Sep 2026 13:22:51 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkanı Kemal Kılıçdaroğlu, İzmir Esnaf ve Sanatkarlar Odaları Birliği'ni ziyaret ediyor</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Batan "Tuğberk İmamoğlu" Adlı Kuru Yük Gemisinin Limandan Son Çıkış Görüntüsü Ortaya Çıktı! #shorts</title>
       <link>https://www.youtube.com/shorts/2tHLmF1tr1g</link>
@@ -55,13 +69,6 @@
       <guid isPermaLink="false">IvAauZcocog</guid>
       <pubDate>Wed, 02 Sep 2026 12:55:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: AMAN SOFRANIZA KOYMAYIN! İstanbul’da denetlenen o üründen öyle bir şey çıktı ki! Kanınız donacak!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: CHP Genel Başkanı Kemal Kılıçdaroğlu, İzmir Esnaf ve Sanatkarlar Odaları Birliği'ni ziyaret ediyor</title>
-      <link>https://www.youtube.com/watch?v=g8_pdCQnA_0</link>
-      <guid isPermaLink="false">g8_pdCQnA_0</guid>
-      <pubDate>Wed, 02 Sep 2026 12:52:53 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkanı Kemal Kılıçdaroğlu, İzmir Esnaf ve Sanatkarlar Odaları Birliği'ni ziyaret ediyor</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | Gizem Çetin ile Parantez</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">SUwNWM2Vft4</guid>
       <pubDate>Wed, 02 Sep 2026 11:01:45 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Yeni Parti Lideri Özgür Özel'den Kritik Açıklamalar!</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti Genel Başkanı Özgür Özel, İl Başkanları Toplantısında Konuştu! (2 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=Kjjj4L5Ruus</link>
-      <guid isPermaLink="false">Kjjj4L5Ruus</guid>
-      <pubDate>Wed, 02 Sep 2026 11:01:36 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, İl Başkanları Toplantısında Konuştu! (2 Eylül 2026)</description>
     </item>
   </channel>
 </rss>
