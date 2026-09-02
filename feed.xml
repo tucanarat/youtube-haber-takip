@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 07:50:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 07:55:29 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Silivri açıklarında gemi kazası sonrası kayıp gemi ve 10 personel için arama havadan görüntülendi!</title>
+      <link>https://www.youtube.com/shorts/3sLCkqIquOU</link>
+      <guid isPermaLink="false">3sLCkqIquOU</guid>
+      <pubDate>Wed, 02 Sep 2026 07:52:15 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Silivri açıklarında gemi kazası sonrası kayıp gemi ve 10 personel için arama havadan görüntülendi!</description>
+    </item>
     <item>
       <title>Cumhuriyet: Tuncer Bakırhan'dan barış mesajı: “Demokrasiye evriltmek hepimizin sorumluluğu"</title>
       <link>https://www.youtube.com/watch?v=FWK0ggbnSE0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">WyYkVKwo-QA</guid>
       <pubDate>Tue, 01 Sep 2026 22:15:32 +0000</pubDate>
       <description>Halk TV kanalından yeni video: "HUKUKİ BİR SONUÇ ÇIKMAYACAK..." Bahadır Özgür’den Gökçek soruşturmaları için çarpıcı yorum!</description>
-    </item>
-    <item>
-      <title>Halk TV: Mansur Yavaş’tan zabıta teşkilatının 200’üncü yılına özel buluşma! #shorts</title>
-      <link>https://www.youtube.com/shorts/exc9tq79OLU</link>
-      <guid isPermaLink="false">exc9tq79OLU</guid>
-      <pubDate>Tue, 01 Sep 2026 22:10:18 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Mansur Yavaş’tan zabıta teşkilatının 200’üncü yılına özel buluşma! #shorts</description>
     </item>
   </channel>
 </rss>
