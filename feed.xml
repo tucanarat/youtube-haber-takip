@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 19:00:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 19:05:27 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: Polisten dronla 'alkol' müdahalesi! Avukat Onur Cingil hukuki boyutuyla ele aldı</title>
       <link>https://www.youtube.com/watch?v=ZYgIv2GgimY</link>
       <guid isPermaLink="false">ZYgIv2GgimY</guid>
       <pubDate>Wed, 02 Sep 2026 19:00:28 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Polisten dronla 'alkol' müdahalesi! Avukat Onur Cingil hukuki boyutuyla ele aldı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Melih Gökçek Hakkında Çarpıcı Suç Örgütü ve İhale İddiaları! ŞOK ŞEMAYI MURAT AĞIREL İFŞA ETTİ</title>
+      <link>https://www.youtube.com/watch?v=LPpelfB_TWc</link>
+      <guid isPermaLink="false">LPpelfB_TWc</guid>
+      <pubDate>Wed, 02 Sep 2026 19:00:11 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Melih Gökçek Hakkında Çarpıcı Suç Örgütü ve İhale İddiaları! ŞOK ŞEMAYI MURAT AĞIREL İFŞA ETTİ</description>
     </item>
     <item>
       <title>Halk TV: PATLIYOR! İcra dosyası sayısı 26 milyonu aştı! Avukatlar da şaşkın!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">xlSwUJZXFcs</guid>
       <pubDate>Wed, 02 Sep 2026 15:55:48 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: İstanbul Valisi Davut Gül, Silivri kriz merkezinde açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! GİRNE’DE BİR KİŞİNİN NAAŞINA ULAŞILDI! 19 kişiyi arama çalışmaları sürüyor!</title>
-      <link>https://www.youtube.com/watch?v=uHa1i2eARHM</link>
-      <guid isPermaLink="false">uHa1i2eARHM</guid>
-      <pubDate>Wed, 02 Sep 2026 15:50:13 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! GİRNE’DE BİR KİŞİNİN NAAŞINA ULAŞILDI! 19 kişiyi arama çalışmaları sürüyor!</description>
     </item>
   </channel>
 </rss>
