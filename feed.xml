@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 19:10:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 19:15:36 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Eski MB Başkanı Gaye Erkan ile ilgili yeni skandal bilgiler geliyor: Sitedekileri tehdit etmiş!</title>
+      <link>https://www.youtube.com/watch?v=7Vw5Wiku8kc</link>
+      <guid isPermaLink="false">7Vw5Wiku8kc</guid>
+      <pubDate>Wed, 02 Sep 2026 19:10:17 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Eski MB Başkanı Gaye Erkan ile ilgili yeni skandal bilgiler geliyor: Sitedekileri tehdit etmiş!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Polisten dronla 'alkol' müdahalesi! Avukat Onur Cingil hukuki boyutuyla ele aldı</title>
       <link>https://www.youtube.com/watch?v=ZYgIv2GgimY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">H_0aXoOLTNA</guid>
       <pubDate>Wed, 02 Sep 2026 15:55:56 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkanı Kemal Kılıçdaroğlu, CHP İl binasına yürüyor #Canlı</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: İstanbul Valisi Davut Gül, Silivri kriz merkezinde açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=xlSwUJZXFcs</link>
-      <guid isPermaLink="false">xlSwUJZXFcs</guid>
-      <pubDate>Wed, 02 Sep 2026 15:55:48 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: İstanbul Valisi Davut Gül, Silivri kriz merkezinde açıklama yapıyor #Canlı</description>
     </item>
   </channel>
 </rss>
