@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 13:00:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 13:05:31 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: "Gökçek İstemiş, Erdoğan Yapmış" Uğur Emek'ten Hiçbir Yerde Duyamayacağınız Erdoğan-Gökçek Anektodu!</title>
+      <link>https://www.youtube.com/watch?v=6Ivt3IRcOWs</link>
+      <guid isPermaLink="false">6Ivt3IRcOWs</guid>
+      <pubDate>Wed, 02 Sep 2026 13:00:32 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "Gökçek İstemiş, Erdoğan Yapmış" Uğur Emek'ten Hiçbir Yerde Duyamayacağınız Erdoğan-Gökçek Anektodu!</description>
+    </item>
     <item>
       <title>Halk TV: AMAN SOFRANIZA KOYMAYIN! İstanbul’da denetlenen o üründen öyle bir şey çıktı ki! Kanınız donacak!</title>
       <link>https://www.youtube.com/watch?v=IvAauZcocog</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">xzA1sjo-tj0</guid>
       <pubDate>Wed, 02 Sep 2026 10:55:11 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ERDOĞAN VE KILIÇDAROĞLU HAYATININ ŞOKUNU YAŞAYACAK! Özgür Özel felç edecek vaatleri verdi! Şok rest!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Can Coşkun ile Gündem Masası | 2 Eylül</title>
-      <link>https://www.youtube.com/watch?v=TzThyhtjkvc</link>
-      <guid isPermaLink="false">TzThyhtjkvc</guid>
-      <pubDate>Wed, 02 Sep 2026 10:53:51 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Can Coşkun ile Gündem Masası | 2 Eylül</description>
     </item>
   </channel>
 </rss>
