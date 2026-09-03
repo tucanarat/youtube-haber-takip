@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 08:20:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 08:25:36 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: 10 DENİZCİYLE İRTİBAT KESİLMİŞTİ! Tuğberk İmamoğlu'nun son görüntüleri ortaya çıktı! Böyle ayrılmış!</title>
+      <link>https://www.youtube.com/watch?v=Zu6SG8XHPLw</link>
+      <guid isPermaLink="false">Zu6SG8XHPLw</guid>
+      <pubDate>Thu, 03 Sep 2026 08:15:01 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: 10 DENİZCİYLE İRTİBAT KESİLMİŞTİ! Tuğberk İmamoğlu'nun son görüntüleri ortaya çıktı! Böyle ayrılmış!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Senem Toluay Ilgaz ile Öncesi Sonrası Gece</title>
       <link>https://www.youtube.com/watch?v=2E8UdT9HDTg</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Qa1jZgKLssE</guid>
       <pubDate>Wed, 02 Sep 2026 22:28:26 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Serap Belovacıklı ile Haber Saati</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Özlem Gürses ile Sözcü Ana Haber</title>
-      <link>https://www.youtube.com/watch?v=DMwaTtj9Ulo</link>
-      <guid isPermaLink="false">DMwaTtj9Ulo</guid>
-      <pubDate>Wed, 02 Sep 2026 22:27:03 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses ile Sözcü Ana Haber</description>
     </item>
   </channel>
 </rss>
