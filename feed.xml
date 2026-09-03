@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 20:40:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 20:45:30 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: CHP Genel Başkan Yardımcısı Orhan Sarıbal, parti genel merkezinde basın toplantısı düzenliyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=BSzHo4-DhCE</link>
@@ -20,6 +20,27 @@
       <guid isPermaLink="false">rxDSad--pl4</guid>
       <pubDate>Thu, 03 Sep 2026 20:30:39 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Zelenski'nin hava sahası tehdidi! Rusya ne yapacak? Engin Solakoğlu ve Haldun Solmaztürk anlatıyor</description>
+    </item>
+    <item>
+      <title>Halk TV: ŞOK EDEN AÇIKLAMA! “KUSURSUZ FIRTINA HAVASI VAR!” Şamil Tayyar'dan imalı sözler!</title>
+      <link>https://www.youtube.com/watch?v=TLv9POLwAhU</link>
+      <guid isPermaLink="false">TLv9POLwAhU</guid>
+      <pubDate>Thu, 03 Sep 2026 20:30:34 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ŞOK EDEN AÇIKLAMA! “KUSURSUZ FIRTINA HAVASI VAR!” Şamil Tayyar'dan imalı sözler!</description>
+    </item>
+    <item>
+      <title>Halk TV: O GEMİNİN ARDINDAN... NİHAT PANCAR'IN SON BAKIŞLARI YÜREK YAKIYOR!</title>
+      <link>https://www.youtube.com/watch?v=v9X1vhQmeAU</link>
+      <guid isPermaLink="false">v9X1vhQmeAU</guid>
+      <pubDate>Thu, 03 Sep 2026 20:30:24 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: O GEMİNİN ARDINDAN... NİHAT PANCAR'IN SON BAKIŞLARI YÜREK YAKIYOR!</description>
+    </item>
+    <item>
+      <title>Halk TV: Üzüm üreticisinin mazot hesabı gündem oldu! 50 litreden 10 litreye düştü! #shorts</title>
+      <link>https://www.youtube.com/shorts/v6CwqJ3OvlE</link>
+      <guid isPermaLink="false">v6CwqJ3OvlE</guid>
+      <pubDate>Thu, 03 Sep 2026 20:30:03 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Üzüm üreticisinin mazot hesabı gündem oldu! 50 litreden 10 litreye düştü! #shorts</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Adnan Oktar'ın 3 Sayfalık Sırrı Çözüldü! Hakan Fidan ve Cem Küçük Detayı! Barış Terkoğlu Anlattı</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">i1HUw_CcLOs</guid>
       <pubDate>Thu, 03 Sep 2026 17:00:06 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: İmamoğlu'ndan Silivri'de deprem etkisi yaratan konuşma: SUSTURAMAYACAKSINIZ!</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Ece Üner ile Halk Ana Haber</title>
-      <link>https://www.youtube.com/watch?v=XhaRrBGwRuM</link>
-      <guid isPermaLink="false">XhaRrBGwRuM</guid>
-      <pubDate>Thu, 03 Sep 2026 16:57:19 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Ece Üner ile Halk Ana Haber</description>
-    </item>
-    <item>
-      <title>Halk TV: CANLI | Sinem Fıstıkoğlu ile Sansürsüz</title>
-      <link>https://www.youtube.com/watch?v=Lqy-fu1T0W4</link>
-      <guid isPermaLink="false">Lqy-fu1T0W4</guid>
-      <pubDate>Thu, 03 Sep 2026 16:56:17 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: CANLI | Sinem Fıstıkoğlu ile Sansürsüz</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Özlem Gürses ile Sözcü Ana Haber 3 Eylül</title>
-      <link>https://www.youtube.com/watch?v=DMwaTtj9Ulo</link>
-      <guid isPermaLink="false">DMwaTtj9Ulo</guid>
-      <pubDate>Thu, 03 Sep 2026 16:55:54 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses ile Sözcü Ana Haber 3 Eylül</description>
     </item>
   </channel>
 </rss>
