@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 16:16:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 16:20:31 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: İmamoğlu'ndan Akın Gürlek'e sert sözlerle yanıt: Canlı yayını istiyorum hatta ileri gidiyorum...</title>
+      <link>https://www.youtube.com/watch?v=G7GAR_1MxXo</link>
+      <guid isPermaLink="false">G7GAR_1MxXo</guid>
+      <pubDate>Thu, 03 Sep 2026 16:17:29 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: İmamoğlu'ndan Akın Gürlek'e sert sözlerle yanıt: Canlı yayını istiyorum hatta ileri gidiyorum...</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Türkiye Maden-İş Sendikası, işçilerin ödemelerine ilişkin açıklama yapıyor!</title>
       <link>https://www.youtube.com/watch?v=yKTdtNMhaEk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">_gKA-eNaG0o</guid>
       <pubDate>Thu, 03 Sep 2026 13:12:52 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Özel'den çiftçiye söz: Alım garantisi getireceğiz!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: “Eğer bir kişiyi tutukluyorsanız iddianameyi bir an önce yazmanız gerekir" #shorts</title>
-      <link>https://www.youtube.com/shorts/7GoTbrDQLvY</link>
-      <guid isPermaLink="false">7GoTbrDQLvY</guid>
-      <pubDate>Thu, 03 Sep 2026 13:12:37 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: “Eğer bir kişiyi tutukluyorsanız iddianameyi bir an önce yazmanız gerekir" #shorts</description>
     </item>
   </channel>
 </rss>
