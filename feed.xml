@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 21:25:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 21:30:40 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: 800 Milyon Dolarlık Enkaz! Timur Soykan'dan Bomba Melih Gökçek İddiası! AKP Kulisleri Kaynıyor</title>
+      <link>https://www.youtube.com/watch?v=_7X7V8-MZaY</link>
+      <guid isPermaLink="false">_7X7V8-MZaY</guid>
+      <pubDate>Thu, 03 Sep 2026 21:20:34 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: 800 Milyon Dolarlık Enkaz! Timur Soykan'dan Bomba Melih Gökçek İddiası! AKP Kulisleri Kaynıyor</description>
+    </item>
     <item>
       <title>Halk TV: SON DAKİKA! ÖZGÜR ÇELİK'TEN VATANDAŞA ÇAĞRI! "Yarın Üsküdar Belediyesi önünde buluşalım!"</title>
       <link>https://www.youtube.com/watch?v=6IRvrXMw9xw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">F4l3IKuj3L0</guid>
       <pubDate>Thu, 03 Sep 2026 17:30:15 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: İmamoğlu'ndan Silivri'yi sallayan konuşma! Davutoğlu'na soruşturma! Murat Taylan ile Haber-Yorum</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Davutoğlu'na 'Cumhurbaşkanı'na hakaret' soruşturması! Murat Taylan Bahçeli'nin sözlerini hatırlattı!</title>
-      <link>https://www.youtube.com/watch?v=_hHZ6rkjR90</link>
-      <guid isPermaLink="false">_hHZ6rkjR90</guid>
-      <pubDate>Thu, 03 Sep 2026 17:30:10 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Davutoğlu'na 'Cumhurbaşkanı'na hakaret' soruşturması! Murat Taylan Bahçeli'nin sözlerini hatırlattı!</description>
     </item>
   </channel>
 </rss>
