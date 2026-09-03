@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 17:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 17:05:29 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Özlem Gürses'ten Melih Gökçek Soruşturması Detayları! "Asıl Hedef Mansur Yavaş mı?"</title>
+      <link>https://www.youtube.com/watch?v=Y1v5ySIYjxk</link>
+      <guid isPermaLink="false">Y1v5ySIYjxk</guid>
+      <pubDate>Thu, 03 Sep 2026 17:00:26 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses'ten Melih Gökçek Soruşturması Detayları! "Asıl Hedef Mansur Yavaş mı?"</description>
+    </item>
+    <item>
+      <title>Halk TV: KILIÇDAROĞLU BUNU HİÇ BEKLEMİYORDU! İzmir'de öyle bir tepkiyle karşılaştı ki! 'Yuh' sesleri dinmedi!</title>
+      <link>https://www.youtube.com/watch?v=LXc6jLT0oW8</link>
+      <guid isPermaLink="false">LXc6jLT0oW8</guid>
+      <pubDate>Thu, 03 Sep 2026 17:00:13 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KILIÇDAROĞLU BUNU HİÇ BEKLEMİYORDU! İzmir'de öyle bir tepkiyle karşılaştı ki! 'Yuh' sesleri dinmedi!</description>
+    </item>
     <item>
       <title>Tele2 Haber: İmamoğlu'ndan Silivri'de deprem etkisi yaratan konuşma: SUSTURAMAYACAKSINIZ!</title>
       <link>https://www.youtube.com/watch?v=i1HUw_CcLOs</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">Qa1jZgKLssE</guid>
       <pubDate>Thu, 03 Sep 2026 14:02:04 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Serap Belovacıklı ile Haber Saati | 3 Eylül</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Özlem Çerçioğlu Şaşırtmadı: Ege'deki Başkanlar Arasında Son Sırada! Cemil Tugay da Düşüş Yaşıyor...</title>
-      <link>https://www.youtube.com/watch?v=Bs3e4doZnQA</link>
-      <guid isPermaLink="false">Bs3e4doZnQA</guid>
-      <pubDate>Thu, 03 Sep 2026 14:00:36 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Özlem Çerçioğlu Şaşırtmadı: Ege'deki Başkanlar Arasında Son Sırada! Cemil Tugay da Düşüş Yaşıyor...</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Putin'i Delirtecek Hamle! Almanya Balistik Füzesini Test Etti! Avrupa Savaşa Hazırlanıyor!</title>
-      <link>https://www.youtube.com/watch?v=eHFFvgizhoM</link>
-      <guid isPermaLink="false">eHFFvgizhoM</guid>
-      <pubDate>Thu, 03 Sep 2026 14:00:08 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Putin'i Delirtecek Hamle! Almanya Balistik Füzesini Test Etti! Avrupa Savaşa Hazırlanıyor!</description>
     </item>
   </channel>
 </rss>
