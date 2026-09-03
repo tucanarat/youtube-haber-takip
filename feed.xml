@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 22:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 22:10:30 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Pınar Erbaş ile Gecenin Sözü 3 Eylül</title>
+      <link>https://www.youtube.com/watch?v=cJ8hfQcPsr8</link>
+      <guid isPermaLink="false">cJ8hfQcPsr8</guid>
+      <pubDate>Thu, 03 Sep 2026 22:03:37 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Pınar Erbaş ile Gecenin Sözü 3 Eylül</description>
+    </item>
     <item>
       <title>Halk TV: GÖZLER BU KARARDA! İBB Davasında Tahliyeler Gelecek mi? Silivri'den Anbean Gelişmeler (3 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=f4z4vBf-xYM</link>
       <guid isPermaLink="false">f4z4vBf-xYM</guid>
       <pubDate>Thu, 03 Sep 2026 22:00:48 +0000</pubDate>
       <description>Halk TV kanalından yeni video: GÖZLER BU KARARDA! İBB Davasında Tahliyeler Gelecek mi? Silivri'den Anbean Gelişmeler (3 Eylül 2026)</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İktidardan Çarpıcı Davutoğlu ve Gökçek Hamleleri! Süleymancılar Davasında Çarpıcı İddia</title>
+      <link>https://www.youtube.com/watch?v=EBgSS_wOUtQ</link>
+      <guid isPermaLink="false">EBgSS_wOUtQ</guid>
+      <pubDate>Thu, 03 Sep 2026 22:00:28 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İktidardan Çarpıcı Davutoğlu ve Gökçek Hamleleri! Süleymancılar Davasında Çarpıcı İddia</description>
     </item>
     <item>
       <title>Halk TV: TARTIŞMALI UYUŞTURUCU TESTİ! Keçiören Belediyesinde tüm personele uyuşturucu testi uygulandı!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">Ey8t3k_lwmI</guid>
       <pubDate>Thu, 03 Sep 2026 18:00:11 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Sözcü Melih Gökçek Dosyasını Açtı | Barış Terkoğlu &amp; Murat Ağırel &amp; İsmail Saymaz &amp; Timur Soykan</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: "Cumhurbaşkanı Olmasın Diye İddianame Yazmışlar!" İBB Davasında Çarpıcı Karar! İmamoğlu Esti Gürledi</title>
-      <link>https://www.youtube.com/watch?v=S1AI5cIR21w</link>
-      <guid isPermaLink="false">S1AI5cIR21w</guid>
-      <pubDate>Thu, 03 Sep 2026 18:00:11 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: "Cumhurbaşkanı Olmasın Diye İddianame Yazmışlar!" İBB Davasında Çarpıcı Karar! İmamoğlu Esti Gürledi</description>
-    </item>
-    <item>
-      <title>Halk TV: ŞOK AÇIKLAMA! CHP'den AKP'ye Geçmişti! "Hizmet için geçtim." dedi! Bu sözler bakın neyin itirafıydı!</title>
-      <link>https://www.youtube.com/watch?v=6-V0S5-4Hg8</link>
-      <guid isPermaLink="false">6-V0S5-4Hg8</guid>
-      <pubDate>Thu, 03 Sep 2026 18:00:10 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ŞOK AÇIKLAMA! CHP'den AKP'ye Geçmişti! "Hizmet için geçtim." dedi! Bu sözler bakın neyin itirafıydı!</description>
     </item>
   </channel>
 </rss>
