@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 20:45:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 20:50:35 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Timur Soykan Kirli Ağı Tek Tek Çözdü! Paramount Otel MİT İddiaları ve Cem Küçük Gerçekleri</title>
+      <link>https://www.youtube.com/watch?v=hcBHZUleMCE</link>
+      <guid isPermaLink="false">hcBHZUleMCE</guid>
+      <pubDate>Thu, 03 Sep 2026 20:40:31 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Timur Soykan Kirli Ağı Tek Tek Çözdü! Paramount Otel MİT İddiaları ve Cem Küçük Gerçekleri</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: CHP Genel Başkan Yardımcısı Orhan Sarıbal, parti genel merkezinde basın toplantısı düzenliyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=BSzHo4-DhCE</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">LXc6jLT0oW8</guid>
       <pubDate>Thu, 03 Sep 2026 17:00:13 +0000</pubDate>
       <description>Halk TV kanalından yeni video: KILIÇDAROĞLU BUNU HİÇ BEKLEMİYORDU! İzmir'de öyle bir tepkiyle karşılaştı ki! 'Yuh' sesleri dinmedi!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: İmamoğlu'ndan Silivri'de deprem etkisi yaratan konuşma: SUSTURAMAYACAKSINIZ!</title>
-      <link>https://www.youtube.com/watch?v=i1HUw_CcLOs</link>
-      <guid isPermaLink="false">i1HUw_CcLOs</guid>
-      <pubDate>Thu, 03 Sep 2026 17:00:06 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: İmamoğlu'ndan Silivri'de deprem etkisi yaratan konuşma: SUSTURAMAYACAKSINIZ!</description>
     </item>
   </channel>
 </rss>
