@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 08:45:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 08:51:08 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Onur Öncü Özgür Özel'in Kılıçdaroğlu ile Tokalaşması Hakkında Yaptığı Açıklamayı Aktardı!</title>
+      <link>https://www.youtube.com/shorts/HThraWuwFl0</link>
+      <guid isPermaLink="false">HThraWuwFl0</guid>
+      <pubDate>Thu, 03 Sep 2026 08:47:20 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Onur Öncü Özgür Özel'in Kılıçdaroğlu ile Tokalaşması Hakkında Yaptığı Açıklamayı Aktardı!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: 'ERDOĞAN'I İLK TURDA YENECEK' Özgür Özel'den Ekrem İmamoğlu ve Mansur Yavaş Çıkışı!</title>
+      <link>https://www.youtube.com/watch?v=GrrCthBEtzg</link>
+      <guid isPermaLink="false">GrrCthBEtzg</guid>
+      <pubDate>Thu, 03 Sep 2026 08:43:33 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: 'ERDOĞAN'I İLK TURDA YENECEK' Özgür Özel'den Ekrem İmamoğlu ve Mansur Yavaş Çıkışı!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Özel-Kılıçdaroğlu Tokalaşmasının Arka Planı | İBB'ye yeni Operasyon | Sabah Pusulası</title>
       <link>https://www.youtube.com/watch?v=jKq2zrFMCkk</link>
@@ -92,11 +106,11 @@
       <description>SÖZCÜ TV kanalından yeni video: Zafer Partisi Genel Başkanı Ümit Özdağ'dan Kritik Açıklamalar!</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | Zafer Partisi Genel Başkanı Ümit Özdağ, Parti Genel Merkezinde Basın Toplantısı Düzenliyor!</title>
+      <title>Halk TV: Zafer Partisi Genel Başkanı Ümit Özdağ, Parti Genel Merkezinde Basın Toplantısı Düzenliyor!</title>
       <link>https://www.youtube.com/watch?v=6xcXbhuHcBg</link>
       <guid isPermaLink="false">6xcXbhuHcBg</guid>
       <pubDate>Thu, 03 Sep 2026 08:03:23 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Zafer Partisi Genel Başkanı Ümit Özdağ, Parti Genel Merkezinde Basın Toplantısı Düzenliyor!</description>
+      <description>Halk TV kanalından yeni video: Zafer Partisi Genel Başkanı Ümit Özdağ, Parti Genel Merkezinde Basın Toplantısı Düzenliyor!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: İsmail Küçükkaya ile Günaydın Türkiyem | 3 Eylül</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">KTGoYkJ_esk</guid>
       <pubDate>Thu, 03 Sep 2026 04:59:40 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Merve Ekinci ile Uyanma Vakti | 3 Eylül</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: CHP Merkez Yönetim Kurulu Toplantısı sona erdi #Canlı</title>
-      <link>https://www.youtube.com/watch?v=FWmi17i2ewU</link>
-      <guid isPermaLink="false">FWmi17i2ewU</guid>
-      <pubDate>Thu, 03 Sep 2026 04:39:32 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP Merkez Yönetim Kurulu Toplantısı sona erdi #Canlı</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: İstanbul Valisi Davut Gül, Silivri kriz merkezinde açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=xlSwUJZXFcs</link>
-      <guid isPermaLink="false">xlSwUJZXFcs</guid>
-      <pubDate>Thu, 03 Sep 2026 04:20:46 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: İstanbul Valisi Davut Gül, Silivri kriz merkezinde açıklama yapıyor #Canlı</description>
     </item>
   </channel>
 </rss>
