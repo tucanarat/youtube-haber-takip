@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 10:40:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 10:45:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Tekirdağ’da tekneyle denize açılan vatandaşlar Cotylorhiza tuberculata türü denizanasını görüntüledi</title>
+      <link>https://www.youtube.com/shorts/Gi5FN2F_w7c</link>
+      <guid isPermaLink="false">Gi5FN2F_w7c</guid>
+      <pubDate>Thu, 03 Sep 2026 10:43:13 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Tekirdağ’da tekneyle denize açılan vatandaşlar Cotylorhiza tuberculata türü denizanasını görüntüledi</description>
+    </item>
     <item>
       <title>Halk TV: Eşinin umudu sürüyor: Kayıp Nihat Pancar'ın son görüntüleri ortaya çıktı</title>
       <link>https://www.youtube.com/shorts/mdxIHF9l6no</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">vG_vC_HlaTc</guid>
       <pubDate>Thu, 03 Sep 2026 08:32:54 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Girne faciasında yürek yakan detay! Kaybolan babanın çantasından oyuncaklar çıktı</description>
-    </item>
-    <item>
-      <title>Halk TV: Tuzla Deri Sanayi Sitesi’nde yangın! Siyah dumanlar gökyüzünü kapladı</title>
-      <link>https://www.youtube.com/shorts/NtVIpoTRFOY</link>
-      <guid isPermaLink="false">NtVIpoTRFOY</guid>
-      <pubDate>Thu, 03 Sep 2026 08:31:20 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Tuzla Deri Sanayi Sitesi’nde yangın! Siyah dumanlar gökyüzünü kapladı</description>
     </item>
   </channel>
 </rss>
