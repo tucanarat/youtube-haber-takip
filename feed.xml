@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 14:55:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 15:01:04 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Melih Gökçek Dosyasıyla İlgili Her Şey | İsmail Saymaz, Barış Terkoğlu, Murat Ağırel, Saygı Öztürk</title>
+      <link>https://www.youtube.com/watch?v=YfarHJL2LwA</link>
+      <guid isPermaLink="false">YfarHJL2LwA</guid>
+      <pubDate>Thu, 03 Sep 2026 15:00:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Melih Gökçek Dosyasıyla İlgili Her Şey | İsmail Saymaz, Barış Terkoğlu, Murat Ağırel, Saygı Öztürk</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Damla Doğan Tuncel ile 1 Saat</title>
+      <link>https://www.youtube.com/watch?v=FAR_4BTH-GY</link>
+      <guid isPermaLink="false">FAR_4BTH-GY</guid>
+      <pubDate>Thu, 03 Sep 2026 14:56:34 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Damla Doğan Tuncel ile 1 Saat</description>
+    </item>
+    <item>
+      <title>Halk TV: SON DAKİKA! SİLİVRİ'DE SON DURUM NE? İmamoğlu tahliye talebinde bulunacak!</title>
+      <link>https://www.youtube.com/watch?v=nV9svxC4MHI</link>
+      <guid isPermaLink="false">nV9svxC4MHI</guid>
+      <pubDate>Thu, 03 Sep 2026 14:55:20 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! SİLİVRİ'DE SON DURUM NE? İmamoğlu tahliye talebinde bulunacak!</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Gizem Çetin ile Parantez</title>
       <link>https://www.youtube.com/watch?v=kCK-_7m-TZw</link>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">MFV92j8brqQ</guid>
       <pubDate>Thu, 03 Sep 2026 12:25:27 +0000</pubDate>
       <description>Halk TV kanalından yeni video: MSB'DEN ANKARA'YI HAREKETLENDİREN AÇIKLAMA! SDG mensupları Türkiye'ye mi gelecek? İşte yanıtı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Memleketi Manisa'ya giden Özgür Özel çocukluk arkadaşıyla karşılaştı!</title>
-      <link>https://www.youtube.com/shorts/h7Zhl4f5MDc</link>
-      <guid isPermaLink="false">h7Zhl4f5MDc</guid>
-      <pubDate>Thu, 03 Sep 2026 12:23:45 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Memleketi Manisa'ya giden Özgür Özel çocukluk arkadaşıyla karşılaştı!</description>
-    </item>
-    <item>
-      <title>Halk TV: ÖLÜME BÖYLE GİTMİŞLER! Girne gemi faciasında son anlar böyle kaydedildi! İzlemeye yürek dayanmaz!</title>
-      <link>https://www.youtube.com/watch?v=OcxZq65zYU4</link>
-      <guid isPermaLink="false">OcxZq65zYU4</guid>
-      <pubDate>Thu, 03 Sep 2026 12:10:27 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ÖLÜME BÖYLE GİTMİŞLER! Girne gemi faciasında son anlar böyle kaydedildi! İzlemeye yürek dayanmaz!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: #CANLI Özgür Özel memleketi Manisa’da... Üzüm bağını ziyaret ediyor</title>
-      <link>https://www.youtube.com/watch?v=VvnH426iNqM</link>
-      <guid isPermaLink="false">VvnH426iNqM</guid>
-      <pubDate>Thu, 03 Sep 2026 12:09:37 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI Özgür Özel memleketi Manisa’da... Üzüm bağını ziyaret ediyor</description>
     </item>
   </channel>
 </rss>
