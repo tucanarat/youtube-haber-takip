@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 09:25:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 09:30:39 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti Grup Başkanvekili Murat Emir TBMM'de açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=DSzq1D5Thb0</link>
@@ -111,6 +111,13 @@
       <guid isPermaLink="false">P9JGdKPgEic</guid>
       <pubDate>Thu, 03 Sep 2026 08:50:23 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SON DAKİKA! TUZLA'DA FACİA GİBİ YANGIN! Sanayi tesisinden alevler yükseldi! Duman gökyüzünü kapladı!</description>
+    </item>
+    <item>
+      <title>Halk TV: EMEKLİNİN CEBİNDEN BÖYLE ÇALMIŞLAR! İbrahim Kahveci'nin patlattığı skandal ortalığı yıkar! Şok eder!</title>
+      <link>https://www.youtube.com/watch?v=DWYODAZ9SCk</link>
+      <guid isPermaLink="false">DWYODAZ9SCk</guid>
+      <pubDate>Thu, 03 Sep 2026 08:49:27 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: EMEKLİNİN CEBİNDEN BÖYLE ÇALMIŞLAR! İbrahim Kahveci'nin patlattığı skandal ortalığı yıkar! Şok eder!</description>
     </item>
     <item>
       <title>Tele2 Haber: Onur Öncü Özgür Özel'in Kılıçdaroğlu ile Tokalaşması Hakkında Yaptığı Açıklamayı Aktardı!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">qOl9trL-S3E</guid>
       <pubDate>Thu, 03 Sep 2026 07:19:58 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkanı Kemal Kılıçdaroğlu, "Milli Bilinç ve Güçlü Türkiye Buluşması"nda / İzmir #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: Kılıçdaroğlu’nun İzmir ziyareti sırasında korumalarla butlancılar arasında arbede çıktı!</title>
-      <link>https://www.youtube.com/shorts/MVB0VkfnIJ4</link>
-      <guid isPermaLink="false">MVB0VkfnIJ4</guid>
-      <pubDate>Thu, 03 Sep 2026 07:16:27 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Kılıçdaroğlu’nun İzmir ziyareti sırasında korumalarla butlancılar arasında arbede çıktı!</description>
     </item>
   </channel>
 </rss>
