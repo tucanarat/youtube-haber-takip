@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 11:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 12:00:50 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ŞOK BİLGİLER! Girne'deki faciada kaptandan katliam gibi ihmal! Türkiye'den ehliyet alamayınca...</title>
+      <link>https://www.youtube.com/watch?v=7iLgrK5gGz8</link>
+      <guid isPermaLink="false">7iLgrK5gGz8</guid>
+      <pubDate>Thu, 03 Sep 2026 11:55:09 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ŞOK BİLGİLER! Girne'deki faciada kaptandan katliam gibi ihmal! Türkiye'den ehliyet alamayınca...</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Murat Emir'den çok çarpıcı açıklamalar! "Kirli senaryoyu paylaşacağım" diyerek açıkladı</title>
+      <link>https://www.youtube.com/watch?v=tTCvrJfLDnY</link>
+      <guid isPermaLink="false">tTCvrJfLDnY</guid>
+      <pubDate>Thu, 03 Sep 2026 11:46:46 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Murat Emir'den çok çarpıcı açıklamalar! "Kirli senaryoyu paylaşacağım" diyerek açıkladı</description>
+    </item>
     <item>
       <title>Tele2 Haber: Özel’den bomba gibi Kılıçdaroğlu yanıtı! | Davutoğlu için soruşturma! | Ülkü Çoban ile Manşet Ötesi</title>
       <link>https://www.youtube.com/watch?v=c_CRMXSxWU0</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">aiQbgcgXRSk</guid>
       <pubDate>Thu, 03 Sep 2026 08:56:39 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Kitap yasak... Hitap yasak...-Mustafa Balbay</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Öcalan’ın ‘Yavuz-İdris’ karnesi-Mehmet Ali Güller</title>
-      <link>https://www.youtube.com/watch?v=I9qCOIIqJC8</link>
-      <guid isPermaLink="false">I9qCOIIqJC8</guid>
-      <pubDate>Thu, 03 Sep 2026 08:56:37 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Öcalan’ın ‘Yavuz-İdris’ karnesi-Mehmet Ali Güller</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Canım Şükran Soner-Zeynep Oral</title>
-      <link>https://www.youtube.com/watch?v=UPkNtH9A1YY</link>
-      <guid isPermaLink="false">UPkNtH9A1YY</guid>
-      <pubDate>Thu, 03 Sep 2026 08:56:35 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Canım Şükran Soner-Zeynep Oral</description>
     </item>
   </channel>
 </rss>
