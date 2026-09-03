@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 12:45:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 12:50:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Gemi kazasında soruşturma genişliyor: 9 kişinin ifadesi alındı, 6’sı adliyede</title>
+      <link>https://www.youtube.com/shorts/av_SXSImMlY</link>
+      <guid isPermaLink="false">av_SXSImMlY</guid>
+      <pubDate>Thu, 03 Sep 2026 12:47:15 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Gemi kazasında soruşturma genişliyor: 9 kişinin ifadesi alındı, 6’sı adliyede</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Hacıhaliller Mahallesi'nde köy kahvesi ziyaret ediyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=KxZSdGBusgo</link>
+      <guid isPermaLink="false">KxZSdGBusgo</guid>
+      <pubDate>Thu, 03 Sep 2026 12:46:57 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Hacıhaliller Mahallesi'nde köy kahvesi ziyaret ediyor #Canlı</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: CHP Genel Başkanı Kemal Kılıçdaroğlu, Buca Ceza İnfaz Kurumlarını ziyaret etti</title>
       <link>https://www.youtube.com/watch?v=DK7nA2Ef9ps</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">xSyUvaqs5XM</guid>
       <pubDate>Thu, 03 Sep 2026 09:56:49 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI YENİ Parti Grup Başkanvekili Murat Emir’den flaş açıklamalar</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti Grup Başkanvekili Murat Emir TBMM'de Açıklama Yaptı!</title>
-      <link>https://www.youtube.com/watch?v=VBFdvvK9ZGQ</link>
-      <guid isPermaLink="false">VBFdvvK9ZGQ</guid>
-      <pubDate>Thu, 03 Sep 2026 09:51:55 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti Grup Başkanvekili Murat Emir TBMM'de Açıklama Yaptı!</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | İrem Sansak ile Haber Masası</title>
-      <link>https://www.youtube.com/watch?v=5POx9zOL4Mk</link>
-      <guid isPermaLink="false">5POx9zOL4Mk</guid>
-      <pubDate>Thu, 03 Sep 2026 09:51:31 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | İrem Sansak ile Haber Masası</description>
     </item>
   </channel>
 </rss>
