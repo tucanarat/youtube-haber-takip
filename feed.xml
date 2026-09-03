@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 17:50:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 17:55:26 +0000</lastBuildDate>
     <item>
       <title>Halk TV: #CANLI | Cevdet Yılmaz, Lefkoşa’da KKTC Başbakanı Ünal Üstel ile ortak basın toplantısı düzenliyor!</title>
       <link>https://www.youtube.com/watch?v=aQrh-H2Trb8</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">QCfwiQKZOtI</guid>
       <pubDate>Thu, 03 Sep 2026 17:45:00 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Kadın tutukluları gözyaşları ile dinledi… İmamoğlu’nun ‘tahliye’ sözleri duruşmaya damga vurdu!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: 15 Saatlik Duruşmada Yaşanan Zindan Mantığı! Silivri'de Neler Oluyor? İmamoğlu Ateş Püskürdü</title>
+      <link>https://www.youtube.com/watch?v=CUsqanNmZF8</link>
+      <guid isPermaLink="false">CUsqanNmZF8</guid>
+      <pubDate>Thu, 03 Sep 2026 17:40:01 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: 15 Saatlik Duruşmada Yaşanan Zindan Mantığı! Silivri'de Neler Oluyor? İmamoğlu Ateş Püskürdü</description>
     </item>
     <item>
       <title>Halk TV: "EMEKLİLİKTE YAŞA TAKILAN DEĞİL İŞE TAKILAN..." Ece Üner’den gündemi sarsacak sözler!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">-pkPhbmhwvg</guid>
       <pubDate>Thu, 03 Sep 2026 14:30:39 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Bağ-Kur'luya 5 Yıl Erken Emeklilik: 7200 Gün Şartı Kimleri Kapsıyor? SGK Uzmanı Emin Yılmaz Anlattı</description>
-    </item>
-    <item>
-      <title>Halk TV: Ümit Özdağ'dan iktidara: Türk halkını ihraç etmedikçe bu seçimi kaybedersiniz!</title>
-      <link>https://www.youtube.com/shorts/cZAM3rpbjl0</link>
-      <guid isPermaLink="false">cZAM3rpbjl0</guid>
-      <pubDate>Thu, 03 Sep 2026 14:30:31 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ümit Özdağ'dan iktidara: Türk halkını ihraç etmedikçe bu seçimi kaybedersiniz!</description>
     </item>
   </channel>
 </rss>
