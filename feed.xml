@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 15:30:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 15:35:28 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: Özgür Özel'den İsmail Küçükkaya'ya Tarihi Açıklamalar: Erdoğan, İmamoğlu, Gökçekler, Kılıçdaroğlu</title>
       <link>https://www.youtube.com/watch?v=zmk1GxRpoko</link>
       <guid isPermaLink="false">zmk1GxRpoko</guid>
       <pubDate>Thu, 03 Sep 2026 15:30:07 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Özgür Özel'den İsmail Küçükkaya'ya Tarihi Açıklamalar: Erdoğan, İmamoğlu, Gökçekler, Kılıçdaroğlu</description>
+    </item>
+    <item>
+      <title>Halk TV: MELİH GÖKÇEK KÖŞEYE SIKIŞTI! 'Suç örgütü' şeması açılacak mı? Ankara bu gelişmeyle çalkalanıyor!</title>
+      <link>https://www.youtube.com/watch?v=TDw0YmBrY9k</link>
+      <guid isPermaLink="false">TDw0YmBrY9k</guid>
+      <pubDate>Thu, 03 Sep 2026 15:25:34 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: MELİH GÖKÇEK KÖŞEYE SIKIŞTI! 'Suç örgütü' şeması açılacak mı? Ankara bu gelişmeyle çalkalanıyor!</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Hacıhaliller Mahallesi'nde köy kahvesi ziyaret ediyor #Canlı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">7vocru3r3kM</guid>
       <pubDate>Thu, 03 Sep 2026 12:55:02 +0000</pubDate>
       <description>Halk TV kanalından yeni video: KILIÇDAROĞLU İYİCE DİBE BATTI! CHP'li başkanlardan öyle bir çalım geldi ki! Genel Merkez karıştı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel ile çiftçinin seçim göndermeli diyaloğu gülümsetti!</title>
-      <link>https://www.youtube.com/shorts/B5CuZDwBneY</link>
-      <guid isPermaLink="false">B5CuZDwBneY</guid>
-      <pubDate>Thu, 03 Sep 2026 12:54:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel ile çiftçinin seçim göndermeli diyaloğu gülümsetti!</description>
     </item>
   </channel>
 </rss>
