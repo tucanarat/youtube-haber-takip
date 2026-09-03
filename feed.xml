@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 17:30:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 17:35:28 +0000</lastBuildDate>
     <item>
-      <title>Tele2 Haber: İmamoğlu'ndan Silivri'yi sallayan konuşma! İBB davasında son durum! Murat Taylan ile Haber-Yorum</title>
+      <title>Halk TV: "EMEKLİLİKTE YAŞA TAKILAN DEĞİL İŞE TAKILAN..." Ece Üner’den gündemi sarsacak sözler!</title>
+      <link>https://www.youtube.com/watch?v=dUj1gcpYiZo</link>
+      <guid isPermaLink="false">dUj1gcpYiZo</guid>
+      <pubDate>Thu, 03 Sep 2026 17:30:16 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: "EMEKLİLİKTE YAŞA TAKILAN DEĞİL İŞE TAKILAN..." Ece Üner’den gündemi sarsacak sözler!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: İmamoğlu'ndan Silivri'yi sallayan konuşma! Davutoğlu'na soruşturma! Murat Taylan ile Haber-Yorum</title>
       <link>https://www.youtube.com/watch?v=F4l3IKuj3L0</link>
       <guid isPermaLink="false">F4l3IKuj3L0</guid>
       <pubDate>Thu, 03 Sep 2026 17:30:15 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: İmamoğlu'ndan Silivri'yi sallayan konuşma! İBB davasında son durum! Murat Taylan ile Haber-Yorum</description>
+      <description>Tele2 Haber kanalından yeni video: İmamoğlu'ndan Silivri'yi sallayan konuşma! Davutoğlu'na soruşturma! Murat Taylan ile Haber-Yorum</description>
     </item>
     <item>
       <title>Tele2 Haber: Davutoğlu'na 'Cumhurbaşkanı'na hakaret' soruşturması! Murat Taylan Bahçeli'nin sözlerini hatırlattı!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">E26A5P5ozZg</guid>
       <pubDate>Thu, 03 Sep 2026 14:25:19 +0000</pubDate>
       <description>Halk TV kanalından yeni video: AKP FOKUR FOKUR KAYNIYOR! Gökçek'e soruşturma o isimlere uzanacak mı? Şamil Tayyar'dan bomba sözler!</description>
-    </item>
-    <item>
-      <title>Halk TV: İçişleri Bakanı Mustafa Çiftçi: Okullarda 31 bin bahçe personeli görevlendirilecek</title>
-      <link>https://www.youtube.com/shorts/8znlr2In00U</link>
-      <guid isPermaLink="false">8znlr2In00U</guid>
-      <pubDate>Thu, 03 Sep 2026 14:21:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İçişleri Bakanı Mustafa Çiftçi: Okullarda 31 bin bahçe personeli görevlendirilecek</description>
     </item>
   </channel>
 </rss>
