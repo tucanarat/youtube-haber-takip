@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 14:15:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 14:20:51 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: 'Muhalefete baskı var' deyip AKP'den istifa eden Ekrem Baki'nin istifa konuşması yeniden gündemde!</title>
+      <link>https://www.youtube.com/shorts/uTl6r0p2XQc</link>
+      <guid isPermaLink="false">uTl6r0p2XQc</guid>
+      <pubDate>Thu, 03 Sep 2026 14:20:01 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: 'Muhalefete baskı var' deyip AKP'den istifa eden Ekrem Baki'nin istifa konuşması yeniden gündemde!</description>
+    </item>
     <item>
       <title>Halk TV: UYUYAN KAPTAN FACİA GETİRMİŞ! Silivri'deki gemi kazasında bilirkişi raporu açıklandı! Şok tespitler!</title>
       <link>https://www.youtube.com/watch?v=iiSa-b1GXDs</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ZuRDoRwKkaw</guid>
       <pubDate>Thu, 03 Sep 2026 11:30:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İsmail Saymaz'dan Gökçek'in Kayıp Tapularına Bomba Yorum "Başını Sokacak Bir Evi Bile Yok"</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Dilovası faciasında yakınlarını kaybeden aileler Kocaeli SGK İl Müdürlüğü önünde açıklama yapıyor</title>
-      <link>https://www.youtube.com/watch?v=cQ_15xigZP8</link>
-      <guid isPermaLink="false">cQ_15xigZP8</guid>
-      <pubDate>Thu, 03 Sep 2026 11:30:04 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Dilovası faciasında yakınlarını kaybeden aileler Kocaeli SGK İl Müdürlüğü önünde açıklama yapıyor</description>
     </item>
   </channel>
 </rss>
