@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 16:40:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 16:45:29 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Tuğberk İmamoğlu'nun 10 personeli halen kayıp: Kıyıya çekilen Alsu gemisi böyle görüntülendi!</title>
+      <link>https://www.youtube.com/watch?v=xEJ_Uf2xths</link>
+      <guid isPermaLink="false">xEJ_Uf2xths</guid>
+      <pubDate>Thu, 03 Sep 2026 16:40:15 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Tuğberk İmamoğlu'nun 10 personeli halen kayıp: Kıyıya çekilen Alsu gemisi böyle görüntülendi!</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Cevdet Yılmaz, Lefkoşa’da KKTC Başbakanı Ünal Üstel ile ortak basın toplantısı düzenliyor!</title>
       <link>https://www.youtube.com/watch?v=aQrh-H2Trb8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">4PYzGmtDt2A</guid>
       <pubDate>Thu, 03 Sep 2026 13:40:43 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Yurttaşın geçim isyanı: “Kendi evim olmasa 63 yaşında çalışırım”</description>
-    </item>
-    <item>
-      <title>Halk TV: ANKARA BUNUNLA ALEV ALDI! Davutoğlu'nun avukatından 'Erdoğan'a hakaret' soruşturmasına ilk açıklama!</title>
-      <link>https://www.youtube.com/watch?v=7hHddj8QTlc</link>
-      <guid isPermaLink="false">7hHddj8QTlc</guid>
-      <pubDate>Thu, 03 Sep 2026 13:40:03 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ANKARA BUNUNLA ALEV ALDI! Davutoğlu'nun avukatından 'Erdoğan'a hakaret' soruşturmasına ilk açıklama!</description>
     </item>
   </channel>
 </rss>
