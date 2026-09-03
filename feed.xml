@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 07:20:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 07:25:28 +0000</lastBuildDate>
     <item>
-      <title>ANKA Haber Ajansı: CHP Genel Başkanı Kemal Kılıçdaroğlu, "Milli Bilinç ve Güçlü Türkiye Buluşması"nda / İzmir #Canlı</title>
-      <link>https://www.youtube.com/watch?v=qOl9trL-S3E</link>
-      <guid isPermaLink="false">qOl9trL-S3E</guid>
-      <pubDate>Thu, 03 Sep 2026 07:19:58 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkanı Kemal Kılıçdaroğlu, "Milli Bilinç ve Güçlü Türkiye Buluşması"nda / İzmir #Canlı</description>
+      <title>Halk TV: Kılıçdaroğlu’nun İzmir ziyareti sırasında korumalarla butlancılar arasında arbede çıktı!</title>
+      <link>https://www.youtube.com/shorts/MVB0VkfnIJ4</link>
+      <guid isPermaLink="false">MVB0VkfnIJ4</guid>
+      <pubDate>Thu, 03 Sep 2026 07:16:27 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Kılıçdaroğlu’nun İzmir ziyareti sırasında korumalarla butlancılar arasında arbede çıktı!</description>
+    </item>
+    <item>
+      <title>Halk TV: SON DAKİKA! Milyonların beklediği açıklama geldi! Enflasyon yine yükselişe geçti! İşte rakamlar!</title>
+      <link>https://www.youtube.com/watch?v=jNqg9joAlQ4</link>
+      <guid isPermaLink="false">jNqg9joAlQ4</guid>
+      <pubDate>Thu, 03 Sep 2026 07:15:59 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! Milyonların beklediği açıklama geldi! Enflasyon yine yükselişe geçti! İşte rakamlar!</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Kemal Kılıçdaroğlu, İzmir'in Buca ilçesinde Kaynaklar Köyü’nde köy halkıyla bir araya geldi</title>
@@ -27,6 +34,13 @@
       <guid isPermaLink="false">iU1bHzXZiuA</guid>
       <pubDate>Thu, 03 Sep 2026 06:56:02 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Gökhan Kayış ile Haberler (3 Eylül 2026)</description>
+    </item>
+    <item>
+      <title>Halk TV: O İSİMLERE TAHLİYE KARARI ÇIKABİLİR! Silivri’de nefesler tutuldu! Gamze Altunay neler anlattı neler!</title>
+      <link>https://www.youtube.com/watch?v=r-nrMCYCVDk</link>
+      <guid isPermaLink="false">r-nrMCYCVDk</guid>
+      <pubDate>Thu, 03 Sep 2026 06:53:58 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: O İSİMLERE TAHLİYE KARARI ÇIKABİLİR! Silivri’de nefesler tutuldu! Gamze Altunay neler anlattı neler!</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | Ebru Baki ile Para Siyaset | İbrahim Kahveci</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">HCbeF7Xh-Ww</guid>
       <pubDate>Wed, 02 Sep 2026 20:40:19 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: MURAT AĞIREL İFŞA ETTİ: Gökçekler ve Süleymancıların Almanya'daki 3.7 Milyon Euroluk Sırrı!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: İbrahim Uslu'dan Gökçek soruşturması yorumu: Bu anlamda ilk kez önemli bir siyasiye dava açılıyor</title>
-      <link>https://www.youtube.com/watch?v=kFEROIPutO8</link>
-      <guid isPermaLink="false">kFEROIPutO8</guid>
-      <pubDate>Wed, 02 Sep 2026 20:30:10 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: İbrahim Uslu'dan Gökçek soruşturması yorumu: Bu anlamda ilk kez önemli bir siyasiye dava açılıyor</description>
-    </item>
-    <item>
-      <title>Halk TV: SİLİVRİ AÇIKLARINDA FECİ KAZA! Kaptanın son sözü “İskeleye kır!” oldu!</title>
-      <link>https://www.youtube.com/watch?v=q-DuvQ8zfWk</link>
-      <guid isPermaLink="false">q-DuvQ8zfWk</guid>
-      <pubDate>Wed, 02 Sep 2026 20:25:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SİLİVRİ AÇIKLARINDA FECİ KAZA! Kaptanın son sözü “İskeleye kır!” oldu!</description>
     </item>
   </channel>
 </rss>
