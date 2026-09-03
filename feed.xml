@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 19:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 19:05:27 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI Onur Öncü ile Sabah Pusulası (04.09.26)</title>
+      <link>https://www.youtube.com/watch?v=hZyO16fg0GA</link>
+      <guid isPermaLink="false">hZyO16fg0GA</guid>
+      <pubDate>Thu, 03 Sep 2026 19:04:30 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Onur Öncü ile Sabah Pusulası (04.09.26)</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Barış Terkoğlu İfşa Etti! Şile Dosyası Üsküdar'a Sıçradı! Düzen Değişiyor! Sandık İradesi Yok Edildi</title>
+      <link>https://www.youtube.com/watch?v=ld9jP6fBIC4</link>
+      <guid isPermaLink="false">ld9jP6fBIC4</guid>
+      <pubDate>Thu, 03 Sep 2026 19:00:22 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Barış Terkoğlu İfşa Etti! Şile Dosyası Üsküdar'a Sıçradı! Düzen Değişiyor! Sandık İradesi Yok Edildi</description>
+    </item>
+    <item>
+      <title>Halk TV: Koruma ordusu ile geziyor: Kemal Kılıçdaroğlu İzmir’de böyle yuhalandı!</title>
+      <link>https://www.youtube.com/watch?v=ZRFiIK_Rkyg</link>
+      <guid isPermaLink="false">ZRFiIK_Rkyg</guid>
+      <pubDate>Thu, 03 Sep 2026 19:00:13 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Koruma ordusu ile geziyor: Kemal Kılıçdaroğlu İzmir’de böyle yuhalandı!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Murat Taylan: İdris-i Bitlisi'ye hain dendiği için Aleviler Kürt hareketinde yer aldı</title>
       <link>https://www.youtube.com/watch?v=AiF0GyF6hDw</link>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">TDw0YmBrY9k</guid>
       <pubDate>Thu, 03 Sep 2026 15:25:34 +0000</pubDate>
       <description>Halk TV kanalından yeni video: MELİH GÖKÇEK KÖŞEYE SIKIŞTI! 'Suç örgütü' şeması açılacak mı? Ankara bu gelişmeyle çalkalanıyor!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Hacıhaliller Mahallesi'nde köy kahvesi ziyaret ediyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=KxZSdGBusgo</link>
-      <guid isPermaLink="false">KxZSdGBusgo</guid>
-      <pubDate>Thu, 03 Sep 2026 15:25:07 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Hacıhaliller Mahallesi'nde köy kahvesi ziyaret ediyor #Canlı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: İBB davasında kritik gün! Ekrem İmamoğlu tahliye talebinde bulunacak</title>
-      <link>https://www.youtube.com/watch?v=lwvfRQ1Ljm0</link>
-      <guid isPermaLink="false">lwvfRQ1Ljm0</guid>
-      <pubDate>Thu, 03 Sep 2026 15:21:31 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: İBB davasında kritik gün! Ekrem İmamoğlu tahliye talebinde bulunacak</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: İBB'ye yeni dalga operasyon</title>
-      <link>https://www.youtube.com/shorts/H2QDo5p9OEM</link>
-      <guid isPermaLink="false">H2QDo5p9OEM</guid>
-      <pubDate>Thu, 03 Sep 2026 15:10:34 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: İBB'ye yeni dalga operasyon</description>
     </item>
   </channel>
 </rss>
