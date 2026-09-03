@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 16:30:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 16:35:25 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Üsküdar’da seçim öncesi hareketlilik! 3 meclis üyesi yapılacak seçime katılamayabilir!</title>
+      <link>https://www.youtube.com/watch?v=9lNXjuU4AGU</link>
+      <guid isPermaLink="false">9lNXjuU4AGU</guid>
+      <pubDate>Thu, 03 Sep 2026 16:31:54 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Üsküdar’da seçim öncesi hareketlilik! 3 meclis üyesi yapılacak seçime katılamayabilir!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Ekrem İmamoğlu Akın Gürlek'e Meydan Okudu! "En Büyük Cellatlık!" Silivri'de Yeri Göğü İnletti</title>
+      <link>https://www.youtube.com/watch?v=SYfk_AdGJGI</link>
+      <guid isPermaLink="false">SYfk_AdGJGI</guid>
+      <pubDate>Thu, 03 Sep 2026 16:30:29 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Ekrem İmamoğlu Akın Gürlek'e Meydan Okudu! "En Büyük Cellatlık!" Silivri'de Yeri Göğü İnletti</description>
+    </item>
     <item>
       <title>Halk TV: CANLI | Marmara Denizi açıklarında kazaya karışan ALSU isimli ticari gemi, Silivri'de bekliyor</title>
       <link>https://www.youtube.com/watch?v=wQG4bsj2VZw</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">-deQscpo2Ig</guid>
       <pubDate>Thu, 03 Sep 2026 13:36:00 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: TÜİK verilerine göre fiyatı en çok artan ürün belli oldu: “Yüzde 53 değil yüzde 100'ü geçiyor”</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Melih Gökçek Zor Durumda! Gözden Çıkarıldı mı? Mustafa Balbay'dan Bomba AKP ve Erdoğan Kulisi</title>
-      <link>https://www.youtube.com/watch?v=YtRG3FNopSY</link>
-      <guid isPermaLink="false">YtRG3FNopSY</guid>
-      <pubDate>Thu, 03 Sep 2026 13:30:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Melih Gökçek Zor Durumda! Gözden Çıkarıldı mı? Mustafa Balbay'dan Bomba AKP ve Erdoğan Kulisi</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Murat Emir'den Üsküdar Belediye Başkan Vekili Seçimi Öncesi Vahim İddialar!</title>
-      <link>https://www.youtube.com/shorts/-FqddpcPL_I</link>
-      <guid isPermaLink="false">-FqddpcPL_I</guid>
-      <pubDate>Thu, 03 Sep 2026 13:26:55 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Murat Emir'den Üsküdar Belediye Başkan Vekili Seçimi Öncesi Vahim İddialar!</description>
     </item>
   </channel>
 </rss>
