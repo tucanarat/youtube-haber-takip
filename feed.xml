@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 14:05:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 14:10:33 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: #CANLI İBB DAVASINDA 75. GÜN! SİLİVRİ’DE NELER OLUYOR?</title>
+      <link>https://www.youtube.com/watch?v=Wc4RogcH_0E</link>
+      <guid isPermaLink="false">Wc4RogcH_0E</guid>
+      <pubDate>Thu, 03 Sep 2026 14:04:26 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI İBB DAVASINDA 75. GÜN! SİLİVRİ’DE NELER OLUYOR?</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Serap Belovacıklı ile Haber Saati | 3 Eylül</title>
       <link>https://www.youtube.com/watch?v=Qa1jZgKLssE</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">vUFk3w_vgQA</guid>
       <pubDate>Thu, 03 Sep 2026 11:26:04 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: TÜİK verileri yurttaşı isyan ettirdi: Maaşlarımızı çalıyorlar</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Yapılanlar ve yapılmayanlar-Ali Apaydın</title>
-      <link>https://www.youtube.com/watch?v=zZ3kDLKVBhg</link>
-      <guid isPermaLink="false">zZ3kDLKVBhg</guid>
-      <pubDate>Thu, 03 Sep 2026 11:17:02 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Yapılanlar ve yapılmayanlar-Ali Apaydın</description>
     </item>
   </channel>
 </rss>
