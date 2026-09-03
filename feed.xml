@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 13:50:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 13:55:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Komşularına terör estiren Hafize Gaye Erkan'ın oğluna yaptığı doğum günü partisi kameralarda!</title>
+      <link>https://www.youtube.com/shorts/iiDTbLlhWYg</link>
+      <guid isPermaLink="false">iiDTbLlhWYg</guid>
+      <pubDate>Thu, 03 Sep 2026 13:54:14 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Komşularına terör estiren Hafize Gaye Erkan'ın oğluna yaptığı doğum günü partisi kameralarda!</description>
+    </item>
     <item>
       <title>Halk TV: YENİ Parti Genel Başkanı Özgür Özel, Hacıhaliller Mahallesi'nde Köy Kahvesi Ziyaret Etti</title>
       <link>https://www.youtube.com/watch?v=H_4Or5HsX4w</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">3YSehKlUguk</guid>
       <pubDate>Thu, 03 Sep 2026 11:00:17 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Buğra Gökce'nin eşi Filiz Kahveci Gökce Cumhuriyet TV'de: "BEN DE DIŞARIDA HAPİSTEYİM"</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Amasya’da ucuz atlatılan facia: Seyir halindeki TIR’ın dorsesinin koptuğu anlar kamerada</title>
-      <link>https://www.youtube.com/shorts/kj7qTzX3yNk</link>
-      <guid isPermaLink="false">kj7qTzX3yNk</guid>
-      <pubDate>Thu, 03 Sep 2026 11:00:16 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Amasya’da ucuz atlatılan facia: Seyir halindeki TIR’ın dorsesinin koptuğu anlar kamerada</description>
     </item>
   </channel>
 </rss>
