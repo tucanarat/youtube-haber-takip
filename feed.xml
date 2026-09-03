@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 14:50:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 14:55:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Gizem Çetin ile Parantez</title>
+      <link>https://www.youtube.com/watch?v=kCK-_7m-TZw</link>
+      <guid isPermaLink="false">kCK-_7m-TZw</guid>
+      <pubDate>Thu, 03 Sep 2026 14:54:44 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Gizem Çetin ile Parantez</description>
+    </item>
     <item>
       <title>Halk TV: Ümit Özdağ'dan Muharrem İnce'ye tepki: İnsanın kurduğu partiden kaçmaması ciddi bir iştir!</title>
       <link>https://www.youtube.com/shorts/groIzv9Wecg</link>
       <guid isPermaLink="false">groIzv9Wecg</guid>
       <pubDate>Thu, 03 Sep 2026 14:45:23 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Ümit Özdağ'dan Muharrem İnce'ye tepki: İnsanın kurduğu partiden kaçmaması ciddi bir iştir!</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: ABD’de lobi ve F35 gelişmeleri neler? Cumhuriyet yazarı Yılmaz Polat Washington’tan aktardı.</title>
+      <link>https://www.youtube.com/watch?v=OY_eAVIsO1A</link>
+      <guid isPermaLink="false">OY_eAVIsO1A</guid>
+      <pubDate>Thu, 03 Sep 2026 14:43:51 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: ABD’de lobi ve F35 gelişmeleri neler? Cumhuriyet yazarı Yılmaz Polat Washington’tan aktardı.</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | Ece Üner ile Halk Ana Haber</title>
@@ -267,13 +281,6 @@
       <description>ANKA Haber Ajansı kanalından yeni video: Özgür Özel’le Manisalı çiftçi arasında gülümseten diyalog</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | Gizem Çetin ile Parantez</title>
-      <link>https://www.youtube.com/watch?v=kCK-_7m-TZw</link>
-      <guid isPermaLink="false">kCK-_7m-TZw</guid>
-      <pubDate>Thu, 03 Sep 2026 12:51:55 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Gizem Çetin ile Parantez</description>
-    </item>
-    <item>
       <title>Halk TV: Gemi kazasında soruşturma genişliyor: 9 kişinin ifadesi alındı, 6’sı adliyede</title>
       <link>https://www.youtube.com/shorts/av_SXSImMlY</link>
       <guid isPermaLink="false">av_SXSImMlY</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">VvnH426iNqM</guid>
       <pubDate>Thu, 03 Sep 2026 12:09:37 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI Özgür Özel memleketi Manisa’da... Üzüm bağını ziyaret ediyor</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Hacıhaliller Mahallesi'nde üzüm bağını ziyaret ediyor</title>
-      <link>https://www.youtube.com/watch?v=dYlGJp-Q0Hg</link>
-      <guid isPermaLink="false">dYlGJp-Q0Hg</guid>
-      <pubDate>Thu, 03 Sep 2026 12:05:05 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Hacıhaliller Mahallesi'nde üzüm bağını ziyaret ediyor</description>
     </item>
   </channel>
 </rss>
