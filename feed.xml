@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 17:15:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 17:20:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Araç sahipleri başta olmak üzere hepimizi ilgilendiriyor: Bu gece, motorine, benzine görülmemiş zam!</title>
+      <link>https://www.youtube.com/watch?v=a85rWmsSg-w</link>
+      <guid isPermaLink="false">a85rWmsSg-w</guid>
+      <pubDate>Thu, 03 Sep 2026 17:15:22 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Araç sahipleri başta olmak üzere hepimizi ilgilendiriyor: Bu gece, motorine, benzine görülmemiş zam!</description>
+    </item>
     <item>
       <title>Tele2 Haber: İMAMOĞLU'NUN KONUŞMASI DEPREM ETKİSİ YARATTI! 'SUSTURAMAYACAKSINIZ!'</title>
       <link>https://www.youtube.com/shorts/g-nx0YGwMy0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">uTl6r0p2XQc</guid>
       <pubDate>Thu, 03 Sep 2026 14:20:01 +0000</pubDate>
       <description>Halk TV kanalından yeni video: 'Muhalefete baskı var' deyip AKP'den istifa eden Ekrem Baki'nin istifa konuşması yeniden gündemde!</description>
-    </item>
-    <item>
-      <title>Halk TV: UYUYAN KAPTAN FACİA GETİRMİŞ! Silivri'deki gemi kazasında bilirkişi raporu açıklandı! Şok tespitler!</title>
-      <link>https://www.youtube.com/watch?v=iiSa-b1GXDs</link>
-      <guid isPermaLink="false">iiSa-b1GXDs</guid>
-      <pubDate>Thu, 03 Sep 2026 14:10:02 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: UYUYAN KAPTAN FACİA GETİRMİŞ! Silivri'deki gemi kazasında bilirkişi raporu açıklandı! Şok tespitler!</description>
     </item>
   </channel>
 </rss>
