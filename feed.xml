@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 13:01:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 13:05:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: İrem Sansak ile Haber Masası (3 Eylül 2026)</title>
+      <link>https://www.youtube.com/watch?v=5POx9zOL4Mk</link>
+      <guid isPermaLink="false">5POx9zOL4Mk</guid>
+      <pubDate>Thu, 03 Sep 2026 13:01:25 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İrem Sansak ile Haber Masası (3 Eylül 2026)</description>
+    </item>
     <item>
       <title>Tele2 Haber: "İzmir'de 7 CHP'li Belediye Başkanı Var 5'i Karşılamaya Gelmemiş!" Semih Turan Butlancıları Üzecek!</title>
       <link>https://www.youtube.com/watch?v=FqDlatKQCHs</link>
@@ -22,11 +29,25 @@
       <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Hacıhaliller Mahallesi'nde köy kahvesi ziyaret ediyor</description>
     </item>
     <item>
+      <title>Halk TV: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Hacıhaliller Mahallesi'nde köy kahvesi ziyaret ediyor</title>
+      <link>https://www.youtube.com/watch?v=H_4Or5HsX4w</link>
+      <guid isPermaLink="false">H_4Or5HsX4w</guid>
+      <pubDate>Thu, 03 Sep 2026 12:59:13 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Hacıhaliller Mahallesi'nde köy kahvesi ziyaret ediyor</description>
+    </item>
+    <item>
       <title>ANKA Haber Ajansı: Özgür Özel’den çiftçilere alım garantisi sözü</title>
       <link>https://www.youtube.com/shorts/7SyEYaTxrDY</link>
       <guid isPermaLink="false">7SyEYaTxrDY</guid>
       <pubDate>Thu, 03 Sep 2026 12:56:27 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Özgür Özel’den çiftçilere alım garantisi sözü</description>
+    </item>
+    <item>
+      <title>Halk TV: KILIÇDAROĞLU İYİCE DİBE BATTI! CHP'li başkanlardan öyle bir çalım geldi ki! Genel Merkez karıştı!</title>
+      <link>https://www.youtube.com/watch?v=7vocru3r3kM</link>
+      <guid isPermaLink="false">7vocru3r3kM</guid>
+      <pubDate>Thu, 03 Sep 2026 12:55:02 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KILIÇDAROĞLU İYİCE DİBE BATTI! CHP'li başkanlardan öyle bir çalım geldi ki! Genel Merkez karıştı!</description>
     </item>
     <item>
       <title>Halk TV: Özgür Özel ile çiftçinin seçim göndermeli diyaloğu gülümsetti!</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">R_0ChgIwpdg</guid>
       <pubDate>Thu, 03 Sep 2026 10:27:31 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Enflasyon rakamlarına sokaktan sitem: "Eti ancak rüyamızda görebiliyoruz"</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Ahmet Davutoğlu'na "Cumhurbaşkanı'na Hakaret" Soruşturması! "Hakaret mi Yanıt Bekleyen İddia mı?"</title>
-      <link>https://www.youtube.com/watch?v=ptLYtCvSBgc</link>
-      <guid isPermaLink="false">ptLYtCvSBgc</guid>
-      <pubDate>Thu, 03 Sep 2026 10:22:24 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Ahmet Davutoğlu'na "Cumhurbaşkanı'na Hakaret" Soruşturması! "Hakaret mi Yanıt Bekleyen İddia mı?"</description>
-    </item>
-    <item>
-      <title>Halk TV: Isparta pazarında alım gücü isyanı!</title>
-      <link>https://www.youtube.com/shorts/8pGAPdbYz1c</link>
-      <guid isPermaLink="false">8pGAPdbYz1c</guid>
-      <pubDate>Thu, 03 Sep 2026 10:15:17 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Isparta pazarında alım gücü isyanı!</description>
-    </item>
-    <item>
-      <title>Halk TV: BU DETAYLAR YÜREK YAKAR! Silivri'de batan gemiye ilişkin o hamle geldi! Umut Taştan bölgeden aktardı</title>
-      <link>https://www.youtube.com/watch?v=O5X6_A9Lii0</link>
-      <guid isPermaLink="false">O5X6_A9Lii0</guid>
-      <pubDate>Thu, 03 Sep 2026 10:15:03 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BU DETAYLAR YÜREK YAKAR! Silivri'de batan gemiye ilişkin o hamle geldi! Umut Taştan bölgeden aktardı</description>
     </item>
   </channel>
 </rss>
