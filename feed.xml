@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 13:25:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 13:30:25 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: AKP'Yİ TOPA TUTUP İSTİFA ETMİŞTİ! Ekrem Baki'nin o sözleri sosyal medyayı yakıp yıkıyor! Olay olur!</title>
+      <link>https://www.youtube.com/watch?v=FZlFM2HHaAo</link>
+      <guid isPermaLink="false">FZlFM2HHaAo</guid>
+      <pubDate>Thu, 03 Sep 2026 13:25:06 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: AKP'Yİ TOPA TUTUP İSTİFA ETMİŞTİ! Ekrem Baki'nin o sözleri sosyal medyayı yakıp yıkıyor! Olay olur!</description>
+    </item>
     <item>
       <title>Halk TV: Özgür Özel'den çiftçiye söz: Alım garantisi getireceğiz!</title>
       <link>https://www.youtube.com/shorts/_gKA-eNaG0o</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">XCwjIsqGL_0</guid>
       <pubDate>Thu, 03 Sep 2026 10:51:39 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Suat Kılıç, partisinin genel merkezinde MYK toplantısı sonrası basın açıklaması yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: EMEKLİNİN CEBİNDEN BÖYLE ÇALMIŞLAR! İbrahim Kahveci'nin patlattığı skandal ortalığı yıkar! Şok eder!</title>
-      <link>https://www.youtube.com/watch?v=DWYODAZ9SCk</link>
-      <guid isPermaLink="false">DWYODAZ9SCk</guid>
-      <pubDate>Thu, 03 Sep 2026 10:45:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: EMEKLİNİN CEBİNDEN BÖYLE ÇALMIŞLAR! İbrahim Kahveci'nin patlattığı skandal ortalığı yıkar! Şok eder!</description>
     </item>
   </channel>
 </rss>
