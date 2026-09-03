@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 22:25:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 22:30:41 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Özlem Gürses ile Sözcü Ana Haber</title>
+      <link>https://www.youtube.com/watch?v=VjzJsJrnqgw</link>
+      <guid isPermaLink="false">VjzJsJrnqgw</guid>
+      <pubDate>Thu, 03 Sep 2026 22:20:07 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses ile Sözcü Ana Haber</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Damla Doğan Tuncel ile 1 Saat</title>
       <link>https://www.youtube.com/watch?v=nd9oOW-UI-E</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">D5ZGSgN0cfI</guid>
       <pubDate>Thu, 03 Sep 2026 18:30:00 +0000</pubDate>
       <description>Halk TV kanalından yeni video: "AMEDSPOR" ARAŞTIRMASINI BEĞENMEDİ! Devlet Bahçeli’den 19 ildeki anket sonrası sert sözler!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İmamoğlu'nu Cumhurbaşkanı Yapmak İçin Örgüt Kurdular İddiası! Timur Soykan Perde Arkasını Anlattı</title>
-      <link>https://www.youtube.com/watch?v=ccXmIqSibPM</link>
-      <guid isPermaLink="false">ccXmIqSibPM</guid>
-      <pubDate>Thu, 03 Sep 2026 18:20:18 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İmamoğlu'nu Cumhurbaşkanı Yapmak İçin Örgüt Kurdular İddiası! Timur Soykan Perde Arkasını Anlattı</description>
     </item>
   </channel>
 </rss>
