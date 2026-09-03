@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 13:30:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 13:30:45 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Murat Emir'den Üsküdar Belediye Başkan Vekili Seçimi Öncesi Vahim İddialar!</title>
+      <link>https://www.youtube.com/shorts/-FqddpcPL_I</link>
+      <guid isPermaLink="false">-FqddpcPL_I</guid>
+      <pubDate>Thu, 03 Sep 2026 13:26:55 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Murat Emir'den Üsküdar Belediye Başkan Vekili Seçimi Öncesi Vahim İddialar!</description>
+    </item>
     <item>
       <title>Halk TV: AKP'Yİ TOPA TUTUP İSTİFA ETMİŞTİ! Ekrem Baki'nin o sözleri sosyal medyayı yakıp yıkıyor! Olay olur!</title>
       <link>https://www.youtube.com/watch?v=FZlFM2HHaAo</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">u_yW7_RV6mA</guid>
       <pubDate>Thu, 03 Sep 2026 10:58:51 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Can Coşkun ile Gündem Masası | 3 Eylül</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Suat Kılıç, partisinin genel merkezinde MYK toplantısı sonrası basın açıklaması yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=XCwjIsqGL_0</link>
-      <guid isPermaLink="false">XCwjIsqGL_0</guid>
-      <pubDate>Thu, 03 Sep 2026 10:51:39 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Suat Kılıç, partisinin genel merkezinde MYK toplantısı sonrası basın açıklaması yapıyor #Canlı</description>
     </item>
   </channel>
 </rss>
