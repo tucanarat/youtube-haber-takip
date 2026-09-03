@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 08:30:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 08:35:29 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Tuzla Deri Sanayi Sitesi’nde yangın! Siyah dumanlar gökyüzünü kapladı</title>
+      <link>https://www.youtube.com/shorts/NtVIpoTRFOY</link>
+      <guid isPermaLink="false">NtVIpoTRFOY</guid>
+      <pubDate>Thu, 03 Sep 2026 08:31:20 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Tuzla Deri Sanayi Sitesi’nde yangın! Siyah dumanlar gökyüzünü kapladı</description>
+    </item>
+    <item>
+      <title>Halk TV: ANKARA'DA HAREKETLİ SAATLER! Ahmet Davutoğlu'na 'cumhurbaşkanına hakaret' soruşturması başlatıldı!</title>
+      <link>https://www.youtube.com/watch?v=Nn_T8iwULpk</link>
+      <guid isPermaLink="false">Nn_T8iwULpk</guid>
+      <pubDate>Thu, 03 Sep 2026 08:25:48 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ANKARA'DA HAREKETLİ SAATLER! Ahmet Davutoğlu'na 'cumhurbaşkanına hakaret' soruşturması başlatıldı!</description>
+    </item>
     <item>
       <title>Halk TV: 10 DENİZCİYLE İRTİBAT KESİLMİŞTİ! Tuğberk İmamoğlu'nun son görüntüleri ortaya çıktı! Böyle ayrılmış!</title>
       <link>https://www.youtube.com/watch?v=Zu6SG8XHPLw</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">0TGx9uSpHjU</guid>
       <pubDate>Wed, 02 Sep 2026 22:40:59 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Yaşamını yitiren gazeteci Şükran Soner için cenaze namazı kılınıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: "NİYET TANSİYONU YÜKSELTMEK!" İngiltere Başbakanı’ndan halka Rusya’ya karşı stok yapma çağrısı!</title>
-      <link>https://www.youtube.com/watch?v=VRXRHI-dguY</link>
-      <guid isPermaLink="false">VRXRHI-dguY</guid>
-      <pubDate>Wed, 02 Sep 2026 22:30:24 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: "NİYET TANSİYONU YÜKSELTMEK!" İngiltere Başbakanı’ndan halka Rusya’ya karşı stok yapma çağrısı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Serap Belovacıklı ile Haber Saati</title>
-      <link>https://www.youtube.com/watch?v=Qa1jZgKLssE</link>
-      <guid isPermaLink="false">Qa1jZgKLssE</guid>
-      <pubDate>Wed, 02 Sep 2026 22:28:26 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Serap Belovacıklı ile Haber Saati</description>
     </item>
   </channel>
 </rss>
