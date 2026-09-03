@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 13:20:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 13:25:23 +0000</lastBuildDate>
     <item>
       <title>Halk TV: Özgür Özel'den çiftçiye söz: Alım garantisi getireceğiz!</title>
       <link>https://www.youtube.com/shorts/_gKA-eNaG0o</link>
@@ -34,6 +34,13 @@
       <guid isPermaLink="false">yNKM9Ezy9uA</guid>
       <pubDate>Thu, 03 Sep 2026 13:09:56 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Tuğyan Ülkem Gülter’in arkadaşı Sultan Nur Ulu’nun savcılıkta olay anını böyle canlandırdı!</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: #CANLI Özgür Özel memleketi Manisa'da köy kahvesini ziyaret ediyor</title>
+      <link>https://www.youtube.com/watch?v=NOGxMZDDzrA</link>
+      <guid isPermaLink="false">NOGxMZDDzrA</guid>
+      <pubDate>Thu, 03 Sep 2026 13:05:16 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI Özgür Özel memleketi Manisa'da köy kahvesini ziyaret ediyor</description>
     </item>
     <item>
       <title>Halk TV: İrem Sansak ile Haber Masası (3 Eylül 2026)</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">DWYODAZ9SCk</guid>
       <pubDate>Thu, 03 Sep 2026 10:45:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: EMEKLİNİN CEBİNDEN BÖYLE ÇALMIŞLAR! İbrahim Kahveci'nin patlattığı skandal ortalığı yıkar! Şok eder!</description>
-    </item>
-    <item>
-      <title>Halk TV: Tekirdağ’da tekneyle denize açılan vatandaşlar Cotylorhiza tuberculata türü denizanasını görüntüledi</title>
-      <link>https://www.youtube.com/shorts/Gi5FN2F_w7c</link>
-      <guid isPermaLink="false">Gi5FN2F_w7c</guid>
-      <pubDate>Thu, 03 Sep 2026 10:43:13 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Tekirdağ’da tekneyle denize açılan vatandaşlar Cotylorhiza tuberculata türü denizanasını görüntüledi</description>
     </item>
   </channel>
 </rss>
