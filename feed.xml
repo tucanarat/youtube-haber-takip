@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 11:25:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 11:30:42 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: İsmail Saymaz'dan Gökçek'in Kayıp Tapularına Bomba Yorum "Başını Sokacak Bir Evi Bile Yok"</title>
+      <link>https://www.youtube.com/watch?v=ZuRDoRwKkaw</link>
+      <guid isPermaLink="false">ZuRDoRwKkaw</guid>
+      <pubDate>Thu, 03 Sep 2026 11:30:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İsmail Saymaz'dan Gökçek'in Kayıp Tapularına Bomba Yorum "Başını Sokacak Bir Evi Bile Yok"</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: TÜİK verileri yurttaşı isyan ettirdi: Maaşlarımızı çalıyorlar</title>
+      <link>https://www.youtube.com/shorts/vUFk3w_vgQA</link>
+      <guid isPermaLink="false">vUFk3w_vgQA</guid>
+      <pubDate>Thu, 03 Sep 2026 11:26:04 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: TÜİK verileri yurttaşı isyan ettirdi: Maaşlarımızı çalıyorlar</description>
+    </item>
     <item>
       <title>Cumhuriyet: Yapılanlar ve yapılmayanlar-Ali Apaydın</title>
       <link>https://www.youtube.com/watch?v=zZ3kDLKVBhg</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">eJ3TLddDYnw</guid>
       <pubDate>Thu, 03 Sep 2026 08:53:57 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Zafer Partisi Genel Başkanı Ümit Özdağ'dan Kritik Açıklamalar!</description>
-    </item>
-    <item>
-      <title>Halk TV: Zafer Partisi Genel Başkanı Ümit Özdağ, Parti Genel Merkezinde Basın Toplantısı Düzenliyor!</title>
-      <link>https://www.youtube.com/watch?v=6xcXbhuHcBg</link>
-      <guid isPermaLink="false">6xcXbhuHcBg</guid>
-      <pubDate>Thu, 03 Sep 2026 08:52:53 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Zafer Partisi Genel Başkanı Ümit Özdağ, Parti Genel Merkezinde Basın Toplantısı Düzenliyor!</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! TUZLA'DA FACİA GİBİ YANGIN! Sanayi tesisinden alevler yükseldi! Duman gökyüzünü kapladı!</title>
-      <link>https://www.youtube.com/watch?v=P9JGdKPgEic</link>
-      <guid isPermaLink="false">P9JGdKPgEic</guid>
-      <pubDate>Thu, 03 Sep 2026 08:50:23 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! TUZLA'DA FACİA GİBİ YANGIN! Sanayi tesisinden alevler yükseldi! Duman gökyüzünü kapladı!</description>
     </item>
   </channel>
 </rss>
