@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 11:40:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 11:45:31 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Özel’den bomba gibi Kılıçdaroğlu yanıtı! | Davutoğlu için soruşturma! | Ülkü Çoban ile Manşet Ötesi</title>
+      <link>https://www.youtube.com/watch?v=c_CRMXSxWU0</link>
+      <guid isPermaLink="false">c_CRMXSxWU0</guid>
+      <pubDate>Thu, 03 Sep 2026 11:45:20 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Özel’den bomba gibi Kılıçdaroğlu yanıtı! | Davutoğlu için soruşturma! | Ülkü Çoban ile Manşet Ötesi</description>
+    </item>
     <item>
       <title>Halk TV: FIRTINA KOPTU KOPACAK! Özgür Özel felç edecek o hamlesini bugün atıyor! Saray'da hesaplar şaşacak!</title>
       <link>https://www.youtube.com/watch?v=pj4HREEpd6c</link>
@@ -20,6 +27,13 @@
       <guid isPermaLink="false">ZuRDoRwKkaw</guid>
       <pubDate>Thu, 03 Sep 2026 11:30:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İsmail Saymaz'dan Gökçek'in Kayıp Tapularına Bomba Yorum "Başını Sokacak Bir Evi Bile Yok"</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: Dilovası faciasında yakınlarını kaybeden aileler Kocaeli SGK İl Müdürlüğü önünde açıklama yapıyor</title>
+      <link>https://www.youtube.com/watch?v=cQ_15xigZP8</link>
+      <guid isPermaLink="false">cQ_15xigZP8</guid>
+      <pubDate>Thu, 03 Sep 2026 11:30:04 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Dilovası faciasında yakınlarını kaybeden aileler Kocaeli SGK İl Müdürlüğü önünde açıklama yapıyor</description>
     </item>
     <item>
       <title>Cumhuriyet: TÜİK verileri yurttaşı isyan ettirdi: Maaşlarımızı çalıyorlar</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">Y-pB0vB7yQc</guid>
       <pubDate>Thu, 03 Sep 2026 08:56:33 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: İktidar borazanları-butlan kargaşaları-Bedri Baykam</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Gol kapısı açılmışken-Gülengül Altınsay</title>
-      <link>https://www.youtube.com/watch?v=REHe2QhyKgU</link>
-      <guid isPermaLink="false">REHe2QhyKgU</guid>
-      <pubDate>Thu, 03 Sep 2026 08:55:11 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Gol kapısı açılmışken-Gülengül Altınsay</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Arabesk demokrasi...-Sevgi Özel</title>
-      <link>https://www.youtube.com/watch?v=dptNPRluddI</link>
-      <guid isPermaLink="false">dptNPRluddI</guid>
-      <pubDate>Thu, 03 Sep 2026 08:54:23 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Arabesk demokrasi...-Sevgi Özel</description>
     </item>
   </channel>
 </rss>
