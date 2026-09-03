@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 10:35:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 10:40:35 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Eşinin umudu sürüyor: Kayıp Nihat Pancar'ın son görüntüleri ortaya çıktı</title>
+      <link>https://www.youtube.com/shorts/mdxIHF9l6no</link>
+      <guid isPermaLink="false">mdxIHF9l6no</guid>
+      <pubDate>Thu, 03 Sep 2026 10:35:41 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Eşinin umudu sürüyor: Kayıp Nihat Pancar'ın son görüntüleri ortaya çıktı</description>
+    </item>
+    <item>
+      <title>Halk TV: Erhan Usta’dan Samsun’daki semt pazarında enflasyon tepkisi!</title>
+      <link>https://www.youtube.com/shorts/XFLhixW_Mbo</link>
+      <guid isPermaLink="false">XFLhixW_Mbo</guid>
+      <pubDate>Thu, 03 Sep 2026 10:35:25 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Erhan Usta’dan Samsun’daki semt pazarında enflasyon tepkisi!</description>
+    </item>
     <item>
       <title>Halk TV: Tuncelili yurttaşlardan enflasyon rakamlarına tepki!</title>
       <link>https://www.youtube.com/shorts/cS32FikTgB4</link>
@@ -34,6 +48,13 @@
       <guid isPermaLink="false">R_0ChgIwpdg</guid>
       <pubDate>Thu, 03 Sep 2026 10:27:31 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Enflasyon rakamlarına sokaktan sitem: "Eti ancak rüyamızda görebiliyoruz"</description>
+    </item>
+    <item>
+      <title>Halk TV: BÜYÜK OYUNU ÇÖKERTTİ! Murat Emir'in sözleri paçaları tutuşturacak! Üsküdar'da yaşanacakları anlattı!</title>
+      <link>https://www.youtube.com/watch?v=wcM1djy4S04</link>
+      <guid isPermaLink="false">wcM1djy4S04</guid>
+      <pubDate>Thu, 03 Sep 2026 10:22:53 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BÜYÜK OYUNU ÇÖKERTTİ! Murat Emir'in sözleri paçaları tutuşturacak! Üsküdar'da yaşanacakları anlattı!</description>
     </item>
     <item>
       <title>Tele2 Haber: Ahmet Davutoğlu'na "Cumhurbaşkanı'na Hakaret" Soruşturması! "Hakaret mi Yanıt Bekleyen İddia mı?"</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">NtVIpoTRFOY</guid>
       <pubDate>Thu, 03 Sep 2026 08:31:20 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Tuzla Deri Sanayi Sitesi’nde yangın! Siyah dumanlar gökyüzünü kapladı</description>
-    </item>
-    <item>
-      <title>Halk TV: ANKARA'DA HAREKETLİ SAATLER! Ahmet Davutoğlu'na 'cumhurbaşkanına hakaret' soruşturması başlatıldı!</title>
-      <link>https://www.youtube.com/watch?v=Nn_T8iwULpk</link>
-      <guid isPermaLink="false">Nn_T8iwULpk</guid>
-      <pubDate>Thu, 03 Sep 2026 08:25:48 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ANKARA'DA HAREKETLİ SAATLER! Ahmet Davutoğlu'na 'cumhurbaşkanına hakaret' soruşturması başlatıldı!</description>
-    </item>
-    <item>
-      <title>Halk TV: 10 DENİZCİYLE İRTİBAT KESİLMİŞTİ! Tuğberk İmamoğlu'nun son görüntüleri ortaya çıktı! Böyle ayrılmış!</title>
-      <link>https://www.youtube.com/watch?v=Zu6SG8XHPLw</link>
-      <guid isPermaLink="false">Zu6SG8XHPLw</guid>
-      <pubDate>Thu, 03 Sep 2026 08:15:01 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: 10 DENİZCİYLE İRTİBAT KESİLMİŞTİ! Tuğberk İmamoğlu'nun son görüntüleri ortaya çıktı! Böyle ayrılmış!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Senem Toluay Ilgaz ile Öncesi Sonrası Gece | Barış Terkoğlu &amp; Timur Soykan</title>
-      <link>https://www.youtube.com/watch?v=2E8UdT9HDTg</link>
-      <guid isPermaLink="false">2E8UdT9HDTg</guid>
-      <pubDate>Thu, 03 Sep 2026 08:12:48 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Senem Toluay Ilgaz ile Öncesi Sonrası Gece | Barış Terkoğlu &amp; Timur Soykan</description>
     </item>
   </channel>
 </rss>
