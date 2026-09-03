@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 18:30:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 18:35:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: "AMEDSPOR" ARAŞTIRMASINI BEĞENMEDİ! Devlet Bahçeli’den 19 ildeki anket sonrası sert sözler!</title>
+      <link>https://www.youtube.com/watch?v=D5ZGSgN0cfI</link>
+      <guid isPermaLink="false">D5ZGSgN0cfI</guid>
+      <pubDate>Thu, 03 Sep 2026 18:30:00 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: "AMEDSPOR" ARAŞTIRMASINI BEĞENMEDİ! Devlet Bahçeli’den 19 ildeki anket sonrası sert sözler!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İmamoğlu'nu Cumhurbaşkanı Yapmak İçin Örgüt Kurdular İddiası! Timur Soykan Perde Arkasını Anlattı</title>
+      <link>https://www.youtube.com/watch?v=ccXmIqSibPM</link>
+      <guid isPermaLink="false">ccXmIqSibPM</guid>
+      <pubDate>Thu, 03 Sep 2026 18:20:18 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İmamoğlu'nu Cumhurbaşkanı Yapmak İçin Örgüt Kurdular İddiası! Timur Soykan Perde Arkasını Anlattı</description>
+    </item>
     <item>
       <title>Tele2 Haber: İBB DAVASINDA 2 TAHLİYE! Haldun Solmaztürk ilişkili diyerek Erinç Sağkan'ın konuşmasını deşifre etti</title>
       <link>https://www.youtube.com/watch?v=cASEjLY7xzw</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">YfarHJL2LwA</guid>
       <pubDate>Thu, 03 Sep 2026 15:00:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Melih Gökçek Dosyasıyla İlgili Her Şey | İsmail Saymaz, Barış Terkoğlu, Murat Ağırel, Saygı Öztürk</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Gökhan Günaydın Cumhuriyet TV'de! "EĞİLMEDEN BÜKÜLMEDEN YAPILAN BİR SAVUNMA"</title>
-      <link>https://www.youtube.com/watch?v=vRwKOpN4fRo</link>
-      <guid isPermaLink="false">vRwKOpN4fRo</guid>
-      <pubDate>Thu, 03 Sep 2026 14:59:55 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Gökhan Günaydın Cumhuriyet TV'de! "EĞİLMEDEN BÜKÜLMEDEN YAPILAN BİR SAVUNMA"</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Damla Doğan Tuncel ile 1 Saat | 3 Eylül</title>
-      <link>https://www.youtube.com/watch?v=FAR_4BTH-GY</link>
-      <guid isPermaLink="false">FAR_4BTH-GY</guid>
-      <pubDate>Thu, 03 Sep 2026 14:56:34 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Damla Doğan Tuncel ile 1 Saat | 3 Eylül</description>
     </item>
   </channel>
 </rss>
