@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 10:05:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 10:10:35 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Ahmet Davutoğlu hakkında 'Cumhurbaşkanına hakaret' soruşturması</title>
+      <link>https://www.youtube.com/shorts/pjpTXy8TiME</link>
+      <guid isPermaLink="false">pjpTXy8TiME</guid>
+      <pubDate>Thu, 03 Sep 2026 10:08:59 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Ahmet Davutoğlu hakkında 'Cumhurbaşkanına hakaret' soruşturması</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: "Belediye Meclis Üyesinin Oyunu Etkilemek Üzere Tahliye Şüphemiz Var" Emir'den Bomba Üsküdar İddiası</title>
+      <link>https://www.youtube.com/watch?v=H0QoDyCMVaU</link>
+      <guid isPermaLink="false">H0QoDyCMVaU</guid>
+      <pubDate>Thu, 03 Sep 2026 10:04:16 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "Belediye Meclis Üyesinin Oyunu Etkilemek Üzere Tahliye Şüphemiz Var" Emir'den Bomba Üsküdar İddiası</description>
+    </item>
     <item>
       <title>Halk TV: Ebru Baki ile Para Siyaset | İbrahim Kahveci (3 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=3FfWypr8n4c</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">ZZOzmDkm3Lc</guid>
       <pubDate>Thu, 03 Sep 2026 07:50:10 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Özgür Özel İsmail Küçükkaya'ya Erdoğan'ı Yenecek Planı Anlattı! Seçim Hamlesi Çok Konuşulur</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Zafer Partisi Genel Başkanı Ümit Özdağ, parti genel merkezinde basın toplantısı düzenliyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=kKs72MrdnqU</link>
-      <guid isPermaLink="false">kKs72MrdnqU</guid>
-      <pubDate>Thu, 03 Sep 2026 07:48:07 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Zafer Partisi Genel Başkanı Ümit Özdağ, parti genel merkezinde basın toplantısı düzenliyor #Canlı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Görevden uzaklaştırılan Zeydan Karalar konuştu: "Biz Avrupa'nın çöplüğü değiliz"</title>
-      <link>https://www.youtube.com/watch?v=EmV9IiLJF-I</link>
-      <guid isPermaLink="false">EmV9IiLJF-I</guid>
-      <pubDate>Thu, 03 Sep 2026 07:47:45 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Görevden uzaklaştırılan Zeydan Karalar konuştu: "Biz Avrupa'nın çöplüğü değiliz"</description>
     </item>
   </channel>
 </rss>
