@@ -6,7 +6,35 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 22:15:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 22:20:33 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Damla Doğan Tuncel ile 1 Saat</title>
+      <link>https://www.youtube.com/watch?v=nd9oOW-UI-E</link>
+      <guid isPermaLink="false">nd9oOW-UI-E</guid>
+      <pubDate>Thu, 03 Sep 2026 22:19:40 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Damla Doğan Tuncel ile 1 Saat</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Can Coşkun ile Gündem Masası</title>
+      <link>https://www.youtube.com/watch?v=V8zGMU-5gD8</link>
+      <guid isPermaLink="false">V8zGMU-5gD8</guid>
+      <pubDate>Thu, 03 Sep 2026 22:19:09 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Can Coşkun ile Gündem Masası</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İsmail Küçükkaya ile Günaydın Türkiyem</title>
+      <link>https://www.youtube.com/watch?v=StgxkpUm_uE</link>
+      <guid isPermaLink="false">StgxkpUm_uE</guid>
+      <pubDate>Thu, 03 Sep 2026 22:18:27 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya ile Günaydın Türkiyem</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Merve Ekinci ile Uyanma Vakti</title>
+      <link>https://www.youtube.com/watch?v=kwmTOEJnXRM</link>
+      <guid isPermaLink="false">kwmTOEJnXRM</guid>
+      <pubDate>Thu, 03 Sep 2026 22:17:58 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Merve Ekinci ile Uyanma Vakti</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Pınar Erbaş ile Gecenin Sözü 3 Eylül</title>
       <link>https://www.youtube.com/watch?v=cJ8hfQcPsr8</link>
@@ -328,34 +356,6 @@
       <guid isPermaLink="false">ccXmIqSibPM</guid>
       <pubDate>Thu, 03 Sep 2026 18:20:18 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İmamoğlu'nu Cumhurbaşkanı Yapmak İçin Örgüt Kurdular İddiası! Timur Soykan Perde Arkasını Anlattı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: İBB DAVASINDA 2 TAHLİYE! Haldun Solmaztürk ilişkili diyerek Erinç Sağkan'ın konuşmasını deşifre etti</title>
-      <link>https://www.youtube.com/watch?v=cASEjLY7xzw</link>
-      <guid isPermaLink="false">cASEjLY7xzw</guid>
-      <pubDate>Thu, 03 Sep 2026 18:15:31 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: İBB DAVASINDA 2 TAHLİYE! Haldun Solmaztürk ilişkili diyerek Erinç Sağkan'ın konuşmasını deşifre etti</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! 53 İSİMDEN SADECE 2 KİŞİYE TAHLİYE ÇIKTI! Silivri'de son durum!</title>
-      <link>https://www.youtube.com/watch?v=FHKf5Th5D2o</link>
-      <guid isPermaLink="false">FHKf5Th5D2o</guid>
-      <pubDate>Thu, 03 Sep 2026 18:15:18 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! 53 İSİMDEN SADECE 2 KİŞİYE TAHLİYE ÇIKTI! Silivri'de son durum!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Murat Taylan: Özgür Özel, Kılıçdaroğlu'na 'Bana elini uzatma' diyor!</title>
-      <link>https://www.youtube.com/watch?v=aL4uGsxz_do</link>
-      <guid isPermaLink="false">aL4uGsxz_do</guid>
-      <pubDate>Thu, 03 Sep 2026 18:00:24 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Murat Taylan: Özgür Özel, Kılıçdaroğlu'na 'Bana elini uzatma' diyor!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Sözcü Melih Gökçek Dosyasını Açtı | Barış Terkoğlu &amp; Murat Ağırel &amp; İsmail Saymaz &amp; Timur Soykan</title>
-      <link>https://www.youtube.com/watch?v=Ey8t3k_lwmI</link>
-      <guid isPermaLink="false">Ey8t3k_lwmI</guid>
-      <pubDate>Thu, 03 Sep 2026 18:00:11 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Sözcü Melih Gökçek Dosyasını Açtı | Barış Terkoğlu &amp; Murat Ağırel &amp; İsmail Saymaz &amp; Timur Soykan</description>
     </item>
   </channel>
 </rss>
