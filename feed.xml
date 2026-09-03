@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 15:25:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 15:30:45 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Özgür Özel'den İsmail Küçükkaya'ya Tarihi Açıklamalar: Erdoğan, İmamoğlu, Gökçekler, Kılıçdaroğlu</title>
+      <link>https://www.youtube.com/watch?v=zmk1GxRpoko</link>
+      <guid isPermaLink="false">zmk1GxRpoko</guid>
+      <pubDate>Thu, 03 Sep 2026 15:30:07 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Özgür Özel'den İsmail Küçükkaya'ya Tarihi Açıklamalar: Erdoğan, İmamoğlu, Gökçekler, Kılıçdaroğlu</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Hacıhaliller Mahallesi'nde köy kahvesi ziyaret ediyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=KxZSdGBusgo</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">B5CuZDwBneY</guid>
       <pubDate>Thu, 03 Sep 2026 12:54:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Özel ile çiftçinin seçim göndermeli diyaloğu gülümsetti!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Özgür Özel’le Manisalı çiftçi arasında gülümseten diyalog</title>
-      <link>https://www.youtube.com/shorts/sq3tWu20-hA</link>
-      <guid isPermaLink="false">sq3tWu20-hA</guid>
-      <pubDate>Thu, 03 Sep 2026 12:53:37 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Özgür Özel’le Manisalı çiftçi arasında gülümseten diyalog</description>
     </item>
   </channel>
 </rss>
