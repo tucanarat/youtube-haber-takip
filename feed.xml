@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 18:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 18:05:31 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Murat Taylan: Özgür Özel, Kılıçdaroğlu'na 'Bana elini uzatma' diyor!</title>
+      <link>https://www.youtube.com/watch?v=aL4uGsxz_do</link>
+      <guid isPermaLink="false">aL4uGsxz_do</guid>
+      <pubDate>Thu, 03 Sep 2026 18:00:24 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Murat Taylan: Özgür Özel, Kılıçdaroğlu'na 'Bana elini uzatma' diyor!</description>
+    </item>
+    <item>
+      <title>Halk TV: ŞOK AÇIKLAMA! CHP'den AKP'ye Geçmişti! "Hizmet için geçtim." dedi! Bu sözler bakın neyin itirafıydı!</title>
+      <link>https://www.youtube.com/watch?v=6-V0S5-4Hg8</link>
+      <guid isPermaLink="false">6-V0S5-4Hg8</guid>
+      <pubDate>Thu, 03 Sep 2026 18:00:10 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ŞOK AÇIKLAMA! CHP'den AKP'ye Geçmişti! "Hizmet için geçtim." dedi! Bu sözler bakın neyin itirafıydı!</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Cevdet Yılmaz, Lefkoşa’da KKTC Başbakanı Ünal Üstel ile ortak basın toplantısı düzenliyor!</title>
       <link>https://www.youtube.com/watch?v=aQrh-H2Trb8</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">OY_eAVIsO1A</guid>
       <pubDate>Thu, 03 Sep 2026 14:43:51 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: ABD’de lobi ve F35 gelişmeleri neler? Cumhuriyet yazarı Yılmaz Polat Washington’tan aktardı.</description>
-    </item>
-    <item>
-      <title>Halk TV: SEÇİM İTİRAZINA 'RET' AKP'Yİ KARIŞTIRMIŞTI! Üsküdar'daki sinsi oyun çöktü! Barış Övgün anlattı!</title>
-      <link>https://www.youtube.com/watch?v=IF-Hj6OJ_2A</link>
-      <guid isPermaLink="false">IF-Hj6OJ_2A</guid>
-      <pubDate>Thu, 03 Sep 2026 14:40:02 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SEÇİM İTİRAZINA 'RET' AKP'Yİ KARIŞTIRMIŞTI! Üsküdar'daki sinsi oyun çöktü! Barış Övgün anlattı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Bağ-Kur'luya 5 Yıl Erken Emeklilik: 7200 Gün Şartı Kimleri Kapsıyor? SGK Uzmanı Emin Yılmaz Anlattı</title>
-      <link>https://www.youtube.com/watch?v=-pkPhbmhwvg</link>
-      <guid isPermaLink="false">-pkPhbmhwvg</guid>
-      <pubDate>Thu, 03 Sep 2026 14:30:39 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Bağ-Kur'luya 5 Yıl Erken Emeklilik: 7200 Gün Şartı Kimleri Kapsıyor? SGK Uzmanı Emin Yılmaz Anlattı</description>
     </item>
   </channel>
 </rss>
