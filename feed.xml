@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 20:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 20:10:31 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: Senem Toluay Ilgaz ile Öncesi Sonrası Gece | Barış Terkoğlu &amp; Timur Soykan | 3 Eylül</title>
       <link>https://www.youtube.com/watch?v=2E8UdT9HDTg</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">ebH990UMcqE</guid>
       <pubDate>Thu, 03 Sep 2026 20:00:34 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Medya Mafya Ağı Çöktü! Savunma Sanayisinde Gizli Çete İddiası! Tahir Sarıkaya Dosyası Her Şeyi Bozdu</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Haldun Solmaztürk'ten Davutoğlu'na flaş öneri: İspat hakkını kullanmasını tavsiye ederim!</title>
+      <link>https://www.youtube.com/watch?v=nMJZpmtRl_I</link>
+      <guid isPermaLink="false">nMJZpmtRl_I</guid>
+      <pubDate>Thu, 03 Sep 2026 20:00:31 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Haldun Solmaztürk'ten Davutoğlu'na flaş öneri: İspat hakkını kullanmasını tavsiye ederim!</description>
     </item>
     <item>
       <title>Halk TV: FERİBOT FACİASINDA BİR SKANDAL DAHA! Mürettebatın hiçbir belgesi ve eğitimi yokmuş!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">wQG4bsj2VZw</guid>
       <pubDate>Thu, 03 Sep 2026 16:26:01 +0000</pubDate>
       <description>Halk TV kanalından yeni video: CANLI | Marmara Denizi açıklarında kazaya karışan ALSU isimli ticari gemi, Silivri'de bekliyor</description>
-    </item>
-    <item>
-      <title>Halk TV: AKP'NİN 'ÜSKÜDAR' PLANI İFŞA OLDU! YENİ Partili isim tüm maskeleri düşürdü! Ortalık yıkılacak!</title>
-      <link>https://www.youtube.com/watch?v=cAezq1Yuyds</link>
-      <guid isPermaLink="false">cAezq1Yuyds</guid>
-      <pubDate>Thu, 03 Sep 2026 16:25:38 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: AKP'NİN 'ÜSKÜDAR' PLANI İFŞA OLDU! YENİ Partili isim tüm maskeleri düşürdü! Ortalık yıkılacak!</description>
     </item>
   </channel>
 </rss>
