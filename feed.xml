@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 16:20:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 16:25:35 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: EKREM İMAMOĞLU'NDAN AKIN GÜRLEK'E ÇOK SERT 'CANLI YAYIN' YANITI!</title>
+      <link>https://www.youtube.com/shorts/fgyqWMb-AnI</link>
+      <guid isPermaLink="false">fgyqWMb-AnI</guid>
+      <pubDate>Thu, 03 Sep 2026 16:22:55 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: EKREM İMAMOĞLU'NDAN AKIN GÜRLEK'E ÇOK SERT 'CANLI YAYIN' YANITI!</description>
+    </item>
     <item>
       <title>Tele2 Haber: İmamoğlu'ndan Akın Gürlek'e sert sözlerle yanıt: Canlı yayını istiyorum hatta ileri gidiyorum...</title>
       <link>https://www.youtube.com/watch?v=G7GAR_1MxXo</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">FZlFM2HHaAo</guid>
       <pubDate>Thu, 03 Sep 2026 13:25:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: AKP'Yİ TOPA TUTUP İSTİFA ETMİŞTİ! Ekrem Baki'nin o sözleri sosyal medyayı yakıp yıkıyor! Olay olur!</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel'den çiftçiye söz: Alım garantisi getireceğiz!</title>
-      <link>https://www.youtube.com/shorts/_gKA-eNaG0o</link>
-      <guid isPermaLink="false">_gKA-eNaG0o</guid>
-      <pubDate>Thu, 03 Sep 2026 13:12:52 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel'den çiftçiye söz: Alım garantisi getireceğiz!</description>
     </item>
   </channel>
 </rss>
