@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 16:50:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 16:55:27 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: DAVUTOĞLU'NA AÇILAN SORUŞTURMA SONRASI MURAT TAYLAN, BAHÇELİ'NİN ERDOĞAN'A SÖZLERİNİ HATIRLATTI!</title>
+      <link>https://www.youtube.com/shorts/qXYCmQlgY1k</link>
+      <guid isPermaLink="false">qXYCmQlgY1k</guid>
+      <pubDate>Thu, 03 Sep 2026 16:51:12 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: DAVUTOĞLU'NA AÇILAN SORUŞTURMA SONRASI MURAT TAYLAN, BAHÇELİ'NİN ERDOĞAN'A SÖZLERİNİ HATIRLATTI!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: İmamoğlu'ndan Silivri'de deprem etkisi yaratan konuşma: SUSTURAMAYACAKSINIZ!</title>
+      <link>https://www.youtube.com/watch?v=i1HUw_CcLOs</link>
+      <guid isPermaLink="false">i1HUw_CcLOs</guid>
+      <pubDate>Thu, 03 Sep 2026 16:48:11 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: İmamoğlu'ndan Silivri'de deprem etkisi yaratan konuşma: SUSTURAMAYACAKSINIZ!</description>
+    </item>
     <item>
       <title>Halk TV: Tuğberk İmamoğlu'nun 10 personeli halen kayıp: Kıyıya çekilen Alsu gemisi böyle görüntülendi!</title>
       <link>https://www.youtube.com/watch?v=xEJ_Uf2xths</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">iiDTbLlhWYg</guid>
       <pubDate>Thu, 03 Sep 2026 13:54:14 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Komşularına terör estiren Hafize Gaye Erkan'ın oğluna yaptığı doğum günü partisi kameralarda!</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti Genel Başkanı Özgür Özel, Hacıhaliller Mahallesi'nde Köy Kahvesi Ziyaret Etti</title>
-      <link>https://www.youtube.com/watch?v=H_4Or5HsX4w</link>
-      <guid isPermaLink="false">H_4Or5HsX4w</guid>
-      <pubDate>Thu, 03 Sep 2026 13:42:30 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Hacıhaliller Mahallesi'nde Köy Kahvesi Ziyaret Etti</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Yurttaşın geçim isyanı: “Kendi evim olmasa 63 yaşında çalışırım”</title>
-      <link>https://www.youtube.com/shorts/4PYzGmtDt2A</link>
-      <guid isPermaLink="false">4PYzGmtDt2A</guid>
-      <pubDate>Thu, 03 Sep 2026 13:40:43 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Yurttaşın geçim isyanı: “Kendi evim olmasa 63 yaşında çalışırım”</description>
     </item>
   </channel>
 </rss>
