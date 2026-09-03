@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 07:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 08:00:51 +0000</lastBuildDate>
     <item>
-      <title>SÖZCÜ TV: Yeni Parti Lideri Özgür Özel İsmail Küçükkaya'nın Sorularını Yanıtladı!</title>
+      <title>SÖZCÜ TV: İsmail Küçükkaya ile Günaydın Türkiyem | 3 Eylül</title>
+      <link>https://www.youtube.com/watch?v=jKeJTUZERVY</link>
+      <guid isPermaLink="false">jKeJTUZERVY</guid>
+      <pubDate>Thu, 03 Sep 2026 08:00:49 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya ile Günaydın Türkiyem | 3 Eylül</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İsmail Küçükkaya Özgür Özel Yanıtladı | Erdoğan, Melih Gökçek, İmamoğlu, Kılıçdaroğlıu</title>
       <link>https://www.youtube.com/watch?v=1qgxA7nURnI</link>
       <guid isPermaLink="false">1qgxA7nURnI</guid>
       <pubDate>Thu, 03 Sep 2026 07:55:14 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Yeni Parti Lideri Özgür Özel İsmail Küçükkaya'nın Sorularını Yanıtladı!</description>
+      <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya Özgür Özel Yanıtladı | Erdoğan, Melih Gökçek, İmamoğlu, Kılıçdaroğlıu</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Özgür Özel İsmail Küçükkaya'ya Erdoğan'ı Yenecek Planı Anlattı! Seçim Hamlesi Çok Konuşulur</title>
@@ -309,18 +316,11 @@
       <description>SÖZCÜ TV kanalından yeni video: Damla Doğan Tuncel ile 1 Saat</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: Can Coşkun ile Gündem Masası</title>
+      <title>SÖZCÜ TV: #CANLI Can Coşkun ile Gündem Masası</title>
       <link>https://www.youtube.com/watch?v=u_yW7_RV6mA</link>
       <guid isPermaLink="false">u_yW7_RV6mA</guid>
       <pubDate>Wed, 02 Sep 2026 22:25:33 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Can Coşkun ile Gündem Masası</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İsmail Küçükkaya ile Günaydın Türkiyem | 3 Eylül</title>
-      <link>https://www.youtube.com/watch?v=jKeJTUZERVY</link>
-      <guid isPermaLink="false">jKeJTUZERVY</guid>
-      <pubDate>Wed, 02 Sep 2026 22:24:57 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya ile Günaydın Türkiyem | 3 Eylül</description>
+      <description>SÖZCÜ TV kanalından yeni video: #CANLI Can Coşkun ile Gündem Masası</description>
     </item>
     <item>
       <title>Halk TV: Kürşad Oğuz ile Rota (2 Eylül 2026)</title>
