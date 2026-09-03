@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 11:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 11:05:24 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: BÜYÜK OYUNU ÇÖKERTTİ! Murat Emir'in sözleri paçaları tutuşturacak! Üsküdar'da yaşanacakları anlattı!</title>
+      <link>https://www.youtube.com/watch?v=wcM1djy4S04</link>
+      <guid isPermaLink="false">wcM1djy4S04</guid>
+      <pubDate>Thu, 03 Sep 2026 11:00:07 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BÜYÜK OYUNU ÇÖKERTTİ! Murat Emir'in sözleri paçaları tutuşturacak! Üsküdar'da yaşanacakları anlattı!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: TRUMP KAYBEDİYOR! Washington'da Demokratların İntikam Planı! Trump'ın Ailesi Hedefte</title>
+      <link>https://www.youtube.com/watch?v=CbZaF1mSUzs</link>
+      <guid isPermaLink="false">CbZaF1mSUzs</guid>
+      <pubDate>Thu, 03 Sep 2026 11:00:01 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: TRUMP KAYBEDİYOR! Washington'da Demokratların İntikam Planı! Trump'ın Ailesi Hedefte</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Can Coşkun ile Gündem Masası | 3 Eylül</title>
       <link>https://www.youtube.com/watch?v=u_yW7_RV6mA</link>
@@ -76,13 +90,6 @@
       <guid isPermaLink="false">R_0ChgIwpdg</guid>
       <pubDate>Thu, 03 Sep 2026 10:27:31 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Enflasyon rakamlarına sokaktan sitem: "Eti ancak rüyamızda görebiliyoruz"</description>
-    </item>
-    <item>
-      <title>Halk TV: BÜYÜK OYUNU ÇÖKERTTİ! Murat Emir'in sözleri paçaları tutuşturacak! Üsküdar'da yaşanacakları anlattı!</title>
-      <link>https://www.youtube.com/watch?v=wcM1djy4S04</link>
-      <guid isPermaLink="false">wcM1djy4S04</guid>
-      <pubDate>Thu, 03 Sep 2026 10:22:53 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BÜYÜK OYUNU ÇÖKERTTİ! Murat Emir'in sözleri paçaları tutuşturacak! Üsküdar'da yaşanacakları anlattı!</description>
     </item>
     <item>
       <title>Tele2 Haber: Ahmet Davutoğlu'na "Cumhurbaşkanı'na Hakaret" Soruşturması! "Hakaret mi Yanıt Bekleyen İddia mı?"</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">I_Uvkd0Q1DI</guid>
       <pubDate>Thu, 03 Sep 2026 08:35:36 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Başakşehir'de inşaat alanında göçük! Bir işçi yığın altında kaldı, iki işçi kurtarıldı</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! BAŞAKŞEHİR’DE FACİA! İnşaat alanında göçük meydana geldi! Bir emekçi aranıyor!</title>
-      <link>https://www.youtube.com/watch?v=RGvpqMiO240</link>
-      <guid isPermaLink="false">RGvpqMiO240</guid>
-      <pubDate>Thu, 03 Sep 2026 08:35:26 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! BAŞAKŞEHİR’DE FACİA! İnşaat alanında göçük meydana geldi! Bir emekçi aranıyor!</description>
     </item>
   </channel>
 </rss>
