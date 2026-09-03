@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 21:45:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 21:50:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Üsküdar'da başkan vekili seçimi öncesinde meclis üyelerine gözaltı hamlesi ne anlama geliyor?</title>
+      <link>https://www.youtube.com/watch?v=Zl_0VS8n-lY</link>
+      <guid isPermaLink="false">Zl_0VS8n-lY</guid>
+      <pubDate>Thu, 03 Sep 2026 21:45:24 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Üsküdar'da başkan vekili seçimi öncesinde meclis üyelerine gözaltı hamlesi ne anlama geliyor?</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Arif Ahmet Denizolgun Dosyasında Korkunç Şüphe! Turhan Çömez'den Bomba Otopsi İfşası</title>
       <link>https://www.youtube.com/watch?v=yJbgD9BUGaE</link>
@@ -50,11 +57,11 @@
       <description>ANKA Haber Ajansı kanalından yeni video: Zafer Partisi Genel Başkanı Ümit Özdağ, parti genel merkezinde basın toplantısı düzenliyor #Canlı</description>
     </item>
     <item>
-      <title>Halk TV: Özgür Özel Manisalılarla buluştu! Üreticiler Özel'i "Üzüm Öldü" yazan tabutla karşıladı!</title>
+      <title>Halk TV: Özgür Özel Manisalılara buluştu! Üreticiler Özel’i “Üzüm öldü” yazan tabutla karşıladı!</title>
       <link>https://www.youtube.com/watch?v=k2qDJkKouTc</link>
       <guid isPermaLink="false">k2qDJkKouTc</guid>
       <pubDate>Thu, 03 Sep 2026 20:45:05 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel Manisalılarla buluştu! Üreticiler Özel'i "Üzüm Öldü" yazan tabutla karşıladı!</description>
+      <description>Halk TV kanalından yeni video: Özgür Özel Manisalılara buluştu! Üreticiler Özel’i “Üzüm öldü” yazan tabutla karşıladı!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Timur Soykan Kirli Ağı Tek Tek Çözdü! Paramount Otel MİT İddiaları ve Cem Küçük Gerçekleri</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">CUsqanNmZF8</guid>
       <pubDate>Thu, 03 Sep 2026 17:40:01 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: 15 Saatlik Duruşmada Yaşanan Zindan Mantığı! Silivri'de Neler Oluyor? İmamoğlu Ateş Püskürdü</description>
-    </item>
-    <item>
-      <title>Halk TV: "EMEKLİLİKTE YAŞA TAKILAN DEĞİL İŞE TAKILAN..." Ece Üner’den gündemi sarsacak sözler!</title>
-      <link>https://www.youtube.com/watch?v=dUj1gcpYiZo</link>
-      <guid isPermaLink="false">dUj1gcpYiZo</guid>
-      <pubDate>Thu, 03 Sep 2026 17:30:16 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: "EMEKLİLİKTE YAŞA TAKILAN DEĞİL İŞE TAKILAN..." Ece Üner’den gündemi sarsacak sözler!</description>
     </item>
   </channel>
 </rss>
