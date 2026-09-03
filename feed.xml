@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 03:25:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 03:30:44 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Silivri'de kazaya karışan gemideki telsiz konuşması ortaya çıktı: ALSU iskeleye kır!</title>
+      <link>https://www.youtube.com/shorts/ru0E9VwEDkY</link>
+      <guid isPermaLink="false">ru0E9VwEDkY</guid>
+      <pubDate>Thu, 03 Sep 2026 03:00:05 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Silivri'de kazaya karışan gemideki telsiz konuşması ortaya çıktı: ALSU iskeleye kır!</description>
+    </item>
     <item>
       <title>Cumhuriyet: #CANLI YENİ Parti İl Başkanları Toplantısı: Özgür Özel’den flaş açıklamalar</title>
       <link>https://www.youtube.com/watch?v=nntsLxrUYbw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">GndlNUPwvfQ</guid>
       <pubDate>Wed, 02 Sep 2026 19:18:18 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkanı Kemal Kılıçdaroğlu, "Mağdur Aileler ile Yemek" programına katılıyor / İzmir #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: Eski MB Başkanı Gaye Erkan ile ilgili yeni skandal bilgiler geliyor: Sitedekileri tehdit etmiş!</title>
-      <link>https://www.youtube.com/watch?v=7Vw5Wiku8kc</link>
-      <guid isPermaLink="false">7Vw5Wiku8kc</guid>
-      <pubDate>Wed, 02 Sep 2026 19:10:17 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Eski MB Başkanı Gaye Erkan ile ilgili yeni skandal bilgiler geliyor: Sitedekileri tehdit etmiş!</description>
     </item>
   </channel>
 </rss>
