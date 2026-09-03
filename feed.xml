@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 08:05:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 08:10:30 +0000</lastBuildDate>
     <item>
       <title>Halk TV: #CANLI | Zafer Partisi Genel Başkanı Ümit Özdağ, Parti Genel Merkezinde Basın Toplantısı Düzenliyor!</title>
       <link>https://www.youtube.com/watch?v=6xcXbhuHcBg</link>
@@ -27,6 +27,13 @@
       <guid isPermaLink="false">IrvIaqqVj3E</guid>
       <pubDate>Thu, 03 Sep 2026 08:00:20 +0000</pubDate>
       <description>Halk TV kanalından yeni video: 1 KİŞİNİN NAAŞINA ULAŞILMIŞTI! Girne'de acı dolu bekleyiş sürüyor! Ceren Ural son durumu aktardı!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Özgür Özel'den Kılıçdaroğlu'yla Tokalaşma Açıklaması! "Memlekete Yapılanı Ömür Boyu Affetmeyeceğim!"</title>
+      <link>https://www.youtube.com/watch?v=C56a7rZvf28</link>
+      <guid isPermaLink="false">C56a7rZvf28</guid>
+      <pubDate>Thu, 03 Sep 2026 08:00:10 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Özgür Özel'den Kılıçdaroğlu'yla Tokalaşma Açıklaması! "Memlekete Yapılanı Ömür Boyu Affetmeyeceğim!"</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: CHP Genel Başkan Yardımcısı Orhan Sarıbal, parti genel merkezinde basın toplantısı düzenliyor #Canlı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">WcrnFKHl8DQ</guid>
       <pubDate>Wed, 02 Sep 2026 22:12:30 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Kürşad Oğuz ile Rota (2 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: MELİH GÖKÇEK'E CANLI YAYINDA SOĞUK DUŞ! Murat Ağırel O Tapuları Tek Tek İfşa Etti</title>
-      <link>https://www.youtube.com/watch?v=L1gUZmJelRk</link>
-      <guid isPermaLink="false">L1gUZmJelRk</guid>
-      <pubDate>Wed, 02 Sep 2026 22:10:34 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: MELİH GÖKÇEK'E CANLI YAYINDA SOĞUK DUŞ! Murat Ağırel O Tapuları Tek Tek İfşa Etti</description>
     </item>
   </channel>
 </rss>
