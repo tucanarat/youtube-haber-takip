@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 19:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 19:40:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: TÜİK'in enflasyonu ile yurttaşın yaşadığı arasında uçurum var: Akaryakıt zammı her şeyi uçuracak!</title>
+      <link>https://www.youtube.com/watch?v=860Jax9N-wc</link>
+      <guid isPermaLink="false">860Jax9N-wc</guid>
+      <pubDate>Thu, 03 Sep 2026 19:30:36 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: TÜİK'in enflasyonu ile yurttaşın yaşadığı arasında uçurum var: Akaryakıt zammı her şeyi uçuracak!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Davutoğlu döneminde görev yapmıştı! Engin Solakoğlu'ndan soruşturma değerlendirmesi</title>
       <link>https://www.youtube.com/watch?v=5XSr018XlVk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">RUi3wj2d-5k</guid>
       <pubDate>Thu, 03 Sep 2026 16:10:15 +0000</pubDate>
       <description>Halk TV kanalından yeni video: CEZAEVİNDE İŞKENCE İDDİASI! DARP ETTİLER, YERLERDE SÜRÜKLEDİLER! ÇHD bakın hangi açıklamayı yaptı!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Türkiye Maden-İş Sendikası, işçilerin ödemelerine ilişkin açıklama yapıyor</title>
-      <link>https://www.youtube.com/watch?v=hzKiZ0s5ESk</link>
-      <guid isPermaLink="false">hzKiZ0s5ESk</guid>
-      <pubDate>Thu, 03 Sep 2026 16:03:38 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Türkiye Maden-İş Sendikası, işçilerin ödemelerine ilişkin açıklama yapıyor</description>
     </item>
   </channel>
 </rss>
