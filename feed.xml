@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 09:00:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 09:05:26 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Özgür Özel'den AKP'ye Melih Gökçek İsyanı! Süleyman Soylu Detayı! İsmail Küçükkaya'ya Anlattı</title>
+      <link>https://www.youtube.com/watch?v=2zahETTcmHY</link>
+      <guid isPermaLink="false">2zahETTcmHY</guid>
+      <pubDate>Thu, 03 Sep 2026 09:00:12 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Özgür Özel'den AKP'ye Melih Gökçek İsyanı! Süleyman Soylu Detayı! İsmail Küçükkaya'ya Anlattı</description>
+    </item>
     <item>
       <title>Cumhuriyet: Gol kapısı açılmışken-Gülengül Altınsay</title>
       <link>https://www.youtube.com/watch?v=REHe2QhyKgU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ltFlWznf0fw</guid>
       <pubDate>Thu, 03 Sep 2026 06:20:14 +0000</pubDate>
       <description>Halk TV kanalından yeni video: GEMİYE ÇARPIP ALTINA ALMIŞ! Silivri açıklarındaki kazada şok detaylar! Facia göz göre göre gelmiş!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Elazığ'da Korkutan Orman Yangını! Ekipler Müdahale Ediyor! #shorts</title>
-      <link>https://www.youtube.com/shorts/z0ZK0YPfeZk</link>
-      <guid isPermaLink="false">z0ZK0YPfeZk</guid>
-      <pubDate>Thu, 03 Sep 2026 06:00:04 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Elazığ'da Korkutan Orman Yangını! Ekipler Müdahale Ediyor! #shorts</description>
     </item>
   </channel>
 </rss>
