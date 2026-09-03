@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 14:40:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 14:45:41 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Bağ-Kur'luya 5 Yıl Erken Emeklilik: 7200 Gün Şartı Kimleri Kapsıyor? SGK Uzmanı Emin Yılmaz Anlattı</title>
+      <link>https://www.youtube.com/watch?v=-pkPhbmhwvg</link>
+      <guid isPermaLink="false">-pkPhbmhwvg</guid>
+      <pubDate>Thu, 03 Sep 2026 14:30:39 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Bağ-Kur'luya 5 Yıl Erken Emeklilik: 7200 Gün Şartı Kimleri Kapsıyor? SGK Uzmanı Emin Yılmaz Anlattı</description>
+    </item>
     <item>
       <title>Halk TV: Ümit Özdağ'dan iktidara: Türk halkını ihraç etmedikçe bu seçimi kaybedersiniz!</title>
       <link>https://www.youtube.com/shorts/cZAM3rpbjl0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">7iLgrK5gGz8</guid>
       <pubDate>Thu, 03 Sep 2026 11:55:09 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ŞOK BİLGİLER! Girne'deki faciada kaptandan katliam gibi ihmal! Türkiye'den ehliyet alamayınca...</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Murat Emir'den çok çarpıcı açıklamalar! "Kirli senaryoyu paylaşacağım" diyerek açıkladı</title>
-      <link>https://www.youtube.com/watch?v=tTCvrJfLDnY</link>
-      <guid isPermaLink="false">tTCvrJfLDnY</guid>
-      <pubDate>Thu, 03 Sep 2026 11:46:46 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Murat Emir'den çok çarpıcı açıklamalar! "Kirli senaryoyu paylaşacağım" diyerek açıkladı</description>
     </item>
   </channel>
 </rss>
