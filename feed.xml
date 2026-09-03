@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 17:08:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 17:10:30 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: İMAMOĞLU'NUN KONUŞMASI DEPREM ETKİSİ YARATTI! 'SUSTURAMAYACAKSINIZ!'</title>
+      <link>https://www.youtube.com/shorts/g-nx0YGwMy0</link>
+      <guid isPermaLink="false">g-nx0YGwMy0</guid>
+      <pubDate>Thu, 03 Sep 2026 17:09:27 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: İMAMOĞLU'NUN KONUŞMASI DEPREM ETKİSİ YARATTI! 'SUSTURAMAYACAKSINIZ!'</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Özlem Gürses'ten Melih Gökçek Soruşturması Detayları! "Asıl Hedef Mansur Yavaş mı?"</title>
       <link>https://www.youtube.com/watch?v=Y1v5ySIYjxk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">iiSa-b1GXDs</guid>
       <pubDate>Thu, 03 Sep 2026 14:10:02 +0000</pubDate>
       <description>Halk TV kanalından yeni video: UYUYAN KAPTAN FACİA GETİRMİŞ! Silivri'deki gemi kazasında bilirkişi raporu açıklandı! Şok tespitler!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Serap Belovacıklı ile Haber Saati | 3 Eylül</title>
-      <link>https://www.youtube.com/watch?v=Qa1jZgKLssE</link>
-      <guid isPermaLink="false">Qa1jZgKLssE</guid>
-      <pubDate>Thu, 03 Sep 2026 14:02:04 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Serap Belovacıklı ile Haber Saati | 3 Eylül</description>
     </item>
   </channel>
 </rss>
