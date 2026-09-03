@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 19:05:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 19:10:36 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI Zeynel Lüle ile Ankara Günlüğü | Konuk: Yeni Parti Samsun Milletvekili Murat Çan (04.09.26)</title>
+      <link>https://www.youtube.com/watch?v=Xujdh5IXWFs</link>
+      <guid isPermaLink="false">Xujdh5IXWFs</guid>
+      <pubDate>Thu, 03 Sep 2026 19:08:20 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Zeynel Lüle ile Ankara Günlüğü | Konuk: Yeni Parti Samsun Milletvekili Murat Çan (04.09.26)</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #CANLI Ülkü Çoban ile Manşet Ötesi (04.09.26)</title>
+      <link>https://www.youtube.com/watch?v=aSVTFTGDROc</link>
+      <guid isPermaLink="false">aSVTFTGDROc</guid>
+      <pubDate>Thu, 03 Sep 2026 19:05:32 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Ülkü Çoban ile Manşet Ötesi (04.09.26)</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI Onur Öncü ile Sabah Pusulası (04.09.26)</title>
       <link>https://www.youtube.com/watch?v=hZyO16fg0GA</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">7tFi1FDWYEI</guid>
       <pubDate>Thu, 03 Sep 2026 15:40:04 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SIKI DURUN! Akaryakıta tarihi zam geliyor! Motorinin fiyatı 90 TL'yi aşacak! Cepleri fena yakacak!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Özgür Özel'den İsmail Küçükkaya'ya Tarihi Açıklamalar: Erdoğan, İmamoğlu, Gökçekler, Kılıçdaroğlu</title>
-      <link>https://www.youtube.com/watch?v=zmk1GxRpoko</link>
-      <guid isPermaLink="false">zmk1GxRpoko</guid>
-      <pubDate>Thu, 03 Sep 2026 15:30:07 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Özgür Özel'den İsmail Küçükkaya'ya Tarihi Açıklamalar: Erdoğan, İmamoğlu, Gökçekler, Kılıçdaroğlu</description>
-    </item>
-    <item>
-      <title>Halk TV: MELİH GÖKÇEK KÖŞEYE SIKIŞTI! 'Suç örgütü' şeması açılacak mı? Ankara bu gelişmeyle çalkalanıyor!</title>
-      <link>https://www.youtube.com/watch?v=TDw0YmBrY9k</link>
-      <guid isPermaLink="false">TDw0YmBrY9k</guid>
-      <pubDate>Thu, 03 Sep 2026 15:25:34 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: MELİH GÖKÇEK KÖŞEYE SIKIŞTI! 'Suç örgütü' şeması açılacak mı? Ankara bu gelişmeyle çalkalanıyor!</description>
     </item>
   </channel>
 </rss>
