@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 09:40:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 09:45:29 +0000</lastBuildDate>
     <item>
       <title>Cumhuriyet: #CANLI YENİ Parti Grup Başkanvekili Murat Emir’den flaş açıklamalar</title>
       <link>https://www.youtube.com/watch?v=xSyUvaqs5XM</link>
@@ -27,6 +27,20 @@
       <guid isPermaLink="false">UJqjgsiUCrU</guid>
       <pubDate>Thu, 03 Sep 2026 09:32:47 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLIYENİ Parti Grup Başkanvekili Murat Emir TBMM'de açıklama yapıyor</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | YENİ Parti Grup Başkanvekili Murat Emir TBMM'de Açıklama Yapıyor!</title>
+      <link>https://www.youtube.com/watch?v=VBFdvvK9ZGQ</link>
+      <guid isPermaLink="false">VBFdvvK9ZGQ</guid>
+      <pubDate>Thu, 03 Sep 2026 09:32:47 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti Grup Başkanvekili Murat Emir TBMM'de Açıklama Yapıyor!</description>
+    </item>
+    <item>
+      <title>Halk TV: SON DAKİKA! ACI HABER GELDİ! Başakşehir'de göçük altında kalan bir işçi hayatını kaybetti!</title>
+      <link>https://www.youtube.com/watch?v=SX_YFvey6Oo</link>
+      <guid isPermaLink="false">SX_YFvey6Oo</guid>
+      <pubDate>Thu, 03 Sep 2026 09:30:33 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! ACI HABER GELDİ! Başakşehir'de göçük altında kalan bir işçi hayatını kaybetti!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Özgür Özel'den AKP'ye Ekrem İmamoğlu Resti! Gizli Tanık Dosyasındaki Şok Edici Gerçekleri Anlattı</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">8Qjr-FJ1N8U</guid>
       <pubDate>Thu, 03 Sep 2026 07:36:57 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Kemal Kılıçdaroğlu, İzmir'in Buca ilçesinde Kaynaklar Köyü’nde köy halkıyla bir araya geldi</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Deprem bölgesinde konut arzı kiraları frenledi: Arz çoğaldıkça piyasada rahatlama olacak</title>
-      <link>https://www.youtube.com/watch?v=1cFT0wuTBts</link>
-      <guid isPermaLink="false">1cFT0wuTBts</guid>
-      <pubDate>Thu, 03 Sep 2026 07:31:07 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Deprem bölgesinde konut arzı kiraları frenledi: Arz çoğaldıkça piyasada rahatlama olacak</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Özgür Özel Yeni Parti'nin Oy Oranını Açıkladı! AKP'yi Titretecek Sonuç! Erdoğan'a Rest Çekti</title>
-      <link>https://www.youtube.com/watch?v=JKbxQ1G3Udk</link>
-      <guid isPermaLink="false">JKbxQ1G3Udk</guid>
-      <pubDate>Thu, 03 Sep 2026 07:30:34 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Özgür Özel Yeni Parti'nin Oy Oranını Açıkladı! AKP'yi Titretecek Sonuç! Erdoğan'a Rest Çekti</description>
     </item>
   </channel>
 </rss>
