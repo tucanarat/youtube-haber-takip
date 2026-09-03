@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 18:50:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 18:55:32 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: ENGİN SOLAKOĞLU'NDAN ÇOK KRİTİK ÜSKÜDAR VE İBB UYARISI!</title>
+      <link>https://www.youtube.com/shorts/odDEBxM_JO4</link>
+      <guid isPermaLink="false">odDEBxM_JO4</guid>
+      <pubDate>Thu, 03 Sep 2026 18:52:03 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: ENGİN SOLAKOĞLU'NDAN ÇOK KRİTİK ÜSKÜDAR VE İBB UYARISI!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Timur Soykan Erdoğan'ın İmamoğlu Planını Anlattı! Sandıksız Seçim Kazanma Oyunu mu?</title>
       <link>https://www.youtube.com/watch?v=Z6K7Ci9CwOo</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">bXmGSwio6_s</guid>
       <pubDate>Thu, 03 Sep 2026 15:00:32 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Davutoğlu'na Soruşturma, İBB Davasında Tahliye Talepleri | Bugün Ne Oldu?</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Ümit Özdağ'dan Muharrem İnce'ye çok sert CHP göndermesi: Kendi kişisel kariyeriniz için...</title>
-      <link>https://www.youtube.com/watch?v=4_BVomLFIZA</link>
-      <guid isPermaLink="false">4_BVomLFIZA</guid>
-      <pubDate>Thu, 03 Sep 2026 15:00:15 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Ümit Özdağ'dan Muharrem İnce'ye çok sert CHP göndermesi: Kendi kişisel kariyeriniz için...</description>
     </item>
   </channel>
 </rss>
