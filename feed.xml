@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 07:10:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 07:15:32 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Kemal Kılıçdaroğlu, İzmir'in Buca ilçesinde Kaynaklar Köyü’nde köy halkıyla bir araya geldi</title>
+      <link>https://www.youtube.com/watch?v=8Qjr-FJ1N8U</link>
+      <guid isPermaLink="false">8Qjr-FJ1N8U</guid>
+      <pubDate>Thu, 03 Sep 2026 07:09:01 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Kemal Kılıçdaroğlu, İzmir'in Buca ilçesinde Kaynaklar Köyü’nde köy halkıyla bir araya geldi</description>
+    </item>
     <item>
       <title>Halk TV: Gökhan Kayış ile Haberler (3 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=iU1bHzXZiuA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">7s4HuEbhHfw</guid>
       <pubDate>Wed, 02 Sep 2026 20:22:07 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Butlan kararı ile göreve gelen CHP Genel Başkanı Kemal Kılıçdaroğlu, İzmir'de yürüyüş gerçekleştirdi</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İDRİS NAİM ŞAHİN DOSYASI AÇILDI: Makam Araçlarından Çıkan Karanlık İlişkiler! İsmail Saymaz Açıkladı</title>
-      <link>https://www.youtube.com/watch?v=vP0B5WRSvjA</link>
-      <guid isPermaLink="false">vP0B5WRSvjA</guid>
-      <pubDate>Wed, 02 Sep 2026 20:20:23 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İDRİS NAİM ŞAHİN DOSYASI AÇILDI: Makam Araçlarından Çıkan Karanlık İlişkiler! İsmail Saymaz Açıkladı</description>
     </item>
   </channel>
 </rss>
