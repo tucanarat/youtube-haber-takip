@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 10:00:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 10:05:31 +0000</lastBuildDate>
     <item>
       <title>Halk TV: Ebru Baki ile Para Siyaset | İbrahim Kahveci (3 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=3FfWypr8n4c</link>
       <guid isPermaLink="false">3FfWypr8n4c</guid>
       <pubDate>Thu, 03 Sep 2026 10:00:48 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Ebru Baki ile Para Siyaset | İbrahim Kahveci (3 Eylül 2026)</description>
+    </item>
+    <item>
+      <title>Halk TV: İBB DAVASINDA KRİTİK GÜN! İmamoğlu tahliye talebinde bulunacak! Gamze Altunay detayları anlattı!</title>
+      <link>https://www.youtube.com/watch?v=xpH0vg5Z4s4</link>
+      <guid isPermaLink="false">xpH0vg5Z4s4</guid>
+      <pubDate>Thu, 03 Sep 2026 10:00:32 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İBB DAVASINDA KRİTİK GÜN! İmamoğlu tahliye talebinde bulunacak! Gamze Altunay detayları anlattı!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İlk Kadın Kaptan Silivri'deki Gemilerin Çarpışma Anını Anlattı! Mürettebat Nasıl Yakalandı?</title>
+      <link>https://www.youtube.com/watch?v=tQqwoG-0K4o</link>
+      <guid isPermaLink="false">tQqwoG-0K4o</guid>
+      <pubDate>Thu, 03 Sep 2026 10:00:20 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İlk Kadın Kaptan Silivri'deki Gemilerin Çarpışma Anını Anlattı! Mürettebat Nasıl Yakalandı?</description>
     </item>
     <item>
       <title>Cumhuriyet: #CANLI YENİ Parti Grup Başkanvekili Murat Emir’den flaş açıklamalar</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">EmV9IiLJF-I</guid>
       <pubDate>Thu, 03 Sep 2026 07:47:45 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Görevden uzaklaştırılan Zeydan Karalar konuştu: "Biz Avrupa'nın çöplüğü değiliz"</description>
-    </item>
-    <item>
-      <title>Halk TV: Butlan Kararı İle Göreve Gelen CHP Genel Başkanı Kılıçdaroğlu İzmir'de!</title>
-      <link>https://www.youtube.com/watch?v=bVZsmac238s</link>
-      <guid isPermaLink="false">bVZsmac238s</guid>
-      <pubDate>Thu, 03 Sep 2026 07:45:40 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Butlan Kararı İle Göreve Gelen CHP Genel Başkanı Kılıçdaroğlu İzmir'de!</description>
-    </item>
-    <item>
-      <title>Halk TV: O İSİMLERE TAHLİYE KARARI ÇIKABİLİR! Silivri’de nefesler tutuldu! Gamze Altunay neler anlattı neler!</title>
-      <link>https://www.youtube.com/watch?v=r-nrMCYCVDk</link>
-      <guid isPermaLink="false">r-nrMCYCVDk</guid>
-      <pubDate>Thu, 03 Sep 2026 07:45:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: O İSİMLERE TAHLİYE KARARI ÇIKABİLİR! Silivri’de nefesler tutuldu! Gamze Altunay neler anlattı neler!</description>
     </item>
   </channel>
 </rss>
