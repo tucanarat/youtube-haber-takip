@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 08:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 08:59:49 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Gol kapısı açılmışken-Gülengül Altınsay</title>
+      <link>https://www.youtube.com/watch?v=REHe2QhyKgU</link>
+      <guid isPermaLink="false">REHe2QhyKgU</guid>
+      <pubDate>Thu, 03 Sep 2026 08:55:11 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Gol kapısı açılmışken-Gülengül Altınsay</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Arabesk demokrasi...-Sevgi Özel</title>
+      <link>https://www.youtube.com/watch?v=dptNPRluddI</link>
+      <guid isPermaLink="false">dptNPRluddI</guid>
+      <pubDate>Thu, 03 Sep 2026 08:54:23 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Arabesk demokrasi...-Sevgi Özel</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Zafer Partisi Genel Başkanı Ümit Özdağ'dan Kritik Açıklamalar!</title>
       <link>https://www.youtube.com/watch?v=eJ3TLddDYnw</link>
@@ -34,6 +48,13 @@
       <guid isPermaLink="false">HThraWuwFl0</guid>
       <pubDate>Thu, 03 Sep 2026 08:47:20 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Onur Öncü Özgür Özel'in Kılıçdaroğlu ile Tokalaşması Hakkında Yaptığı Açıklamayı Aktardı!</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Bal üreticisinden kritik uyarı! "TANIDIĞINIZ ARICIDAN ALIN"</title>
+      <link>https://www.youtube.com/watch?v=TpNseo0gA9w</link>
+      <guid isPermaLink="false">TpNseo0gA9w</guid>
+      <pubDate>Thu, 03 Sep 2026 08:44:45 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Bal üreticisinden kritik uyarı! "TANIDIĞINIZ ARICIDAN ALIN"</description>
     </item>
     <item>
       <title>Halk TV: Ahmet Davutoğlu'nun 4,5 yıl önceki sözleri bugün soruşturma konusu oldu!</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">z0ZK0YPfeZk</guid>
       <pubDate>Thu, 03 Sep 2026 06:00:04 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Elazığ'da Korkutan Orman Yangını! Ekipler Müdahale Ediyor! #shorts</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! İBB'YE BİR ŞAFAK OPERASYONU DAHA! Üst düzey isimler hakkında gözaltı kararı verildi!</title>
-      <link>https://www.youtube.com/watch?v=7J3Opi_-aFk</link>
-      <guid isPermaLink="false">7J3Opi_-aFk</guid>
-      <pubDate>Thu, 03 Sep 2026 05:35:01 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! İBB'YE BİR ŞAFAK OPERASYONU DAHA! Üst düzey isimler hakkında gözaltı kararı verildi!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Pınar Erbaş ile Gecenin Sözü</title>
-      <link>https://www.youtube.com/watch?v=cJ8hfQcPsr8</link>
-      <guid isPermaLink="false">cJ8hfQcPsr8</guid>
-      <pubDate>Thu, 03 Sep 2026 05:32:33 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Pınar Erbaş ile Gecenin Sözü</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Bacaya Düşen Kediyi Kurtarma Operasyonu! #shorts</title>
-      <link>https://www.youtube.com/shorts/Af6CNaXkA-o</link>
-      <guid isPermaLink="false">Af6CNaXkA-o</guid>
-      <pubDate>Thu, 03 Sep 2026 05:30:04 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Bacaya Düşen Kediyi Kurtarma Operasyonu! #shorts</description>
     </item>
   </channel>
 </rss>
