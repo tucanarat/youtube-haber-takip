@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 22:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 22:05:26 +0000</lastBuildDate>
     <item>
       <title>Halk TV: GÖZLER BU KARARDA! İBB Davasında Tahliyeler Gelecek mi? Silivri'den Anbean Gelişmeler (3 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=f4z4vBf-xYM</link>
       <guid isPermaLink="false">f4z4vBf-xYM</guid>
       <pubDate>Thu, 03 Sep 2026 22:00:48 +0000</pubDate>
       <description>Halk TV kanalından yeni video: GÖZLER BU KARARDA! İBB Davasında Tahliyeler Gelecek mi? Silivri'den Anbean Gelişmeler (3 Eylül 2026)</description>
+    </item>
+    <item>
+      <title>Halk TV: TARTIŞMALI UYUŞTURUCU TESTİ! Keçiören Belediyesinde tüm personele uyuşturucu testi uygulandı!</title>
+      <link>https://www.youtube.com/watch?v=rw-breeA3G4</link>
+      <guid isPermaLink="false">rw-breeA3G4</guid>
+      <pubDate>Thu, 03 Sep 2026 22:00:09 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: TARTIŞMALI UYUŞTURUCU TESTİ! Keçiören Belediyesinde tüm personele uyuşturucu testi uygulandı!</description>
     </item>
     <item>
       <title>Halk TV: Sinem Fıstıkoğlu ile Sansürsüz (3 Eylül 2026)</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">6-V0S5-4Hg8</guid>
       <pubDate>Thu, 03 Sep 2026 18:00:10 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ŞOK AÇIKLAMA! CHP'den AKP'ye Geçmişti! "Hizmet için geçtim." dedi! Bu sözler bakın neyin itirafıydı!</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Cevdet Yılmaz, Lefkoşa’da KKTC Başbakanı Ünal Üstel ile ortak basın toplantısı düzenliyor!</title>
-      <link>https://www.youtube.com/watch?v=aQrh-H2Trb8</link>
-      <guid isPermaLink="false">aQrh-H2Trb8</guid>
-      <pubDate>Thu, 03 Sep 2026 17:48:55 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Cevdet Yılmaz, Lefkoşa’da KKTC Başbakanı Ünal Üstel ile ortak basın toplantısı düzenliyor!</description>
     </item>
   </channel>
 </rss>
