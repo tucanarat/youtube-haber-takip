@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 19:10:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 19:15:36 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Kemal Kılıçdaroğlu, İzmir'in Buca ilçesinde Kaynaklar Köyü’nde köy halkıyla bir araya geldi</title>
+      <link>https://www.youtube.com/watch?v=Q6YWiMN2U8M</link>
+      <guid isPermaLink="false">Q6YWiMN2U8M</guid>
+      <pubDate>Thu, 03 Sep 2026 19:08:58 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Kemal Kılıçdaroğlu, İzmir'in Buca ilçesinde Kaynaklar Köyü’nde köy halkıyla bir araya geldi</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI Zeynel Lüle ile Ankara Günlüğü | Konuk: Yeni Parti Samsun Milletvekili Murat Çan (04.09.26)</title>
       <link>https://www.youtube.com/watch?v=Xujdh5IXWFs</link>
@@ -15,11 +22,11 @@
       <description>Tele2 Haber kanalından yeni video: #CANLI Zeynel Lüle ile Ankara Günlüğü | Konuk: Yeni Parti Samsun Milletvekili Murat Çan (04.09.26)</description>
     </item>
     <item>
-      <title>Tele2 Haber: #CANLI Ülkü Çoban ile Manşet Ötesi (04.09.26)</title>
+      <title>Tele2 Haber: #CANLI Ülkü Çoban ile Manşet Ötesi | Konuk: Afşin Hatipoğlu (04.09.26)</title>
       <link>https://www.youtube.com/watch?v=aSVTFTGDROc</link>
       <guid isPermaLink="false">aSVTFTGDROc</guid>
       <pubDate>Thu, 03 Sep 2026 19:05:32 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Ülkü Çoban ile Manşet Ötesi (04.09.26)</description>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Ülkü Çoban ile Manşet Ötesi | Konuk: Afşin Hatipoğlu (04.09.26)</description>
     </item>
     <item>
       <title>Tele2 Haber: #CANLI Onur Öncü ile Sabah Pusulası (04.09.26)</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Wc4RogcH_0E</guid>
       <pubDate>Thu, 03 Sep 2026 15:44:37 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI İBB davasında 75. gün! Silivri’de neler oluyor?</description>
-    </item>
-    <item>
-      <title>Halk TV: SIKI DURUN! Akaryakıta tarihi zam geliyor! Motorinin fiyatı 90 TL'yi aşacak! Cepleri fena yakacak!</title>
-      <link>https://www.youtube.com/watch?v=7tFi1FDWYEI</link>
-      <guid isPermaLink="false">7tFi1FDWYEI</guid>
-      <pubDate>Thu, 03 Sep 2026 15:40:04 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SIKI DURUN! Akaryakıta tarihi zam geliyor! Motorinin fiyatı 90 TL'yi aşacak! Cepleri fena yakacak!</description>
     </item>
   </channel>
 </rss>
