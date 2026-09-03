@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 15:10:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 15:15:36 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: İBB'ye yeni dalga operasyon</title>
+      <link>https://www.youtube.com/shorts/H2QDo5p9OEM</link>
+      <guid isPermaLink="false">H2QDo5p9OEM</guid>
+      <pubDate>Thu, 03 Sep 2026 15:10:34 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: İBB'ye yeni dalga operasyon</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Gökhan Günaydın Cumhuriyet TV'de anlattı: Murat Ongun'dan çarpıcı savunma</title>
+      <link>https://www.youtube.com/shorts/rRjNtd9RTAo</link>
+      <guid isPermaLink="false">rRjNtd9RTAo</guid>
+      <pubDate>Thu, 03 Sep 2026 15:08:54 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Gökhan Günaydın Cumhuriyet TV'de anlattı: Murat Ongun'dan çarpıcı savunma</description>
+    </item>
     <item>
       <title>Halk TV: Davutoğlu'na Soruşturma, İBB Davasında Tahliye Talepleri | Bugün Ne Oldu?</title>
       <link>https://www.youtube.com/shorts/bXmGSwio6_s</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">DK7nA2Ef9ps</guid>
       <pubDate>Thu, 03 Sep 2026 12:42:14 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkanı Kemal Kılıçdaroğlu, Buca Ceza İnfaz Kurumlarını ziyaret etti</description>
-    </item>
-    <item>
-      <title>Halk TV: TAŞLAR YERİNDEN OYNAR! Gökçek-Davutoğlu soruşturmasındaki asıl plan açığa çıktı! Barış Övgün anlattı</title>
-      <link>https://www.youtube.com/watch?v=sdlh96GH0xM</link>
-      <guid isPermaLink="false">sdlh96GH0xM</guid>
-      <pubDate>Thu, 03 Sep 2026 12:40:39 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: TAŞLAR YERİNDEN OYNAR! Gökçek-Davutoğlu soruşturmasındaki asıl plan açığa çıktı! Barış Övgün anlattı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Marmara'da sıra dışı misafir: Sahanda yumurtaya benzeyen denizanası görüntülendi</title>
-      <link>https://www.youtube.com/shorts/3GL4edvS9Ok</link>
-      <guid isPermaLink="false">3GL4edvS9Ok</guid>
-      <pubDate>Thu, 03 Sep 2026 12:38:39 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Marmara'da sıra dışı misafir: Sahanda yumurtaya benzeyen denizanası görüntülendi</description>
     </item>
   </channel>
 </rss>
