@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 11:30:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 11:35:27 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: FIRTINA KOPTU KOPACAK! Özgür Özel felç edecek o hamlesini bugün atıyor! Saray'da hesaplar şaşacak!</title>
+      <link>https://www.youtube.com/watch?v=pj4HREEpd6c</link>
+      <guid isPermaLink="false">pj4HREEpd6c</guid>
+      <pubDate>Thu, 03 Sep 2026 11:30:19 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: FIRTINA KOPTU KOPACAK! Özgür Özel felç edecek o hamlesini bugün atıyor! Saray'da hesaplar şaşacak!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İsmail Saymaz'dan Gökçek'in Kayıp Tapularına Bomba Yorum "Başını Sokacak Bir Evi Bile Yok"</title>
       <link>https://www.youtube.com/watch?v=ZuRDoRwKkaw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">dptNPRluddI</guid>
       <pubDate>Thu, 03 Sep 2026 08:54:23 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Arabesk demokrasi...-Sevgi Özel</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Zafer Partisi Genel Başkanı Ümit Özdağ'dan Kritik Açıklamalar!</title>
-      <link>https://www.youtube.com/watch?v=eJ3TLddDYnw</link>
-      <guid isPermaLink="false">eJ3TLddDYnw</guid>
-      <pubDate>Thu, 03 Sep 2026 08:53:57 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Zafer Partisi Genel Başkanı Ümit Özdağ'dan Kritik Açıklamalar!</description>
     </item>
   </channel>
 </rss>
