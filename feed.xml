@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 07:30:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 07:35:27 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Özgür Özel Yeni Parti'nin Oy Oranını Açıkladı! AKP'yi Titretecek Sonuç! Erdoğan'a Rest Çekti</title>
+      <link>https://www.youtube.com/watch?v=JKbxQ1G3Udk</link>
+      <guid isPermaLink="false">JKbxQ1G3Udk</guid>
+      <pubDate>Thu, 03 Sep 2026 07:30:34 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Özgür Özel Yeni Parti'nin Oy Oranını Açıkladı! AKP'yi Titretecek Sonuç! Erdoğan'a Rest Çekti</description>
+    </item>
+    <item>
+      <title>Halk TV: BİR OPERASYONA DAHA UYANDIK! İBB'den o isimler gözaltına alındı! Gamze Altunay'dan sarsıcı detaylar!</title>
+      <link>https://www.youtube.com/watch?v=qkqN8x8ug_M</link>
+      <guid isPermaLink="false">qkqN8x8ug_M</guid>
+      <pubDate>Thu, 03 Sep 2026 07:30:13 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BİR OPERASYONA DAHA UYANDIK! İBB'den o isimler gözaltına alındı! Gamze Altunay'dan sarsıcı detaylar!</description>
+    </item>
     <item>
       <title>Cumhuriyet: Halkevleri'nden 'Reşit Kibar' açıklaması: Kavgası kavgamızdır</title>
       <link>https://www.youtube.com/shorts/OSpM_pzBlhg</link>
@@ -27,6 +41,13 @@
       <guid isPermaLink="false">qOl9trL-S3E</guid>
       <pubDate>Thu, 03 Sep 2026 07:19:58 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkanı Kemal Kılıçdaroğlu, "Milli Bilinç ve Güçlü Türkiye Buluşması"nda / İzmir #Canlı</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Butlan Kararı İle Göreve Gelen CHP Genel Başkanı Kılıçdaroğlu İzmir'de!</title>
+      <link>https://www.youtube.com/watch?v=bVZsmac238s</link>
+      <guid isPermaLink="false">bVZsmac238s</guid>
+      <pubDate>Thu, 03 Sep 2026 07:18:57 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Butlan Kararı İle Göreve Gelen CHP Genel Başkanı Kılıçdaroğlu İzmir'de!</description>
     </item>
     <item>
       <title>Halk TV: Kılıçdaroğlu’nun İzmir ziyareti sırasında korumalarla butlancılar arasında arbede çıktı!</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">EbEo_-lume0</guid>
       <pubDate>Wed, 02 Sep 2026 21:13:55 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Avrupa Hareketlilik Haftası Medya Lansmanı ve Çalıştayı #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: Eski M.B Başkanı Gaye Erkan, devlet erkanına yakışmayan iddialarla gündemde!</title>
-      <link>https://www.youtube.com/watch?v=p6rqUQ9FCjo</link>
-      <guid isPermaLink="false">p6rqUQ9FCjo</guid>
-      <pubDate>Wed, 02 Sep 2026 21:10:05 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Eski M.B Başkanı Gaye Erkan, devlet erkanına yakışmayan iddialarla gündemde!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Telsiz kayıtları ortaya çıktı! İşte Silivri'de 2 gemi böyle çarpışmış!</title>
-      <link>https://www.youtube.com/watch?v=YhLYfYLFf_8</link>
-      <guid isPermaLink="false">YhLYfYLFf_8</guid>
-      <pubDate>Wed, 02 Sep 2026 21:00:33 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Telsiz kayıtları ortaya çıktı! İşte Silivri'de 2 gemi böyle çarpışmış!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Adalet Bakanlığı'ndan Gökçek İçin Düğmeye mi Basıldı? Saygı Öztürk Türkiye'yi Sarsacak</title>
-      <link>https://www.youtube.com/watch?v=4lhVc_z5cO0</link>
-      <guid isPermaLink="false">4lhVc_z5cO0</guid>
-      <pubDate>Wed, 02 Sep 2026 21:00:16 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Adalet Bakanlığı'ndan Gökçek İçin Düğmeye mi Basıldı? Saygı Öztürk Türkiye'yi Sarsacak</description>
     </item>
   </channel>
 </rss>
