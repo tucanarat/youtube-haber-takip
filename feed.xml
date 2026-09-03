@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 11:45:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 11:50:30 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: Özel’den bomba gibi Kılıçdaroğlu yanıtı! | Davutoğlu için soruşturma! | Ülkü Çoban ile Manşet Ötesi</title>
       <link>https://www.youtube.com/watch?v=c_CRMXSxWU0</link>
       <guid isPermaLink="false">c_CRMXSxWU0</guid>
       <pubDate>Thu, 03 Sep 2026 11:45:20 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Özel’den bomba gibi Kılıçdaroğlu yanıtı! | Davutoğlu için soruşturma! | Ülkü Çoban ile Manşet Ötesi</description>
+    </item>
+    <item>
+      <title>Halk TV: SON DAKİKA! AKP İTİRAZ EDİNCE AKAN SULAR DURDU! Üsküdar seçimi yeniden yapılacak! Tarih belli oldu!</title>
+      <link>https://www.youtube.com/watch?v=EMsrobNjzEE</link>
+      <guid isPermaLink="false">EMsrobNjzEE</guid>
+      <pubDate>Thu, 03 Sep 2026 11:40:02 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! AKP İTİRAZ EDİNCE AKAN SULAR DURDU! Üsküdar seçimi yeniden yapılacak! Tarih belli oldu!</description>
     </item>
     <item>
       <title>Halk TV: FIRTINA KOPTU KOPACAK! Özgür Özel felç edecek o hamlesini bugün atıyor! Saray'da hesaplar şaşacak!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">UPkNtH9A1YY</guid>
       <pubDate>Thu, 03 Sep 2026 08:56:35 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Canım Şükran Soner-Zeynep Oral</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: İktidar borazanları-butlan kargaşaları-Bedri Baykam</title>
-      <link>https://www.youtube.com/watch?v=Y-pB0vB7yQc</link>
-      <guid isPermaLink="false">Y-pB0vB7yQc</guid>
-      <pubDate>Thu, 03 Sep 2026 08:56:33 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: İktidar borazanları-butlan kargaşaları-Bedri Baykam</description>
     </item>
   </channel>
 </rss>
