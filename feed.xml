@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 12:15:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 12:20:32 +0000</lastBuildDate>
     <item>
       <title>Halk TV: ÖLÜME BÖYLE GİTMİŞLER! Girne gemi faciasında son anlar böyle kaydedildi! İzlemeye yürek dayanmaz!</title>
       <link>https://www.youtube.com/watch?v=OcxZq65zYU4</link>
       <guid isPermaLink="false">OcxZq65zYU4</guid>
       <pubDate>Thu, 03 Sep 2026 12:10:27 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ÖLÜME BÖYLE GİTMİŞLER! Girne gemi faciasında son anlar böyle kaydedildi! İzlemeye yürek dayanmaz!</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: #CANLI Özgür Özel memleketi Manisa’da... Üzüm bağını ziyaret ediyor</title>
+      <link>https://www.youtube.com/watch?v=VvnH426iNqM</link>
+      <guid isPermaLink="false">VvnH426iNqM</guid>
+      <pubDate>Thu, 03 Sep 2026 12:09:37 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI Özgür Özel memleketi Manisa’da... Üzüm bağını ziyaret ediyor</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Hacıhaliller Mahallesi'nde Üzüm Bağını Ziyaret Ediyor!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">VJhlK0ZKBOg</guid>
       <pubDate>Thu, 03 Sep 2026 09:30:19 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Özgür Özel'den AKP'ye Ekrem İmamoğlu Resti! Gizli Tanık Dosyasındaki Şok Edici Gerçekleri Anlattı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Güller, Solmaztürk, Solakoğlu ile Türkiye'nin Yönü (03.09.2026)</title>
-      <link>https://www.youtube.com/watch?v=NccZioC4PZg</link>
-      <guid isPermaLink="false">NccZioC4PZg</guid>
-      <pubDate>Thu, 03 Sep 2026 09:13:52 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Güller, Solmaztürk, Solakoğlu ile Türkiye'nin Yönü (03.09.2026)</description>
     </item>
   </channel>
 </rss>
