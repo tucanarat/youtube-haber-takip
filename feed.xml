@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 14:01:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 14:05:31 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Serap Belovacıklı ile Haber Saati | 3 Eylül</title>
+      <link>https://www.youtube.com/watch?v=Qa1jZgKLssE</link>
+      <guid isPermaLink="false">Qa1jZgKLssE</guid>
+      <pubDate>Thu, 03 Sep 2026 14:02:04 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Serap Belovacıklı ile Haber Saati | 3 Eylül</description>
+    </item>
     <item>
       <title>Tele2 Haber: Özlem Çerçioğlu Şaşırtmadı: Ege'deki Başkanlar Arasında Son Sırada! Cemil Tugay da Düşüş Yaşıyor...</title>
       <link>https://www.youtube.com/watch?v=Bs3e4doZnQA</link>
       <guid isPermaLink="false">Bs3e4doZnQA</guid>
       <pubDate>Thu, 03 Sep 2026 14:00:36 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Özlem Çerçioğlu Şaşırtmadı: Ege'deki Başkanlar Arasında Son Sırada! Cemil Tugay da Düşüş Yaşıyor...</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Putin'i Delirtecek Hamle! Almanya Balistik Füzesini Test Etti! Avrupa Savaşa Hazırlanıyor!</title>
+      <link>https://www.youtube.com/watch?v=eHFFvgizhoM</link>
+      <guid isPermaLink="false">eHFFvgizhoM</guid>
+      <pubDate>Thu, 03 Sep 2026 14:00:08 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Putin'i Delirtecek Hamle! Almanya Balistik Füzesini Test Etti! Avrupa Savaşa Hazırlanıyor!</description>
     </item>
     <item>
       <title>Halk TV: SON DAKİKA! GÜNÜN BOMBASI ANKARA'DA BÜYÜK SES GETİRDİ! Ahmet Davutoğlu, o tarihte ifadeye çağrıldı!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">zZ3kDLKVBhg</guid>
       <pubDate>Thu, 03 Sep 2026 11:17:02 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Yapılanlar ve yapılmayanlar-Ali Apaydın</description>
-    </item>
-    <item>
-      <title>Halk TV: "ÖLÜMÜMÜ MÜ BEKLİYORSUNUZ!" İBB davasında duruşmaya damga vuran sözler! Bu isyan yürek sızlatır!</title>
-      <link>https://www.youtube.com/watch?v=eFqbN69qkFI</link>
-      <guid isPermaLink="false">eFqbN69qkFI</guid>
-      <pubDate>Thu, 03 Sep 2026 11:15:21 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: "ÖLÜMÜMÜ MÜ BEKLİYORSUNUZ!" İBB davasında duruşmaya damga vuran sözler! Bu isyan yürek sızlatır!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: #CANLI İBB DAVASINDA 75. GÜN! SİLİVRİ’DE NELER OLUYOR?</title>
-      <link>https://www.youtube.com/watch?v=ZCWV-ijy1PE</link>
-      <guid isPermaLink="false">ZCWV-ijy1PE</guid>
-      <pubDate>Thu, 03 Sep 2026 11:11:10 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI İBB DAVASINDA 75. GÜN! SİLİVRİ’DE NELER OLUYOR?</description>
     </item>
   </channel>
 </rss>
