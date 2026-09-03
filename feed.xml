@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 15:40:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 15:45:31 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: #CANLI İBB davasında 75. gün! Silivri’de neler oluyor?</title>
+      <link>https://www.youtube.com/watch?v=Wc4RogcH_0E</link>
+      <guid isPermaLink="false">Wc4RogcH_0E</guid>
+      <pubDate>Thu, 03 Sep 2026 15:44:37 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI İBB davasında 75. gün! Silivri’de neler oluyor?</description>
+    </item>
+    <item>
+      <title>Halk TV: SIKI DURUN! Akaryakıta tarihi zam geliyor! Motorinin fiyatı 90 TL'yi aşacak! Cepleri fena yakacak!</title>
+      <link>https://www.youtube.com/watch?v=7tFi1FDWYEI</link>
+      <guid isPermaLink="false">7tFi1FDWYEI</guid>
+      <pubDate>Thu, 03 Sep 2026 15:40:04 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SIKI DURUN! Akaryakıta tarihi zam geliyor! Motorinin fiyatı 90 TL'yi aşacak! Cepleri fena yakacak!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Özgür Özel'den İsmail Küçükkaya'ya Tarihi Açıklamalar: Erdoğan, İmamoğlu, Gökçekler, Kılıçdaroğlu</title>
       <link>https://www.youtube.com/watch?v=zmk1GxRpoko</link>
@@ -190,13 +204,6 @@
       <description>Halk TV kanalından yeni video: UYUYAN KAPTAN FACİA GETİRMİŞ! Silivri'deki gemi kazasında bilirkişi raporu açıklandı! Şok tespitler!</description>
     </item>
     <item>
-      <title>Cumhuriyet: #CANLI İBB davasında 75. gün! Silivri’de neler oluyor?</title>
-      <link>https://www.youtube.com/watch?v=Wc4RogcH_0E</link>
-      <guid isPermaLink="false">Wc4RogcH_0E</guid>
-      <pubDate>Thu, 03 Sep 2026 14:04:26 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI İBB davasında 75. gün! Silivri’de neler oluyor?</description>
-    </item>
-    <item>
       <title>SÖZCÜ TV: Serap Belovacıklı ile Haber Saati | 3 Eylül</title>
       <link>https://www.youtube.com/watch?v=Qa1jZgKLssE</link>
       <guid isPermaLink="false">Qa1jZgKLssE</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">7SyEYaTxrDY</guid>
       <pubDate>Thu, 03 Sep 2026 12:56:27 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Özgür Özel’den çiftçilere alım garantisi sözü</description>
-    </item>
-    <item>
-      <title>Halk TV: KILIÇDAROĞLU İYİCE DİBE BATTI! CHP'li başkanlardan öyle bir çalım geldi ki! Genel Merkez karıştı!</title>
-      <link>https://www.youtube.com/watch?v=7vocru3r3kM</link>
-      <guid isPermaLink="false">7vocru3r3kM</guid>
-      <pubDate>Thu, 03 Sep 2026 12:55:02 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KILIÇDAROĞLU İYİCE DİBE BATTI! CHP'li başkanlardan öyle bir çalım geldi ki! Genel Merkez karıştı!</description>
     </item>
   </channel>
 </rss>
