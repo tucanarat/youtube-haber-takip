@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 18:05:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 18:10:33 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: Murat Taylan: Özgür Özel, Kılıçdaroğlu'na 'Bana elini uzatma' diyor!</title>
       <link>https://www.youtube.com/watch?v=aL4uGsxz_do</link>
       <guid isPermaLink="false">aL4uGsxz_do</guid>
       <pubDate>Thu, 03 Sep 2026 18:00:24 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Murat Taylan: Özgür Özel, Kılıçdaroğlu'na 'Bana elini uzatma' diyor!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Sözcü Melih Gökçek Dosyasını Açtı | Barış Terkoğlu &amp; Murat Ağırel &amp; İsmail Saymaz</title>
+      <link>https://www.youtube.com/watch?v=Ey8t3k_lwmI</link>
+      <guid isPermaLink="false">Ey8t3k_lwmI</guid>
+      <pubDate>Thu, 03 Sep 2026 18:00:11 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Sözcü Melih Gökçek Dosyasını Açtı | Barış Terkoğlu &amp; Murat Ağırel &amp; İsmail Saymaz</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: "Cumhurbaşkanı Olmasın Diye İddianame Yazmışlar!" İBB Davasında Çarpıcı Karar! İmamoğlu Esti Gürledi</title>
+      <link>https://www.youtube.com/watch?v=S1AI5cIR21w</link>
+      <guid isPermaLink="false">S1AI5cIR21w</guid>
+      <pubDate>Thu, 03 Sep 2026 18:00:11 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: "Cumhurbaşkanı Olmasın Diye İddianame Yazmışlar!" İBB Davasında Çarpıcı Karar! İmamoğlu Esti Gürledi</description>
     </item>
     <item>
       <title>Halk TV: ŞOK AÇIKLAMA! CHP'den AKP'ye Geçmişti! "Hizmet için geçtim." dedi! Bu sözler bakın neyin itirafıydı!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">kCK-_7m-TZw</guid>
       <pubDate>Thu, 03 Sep 2026 14:54:44 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | Gizem Çetin ile Parantez</description>
-    </item>
-    <item>
-      <title>Halk TV: Ümit Özdağ'dan Muharrem İnce'ye tepki: İnsanın kurduğu partiden kaçmaması ciddi bir iştir!</title>
-      <link>https://www.youtube.com/shorts/groIzv9Wecg</link>
-      <guid isPermaLink="false">groIzv9Wecg</guid>
-      <pubDate>Thu, 03 Sep 2026 14:45:23 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ümit Özdağ'dan Muharrem İnce'ye tepki: İnsanın kurduğu partiden kaçmaması ciddi bir iştir!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: ABD’de lobi ve F35 gelişmeleri neler? Cumhuriyet yazarı Yılmaz Polat Washington’tan aktardı.</title>
-      <link>https://www.youtube.com/watch?v=OY_eAVIsO1A</link>
-      <guid isPermaLink="false">OY_eAVIsO1A</guid>
-      <pubDate>Thu, 03 Sep 2026 14:43:51 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: ABD’de lobi ve F35 gelişmeleri neler? Cumhuriyet yazarı Yılmaz Polat Washington’tan aktardı.</description>
     </item>
   </channel>
 </rss>
