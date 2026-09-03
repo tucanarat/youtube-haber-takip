@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 16:00:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 16:05:37 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Özlem Gürses'ten Kediye Tekme Atan Şahsa Tokat Gibi Sözler: "Cennetlik Olan Kedi"</title>
+      <link>https://www.youtube.com/watch?v=zfLv2ugoHVk</link>
+      <guid isPermaLink="false">zfLv2ugoHVk</guid>
+      <pubDate>Thu, 03 Sep 2026 16:00:28 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses'ten Kediye Tekme Atan Şahsa Tokat Gibi Sözler: "Cennetlik Olan Kedi"</description>
+    </item>
     <item>
       <title>Halk TV: GÖZLER SİLİVRİ'DE... Tahliye edilecek isimler arasında Ekrem İmamoğlu da yer alacak mı?</title>
       <link>https://www.youtube.com/watch?v=RgC29bgXFRo</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">FqDlatKQCHs</guid>
       <pubDate>Thu, 03 Sep 2026 13:00:14 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "İzmir'de 7 CHP'li Belediye Başkanı Var 5'i Karşılamaya Gelmemiş!" Semih Turan Butlancıları Üzecek!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Hacıhaliller Mahallesi'nde köy kahvesi ziyaret ediyor</title>
-      <link>https://www.youtube.com/watch?v=xO-MEwgMQgM</link>
-      <guid isPermaLink="false">xO-MEwgMQgM</guid>
-      <pubDate>Thu, 03 Sep 2026 12:59:28 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Hacıhaliller Mahallesi'nde köy kahvesi ziyaret ediyor</description>
     </item>
   </channel>
 </rss>
