@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 18:45:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 18:50:33 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Timur Soykan Erdoğan'ın İmamoğlu Planını Anlattı! Sandıksız Seçim Kazanma Oyunu mu?</title>
+      <link>https://www.youtube.com/watch?v=Z6K7Ci9CwOo</link>
+      <guid isPermaLink="false">Z6K7Ci9CwOo</guid>
+      <pubDate>Thu, 03 Sep 2026 18:40:05 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Timur Soykan Erdoğan'ın İmamoğlu Planını Anlattı! Sandıksız Seçim Kazanma Oyunu mu?</description>
+    </item>
     <item>
       <title>Halk TV: "AMEDSPOR" ARAŞTIRMASINI BEĞENMEDİ! Devlet Bahçeli’den 19 ildeki anket sonrası sert sözler!</title>
       <link>https://www.youtube.com/watch?v=D5ZGSgN0cfI</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">4_BVomLFIZA</guid>
       <pubDate>Thu, 03 Sep 2026 15:00:15 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Ümit Özdağ'dan Muharrem İnce'ye çok sert CHP göndermesi: Kendi kişisel kariyeriniz için...</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Melih Gökçek Dosyasıyla İlgili Her Şey | İsmail Saymaz, Barış Terkoğlu, Murat Ağırel, Saygı Öztürk</title>
-      <link>https://www.youtube.com/watch?v=YfarHJL2LwA</link>
-      <guid isPermaLink="false">YfarHJL2LwA</guid>
-      <pubDate>Thu, 03 Sep 2026 15:00:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Melih Gökçek Dosyasıyla İlgili Her Şey | İsmail Saymaz, Barış Terkoğlu, Murat Ağırel, Saygı Öztürk</description>
     </item>
   </channel>
 </rss>
