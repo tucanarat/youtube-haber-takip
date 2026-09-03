@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 21:10:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 21:15:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SON DAKİKA! ÖZGÜR ÇELİK'TEN VATANDAŞA ÇAĞRI! "Yarın Üsküdar Belediyesi önünde buluşalım!"</title>
+      <link>https://www.youtube.com/watch?v=6IRvrXMw9xw</link>
+      <guid isPermaLink="false">6IRvrXMw9xw</guid>
+      <pubDate>Thu, 03 Sep 2026 21:09:31 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! ÖZGÜR ÇELİK'TEN VATANDAŞA ÇAĞRI! "Yarın Üsküdar Belediyesi önünde buluşalım!"</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Turhan Çömez'den Çarpıcı Melih Gökçek İddiası! İktidarın Gizli Planı İfşa Oldu! Eski Defter Açıldı</title>
       <link>https://www.youtube.com/watch?v=TBFUkiG9WFc</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">_hHZ6rkjR90</guid>
       <pubDate>Thu, 03 Sep 2026 17:30:10 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Davutoğlu'na 'Cumhurbaşkanı'na hakaret' soruşturması! Murat Taylan Bahçeli'nin sözlerini hatırlattı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Özlem Gürses Silivri'deki Gemi Kazasına İsyan Etti: "Gözcüyü Bırak Kaptanın Kendisi Yokmuş"</title>
-      <link>https://www.youtube.com/watch?v=aILSMItKjg0</link>
-      <guid isPermaLink="false">aILSMItKjg0</guid>
-      <pubDate>Thu, 03 Sep 2026 17:20:39 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses Silivri'deki Gemi Kazasına İsyan Etti: "Gözcüyü Bırak Kaptanın Kendisi Yokmuş"</description>
     </item>
   </channel>
 </rss>
