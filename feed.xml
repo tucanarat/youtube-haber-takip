@@ -6,13 +6,34 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 07:50:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 07:55:26 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Yeni Parti Lideri Özgür Özel İsmail Küçükkaya'nın Sorularını Yanıtladı!</title>
+      <link>https://www.youtube.com/watch?v=1qgxA7nURnI</link>
+      <guid isPermaLink="false">1qgxA7nURnI</guid>
+      <pubDate>Thu, 03 Sep 2026 07:55:14 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Yeni Parti Lideri Özgür Özel İsmail Küçükkaya'nın Sorularını Yanıtladı!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Özgür Özel İsmail Küçükkaya'ya Erdoğan'ı Yenecek Planı Anlattı! Seçim Hamlesi Çok Konuşulur</title>
+      <link>https://www.youtube.com/watch?v=ZZOzmDkm3Lc</link>
+      <guid isPermaLink="false">ZZOzmDkm3Lc</guid>
+      <pubDate>Thu, 03 Sep 2026 07:50:10 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Özgür Özel İsmail Küçükkaya'ya Erdoğan'ı Yenecek Planı Anlattı! Seçim Hamlesi Çok Konuşulur</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Zafer Partisi Genel Başkanı Ümit Özdağ, parti genel merkezinde basın toplantısı düzenliyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=kKs72MrdnqU</link>
       <guid isPermaLink="false">kKs72MrdnqU</guid>
       <pubDate>Thu, 03 Sep 2026 07:48:07 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Zafer Partisi Genel Başkanı Ümit Özdağ, parti genel merkezinde basın toplantısı düzenliyor #Canlı</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Görevden uzaklaştırılan Zeydan Karalar konuştu: "Biz Avrupa'nın çöplüğü değiliz"</title>
+      <link>https://www.youtube.com/watch?v=EmV9IiLJF-I</link>
+      <guid isPermaLink="false">EmV9IiLJF-I</guid>
+      <pubDate>Thu, 03 Sep 2026 07:47:45 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Görevden uzaklaştırılan Zeydan Karalar konuştu: "Biz Avrupa'nın çöplüğü değiliz"</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | Butlan Kararı İle Göreve Gelen CHP Genel Başkanı Kılıçdaroğlu İzmir'de!</title>
@@ -34,6 +55,13 @@
       <guid isPermaLink="false">ovqKMXNfTy8</guid>
       <pubDate>Thu, 03 Sep 2026 07:45:00 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkanı Kemal Kılıçdaroğlu, İzmir'in Buca ilçesinde Kaynaklar Köyü’nden ayrılıyor #Canlı</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Eğitim-İş'ten MEB'e atama tepkisi: Plansızlığın bedeli öğretmene ödetilemez</title>
+      <link>https://www.youtube.com/watch?v=U390EkpgErA</link>
+      <guid isPermaLink="false">U390EkpgErA</guid>
+      <pubDate>Thu, 03 Sep 2026 07:41:39 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Eğitim-İş'ten MEB'e atama tepkisi: Plansızlığın bedeli öğretmene ödetilemez</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Kemal Kılıçdaroğlu, İzmir'in Buca ilçesinde Kaynaklar Köyü’nde köy halkıyla bir araya geldi</title>
@@ -183,13 +211,6 @@
       <description>SÖZCÜ TV kanalından yeni video: Bacaya Düşen Kediyi Kurtarma Operasyonu! #shorts</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: Yeni Parti Lideri Özgür Özel İsmail Küçükkaya'nın Sorularını Yanıtladı!</title>
-      <link>https://www.youtube.com/watch?v=1qgxA7nURnI</link>
-      <guid isPermaLink="false">1qgxA7nURnI</guid>
-      <pubDate>Thu, 03 Sep 2026 05:22:14 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Yeni Parti Lideri Özgür Özel İsmail Küçükkaya'nın Sorularını Yanıtladı!</description>
-    </item>
-    <item>
       <title>Halk TV: Süheyla Demir ile Günaydın Türkiye (3 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=0eCLuhkHQk8</link>
       <guid isPermaLink="false">0eCLuhkHQk8</guid>
@@ -295,11 +316,11 @@
       <description>SÖZCÜ TV kanalından yeni video: Can Coşkun ile Gündem Masası</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: #CANLI İsmail Küçükkaya ile Günaydın Türkiyem</title>
+      <title>SÖZCÜ TV: İsmail Küçükkaya ile Günaydın Türkiyem | 3 Eylül</title>
       <link>https://www.youtube.com/watch?v=jKeJTUZERVY</link>
       <guid isPermaLink="false">jKeJTUZERVY</guid>
       <pubDate>Wed, 02 Sep 2026 22:24:57 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: #CANLI İsmail Küçükkaya ile Günaydın Türkiyem</description>
+      <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya ile Günaydın Türkiyem | 3 Eylül</description>
     </item>
     <item>
       <title>Halk TV: Kürşad Oğuz ile Rota (2 Eylül 2026)</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">N6XvJVnLFOo</guid>
       <pubDate>Wed, 02 Sep 2026 21:55:37 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Özel’in yeni yol haritasına Akif Beki’den dikkat çeken yorum!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Sahte Kaptan ve İhmaller! Filo Jet Faciasının Kan Donduran Perde Arkasını İsmail Saymaz Anlattı</title>
-      <link>https://www.youtube.com/watch?v=tEBw4FdIYb4</link>
-      <guid isPermaLink="false">tEBw4FdIYb4</guid>
-      <pubDate>Wed, 02 Sep 2026 21:50:28 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Sahte Kaptan ve İhmaller! Filo Jet Faciasının Kan Donduran Perde Arkasını İsmail Saymaz Anlattı</description>
-    </item>
-    <item>
-      <title>Halk TV: “PARANIN ÜZERİNDE İMZASI OLAN ADAM...” Turhan Çömez o iddiaları tek tek anlattı!</title>
-      <link>https://www.youtube.com/watch?v=jw_vfaBnN9E</link>
-      <guid isPermaLink="false">jw_vfaBnN9E</guid>
-      <pubDate>Wed, 02 Sep 2026 21:40:25 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: “PARANIN ÜZERİNDE İMZASI OLAN ADAM...” Turhan Çömez o iddiaları tek tek anlattı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Barış Terkoğlu İfşa Etti: İdris Naim Şahin Dosyasında Şok FETÖ Gerçekleri!</title>
-      <link>https://www.youtube.com/watch?v=B9jGvCk3hDA</link>
-      <guid isPermaLink="false">B9jGvCk3hDA</guid>
-      <pubDate>Wed, 02 Sep 2026 21:30:17 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Barış Terkoğlu İfşa Etti: İdris Naim Şahin Dosyasında Şok FETÖ Gerçekleri!</description>
     </item>
   </channel>
 </rss>
