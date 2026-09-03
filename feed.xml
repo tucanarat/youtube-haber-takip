@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 12:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 12:30:51 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: MSB'DEN ANKARA'YI HAREKETLENDİREN AÇIKLAMA! SDG mensupları Türkiye'ye mi gelecek? İşte yanıtı!</title>
+      <link>https://www.youtube.com/watch?v=MFV92j8brqQ</link>
+      <guid isPermaLink="false">MFV92j8brqQ</guid>
+      <pubDate>Thu, 03 Sep 2026 12:25:27 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: MSB'DEN ANKARA'YI HAREKETLENDİREN AÇIKLAMA! SDG mensupları Türkiye'ye mi gelecek? İşte yanıtı!</description>
+    </item>
+    <item>
+      <title>Halk TV: Memleketi Manisa'ya giden Özgür Özel çocukluk arkadaşıyla karşılaştı!</title>
+      <link>https://www.youtube.com/shorts/h7Zhl4f5MDc</link>
+      <guid isPermaLink="false">h7Zhl4f5MDc</guid>
+      <pubDate>Thu, 03 Sep 2026 12:23:45 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Memleketi Manisa'ya giden Özgür Özel çocukluk arkadaşıyla karşılaştı!</description>
+    </item>
     <item>
       <title>Halk TV: ÖLÜME BÖYLE GİTMİŞLER! Girne gemi faciasında son anlar böyle kaydedildi! İzlemeye yürek dayanmaz!</title>
       <link>https://www.youtube.com/watch?v=OcxZq65zYU4</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">MlHw4zeT3u8</guid>
       <pubDate>Thu, 03 Sep 2026 09:33:02 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Davutoğlu'na "Cumhurbaşkanı'na Hakaret" Soruşturması! "5 Müteahhite Türkiye'yi Peşkeş Çekti!"</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! ACI HABER GELDİ! Başakşehir'de göçük altında kalan bir işçi hayatını kaybetti!</title>
-      <link>https://www.youtube.com/watch?v=SX_YFvey6Oo</link>
-      <guid isPermaLink="false">SX_YFvey6Oo</guid>
-      <pubDate>Thu, 03 Sep 2026 09:30:33 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! ACI HABER GELDİ! Başakşehir'de göçük altında kalan bir işçi hayatını kaybetti!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Özgür Özel'den AKP'ye Ekrem İmamoğlu Resti! Gizli Tanık Dosyasındaki Şok Edici Gerçekleri Anlattı</title>
-      <link>https://www.youtube.com/watch?v=VJhlK0ZKBOg</link>
-      <guid isPermaLink="false">VJhlK0ZKBOg</guid>
-      <pubDate>Thu, 03 Sep 2026 09:30:19 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Özgür Özel'den AKP'ye Ekrem İmamoğlu Resti! Gizli Tanık Dosyasındaki Şok Edici Gerçekleri Anlattı</description>
     </item>
   </channel>
 </rss>
