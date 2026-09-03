@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 20:10:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 20:15:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Özgür Özel’den çiftçiye büyük vaat! “Tarım kredilerinin faizlerini sileceğiz!” #shorts</title>
+      <link>https://www.youtube.com/shorts/YDVP8NMcTQs</link>
+      <guid isPermaLink="false">YDVP8NMcTQs</guid>
+      <pubDate>Thu, 03 Sep 2026 20:11:26 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Özgür Özel’den çiftçiye büyük vaat! “Tarım kredilerinin faizlerini sileceğiz!” #shorts</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Senem Toluay Ilgaz ile Öncesi Sonrası Gece | Barış Terkoğlu &amp; Timur Soykan | 3 Eylül</title>
       <link>https://www.youtube.com/watch?v=2E8UdT9HDTg</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">SYfk_AdGJGI</guid>
       <pubDate>Thu, 03 Sep 2026 16:30:29 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Ekrem İmamoğlu Akın Gürlek'e Meydan Okudu! "En Büyük Cellatlık!" Silivri'de Yeri Göğü İnletti</description>
-    </item>
-    <item>
-      <title>Halk TV: CANLI | Marmara Denizi açıklarında kazaya karışan ALSU isimli ticari gemi, Silivri'de bekliyor</title>
-      <link>https://www.youtube.com/watch?v=wQG4bsj2VZw</link>
-      <guid isPermaLink="false">wQG4bsj2VZw</guid>
-      <pubDate>Thu, 03 Sep 2026 16:26:01 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: CANLI | Marmara Denizi açıklarında kazaya karışan ALSU isimli ticari gemi, Silivri'de bekliyor</description>
     </item>
   </channel>
 </rss>
