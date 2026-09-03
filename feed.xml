@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 23:05:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 23:10:31 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Radar Görüntüleri Sızdı! İhmaller Zinciri Çöktü! Kaptanlar Tutuklandı! Sır Perdesi Aralandı</title>
+      <link>https://www.youtube.com/watch?v=HQsyvqOUG3c</link>
+      <guid isPermaLink="false">HQsyvqOUG3c</guid>
+      <pubDate>Thu, 03 Sep 2026 23:00:07 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Radar Görüntüleri Sızdı! İhmaller Zinciri Çöktü! Kaptanlar Tutuklandı! Sır Perdesi Aralandı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Süheyl Batum'dan Çarpıcı Cem Küçük ve Süleyman Soylu Çıkışı! İktidar İçi Güç Savaşını Deşifre Etti</title>
       <link>https://www.youtube.com/watch?v=JGv8_Ljt1g8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">OA_Q7YcVdpA</guid>
       <pubDate>Thu, 03 Sep 2026 18:45:26 +0000</pubDate>
       <description>Halk TV kanalından yeni video: “ÜSKÜDAR’I BÖYLE ELE GEÇİRMEK...” Özgür Özel’den Erdoğan’a olay olacak çıkış!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Timur Soykan Erdoğan'ın İmamoğlu Planını Anlattı! Sandıksız Seçim Kazanma Oyunu mu?</title>
-      <link>https://www.youtube.com/watch?v=Z6K7Ci9CwOo</link>
-      <guid isPermaLink="false">Z6K7Ci9CwOo</guid>
-      <pubDate>Thu, 03 Sep 2026 18:40:05 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Timur Soykan Erdoğan'ın İmamoğlu Planını Anlattı! Sandıksız Seçim Kazanma Oyunu mu?</description>
     </item>
   </channel>
 </rss>
