@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 17:45:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 17:50:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: MANİSA'DA YER GÖK İNLEDİ! Özgür Özel'in sözleri çok can yakacak! AKP ve CHP hesabını şimdi yapsın!</title>
+      <link>https://www.youtube.com/watch?v=EzVLO0atGSE</link>
+      <guid isPermaLink="false">EzVLO0atGSE</guid>
+      <pubDate>Fri, 04 Sep 2026 17:45:06 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: MANİSA'DA YER GÖK İNLEDİ! Özgür Özel'in sözleri çok can yakacak! AKP ve CHP hesabını şimdi yapsın!</description>
+    </item>
     <item>
       <title>Tele2 Haber: BÜLENT MUMAY'DAN ÇOK KRİTİK MELİH GÖKÇEK HATIRLATMASI!</title>
       <link>https://www.youtube.com/shorts/wlGgjlY6nFI</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">MPwPE7JrltU</guid>
       <pubDate>Fri, 04 Sep 2026 15:15:20 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: CANKURTARAN SİSTEMİ İLE İLGİLİ NE BİLİYORUZ? Korkunç detayı Rasıh Reşat aktardı!</description>
-    </item>
-    <item>
-      <title>Halk TV: AKP'NİN BÜYÜK TEZGAHI PATLADI! Sertaç Eş öyle bir hamlenin haberini verdi ki! Ortalık yanıp yıkılır!</title>
-      <link>https://www.youtube.com/watch?v=h1ZKmBnRHMw</link>
-      <guid isPermaLink="false">h1ZKmBnRHMw</guid>
-      <pubDate>Fri, 04 Sep 2026 15:15:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: AKP'NİN BÜYÜK TEZGAHI PATLADI! Sertaç Eş öyle bir hamlenin haberini verdi ki! Ortalık yanıp yıkılır!</description>
     </item>
   </channel>
 </rss>
