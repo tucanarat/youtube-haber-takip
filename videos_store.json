@@ -28643,8 +28643,8 @@
     "id": "nd9oOW-UI-E",
     "title": "Damla Doğan Tuncel ile 1 Saat 4 Eylül",
     "link": "https://www.youtube.com/watch?v=nd9oOW-UI-E",
-    "published": "2026-09-03T22:19:40+00:00",
-    "published_ts": 1788473980,
+    "published": "2026-09-04T14:55:59+00:00",
+    "published_ts": 1788533759,
     "channel_name": "SÖZCÜ TV"
   },
   "V8zGMU-5gD8": {
@@ -28673,7 +28673,7 @@
   },
   "VjzJsJrnqgw": {
     "id": "VjzJsJrnqgw",
-    "title": "Özlem Gürses ile Sözcü Ana Haber",
+    "title": "#CANLI Özlem Gürses ile Sözcü Ana Haber",
     "link": "https://www.youtube.com/watch?v=VjzJsJrnqgw",
     "published": "2026-09-03T22:20:07+00:00",
     "published_ts": 1788474007,
@@ -29974,5 +29974,37 @@
     "published": "2026-09-04T14:50:30+00:00",
     "published_ts": 1788533430,
     "channel_name": "Halk TV"
+  },
+  "GS0kM67wPZA": {
+    "id": "GS0kM67wPZA",
+    "title": "#CANLI | YENİ Parti Genel Başkanı Özgür Özel, Süleymanpaşa Hükümet Caddesi'nde Esnaf Ziyaret Ediyor!",
+    "link": "https://www.youtube.com/watch?v=GS0kM67wPZA",
+    "published": "2026-09-04T14:57:11+00:00",
+    "published_ts": 1788533831,
+    "channel_name": "Halk TV"
+  },
+  "gdA1tg2ZkI4": {
+    "id": "gdA1tg2ZkI4",
+    "title": "Berhan Şimşek MYK'dan Ayrıldı, Deniz Göktaş'a Hapis Talebi | Bugün Ne Oldu?",
+    "link": "https://www.youtube.com/shorts/gdA1tg2ZkI4",
+    "published": "2026-09-04T14:57:56+00:00",
+    "published_ts": 1788533876,
+    "channel_name": "Halk TV"
+  },
+  "PA-CZeHPGQM": {
+    "id": "PA-CZeHPGQM",
+    "title": "#CANLI YENİ Parti Genel Başkanı Özgür Özel, Süleymanpaşa Hükümet Caddesi'nde esnaf ziyaret ediyor",
+    "link": "https://www.youtube.com/watch?v=PA-CZeHPGQM",
+    "published": "2026-09-04T14:57:21+00:00",
+    "published_ts": 1788533841,
+    "channel_name": "Tele2 Haber"
+  },
+  "WP7nRXGRaQg": {
+    "id": "WP7nRXGRaQg",
+    "title": "Melih Gökçek adliyeye sakız çiğneyerek geldi!",
+    "link": "https://www.youtube.com/shorts/WP7nRXGRaQg",
+    "published": "2026-09-04T14:56:17+00:00",
+    "published_ts": 1788533777,
+    "channel_name": "Tele2 Haber"
   }
 }
