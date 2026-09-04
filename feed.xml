@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 12:40:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 12:45:31 +0000</lastBuildDate>
     <item>
       <title>Halk TV: Özgür Özel: Yapacakları seçimle Üsküdar'a çökecekler!</title>
       <link>https://www.youtube.com/shorts/ghock-3Hlcw</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">QCaMfZwfDcA</guid>
       <pubDate>Fri, 04 Sep 2026 12:30:11 +0000</pubDate>
       <description>Halk TV kanalından yeni video: TÜM GÖZLER ANKARA'DA! Melih Gökçek savcı karşısında ifade verecek! Dilan Altürk detayları anlattı!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Barış Terkoğlu Belgelerle Konuştu | Cem Küçük, Adnan Oktar, İmamoğlu, Mafya, Süleymancılar</title>
+      <link>https://www.youtube.com/watch?v=2z5Fo9mbt9A</link>
+      <guid isPermaLink="false">2z5Fo9mbt9A</guid>
+      <pubDate>Fri, 04 Sep 2026 12:30:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Barış Terkoğlu Belgelerle Konuştu | Cem Küçük, Adnan Oktar, İmamoğlu, Mafya, Süleymancılar</description>
     </item>
     <item>
       <title>Cumhuriyet: Şükran Soner’in ardından...-Özlem Yüzak</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ONqk8Kb6dkc</guid>
       <pubDate>Fri, 04 Sep 2026 09:56:12 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Cevap ve düzeltme-Özdemir İnce</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | İrem Sansak ile Haber Masası</title>
-      <link>https://www.youtube.com/watch?v=PiY55uB1EdQ</link>
-      <guid isPermaLink="false">PiY55uB1EdQ</guid>
-      <pubDate>Fri, 04 Sep 2026 09:55:52 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | İrem Sansak ile Haber Masası</description>
     </item>
   </channel>
 </rss>
