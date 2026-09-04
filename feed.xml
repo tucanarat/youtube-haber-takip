@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 17:20:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 17:25:24 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | YENİ Partili yetkililer Üsküdar Belediyesi önünde açıklama yapıyor!</title>
+      <link>https://www.youtube.com/watch?v=PpFDTtPsKwg</link>
+      <guid isPermaLink="false">PpFDTtPsKwg</guid>
+      <pubDate>Fri, 04 Sep 2026 17:20:47 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | YENİ Partili yetkililer Üsküdar Belediyesi önünde açıklama yapıyor!</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI YENİ Partili yetkililer Üsküdar Belediyesi önünde açıklama yapıyor  / İstanbul #Canlı</title>
       <link>https://www.youtube.com/watch?v=p4SPPWSm3-Q</link>
       <guid isPermaLink="false">p4SPPWSm3-Q</guid>
       <pubDate>Fri, 04 Sep 2026 17:19:38 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Partili yetkililer Üsküdar Belediyesi önünde açıklama yapıyor  / İstanbul #Canlı</description>
+    </item>
+    <item>
+      <title>Halk TV: Melih Gökçek AKP için bir 'yol temizliği' mi? Yaşar Aydın iktidarın planını anlattı! Olay sözler!</title>
+      <link>https://www.youtube.com/watch?v=6fRo-kfTt2U</link>
+      <guid isPermaLink="false">6fRo-kfTt2U</guid>
+      <pubDate>Fri, 04 Sep 2026 17:15:01 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Melih Gökçek AKP için bir 'yol temizliği' mi? Yaşar Aydın iktidarın planını anlattı! Olay sözler!</description>
     </item>
     <item>
       <title>Tele2 Haber: MURAT TAYLAN'DAN BUTLAN CHP'SİNE BERHAN ŞİMŞEK HATIRLATMASI!</title>
@@ -120,11 +134,11 @@
       <description>ANKA Haber Ajansı kanalından yeni video: YENİ Partili yetkililer Üsküdar Belediyesi önünde açıklama yapıyor  / İstanbul #Canlı</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: Özlem Gürses'i Hiç Böyle Görmediniz! Berhan Şimşek'in Şiddet Görüntülerini Yerden Yere Vurdu</title>
+      <title>SÖZCÜ TV: Özlem Gürses'i Hiç Böyle Görmediniz! Berhan Şimşek'in Görüntülerini Yerden Yere Vurdu</title>
       <link>https://www.youtube.com/watch?v=aLOZyQVPahM</link>
       <guid isPermaLink="false">aLOZyQVPahM</guid>
       <pubDate>Fri, 04 Sep 2026 16:40:28 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses'i Hiç Böyle Görmediniz! Berhan Şimşek'in Şiddet Görüntülerini Yerden Yere Vurdu</description>
+      <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses'i Hiç Böyle Görmediniz! Berhan Şimşek'in Görüntülerini Yerden Yere Vurdu</description>
     </item>
     <item>
       <title>Tele2 Haber: Osman Gökçek'ten babasının sakızı açıklaması! Murat Taylan Melih Gökçek'teki kaygıya işaret etti!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">nd9oOW-UI-E</guid>
       <pubDate>Fri, 04 Sep 2026 14:55:59 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Damla Doğan Tuncel ile 1 Saat 4 Eylül</description>
-    </item>
-    <item>
-      <title>Halk TV: Gizem Çetin ile Parantez (4 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=5aBk9HB_IEI</link>
-      <guid isPermaLink="false">5aBk9HB_IEI</guid>
-      <pubDate>Fri, 04 Sep 2026 14:54:10 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Gizem Çetin ile Parantez (4 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Kıbrıs açıklarında batan gemide asıl sorumluluk zinciri nerede başlıyor? Rasıh Reşat yorumladı...</title>
-      <link>https://www.youtube.com/watch?v=6tE55yWNEyA</link>
-      <guid isPermaLink="false">6tE55yWNEyA</guid>
-      <pubDate>Fri, 04 Sep 2026 14:45:27 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Kıbrıs açıklarında batan gemide asıl sorumluluk zinciri nerede başlıyor? Rasıh Reşat yorumladı...</description>
     </item>
   </channel>
 </rss>
