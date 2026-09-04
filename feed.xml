@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 23:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 23:25:27 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Zafer Partisi Genel Başkanı Ümit Özdağ, Eğitim İş Sendikası'nı ziyaret etti #Canlı</title>
+      <link>https://www.youtube.com/watch?v=KKG7nYBJSyo</link>
+      <guid isPermaLink="false">KKG7nYBJSyo</guid>
+      <pubDate>Fri, 04 Sep 2026 23:23:46 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Zafer Partisi Genel Başkanı Ümit Özdağ, Eğitim İş Sendikası'nı ziyaret etti #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: YENİ Parti Genel Başkanı Özgür Özel’e Süleymanpaşa’da coşkulu karşılama! #shorts</title>
       <link>https://www.youtube.com/shorts/ZsUCmf3XtCM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ERUhR734CGw</guid>
       <pubDate>Fri, 04 Sep 2026 19:10:20 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Murat Ağırel Melih Gökçek Arşivini Açtı! O İSİMLERİ ANLATTI! Ankara'da Neler Yapmışlar Neler</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #SONDAKİKA Oya Lale Özan Arslan tutuklandı! Hüsnü Mahalli'den sert tepki!</title>
-      <link>https://www.youtube.com/watch?v=1eNKl1Yq1fw</link>
-      <guid isPermaLink="false">1eNKl1Yq1fw</guid>
-      <pubDate>Fri, 04 Sep 2026 19:05:12 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #SONDAKİKA Oya Lale Özan Arslan tutuklandı! Hüsnü Mahalli'den sert tepki!</description>
     </item>
   </channel>
 </rss>
