@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 11:05:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 11:10:28 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Çorlu Belediyesi önünde açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=JFfF4Zv3xDM</link>
+      <guid isPermaLink="false">JFfF4Zv3xDM</guid>
+      <pubDate>Fri, 04 Sep 2026 11:07:26 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Çorlu Belediyesi önünde açıklama yapıyor #Canlı</description>
+    </item>
     <item>
       <title>Cumhuriyet: #CANLI Özgür Özel Çorlu’da: Cuma namazının ardından flaş açıklamalar</title>
       <link>https://www.youtube.com/watch?v=iKbm20J4weA</link>
@@ -48,6 +55,13 @@
       <guid isPermaLink="false">NbcXLGUJ9Og</guid>
       <pubDate>Fri, 04 Sep 2026 10:57:28 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Kamu emekçilerinden 'enflasyon' çağrısı: Tarafsız bir kurul oluşturulmalı</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: Zafer Partisi Genel Başkanı Ümit Özdağ, Eğitim İş Sendikası'nı ziyaret etti #Canlı</title>
+      <link>https://www.youtube.com/watch?v=KKG7nYBJSyo</link>
+      <guid isPermaLink="false">KKG7nYBJSyo</guid>
+      <pubDate>Fri, 04 Sep 2026 10:55:43 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Zafer Partisi Genel Başkanı Ümit Özdağ, Eğitim İş Sendikası'nı ziyaret etti #Canlı</description>
     </item>
     <item>
       <title>Cumhuriyet: Kahramanmaraş'taki okul saldırısı davasında ilk duruşma: “Davayı sonuna kadar takip edeceğiz”</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">tcjErrYIfpE</guid>
       <pubDate>Fri, 04 Sep 2026 08:30:25 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: MANSUR YAVAŞ'I ADAY İSTİYORLAR! Erdoğan'ı Kızdıracak İttifak Senaryosu! Fatih Erbakan Hamlesi</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! KAHREDEN HABER GELDİ! Girne'de iki kişinin daha naaşına ulaşıldı! 16 kişi hala aranıyor!</title>
-      <link>https://www.youtube.com/watch?v=M5WF0UO-Kdg</link>
-      <guid isPermaLink="false">M5WF0UO-Kdg</guid>
-      <pubDate>Fri, 04 Sep 2026 08:30:16 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! KAHREDEN HABER GELDİ! Girne'de iki kişinin daha naaşına ulaşıldı! 16 kişi hala aranıyor!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Onur Öncü'den Ümit Özdağ'a "Provokasyon" Tepkisi!</title>
-      <link>https://www.youtube.com/shorts/TxoS5tpOW8A</link>
-      <guid isPermaLink="false">TxoS5tpOW8A</guid>
-      <pubDate>Fri, 04 Sep 2026 08:25:07 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Onur Öncü'den Ümit Özdağ'a "Provokasyon" Tepkisi!</description>
     </item>
   </channel>
 </rss>
