@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 12:00:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 12:05:23 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | ANKARA'DA NEFESLER TUTULDU! Melih Gökçek Savcı Karşısında İfade Verecek! İşte Gelişmeler...</title>
+      <link>https://www.youtube.com/watch?v=mQ_kOWjBWUc</link>
+      <guid isPermaLink="false">mQ_kOWjBWUc</guid>
+      <pubDate>Fri, 04 Sep 2026 12:04:33 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | ANKARA'DA NEFESLER TUTULDU! Melih Gökçek Savcı Karşısında İfade Verecek! İşte Gelişmeler...</description>
+    </item>
+    <item>
+      <title>Halk TV: TÜYLER ÜRPERTİR! Gülistan kaybolduktan tam '2 dakika' sonra gelen isim milyonları sarsar! Şok detay!</title>
+      <link>https://www.youtube.com/watch?v=ckb-toYfMJU</link>
+      <guid isPermaLink="false">ckb-toYfMJU</guid>
+      <pubDate>Fri, 04 Sep 2026 12:00:19 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: TÜYLER ÜRPERTİR! Gülistan kaybolduktan tam '2 dakika' sonra gelen isim milyonları sarsar! Şok detay!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Özgür Özel Çorlu'dan 'MUTLAK BUTLAN' yönetimine gönderme yaptı!</title>
       <link>https://www.youtube.com/watch?v=YsGSn9YG58s</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">KMm32FUXbA0</guid>
       <pubDate>Fri, 04 Sep 2026 09:24:37 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "16 Yaşında Tek Başına Hücrede!" DGD Üyesi Taşçı'dan Kuyu Tiplerinde İşkence ve Tecrit İddiası!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Emeğini korumak için gece boyu teyakkuzda: Manisa Ovası'nda eli tüfekli bağ nöbetçileri</title>
-      <link>https://www.youtube.com/shorts/5-vo5Kb1S58</link>
-      <guid isPermaLink="false">5-vo5Kb1S58</guid>
-      <pubDate>Fri, 04 Sep 2026 09:19:30 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Emeğini korumak için gece boyu teyakkuzda: Manisa Ovası'nda eli tüfekli bağ nöbetçileri</description>
-    </item>
-    <item>
-      <title>Halk TV: KAPTAN FACİAYI ÇAĞIRMIŞ! Silivri'deki gemi kazasında neler ortaya çıktı neler! Ağzınız açık kalacak!</title>
-      <link>https://www.youtube.com/watch?v=vc3dCOSZzic</link>
-      <guid isPermaLink="false">vc3dCOSZzic</guid>
-      <pubDate>Fri, 04 Sep 2026 09:15:05 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KAPTAN FACİAYI ÇAĞIRMIŞ! Silivri'deki gemi kazasında neler ortaya çıktı neler! Ağzınız açık kalacak!</description>
     </item>
   </channel>
 </rss>
