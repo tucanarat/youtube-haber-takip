@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 22:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 22:25:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Arif Ahmet Denizolgun’un doktoru Nurettin Demirkol tutuklandı! #shorts</title>
+      <link>https://www.youtube.com/shorts/WlRvYxQbX78</link>
+      <guid isPermaLink="false">WlRvYxQbX78</guid>
+      <pubDate>Fri, 04 Sep 2026 22:20:19 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Arif Ahmet Denizolgun’un doktoru Nurettin Demirkol tutuklandı! #shorts</description>
+    </item>
     <item>
       <title>Halk TV: Mustafa Topaloğlu’ndan dikkat çeken Amedspor açıklaması! #shorts</title>
       <link>https://www.youtube.com/shorts/rRAoqXU-BCw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">DuH8c490ZaU</guid>
       <pubDate>Fri, 04 Sep 2026 18:30:17 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Özgür Özel Tekirdağ'dan 'BUTLAN CHP'Sİ VE iktidara seslendi!</description>
-    </item>
-    <item>
-      <title>Halk TV: Önce Sinem Dedetaş tutuklandı... AKP, sandıkta kaybettiği Üsküdar'ı masa başında kazanma derdinde!</title>
-      <link>https://www.youtube.com/watch?v=DaE8PlqhY30</link>
-      <guid isPermaLink="false">DaE8PlqhY30</guid>
-      <pubDate>Fri, 04 Sep 2026 18:30:16 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Önce Sinem Dedetaş tutuklandı... AKP, sandıkta kaybettiği Üsküdar'ı masa başında kazanma derdinde!</description>
     </item>
   </channel>
 </rss>
