@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 21:50:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 21:55:28 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: UĞUR POYRAZ'DAN BÜLENT ARINÇ'A NET UYARI: "Bildiğin Suçu Bildirmemek...'</title>
       <link>https://www.youtube.com/watch?v=8iUM0WDuTsM</link>
       <guid isPermaLink="false">8iUM0WDuTsM</guid>
       <pubDate>Fri, 04 Sep 2026 21:50:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: UĞUR POYRAZ'DAN BÜLENT ARINÇ'A NET UYARI: "Bildiğin Suçu Bildirmemek...'</description>
+    </item>
+    <item>
+      <title>Halk TV: TBMM'DEKİ SAHTE PUSULA SKANDALINA SKANDAL AÇIKLAMA! Bekir Bozdağ bakın ne dedi?</title>
+      <link>https://www.youtube.com/watch?v=wCV7DOYhub0</link>
+      <guid isPermaLink="false">wCV7DOYhub0</guid>
+      <pubDate>Fri, 04 Sep 2026 21:45:17 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: TBMM'DEKİ SAHTE PUSULA SKANDALINA SKANDAL AÇIKLAMA! Bekir Bozdağ bakın ne dedi?</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Bahçeli'nin Saklanan Mesajı Sızdı! İşte Gizli Davutoğlu Planı! Suriye İran ve Ankara Üçgeni</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">PpFDTtPsKwg</guid>
       <pubDate>Fri, 04 Sep 2026 18:08:23 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | YENİ Partili yetkililer Üsküdar Belediyesi önünde açıklama yapıyor!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: MELİH GÖKÇEK'İN SAKIZLI MESAJI! | 'ÜSKÜDAR'A ÇÖKECEKLER' Murat Taylan ile Haber-Yorum (04.09.2026)</title>
-      <link>https://www.youtube.com/watch?v=9uyzcSe4wOA</link>
-      <guid isPermaLink="false">9uyzcSe4wOA</guid>
-      <pubDate>Fri, 04 Sep 2026 18:04:36 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: MELİH GÖKÇEK'İN SAKIZLI MESAJI! | 'ÜSKÜDAR'A ÇÖKECEKLER' Murat Taylan ile Haber-Yorum (04.09.2026)</description>
     </item>
   </channel>
 </rss>
