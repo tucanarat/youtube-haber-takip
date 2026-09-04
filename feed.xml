@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 08:45:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 08:50:39 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: TÜRKİYE'Yİ AYAĞA KALDIRACAK RAPOR! Silivri'deki faciada öyle şeyler ortaya çıktı ki! Meğer 3. gün...</title>
+      <link>https://www.youtube.com/watch?v=s4WQON1DMhY</link>
+      <guid isPermaLink="false">s4WQON1DMhY</guid>
+      <pubDate>Fri, 04 Sep 2026 08:45:16 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: TÜRKİYE'Yİ AYAĞA KALDIRACAK RAPOR! Silivri'deki faciada öyle şeyler ortaya çıktı ki! Meğer 3. gün...</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: MANSUR YAVAŞ'I ADAY İSTİYORLAR! Erdoğan'ı Kızdıracak İttifak Senaryosu! Fatih Erbakan Hamlesi</title>
       <link>https://www.youtube.com/watch?v=tcjErrYIfpE</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">cQ_15xigZP8</guid>
       <pubDate>Fri, 04 Sep 2026 00:17:19 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Dilovası faciasında yakınlarını kaybeden aileler Kocaeli SGK İl Müdürlüğü önünde açıklama yapıyor</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Suat Kılıç, partisinin genel merkezinde MYK toplantısı sonrası basın açıklaması yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=XCwjIsqGL_0</link>
-      <guid isPermaLink="false">XCwjIsqGL_0</guid>
-      <pubDate>Thu, 03 Sep 2026 23:27:59 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Suat Kılıç, partisinin genel merkezinde MYK toplantısı sonrası basın açıklaması yapıyor #Canlı</description>
     </item>
   </channel>
 </rss>
