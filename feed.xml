@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 12:10:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 12:15:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Almanya'dan patenle yola çıkan sporcu Mustafa Sağlam, 10 ülke geçerek İpsala'dan Türkiye'ye girdi!</title>
+      <link>https://www.youtube.com/shorts/TsPEhq8dC3o</link>
+      <guid isPermaLink="false">TsPEhq8dC3o</guid>
+      <pubDate>Fri, 04 Sep 2026 12:07:51 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Almanya'dan patenle yola çıkan sporcu Mustafa Sağlam, 10 ülke geçerek İpsala'dan Türkiye'ye girdi!</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | TÜM GÖZLER ANKARA'DA! Melih Gökçek Savcı Karşısında İfade Verecek! İşte Anbean Gelişmeler!</title>
       <link>https://www.youtube.com/watch?v=mQ_kOWjBWUc</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">jfyZJn9TAYU</guid>
       <pubDate>Fri, 04 Sep 2026 09:40:27 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Müslim Sarı Üsküdar Belediyesi’nde 4 belediye meclis üyesinin AK Parti’ye geçmesini eleştirdi</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: AKP'de Mıntıka Temizliği mi Başladı? Erdoğan Sonrasına Hazırlık! Melih Gökçek, Davutoğlu...</title>
-      <link>https://www.youtube.com/watch?v=4iJG4SixfE4</link>
-      <guid isPermaLink="false">4iJG4SixfE4</guid>
-      <pubDate>Fri, 04 Sep 2026 09:30:16 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: AKP'de Mıntıka Temizliği mi Başladı? Erdoğan Sonrasına Hazırlık! Melih Gökçek, Davutoğlu...</description>
     </item>
   </channel>
 </rss>
