@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 08:30:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 08:35:27 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: MANSUR YAVAŞ'I ADAY İSTİYORLAR! Erdoğan'ı Kızdıracak İttifak Senaryosu! Fatih Erbakan Hamlesi</title>
+      <link>https://www.youtube.com/watch?v=tcjErrYIfpE</link>
+      <guid isPermaLink="false">tcjErrYIfpE</guid>
+      <pubDate>Fri, 04 Sep 2026 08:30:25 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: MANSUR YAVAŞ'I ADAY İSTİYORLAR! Erdoğan'ı Kızdıracak İttifak Senaryosu! Fatih Erbakan Hamlesi</description>
+    </item>
     <item>
       <title>Tele2 Haber: Onur Öncü'den Ümit Özdağ'a "Provokasyon" Tepkisi!</title>
       <link>https://www.youtube.com/shorts/TxoS5tpOW8A</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">HQsyvqOUG3c</guid>
       <pubDate>Thu, 03 Sep 2026 23:00:07 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Radar Görüntüleri Sızdı! İhmaller Zinciri Çöktü! Alsu ve Tuğberk İmamoğlu Gemileri Neden Çarpıştı?</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Süheyl Batum'dan Çarpıcı Cem Küçük ve Süleyman Soylu Çıkışı! İktidar İçi Güç Savaşını Deşifre Etti</title>
-      <link>https://www.youtube.com/watch?v=JGv8_Ljt1g8</link>
-      <guid isPermaLink="false">JGv8_Ljt1g8</guid>
-      <pubDate>Thu, 03 Sep 2026 22:30:22 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Süheyl Batum'dan Çarpıcı Cem Küçük ve Süleyman Soylu Çıkışı! İktidar İçi Güç Savaşını Deşifre Etti</description>
     </item>
   </channel>
 </rss>
