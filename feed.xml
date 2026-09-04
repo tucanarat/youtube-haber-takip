@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 08:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 08:30:43 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: Onur Öncü'den Ümit Özdağ'a "Provokasyon" Tepkisi!</title>
       <link>https://www.youtube.com/shorts/TxoS5tpOW8A</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">A-sh_xzOIAQ</guid>
       <pubDate>Fri, 04 Sep 2026 08:23:12 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Ümit Özdağ, Türkiye Barolar Birliği Başkanı Erinç Sağkan'ı ziyaret etti #Canlı</description>
+    </item>
+    <item>
+      <title>Halk TV: KANINIZ DONACAK! İsa Aras Mersinli'nin babasının duruşmadaki sözleri pes dedirtti! Şoke olacaksınız!</title>
+      <link>https://www.youtube.com/watch?v=BIrtskfLfww</link>
+      <guid isPermaLink="false">BIrtskfLfww</guid>
+      <pubDate>Fri, 04 Sep 2026 08:22:04 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KANINIZ DONACAK! İsa Aras Mersinli'nin babasının duruşmadaki sözleri pes dedirtti! Şoke olacaksınız!</description>
     </item>
     <item>
       <title>Halk TV: CHP'nin Butlan Sözcüsü Müslim Sarı CHP İstanbul Üsküdar İlçe Başkanlığı’nda Konuştu!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">JGv8_Ljt1g8</guid>
       <pubDate>Thu, 03 Sep 2026 22:30:22 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Süheyl Batum'dan Çarpıcı Cem Küçük ve Süleyman Soylu Çıkışı! İktidar İçi Güç Savaşını Deşifre Etti</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Özlem Gürses ile Sözcü Ana Haber</title>
-      <link>https://www.youtube.com/watch?v=VjzJsJrnqgw</link>
-      <guid isPermaLink="false">VjzJsJrnqgw</guid>
-      <pubDate>Thu, 03 Sep 2026 22:20:07 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses ile Sözcü Ana Haber</description>
     </item>
   </channel>
 </rss>
