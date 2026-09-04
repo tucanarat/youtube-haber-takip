@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 20:10:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 20:15:29 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: AKP'de Davutoğlu Alarmı! Murat Ağırel'den Bomba Kulis! "Birilerini Rahatsız mı Etti?"</title>
+      <link>https://www.youtube.com/watch?v=zAAl61foRxE</link>
+      <guid isPermaLink="false">zAAl61foRxE</guid>
+      <pubDate>Fri, 04 Sep 2026 20:10:21 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: AKP'de Davutoğlu Alarmı! Murat Ağırel'den Bomba Kulis! "Birilerini Rahatsız mı Etti?"</description>
+    </item>
+    <item>
+      <title>Halk TV: ÖZGÜR ÇELİK ÜSKÜDAR'DA! "İşin içinde yüz bin dolarlar, milyon dolarlar konuşuluyor.”</title>
+      <link>https://www.youtube.com/watch?v=P-DBWysd-Z0</link>
+      <guid isPermaLink="false">P-DBWysd-Z0</guid>
+      <pubDate>Fri, 04 Sep 2026 20:00:08 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ÖZGÜR ÇELİK ÜSKÜDAR'DA! "İşin içinde yüz bin dolarlar, milyon dolarlar konuşuluyor.”</description>
+    </item>
     <item>
       <title>Tele2 Haber: Özgür Çelik, Üsküdar'dan İstanbul Valisi Davut Gül'e seslendi!</title>
       <link>https://www.youtube.com/watch?v=Q3FMPb1cyf4</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">dPwfnycIIBA</guid>
       <pubDate>Fri, 04 Sep 2026 17:02:16 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | Ece Üner ile Halk Ana Haber | #hesapşaştı</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Tutuklu komedyen Deniz Göktaş’a destek için açıklama yapılıyor / İstanbul #Canlı</title>
-      <link>https://www.youtube.com/watch?v=F8vEY88NCpI</link>
-      <guid isPermaLink="false">F8vEY88NCpI</guid>
-      <pubDate>Fri, 04 Sep 2026 17:01:11 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Tutuklu komedyen Deniz Göktaş’a destek için açıklama yapılıyor / İstanbul #Canlı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Mazlum Abdi'den Çarpıcı Sözler Sınırda Gizli Ajan! Suriye'de Neler Oluyor?</title>
-      <link>https://www.youtube.com/watch?v=3D_SuH-hdfM</link>
-      <guid isPermaLink="false">3D_SuH-hdfM</guid>
-      <pubDate>Fri, 04 Sep 2026 17:00:24 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Mazlum Abdi'den Çarpıcı Sözler Sınırda Gizli Ajan! Suriye'de Neler Oluyor?</description>
     </item>
   </channel>
 </rss>
