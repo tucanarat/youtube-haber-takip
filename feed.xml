@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 22:05:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 22:10:32 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Pınar Erbaş ile Gecenin Sözü 4 Eylül</title>
+      <link>https://www.youtube.com/watch?v=zA6yUKvIduk</link>
+      <guid isPermaLink="false">zA6yUKvIduk</guid>
+      <pubDate>Fri, 04 Sep 2026 22:00:34 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Pınar Erbaş ile Gecenin Sözü 4 Eylül</description>
+    </item>
     <item>
       <title>Halk TV: "Kuzey Kore'de Rusya'da bile seçim var!" Türkiye Rusya oluyor mu? Çoktan oldu mu?</title>
       <link>https://www.youtube.com/watch?v=9NOPs9j7izo</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">s_3n9U6uAGk</guid>
       <pubDate>Fri, 04 Sep 2026 18:30:14 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Deposunda 200 kilo altın bulunmuştu: İrfan Yılmaz gözaltında, 5 şirkete de el konuldu!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Melih Gökçek, Binali Yıldırım... Neler oluyor? Evren Özalkuş'un konukları Can Kakışım, Bülent Mumay</title>
-      <link>https://www.youtube.com/watch?v=YzSqHirD1fg</link>
-      <guid isPermaLink="false">YzSqHirD1fg</guid>
-      <pubDate>Fri, 04 Sep 2026 18:16:19 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Melih Gökçek, Binali Yıldırım... Neler oluyor? Evren Özalkuş'un konukları Can Kakışım, Bülent Mumay</description>
     </item>
   </channel>
 </rss>
