@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 16:35:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 16:40:29 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Osman Gökçek'ten babasının sakızı açıklaması! Murat Taylan Melih Gökçek'teki kaygıya işaret etti!</title>
+      <link>https://www.youtube.com/watch?v=6n8C2mRXhwg</link>
+      <guid isPermaLink="false">6n8C2mRXhwg</guid>
+      <pubDate>Fri, 04 Sep 2026 16:30:35 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Osman Gökçek'ten babasının sakızı açıklaması! Murat Taylan Melih Gökçek'teki kaygıya işaret etti!</description>
+    </item>
     <item>
       <title>Halk TV: GÜNDEM BUNUNLA KASIP KAVRULUYOR! Ekrem Baki bu sözlerle AKP'yi birbirine katmıştı! Neler var neler!</title>
       <link>https://www.youtube.com/watch?v=bQ_8VduW4QY</link>
       <guid isPermaLink="false">bQ_8VduW4QY</guid>
       <pubDate>Fri, 04 Sep 2026 16:30:16 +0000</pubDate>
       <description>Halk TV kanalından yeni video: GÜNDEM BUNUNLA KASIP KAVRULUYOR! Ekrem Baki bu sözlerle AKP'yi birbirine katmıştı! Neler var neler!</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: Tutuklu komedyen Deniz Göktaş’a destek için açıklama yapılıyor / İstanbul #Canlı</title>
+      <link>https://www.youtube.com/watch?v=F8vEY88NCpI</link>
+      <guid isPermaLink="false">F8vEY88NCpI</guid>
+      <pubDate>Fri, 04 Sep 2026 16:25:57 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Tutuklu komedyen Deniz Göktaş’a destek için açıklama yapılıyor / İstanbul #Canlı</description>
     </item>
     <item>
       <title>SÖZCÜ TV: 39 Hukuk Bürosuna Baskın! Avukatlar Çete Çıktı! Yasadışı "Panel" Operasyonu! Özlem Gürses Anlattı</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">mrN5cvHr-_c</guid>
       <pubDate>Fri, 04 Sep 2026 14:00:19 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Gökçek Ailesinin Milyon Euroluk Sırrı! Bülent Arınç'tan Melih Gökçek Sitemi! İsmail Saymaz Anlattı</description>
-    </item>
-    <item>
-      <title>Halk TV: MANİSA'DA YER GÖK İNLEDİ! Özgür Özel'in sözleri çok can yakacak! AKP ve CHP hesabını şimdi yapsın!</title>
-      <link>https://www.youtube.com/watch?v=EzVLO0atGSE</link>
-      <guid isPermaLink="false">EzVLO0atGSE</guid>
-      <pubDate>Fri, 04 Sep 2026 14:00:19 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: MANİSA'DA YER GÖK İNLEDİ! Özgür Özel'in sözleri çok can yakacak! AKP ve CHP hesabını şimdi yapsın!</description>
-    </item>
-    <item>
-      <title>Halk TV: Üsküdar'da olanlar AKP'nin 'İBB' hamlesinin öncüsü mü? Murat Emir'in sözlerini dinlemeden geçmeyin!</title>
-      <link>https://www.youtube.com/watch?v=jiPMYkiW8tU</link>
-      <guid isPermaLink="false">jiPMYkiW8tU</guid>
-      <pubDate>Fri, 04 Sep 2026 13:45:04 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Üsküdar'da olanlar AKP'nin 'İBB' hamlesinin öncüsü mü? Murat Emir'in sözlerini dinlemeden geçmeyin!</description>
     </item>
   </channel>
 </rss>
