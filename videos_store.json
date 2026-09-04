@@ -30790,5 +30790,21 @@
     "published": "2026-09-04T23:00:27+00:00",
     "published_ts": 1788562827,
     "channel_name": "Halk TV"
+  },
+  "CDtPyf9bmBM": {
+    "id": "CDtPyf9bmBM",
+    "title": "Ekrem Açıkel İle Hafta Sonu Ana Haber",
+    "link": "https://www.youtube.com/watch?v=CDtPyf9bmBM",
+    "published": "2026-09-04T22:20:21+00:00",
+    "published_ts": 1788560421,
+    "channel_name": "SÖZCÜ TV"
+  },
+  "qrWsvNimAy8": {
+    "id": "qrWsvNimAy8",
+    "title": "Gülinay Selçuk İle Haber Bülteni",
+    "link": "https://www.youtube.com/watch?v=qrWsvNimAy8",
+    "published": "2026-09-04T22:19:25+00:00",
+    "published_ts": 1788560365,
+    "channel_name": "SÖZCÜ TV"
   }
 }

@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 23:10:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 23:15:30 +0000</lastBuildDate>
     <item>
       <title>Halk TV: Ardahan'da sağanak ve dolu etkili oldu Yollar beyaza büründü! #shorts</title>
       <link>https://www.youtube.com/shorts/vrvL9NO5vS0</link>
@@ -43,11 +43,25 @@
       <description>Halk TV kanalından yeni video: Özgür Özel, Tekirdağ'da YENİ Parti'ye katılan belediye başkanlarına rozetlerini taktı! #shorts</description>
     </item>
     <item>
+      <title>SÖZCÜ TV: Ekrem Açıkel İle Hafta Sonu Ana Haber</title>
+      <link>https://www.youtube.com/watch?v=CDtPyf9bmBM</link>
+      <guid isPermaLink="false">CDtPyf9bmBM</guid>
+      <pubDate>Fri, 04 Sep 2026 22:20:21 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Ekrem Açıkel İle Hafta Sonu Ana Haber</description>
+    </item>
+    <item>
       <title>Halk TV: Arif Ahmet Denizolgun’un doktoru Nurettin Demirkol tutuklandı! #shorts</title>
       <link>https://www.youtube.com/shorts/WlRvYxQbX78</link>
       <guid isPermaLink="false">WlRvYxQbX78</guid>
       <pubDate>Fri, 04 Sep 2026 22:20:19 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Arif Ahmet Denizolgun’un doktoru Nurettin Demirkol tutuklandı! #shorts</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Gülinay Selçuk İle Haber Bülteni</title>
+      <link>https://www.youtube.com/watch?v=qrWsvNimAy8</link>
+      <guid isPermaLink="false">qrWsvNimAy8</guid>
+      <pubDate>Fri, 04 Sep 2026 22:19:25 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Gülinay Selçuk İle Haber Bülteni</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Ceylin Çağatay İle Sabah Kahvesi</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">NdZL49i4K4M</guid>
       <pubDate>Fri, 04 Sep 2026 19:00:15 +0000</pubDate>
       <description>Halk TV kanalından yeni video: MECLİS’TE ‘SAHTE OY’ REZİLLİĞİ CEZASIZ KALDI! Turhan Çömez yaşananları anlattı! Detaylar şaşırtmaz!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Mehmet Uçum'un Davutoğlu rahatsızlığı! Murat Taylan Erdoğan için 'seçilmiş' detayını hatırlattı</title>
-      <link>https://www.youtube.com/watch?v=1hULOqD2sVQ</link>
-      <guid isPermaLink="false">1hULOqD2sVQ</guid>
-      <pubDate>Fri, 04 Sep 2026 19:00:12 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Mehmet Uçum'un Davutoğlu rahatsızlığı! Murat Taylan Erdoğan için 'seçilmiş' detayını hatırlattı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Serap Belovacıklı ile Aklın Yolu | 4 Eylül</title>
-      <link>https://www.youtube.com/watch?v=uUL5xjhD84E</link>
-      <guid isPermaLink="false">uUL5xjhD84E</guid>
-      <pubDate>Fri, 04 Sep 2026 18:57:44 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Serap Belovacıklı ile Aklın Yolu | 4 Eylül</description>
     </item>
   </channel>
 </rss>
