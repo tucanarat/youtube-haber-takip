@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 14:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 14:25:25 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: MELİH GÖKÇEK ADLİYEDE! BUNU DA GÖRDÜK! İsmail Saymaz Canlı Yayında Anlatıyor</title>
+      <link>https://www.youtube.com/watch?v=fUOgUNPcxHY</link>
+      <guid isPermaLink="false">fUOgUNPcxHY</guid>
+      <pubDate>Fri, 04 Sep 2026 14:25:00 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: MELİH GÖKÇEK ADLİYEDE! BUNU DA GÖRDÜK! İsmail Saymaz Canlı Yayında Anlatıyor</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Süleymanpaşa Hükümet Caddesi'nde esnaf ziyaret ediyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=2SPzQvvOTRA</link>
+      <guid isPermaLink="false">2SPzQvvOTRA</guid>
+      <pubDate>Fri, 04 Sep 2026 14:19:20 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Süleymanpaşa Hükümet Caddesi'nde esnaf ziyaret ediyor #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: BUTLANCI ŞİMŞEK'TE ŞİRAZE KALMADI! İstifa açıklamasında da Özgür Özel'i hedef aldı! Akıllara zarar!</title>
       <link>https://www.youtube.com/watch?v=OIZK-I-uOqI</link>
@@ -204,13 +218,6 @@
       <description>Tele2 Haber kanalından yeni video: Karadeniz'de sivil gemiler savaşın hedefinde! Murat Çan son yaşananları değerlendirdi...</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: MELİH GÖKÇEK ADLİYEDE! BUNU DA GÖRDÜK! İsmail Saymaz Canlı Yayında Anlatıyor</title>
-      <link>https://www.youtube.com/watch?v=fUOgUNPcxHY</link>
-      <guid isPermaLink="false">fUOgUNPcxHY</guid>
-      <pubDate>Fri, 04 Sep 2026 13:00:02 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: MELİH GÖKÇEK ADLİYEDE! BUNU DA GÖRDÜK! İsmail Saymaz Canlı Yayında Anlatıyor</description>
-    </item>
-    <item>
       <title>SÖZCÜ TV: Melih Gökçek Adliyeye Sakız Çiğneyerek Geldi! Tarihe Geçecek O Anlar!</title>
       <link>https://www.youtube.com/watch?v=eewvlwcnWFE</link>
       <guid isPermaLink="false">eewvlwcnWFE</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">K7PxQZYXw6g</guid>
       <pubDate>Fri, 04 Sep 2026 12:06:49 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Özgür Özel Çorlu'da bankın üzerinde konuştu: Siz istediniz biz yeni bir yol açtık</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | TÜM GÖZLER ANKARA'DA! Melih Gökçek Savcı Karşısında İfade Veriyor! İşte Anbean Gelişmeler!</title>
-      <link>https://www.youtube.com/watch?v=mQ_kOWjBWUc</link>
-      <guid isPermaLink="false">mQ_kOWjBWUc</guid>
-      <pubDate>Fri, 04 Sep 2026 12:04:33 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | TÜM GÖZLER ANKARA'DA! Melih Gökçek Savcı Karşısında İfade Veriyor! İşte Anbean Gelişmeler!</description>
     </item>
   </channel>
 </rss>
