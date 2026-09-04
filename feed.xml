@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 23:05:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 23:10:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Ardahan'da sağanak ve dolu etkili oldu Yollar beyaza büründü! #shorts</title>
+      <link>https://www.youtube.com/shorts/vrvL9NO5vS0</link>
+      <guid isPermaLink="false">vrvL9NO5vS0</guid>
+      <pubDate>Fri, 04 Sep 2026 23:00:27 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Ardahan'da sağanak ve dolu etkili oldu Yollar beyaza büründü! #shorts</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: TRUMP'IN GİZLİ HEYETİ MOSKOVA'DA! Rusya ve Ukrayna Masaya mı Oturuyor?</title>
       <link>https://www.youtube.com/watch?v=7xdydpGNxG0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">uUL5xjhD84E</guid>
       <pubDate>Fri, 04 Sep 2026 18:57:44 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Serap Belovacıklı ile Aklın Yolu | 4 Eylül</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Melih Gökçek İfadesini Verdi! 'Beni Yakalayamadılar' Gazetecilere Kızdı Gitti! Mansur Yavaş Sözleri</title>
-      <link>https://www.youtube.com/watch?v=2w1A1NqljpU</link>
-      <guid isPermaLink="false">2w1A1NqljpU</guid>
-      <pubDate>Fri, 04 Sep 2026 18:50:35 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Melih Gökçek İfadesini Verdi! 'Beni Yakalayamadılar' Gazetecilere Kızdı Gitti! Mansur Yavaş Sözleri</description>
     </item>
   </channel>
 </rss>
