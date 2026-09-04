@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 09:30:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 09:35:25 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: AKP'de Mıntıka Temizliği mi Başladı? Erdoğan Sonrasına Hazırlık! Melih Gökçek, Davutoğlu...</title>
+      <link>https://www.youtube.com/watch?v=4iJG4SixfE4</link>
+      <guid isPermaLink="false">4iJG4SixfE4</guid>
+      <pubDate>Fri, 04 Sep 2026 09:30:16 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: AKP'de Mıntıka Temizliği mi Başladı? Erdoğan Sonrasına Hazırlık! Melih Gökçek, Davutoğlu...</description>
+    </item>
     <item>
       <title>Cumhuriyet: Emeğini korumak için gece boyu teyakkuzda: Manisa Ovası'nda eli tüfekli bağ nöbetçileri</title>
       <link>https://www.youtube.com/shorts/5-vo5Kb1S58</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">uopZ1eIMXO8</guid>
       <pubDate>Fri, 04 Sep 2026 06:30:40 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Altın O Rakama Çıkabilir! Uzman İsimden Altın Tahmini! Yatırımcı Neye Dikkat Etmeli?</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! Süleymancılar soruşturmasında flaş gelişme: 5 şirkete el kondu! İrfan Yılmaz gözaltında!</title>
-      <link>https://www.youtube.com/watch?v=vowhkLNy0t0</link>
-      <guid isPermaLink="false">vowhkLNy0t0</guid>
-      <pubDate>Fri, 04 Sep 2026 06:17:50 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! Süleymancılar soruşturmasında flaş gelişme: 5 şirkete el kondu! İrfan Yılmaz gözaltında!</description>
     </item>
   </channel>
 </rss>
