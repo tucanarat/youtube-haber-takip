@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 07:20:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 07:25:28 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: 3. KESK Kadın Kurultayı / Ankara #Canlı</title>
+      <link>https://www.youtube.com/watch?v=MdB8qMXpp7s</link>
+      <guid isPermaLink="false">MdB8qMXpp7s</guid>
+      <pubDate>Fri, 04 Sep 2026 07:13:55 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: 3. KESK Kadın Kurultayı / Ankara #Canlı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Barış Terkoğlu Anlatıyor: Melih Gökçek Gerçekleri, Fethullahçı Çete İdris Naim Şahin'e Ne Verdi?</title>
       <link>https://www.youtube.com/watch?v=fR-8HACmHis</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">YDVP8NMcTQs</guid>
       <pubDate>Thu, 03 Sep 2026 20:11:26 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Özel’den çiftçiye büyük vaat! “Tarım kredilerinin faizlerini sileceğiz!” #shorts</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Senem Toluay Ilgaz ile Öncesi Sonrası Gece | Barış Terkoğlu &amp; Timur Soykan | 3 Eylül</title>
-      <link>https://www.youtube.com/watch?v=2E8UdT9HDTg</link>
-      <guid isPermaLink="false">2E8UdT9HDTg</guid>
-      <pubDate>Thu, 03 Sep 2026 20:01:16 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Senem Toluay Ilgaz ile Öncesi Sonrası Gece | Barış Terkoğlu &amp; Timur Soykan | 3 Eylül</description>
     </item>
   </channel>
 </rss>
