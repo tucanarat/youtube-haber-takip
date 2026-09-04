@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 13:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 13:05:36 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: Karadeniz'de sivil gemiler savaşın hedefinde! Murat Çan son yaşananları değerlendirdi...</title>
       <link>https://www.youtube.com/watch?v=onxULZRWUG4</link>
       <guid isPermaLink="false">onxULZRWUG4</guid>
       <pubDate>Fri, 04 Sep 2026 13:00:14 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Karadeniz'de sivil gemiler savaşın hedefinde! Murat Çan son yaşananları değerlendirdi...</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: MELİH GÖKÇEK ADLİYEDE! BUNU DA GÖRDÜK! İsmail Saymaz Canlı Yayında Anlatıyor</title>
+      <link>https://www.youtube.com/watch?v=fUOgUNPcxHY</link>
+      <guid isPermaLink="false">fUOgUNPcxHY</guid>
+      <pubDate>Fri, 04 Sep 2026 13:00:02 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: MELİH GÖKÇEK ADLİYEDE! BUNU DA GÖRDÜK! İsmail Saymaz Canlı Yayında Anlatıyor</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Melih Gökçek Adliyeye Sakız Çiğneyerek Geldi! Tarihe Geçecek O Anlar!</title>
@@ -204,11 +211,11 @@
       <description>Halk TV kanalından yeni video: SON DAKİKA! ÖN TESPİT RAPORU ÇIKTI! Silivri'de batan gemi Tuğberk İmamoğlu'nun yeri tespit edildi!</description>
     </item>
     <item>
-      <title>Tele2 Haber: Butlancı Şimşek’ten kadına şiddet! I Arınç’tan Gökçek hamlesi: Koşa koşa giderim | Manşet Ötesi</title>
+      <title>Tele2 Haber: Özel: Üsküdar'da kapkaç yapacaklar! I Arınç'tan Gökçek hamlesi | Ülkü Çoban ile Manşet Ötesi</title>
       <link>https://www.youtube.com/watch?v=aSVTFTGDROc</link>
       <guid isPermaLink="false">aSVTFTGDROc</guid>
       <pubDate>Fri, 04 Sep 2026 11:52:08 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Butlancı Şimşek’ten kadına şiddet! I Arınç’tan Gökçek hamlesi: Koşa koşa giderim | Manşet Ötesi</description>
+      <description>Tele2 Haber kanalından yeni video: Özel: Üsküdar'da kapkaç yapacaklar! I Arınç'tan Gökçek hamlesi | Ülkü Çoban ile Manşet Ötesi</description>
     </item>
     <item>
       <title>Halk TV: REKOR ÜSTÜNE REKOR! YENİ Parti'ye üyeliklerde durdurulamayan artış! Son durumu Murat Emir açıkladı!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">6z91iO30yhU</guid>
       <pubDate>Fri, 04 Sep 2026 10:35:23 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: İBB davasında 2 kişiye tahliye! Nuri Aslan: Beklediğimiz haberleri alamadık</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! İDDİANAME HAZIRLANDI! Komedyen Deniz Göktaş hakkında 11 yıl 2 aya kadar hapis istemi!</title>
-      <link>https://www.youtube.com/watch?v=_0cCWJ0Mw94</link>
-      <guid isPermaLink="false">_0cCWJ0Mw94</guid>
-      <pubDate>Fri, 04 Sep 2026 10:30:17 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! İDDİANAME HAZIRLANDI! Komedyen Deniz Göktaş hakkında 11 yıl 2 aya kadar hapis istemi!</description>
     </item>
   </channel>
 </rss>
