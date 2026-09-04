@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 09:40:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 09:45:28 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Müslim Sarı Üsküdar Belediyesi’nde 4 belediye meclis üyesinin AK Parti’ye geçmesini eleştirdi</title>
+      <link>https://www.youtube.com/shorts/jfyZJn9TAYU</link>
+      <guid isPermaLink="false">jfyZJn9TAYU</guid>
+      <pubDate>Fri, 04 Sep 2026 09:40:27 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Müslim Sarı Üsküdar Belediyesi’nde 4 belediye meclis üyesinin AK Parti’ye geçmesini eleştirdi</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: AKP'de Mıntıka Temizliği mi Başladı? Erdoğan Sonrasına Hazırlık! Melih Gökçek, Davutoğlu...</title>
       <link>https://www.youtube.com/watch?v=4iJG4SixfE4</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">-6sbt6zapOg</guid>
       <pubDate>Fri, 04 Sep 2026 06:43:41 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Namık Koçak ve Hüsnü Mahalli ile Forum (04.09.26)</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Evren Özalkuş ile Gerçek | Konuklar: Can Kakışım ve Bülent Mumay (04.09.2026)</title>
-      <link>https://www.youtube.com/watch?v=YzSqHirD1fg</link>
-      <guid isPermaLink="false">YzSqHirD1fg</guid>
-      <pubDate>Fri, 04 Sep 2026 06:42:39 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Evren Özalkuş ile Gerçek | Konuklar: Can Kakışım ve Bülent Mumay (04.09.2026)</description>
     </item>
   </channel>
 </rss>
