@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 20:25:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 20:30:41 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Davutoğlu'na soruşturma nereden çıktı? Bülent Mumay ve Can Kakışım arka planını irdeledi</title>
+      <link>https://www.youtube.com/watch?v=9FyqZGdAGEA</link>
+      <guid isPermaLink="false">9FyqZGdAGEA</guid>
+      <pubDate>Fri, 04 Sep 2026 20:30:06 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Davutoğlu'na soruşturma nereden çıktı? Bülent Mumay ve Can Kakışım arka planını irdeledi</description>
+    </item>
+    <item>
+      <title>Halk TV: Baba Kabaiş: "Rektör, vali ve savcı ile beraber delilleri kararttı." Soruşturmada yeni talepler!</title>
+      <link>https://www.youtube.com/watch?v=iAoxvgQHFDQ</link>
+      <guid isPermaLink="false">iAoxvgQHFDQ</guid>
+      <pubDate>Fri, 04 Sep 2026 20:30:02 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Baba Kabaiş: "Rektör, vali ve savcı ile beraber delilleri kararttı." Soruşturmada yeni talepler!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: CHP Sözcüsü Müslim Sarı, CHP İstanbul Üsküdar İlçe Başkanlığı’nda basın toplantısı yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=_mVJQYuyFbs</link>
@@ -267,13 +281,6 @@
       <description>Tele2 Haber kanalından yeni video: Özgür Özel'in Kılıçdaroğlu'yla tokalaşması! Bülent Mumay ve Can Kakışım'dan ezber bozan yorum!</description>
     </item>
     <item>
-      <title>Tele2 Haber: Davutoğlu'na soruşturma nereden çıktı? Bülent Mumay ve Can Kakışım arka planını irdeledi</title>
-      <link>https://www.youtube.com/watch?v=9FyqZGdAGEA</link>
-      <guid isPermaLink="false">9FyqZGdAGEA</guid>
-      <pubDate>Fri, 04 Sep 2026 17:51:04 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Davutoğlu'na soruşturma nereden çıktı? Bülent Mumay ve Can Kakışım arka planını irdeledi</description>
-    </item>
-    <item>
       <title>SÖZCÜ TV: Murat Ağırel Melih Gökçek Dosyasını Bir Bir Açtı! Küçük Dilinizi Yutacağınız O Belgeler</title>
       <link>https://www.youtube.com/watch?v=YQS14C4CpGY</link>
       <guid isPermaLink="false">YQS14C4CpGY</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">lNu2HZQeNNA</guid>
       <pubDate>Fri, 04 Sep 2026 17:13:34 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: MURAT TAYLAN'DAN BUTLAN CHP'SİNE BERHAN ŞİMŞEK HATIRLATMASI!</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Tutuklu komedyen Deniz Göktaş’a destek için açıklama yapılıyor!</title>
-      <link>https://www.youtube.com/watch?v=I3PlsYrEx9g</link>
-      <guid isPermaLink="false">I3PlsYrEx9g</guid>
-      <pubDate>Fri, 04 Sep 2026 17:03:59 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Tutuklu komedyen Deniz Göktaş’a destek için açıklama yapılıyor!</description>
     </item>
   </channel>
 </rss>
