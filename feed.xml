@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 20:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 21:00:51 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Özgür Özel'in Kılıçdaroğlu'yla tokalaşması! Bülent Mumay ve Can Kakışım'dan ezber bozan yorum!</title>
+      <link>https://www.youtube.com/watch?v=yNNA7qY_HD4</link>
+      <guid isPermaLink="false">yNNA7qY_HD4</guid>
+      <pubDate>Fri, 04 Sep 2026 21:00:06 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Özgür Özel'in Kılıçdaroğlu'yla tokalaşması! Bülent Mumay ve Can Kakışım'dan ezber bozan yorum!</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: 3. KESK Kadın Kurultayı / Ankara #Canlı</title>
+      <link>https://www.youtube.com/watch?v=MdB8qMXpp7s</link>
+      <guid isPermaLink="false">MdB8qMXpp7s</guid>
+      <pubDate>Fri, 04 Sep 2026 20:53:54 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: 3. KESK Kadın Kurultayı / Ankara #Canlı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İRAN ABD ÜSSÜNÜ VURDU! Trump'a Büyük Şok! Ortadoğu'da İpler Koptu! Hamaney Düğmeye Bastı</title>
+      <link>https://www.youtube.com/watch?v=YNpYO5sm6HY</link>
+      <guid isPermaLink="false">YNpYO5sm6HY</guid>
+      <pubDate>Fri, 04 Sep 2026 20:50:07 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İRAN ABD ÜSSÜNÜ VURDU! Trump'a Büyük Şok! Ortadoğu'da İpler Koptu! Hamaney Düğmeye Bastı</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Ümit Özdağ, Türkiye Barolar Birliği Başkanı Erinç Sağkan'ı ziyaret etti #Canlı</title>
       <link>https://www.youtube.com/watch?v=A-sh_xzOIAQ</link>
@@ -302,13 +323,6 @@
       <description>Halk TV kanalından yeni video: CEZAEVİNDEN GELEN AÇIKLAMA! Siyaseti bıraktı! "Haluk Levent tarafından istismar edildim."</description>
     </item>
     <item>
-      <title>Tele2 Haber: Özgür Özel'in Kılıçdaroğlu'yla tokalaşması! Bülent Mumay ve Can Kakışım'dan ezber bozan yorum!</title>
-      <link>https://www.youtube.com/watch?v=yNNA7qY_HD4</link>
-      <guid isPermaLink="false">yNNA7qY_HD4</guid>
-      <pubDate>Fri, 04 Sep 2026 17:55:06 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Özgür Özel'in Kılıçdaroğlu'yla tokalaşması! Bülent Mumay ve Can Kakışım'dan ezber bozan yorum!</description>
-    </item>
-    <item>
       <title>SÖZCÜ TV: Murat Ağırel Melih Gökçek Dosyasını Bir Bir Açtı! Küçük Dilinizi Yutacağınız O Belgeler</title>
       <link>https://www.youtube.com/watch?v=YQS14C4CpGY</link>
       <guid isPermaLink="false">YQS14C4CpGY</guid>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">D6aNvrslJ84</guid>
       <pubDate>Fri, 04 Sep 2026 17:38:58 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Namık Koçak, Özdemir İnce ve Recai Aksu ile Forum (25.09.26)</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Dosyada Oğlu Çıktı! Melih Gökçek Milyonluk Villalar Gizlenemedi! Murat Ağırel Anlattı</title>
-      <link>https://www.youtube.com/watch?v=RQ-OGqhYFro</link>
-      <guid isPermaLink="false">RQ-OGqhYFro</guid>
-      <pubDate>Fri, 04 Sep 2026 17:30:16 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Dosyada Oğlu Çıktı! Melih Gökçek Milyonluk Villalar Gizlenemedi! Murat Ağırel Anlattı</description>
-    </item>
-    <item>
-      <title>Halk TV: Berhan Şimşek'in darp ettiği Özlem Şanver yaşadıklarını Halk TV YouTube'a anlatmıştı!</title>
-      <link>https://www.youtube.com/watch?v=_NYQbeziAZU</link>
-      <guid isPermaLink="false">_NYQbeziAZU</guid>
-      <pubDate>Fri, 04 Sep 2026 17:30:15 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Berhan Şimşek'in darp ettiği Özlem Şanver yaşadıklarını Halk TV YouTube'a anlatmıştı!</description>
     </item>
   </channel>
 </rss>
