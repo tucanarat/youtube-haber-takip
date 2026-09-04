@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 12:05:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 12:10:34 +0000</lastBuildDate>
     <item>
-      <title>Halk TV: #CANLI | ANKARA'DA NEFESLER TUTULDU! Melih Gökçek Savcı Karşısında İfade Verecek! İşte Gelişmeler...</title>
+      <title>Halk TV: #CANLI | TÜM GÖZLER ANKARA'DA! Melih Gökçek Savcı Karşısında İfade Verecek! İşte Anbean Gelişmeler!</title>
       <link>https://www.youtube.com/watch?v=mQ_kOWjBWUc</link>
       <guid isPermaLink="false">mQ_kOWjBWUc</guid>
       <pubDate>Fri, 04 Sep 2026 12:04:33 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | ANKARA'DA NEFESLER TUTULDU! Melih Gökçek Savcı Karşısında İfade Verecek! İşte Gelişmeler...</description>
+      <description>Halk TV kanalından yeni video: #CANLI | TÜM GÖZLER ANKARA'DA! Melih Gökçek Savcı Karşısında İfade Verecek! İşte Anbean Gelişmeler!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İsmail Saymaz'dan Melih Gökçek'in 23 Tapu Sözlerine Net Yanıt: Gerçekler Ne Diyor?</title>
+      <link>https://www.youtube.com/watch?v=lbinZWYSmlE</link>
+      <guid isPermaLink="false">lbinZWYSmlE</guid>
+      <pubDate>Fri, 04 Sep 2026 12:00:25 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İsmail Saymaz'dan Melih Gökçek'in 23 Tapu Sözlerine Net Yanıt: Gerçekler Ne Diyor?</description>
     </item>
     <item>
       <title>Halk TV: TÜYLER ÜRPERTİR! Gülistan kaybolduktan tam '2 dakika' sonra gelen isim milyonları sarsar! Şok detay!</title>
@@ -27,6 +34,13 @@
       <guid isPermaLink="false">YsGSn9YG58s</guid>
       <pubDate>Fri, 04 Sep 2026 12:00:06 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Özgür Özel Çorlu'dan 'MUTLAK BUTLAN' yönetimine gönderme yaptı!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Savaş Kurtbaba'dan Güllü'nün Ölümüyle İlgili Yeni Bilgiler! "AYLARCA HAZIRLIK YAPMIŞLAR!"</title>
+      <link>https://www.youtube.com/watch?v=GYXi0DLVQzA</link>
+      <guid isPermaLink="false">GYXi0DLVQzA</guid>
+      <pubDate>Fri, 04 Sep 2026 12:00:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Savaş Kurtbaba'dan Güllü'nün Ölümüyle İlgili Yeni Bilgiler! "AYLARCA HAZIRLIK YAPMIŞLAR!"</description>
     </item>
     <item>
       <title>Tele2 Haber: ÖZGÜR ÖZEL ÜSKÜDAR SEÇİMLERİ ÖNCESİ ATEŞ PÜSKÜRDÜ!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">4iJG4SixfE4</guid>
       <pubDate>Fri, 04 Sep 2026 09:30:16 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: AKP'de Mıntıka Temizliği mi Başladı? Erdoğan Sonrasına Hazırlık! Melih Gökçek, Davutoğlu...</description>
-    </item>
-    <item>
-      <title>Halk TV: BU KONUŞMA TIKLANMA REKORU KIRDI! Davutoğlu'nun Erdoğan'a verip veriştirdiği sözleri ses getirdi!</title>
-      <link>https://www.youtube.com/watch?v=WLhRzphpED0</link>
-      <guid isPermaLink="false">WLhRzphpED0</guid>
-      <pubDate>Fri, 04 Sep 2026 09:30:05 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BU KONUŞMA TIKLANMA REKORU KIRDI! Davutoğlu'nun Erdoğan'a verip veriştirdiği sözleri ses getirdi!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "16 Yaşında Tek Başına Hücrede!" DGD Üyesi Taşçı'dan Kuyu Tiplerinde İşkence ve Tecrit İddiası!</title>
-      <link>https://www.youtube.com/watch?v=KMm32FUXbA0</link>
-      <guid isPermaLink="false">KMm32FUXbA0</guid>
-      <pubDate>Fri, 04 Sep 2026 09:24:37 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "16 Yaşında Tek Başına Hücrede!" DGD Üyesi Taşçı'dan Kuyu Tiplerinde İşkence ve Tecrit İddiası!</description>
     </item>
   </channel>
 </rss>
