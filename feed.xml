@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 19:00:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 19:05:24 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: MECLİS’TE ‘SAHTE OY’ REZİLLİĞİ CEZASIZ KALDI! Turhan Çömez yaşananları anlattı! Detaylar şaşırtmaz!</title>
+      <link>https://www.youtube.com/watch?v=NdZL49i4K4M</link>
+      <guid isPermaLink="false">NdZL49i4K4M</guid>
+      <pubDate>Fri, 04 Sep 2026 19:00:15 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: MECLİS’TE ‘SAHTE OY’ REZİLLİĞİ CEZASIZ KALDI! Turhan Çömez yaşananları anlattı! Detaylar şaşırtmaz!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Mehmet Uçum'un Davutoğlu rahatsızlığı! Murat Taylan Erdoğan için 'seçilmiş' detayını hatırlattı</title>
+      <link>https://www.youtube.com/watch?v=1hULOqD2sVQ</link>
+      <guid isPermaLink="false">1hULOqD2sVQ</guid>
+      <pubDate>Fri, 04 Sep 2026 19:00:12 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Mehmet Uçum'un Davutoğlu rahatsızlığı! Murat Taylan Erdoğan için 'seçilmiş' detayını hatırlattı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Serap Belovacıklı ile Aklın Yolu | 4 Eylül</title>
       <link>https://www.youtube.com/watch?v=uUL5xjhD84E</link>
@@ -27,6 +41,13 @@
       <guid isPermaLink="false">YAIfshJn1NI</guid>
       <pubDate>Fri, 04 Sep 2026 18:50:18 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Ahmet ve Hülya Gökçek'e Murat Ağırel'den Zor Soru! Melih Gökçek Dosyasında Pes Dedirten Detaylar</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: 'Binali Yıldırım mal varlığını eşine devretti' iddiası! Hüsnü Mahalli'den Melih Gökçek yorumu!</title>
+      <link>https://www.youtube.com/watch?v=njFJhiiug6g</link>
+      <guid isPermaLink="false">njFJhiiug6g</guid>
+      <pubDate>Fri, 04 Sep 2026 18:46:29 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: 'Binali Yıldırım mal varlığını eşine devretti' iddiası! Hüsnü Mahalli'den Melih Gökçek yorumu!</description>
     </item>
     <item>
       <title>Halk TV: ŞOK AÇIKLAMA! MELİH GÖKÇEK: 500 KEZ SIÇRADIM AMA BENİ YAKALAYAMADILAR!</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">QdWi3GsLUlk</guid>
       <pubDate>Fri, 04 Sep 2026 16:10:32 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #SONDAKİKA Melih Gökçek'in oğlu ve gelini ifadeye çağrıldı! Bülent Arınç'ın 'tanık' çıkışı!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Süleymanpaşa'da halka hitap ediyor</title>
-      <link>https://www.youtube.com/watch?v=2SPzQvvOTRA</link>
-      <guid isPermaLink="false">2SPzQvvOTRA</guid>
-      <pubDate>Fri, 04 Sep 2026 16:08:54 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Süleymanpaşa'da halka hitap ediyor</description>
-    </item>
-    <item>
-      <title>Halk TV: ÇORLU SOKAKLARI ÖZGÜR ÖZEL İLE YIKILDI! 7'den 70'e herkes yanına koştu, sarılan bırakamadı!</title>
-      <link>https://www.youtube.com/watch?v=qU2LbP6AgRw</link>
-      <guid isPermaLink="false">qU2LbP6AgRw</guid>
-      <pubDate>Fri, 04 Sep 2026 16:00:23 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ÇORLU SOKAKLARI ÖZGÜR ÖZEL İLE YIKILDI! 7'den 70'e herkes yanına koştu, sarılan bırakamadı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Timur Soykan'dan Bomba Kulisler | İmamoğlu, Üsküdar Belediyesi, Melih Gökçek, Binali Yıldırım</title>
-      <link>https://www.youtube.com/watch?v=u5JAPp6OlJE</link>
-      <guid isPermaLink="false">u5JAPp6OlJE</guid>
-      <pubDate>Fri, 04 Sep 2026 16:00:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Timur Soykan'dan Bomba Kulisler | İmamoğlu, Üsküdar Belediyesi, Melih Gökçek, Binali Yıldırım</description>
     </item>
   </channel>
 </rss>
