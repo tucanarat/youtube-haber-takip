@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 00:50:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 00:55:28 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Hacıhaliller Mahallesi'nde üzüm bağını ziyaret ediyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=RN8h6MiMoSk</link>
+      <guid isPermaLink="false">RN8h6MiMoSk</guid>
+      <pubDate>Fri, 04 Sep 2026 00:47:07 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Hacıhaliller Mahallesi'nde üzüm bağını ziyaret ediyor #Canlı</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Dilovası faciasında yakınlarını kaybeden aileler Kocaeli SGK İl Müdürlüğü önünde açıklama yapıyor</title>
       <link>https://www.youtube.com/watch?v=cQ_15xigZP8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">AiF0GyF6hDw</guid>
       <pubDate>Thu, 03 Sep 2026 19:00:06 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Murat Taylan: İdris-i Bitlisi'ye hain dendiği için Aleviler Kürt hareketinde yer aldı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: ENGİN SOLAKOĞLU'NDAN ÇOK KRİTİK ÜSKÜDAR VE İBB UYARISI!</title>
-      <link>https://www.youtube.com/shorts/odDEBxM_JO4</link>
-      <guid isPermaLink="false">odDEBxM_JO4</guid>
-      <pubDate>Thu, 03 Sep 2026 18:52:03 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: ENGİN SOLAKOĞLU'NDAN ÇOK KRİTİK ÜSKÜDAR VE İBB UYARISI!</description>
     </item>
   </channel>
 </rss>
