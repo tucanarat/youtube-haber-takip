@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 18:10:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 18:15:30 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: 'Mıntıka Temizliği' AKP'de Melih Gökçek ve Davutoğlu Depremi! Erdoğan'ın Seçim Planı Deşifre Oldu</title>
+      <link>https://www.youtube.com/watch?v=SvUSQaFDJ-s</link>
+      <guid isPermaLink="false">SvUSQaFDJ-s</guid>
+      <pubDate>Fri, 04 Sep 2026 18:10:09 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: 'Mıntıka Temizliği' AKP'de Melih Gökçek ve Davutoğlu Depremi! Erdoğan'ın Seçim Planı Deşifre Oldu</description>
+    </item>
     <item>
       <title>Halk TV: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (04 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=qKNdhKSo6nY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">YOSiRS0arp8</guid>
       <pubDate>Fri, 04 Sep 2026 15:30:34 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "Melih Gökçek Ne Yaptıysa AKP'liler de Biliyor!" İktidar Melih Gökçek Soruşturmasında Samimi mi?</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: MELİH GÖKÇEK'TEN İTİRAF GİBİ AÇIKLAMA! Soru almadı, gazeteciler ile tartıştı...</title>
-      <link>https://www.youtube.com/watch?v=fQlYt55hFrw</link>
-      <guid isPermaLink="false">fQlYt55hFrw</guid>
-      <pubDate>Fri, 04 Sep 2026 15:30:31 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: MELİH GÖKÇEK'TEN İTİRAF GİBİ AÇIKLAMA! Soru almadı, gazeteciler ile tartıştı...</description>
     </item>
   </channel>
 </rss>
