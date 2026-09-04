@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 13:20:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 13:25:28 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI Zeynel Lüle ile Ankara Günlüğü | Konuk: Yeni Parti Samsun Milletvekili Murat Çan (04.09.26)</title>
+      <link>https://www.youtube.com/watch?v=Xujdh5IXWFs</link>
+      <guid isPermaLink="false">Xujdh5IXWFs</guid>
+      <pubDate>Fri, 04 Sep 2026 13:25:23 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Zeynel Lüle ile Ankara Günlüğü | Konuk: Yeni Parti Samsun Milletvekili Murat Çan (04.09.26)</description>
+    </item>
     <item>
       <title>Halk TV: FARK GİTGİDE AÇILIYOR! Murat Emir YENİ Parti'nin oy oranını açıkladı! 'Cumhur' hüsrana uğrayacak!</title>
       <link>https://www.youtube.com/watch?v=ZN4aXpFWPwc</link>
@@ -50,6 +57,13 @@
       <description>Halk TV kanalından yeni video: YENİ Parti Lideri Özgür Özel'den Çorlu'da iktidar sözü!</description>
     </item>
     <item>
+      <title>Cumhuriyet: Üsküdar Belediyesi Başkanvekili seçimi... Murat Emir: "Siyasi yankesicilik yapıyorlar"</title>
+      <link>https://www.youtube.com/shorts/oKSHPVOCSHA</link>
+      <guid isPermaLink="false">oKSHPVOCSHA</guid>
+      <pubDate>Fri, 04 Sep 2026 13:10:44 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Üsküdar Belediyesi Başkanvekili seçimi... Murat Emir: "Siyasi yankesicilik yapıyorlar"</description>
+    </item>
+    <item>
       <title>ANKA Haber Ajansı: Eski ABB Başkanı Melih Gökçek, ifade vermek için Ankara Adliyesi'ne geldi</title>
       <link>https://www.youtube.com/watch?v=IDc7Hxi-hQ8</link>
       <guid isPermaLink="false">IDc7Hxi-hQ8</guid>
@@ -64,11 +78,11 @@
       <description>Halk TV kanalından yeni video: İrem Sansak ile Haber Masası (4 Eylül 2026)</description>
     </item>
     <item>
-      <title>Halk TV: Melih Gökçek hakkında yürütülen soruşturma kapsamında ifade vermek üzere adliyeye geldi!</title>
+      <title>Halk TV: Melih Gökçek, ifade vermek için Ankara Adalet Sarayı’na sakız çiğneyerek geldi!</title>
       <link>https://www.youtube.com/shorts/DCHw4tGxQWo</link>
       <guid isPermaLink="false">DCHw4tGxQWo</guid>
       <pubDate>Fri, 04 Sep 2026 13:05:00 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Melih Gökçek hakkında yürütülen soruşturma kapsamında ifade vermek üzere adliyeye geldi!</description>
+      <description>Halk TV kanalından yeni video: Melih Gökçek, ifade vermek için Ankara Adalet Sarayı’na sakız çiğneyerek geldi!</description>
     </item>
     <item>
       <title>Halk TV: SON DAKİKA! Ankara alev alev! Melih Gökçek savcıya ifade vermek için ağzında sakızla adliyeye geldi!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">6aGuNgcv1z4</guid>
       <pubDate>Fri, 04 Sep 2026 11:23:24 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLÖzgür Özel Çorlu'da Halkla Birlikte!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Çorlu Belediyesi önünde açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=JFfF4Zv3xDM</link>
-      <guid isPermaLink="false">JFfF4Zv3xDM</guid>
-      <pubDate>Fri, 04 Sep 2026 11:23:01 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Çorlu Belediyesi önünde açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! ‘ŞİDDET’ GÖRÜNTÜLERİ BAŞINI YAKTI! Butlancı Berhan Şimşek CHP’den istifa etti!</title>
-      <link>https://www.youtube.com/watch?v=TR5cuIR5jwQ</link>
-      <guid isPermaLink="false">TR5cuIR5jwQ</guid>
-      <pubDate>Fri, 04 Sep 2026 11:15:20 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! ‘ŞİDDET’ GÖRÜNTÜLERİ BAŞINI YAKTI! Butlancı Berhan Şimşek CHP’den istifa etti!</description>
     </item>
   </channel>
 </rss>
