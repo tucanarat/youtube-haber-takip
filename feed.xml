@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 11:10:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 11:15:29 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: YENİ Parti Genel Başkanı Özgür Özel, Çorlu Süleymaniye Camisi'nde!</title>
+      <link>https://www.youtube.com/watch?v=WDWofc-xXdk</link>
+      <guid isPermaLink="false">WDWofc-xXdk</guid>
+      <pubDate>Fri, 04 Sep 2026 11:12:42 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Çorlu Süleymaniye Camisi'nde!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Çorlu Belediyesi önünde açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=JFfF4Zv3xDM</link>
@@ -22,18 +29,11 @@
       <description>Cumhuriyet kanalından yeni video: #CANLI Özgür Özel Çorlu’da: Cuma namazının ardından flaş açıklamalar</description>
     </item>
     <item>
-      <title>Tele2 Haber: YENİ Parti Genel Başkanı Özgür Özel, Çorlu Süleymaniye Camisi'nde!</title>
-      <link>https://www.youtube.com/watch?v=WDWofc-xXdk</link>
-      <guid isPermaLink="false">WDWofc-xXdk</guid>
-      <pubDate>Fri, 04 Sep 2026 11:01:18 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Çorlu Süleymaniye Camisi'nde!</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Çorlu Süleymaniye Camisi'nde Açıklama Yapıyor!</title>
+      <title>Halk TV: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Çorlu Belediyesi Önünde Halka Sesleniyor!</title>
       <link>https://www.youtube.com/watch?v=Qf6m6PhDVtg</link>
       <guid isPermaLink="false">Qf6m6PhDVtg</guid>
       <pubDate>Fri, 04 Sep 2026 11:01:17 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Çorlu Süleymaniye Camisi'nde Açıklama Yapıyor!</description>
+      <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Çorlu Belediyesi Önünde Halka Sesleniyor!</description>
     </item>
     <item>
       <title>Halk TV: AKIN GÜRLEK BÖYLESİNİ NE GÖRDÜ NE DUYDU! İmamoğlu bu sözlerle meydan okudu! Tarihe geçecek rest!</title>
@@ -48,6 +48,13 @@
       <guid isPermaLink="false">J_0CSAnm8IU</guid>
       <pubDate>Fri, 04 Sep 2026 11:00:11 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "BİZZAT GÖRDÜĞÜM YAŞADIĞIM ŞEYLERİ ANLATIRIM!" Bülent Arınç'tan Çok Çarpıcı Melih Gökçek Çıkışı!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Murat Ağırel Belgesiyle Melih Gökçek Gerçeklerini Açıkladı! Almanya'ya Giden Milyonlarca Euro</title>
+      <link>https://www.youtube.com/watch?v=Yf9GJDG4CNs</link>
+      <guid isPermaLink="false">Yf9GJDG4CNs</guid>
+      <pubDate>Fri, 04 Sep 2026 11:00:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Murat Ağırel Belgesiyle Melih Gökçek Gerçeklerini Açıkladı! Almanya'ya Giden Milyonlarca Euro</description>
     </item>
     <item>
       <title>Cumhuriyet: Kamu emekçilerinden 'enflasyon' çağrısı: Tarafsız bir kurul oluşturulmalı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">s4WQON1DMhY</guid>
       <pubDate>Fri, 04 Sep 2026 08:45:16 +0000</pubDate>
       <description>Halk TV kanalından yeni video: TÜRKİYE'Yİ AYAĞA KALDIRACAK RAPOR! Silivri'deki faciada öyle şeyler ortaya çıktı ki! Meğer 3. gün...</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: MANSUR YAVAŞ'I ADAY İSTİYORLAR! Erdoğan'ı Kızdıracak İttifak Senaryosu! Fatih Erbakan Hamlesi</title>
-      <link>https://www.youtube.com/watch?v=tcjErrYIfpE</link>
-      <guid isPermaLink="false">tcjErrYIfpE</guid>
-      <pubDate>Fri, 04 Sep 2026 08:30:25 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: MANSUR YAVAŞ'I ADAY İSTİYORLAR! Erdoğan'ı Kızdıracak İttifak Senaryosu! Fatih Erbakan Hamlesi</description>
     </item>
   </channel>
 </rss>
