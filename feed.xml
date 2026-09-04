@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 14:35:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 14:40:35 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Üsküdar Belediye Başkanlığı önünde açıklama yapılıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=8YBFIKQUm4Q</link>
+      <guid isPermaLink="false">8YBFIKQUm4Q</guid>
+      <pubDate>Fri, 04 Sep 2026 14:40:14 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Üsküdar Belediye Başkanlığı önünde açıklama yapılıyor #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: TOZU DUMANA KATTI! Özgür Özel sözleriyle Manisa'da taşları yerinden oynattı! Beştepe alarma geçecek!</title>
       <link>https://www.youtube.com/watch?v=BoyBr-_k8OI</link>
@@ -90,13 +97,6 @@
       <guid isPermaLink="false">jiPMYkiW8tU</guid>
       <pubDate>Fri, 04 Sep 2026 13:45:04 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Üsküdar'da olanlar AKP'nin 'İBB' hamlesinin öncüsü mü? Murat Emir'in sözlerini dinlemeden geçmeyin!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: CHP Sözcüsü Müslim Sarı, Üsküdar Belediye Başkanlığı önünde açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=8YBFIKQUm4Q</link>
-      <guid isPermaLink="false">8YBFIKQUm4Q</guid>
-      <pubDate>Fri, 04 Sep 2026 13:41:44 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP Sözcüsü Müslim Sarı, Üsküdar Belediye Başkanlığı önünde açıklama yapıyor #Canlı</description>
     </item>
     <item>
       <title>Halk TV: AKP KENDİ KENDİNİ PATLATTI! İmamoğlu'na kurulan tezgah ayaklarına dolandı! Mustafa Balbay anlattı!</title>
