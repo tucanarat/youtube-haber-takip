@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 23:35:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 23:40:37 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: Zafer Partisi Genel Başkanı Ümit Özdağ, Eğitim İş Sendikası'nı ziyaret etti #Canlı</title>
       <link>https://www.youtube.com/watch?v=KKG7nYBJSyo</link>
@@ -76,6 +76,13 @@
       <guid isPermaLink="false">qrWsvNimAy8</guid>
       <pubDate>Fri, 04 Sep 2026 22:19:25 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Gülinay Selçuk İle Haber Bülteni</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Simge Fıstıkoğlu İle İyi ki Hafta Sonu</title>
+      <link>https://www.youtube.com/watch?v=OETiN9CqBf0</link>
+      <guid isPermaLink="false">OETiN9CqBf0</guid>
+      <pubDate>Fri, 04 Sep 2026 22:18:26 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Simge Fıstıkoğlu İle İyi ki Hafta Sonu</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Ceylin Çağatay İle Sabah Kahvesi</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">43940eUWxN8</guid>
       <pubDate>Fri, 04 Sep 2026 19:15:16 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Yöneticileri gözaltında: İktidara yakın gazete yoksulların yemek yediği Kent Lokantalarına saldırdı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Murat Ağırel Melih Gökçek Arşivini Açtı! O İSİMLERİ ANLATTI! Ankara'da Neler Yapmışlar Neler</title>
-      <link>https://www.youtube.com/watch?v=ERUhR734CGw</link>
-      <guid isPermaLink="false">ERUhR734CGw</guid>
-      <pubDate>Fri, 04 Sep 2026 19:10:20 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Murat Ağırel Melih Gökçek Arşivini Açtı! O İSİMLERİ ANLATTI! Ankara'da Neler Yapmışlar Neler</description>
     </item>
   </channel>
 </rss>
