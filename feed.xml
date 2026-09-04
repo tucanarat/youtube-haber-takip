@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 14:40:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 14:45:31 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: CHP'li yetkililer Üsküdar Belediye Başkanlığı önünde açıklama yapılıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=w_RDsR-77C8</link>
+      <guid isPermaLink="false">w_RDsR-77C8</guid>
+      <pubDate>Fri, 04 Sep 2026 14:44:44 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: CHP'li yetkililer Üsküdar Belediye Başkanlığı önünde açıklama yapılıyor #Canlı</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Üsküdar Belediye Başkanlığı önünde açıklama yapılıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=8YBFIKQUm4Q</link>
@@ -90,6 +97,13 @@
       <guid isPermaLink="false">mrN5cvHr-_c</guid>
       <pubDate>Fri, 04 Sep 2026 14:00:19 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Gökçek Ailesinin Milyon Euroluk Sırrı! Bülent Arınç'tan Melih Gökçek Sitemi! İsmail Saymaz Anlattı</description>
+    </item>
+    <item>
+      <title>Halk TV: MANİSA'DA YER GÖK İNLEDİ! Özgür Özel'in sözleri çok can yakacak! AKP ve CHP hesabını şimdi yapsın!</title>
+      <link>https://www.youtube.com/watch?v=EzVLO0atGSE</link>
+      <guid isPermaLink="false">EzVLO0atGSE</guid>
+      <pubDate>Fri, 04 Sep 2026 14:00:19 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: MANİSA'DA YER GÖK İNLEDİ! Özgür Özel'in sözleri çok can yakacak! AKP ve CHP hesabını şimdi yapsın!</description>
     </item>
     <item>
       <title>Halk TV: Üsküdar'da olanlar AKP'nin 'İBB' hamlesinin öncüsü mü? Murat Emir'in sözlerini dinlemeden geçmeyin!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">Qx1gP8-ckas</guid>
       <pubDate>Fri, 04 Sep 2026 12:18:39 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Canlı yayında akılalmaz anlar! Yemeğini beğenmedi diye müşteriye küfretti</description>
-    </item>
-    <item>
-      <title>Halk TV: AKP'NİN 'ÜSKÜDAR' TEZGAHI PATLADI! YENİ Partili Murat Emir, perde arkasındaki şok gerçeği anlattı!</title>
-      <link>https://www.youtube.com/watch?v=BSCwONJoX0s</link>
-      <guid isPermaLink="false">BSCwONJoX0s</guid>
-      <pubDate>Fri, 04 Sep 2026 12:15:37 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: AKP'NİN 'ÜSKÜDAR' TEZGAHI PATLADI! YENİ Partili Murat Emir, perde arkasındaki şok gerçeği anlattı!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Deniz Göktaş'a Üç Ayrı Suçtan 11 Yıl Hapis İstemi! "Bu Üç Suç İktidarın Bayrağı Haline Geldi!"</title>
-      <link>https://www.youtube.com/watch?v=R5TfKHHsZKs</link>
-      <guid isPermaLink="false">R5TfKHHsZKs</guid>
-      <pubDate>Fri, 04 Sep 2026 12:13:24 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Deniz Göktaş'a Üç Ayrı Suçtan 11 Yıl Hapis İstemi! "Bu Üç Suç İktidarın Bayrağı Haline Geldi!"</description>
     </item>
   </channel>
 </rss>
