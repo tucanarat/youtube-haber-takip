@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 12:50:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 12:55:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Gizem Çetin ile Parantez</title>
+      <link>https://www.youtube.com/watch?v=5aBk9HB_IEI</link>
+      <guid isPermaLink="false">5aBk9HB_IEI</guid>
+      <pubDate>Fri, 04 Sep 2026 12:53:35 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Gizem Çetin ile Parantez</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: Cumhurbaşkanı Erdoğan, Kitaba Vefa: Cilt Sanatı ve Restorasyon Sergisi'nde konuşuyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=PX1lm3-HdP4</link>
+      <guid isPermaLink="false">PX1lm3-HdP4</guid>
+      <pubDate>Fri, 04 Sep 2026 12:51:38 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Cumhurbaşkanı Erdoğan, Kitaba Vefa: Cilt Sanatı ve Restorasyon Sergisi'nde konuşuyor #Canlı</description>
+    </item>
+    <item>
+      <title>Halk TV: YENİ Parti Lideri Özgür Özel'i Çorlu'da cami çıkışı mahşeri bir kalabalık karşıladı!</title>
+      <link>https://www.youtube.com/shorts/csrpLr7kPKQ</link>
+      <guid isPermaLink="false">csrpLr7kPKQ</guid>
+      <pubDate>Fri, 04 Sep 2026 12:48:58 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YENİ Parti Lideri Özgür Özel'i Çorlu'da cami çıkışı mahşeri bir kalabalık karşıladı!</description>
+    </item>
     <item>
       <title>Halk TV: "ÜSKÜDAR'DA KAPKAÇ YAPACAKLAR" Özgür Özel, AKP'nin kirli oyununu bozdu! Erdoğan'ı yerden yere vurdu!</title>
       <link>https://www.youtube.com/watch?v=f5rBR-YJitA</link>
@@ -27,13 +48,6 @@
       <guid isPermaLink="false">QFHHntJFgnw</guid>
       <pubDate>Fri, 04 Sep 2026 12:41:28 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Özel: Kimi binalar var; içinde insan yok, bomboş ve kendilerine meşruiyet arama çabasındalar!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Cumhurbaşkanı Erdoğan, Kitaba Vefa: Cilt Sanatı ve Restorasyon Sergisi'nde konuşuyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=PX1lm3-HdP4</link>
-      <guid isPermaLink="false">PX1lm3-HdP4</guid>
-      <pubDate>Fri, 04 Sep 2026 12:38:41 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Cumhurbaşkanı Erdoğan, Kitaba Vefa: Cilt Sanatı ve Restorasyon Sergisi'nde konuşuyor #Canlı</description>
     </item>
     <item>
       <title>Cumhuriyet: Filenin Sultanları yarı final maçında Sırbistan ile karşılacak! Eda Erdem: Yarın zor bir gün olacak</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">W6wPtXs8W40</guid>
       <pubDate>Fri, 04 Sep 2026 10:27:30 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Şenol Sunat'tan MEB'in genelgesine sert tepki: Milli Eğitim iktidarın siyasi projesi değildir</description>
-    </item>
-    <item>
-      <title>Halk TV: KILIÇDAROĞLU BUNA DA 'ARINMA' DESİN! İşte butlancı Şimşek'in kadına şiddet anı! Önce vurdu sonra...</title>
-      <link>https://www.youtube.com/watch?v=XvNaJNUAn8Y</link>
-      <guid isPermaLink="false">XvNaJNUAn8Y</guid>
-      <pubDate>Fri, 04 Sep 2026 10:15:05 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KILIÇDAROĞLU BUNA DA 'ARINMA' DESİN! İşte butlancı Şimşek'in kadına şiddet anı! Önce vurdu sonra...</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Butlan CHP'sinden 'Üsküdar' açıklaması! "HEM İBB HEM ÜSKÜDAR MECLİSİNİ ETKİLEYECEK"</title>
-      <link>https://www.youtube.com/watch?v=vnUu6lp1OYY</link>
-      <guid isPermaLink="false">vnUu6lp1OYY</guid>
-      <pubDate>Fri, 04 Sep 2026 10:06:29 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Butlan CHP'sinden 'Üsküdar' açıklaması! "HEM İBB HEM ÜSKÜDAR MECLİSİNİ ETKİLEYECEK"</description>
     </item>
   </channel>
 </rss>
