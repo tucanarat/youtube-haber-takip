@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 15:45:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 15:50:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: KILIÇDAROĞLU VE ERDOĞAN HAZMEDEMEZ! Özgür Özel Manisa'yı yıktı geçti! Kahkahalar havada uçuştu!</title>
+      <link>https://www.youtube.com/watch?v=WJsBWLM9YBg</link>
+      <guid isPermaLink="false">WJsBWLM9YBg</guid>
+      <pubDate>Fri, 04 Sep 2026 15:45:22 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KILIÇDAROĞLU VE ERDOĞAN HAZMEDEMEZ! Özgür Özel Manisa'yı yıktı geçti! Kahkahalar havada uçuştu!</description>
+    </item>
     <item>
       <title>Halk TV: Bülent Arınç iddiaları soruldu! Melih Gökçek cevap vermeden uzaklaştı!</title>
       <link>https://www.youtube.com/watch?v=qijr1VBIGcI</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">OrBfGptR4WA</guid>
       <pubDate>Fri, 04 Sep 2026 13:13:39 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Özgür Özel:“Millet gözaltındayken seçim olacak ve Üsküdar’da kapkaç yapacaklar”</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Melih Gökçek adliyede...</title>
-      <link>https://www.youtube.com/shorts/d5RWY0nHWiA</link>
-      <guid isPermaLink="false">d5RWY0nHWiA</guid>
-      <pubDate>Fri, 04 Sep 2026 13:11:27 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Melih Gökçek adliyede...</description>
     </item>
   </channel>
 </rss>
