@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 16:50:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 16:55:27 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: #CANLI Özgür Özel, Tekirdağ'da halka hitap ediyor</title>
       <link>https://www.youtube.com/watch?v=PA-CZeHPGQM</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">sqH932Gyno8</guid>
       <pubDate>Fri, 04 Sep 2026 16:45:04 +0000</pubDate>
       <description>Halk TV kanalından yeni video: O İHBARIN TUTANAĞI ÇIKTI! Arif Ahmet Denizolgun’un doktoru tutuklandı! 'Yalan tanıklık' suçlaması!</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: YENİ Partili yetkililer Üsküdar Belediyesi önünde açıklama yapıyor  / İstanbul #Canlı</title>
+      <link>https://www.youtube.com/watch?v=D3tiqLVzWRo</link>
+      <guid isPermaLink="false">D3tiqLVzWRo</guid>
+      <pubDate>Fri, 04 Sep 2026 16:43:34 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Partili yetkililer Üsküdar Belediyesi önünde açıklama yapıyor  / İstanbul #Canlı</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Özlem Gürses'i Hiç Böyle Görmediniz! Berhan Şimşek'in Şiddet Görüntülerini Yerden Yere Vurdu</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">TAeprG2XVbk</guid>
       <pubDate>Fri, 04 Sep 2026 14:08:45 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Özgür Özel Tekirdağ’dan seslendi: "Bu hareket Türkiye'nin yeni umududur"</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Can Coşkun ile Gündem Masası | 4 Eylül</title>
-      <link>https://www.youtube.com/watch?v=V8zGMU-5gD8</link>
-      <guid isPermaLink="false">V8zGMU-5gD8</guid>
-      <pubDate>Fri, 04 Sep 2026 14:07:36 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Can Coşkun ile Gündem Masası | 4 Eylül</description>
     </item>
   </channel>
 </rss>
