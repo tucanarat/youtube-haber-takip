@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 15:50:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 15:55:25 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Çok çarpıcı Nicolas Sarkozy detayı... Melih Gökçek, ağzındaki sakızla birilerine mesaj mı verdi?</title>
+      <link>https://www.youtube.com/watch?v=HsZCiqqzPXw</link>
+      <guid isPermaLink="false">HsZCiqqzPXw</guid>
+      <pubDate>Fri, 04 Sep 2026 15:53:05 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Çok çarpıcı Nicolas Sarkozy detayı... Melih Gökçek, ağzındaki sakızla birilerine mesaj mı verdi?</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: MELİH GÖKÇEK'TEN İTİRAF GİBİ AÇIKLAMA!</title>
+      <link>https://www.youtube.com/shorts/3xlZzitSVRg</link>
+      <guid isPermaLink="false">3xlZzitSVRg</guid>
+      <pubDate>Fri, 04 Sep 2026 15:48:13 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: MELİH GÖKÇEK'TEN İTİRAF GİBİ AÇIKLAMA!</description>
+    </item>
     <item>
       <title>Halk TV: KILIÇDAROĞLU VE ERDOĞAN HAZMEDEMEZ! Özgür Özel Manisa'yı yıktı geçti! Kahkahalar havada uçuştu!</title>
       <link>https://www.youtube.com/watch?v=WJsBWLM9YBg</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">ZN4aXpFWPwc</guid>
       <pubDate>Fri, 04 Sep 2026 13:15:26 +0000</pubDate>
       <description>Halk TV kanalından yeni video: FARK GİTGİDE AÇILIYOR! Murat Emir YENİ Parti'nin oy oranını açıkladı! 'Cumhur' hüsrana uğrayacak!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Türkiye Karadeniz'de balıkçı silolarını korumak için ne yapmalı? Murat Çan anlattı...</title>
-      <link>https://www.youtube.com/watch?v=_1_EgiHZBEk</link>
-      <guid isPermaLink="false">_1_EgiHZBEk</guid>
-      <pubDate>Fri, 04 Sep 2026 13:15:07 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Türkiye Karadeniz'de balıkçı silolarını korumak için ne yapmalı? Murat Çan anlattı...</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Özgür Özel:“Millet gözaltındayken seçim olacak ve Üsküdar’da kapkaç yapacaklar”</title>
-      <link>https://www.youtube.com/shorts/OrBfGptR4WA</link>
-      <guid isPermaLink="false">OrBfGptR4WA</guid>
-      <pubDate>Fri, 04 Sep 2026 13:13:39 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Özgür Özel:“Millet gözaltındayken seçim olacak ve Üsküdar’da kapkaç yapacaklar”</description>
     </item>
   </channel>
 </rss>
