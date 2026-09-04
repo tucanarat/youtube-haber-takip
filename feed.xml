@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 15:40:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 15:45:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Bülent Arınç iddiaları soruldu! Melih Gökçek cevap vermeden uzaklaştı!</title>
+      <link>https://www.youtube.com/watch?v=qijr1VBIGcI</link>
+      <guid isPermaLink="false">qijr1VBIGcI</guid>
+      <pubDate>Fri, 04 Sep 2026 15:43:04 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Bülent Arınç iddiaları soruldu! Melih Gökçek cevap vermeden uzaklaştı!</description>
+    </item>
     <item>
       <title>Halk TV: YENİ Parti Genel Başkanı Özgür Özel Halka Seslendi!</title>
       <link>https://www.youtube.com/watch?v=ElA0KKv7FOs</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">d5RWY0nHWiA</guid>
       <pubDate>Fri, 04 Sep 2026 13:11:27 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Melih Gökçek adliyede...</description>
-    </item>
-    <item>
-      <title>Halk TV: "Öyle bir dönem yaşadık ki bir biz vardık yolda bir de siz vardınız arkamızda!"</title>
-      <link>https://www.youtube.com/shorts/OzdC36N1VD0</link>
-      <guid isPermaLink="false">OzdC36N1VD0</guid>
-      <pubDate>Fri, 04 Sep 2026 13:11:03 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: "Öyle bir dönem yaşadık ki bir biz vardık yolda bir de siz vardınız arkamızda!"</description>
     </item>
   </channel>
 </rss>
