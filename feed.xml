@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 14:50:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 14:55:25 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Gizem Çetin ile Parantez (4 Eylül 2026)</title>
+      <link>https://www.youtube.com/watch?v=5aBk9HB_IEI</link>
+      <guid isPermaLink="false">5aBk9HB_IEI</guid>
+      <pubDate>Fri, 04 Sep 2026 14:54:10 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Gizem Çetin ile Parantez (4 Eylül 2026)</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Ece Üner ile Halk Ana Haber | #hesapşaştı</title>
+      <link>https://www.youtube.com/watch?v=dPwfnycIIBA</link>
+      <guid isPermaLink="false">dPwfnycIIBA</guid>
+      <pubDate>Fri, 04 Sep 2026 14:50:30 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Ece Üner ile Halk Ana Haber | #hesapşaştı</description>
+    </item>
     <item>
       <title>Tele2 Haber: Kıbrıs açıklarında batan gemide asıl sorumluluk zinciri nerede başlıyor? Rasıh Reşat yorumladı...</title>
       <link>https://www.youtube.com/watch?v=6tE55yWNEyA</link>
@@ -281,13 +295,6 @@
       <description>ANKA Haber Ajansı kanalından yeni video: Eski ABB Başkanı Melih Gökçek, Ankara Adliyesi önünde açıklama yapıyor #Canlı</description>
     </item>
     <item>
-      <title>Halk TV: Gizem Çetin ile Parantez (4 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=5aBk9HB_IEI</link>
-      <guid isPermaLink="false">5aBk9HB_IEI</guid>
-      <pubDate>Fri, 04 Sep 2026 12:53:35 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Gizem Çetin ile Parantez (4 Eylül 2026)</description>
-    </item>
-    <item>
       <title>Cumhuriyet: İfadeye çağrılmıştı: Melih Gökçek ağzında 'sakızla' adliyeye geldi</title>
       <link>https://www.youtube.com/shorts/xmH2pq9UC6k</link>
       <guid isPermaLink="false">xmH2pq9UC6k</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">QCaMfZwfDcA</guid>
       <pubDate>Fri, 04 Sep 2026 12:30:11 +0000</pubDate>
       <description>Halk TV kanalından yeni video: TÜM GÖZLER ANKARA'DA! Melih Gökçek savcı karşısında ifade verecek! Dilan Altürk detayları anlattı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Barış Terkoğlu Belgelerle Konuştu | Cem Küçük, Adnan Oktar, İmamoğlu, Mafya, Süleymancılar</title>
-      <link>https://www.youtube.com/watch?v=2z5Fo9mbt9A</link>
-      <guid isPermaLink="false">2z5Fo9mbt9A</guid>
-      <pubDate>Fri, 04 Sep 2026 12:30:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Barış Terkoğlu Belgelerle Konuştu | Cem Küçük, Adnan Oktar, İmamoğlu, Mafya, Süleymancılar</description>
     </item>
   </channel>
 </rss>
