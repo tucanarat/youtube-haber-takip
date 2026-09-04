@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 21:15:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 21:20:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Okuduğu okulda katliam yapan İsa Aras Mersinli'nin babasının yaptığı savunma şoke ettirdi!</title>
+      <link>https://www.youtube.com/watch?v=SeFBzGxQOVE</link>
+      <guid isPermaLink="false">SeFBzGxQOVE</guid>
+      <pubDate>Fri, 04 Sep 2026 21:15:30 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Okuduğu okulda katliam yapan İsa Aras Mersinli'nin babasının yaptığı savunma şoke ettirdi!</description>
+    </item>
+    <item>
+      <title>Halk TV: İBB Başkanvekili Nuri Aslan’ın babası Muharrem Aslan için cenaze töreni düzenlendi! #shorts</title>
+      <link>https://www.youtube.com/shorts/5ekAskSdRIs</link>
+      <guid isPermaLink="false">5ekAskSdRIs</guid>
+      <pubDate>Fri, 04 Sep 2026 21:14:56 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İBB Başkanvekili Nuri Aslan’ın babası Muharrem Aslan için cenaze töreni düzenlendi! #shorts</description>
+    </item>
     <item>
       <title>Tele2 Haber: Özgür Özel'in Kılıçdaroğlu'yla tokalaşması! Bülent Mumay ve Can Kakışım'dan ezber bozan yorum!</title>
       <link>https://www.youtube.com/watch?v=yNNA7qY_HD4</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">YQS14C4CpGY</guid>
       <pubDate>Fri, 04 Sep 2026 17:50:32 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Murat Ağırel Melih Gökçek Dosyasını Bir Bir Açtı! Küçük Dilinizi Yutacağınız O Belgeler</description>
-    </item>
-    <item>
-      <title>Halk TV: MANİSA'DA YER GÖK İNLEDİ! Özgür Özel'in sözleri çok can yakacak! AKP ve CHP hesabını şimdi yapsın!</title>
-      <link>https://www.youtube.com/watch?v=EzVLO0atGSE</link>
-      <guid isPermaLink="false">EzVLO0atGSE</guid>
-      <pubDate>Fri, 04 Sep 2026 17:45:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: MANİSA'DA YER GÖK İNLEDİ! Özgür Özel'in sözleri çok can yakacak! AKP ve CHP hesabını şimdi yapsın!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: BÜLENT MUMAY'DAN ÇOK KRİTİK MELİH GÖKÇEK HATIRLATMASI!</title>
-      <link>https://www.youtube.com/shorts/wlGgjlY6nFI</link>
-      <guid isPermaLink="false">wlGgjlY6nFI</guid>
-      <pubDate>Fri, 04 Sep 2026 17:40:07 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: BÜLENT MUMAY'DAN ÇOK KRİTİK MELİH GÖKÇEK HATIRLATMASI!</description>
     </item>
   </channel>
 </rss>
