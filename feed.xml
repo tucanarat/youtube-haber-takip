@@ -6,13 +6,34 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 11:50:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 11:55:25 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SON DAKİKA! ÖN TESPİT RAPORU ÇIKTI! Silivri'de batan gemi Tuğberk İmamoğlu'nun yeri tespit edildi!</title>
+      <link>https://www.youtube.com/watch?v=ThQMMcgDZSQ</link>
+      <guid isPermaLink="false">ThQMMcgDZSQ</guid>
+      <pubDate>Fri, 04 Sep 2026 11:52:40 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! ÖN TESPİT RAPORU ÇIKTI! Silivri'de batan gemi Tuğberk İmamoğlu'nun yeri tespit edildi!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Butlancı Şimşek’ten kadına şiddet! I Arınç’tan Gökçek hamlesi: Koşa koşa giderim | Manşet Ötesi</title>
+      <link>https://www.youtube.com/watch?v=aSVTFTGDROc</link>
+      <guid isPermaLink="false">aSVTFTGDROc</guid>
+      <pubDate>Fri, 04 Sep 2026 11:52:08 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Butlancı Şimşek’ten kadına şiddet! I Arınç’tan Gökçek hamlesi: Koşa koşa giderim | Manşet Ötesi</description>
+    </item>
     <item>
       <title>Halk TV: REKOR ÜSTÜNE REKOR! YENİ Parti'ye üyeliklerde durdurulamayan artış! Son durumu Murat Emir açıkladı!</title>
       <link>https://www.youtube.com/watch?v=rYgel24-W7E</link>
       <guid isPermaLink="false">rYgel24-W7E</guid>
       <pubDate>Fri, 04 Sep 2026 11:45:28 +0000</pubDate>
       <description>Halk TV kanalından yeni video: REKOR ÜSTÜNE REKOR! YENİ Parti'ye üyeliklerde durdurulamayan artış! Son durumu Murat Emir açıkladı!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: "Özel Üsküdar Seçimleri Öncesi Gözaltılara Ateş Püskürdü! "Millet Gözaltındayken Kapkaç Yapacaklar!"</title>
+      <link>https://www.youtube.com/watch?v=H-2CUt2s42w</link>
+      <guid isPermaLink="false">H-2CUt2s42w</guid>
+      <pubDate>Fri, 04 Sep 2026 11:43:19 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "Özel Üsküdar Seçimleri Öncesi Gözaltılara Ateş Püskürdü! "Millet Gözaltındayken Kapkaç Yapacaklar!"</description>
     </item>
     <item>
       <title>Cumhuriyet: Özgür Özel'den çok konuşulacak 'Üsküdar' çıkışı! "YÜZLERİNİN ASTARI YIRTILMIŞ"</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">OTUQDyTn8Ow</guid>
       <pubDate>Fri, 04 Sep 2026 09:00:35 +0000</pubDate>
       <description>Halk TV kanalından yeni video: AKP KENDİNİ BÖYLE ELE VERDİ! Ortaya çıkan 'Üsküdar' tablosu yeri yerinden oynatacak! Plan işliyor!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Sarp kayalıklarda nefes kesen operasyon: Dağda mahsur kalan oğlaklar kurtarıldı</title>
-      <link>https://www.youtube.com/shorts/tZ6MxwXo7Zo</link>
-      <guid isPermaLink="false">tZ6MxwXo7Zo</guid>
-      <pubDate>Fri, 04 Sep 2026 09:00:13 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Sarp kayalıklarda nefes kesen operasyon: Dağda mahsur kalan oğlaklar kurtarıldı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Barış Terkoğlu Anlattı! VURGUN ÜSTÜNE VURGUN! Melih Gökçek Mal Varlığını Yurt Dışına mı Kaçırıyor?</title>
-      <link>https://www.youtube.com/watch?v=IiQ0uu1q4Ew</link>
-      <guid isPermaLink="false">IiQ0uu1q4Ew</guid>
-      <pubDate>Fri, 04 Sep 2026 09:00:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Barış Terkoğlu Anlattı! VURGUN ÜSTÜNE VURGUN! Melih Gökçek Mal Varlığını Yurt Dışına mı Kaçırıyor?</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: İbadethanede vicdansızlık: Adana’da camiye namaza gelen kadının altınlarını çaldılar</title>
-      <link>https://www.youtube.com/shorts/Cu1JeHQMzvs</link>
-      <guid isPermaLink="false">Cu1JeHQMzvs</guid>
-      <pubDate>Fri, 04 Sep 2026 08:57:15 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: İbadethanede vicdansızlık: Adana’da camiye namaza gelen kadının altınlarını çaldılar</description>
     </item>
   </channel>
 </rss>
