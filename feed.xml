@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 18:55:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 19:00:51 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Serap Belovacıklı ile Aklın Yolu | 4 Eylül</title>
+      <link>https://www.youtube.com/watch?v=uUL5xjhD84E</link>
+      <guid isPermaLink="false">uUL5xjhD84E</guid>
+      <pubDate>Fri, 04 Sep 2026 18:57:44 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Serap Belovacıklı ile Aklın Yolu | 4 Eylül</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Melih Gökçek İfadesini Verdi! 'Beni Yakalayamadılar' Gazetecilere Kızdı Gitti! Mansur Yavaş Sözleri</title>
+      <link>https://www.youtube.com/watch?v=2w1A1NqljpU</link>
+      <guid isPermaLink="false">2w1A1NqljpU</guid>
+      <pubDate>Fri, 04 Sep 2026 18:50:35 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Melih Gökçek İfadesini Verdi! 'Beni Yakalayamadılar' Gazetecilere Kızdı Gitti! Mansur Yavaş Sözleri</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Ahmet ve Hülya Gökçek'e Murat Ağırel'den Zor Soru! Melih Gökçek Dosyasında Pes Dedirten Detaylar</title>
+      <link>https://www.youtube.com/watch?v=YAIfshJn1NI</link>
+      <guid isPermaLink="false">YAIfshJn1NI</guid>
+      <pubDate>Fri, 04 Sep 2026 18:50:18 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Ahmet ve Hülya Gökçek'e Murat Ağırel'den Zor Soru! Melih Gökçek Dosyasında Pes Dedirten Detaylar</description>
+    </item>
     <item>
       <title>Halk TV: ŞOK AÇIKLAMA! MELİH GÖKÇEK: 500 KEZ SIÇRADIM AMA BENİ YAKALAYAMADILAR!</title>
       <link>https://www.youtube.com/watch?v=UNqtInqITws</link>
@@ -211,13 +232,6 @@
       <description>Halk TV kanalından yeni video: #CANLI | Ece Üner ile Halk Ana Haber | #hesapşaştı</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: Melih Gökçek İfadesini Verdi! 'Beni Yakalayamadılar' Gazetecilere Kızdı Gitti! Mansur Yavaş Sözleri</title>
-      <link>https://www.youtube.com/watch?v=2w1A1NqljpU</link>
-      <guid isPermaLink="false">2w1A1NqljpU</guid>
-      <pubDate>Fri, 04 Sep 2026 17:01:53 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Melih Gökçek İfadesini Verdi! 'Beni Yakalayamadılar' Gazetecilere Kızdı Gitti! Mansur Yavaş Sözleri</description>
-    </item>
-    <item>
       <title>ANKA Haber Ajansı: Tutuklu komedyen Deniz Göktaş’a destek için açıklama yapılıyor / İstanbul #Canlı</title>
       <link>https://www.youtube.com/watch?v=F8vEY88NCpI</link>
       <guid isPermaLink="false">F8vEY88NCpI</guid>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">u5JAPp6OlJE</guid>
       <pubDate>Fri, 04 Sep 2026 16:00:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Timur Soykan'dan Bomba Kulisler | İmamoğlu, Üsküdar Belediyesi, Melih Gökçek, Binali Yıldırım</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Oya Lale Özarslan'a tutuklama talebi! Başaran Aksu ve Gökay Çakır tahliye edildi!</title>
-      <link>https://www.youtube.com/watch?v=By_As3JFmd0</link>
-      <guid isPermaLink="false">By_As3JFmd0</guid>
-      <pubDate>Fri, 04 Sep 2026 16:00:02 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Oya Lale Özarslan'a tutuklama talebi! Başaran Aksu ve Gökay Çakır tahliye edildi!</description>
-    </item>
-    <item>
-      <title>Halk TV: Çok çarpıcı Nicolas Sarkozy detayı... Melih Gökçek, ağzındaki sakızla birilerine mesaj mı verdi?</title>
-      <link>https://www.youtube.com/watch?v=HsZCiqqzPXw</link>
-      <guid isPermaLink="false">HsZCiqqzPXw</guid>
-      <pubDate>Fri, 04 Sep 2026 15:53:05 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Çok çarpıcı Nicolas Sarkozy detayı... Melih Gökçek, ağzındaki sakızla birilerine mesaj mı verdi?</description>
     </item>
   </channel>
 </rss>
