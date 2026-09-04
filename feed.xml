@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 13:40:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 13:45:38 +0000</lastBuildDate>
     <item>
       <title>Halk TV: SAVCILIKTAN FLAŞ HAMLE! Melih Gökçek dönemi mercek altına alındı! 36 şirketin ihale bilgisi istendi!</title>
       <link>https://www.youtube.com/watch?v=ppSMp5w0iwQ</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">I8nuA_Aom4Q</guid>
       <pubDate>Fri, 04 Sep 2026 13:30:12 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Karadeniz'de yaşananların ekonomiye zararı ne kadar oldu? Murat Çam korkunç tabloyu aktardı...</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Rizeli Dursun Ali lösemiyi ikinci kez yendi... Horonlarla taburcu edildi</title>
+      <link>https://www.youtube.com/watch?v=muA2f2A0N0s</link>
+      <guid isPermaLink="false">muA2f2A0N0s</guid>
+      <pubDate>Fri, 04 Sep 2026 13:29:54 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Rizeli Dursun Ali lösemiyi ikinci kez yendi... Horonlarla taburcu edildi</description>
     </item>
     <item>
       <title>Halk TV: Eski ABB Başkanı Melih Gökçek, ifade vermek için Ankara Adalet Sarayı’na sakız çiğneyerek geldi!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">0F5PwG40tBQ</guid>
       <pubDate>Fri, 04 Sep 2026 11:34:32 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Özgür Özel'den çok konuşulacak 'Üsküdar' çıkışı! "YÜZLERİNİN ASTARI YIRTILMIŞ"</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Özgür Özel'den Kritik Karar! Masasındaki En Zorlu Dosya! Ankara Bunu Konuşuyor</title>
-      <link>https://www.youtube.com/watch?v=i7ADLPzHBJY</link>
-      <guid isPermaLink="false">i7ADLPzHBJY</guid>
-      <pubDate>Fri, 04 Sep 2026 11:30:32 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Özgür Özel'den Kritik Karar! Masasındaki En Zorlu Dosya! Ankara Bunu Konuşuyor</description>
     </item>
   </channel>
 </rss>
