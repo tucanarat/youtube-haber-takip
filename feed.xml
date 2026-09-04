@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 16:00:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 16:05:28 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Timur Soykan'dan Bomba Kulisler | İmamoğlu, Üsküdar Belediyesi, Melih Gökçek, Binali Yıldırım</title>
+      <link>https://www.youtube.com/watch?v=u5JAPp6OlJE</link>
+      <guid isPermaLink="false">u5JAPp6OlJE</guid>
+      <pubDate>Fri, 04 Sep 2026 16:00:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Timur Soykan'dan Bomba Kulisler | İmamoğlu, Üsküdar Belediyesi, Melih Gökçek, Binali Yıldırım</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Oya Lale Özarslan'a tutuklama talebi! Başaran Aksu ve Gökay Çakır tahliye edildi!</title>
+      <link>https://www.youtube.com/watch?v=By_As3JFmd0</link>
+      <guid isPermaLink="false">By_As3JFmd0</guid>
+      <pubDate>Fri, 04 Sep 2026 16:00:02 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Oya Lale Özarslan'a tutuklama talebi! Başaran Aksu ve Gökay Çakır tahliye edildi!</description>
+    </item>
     <item>
       <title>Halk TV: Çok çarpıcı Nicolas Sarkozy detayı... Melih Gökçek, ağzındaki sakızla birilerine mesaj mı verdi?</title>
       <link>https://www.youtube.com/watch?v=HsZCiqqzPXw</link>
@@ -34,6 +48,13 @@
       <guid isPermaLink="false">qijr1VBIGcI</guid>
       <pubDate>Fri, 04 Sep 2026 15:43:04 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Bülent Arınç iddiaları soruldu! Melih Gökçek cevap vermeden uzaklaştı!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: 'Beni Yakalayamadılar' Melih Gökçek'ten Savcılık Çıkışı Olay Sözler! Mansur Yavaş'a Çarpıcı Rest</title>
+      <link>https://www.youtube.com/watch?v=uH-3RCdhsm4</link>
+      <guid isPermaLink="false">uH-3RCdhsm4</guid>
+      <pubDate>Fri, 04 Sep 2026 15:41:00 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: 'Beni Yakalayamadılar' Melih Gökçek'ten Savcılık Çıkışı Olay Sözler! Mansur Yavaş'a Çarpıcı Rest</description>
     </item>
     <item>
       <title>Halk TV: YENİ Parti Genel Başkanı Özgür Özel Halka Seslendi!</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">V66aGOOq5bg</guid>
       <pubDate>Fri, 04 Sep 2026 13:25:50 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Eski ABB Başkanı Melih Gökçek, ifade vermek için Ankara Adalet Sarayı’na sakız çiğneyerek geldi!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İsmail Saymaz'dan Melih Gökçek'in Sakız Şovuna Sert Tepki: "Tweet Atmaya Benzemez!"</title>
-      <link>https://www.youtube.com/watch?v=osHyveA0pbg</link>
-      <guid isPermaLink="false">osHyveA0pbg</guid>
-      <pubDate>Fri, 04 Sep 2026 13:25:26 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İsmail Saymaz'dan Melih Gökçek'in Sakız Şovuna Sert Tepki: "Tweet Atmaya Benzemez!"</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: KARADENİZ'DE SİVİL GEMİLER SAVAŞIN HEDEFİNDE! Zeynel Lüle ile Ankara Günlüğü | Konuk: Murat Çan</title>
-      <link>https://www.youtube.com/watch?v=Xujdh5IXWFs</link>
-      <guid isPermaLink="false">Xujdh5IXWFs</guid>
-      <pubDate>Fri, 04 Sep 2026 13:25:23 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: KARADENİZ'DE SİVİL GEMİLER SAVAŞIN HEDEFİNDE! Zeynel Lüle ile Ankara Günlüğü | Konuk: Murat Çan</description>
-    </item>
-    <item>
-      <title>Halk TV: FARK GİTGİDE AÇILIYOR! Murat Emir YENİ Parti'nin oy oranını açıkladı! 'Cumhur' hüsrana uğrayacak!</title>
-      <link>https://www.youtube.com/watch?v=ZN4aXpFWPwc</link>
-      <guid isPermaLink="false">ZN4aXpFWPwc</guid>
-      <pubDate>Fri, 04 Sep 2026 13:15:26 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: FARK GİTGİDE AÇILIYOR! Murat Emir YENİ Parti'nin oy oranını açıkladı! 'Cumhur' hüsrana uğrayacak!</description>
     </item>
   </channel>
 </rss>
