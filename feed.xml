@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 22:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 22:20:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Mustafa Topaloğlu’ndan dikkat çeken Amedspor açıklaması! #shorts</title>
+      <link>https://www.youtube.com/shorts/rRAoqXU-BCw</link>
+      <guid isPermaLink="false">rRAoqXU-BCw</guid>
+      <pubDate>Fri, 04 Sep 2026 22:10:15 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Mustafa Topaloğlu’ndan dikkat çeken Amedspor açıklaması! #shorts</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Pınar Erbaş ile Gecenin Sözü 4 Eylül</title>
       <link>https://www.youtube.com/watch?v=zA6yUKvIduk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">DaE8PlqhY30</guid>
       <pubDate>Fri, 04 Sep 2026 18:30:16 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Önce Sinem Dedetaş tutuklandı... AKP, sandıkta kaybettiği Üsküdar'ı masa başında kazanma derdinde!</description>
-    </item>
-    <item>
-      <title>Halk TV: Deposunda 200 kilo altın bulunmuştu: İrfan Yılmaz gözaltında, 5 şirkete de el konuldu!</title>
-      <link>https://www.youtube.com/watch?v=s_3n9U6uAGk</link>
-      <guid isPermaLink="false">s_3n9U6uAGk</guid>
-      <pubDate>Fri, 04 Sep 2026 18:30:14 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Deposunda 200 kilo altın bulunmuştu: İrfan Yılmaz gözaltında, 5 şirkete de el konuldu!</description>
     </item>
   </channel>
 </rss>
