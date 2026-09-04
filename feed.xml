@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 09:05:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 09:10:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: AKP KENDİNİ BÖYLE ELE VERDİ! Ortaya çıkan 'Üsküdar' tablosu yeri yerinden oynatacak! Plan işliyor!</title>
+      <link>https://www.youtube.com/watch?v=OTUQDyTn8Ow</link>
+      <guid isPermaLink="false">OTUQDyTn8Ow</guid>
+      <pubDate>Fri, 04 Sep 2026 09:00:35 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: AKP KENDİNİ BÖYLE ELE VERDİ! Ortaya çıkan 'Üsküdar' tablosu yeri yerinden oynatacak! Plan işliyor!</description>
+    </item>
     <item>
       <title>Cumhuriyet: Sarp kayalıklarda nefes kesen operasyon: Dağda mahsur kalan oğlaklar kurtarıldı</title>
       <link>https://www.youtube.com/shorts/tZ6MxwXo7Zo</link>
@@ -71,11 +78,11 @@
       <description>SÖZCÜ TV kanalından yeni video: MANSUR YAVAŞ'I ADAY İSTİYORLAR! Erdoğan'ı Kızdıracak İttifak Senaryosu! Fatih Erbakan Hamlesi</description>
     </item>
     <item>
-      <title>Halk TV: SON DAKİKA! KAHREDEN HABER GELDİ! Girne’de iki kişinin daha naaşına ulaşıldı! 16 kişi hala aranıyor!</title>
+      <title>Halk TV: SON DAKİKA! KAHREDEN HABER GELDİ! Girne'de iki kişinin daha naaşına ulaşıldı! 16 kişi hala aranıyor!</title>
       <link>https://www.youtube.com/watch?v=M5WF0UO-Kdg</link>
       <guid isPermaLink="false">M5WF0UO-Kdg</guid>
       <pubDate>Fri, 04 Sep 2026 08:30:16 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! KAHREDEN HABER GELDİ! Girne’de iki kişinin daha naaşına ulaşıldı! 16 kişi hala aranıyor!</description>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! KAHREDEN HABER GELDİ! Girne'de iki kişinin daha naaşına ulaşıldı! 16 kişi hala aranıyor!</description>
     </item>
     <item>
       <title>Tele2 Haber: Onur Öncü'den Ümit Özdağ'a "Provokasyon" Tepkisi!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Tqt-8vF95U0</guid>
       <pubDate>Fri, 04 Sep 2026 05:19:12 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Süheyla Demir ile Günaydın Türkiye (4 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Maç Varsa Erman Hoca Var | Erman Toroğlu</title>
-      <link>https://www.youtube.com/watch?v=F5juyZYN14E</link>
-      <guid isPermaLink="false">F5juyZYN14E</guid>
-      <pubDate>Fri, 04 Sep 2026 05:15:24 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Maç Varsa Erman Hoca Var | Erman Toroğlu</description>
     </item>
   </channel>
 </rss>
