@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 14:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 14:10:46 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Özgür Özel Tekirdağ’dan seslendi: "Bu hareket Türkiye'nin yeni umududur"</title>
+      <link>https://www.youtube.com/watch?v=TAeprG2XVbk</link>
+      <guid isPermaLink="false">TAeprG2XVbk</guid>
+      <pubDate>Fri, 04 Sep 2026 14:08:45 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Özgür Özel Tekirdağ’dan seslendi: "Bu hareket Türkiye'nin yeni umududur"</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Can Coşkun ile Gündem Masası | 4 Eylül</title>
+      <link>https://www.youtube.com/watch?v=V8zGMU-5gD8</link>
+      <guid isPermaLink="false">V8zGMU-5gD8</guid>
+      <pubDate>Fri, 04 Sep 2026 14:07:36 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Can Coşkun ile Gündem Masası | 4 Eylül</description>
+    </item>
     <item>
       <title>Halk TV: FİTİLİ ATEŞLEDİ! Özgür Özel'in vaatleri gözlere uyku girdirmez! Beştepe ve Genel Merkez ayaklanacak!</title>
       <link>https://www.youtube.com/watch?v=RVBW2qKMdF4</link>
@@ -20,6 +34,13 @@
       <guid isPermaLink="false">POx3LDPZKGE</guid>
       <pubDate>Fri, 04 Sep 2026 14:00:20 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Üsküdar'da AKP'ye Dört Transfer... "Rahata ve Menfaate Tevessül Edenler Bizi Aşağı Çekiyor!"</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Gökçek Ailesinin Milyon Euroluk Sırrı! Bülent Arınç'tan Melih Gökçek Sitemi! İsmail Saymaz Anlattı</title>
+      <link>https://www.youtube.com/watch?v=mrN5cvHr-_c</link>
+      <guid isPermaLink="false">mrN5cvHr-_c</guid>
+      <pubDate>Fri, 04 Sep 2026 14:00:19 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Gökçek Ailesinin Milyon Euroluk Sırrı! Bülent Arınç'tan Melih Gökçek Sitemi! İsmail Saymaz Anlattı</description>
     </item>
     <item>
       <title>Halk TV: Üsküdar'da olanlar AKP'nin 'İBB' hamlesinin öncüsü mü? Murat Emir'in sözlerini dinlemeden geçmeyin!</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">ckb-toYfMJU</guid>
       <pubDate>Fri, 04 Sep 2026 12:00:19 +0000</pubDate>
       <description>Halk TV kanalından yeni video: TÜYLER ÜRPERTİR! Gülistan kaybolduktan tam '2 dakika' sonra gelen isim milyonları sarsar! Şok detay!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Özgür Özel Çorlu'dan 'MUTLAK BUTLAN' yönetimine gönderme yaptı!</title>
-      <link>https://www.youtube.com/watch?v=YsGSn9YG58s</link>
-      <guid isPermaLink="false">YsGSn9YG58s</guid>
-      <pubDate>Fri, 04 Sep 2026 12:00:06 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Özgür Özel Çorlu'dan 'MUTLAK BUTLAN' yönetimine gönderme yaptı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Savaş Kurtbaba'dan Güllü'nün Ölümüyle İlgili Yeni Bilgiler! "AYLARCA HAZIRLIK YAPMIŞLAR!"</title>
-      <link>https://www.youtube.com/watch?v=GYXi0DLVQzA</link>
-      <guid isPermaLink="false">GYXi0DLVQzA</guid>
-      <pubDate>Fri, 04 Sep 2026 12:00:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Savaş Kurtbaba'dan Güllü'nün Ölümüyle İlgili Yeni Bilgiler! "AYLARCA HAZIRLIK YAPMIŞLAR!"</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: ÖZGÜR ÖZEL ÜSKÜDAR SEÇİMLERİ ÖNCESİ ATEŞ PÜSKÜRDÜ!</title>
-      <link>https://www.youtube.com/shorts/sFAKKh8Yuzw</link>
-      <guid isPermaLink="false">sFAKKh8Yuzw</guid>
-      <pubDate>Fri, 04 Sep 2026 11:57:49 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: ÖZGÜR ÖZEL ÜSKÜDAR SEÇİMLERİ ÖNCESİ ATEŞ PÜSKÜRDÜ!</description>
     </item>
   </channel>
 </rss>
