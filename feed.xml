@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 09:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 10:00:52 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Ebru Baki ile Para Siyaset | İbrahim Kahveci (4 Eylül 2026)</title>
+      <link>https://www.youtube.com/watch?v=A7QYkLXITB4</link>
+      <guid isPermaLink="false">A7QYkLXITB4</guid>
+      <pubDate>Fri, 04 Sep 2026 09:58:51 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Ebru Baki ile Para Siyaset | İbrahim Kahveci (4 Eylül 2026)</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | İrem Sansak ile Haber Masası</title>
+      <link>https://www.youtube.com/watch?v=PiY55uB1EdQ</link>
+      <guid isPermaLink="false">PiY55uB1EdQ</guid>
+      <pubDate>Fri, 04 Sep 2026 09:55:52 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | İrem Sansak ile Haber Masası</description>
+    </item>
     <item>
       <title>Cumhuriyet: ‘Ünlü’ müdürün şüpheli işleri-Barış Pehlivan</title>
       <link>https://www.youtube.com/watch?v=-Cm9ESKteeU</link>
@@ -20,6 +34,13 @@
       <guid isPermaLink="false">eFF3sRqow-g</guid>
       <pubDate>Fri, 04 Sep 2026 09:53:05 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: DGD Üyesi Şevval Taşçı'dan Çok Kritik İşkence İddiası! Kuyu Tİplerinde Ne Oluyor?</description>
+    </item>
+    <item>
+      <title>Halk TV: GÖZYAŞLARI SEL OLUR!  Silivri faciasından dakikalar önce ailesiyle görüntülü konuşmuş! Yürek yakar!</title>
+      <link>https://www.youtube.com/watch?v=oZrbtrTY894</link>
+      <guid isPermaLink="false">oZrbtrTY894</guid>
+      <pubDate>Fri, 04 Sep 2026 09:45:26 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: GÖZYAŞLARI SEL OLUR!  Silivri faciasından dakikalar önce ailesiyle görüntülü konuşmuş! Yürek yakar!</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Müslim Sarı Üsküdar Belediyesi’nde 4 belediye meclis üyesinin AK Parti’ye geçmesini eleştirdi</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">MdB8qMXpp7s</guid>
       <pubDate>Fri, 04 Sep 2026 07:13:55 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: 3. KESK Kadın Kurultayı / Ankara #Canlı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Barış Terkoğlu Anlatıyor: Melih Gökçek Gerçekleri, Fethullahçı Çete İdris Naim Şahin'e Ne Verdi?</title>
-      <link>https://www.youtube.com/watch?v=fR-8HACmHis</link>
-      <guid isPermaLink="false">fR-8HACmHis</guid>
-      <pubDate>Fri, 04 Sep 2026 07:00:21 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Barış Terkoğlu Anlatıyor: Melih Gökçek Gerçekleri, Fethullahçı Çete İdris Naim Şahin'e Ne Verdi?</description>
-    </item>
-    <item>
-      <title>Halk TV: Gökhan Kayış ile Haberler (4 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=bV9NsH9Uu04</link>
-      <guid isPermaLink="false">bV9NsH9Uu04</guid>
-      <pubDate>Fri, 04 Sep 2026 06:56:18 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Gökhan Kayış ile Haberler (4 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: Ebru Baki ile Para Siyaset | İbrahim Kahveci (4 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=A7QYkLXITB4</link>
-      <guid isPermaLink="false">A7QYkLXITB4</guid>
-      <pubDate>Fri, 04 Sep 2026 06:48:40 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ebru Baki ile Para Siyaset | İbrahim Kahveci (4 Eylül 2026)</description>
     </item>
   </channel>
 </rss>
