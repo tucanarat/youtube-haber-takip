@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 07:15:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 07:20:35 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Barış Terkoğlu Anlatıyor: Melih Gökçek Gerçekleri, Fethullahçı Çete İdris Naim Şahin'e Ne Verdi?</title>
+      <link>https://www.youtube.com/watch?v=fR-8HACmHis</link>
+      <guid isPermaLink="false">fR-8HACmHis</guid>
+      <pubDate>Fri, 04 Sep 2026 07:00:21 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Barış Terkoğlu Anlatıyor: Melih Gökçek Gerçekleri, Fethullahçı Çete İdris Naim Şahin'e Ne Verdi?</description>
+    </item>
     <item>
       <title>Halk TV: Gökhan Kayış ile Haberler (4 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=bV9NsH9Uu04</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">2E8UdT9HDTg</guid>
       <pubDate>Thu, 03 Sep 2026 20:01:16 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Senem Toluay Ilgaz ile Öncesi Sonrası Gece | Barış Terkoğlu &amp; Timur Soykan | 3 Eylül</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Medya Mafya Ağı Çöktü! Savunma Sanayisinde Gizli Çete İddiası! Tahir Sarıkaya Dosyası Her Şeyi Bozdu</title>
-      <link>https://www.youtube.com/watch?v=ebH990UMcqE</link>
-      <guid isPermaLink="false">ebH990UMcqE</guid>
-      <pubDate>Thu, 03 Sep 2026 20:00:34 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Medya Mafya Ağı Çöktü! Savunma Sanayisinde Gizli Çete İddiası! Tahir Sarıkaya Dosyası Her Şeyi Bozdu</description>
     </item>
   </channel>
 </rss>
