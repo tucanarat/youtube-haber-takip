@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 19:30:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 19:35:24 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: AKARYAKITTA ZAM YAĞMURU! Motorinde kademeli artışla adım adım 100 liraya!</title>
+      <link>https://www.youtube.com/watch?v=gc_TwIDob_A</link>
+      <guid isPermaLink="false">gc_TwIDob_A</guid>
+      <pubDate>Fri, 04 Sep 2026 19:30:23 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: AKARYAKITTA ZAM YAĞMURU! Motorinde kademeli artışla adım adım 100 liraya!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Murat Ağırel Sinirlendi! Melih Gökçek Ailesinden Şok Soru! 'SEN BU BELGELERİ NASIL BULDUN DİYOR?</title>
+      <link>https://www.youtube.com/watch?v=Cy12cD2Nw1M</link>
+      <guid isPermaLink="false">Cy12cD2Nw1M</guid>
+      <pubDate>Fri, 04 Sep 2026 19:30:17 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Murat Ağırel Sinirlendi! Melih Gökçek Ailesinden Şok Soru! 'SEN BU BELGELERİ NASIL BULDUN DİYOR?</description>
+    </item>
     <item>
       <title>Tele2 Haber: Melih Gökçek'ten sonra sıra Binali Yıldırım'da mı? Can Kakışım ve Bülent Mumay yorumluyor</title>
       <link>https://www.youtube.com/watch?v=8HcwlO7T-W8</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">VjzJsJrnqgw</guid>
       <pubDate>Fri, 04 Sep 2026 16:56:03 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses ile Sözcü Ana Haber 4 Eylül</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Özgür Özel, Tekirdağ'da halka hitap ediyor</title>
-      <link>https://www.youtube.com/watch?v=PA-CZeHPGQM</link>
-      <guid isPermaLink="false">PA-CZeHPGQM</guid>
-      <pubDate>Fri, 04 Sep 2026 16:47:34 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Özgür Özel, Tekirdağ'da halka hitap ediyor</description>
-    </item>
-    <item>
-      <title>Halk TV: O İHBARIN TUTANAĞI ÇIKTI! Arif Ahmet Denizolgun’un doktoru tutuklandı! 'Yalan tanıklık' suçlaması!</title>
-      <link>https://www.youtube.com/watch?v=sqH932Gyno8</link>
-      <guid isPermaLink="false">sqH932Gyno8</guid>
-      <pubDate>Fri, 04 Sep 2026 16:45:04 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: O İHBARIN TUTANAĞI ÇIKTI! Arif Ahmet Denizolgun’un doktoru tutuklandı! 'Yalan tanıklık' suçlaması!</description>
     </item>
   </channel>
 </rss>
