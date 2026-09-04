@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 14:30:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 14:35:27 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: TOZU DUMANA KATTI! Özgür Özel sözleriyle Manisa'da taşları yerinden oynattı! Beştepe alarma geçecek!</title>
+      <link>https://www.youtube.com/watch?v=BoyBr-_k8OI</link>
+      <guid isPermaLink="false">BoyBr-_k8OI</guid>
+      <pubDate>Fri, 04 Sep 2026 14:30:19 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: TOZU DUMANA KATTI! Özgür Özel sözleriyle Manisa'da taşları yerinden oynattı! Beştepe alarma geçecek!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İsmail Saymaz Melih Gökçek'i Aradı Zor Soruları Sordu! "AK Parti Sizi Gözden mi Çıkardı?"</title>
       <link>https://www.youtube.com/watch?v=OWhwzDNIVL0</link>
@@ -90,6 +97,13 @@
       <guid isPermaLink="false">8YBFIKQUm4Q</guid>
       <pubDate>Fri, 04 Sep 2026 13:41:44 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: CHP Sözcüsü Müslim Sarı, Üsküdar Belediye Başkanlığı önünde açıklama yapıyor #Canlı</description>
+    </item>
+    <item>
+      <title>Halk TV: AKP KENDİ KENDİNİ PATLATTI! İmamoğlu'na kurulan tezgah ayaklarına dolandı! Mustafa Balbay anlattı!</title>
+      <link>https://www.youtube.com/watch?v=m4nYN_JENco</link>
+      <guid isPermaLink="false">m4nYN_JENco</guid>
+      <pubDate>Fri, 04 Sep 2026 13:40:22 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: AKP KENDİ KENDİNİ PATLATTI! İmamoğlu'na kurulan tezgah ayaklarına dolandı! Mustafa Balbay anlattı!</description>
     </item>
     <item>
       <title>Halk TV: SAVCILIKTAN FLAŞ HAMLE! Melih Gökçek dönemi mercek altına alındı! 36 şirketin ihale bilgisi istendi!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">R5TfKHHsZKs</guid>
       <pubDate>Fri, 04 Sep 2026 12:13:24 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Deniz Göktaş'a Üç Ayrı Suçtan 11 Yıl Hapis İstemi! "Bu Üç Suç İktidarın Bayrağı Haline Geldi!"</description>
-    </item>
-    <item>
-      <title>Halk TV: Almanya'dan patenle yola çıkan sporcu Mustafa Sağlam, 10 ülke geçerek İpsala'dan Türkiye'ye girdi!</title>
-      <link>https://www.youtube.com/shorts/TsPEhq8dC3o</link>
-      <guid isPermaLink="false">TsPEhq8dC3o</guid>
-      <pubDate>Fri, 04 Sep 2026 12:07:51 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Almanya'dan patenle yola çıkan sporcu Mustafa Sağlam, 10 ülke geçerek İpsala'dan Türkiye'ye girdi!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Özgür Özel Çorlu'da bankın üzerinde konuştu: Siz istediniz biz yeni bir yol açtık</title>
-      <link>https://www.youtube.com/watch?v=K7PxQZYXw6g</link>
-      <guid isPermaLink="false">K7PxQZYXw6g</guid>
-      <pubDate>Fri, 04 Sep 2026 12:06:49 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Özgür Özel Çorlu'da bankın üzerinde konuştu: Siz istediniz biz yeni bir yol açtık</description>
     </item>
   </channel>
 </rss>
