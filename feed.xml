@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 18:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 18:45:31 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: YENİ Partili yetkililer Üsküdar Belediyesi önünde açıklama yapıyor  / İstanbul #Canlı</title>
       <link>https://www.youtube.com/watch?v=D3tiqLVzWRo</link>
       <guid isPermaLink="false">D3tiqLVzWRo</guid>
       <pubDate>Fri, 04 Sep 2026 18:30:46 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: YENİ Partili yetkililer Üsküdar Belediyesi önünde açıklama yapıyor  / İstanbul #Canlı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Ekrem İmamoğlu'na Gözaltı Melih Gökçek'e Davet! Onur Alp Yılmaz AKP'ye Verdi Veriştirdi</title>
+      <link>https://www.youtube.com/watch?v=RiGeyMKMoDk</link>
+      <guid isPermaLink="false">RiGeyMKMoDk</guid>
+      <pubDate>Fri, 04 Sep 2026 18:30:36 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Ekrem İmamoğlu'na Gözaltı Melih Gökçek'e Davet! Onur Alp Yılmaz AKP'ye Verdi Veriştirdi</description>
     </item>
     <item>
       <title>Halk TV: ÖZEL TEKİRDAĞ'DA: "HEP BİRLİKTE İKTİDAR OLACAK MIYIZ?" Coşkulu buluşmadan o görüntüler!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">3xlZzitSVRg</guid>
       <pubDate>Fri, 04 Sep 2026 15:48:13 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: MELİH GÖKÇEK'TEN İTİRAF GİBİ AÇIKLAMA!</description>
-    </item>
-    <item>
-      <title>Halk TV: KILIÇDAROĞLU VE ERDOĞAN HAZMEDEMEZ! Özgür Özel Manisa'yı yıktı geçti! Kahkahalar havada uçuştu!</title>
-      <link>https://www.youtube.com/watch?v=WJsBWLM9YBg</link>
-      <guid isPermaLink="false">WJsBWLM9YBg</guid>
-      <pubDate>Fri, 04 Sep 2026 15:45:22 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KILIÇDAROĞLU VE ERDOĞAN HAZMEDEMEZ! Özgür Özel Manisa'yı yıktı geçti! Kahkahalar havada uçuştu!</description>
     </item>
   </channel>
 </rss>
