@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 15:36:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 15:40:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: YENİ Parti Genel Başkanı Özgür Özel Halka Seslendi!</title>
+      <link>https://www.youtube.com/watch?v=ElA0KKv7FOs</link>
+      <guid isPermaLink="false">ElA0KKv7FOs</guid>
+      <pubDate>Fri, 04 Sep 2026 15:40:28 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel Halka Seslendi!</description>
+    </item>
+    <item>
+      <title>Halk TV: TÜM GÖZLER ANKARA'DA! Melih Gökçek'ten İfade Sonrası Açıklama! İşte Anbean Gelişmeler!</title>
+      <link>https://www.youtube.com/watch?v=mQ_kOWjBWUc</link>
+      <guid isPermaLink="false">mQ_kOWjBWUc</guid>
+      <pubDate>Fri, 04 Sep 2026 15:39:27 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: TÜM GÖZLER ANKARA'DA! Melih Gökçek'ten İfade Sonrası Açıklama! İşte Anbean Gelişmeler!</description>
+    </item>
     <item>
       <title>Halk TV: Niğde'deki Nirvana restoranın sahibi, yemeğini beğenmedi diye müşteriyi tehdit etti!</title>
       <link>https://www.youtube.com/shorts/hY-doqjOHP4</link>
@@ -62,13 +76,6 @@
       <guid isPermaLink="false">GS0kM67wPZA</guid>
       <pubDate>Fri, 04 Sep 2026 15:25:04 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Süleymanpaşa Hükümet Caddesi'nde Esnaf Ziyaret Ediyor!</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | YENİ Parti Genel Başkanı Özgür Özel Halka Sesleniyor!</title>
-      <link>https://www.youtube.com/watch?v=ElA0KKv7FOs</link>
-      <guid isPermaLink="false">ElA0KKv7FOs</guid>
-      <pubDate>Fri, 04 Sep 2026 15:22:56 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti Genel Başkanı Özgür Özel Halka Sesleniyor!</description>
     </item>
     <item>
       <title>Tele2 Haber: CANKURTARAN SİSTEMİ İLE İLGİLİ NE BİLİYORUZ? Korkunç detayı Rasıh Reşat aktardı!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">OzdC36N1VD0</guid>
       <pubDate>Fri, 04 Sep 2026 13:11:03 +0000</pubDate>
       <description>Halk TV kanalından yeni video: "Öyle bir dönem yaşadık ki bir biz vardık yolda bir de siz vardınız arkamızda!"</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti Lideri Özgür Özel'den Çorlu'da iktidar sözü!</title>
-      <link>https://www.youtube.com/shorts/ZsZIglEC-AI</link>
-      <guid isPermaLink="false">ZsZIglEC-AI</guid>
-      <pubDate>Fri, 04 Sep 2026 13:11:00 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti Lideri Özgür Özel'den Çorlu'da iktidar sözü!</description>
     </item>
   </channel>
 </rss>
