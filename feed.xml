@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 09:20:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 09:25:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: KAPTAN FACİAYI ÇAĞIRMIŞ! Silivri'deki gemi kazasında neler ortaya çıktı neler! Ağzınız açık kalacak!</title>
+      <link>https://www.youtube.com/watch?v=vc3dCOSZzic</link>
+      <guid isPermaLink="false">vc3dCOSZzic</guid>
+      <pubDate>Fri, 04 Sep 2026 09:15:05 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KAPTAN FACİAYI ÇAĞIRMIŞ! Silivri'deki gemi kazasında neler ortaya çıktı neler! Ağzınız açık kalacak!</description>
+    </item>
     <item>
       <title>Cumhuriyet: Hatay sahillerinde mucizevi yolculuk: Minik kaplumbağalar Akdeniz ile buluşuyor</title>
       <link>https://www.youtube.com/shorts/s2RXn55mhfI</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">cY8RpWjKEco</guid>
       <pubDate>Fri, 04 Sep 2026 06:01:55 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Kahramanmaraş'taki okul saldırısı davasının ilk duruşması öncesi açıklama yapılıyor #Canlı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İsmail Saymaz Melih Gökçek'i Anlattı: Almanya'ya Giden Paranın Kaynağı Ne?</title>
-      <link>https://www.youtube.com/watch?v=FARJqyJPYrI</link>
-      <guid isPermaLink="false">FARJqyJPYrI</guid>
-      <pubDate>Fri, 04 Sep 2026 06:00:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İsmail Saymaz Melih Gökçek'i Anlattı: Almanya'ya Giden Paranın Kaynağı Ne?</description>
     </item>
   </channel>
 </rss>
