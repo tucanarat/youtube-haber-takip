@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 11:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 12:00:57 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Özgür Özel Çorlu'dan 'MUTLAK BUTLAN' yönetimine gönderme yaptı!</title>
+      <link>https://www.youtube.com/watch?v=YsGSn9YG58s</link>
+      <guid isPermaLink="false">YsGSn9YG58s</guid>
+      <pubDate>Fri, 04 Sep 2026 12:00:06 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Özgür Özel Çorlu'dan 'MUTLAK BUTLAN' yönetimine gönderme yaptı!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: ÖZGÜR ÖZEL ÜSKÜDAR SEÇİMLERİ ÖNCESİ ATEŞ PÜSKÜRDÜ!</title>
+      <link>https://www.youtube.com/shorts/sFAKKh8Yuzw</link>
+      <guid isPermaLink="false">sFAKKh8Yuzw</guid>
+      <pubDate>Fri, 04 Sep 2026 11:57:49 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: ÖZGÜR ÖZEL ÜSKÜDAR SEÇİMLERİ ÖNCESİ ATEŞ PÜSKÜRDÜ!</description>
+    </item>
     <item>
       <title>Halk TV: SON DAKİKA! ÖN TESPİT RAPORU ÇIKTI! Silivri'de batan gemi Tuğberk İmamoğlu'nun yeri tespit edildi!</title>
       <link>https://www.youtube.com/watch?v=ThQMMcgDZSQ</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">vc3dCOSZzic</guid>
       <pubDate>Fri, 04 Sep 2026 09:15:05 +0000</pubDate>
       <description>Halk TV kanalından yeni video: KAPTAN FACİAYI ÇAĞIRMIŞ! Silivri'deki gemi kazasında neler ortaya çıktı neler! Ağzınız açık kalacak!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Hatay sahillerinde mucizevi yolculuk: Minik kaplumbağalar Akdeniz ile buluşuyor</title>
-      <link>https://www.youtube.com/shorts/s2RXn55mhfI</link>
-      <guid isPermaLink="false">s2RXn55mhfI</guid>
-      <pubDate>Fri, 04 Sep 2026 09:09:52 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Hatay sahillerinde mucizevi yolculuk: Minik kaplumbağalar Akdeniz ile buluşuyor</description>
-    </item>
-    <item>
-      <title>Halk TV: AKP KENDİNİ BÖYLE ELE VERDİ! Ortaya çıkan 'Üsküdar' tablosu yeri yerinden oynatacak! Plan işliyor!</title>
-      <link>https://www.youtube.com/watch?v=OTUQDyTn8Ow</link>
-      <guid isPermaLink="false">OTUQDyTn8Ow</guid>
-      <pubDate>Fri, 04 Sep 2026 09:00:35 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: AKP KENDİNİ BÖYLE ELE VERDİ! Ortaya çıkan 'Üsküdar' tablosu yeri yerinden oynatacak! Plan işliyor!</description>
     </item>
   </channel>
 </rss>
