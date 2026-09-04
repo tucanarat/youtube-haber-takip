@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 18:45:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 18:50:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ŞOK AÇIKLAMA! MELİH GÖKÇEK: 500 KEZ SIÇRADIM AMA BENİ YAKALAYAMADILAR!</title>
+      <link>https://www.youtube.com/watch?v=UNqtInqITws</link>
+      <guid isPermaLink="false">UNqtInqITws</guid>
+      <pubDate>Fri, 04 Sep 2026 18:45:34 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ŞOK AÇIKLAMA! MELİH GÖKÇEK: 500 KEZ SIÇRADIM AMA BENİ YAKALAYAMADILAR!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: YENİ Partili yetkililer Üsküdar Belediyesi önünde açıklama yapıyor  / İstanbul #Canlı</title>
       <link>https://www.youtube.com/watch?v=D3tiqLVzWRo</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">HsZCiqqzPXw</guid>
       <pubDate>Fri, 04 Sep 2026 15:53:05 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Çok çarpıcı Nicolas Sarkozy detayı... Melih Gökçek, ağzındaki sakızla birilerine mesaj mı verdi?</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: MELİH GÖKÇEK'TEN İTİRAF GİBİ AÇIKLAMA!</title>
-      <link>https://www.youtube.com/shorts/3xlZzitSVRg</link>
-      <guid isPermaLink="false">3xlZzitSVRg</guid>
-      <pubDate>Fri, 04 Sep 2026 15:48:13 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: MELİH GÖKÇEK'TEN İTİRAF GİBİ AÇIKLAMA!</description>
     </item>
   </channel>
 </rss>
