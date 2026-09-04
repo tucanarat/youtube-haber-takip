@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 21:55:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 22:00:49 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Pınar Erbaş ile Gecenin Sözü 4 Eylül</title>
+      <link>https://www.youtube.com/watch?v=zA6yUKvIduk</link>
+      <guid isPermaLink="false">zA6yUKvIduk</guid>
+      <pubDate>Fri, 04 Sep 2026 22:00:34 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Pınar Erbaş ile Gecenin Sözü 4 Eylül</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Burçin Atılgan ile Gündem Özel</title>
+      <link>https://www.youtube.com/watch?v=Nk9VD0hPx6E</link>
+      <guid isPermaLink="false">Nk9VD0hPx6E</guid>
+      <pubDate>Fri, 04 Sep 2026 21:59:26 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Burçin Atılgan ile Gündem Özel</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: UĞUR POYRAZ'DAN BÜLENT ARINÇ'A NET UYARI: "Bildiğin Suçu Bildirmemek...'</title>
       <link>https://www.youtube.com/watch?v=8iUM0WDuTsM</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">SvUSQaFDJ-s</guid>
       <pubDate>Fri, 04 Sep 2026 18:10:09 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: 'Mıntıka Temizliği' AKP'de Melih Gökçek ve Davutoğlu Depremi! Erdoğan'ın Seçim Planı Deşifre Oldu</description>
-    </item>
-    <item>
-      <title>Halk TV: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (04 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=qKNdhKSo6nY</link>
-      <guid isPermaLink="false">qKNdhKSo6nY</guid>
-      <pubDate>Fri, 04 Sep 2026 18:09:01 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (04 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | YENİ Partili yetkililer Üsküdar Belediyesi önünde açıklama yapıyor!</title>
-      <link>https://www.youtube.com/watch?v=PpFDTtPsKwg</link>
-      <guid isPermaLink="false">PpFDTtPsKwg</guid>
-      <pubDate>Fri, 04 Sep 2026 18:08:23 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | YENİ Partili yetkililer Üsküdar Belediyesi önünde açıklama yapıyor!</description>
     </item>
   </channel>
 </rss>
