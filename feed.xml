@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 12:25:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 12:30:42 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: AFŞİN HATİPOĞLU'NDAN ÇOK ÖNEMLİ DENİZ GÖKTAŞ YORUMU!</title>
+      <link>https://www.youtube.com/shorts/3Zld5FAQo9g</link>
+      <guid isPermaLink="false">3Zld5FAQo9g</guid>
+      <pubDate>Fri, 04 Sep 2026 12:22:29 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: AFŞİN HATİPOĞLU'NDAN ÇOK ÖNEMLİ DENİZ GÖKTAŞ YORUMU!</description>
+    </item>
     <item>
       <title>Halk TV: Canlı yayında akılalmaz anlar! Yemeğini beğenmedi diye müşteriye küfretti</title>
       <link>https://www.youtube.com/shorts/Qx1gP8-ckas</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">COBXORCg_2c</guid>
       <pubDate>Fri, 04 Sep 2026 09:54:51 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: 10+4 üzerine-Arif Kızılyalın</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: ‘Ünlü’ müdürün şüpheli işleri-Barış Pehlivan</title>
-      <link>https://www.youtube.com/watch?v=-Cm9ESKteeU</link>
-      <guid isPermaLink="false">-Cm9ESKteeU</guid>
-      <pubDate>Fri, 04 Sep 2026 09:54:50 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: ‘Ünlü’ müdürün şüpheli işleri-Barış Pehlivan</description>
     </item>
   </channel>
 </rss>
