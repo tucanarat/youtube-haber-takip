@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 21:20:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 21:25:25 +0000</lastBuildDate>
     <item>
       <title>Halk TV: Okuduğu okulda katliam yapan İsa Aras Mersinli'nin babasının yaptığı savunma şoke ettirdi!</title>
       <link>https://www.youtube.com/watch?v=SeFBzGxQOVE</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">5ekAskSdRIs</guid>
       <pubDate>Fri, 04 Sep 2026 21:14:56 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İBB Başkanvekili Nuri Aslan’ın babası Muharrem Aslan için cenaze töreni düzenlendi! #shorts</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Murat Ağırel Berhan Şimşek'e Ateş Püskürdü! Kan Donduran Görüntüler! Siyasette Deprem</title>
+      <link>https://www.youtube.com/watch?v=WnJXIjGSZCA</link>
+      <guid isPermaLink="false">WnJXIjGSZCA</guid>
+      <pubDate>Fri, 04 Sep 2026 21:10:02 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Murat Ağırel Berhan Şimşek'e Ateş Püskürdü! Kan Donduran Görüntüler! Siyasette Deprem</description>
     </item>
     <item>
       <title>Tele2 Haber: Özgür Özel'in Kılıçdaroğlu'yla tokalaşması! Bülent Mumay ve Can Kakışım'dan ezber bozan yorum!</title>
@@ -50,11 +57,11 @@
       <description>SÖZCÜ TV kanalından yeni video: İRAN ABD ÜSSÜNÜ VURDU! Trump'a Büyük Şok! Ortadoğu'da İpler Koptu! Hamaney Düğmeye Bastı</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: UGUR POYRAZ</title>
+      <title>SÖZCÜ TV: UĞUR POYRAZ'DAN BÜLENT ARINÇ'A NET UYARI: "Bildiğin Suçu Bildirmemek...'</title>
       <link>https://www.youtube.com/watch?v=8iUM0WDuTsM</link>
       <guid isPermaLink="false">8iUM0WDuTsM</guid>
       <pubDate>Fri, 04 Sep 2026 20:49:52 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: UGUR POYRAZ</description>
+      <description>SÖZCÜ TV kanalından yeni video: UĞUR POYRAZ'DAN BÜLENT ARINÇ'A NET UYARI: "Bildiğin Suçu Bildirmemek...'</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Ümit Özdağ, Türkiye Barolar Birliği Başkanı Erinç Sağkan'ı ziyaret etti #Canlı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">jhw5x3rJupE</guid>
       <pubDate>Fri, 04 Sep 2026 18:00:14 +0000</pubDate>
       <description>Halk TV kanalından yeni video: CEZAEVİNDEN GELEN AÇIKLAMA! Siyaseti bıraktı! "Haluk Levent tarafından istismar edildim."</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Murat Ağırel Melih Gökçek Dosyasını Bir Bir Açtı! Küçük Dilinizi Yutacağınız O Belgeler</title>
-      <link>https://www.youtube.com/watch?v=YQS14C4CpGY</link>
-      <guid isPermaLink="false">YQS14C4CpGY</guid>
-      <pubDate>Fri, 04 Sep 2026 17:50:32 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Murat Ağırel Melih Gökçek Dosyasını Bir Bir Açtı! Küçük Dilinizi Yutacağınız O Belgeler</description>
     </item>
   </channel>
 </rss>
