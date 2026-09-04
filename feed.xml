@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 10:15:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 10:20:37 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: KILIÇDAROĞLU BUNA DA 'ARINMA' DESİN! İşte butlancı Şimşek'in kadına şiddet anı! Önce vurdu sonra...</title>
+      <link>https://www.youtube.com/watch?v=XvNaJNUAn8Y</link>
+      <guid isPermaLink="false">XvNaJNUAn8Y</guid>
+      <pubDate>Fri, 04 Sep 2026 10:15:05 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KILIÇDAROĞLU BUNA DA 'ARINMA' DESİN! İşte butlancı Şimşek'in kadına şiddet anı! Önce vurdu sonra...</description>
+    </item>
     <item>
       <title>Cumhuriyet: Butlan CHP'sinden 'Üsküdar' açıklaması! "HEM İBB HEM ÜSKÜDAR MECLİSİNİ ETKİLEYECEK"</title>
       <link>https://www.youtube.com/watch?v=vnUu6lp1OYY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">a0q0WiJN9HE</guid>
       <pubDate>Fri, 04 Sep 2026 07:43:02 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Beylikdüzü Belediye Başkanı Çalık'ın annesinin feryadı! “Adalet istiyorum”</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Büyükada'da Adalet Nöbeti</title>
-      <link>https://www.youtube.com/shorts/xLhRwbOyRD4</link>
-      <guid isPermaLink="false">xLhRwbOyRD4</guid>
-      <pubDate>Fri, 04 Sep 2026 07:42:36 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Büyükada'da Adalet Nöbeti</description>
     </item>
   </channel>
 </rss>
