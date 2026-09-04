@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 17:30:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 17:35:25 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Berhan Şimşek'in darp ettiği Özlem Şanver yaşadıklarını Halk TV YouTube'a anlatmıştı!</title>
+      <link>https://www.youtube.com/watch?v=_NYQbeziAZU</link>
+      <guid isPermaLink="false">_NYQbeziAZU</guid>
+      <pubDate>Fri, 04 Sep 2026 17:30:15 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Berhan Şimşek'in darp ettiği Özlem Şanver yaşadıklarını Halk TV YouTube'a anlatmıştı!</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | YENİ Partili yetkililer Üsküdar Belediyesi önünde açıklama yapıyor!</title>
       <link>https://www.youtube.com/watch?v=PpFDTtPsKwg</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">WP7nRXGRaQg</guid>
       <pubDate>Fri, 04 Sep 2026 14:56:17 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Melih Gökçek adliyeye sakız çiğneyerek geldi!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Damla Doğan Tuncel ile 1 Saat 4 Eylül</title>
-      <link>https://www.youtube.com/watch?v=nd9oOW-UI-E</link>
-      <guid isPermaLink="false">nd9oOW-UI-E</guid>
-      <pubDate>Fri, 04 Sep 2026 14:55:59 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Damla Doğan Tuncel ile 1 Saat 4 Eylül</description>
     </item>
   </channel>
 </rss>
