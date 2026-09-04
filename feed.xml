@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 21:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 21:10:32 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: Özgür Özel'in Kılıçdaroğlu'yla tokalaşması! Bülent Mumay ve Can Kakışım'dan ezber bozan yorum!</title>
       <link>https://www.youtube.com/watch?v=yNNA7qY_HD4</link>
@@ -34,6 +34,13 @@
       <guid isPermaLink="false">YNpYO5sm6HY</guid>
       <pubDate>Fri, 04 Sep 2026 20:50:07 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İRAN ABD ÜSSÜNÜ VURDU! Trump'a Büyük Şok! Ortadoğu'da İpler Koptu! Hamaney Düğmeye Bastı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: UGUR POYRAZ</title>
+      <link>https://www.youtube.com/watch?v=8iUM0WDuTsM</link>
+      <guid isPermaLink="false">8iUM0WDuTsM</guid>
+      <pubDate>Fri, 04 Sep 2026 20:49:52 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: UGUR POYRAZ</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Ümit Özdağ, Türkiye Barolar Birliği Başkanı Erinç Sağkan'ı ziyaret etti #Canlı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">wlGgjlY6nFI</guid>
       <pubDate>Fri, 04 Sep 2026 17:40:07 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: BÜLENT MUMAY'DAN ÇOK KRİTİK MELİH GÖKÇEK HATIRLATMASI!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Namık Koçak - Hüsnü Mahalli ile Forum (06.09.26)</title>
-      <link>https://www.youtube.com/watch?v=RN2Oq0A99JE</link>
-      <guid isPermaLink="false">RN2Oq0A99JE</guid>
-      <pubDate>Fri, 04 Sep 2026 17:39:59 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Namık Koçak - Hüsnü Mahalli ile Forum (06.09.26)</description>
     </item>
   </channel>
 </rss>
