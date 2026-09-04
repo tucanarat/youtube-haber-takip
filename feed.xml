@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 17:55:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 18:00:52 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Murat Ağırel Melih Gökçek Dosyasını Bir Bir Açtı! Küçük Dilinizi Yutacağınız O Belgeler</title>
+      <link>https://www.youtube.com/watch?v=YQS14C4CpGY</link>
+      <guid isPermaLink="false">YQS14C4CpGY</guid>
+      <pubDate>Fri, 04 Sep 2026 17:50:32 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Murat Ağırel Melih Gökçek Dosyasını Bir Bir Açtı! Küçük Dilinizi Yutacağınız O Belgeler</description>
+    </item>
     <item>
       <title>Halk TV: MANİSA'DA YER GÖK İNLEDİ! Özgür Özel'in sözleri çok can yakacak! AKP ve CHP hesabını şimdi yapsın!</title>
       <link>https://www.youtube.com/watch?v=EzVLO0atGSE</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">GS0kM67wPZA</guid>
       <pubDate>Fri, 04 Sep 2026 15:25:04 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Süleymanpaşa Hükümet Caddesi'nde Esnaf Ziyaret Ediyor!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: CANKURTARAN SİSTEMİ İLE İLGİLİ NE BİLİYORUZ? Korkunç detayı Rasıh Reşat aktardı!</title>
-      <link>https://www.youtube.com/watch?v=MPwPE7JrltU</link>
-      <guid isPermaLink="false">MPwPE7JrltU</guid>
-      <pubDate>Fri, 04 Sep 2026 15:15:20 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: CANKURTARAN SİSTEMİ İLE İLGİLİ NE BİLİYORUZ? Korkunç detayı Rasıh Reşat aktardı!</description>
     </item>
   </channel>
 </rss>
