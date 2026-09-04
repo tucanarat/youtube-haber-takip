@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 08:35:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 08:40:32 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: MANSUR YAVAŞ'I ADAY İSTİYORLAR! Erdoğan'ı Kızdıracak İttifak Senaryosu! Fatih Erbakan Hamlesi</title>
       <link>https://www.youtube.com/watch?v=tcjErrYIfpE</link>
       <guid isPermaLink="false">tcjErrYIfpE</guid>
       <pubDate>Fri, 04 Sep 2026 08:30:25 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: MANSUR YAVAŞ'I ADAY İSTİYORLAR! Erdoğan'ı Kızdıracak İttifak Senaryosu! Fatih Erbakan Hamlesi</description>
+    </item>
+    <item>
+      <title>Halk TV: SON DAKİKA! KAHREDEN HABER GELDİ! Girne’de iki kişinin daha naaşına ulaşıldı! 16 kişi hala aranıyor!</title>
+      <link>https://www.youtube.com/watch?v=M5WF0UO-Kdg</link>
+      <guid isPermaLink="false">M5WF0UO-Kdg</guid>
+      <pubDate>Fri, 04 Sep 2026 08:30:16 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! KAHREDEN HABER GELDİ! Girne’de iki kişinin daha naaşına ulaşıldı! 16 kişi hala aranıyor!</description>
     </item>
     <item>
       <title>Tele2 Haber: Onur Öncü'den Ümit Özdağ'a "Provokasyon" Tepkisi!</title>
@@ -239,11 +246,11 @@
       <description>Tele2 Haber kanalından yeni video: #CANLI Namık Koçak ve Hüsnü Mahalli ile Forum (04.09.26)</description>
     </item>
     <item>
-      <title>Tele2 Haber: #CANLI Evren Özalkuş ile Gerçek (04.09.2026)</title>
+      <title>Tele2 Haber: #CANLI Evren Özalkuş ile Gerçek | Konuklar: Can Kakışım ve Bülent Mumay (04.09.2026)</title>
       <link>https://www.youtube.com/watch?v=YzSqHirD1fg</link>
       <guid isPermaLink="false">YzSqHirD1fg</guid>
       <pubDate>Fri, 04 Sep 2026 06:42:39 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Evren Özalkuş ile Gerçek (04.09.2026)</description>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Evren Özalkuş ile Gerçek | Konuklar: Can Kakışım ve Bülent Mumay (04.09.2026)</description>
     </item>
     <item>
       <title>Tele2 Haber: #CANLI Murat Taylan ile Haber-Yorum (04.09.2026)</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">XCwjIsqGL_0</guid>
       <pubDate>Thu, 03 Sep 2026 23:27:59 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Suat Kılıç, partisinin genel merkezinde MYK toplantısı sonrası basın açıklaması yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Radar Görüntüleri Sızdı! İhmaller Zinciri Çöktü! Alsu ve Tuğberk İmamoğlu Gemileri Neden Çarpıştı?</title>
-      <link>https://www.youtube.com/watch?v=HQsyvqOUG3c</link>
-      <guid isPermaLink="false">HQsyvqOUG3c</guid>
-      <pubDate>Thu, 03 Sep 2026 23:00:07 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Radar Görüntüleri Sızdı! İhmaller Zinciri Çöktü! Alsu ve Tuğberk İmamoğlu Gemileri Neden Çarpıştı?</description>
     </item>
   </channel>
 </rss>
