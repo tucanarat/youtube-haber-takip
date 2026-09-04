@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 23:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 23:20:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: YENİ Parti Genel Başkanı Özgür Özel’e Süleymanpaşa’da coşkulu karşılama! #shorts</title>
+      <link>https://www.youtube.com/shorts/ZsUCmf3XtCM</link>
+      <guid isPermaLink="false">ZsUCmf3XtCM</guid>
+      <pubDate>Fri, 04 Sep 2026 23:15:19 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel’e Süleymanpaşa’da coşkulu karşılama! #shorts</description>
+    </item>
     <item>
       <title>Halk TV: Ardahan'da sağanak ve dolu etkili oldu Yollar beyaza büründü! #shorts</title>
       <link>https://www.youtube.com/shorts/vrvL9NO5vS0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">1eNKl1Yq1fw</guid>
       <pubDate>Fri, 04 Sep 2026 19:05:12 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #SONDAKİKA Oya Lale Özan Arslan tutuklandı! Hüsnü Mahalli'den sert tepki!</description>
-    </item>
-    <item>
-      <title>Halk TV: MECLİS’TE ‘SAHTE OY’ REZİLLİĞİ CEZASIZ KALDI! Turhan Çömez yaşananları anlattı! Detaylar şaşırtmaz!</title>
-      <link>https://www.youtube.com/watch?v=NdZL49i4K4M</link>
-      <guid isPermaLink="false">NdZL49i4K4M</guid>
-      <pubDate>Fri, 04 Sep 2026 19:00:15 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: MECLİS’TE ‘SAHTE OY’ REZİLLİĞİ CEZASIZ KALDI! Turhan Çömez yaşananları anlattı! Detaylar şaşırtmaz!</description>
     </item>
   </channel>
 </rss>
