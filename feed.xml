@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 20:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 20:25:30 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: CHP Sözcüsü Müslim Sarı, CHP İstanbul Üsküdar İlçe Başkanlığı’nda basın toplantısı yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=_mVJQYuyFbs</link>
+      <guid isPermaLink="false">_mVJQYuyFbs</guid>
+      <pubDate>Fri, 04 Sep 2026 20:20:55 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: CHP Sözcüsü Müslim Sarı, CHP İstanbul Üsküdar İlçe Başkanlığı’nda basın toplantısı yapıyor #Canlı</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: İBB Başkan Vekili Nuri Aslan, Selim Sırrı Tarcan Spor ve Yaşam Kompleksi Açılış Töreninde konuşuyor</title>
+      <link>https://www.youtube.com/watch?v=5K6MnLwlGMs</link>
+      <guid isPermaLink="false">5K6MnLwlGMs</guid>
+      <pubDate>Fri, 04 Sep 2026 20:19:58 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: İBB Başkan Vekili Nuri Aslan, Selim Sırrı Tarcan Spor ve Yaşam Kompleksi Açılış Töreninde konuşuyor</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: AKP'de Davutoğlu Alarmı! Murat Ağırel'den Bomba Kulis! "Birilerini Rahatsız mı Etti?"</title>
       <link>https://www.youtube.com/watch?v=zAAl61foRxE</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">I3PlsYrEx9g</guid>
       <pubDate>Fri, 04 Sep 2026 17:03:59 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | Tutuklu komedyen Deniz Göktaş’a destek için açıklama yapılıyor!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: DENİZ GÖKTAŞ DAVASINDA YENİ GELİŞME! MURAT TAYLAN'DAN ÇOK KRİTİK SORU...</title>
-      <link>https://www.youtube.com/shorts/HhUI3zMYZcg</link>
-      <guid isPermaLink="false">HhUI3zMYZcg</guid>
-      <pubDate>Fri, 04 Sep 2026 17:02:40 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: DENİZ GÖKTAŞ DAVASINDA YENİ GELİŞME! MURAT TAYLAN'DAN ÇOK KRİTİK SORU...</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Ece Üner ile Halk Ana Haber | #hesapşaştı</title>
-      <link>https://www.youtube.com/watch?v=dPwfnycIIBA</link>
-      <guid isPermaLink="false">dPwfnycIIBA</guid>
-      <pubDate>Fri, 04 Sep 2026 17:02:16 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Ece Üner ile Halk Ana Haber | #hesapşaştı</description>
     </item>
   </channel>
 </rss>
