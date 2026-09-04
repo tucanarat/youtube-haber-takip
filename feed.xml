@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 00:15:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 00:20:32 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Dilovası faciasında yakınlarını kaybeden aileler Kocaeli SGK İl Müdürlüğü önünde açıklama yapıyor</title>
+      <link>https://www.youtube.com/watch?v=cQ_15xigZP8</link>
+      <guid isPermaLink="false">cQ_15xigZP8</guid>
+      <pubDate>Fri, 04 Sep 2026 00:17:19 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Dilovası faciasında yakınlarını kaybeden aileler Kocaeli SGK İl Müdürlüğü önünde açıklama yapıyor</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Suat Kılıç, partisinin genel merkezinde MYK toplantısı sonrası basın açıklaması yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=XCwjIsqGL_0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">odDEBxM_JO4</guid>
       <pubDate>Thu, 03 Sep 2026 18:52:03 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: ENGİN SOLAKOĞLU'NDAN ÇOK KRİTİK ÜSKÜDAR VE İBB UYARISI!</description>
-    </item>
-    <item>
-      <title>Halk TV: Gözler Silivri’de… Savcı kararını açıkladı: Imamoğlu’nun sözleri ise duruşmaya damga vurdu!</title>
-      <link>https://www.youtube.com/watch?v=tv809Q1b8Tc</link>
-      <guid isPermaLink="false">tv809Q1b8Tc</guid>
-      <pubDate>Thu, 03 Sep 2026 18:47:44 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Gözler Silivri’de… Savcı kararını açıkladı: Imamoğlu’nun sözleri ise duruşmaya damga vurdu!</description>
     </item>
   </channel>
 </rss>
