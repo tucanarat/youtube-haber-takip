@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 11:45:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 11:50:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: REKOR ÜSTÜNE REKOR! YENİ Parti'ye üyeliklerde durdurulamayan artış! Son durumu Murat Emir açıkladı!</title>
+      <link>https://www.youtube.com/watch?v=rYgel24-W7E</link>
+      <guid isPermaLink="false">rYgel24-W7E</guid>
+      <pubDate>Fri, 04 Sep 2026 11:45:28 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: REKOR ÜSTÜNE REKOR! YENİ Parti'ye üyeliklerde durdurulamayan artış! Son durumu Murat Emir açıkladı!</description>
+    </item>
     <item>
       <title>Cumhuriyet: Özgür Özel'den çok konuşulacak 'Üsküdar' çıkışı! "YÜZLERİNİN ASTARI YIRTILMIŞ"</title>
       <link>https://www.youtube.com/watch?v=0F5PwG40tBQ</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Cu1JeHQMzvs</guid>
       <pubDate>Fri, 04 Sep 2026 08:57:15 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: İbadethanede vicdansızlık: Adana’da camiye namaza gelen kadının altınlarını çaldılar</description>
-    </item>
-    <item>
-      <title>Halk TV: AKP'NİN BÜYÜK TEZGAHI PATLADI! Sertaç Eş öyle bir hamlenin haberini verdi ki! Ortalık yanıp yıkılır!</title>
-      <link>https://www.youtube.com/watch?v=h1ZKmBnRHMw</link>
-      <guid isPermaLink="false">h1ZKmBnRHMw</guid>
-      <pubDate>Fri, 04 Sep 2026 08:57:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: AKP'NİN BÜYÜK TEZGAHI PATLADI! Sertaç Eş öyle bir hamlenin haberini verdi ki! Ortalık yanıp yıkılır!</description>
     </item>
   </channel>
 </rss>
