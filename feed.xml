@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 11:30:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 11:35:25 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Özgür Özel'den çok konuşulacak 'Üsküdar' çıkışı! "YÜZLERİNİN ASTARI YIRTILMIŞ"</title>
+      <link>https://www.youtube.com/watch?v=0F5PwG40tBQ</link>
+      <guid isPermaLink="false">0F5PwG40tBQ</guid>
+      <pubDate>Fri, 04 Sep 2026 11:34:32 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Özgür Özel'den çok konuşulacak 'Üsküdar' çıkışı! "YÜZLERİNİN ASTARI YIRTILMIŞ"</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Özgür Özel'den Kritik Karar! Masasındaki En Zorlu Dosya! Ankara Bunu Konuşuyor</title>
+      <link>https://www.youtube.com/watch?v=i7ADLPzHBJY</link>
+      <guid isPermaLink="false">i7ADLPzHBJY</guid>
+      <pubDate>Fri, 04 Sep 2026 11:30:32 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Özgür Özel'den Kritik Karar! Masasındaki En Zorlu Dosya! Ankara Bunu Konuşuyor</description>
+    </item>
     <item>
       <title>Cumhuriyet: #CANLI Özgür Özel Çorlu’da: Cuma namazının ardından flaş 'Üsküdar' açıklaması</title>
       <link>https://www.youtube.com/watch?v=iKbm20J4weA</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">8L0VDgGn2U4</guid>
       <pubDate>Fri, 04 Sep 2026 08:54:51 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Mansur Yavaş Nallıhan'da: Festivaller kültürün yaşatılması açısından çok önemli</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Melih Gökçek de ikinci perde | Seçim öncesi Üsküdar’a meclis üyesi operasyonu | Sabah Pusulası</title>
-      <link>https://www.youtube.com/watch?v=hZyO16fg0GA</link>
-      <guid isPermaLink="false">hZyO16fg0GA</guid>
-      <pubDate>Fri, 04 Sep 2026 08:54:26 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Melih Gökçek de ikinci perde | Seçim öncesi Üsküdar’a meclis üyesi operasyonu | Sabah Pusulası</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Zeynel Lüle ile Ankara Günlüğü | Konuk: Rasıh Reşat (04.09.26)</title>
-      <link>https://www.youtube.com/watch?v=5_R8FDBkpHc</link>
-      <guid isPermaLink="false">5_R8FDBkpHc</guid>
-      <pubDate>Fri, 04 Sep 2026 08:54:08 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Zeynel Lüle ile Ankara Günlüğü | Konuk: Rasıh Reşat (04.09.26)</description>
     </item>
   </channel>
 </rss>
