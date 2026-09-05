@@ -6,20 +6,34 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 08:30:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 08:35:23 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | CHP'nin Butlan Sözcüsü Müslim Sarı Açıklama Yapıyor!</title>
+      <link>https://www.youtube.com/watch?v=zsYh8sKXGvQ</link>
+      <guid isPermaLink="false">zsYh8sKXGvQ</guid>
+      <pubDate>Sat, 05 Sep 2026 08:34:51 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | CHP'nin Butlan Sözcüsü Müslim Sarı Açıklama Yapıyor!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Üsküdar Belediyesi seçimi ertelendi! Özgür Çelik'ten çok kritik 'MECLİS ÜYESİ' açıklaması...</title>
+      <link>https://www.youtube.com/watch?v=y0t-nhVsiK4</link>
+      <guid isPermaLink="false">y0t-nhVsiK4</guid>
+      <pubDate>Sat, 05 Sep 2026 08:30:19 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Üsküdar Belediyesi seçimi ertelendi! Özgür Çelik'ten çok kritik 'MECLİS ÜYESİ' açıklaması...</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Barış Terkoğlu Gizli Notları Okudu! Cem Küçük, Adnan Oktar ve Akılalmaz Milis Gücü Planları!</title>
+      <link>https://www.youtube.com/watch?v=EHEduelNyEE</link>
+      <guid isPermaLink="false">EHEduelNyEE</guid>
+      <pubDate>Sat, 05 Sep 2026 08:30:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Barış Terkoğlu Gizli Notları Okudu! Cem Küçük, Adnan Oktar ve Akılalmaz Milis Gücü Planları!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: #CANLI Yeni Parti Lideri Özgür Özel'den Edirne'de Kritik Açıklamalar! Emeklilerle Bir Araya Geldi</title>
       <link>https://www.youtube.com/watch?v=4x5c-o88mAc</link>
       <guid isPermaLink="false">4x5c-o88mAc</guid>
       <pubDate>Sat, 05 Sep 2026 08:28:28 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: #CANLI Yeni Parti Lideri Özgür Özel'den Edirne'de Kritik Açıklamalar! Emeklilerle Bir Araya Geldi</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | CHP'nin Butlan Sözcüsü Müslim Sarı Açıklama Yapıyor!</title>
-      <link>https://www.youtube.com/watch?v=zsYh8sKXGvQ</link>
-      <guid isPermaLink="false">zsYh8sKXGvQ</guid>
-      <pubDate>Sat, 05 Sep 2026 08:28:16 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | CHP'nin Butlan Sözcüsü Müslim Sarı Açıklama Yapıyor!</description>
     </item>
     <item>
       <title>Halk TV: ÜSKÜDAR SEÇİMİ 8 EYLÜL'E ERTELENDİ! Üsküdarlılar Belediye Önünde Sloganlar Atıyor!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">ZsUCmf3XtCM</guid>
       <pubDate>Fri, 04 Sep 2026 23:15:19 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel’e Süleymanpaşa’da coşkulu karşılama! #shorts</description>
-    </item>
-    <item>
-      <title>Halk TV: Ardahan'da sağanak ve dolu etkili oldu Yollar beyaza büründü! #shorts</title>
-      <link>https://www.youtube.com/shorts/vrvL9NO5vS0</link>
-      <guid isPermaLink="false">vrvL9NO5vS0</guid>
-      <pubDate>Fri, 04 Sep 2026 23:00:27 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ardahan'da sağanak ve dolu etkili oldu Yollar beyaza büründü! #shorts</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: TRUMP'IN GİZLİ HEYETİ MOSKOVA'DA! Rusya ve Ukrayna Masaya mı Oturuyor?</title>
-      <link>https://www.youtube.com/watch?v=7xdydpGNxG0</link>
-      <guid isPermaLink="false">7xdydpGNxG0</guid>
-      <pubDate>Fri, 04 Sep 2026 22:51:58 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: TRUMP'IN GİZLİ HEYETİ MOSKOVA'DA! Rusya ve Ukrayna Masaya mı Oturuyor?</description>
     </item>
   </channel>
 </rss>
