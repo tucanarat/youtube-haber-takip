@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 10:00:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 10:05:25 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Özdemir İnce'den Ekrem İmamoğlu'nun 'SAVUNMA' kitabının yasaklanmasına çok sert tepki!</title>
+      <link>https://www.youtube.com/watch?v=kOnAblRSnVc</link>
+      <guid isPermaLink="false">kOnAblRSnVc</guid>
+      <pubDate>Sat, 05 Sep 2026 10:00:38 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Özdemir İnce'den Ekrem İmamoğlu'nun 'SAVUNMA' kitabının yasaklanmasına çok sert tepki!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Kademeli Emeklilik mi Geliyor? 'BÜYÜK HAKSIZLIK' Uzman İsim AKP'nin Planını Açıkladı</title>
+      <link>https://www.youtube.com/watch?v=KIa-0eW4K-0</link>
+      <guid isPermaLink="false">KIa-0eW4K-0</guid>
+      <pubDate>Sat, 05 Sep 2026 10:00:31 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Kademeli Emeklilik mi Geliyor? 'BÜYÜK HAKSIZLIK' Uzman İsim AKP'nin Planını Açıkladı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Simge Fıstıkoğlu İle İyi ki Hafta Sonu | 5 Eylül</title>
       <link>https://www.youtube.com/watch?v=OETiN9CqBf0</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">rKRQPTJVUCM</guid>
       <pubDate>Sat, 05 Sep 2026 07:55:22 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti Genel Başkanı Özgür Özel,  açıklama yapıyor</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel,  açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=RZT_ry3DLtA</link>
-      <guid isPermaLink="false">RZT_ry3DLtA</guid>
-      <pubDate>Sat, 05 Sep 2026 07:54:01 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel,  açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: #SONDAKİKA Üsküdar Belediye Başkanvekilliği seçimi ertelendi! Üsküdar’dan #canlı yayın…</title>
-      <link>https://www.youtube.com/watch?v=Vj_PekUteZU</link>
-      <guid isPermaLink="false">Vj_PekUteZU</guid>
-      <pubDate>Sat, 05 Sep 2026 07:53:47 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #SONDAKİKA Üsküdar Belediye Başkanvekilliği seçimi ertelendi! Üsküdar’dan #canlı yayın…</description>
     </item>
   </channel>
 </rss>
