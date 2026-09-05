@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 07:55:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 08:01:24 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Timur Soykan Sistem Çarkını Anlattı: Cem Küçük ve Yandaşların Derin Bağları İfşa Oldu!</title>
+      <link>https://www.youtube.com/watch?v=CSyHgbScCNo</link>
+      <guid isPermaLink="false">CSyHgbScCNo</guid>
+      <pubDate>Sat, 05 Sep 2026 08:00:24 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Timur Soykan Sistem Çarkını Anlattı: Cem Küçük ve Yandaşların Derin Bağları İfşa Oldu!</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI YENİ Parti Genel Başkanı Özgür Özel,  açıklama yapıyor</title>
       <link>https://www.youtube.com/watch?v=rKRQPTJVUCM</link>
       <guid isPermaLink="false">rKRQPTJVUCM</guid>
       <pubDate>Sat, 05 Sep 2026 07:55:22 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti Genel Başkanı Özgür Özel,  açıklama yapıyor</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Konuşuyor!</title>
+      <link>https://www.youtube.com/watch?v=ENvTjAJSXRU</link>
+      <guid isPermaLink="false">ENvTjAJSXRU</guid>
+      <pubDate>Sat, 05 Sep 2026 07:55:02 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Konuşuyor!</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel,  açıklama yapıyor #Canlı</title>
@@ -48,6 +62,13 @@
       <guid isPermaLink="false">GvXSIOOAp8A</guid>
       <pubDate>Sat, 05 Sep 2026 07:50:39 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SON DAKİKA! ÜSKÜDAR’DA ORTALIK KARIŞTI! Seçim ertelendi, vatandaşlar belediyeye önüne akın etti!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Zirvede Gurur! Motorculardan alkışlanacak Türk bayrağı hassasiyeti #shorts</title>
+      <link>https://www.youtube.com/shorts/zbcOicj_sIE</link>
+      <guid isPermaLink="false">zbcOicj_sIE</guid>
+      <pubDate>Sat, 05 Sep 2026 07:45:17 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Zirvede Gurur! Motorculardan alkışlanacak Türk bayrağı hassasiyeti #shorts</description>
     </item>
     <item>
       <title>Halk TV: Üsküdar Seçiminin Yenileneceği Belediye Çevresinde Yoğun Güvenlik Önlemi!</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">OETiN9CqBf0</guid>
       <pubDate>Fri, 04 Sep 2026 22:18:26 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: #CANLI Simge Fıstıkoğlu İle İyi ki Hafta Sonu</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Sınırımızda Yeni Plan! YPG/SDG Dağıldı, Yerine Ne Kuruluyor? İŞTE SURİYE'DEKİ GİZLİ HESAP</title>
-      <link>https://www.youtube.com/watch?v=hCDwybxUeB4</link>
-      <guid isPermaLink="false">hCDwybxUeB4</guid>
-      <pubDate>Fri, 04 Sep 2026 22:10:35 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Sınırımızda Yeni Plan! YPG/SDG Dağıldı, Yerine Ne Kuruluyor? İŞTE SURİYE'DEKİ GİZLİ HESAP</description>
-    </item>
-    <item>
-      <title>Halk TV: Mustafa Topaloğlu’ndan dikkat çeken Amedspor açıklaması! #shorts</title>
-      <link>https://www.youtube.com/shorts/rRAoqXU-BCw</link>
-      <guid isPermaLink="false">rRAoqXU-BCw</guid>
-      <pubDate>Fri, 04 Sep 2026 22:10:15 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Mustafa Topaloğlu’ndan dikkat çeken Amedspor açıklaması! #shorts</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Pınar Erbaş ile Gecenin Sözü 4 Eylül</title>
-      <link>https://www.youtube.com/watch?v=zA6yUKvIduk</link>
-      <guid isPermaLink="false">zA6yUKvIduk</guid>
-      <pubDate>Fri, 04 Sep 2026 22:00:34 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Pınar Erbaş ile Gecenin Sözü 4 Eylül</description>
     </item>
   </channel>
 </rss>
