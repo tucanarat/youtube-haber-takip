@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 08:15:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 08:20:29 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Özgür Çelik ve parti yöneticileri Üsküdar Belediyesi önünde açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=os25RQmp2TU</link>
+      <guid isPermaLink="false">os25RQmp2TU</guid>
+      <pubDate>Sat, 05 Sep 2026 08:17:15 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Özgür Çelik ve parti yöneticileri Üsküdar Belediyesi önünde açıklama yapıyor #Canlı</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: CHP Sözcüsü Müslim Sarı açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=pyoRhT6nihU</link>
@@ -48,13 +55,6 @@
       <guid isPermaLink="false">ENvTjAJSXRU</guid>
       <pubDate>Sat, 05 Sep 2026 07:55:02 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Edirne'de Emeklilerle Buluştu!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Özgür Çelik ve parti yöneticileri Üsküdar Belediyesi önünde açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=os25RQmp2TU</link>
-      <guid isPermaLink="false">os25RQmp2TU</guid>
-      <pubDate>Sat, 05 Sep 2026 07:54:46 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Özgür Çelik ve parti yöneticileri Üsküdar Belediyesi önünde açıklama yapıyor #Canlı</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel,  açıklama yapıyor #Canlı</title>
@@ -106,11 +106,11 @@
       <description>Halk TV kanalından yeni video: Üsküdar Seçiminin Yenileneceği Belediye Çevresinde Yoğun Güvenlik Önlemi!</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | ÜSKÜDAR SEÇİMİ 8 EYLÜL'E ERTELENDİ! Üsküdarlılar Belediye Önünde Sloganlar Atıyor!</title>
+      <title>Halk TV: ÜSKÜDAR SEÇİMİ 8 EYLÜL'E ERTELENDİ! Üsküdarlılar Belediye Önünde Sloganlar Atıyor!</title>
       <link>https://www.youtube.com/watch?v=lUtad42z60w</link>
       <guid isPermaLink="false">lUtad42z60w</guid>
       <pubDate>Sat, 05 Sep 2026 07:34:39 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | ÜSKÜDAR SEÇİMİ 8 EYLÜL'E ERTELENDİ! Üsküdarlılar Belediye Önünde Sloganlar Atıyor!</description>
+      <description>Halk TV kanalından yeni video: ÜSKÜDAR SEÇİMİ 8 EYLÜL'E ERTELENDİ! Üsküdarlılar Belediye Önünde Sloganlar Atıyor!</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Üsküdar Belediye Başkan Vekilliği seçiminin yenileneceği belediye çevresinde yoğun güvenlik önlemi</title>
