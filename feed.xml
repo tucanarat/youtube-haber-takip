@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 10:25:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 10:30:40 +0000</lastBuildDate>
     <item>
       <title>Halk TV: Özgür Özel'den köprü ve otoyolların özelleştirilmesine tepki: Altın yumurtlayan tavuğu kesiyorlar!</title>
       <link>https://www.youtube.com/shorts/ZNz5_1fLDs4</link>
@@ -29,11 +29,25 @@
       <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Edirne Halk Pazarı'nı ziyaret ediyor #Canlı</description>
     </item>
     <item>
+      <title>Cumhuriyet: Deniz Göktaş: Karatepe’nin asi çocuğu, suç makinası, dehşet saçmaya devam ediyor</title>
+      <link>https://www.youtube.com/shorts/8f404G7cXds</link>
+      <guid isPermaLink="false">8f404G7cXds</guid>
+      <pubDate>Sat, 05 Sep 2026 10:22:09 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Deniz Göktaş: Karatepe’nin asi çocuğu, suç makinası, dehşet saçmaya devam ediyor</description>
+    </item>
+    <item>
       <title>Halk TV: YENİ Parti Genel Başkanı Özgür Özel, Edirne Halk Pazarı'nı Ziyaret Etti! (5 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=MBwyxzQtnIM</link>
       <guid isPermaLink="false">MBwyxzQtnIM</guid>
       <pubDate>Sat, 05 Sep 2026 10:20:43 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Edirne Halk Pazarı'nı Ziyaret Etti! (5 Eylül 2026)</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Üsküdar Belediyesi önünde yoğun güvenlik önlemi</title>
+      <link>https://www.youtube.com/shorts/1qBlsFnm06o</link>
+      <guid isPermaLink="false">1qBlsFnm06o</guid>
+      <pubDate>Sat, 05 Sep 2026 10:20:26 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Üsküdar Belediyesi önünde yoğun güvenlik önlemi</description>
     </item>
     <item>
       <title>Halk TV: ERDOĞAN'IN KİRLİ OYUNUNU BUTLAN CHP'Sİ BOZDU! Öyle bir çalım attılar ki! Saray birbirine girecek!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">exM4QEM7MyE</guid>
       <pubDate>Sat, 05 Sep 2026 08:15:09 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Nefes Kesen Kurtarma! Sarp kayalıklarda mahsur kalan oğlaklar için seferber oldular #shorts</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: CHP Sözcüsü Müslim Sarı açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=pyoRhT6nihU</link>
-      <guid isPermaLink="false">pyoRhT6nihU</guid>
-      <pubDate>Sat, 05 Sep 2026 08:02:38 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP Sözcüsü Müslim Sarı açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Üsküdar Belediye Başkan Vekilliği seçimi ertelendi #Canlı</title>
-      <link>https://www.youtube.com/watch?v=McDbb52fnEg</link>
-      <guid isPermaLink="false">McDbb52fnEg</guid>
-      <pubDate>Sat, 05 Sep 2026 08:01:55 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Üsküdar Belediye Başkan Vekilliği seçimi ertelendi #Canlı</description>
     </item>
   </channel>
 </rss>
