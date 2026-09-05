@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 10:35:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 10:40:34 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Bağımsız Maden-İş Sendikası Genel Başkanı Çakır: Mücadeleye devam edeceğiz</title>
+      <link>https://www.youtube.com/shorts/RaIH5r4SeAA</link>
+      <guid isPermaLink="false">RaIH5r4SeAA</guid>
+      <pubDate>Sat, 05 Sep 2026 10:36:47 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Bağımsız Maden-İş Sendikası Genel Başkanı Çakır: Mücadeleye devam edeceğiz</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Timur Soykan Bombayı Patlattı: AKP ve Erdoğan'ın Ekrem İmamoğlu ve Belediyeler Planı!</title>
+      <link>https://www.youtube.com/watch?v=YCOjF5IWtbg</link>
+      <guid isPermaLink="false">YCOjF5IWtbg</guid>
+      <pubDate>Sat, 05 Sep 2026 10:30:26 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Timur Soykan Bombayı Patlattı: AKP ve Erdoğan'ın Ekrem İmamoğlu ve Belediyeler Planı!</description>
+    </item>
     <item>
       <title>Halk TV: ORTALIK YANIP YIKILACAK! YENİ Partili isimden bomba Cemil Tugay açıklaması! Meğer yakın zamanda...</title>
       <link>https://www.youtube.com/watch?v=oxS5o9pVQBY</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">d7_EJkuqwJs</guid>
       <pubDate>Sat, 05 Sep 2026 08:17:42 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Üsküdar Belediye Başkan Vekilliği seçimi ertelendi</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Özgür Çelik ve parti yöneticileri Üsküdar Belediyesi önünde açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=os25RQmp2TU</link>
-      <guid isPermaLink="false">os25RQmp2TU</guid>
-      <pubDate>Sat, 05 Sep 2026 08:17:15 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Özgür Çelik ve parti yöneticileri Üsküdar Belediyesi önünde açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: BUTLANCILAR PROTESTO EDİLİNCE BÖYLE TOPUKLADI! 'Yuh' sesleri dinmek bilmedi! CHP iyice dibi boyladı!</title>
-      <link>https://www.youtube.com/watch?v=aC00a_HSdes</link>
-      <guid isPermaLink="false">aC00a_HSdes</guid>
-      <pubDate>Sat, 05 Sep 2026 08:17:03 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BUTLANCILAR PROTESTO EDİLİNCE BÖYLE TOPUKLADI! 'Yuh' sesleri dinmek bilmedi! CHP iyice dibi boyladı!</description>
     </item>
   </channel>
 </rss>
