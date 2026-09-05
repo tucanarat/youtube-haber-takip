@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 21:05:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 21:10:35 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SON DAKİKA! Üsküdar Belediyesi’ne yönelik soruşturmada 3 kişi tutuklandı!</title>
+      <link>https://www.youtube.com/watch?v=JmG3HRnzvfk</link>
+      <guid isPermaLink="false">JmG3HRnzvfk</guid>
+      <pubDate>Sat, 05 Sep 2026 21:07:13 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! Üsküdar Belediyesi’ne yönelik soruşturmada 3 kişi tutuklandı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Kadıköy'de 3 Puan Beşiktaş'ın! Fenerbahçe'ye Soğuk Duş! | Maç Varsa Erman Hoca Var</title>
       <link>https://www.youtube.com/watch?v=yCDo9m437Rs</link>
       <guid isPermaLink="false">yCDo9m437Rs</guid>
       <pubDate>Sat, 05 Sep 2026 20:57:12 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Kadıköy'de 3 Puan Beşiktaş'ın! Fenerbahçe'ye Soğuk Duş! | Maç Varsa Erman Hoca Var</description>
+    </item>
+    <item>
+      <title>Halk TV: “Tepkilere kulaklarını tıkamış bir iktidar görüyoruz!” Fikret Bila’dan çarpıcı sözler!</title>
+      <link>https://www.youtube.com/watch?v=I4MNYnVZsKI</link>
+      <guid isPermaLink="false">I4MNYnVZsKI</guid>
+      <pubDate>Sat, 05 Sep 2026 20:55:23 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: “Tepkilere kulaklarını tıkamış bir iktidar görüyoruz!” Fikret Bila’dan çarpıcı sözler!</description>
     </item>
     <item>
       <title>Halk TV: KRİTİK OYLAMA ÖNCESİ SON TABLO! Üsküdar’da meclis aritmetiğinde son durum!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">ftMfeBaHXjQ</guid>
       <pubDate>Sat, 05 Sep 2026 14:42:20 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: İstanbul Barosu Eğitim, Araştırma ve Uygulama binası açılış töreni #Canlı</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: İYİ Parti Genel Başkanı Müsavat Dervişoğlu, Fatsa'da açıklama yapıyor / Ordu #Canlı</title>
-      <link>https://www.youtube.com/watch?v=gBEGeeBdHgU</link>
-      <guid isPermaLink="false">gBEGeeBdHgU</guid>
-      <pubDate>Sat, 05 Sep 2026 14:34:54 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: İYİ Parti Genel Başkanı Müsavat Dervişoğlu, Fatsa'da açıklama yapıyor / Ordu #Canlı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Deniz Göktaş'ın 12 Yıla Kadar Hapsi İstendi! Erdoğan Müşteki Oldu! Duruşma Tarihi Belli Oldu</title>
-      <link>https://www.youtube.com/watch?v=vSXOnqyg8KQ</link>
-      <guid isPermaLink="false">vSXOnqyg8KQ</guid>
-      <pubDate>Sat, 05 Sep 2026 14:30:36 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Deniz Göktaş'ın 12 Yıla Kadar Hapsi İstendi! Erdoğan Müşteki Oldu! Duruşma Tarihi Belli Oldu</description>
     </item>
   </channel>
 </rss>
