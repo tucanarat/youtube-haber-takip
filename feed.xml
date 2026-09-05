@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 22:00:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 22:05:25 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Gülinay Selçuk İle Haber Bülteni</title>
+      <link>https://www.youtube.com/watch?v=3nKwGo_JOAU</link>
+      <guid isPermaLink="false">3nKwGo_JOAU</guid>
+      <pubDate>Sat, 05 Sep 2026 22:02:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Gülinay Selçuk İle Haber Bülteni</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Simge Fıstıkoğlu İle İyi ki Hafta Sonu</title>
+      <link>https://www.youtube.com/watch?v=jk8UDp2EMYk</link>
+      <guid isPermaLink="false">jk8UDp2EMYk</guid>
+      <pubDate>Sat, 05 Sep 2026 22:01:21 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Simge Fıstıkoğlu İle İyi ki Hafta Sonu</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Ceylin Çağatay İle Sabah Kahvesi</title>
+      <link>https://www.youtube.com/watch?v=okVFu49EPUY</link>
+      <guid isPermaLink="false">okVFu49EPUY</guid>
+      <pubDate>Sat, 05 Sep 2026 22:00:46 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Ceylin Çağatay İle Sabah Kahvesi</description>
+    </item>
     <item>
       <title>Halk TV: Fenerbahçe Kulübü Başkanı Aziz Yıldırım, Beşiktaş maçının ardından açıklamalarda bulundu!</title>
       <link>https://www.youtube.com/watch?v=LfjSvoNdChk</link>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">ngwOPg-ikZA</guid>
       <pubDate>Sat, 05 Sep 2026 15:09:20 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Özel Edirne'de büyük bir coşkuyla karşılandı!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, çiftçilerle buluştu / Kırklareli #Canlı</title>
-      <link>https://www.youtube.com/watch?v=ZC4bSI3lY5M</link>
-      <guid isPermaLink="false">ZC4bSI3lY5M</guid>
-      <pubDate>Sat, 05 Sep 2026 15:08:17 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, çiftçilerle buluştu / Kırklareli #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel'den iktidara: Bak otobüsün sesi nasıl gidiyor!</title>
-      <link>https://www.youtube.com/shorts/Kh6tkxd4g8Y</link>
-      <guid isPermaLink="false">Kh6tkxd4g8Y</guid>
-      <pubDate>Sat, 05 Sep 2026 15:03:02 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel'den iktidara: Bak otobüsün sesi nasıl gidiyor!</description>
-    </item>
-    <item>
-      <title>Halk TV: ERDOĞAN BU GÖRÜNTÜLERİ UNUTAMAZ! Edirneli esnaflar Özgür Özel'e dert yandı! Saray alarma geçecek!</title>
-      <link>https://www.youtube.com/watch?v=v4wD5Bm2pzM</link>
-      <guid isPermaLink="false">v4wD5Bm2pzM</guid>
-      <pubDate>Sat, 05 Sep 2026 15:00:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ERDOĞAN BU GÖRÜNTÜLERİ UNUTAMAZ! Edirneli esnaflar Özgür Özel'e dert yandı! Saray alarma geçecek!</description>
     </item>
   </channel>
 </rss>

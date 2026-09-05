@@ -32270,5 +32270,29 @@
     "published": "2026-09-05T22:00:11+00:00",
     "published_ts": 1788645611,
     "channel_name": "Halk TV"
+  },
+  "3nKwGo_JOAU": {
+    "id": "3nKwGo_JOAU",
+    "title": "Gülinay Selçuk İle Haber Bülteni",
+    "link": "https://www.youtube.com/watch?v=3nKwGo_JOAU",
+    "published": "2026-09-05T22:02:06+00:00",
+    "published_ts": 1788645726,
+    "channel_name": "SÖZCÜ TV"
+  },
+  "jk8UDp2EMYk": {
+    "id": "jk8UDp2EMYk",
+    "title": "Simge Fıstıkoğlu İle İyi ki Hafta Sonu",
+    "link": "https://www.youtube.com/watch?v=jk8UDp2EMYk",
+    "published": "2026-09-05T22:01:21+00:00",
+    "published_ts": 1788645681,
+    "channel_name": "SÖZCÜ TV"
+  },
+  "okVFu49EPUY": {
+    "id": "okVFu49EPUY",
+    "title": "Ceylin Çağatay İle Sabah Kahvesi",
+    "link": "https://www.youtube.com/watch?v=okVFu49EPUY",
+    "published": "2026-09-05T22:00:46+00:00",
+    "published_ts": 1788645646,
+    "channel_name": "SÖZCÜ TV"
   }
 }
