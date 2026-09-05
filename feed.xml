@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 12:10:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 12:15:31 +0000</lastBuildDate>
     <item>
       <title>Halk TV: Özgür Özel: Erdoğan’ın getirdiği bütün yasakları yasaklayacağımız bir Türkiye inşa edeceğiz!</title>
       <link>https://www.youtube.com/shorts/fvQnDAeTypk</link>
@@ -34,6 +34,13 @@
       <guid isPermaLink="false">xpkbGXjIea0</guid>
       <pubDate>Sat, 05 Sep 2026 12:00:35 +0000</pubDate>
       <description>Halk TV kanalından yeni video: VALİLİK BAŞVURUYA CEVAP VERMEMİŞ! Yaşar Tüzün'ün açıklamaları 'yok artık' dedirtir! Tek tek anlattı!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: 'ÇARESİZSİN ERDOĞAN' Özgür Özel’den Erdoğan’a Sert Çıktı! AKP'nin Seçim Hesabını Bozacak Hamle</title>
+      <link>https://www.youtube.com/watch?v=NpIyFt7TOX4</link>
+      <guid isPermaLink="false">NpIyFt7TOX4</guid>
+      <pubDate>Sat, 05 Sep 2026 12:00:15 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: 'ÇARESİZSİN ERDOĞAN' Özgür Özel’den Erdoğan’a Sert Çıktı! AKP'nin Seçim Hesabını Bozacak Hamle</description>
     </item>
     <item>
       <title>Cumhuriyet: Hürriyet Sağlık Sen Genel Başkanı Çakmak: Planlamalar kısa sürede yapılmalı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">XIcrosuGxUE</guid>
       <pubDate>Sat, 05 Sep 2026 09:30:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Murat Ağırel Gökçek Ailesi Dosyasının Derinine İndi! Berhan Şimşek ve Şamil Tayyar'a Olay Sözler</description>
-    </item>
-    <item>
-      <title>Halk TV: ERDOĞAN VE KILIÇDAROĞLU'NU KAPANA KISTIRDI! Özgür Özel'in sözleri tir tir titretir! Yok böyle vaat!</title>
-      <link>https://www.youtube.com/watch?v=xfA93ztu5yk</link>
-      <guid isPermaLink="false">xfA93ztu5yk</guid>
-      <pubDate>Sat, 05 Sep 2026 09:25:08 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ERDOĞAN VE KILIÇDAROĞLU'NU KAPANA KISTIRDI! Özgür Özel'in sözleri tir tir titretir! Yok böyle vaat!</description>
     </item>
   </channel>
 </rss>
