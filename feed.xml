@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 08:55:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 09:00:50 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: CHP İstanbul İl Başkanı Gürsel Tekin, Katılım ve Rozet Takma Töreni'nde açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=MInVkvf6KCY</link>
+      <guid isPermaLink="false">MInVkvf6KCY</guid>
+      <pubDate>Sat, 05 Sep 2026 08:57:32 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: CHP İstanbul İl Başkanı Gürsel Tekin, Katılım ve Rozet Takma Töreni'nde açıklama yapıyor #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Edirne'de Emeklilerle Buluştu!</title>
       <link>https://www.youtube.com/watch?v=lQjfKK8ciZk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">p8fQlT2wtHc</guid>
       <pubDate>Sat, 05 Sep 2026 06:35:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İsmail Saymaz Bombayı Patlattı! Melih Gökçek İddialara Ne Dedi? Sakız Çiğnemesi Olay Oldu</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: #CANLI Üsküdar'da kritik seçim: Belediye çevresinde yoğun güvenlik önlemi…</title>
-      <link>https://www.youtube.com/watch?v=za9TatPifgg</link>
-      <guid isPermaLink="false">za9TatPifgg</guid>
-      <pubDate>Sat, 05 Sep 2026 06:30:11 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI Üsküdar'da kritik seçim: Belediye çevresinde yoğun güvenlik önlemi…</description>
     </item>
   </channel>
 </rss>
