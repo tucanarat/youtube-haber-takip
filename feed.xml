@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 13:50:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 13:55:30 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Gülinay Selçuk İle Haber Bülteni | 5 Eylül</title>
+      <link>https://www.youtube.com/watch?v=qrWsvNimAy8</link>
+      <guid isPermaLink="false">qrWsvNimAy8</guid>
+      <pubDate>Sat, 05 Sep 2026 13:52:00 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Gülinay Selçuk İle Haber Bülteni | 5 Eylül</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Özgür Özel: “Bu millet bizim sesimizin kısılmasına izin vermedi, vermeyecek”</title>
       <link>https://www.youtube.com/shorts/7u9NqQP50sQ</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ZNz5_1fLDs4</guid>
       <pubDate>Sat, 05 Sep 2026 10:24:10 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Özel'den köprü ve otoyolların özelleştirilmesine tepki: Altın yumurtlayan tavuğu kesiyorlar!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Edirne Halk Pazarı'nı ziyaret ediyor</title>
-      <link>https://www.youtube.com/watch?v=8bhDwFHmOXA</link>
-      <guid isPermaLink="false">8bhDwFHmOXA</guid>
-      <pubDate>Sat, 05 Sep 2026 10:23:15 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Edirne Halk Pazarı'nı ziyaret ediyor</description>
     </item>
   </channel>
 </rss>
