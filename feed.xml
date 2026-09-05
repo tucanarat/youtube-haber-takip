@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 21:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 22:00:51 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Fenerbahçe Kulübü Başkanı Aziz Yıldırım, Beşiktaş maçının ardından açıklamalarda bulundu!</title>
+      <link>https://www.youtube.com/watch?v=LfjSvoNdChk</link>
+      <guid isPermaLink="false">LfjSvoNdChk</guid>
+      <pubDate>Sat, 05 Sep 2026 22:00:11 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Fenerbahçe Kulübü Başkanı Aziz Yıldırım, Beşiktaş maçının ardından açıklamalarda bulundu!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Nagihan Turhan ile S Raporu | 5 Eylül</title>
+      <link>https://www.youtube.com/watch?v=rgBfEn07y1w</link>
+      <guid isPermaLink="false">rgBfEn07y1w</guid>
+      <pubDate>Sat, 05 Sep 2026 21:59:13 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Nagihan Turhan ile S Raporu | 5 Eylül</description>
+    </item>
     <item>
       <title>Halk TV: Fenerbahçe taraftarı derbi mağlubiyeti sonrası çıldırdı | Enes Köseoğlu ile Tribünün Sesi</title>
       <link>https://www.youtube.com/watch?v=YpGN4ZCttzs</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">v4wD5Bm2pzM</guid>
       <pubDate>Sat, 05 Sep 2026 15:00:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ERDOĞAN BU GÖRÜNTÜLERİ UNUTAMAZ! Edirneli esnaflar Özgür Özel'e dert yandı! Saray alarma geçecek!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Savaş Avrupa'ya Sıçrıyor! Almanya ve Rusya Arasında Korkutan Drone Krizi! Putin Düğmeye Bastı</title>
-      <link>https://www.youtube.com/watch?v=f-FexF6o_BQ</link>
-      <guid isPermaLink="false">f-FexF6o_BQ</guid>
-      <pubDate>Sat, 05 Sep 2026 15:00:00 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Savaş Avrupa'ya Sıçrıyor! Almanya ve Rusya Arasında Korkutan Drone Krizi! Putin Düğmeye Bastı</description>
-    </item>
-    <item>
-      <title>Halk TV: Işın Eliçin ile Sınırsız (5 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=sVPTxEDnji0</link>
-      <guid isPermaLink="false">sVPTxEDnji0</guid>
-      <pubDate>Sat, 05 Sep 2026 14:57:35 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Işın Eliçin ile Sınırsız (5 Eylül 2026)</description>
     </item>
   </channel>
 </rss>
