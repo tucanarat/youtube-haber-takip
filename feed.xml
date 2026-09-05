@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 15:30:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 15:35:26 +0000</lastBuildDate>
     <item>
-      <title>Halk TV: #CANLI | İYİ Parti Genel Başkanı Müsavat Dervişoğlu, Fatsa'da Açıklama Yapıyor!</title>
+      <title>Halk TV: İYİ Parti Genel Başkanı Müsavat Dervişoğlu, Fatsa'da Açıklama Yaptı! (5 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=inltPnDu6Ok</link>
       <guid isPermaLink="false">inltPnDu6Ok</guid>
       <pubDate>Sat, 05 Sep 2026 15:30:19 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | İYİ Parti Genel Başkanı Müsavat Dervişoğlu, Fatsa'da Açıklama Yapıyor!</description>
+      <description>Halk TV kanalından yeni video: İYİ Parti Genel Başkanı Müsavat Dervişoğlu, Fatsa'da Açıklama Yaptı! (5 Eylül 2026)</description>
+    </item>
+    <item>
+      <title>Halk TV: YOK BÖYLE SEVGİ! Özgür Özel'i görenler yanına koştu, sarılan bırakamadı! Milyonlar bunu konuşacak!</title>
+      <link>https://www.youtube.com/watch?v=iICUbrb-xVU</link>
+      <guid isPermaLink="false">iICUbrb-xVU</guid>
+      <pubDate>Sat, 05 Sep 2026 15:30:15 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YOK BÖYLE SEVGİ! Özgür Özel'i görenler yanına koştu, sarılan bırakamadı! Milyonlar bunu konuşacak!</description>
     </item>
     <item>
       <title>Halk TV: Özgür Özel: Acıya dayanıyoruz diye başımıza daha acısı gelmese çok iyi olacak!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">XdzoH92FbJw</guid>
       <pubDate>Sat, 05 Sep 2026 11:55:19 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Sarıyer İlçe Başkanlığı açılışı / İstanbul #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti Lideri Özgür Özel: AKP yoksulluğu yok etmenin değil, yönetmenin peşinde!</title>
-      <link>https://www.youtube.com/shorts/bQdNygYU7oA</link>
-      <guid isPermaLink="false">bQdNygYU7oA</guid>
-      <pubDate>Sat, 05 Sep 2026 11:55:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti Lideri Özgür Özel: AKP yoksulluğu yok etmenin değil, yönetmenin peşinde!</description>
     </item>
   </channel>
 </rss>
