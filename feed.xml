@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 16:25:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 16:30:38 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Ekrem Açıkel Anlattı! Devlet Bahçeli Devreye Girdi! Erdoğan'ın Yeni Anayasa Planı İfşa Oldu</title>
+      <link>https://www.youtube.com/watch?v=wSuSXTT-r7U</link>
+      <guid isPermaLink="false">wSuSXTT-r7U</guid>
+      <pubDate>Sat, 05 Sep 2026 16:10:04 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Ekrem Açıkel Anlattı! Devlet Bahçeli Devreye Girdi! Erdoğan'ın Yeni Anayasa Planı İfşa Oldu</description>
+    </item>
     <item>
       <title>Halk TV: SON DAKİKA! Ünlü oyuncu Serhat Kılıç kız arkadaşı tarafından evinde ölü bulundu!</title>
       <link>https://www.youtube.com/watch?v=wCfdfsRYKIE</link>
@@ -148,11 +155,11 @@
       <description>Cumhuriyet kanalından yeni video: #CANLI Özgür Özel Kırklareli’nde çiftçilerle buluştu</description>
     </item>
     <item>
-      <title>Halk TV: TOZU DUMANA KATTTI! Özgür Özel’in sözleri çok can yakacak! Kara haberi verdi, meydan yıkıldı!</title>
+      <title>Halk TV: TOZU DUMANA KATTI! Özgür Özel’in sözleri çok can yakacak! Kara haberi verdi, meydan yıkıldı!</title>
       <link>https://www.youtube.com/watch?v=f6iF-tTEStc</link>
       <guid isPermaLink="false">f6iF-tTEStc</guid>
       <pubDate>Sat, 05 Sep 2026 14:07:11 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: TOZU DUMANA KATTTI! Özgür Özel’in sözleri çok can yakacak! Kara haberi verdi, meydan yıkıldı!</description>
+      <description>Halk TV kanalından yeni video: TOZU DUMANA KATTI! Özgür Özel’in sözleri çok can yakacak! Kara haberi verdi, meydan yıkıldı!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Köprüler Neden Özelleştiriliyor? Deniz Yavuzyılmaz Mehmet Şimşek'in Gizlediği Gerçeği Açıkladı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">xpkbGXjIea0</guid>
       <pubDate>Sat, 05 Sep 2026 12:00:35 +0000</pubDate>
       <description>Halk TV kanalından yeni video: VALİLİK BAŞVURUYA CEVAP VERMEMİŞ! Yaşar Tüzün'ün açıklamaları 'yok artık' dedirtir! Tek tek anlattı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: 'ÇARESİZSİN ERDOĞAN' Özgür Özel’den Erdoğan’a Sert Çıktı! AKP'nin Seçim Hesabını Bozacak Hamle</title>
-      <link>https://www.youtube.com/watch?v=NpIyFt7TOX4</link>
-      <guid isPermaLink="false">NpIyFt7TOX4</guid>
-      <pubDate>Sat, 05 Sep 2026 12:00:15 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: 'ÇARESİZSİN ERDOĞAN' Özgür Özel’den Erdoğan’a Sert Çıktı! AKP'nin Seçim Hesabını Bozacak Hamle</description>
     </item>
   </channel>
 </rss>
