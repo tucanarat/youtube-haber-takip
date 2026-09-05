@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 22:05:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 22:10:29 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Gökmen Karadağ ile Açıkça</title>
+      <link>https://www.youtube.com/watch?v=nkoSsHxrsyQ</link>
+      <guid isPermaLink="false">nkoSsHxrsyQ</guid>
+      <pubDate>Sat, 05 Sep 2026 22:06:26 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Gökmen Karadağ ile Açıkça</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Ekrem Açıkel İle Hafta Sonu Ana Haber</title>
+      <link>https://www.youtube.com/watch?v=SgAQ02lVUgU</link>
+      <guid isPermaLink="false">SgAQ02lVUgU</guid>
+      <pubDate>Sat, 05 Sep 2026 22:05:23 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Ekrem Açıkel İle Hafta Sonu Ana Haber</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Gülinay Selçuk İle Haber Bülteni</title>
       <link>https://www.youtube.com/watch?v=3nKwGo_JOAU</link>
@@ -267,13 +281,6 @@
       <description>SÖZCÜ TV kanalından yeni video: ÜNLÜ OYUNCU SERHAT KILIÇ EVİNDE ÖLÜ BULUNDU! Sır Ölümün Perde Arkası</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | Gökmen Karadağ ile Açıkça</title>
-      <link>https://www.youtube.com/watch?v=nkoSsHxrsyQ</link>
-      <guid isPermaLink="false">nkoSsHxrsyQ</guid>
-      <pubDate>Sat, 05 Sep 2026 16:50:36 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Gökmen Karadağ ile Açıkça</description>
-    </item>
-    <item>
       <title>Halk TV: Üsküdar’da dikkat çeken anlar! Tahsin Usta’yı gören vatandaşlar tepki gösterdi!</title>
       <link>https://www.youtube.com/watch?v=O6fHPcpsAHs</link>
       <guid isPermaLink="false">O6fHPcpsAHs</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">z54mCs6oat8</guid>
       <pubDate>Sat, 05 Sep 2026 15:15:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: TÜRKİYE BU BELGELERLE ÇALKALANACAK! Yavuzyılmaz 'İhanet planı' diyerek ifşaladı! AKP köşeye sıkışır!</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel Edirne'de büyük bir coşkuyla karşılandı!</title>
-      <link>https://www.youtube.com/shorts/ngwOPg-ikZA</link>
-      <guid isPermaLink="false">ngwOPg-ikZA</guid>
-      <pubDate>Sat, 05 Sep 2026 15:09:20 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel Edirne'de büyük bir coşkuyla karşılandı!</description>
     </item>
   </channel>
 </rss>
