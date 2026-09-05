@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 20:45:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 20:50:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: KRİTİK OYLAMA ÖNCESİ SON TABLO! Üsküdar’da meclis aritmetiğinde son durum!</title>
+      <link>https://www.youtube.com/watch?v=i248rJQQHAM</link>
+      <guid isPermaLink="false">i248rJQQHAM</guid>
+      <pubDate>Sat, 05 Sep 2026 20:35:07 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KRİTİK OYLAMA ÖNCESİ SON TABLO! Üsküdar’da meclis aritmetiğinde son durum!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: CHP Sözcüsü Müslim Sarı açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=pyoRhT6nihU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">BhGDTSGEspU</guid>
       <pubDate>Sat, 05 Sep 2026 14:07:20 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI Özgür Özel Kırklareli’nde çiftçilerle buluştu</description>
-    </item>
-    <item>
-      <title>Halk TV: TOZU DUMANA KATTI! Özgür Özel’in sözleri çok can yakacak! Kara haberi verdi, meydan yıkıldı!</title>
-      <link>https://www.youtube.com/watch?v=f6iF-tTEStc</link>
-      <guid isPermaLink="false">f6iF-tTEStc</guid>
-      <pubDate>Sat, 05 Sep 2026 14:07:11 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: TOZU DUMANA KATTI! Özgür Özel’in sözleri çok can yakacak! Kara haberi verdi, meydan yıkıldı!</description>
     </item>
   </channel>
 </rss>
