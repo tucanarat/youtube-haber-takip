@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 08:35:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 08:38:47 +0000</lastBuildDate>
     <item>
       <title>Halk TV: #CANLI | CHP'nin Butlan Sözcüsü Müslim Sarı Açıklama Yapıyor!</title>
       <link>https://www.youtube.com/watch?v=zsYh8sKXGvQ</link>
       <guid isPermaLink="false">zsYh8sKXGvQ</guid>
       <pubDate>Sat, 05 Sep 2026 08:34:51 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | CHP'nin Butlan Sözcüsü Müslim Sarı Açıklama Yapıyor!</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: #CANLI YENİ Parti lideri Özgür Özel Edirne’de… Emeklilerle buluştu</title>
+      <link>https://www.youtube.com/watch?v=2wSwfliTi3I</link>
+      <guid isPermaLink="false">2wSwfliTi3I</guid>
+      <pubDate>Sat, 05 Sep 2026 08:32:54 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI YENİ Parti lideri Özgür Özel Edirne’de… Emeklilerle buluştu</description>
     </item>
     <item>
       <title>Tele2 Haber: Üsküdar Belediyesi seçimi ertelendi! Özgür Çelik'ten çok kritik 'MECLİS ÜYESİ' açıklaması...</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">KKG7nYBJSyo</guid>
       <pubDate>Fri, 04 Sep 2026 23:23:46 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Zafer Partisi Genel Başkanı Ümit Özdağ, Eğitim İş Sendikası'nı ziyaret etti #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti Genel Başkanı Özgür Özel’e Süleymanpaşa’da coşkulu karşılama! #shorts</title>
-      <link>https://www.youtube.com/shorts/ZsUCmf3XtCM</link>
-      <guid isPermaLink="false">ZsUCmf3XtCM</guid>
-      <pubDate>Fri, 04 Sep 2026 23:15:19 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel’e Süleymanpaşa’da coşkulu karşılama! #shorts</description>
     </item>
   </channel>
 </rss>
