@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 07:10:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 07:15:29 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Yüreğir Belediyesi mahkeme kararıyla AKP'ye geçti! CHP'den açıklama...</title>
+      <link>https://www.youtube.com/watch?v=qTY1CTWCYzg</link>
+      <guid isPermaLink="false">qTY1CTWCYzg</guid>
+      <pubDate>Sat, 05 Sep 2026 07:06:18 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Yüreğir Belediyesi mahkeme kararıyla AKP'ye geçti! CHP'den açıklama...</description>
+    </item>
     <item>
       <title>Halk TV: İSTANBUL’DA KAN DONDURAN OLAY! Korsan taksicilik yapan emekli polis, meslektaşını öldürdü! Kahreder!</title>
       <link>https://www.youtube.com/watch?v=vjTmyDFVc30</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">MdB8qMXpp7s</guid>
       <pubDate>Fri, 04 Sep 2026 20:53:54 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: 3. KESK Kadın Kurultayı / Ankara #Canlı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İRAN ABD ÜSSÜNÜ VURDU! Trump'a Büyük Şok! Ortadoğu'da İpler Koptu! Hamaney Düğmeye Bastı</title>
-      <link>https://www.youtube.com/watch?v=YNpYO5sm6HY</link>
-      <guid isPermaLink="false">YNpYO5sm6HY</guid>
-      <pubDate>Fri, 04 Sep 2026 20:50:07 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İRAN ABD ÜSSÜNÜ VURDU! Trump'a Büyük Şok! Ortadoğu'da İpler Koptu! Hamaney Düğmeye Bastı</description>
     </item>
   </channel>
 </rss>
