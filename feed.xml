@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 09:55:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 10:00:47 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Simge Fıstıkoğlu İle İyi ki Hafta Sonu | 5 Eylül</title>
+      <link>https://www.youtube.com/watch?v=OETiN9CqBf0</link>
+      <guid isPermaLink="false">OETiN9CqBf0</guid>
+      <pubDate>Sat, 05 Sep 2026 09:55:38 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Simge Fıstıkoğlu İle İyi ki Hafta Sonu | 5 Eylül</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Gülşah Ekinci ile Öğle Haberleri</title>
       <link>https://www.youtube.com/watch?v=IuQ7r8FS1II</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Vj_PekUteZU</guid>
       <pubDate>Sat, 05 Sep 2026 07:53:47 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #SONDAKİKA Üsküdar Belediye Başkanvekilliği seçimi ertelendi! Üsküdar’dan #canlı yayın…</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Üsküdar Belediye Başkan Vekilliği seçimi ertelendi</title>
-      <link>https://www.youtube.com/watch?v=B3BGuflK9ys</link>
-      <guid isPermaLink="false">B3BGuflK9ys</guid>
-      <pubDate>Sat, 05 Sep 2026 07:52:11 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Üsküdar Belediye Başkan Vekilliği seçimi ertelendi</description>
     </item>
   </channel>
 </rss>
