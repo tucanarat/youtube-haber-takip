@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 13:40:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 13:45:29 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Gülinay Selçuk İle Haber Bülteni</title>
+      <link>https://www.youtube.com/watch?v=8jNAGVBQQwc</link>
+      <guid isPermaLink="false">8jNAGVBQQwc</guid>
+      <pubDate>Sat, 05 Sep 2026 13:41:58 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Gülinay Selçuk İle Haber Bülteni</description>
+    </item>
     <item>
       <title>Tele2 Haber: Edirne'de gülümseten anlar! Özgür Özel partileri karıştırdı... "Müsavat Bey'e bir güzellik oldu"</title>
       <link>https://www.youtube.com/watch?v=tyuhhz_7HgU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">y2nm0ic4XBU</guid>
       <pubDate>Sat, 05 Sep 2026 10:10:19 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ERDOĞAN'IN KİRLİ OYUNUNU BUTLAN CHP'Sİ BOZDU! Öyle bir çalım attılar ki! Saray birbirine girecek!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Özdemir İnce'den Ekrem İmamoğlu'nun 'SAVUNMA' kitabının yasaklanmasına çok sert tepki!</title>
-      <link>https://www.youtube.com/watch?v=kOnAblRSnVc</link>
-      <guid isPermaLink="false">kOnAblRSnVc</guid>
-      <pubDate>Sat, 05 Sep 2026 10:00:38 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Özdemir İnce'den Ekrem İmamoğlu'nun 'SAVUNMA' kitabının yasaklanmasına çok sert tepki!</description>
     </item>
   </channel>
 </rss>

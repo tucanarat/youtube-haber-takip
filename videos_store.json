@@ -30801,7 +30801,7 @@
   },
   "qrWsvNimAy8": {
     "id": "qrWsvNimAy8",
-    "title": "#CANLI Gülinay Selçuk İle Haber Bülteni",
+    "title": "Gülinay Selçuk İle Haber Bülteni | 5 Eylül",
     "link": "https://www.youtube.com/watch?v=qrWsvNimAy8",
     "published": "2026-09-04T22:19:25+00:00",
     "published_ts": 1788560365,
@@ -31814,5 +31814,13 @@
     "published": "2026-09-05T13:35:05+00:00",
     "published_ts": 1788615305,
     "channel_name": "Tele2 Haber"
+  },
+  "8jNAGVBQQwc": {
+    "id": "8jNAGVBQQwc",
+    "title": "Gülinay Selçuk İle Haber Bülteni",
+    "link": "https://www.youtube.com/watch?v=8jNAGVBQQwc",
+    "published": "2026-09-05T13:41:58+00:00",
+    "published_ts": 1788615718,
+    "channel_name": "SÖZCÜ TV"
   }
 }
