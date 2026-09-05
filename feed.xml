@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 20:30:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 20:35:27 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: CHP Sözcüsü Müslim Sarı açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=pyoRhT6nihU</link>
+      <guid isPermaLink="false">pyoRhT6nihU</guid>
+      <pubDate>Sat, 05 Sep 2026 20:35:02 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: CHP Sözcüsü Müslim Sarı açıklama yapıyor #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: ÜSKÜDAR BELEDİYESİ’NDE KRİTİK DENGE! Gökmen Karadağ’dan Üsküdar tablosunun tüm detayları!</title>
       <link>https://www.youtube.com/watch?v=N8L_s63UnsI</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">f6iF-tTEStc</guid>
       <pubDate>Sat, 05 Sep 2026 14:07:11 +0000</pubDate>
       <description>Halk TV kanalından yeni video: TOZU DUMANA KATTI! Özgür Özel’in sözleri çok can yakacak! Kara haberi verdi, meydan yıkıldı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Köprüler Neden Özelleştiriliyor? Deniz Yavuzyılmaz Mehmet Şimşek'in Gizlediği Gerçeği Açıkladı</title>
-      <link>https://www.youtube.com/watch?v=VOouDjMm94A</link>
-      <guid isPermaLink="false">VOouDjMm94A</guid>
-      <pubDate>Sat, 05 Sep 2026 14:00:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Köprüler Neden Özelleştiriliyor? Deniz Yavuzyılmaz Mehmet Şimşek'in Gizlediği Gerçeği Açıkladı</description>
     </item>
   </channel>
 </rss>
