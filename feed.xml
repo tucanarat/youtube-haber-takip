@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 19:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 19:20:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Özgür Özel’in Trakya mesaisi! Edirne’de vatandaş ve emeklilerle buluştu!</title>
+      <link>https://www.youtube.com/watch?v=VDlcx9pIKVM</link>
+      <guid isPermaLink="false">VDlcx9pIKVM</guid>
+      <pubDate>Sat, 05 Sep 2026 19:15:48 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Özgür Özel’in Trakya mesaisi! Edirne’de vatandaş ve emeklilerle buluştu!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Bahçeli'nin "Sistem Değişikliği" Çıkışının Perde Arkası: Muhalefeti Bekleyen Büyük Tehlike</title>
       <link>https://www.youtube.com/watch?v=wGiq4AAbIiI</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">2yvk4BL2bfU</guid>
       <pubDate>Sat, 05 Sep 2026 13:40:17 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: CHP sözcüsü Müslim Sarı 8 Eylül’e ertelenen Üsküdar seçimleri ile ilgili konuştu</description>
-    </item>
-    <item>
-      <title>Halk TV: KIRKLARELİ SEL OLUP AKTI! Özgür Özel adım atacak yer bulamadı! İşte dillerden düşmeyecek o anlar!</title>
-      <link>https://www.youtube.com/watch?v=1bHuWH1tNdU</link>
-      <guid isPermaLink="false">1bHuWH1tNdU</guid>
-      <pubDate>Sat, 05 Sep 2026 13:36:56 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KIRKLARELİ SEL OLUP AKTI! Özgür Özel adım atacak yer bulamadı! İşte dillerden düşmeyecek o anlar!</description>
     </item>
   </channel>
 </rss>
