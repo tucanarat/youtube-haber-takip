@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 07:20:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 07:25:24 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Deniz Göktaş'ın 9 yıl hapsi istendi! Sera Kadıgil: Tek suçu bu düzenden korkmamak</title>
+      <link>https://www.youtube.com/watch?v=PE-M0MtN4qY</link>
+      <guid isPermaLink="false">PE-M0MtN4qY</guid>
+      <pubDate>Sat, 05 Sep 2026 07:19:43 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Deniz Göktaş'ın 9 yıl hapsi istendi! Sera Kadıgil: Tek suçu bu düzenden korkmamak</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Edirne'de emeklilerle buluştu #Canlı</title>
       <link>https://www.youtube.com/watch?v=RZT_ry3DLtA</link>
       <guid isPermaLink="false">RZT_ry3DLtA</guid>
       <pubDate>Sat, 05 Sep 2026 07:16:09 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Edirne'de emeklilerle buluştu #Canlı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Helal Olsun! Derede mahsur kalan ayıyı köylüler böyle kurtardı #shorts</title>
+      <link>https://www.youtube.com/shorts/Hyi20FIGXXE</link>
+      <guid isPermaLink="false">Hyi20FIGXXE</guid>
+      <pubDate>Sat, 05 Sep 2026 07:15:22 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Helal Olsun! Derede mahsur kalan ayıyı köylüler böyle kurtardı #shorts</description>
     </item>
     <item>
       <title>Cumhuriyet: Başaran Aksu ve Gökay Çakır tahliye edildi! "MÜCADELEDEN ASLA GERİ DURMAYACAĞIZ"</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">SeFBzGxQOVE</guid>
       <pubDate>Fri, 04 Sep 2026 21:15:30 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Okuduğu okulda katliam yapan İsa Aras Mersinli'nin babasının yaptığı savunma şoke ettirdi!</description>
-    </item>
-    <item>
-      <title>Halk TV: İBB Başkanvekili Nuri Aslan’ın babası Muharrem Aslan için cenaze töreni düzenlendi! #shorts</title>
-      <link>https://www.youtube.com/shorts/5ekAskSdRIs</link>
-      <guid isPermaLink="false">5ekAskSdRIs</guid>
-      <pubDate>Fri, 04 Sep 2026 21:14:56 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İBB Başkanvekili Nuri Aslan’ın babası Muharrem Aslan için cenaze töreni düzenlendi! #shorts</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Murat Ağırel Berhan Şimşek'e Ateş Püskürdü! Kan Donduran Görüntüler! Siyasette Deprem</title>
-      <link>https://www.youtube.com/watch?v=WnJXIjGSZCA</link>
-      <guid isPermaLink="false">WnJXIjGSZCA</guid>
-      <pubDate>Fri, 04 Sep 2026 21:10:02 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Murat Ağırel Berhan Şimşek'e Ateş Püskürdü! Kan Donduran Görüntüler! Siyasette Deprem</description>
     </item>
   </channel>
 </rss>
