@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 10:50:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 10:55:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ERDOĞAN’IN ‘BUTLAN’ RÜYASI KABUSA DÖNDÜ! Üsküdar’daki tezgahı böyle bozdular! Gamze Altunay aktardı!</title>
+      <link>https://www.youtube.com/watch?v=MsDvTgHgWV4</link>
+      <guid isPermaLink="false">MsDvTgHgWV4</guid>
+      <pubDate>Sat, 05 Sep 2026 10:45:31 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ERDOĞAN’IN ‘BUTLAN’ RÜYASI KABUSA DÖNDÜ! Üsküdar’daki tezgahı böyle bozdular! Gamze Altunay aktardı!</description>
+    </item>
     <item>
       <title>Cumhuriyet: Nuri Aslan'ın acı günü... Babası Muharrem Aslan son yolculuğuna uğurlandı</title>
       <link>https://www.youtube.com/shorts/SSNsVCNp1AI</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">EHEduelNyEE</guid>
       <pubDate>Sat, 05 Sep 2026 08:30:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Barış Terkoğlu Gizli Notları Okudu! Cem Küçük, Adnan Oktar ve Akılalmaz Milis Gücü Planları!</description>
-    </item>
-    <item>
-      <title>Halk TV: ÜSKÜDAR SEÇİMİ 8 EYLÜL'E ERTELENDİ! Üsküdarlılar Belediye Önünde Sloganlar Atıyor! (5 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=lUtad42z60w</link>
-      <guid isPermaLink="false">lUtad42z60w</guid>
-      <pubDate>Sat, 05 Sep 2026 08:22:56 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ÜSKÜDAR SEÇİMİ 8 EYLÜL'E ERTELENDİ! Üsküdarlılar Belediye Önünde Sloganlar Atıyor! (5 Eylül 2026)</description>
     </item>
   </channel>
 </rss>
