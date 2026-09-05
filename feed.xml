@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 10:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 11:00:47 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Müslim Sarı: YENİ Parti grubuyla beraber ortak bir tavır sergiledik ve seçime katılmadık</title>
+      <link>https://www.youtube.com/shorts/b2inbPJxvn8</link>
+      <guid isPermaLink="false">b2inbPJxvn8</guid>
+      <pubDate>Sat, 05 Sep 2026 10:53:02 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Müslim Sarı: YENİ Parti grubuyla beraber ortak bir tavır sergiledik ve seçime katılmadık</description>
+    </item>
     <item>
       <title>Halk TV: ERDOĞAN’IN ‘BUTLAN’ RÜYASI KABUSA DÖNDÜ! Üsküdar’daki tezgahı böyle bozdular! Gamze Altunay aktardı!</title>
       <link>https://www.youtube.com/watch?v=MsDvTgHgWV4</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">y0t-nhVsiK4</guid>
       <pubDate>Sat, 05 Sep 2026 08:30:19 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Üsküdar Belediyesi seçimi ertelendi! Özgür Çelik'ten çok kritik 'MECLİS ÜYESİ' açıklaması...</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Barış Terkoğlu Gizli Notları Okudu! Cem Küçük, Adnan Oktar ve Akılalmaz Milis Gücü Planları!</title>
-      <link>https://www.youtube.com/watch?v=EHEduelNyEE</link>
-      <guid isPermaLink="false">EHEduelNyEE</guid>
-      <pubDate>Sat, 05 Sep 2026 08:30:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Barış Terkoğlu Gizli Notları Okudu! Cem Küçük, Adnan Oktar ve Akılalmaz Milis Gücü Planları!</description>
     </item>
   </channel>
 </rss>
