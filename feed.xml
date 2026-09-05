@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 20:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 20:05:23 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: IRAKTA VARLIK İÇİNDE YOKLUK! PETREOL ZENGİNİ IRAKTA B ENZİN KITLIĞI YAŞANIYOR!</title>
+      <link>https://www.youtube.com/watch?v=aDnguAzAwFk</link>
+      <guid isPermaLink="false">aDnguAzAwFk</guid>
+      <pubDate>Sat, 05 Sep 2026 19:55:18 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: IRAKTA VARLIK İÇİNDE YOKLUK! PETREOL ZENGİNİ IRAKTA B ENZİN KITLIĞI YAŞANIYOR!</description>
+    </item>
     <item>
       <title>Halk TV: SELAHATTİN DEMİRTAŞ DUYURDU! Selçuk Mızraklı için tahliye tarihi belli oldu!</title>
       <link>https://www.youtube.com/watch?v=e8X1wVtGbbc</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">7u9NqQP50sQ</guid>
       <pubDate>Sat, 05 Sep 2026 13:45:31 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Özgür Özel: “Bu millet bizim sesimizin kısılmasına izin vermedi, vermeyecek”</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Özgür  Özel, devlete ait otoyol ve köprülerin özelleştirilme kapsamına alınmasını eleştirdi</title>
-      <link>https://www.youtube.com/shorts/YG11mANwEOg</link>
-      <guid isPermaLink="false">YG11mANwEOg</guid>
-      <pubDate>Sat, 05 Sep 2026 13:42:15 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Özgür  Özel, devlete ait otoyol ve köprülerin özelleştirilme kapsamına alınmasını eleştirdi</description>
     </item>
   </channel>
 </rss>
