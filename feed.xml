@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 11:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 11:40:28 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SON DAKİKA! SELÇUK MIZRAKLI O GÜN TAHLİYE OLUYOR! Demirtaş bu sözlerle duyurdu! Fırtına kopartacak!</title>
+      <link>https://www.youtube.com/watch?v=ON-iT2XoOLE</link>
+      <guid isPermaLink="false">ON-iT2XoOLE</guid>
+      <pubDate>Sat, 05 Sep 2026 11:30:27 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! SELÇUK MIZRAKLI O GÜN TAHLİYE OLUYOR! Demirtaş bu sözlerle duyurdu! Fırtına kopartacak!</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: İYİ Partili Türkeş'ten 'ekonomik kriz' çıkışı: Türkiye bunu çözebilir</title>
+      <link>https://www.youtube.com/watch?v=L2x32ddz_XM</link>
+      <guid isPermaLink="false">L2x32ddz_XM</guid>
+      <pubDate>Sat, 05 Sep 2026 11:29:09 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: İYİ Partili Türkeş'ten 'ekonomik kriz' çıkışı: Türkiye bunu çözebilir</description>
+    </item>
     <item>
       <title>Halk TV: NE AKP NE CHP HAZMEDEMEZ! Edirneliler Özgür Özel'in etrafını sardı! 'Yok böylesi' dedirtecek anlar!</title>
       <link>https://www.youtube.com/watch?v=7OoV3kQPJ4A</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">0N5vyp6vNsk</guid>
       <pubDate>Sat, 05 Sep 2026 08:45:01 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Yüreklerin Ağza Geldiği An! Raylara fırlayan küçük kızı tişörtünden çekerek kurtardı #shorts</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Edirne'de emeklilerle buluştu #Canlı</title>
-      <link>https://www.youtube.com/watch?v=jsMzk7z99nQ</link>
-      <guid isPermaLink="false">jsMzk7z99nQ</guid>
-      <pubDate>Sat, 05 Sep 2026 08:43:34 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Edirne'de emeklilerle buluştu #Canlı</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Edirne'de emeklilerle buluştu #Canlı</title>
-      <link>https://www.youtube.com/watch?v=vWetnLqkTyw</link>
-      <guid isPermaLink="false">vWetnLqkTyw</guid>
-      <pubDate>Sat, 05 Sep 2026 08:43:23 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Edirne'de emeklilerle buluştu #Canlı</description>
     </item>
   </channel>
 </rss>
