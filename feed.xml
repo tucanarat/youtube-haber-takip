@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 09:10:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 09:15:29 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Butlancı Müslim Sarı Üsküdar'da protesto edildi: "Haramzadeler!"</title>
+      <link>https://www.youtube.com/shorts/rl6MI5PGtuw</link>
+      <guid isPermaLink="false">rl6MI5PGtuw</guid>
+      <pubDate>Sat, 05 Sep 2026 09:12:19 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Butlancı Müslim Sarı Üsküdar'da protesto edildi: "Haramzadeler!"</description>
+    </item>
     <item>
       <title>Cumhuriyet: #CANLI YENİ Parti lideri Özgür Özel Edirne’de… Emeklilerle buluştu</title>
       <link>https://www.youtube.com/watch?v=2wSwfliTi3I</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">9Rln92fVOyo</guid>
       <pubDate>Sat, 05 Sep 2026 06:45:17 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Pahalıya Patladı! Polisten kaçan motorcuya 390 bin TL ceza kesildi #shorts</description>
-    </item>
-    <item>
-      <title>Halk TV: AKP'NİN 'ÜSKÜDAR' TEZGAHI SEÇİMİ YENİLETTİ! Polis belediye binasının çevresini sardı! Utanç anları!</title>
-      <link>https://www.youtube.com/watch?v=bixDeVtDluU</link>
-      <guid isPermaLink="false">bixDeVtDluU</guid>
-      <pubDate>Sat, 05 Sep 2026 06:45:00 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: AKP'NİN 'ÜSKÜDAR' TEZGAHI SEÇİMİ YENİLETTİ! Polis belediye binasının çevresini sardı! Utanç anları!</description>
     </item>
   </channel>
 </rss>
