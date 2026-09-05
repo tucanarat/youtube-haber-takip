@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 09:15:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 09:20:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Özgür Özel maraton koşucusu olduğunu söyledi: 2 sefer 42 km’yi tamamladım!</title>
+      <link>https://www.youtube.com/shorts/TeugMWrFUU0</link>
+      <guid isPermaLink="false">TeugMWrFUU0</guid>
+      <pubDate>Sat, 05 Sep 2026 09:18:17 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Özgür Özel maraton koşucusu olduğunu söyledi: 2 sefer 42 km’yi tamamladım!</description>
+    </item>
     <item>
       <title>Halk TV: Butlancı Müslim Sarı Üsküdar'da protesto edildi: "Haramzadeler!"</title>
       <link>https://www.youtube.com/shorts/rl6MI5PGtuw</link>
       <guid isPermaLink="false">rl6MI5PGtuw</guid>
       <pubDate>Sat, 05 Sep 2026 09:12:19 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Butlancı Müslim Sarı Üsküdar'da protesto edildi: "Haramzadeler!"</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Üsküdar Belediyesi'nde seçime erteleme...</title>
+      <link>https://www.youtube.com/watch?v=nGjzNhKMkos</link>
+      <guid isPermaLink="false">nGjzNhKMkos</guid>
+      <pubDate>Sat, 05 Sep 2026 09:09:58 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Üsküdar Belediyesi'nde seçime erteleme...</description>
     </item>
     <item>
       <title>Cumhuriyet: #CANLI YENİ Parti lideri Özgür Özel Edirne’de… Emeklilerle buluştu</title>
@@ -34,6 +48,13 @@
       <guid isPermaLink="false">r6Roayud1No</guid>
       <pubDate>Sat, 05 Sep 2026 09:05:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: AKP KENDİ KENDİNİ PATLATTI! Özgür Çelik, Üsküdar'da oynanan sinsi planı ifşaladı! Neler var neler!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Erdoğan'ın Korktuğu Başına Geldi! AKP'nin Oyları Eriyecek! Fatih Erbakan'dan Adaylık Hamlesi</title>
+      <link>https://www.youtube.com/watch?v=Ffomq_KLeBM</link>
+      <guid isPermaLink="false">Ffomq_KLeBM</guid>
+      <pubDate>Sat, 05 Sep 2026 09:00:05 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Erdoğan'ın Korktuğu Başına Geldi! AKP'nin Oyları Eriyecek! Fatih Erbakan'dan Adaylık Hamlesi</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: CHP İstanbul İl Başkanı Gürsel Tekin, Katılım ve Rozet Takma Töreni'nde açıklama yapıyor #Canlı</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">Q4tMTyjmGU8</guid>
       <pubDate>Sat, 05 Sep 2026 06:53:30 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Özgür Çelik Üsküdar Belediyesi önünde açtı ağzını yumdu gözünü! "ZAMAN AYARLI KİRLİ BİR OPERASYON"</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Maç Varsa Erman Hoca Var | Erman Toroğlu</title>
-      <link>https://www.youtube.com/watch?v=yCDo9m437Rs</link>
-      <guid isPermaLink="false">yCDo9m437Rs</guid>
-      <pubDate>Sat, 05 Sep 2026 06:52:03 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Maç Varsa Erman Hoca Var | Erman Toroğlu</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Melih Gökçek ifade verdi: İlk defa soruşturma geçirmiyorum...</title>
-      <link>https://www.youtube.com/watch?v=-H-9FIcs5-8</link>
-      <guid isPermaLink="false">-H-9FIcs5-8</guid>
-      <pubDate>Sat, 05 Sep 2026 06:47:48 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Melih Gökçek ifade verdi: İlk defa soruşturma geçirmiyorum...</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Pahalıya Patladı! Polisten kaçan motorcuya 390 bin TL ceza kesildi #shorts</title>
-      <link>https://www.youtube.com/shorts/9Rln92fVOyo</link>
-      <guid isPermaLink="false">9Rln92fVOyo</guid>
-      <pubDate>Sat, 05 Sep 2026 06:45:17 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Pahalıya Patladı! Polisten kaçan motorcuya 390 bin TL ceza kesildi #shorts</description>
     </item>
   </channel>
 </rss>
