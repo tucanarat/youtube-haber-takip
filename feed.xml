@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 14:05:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 14:10:29 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, çiftçilerle buluştu / Kırklareli #Canlı</title>
+      <link>https://www.youtube.com/watch?v=ZC4bSI3lY5M</link>
+      <guid isPermaLink="false">ZC4bSI3lY5M</guid>
+      <pubDate>Sat, 05 Sep 2026 14:00:36 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, çiftçilerle buluştu / Kırklareli #Canlı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Köprüler Neden Özelleştiriliyor? Deniz Yavuzyılmaz Mehmet Şimşek'in Gizlediği Gerçeği Açıkladı</title>
+      <link>https://www.youtube.com/watch?v=VOouDjMm94A</link>
+      <guid isPermaLink="false">VOouDjMm94A</guid>
+      <pubDate>Sat, 05 Sep 2026 14:00:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Köprüler Neden Özelleştiriliyor? Deniz Yavuzyılmaz Mehmet Şimşek'in Gizlediği Gerçeği Açıkladı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Gülinay Selçuk İle Haber Bülteni | 5 Eylül</title>
       <link>https://www.youtube.com/watch?v=qrWsvNimAy8</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">YCOjF5IWtbg</guid>
       <pubDate>Sat, 05 Sep 2026 10:30:26 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Timur Soykan Bombayı Patlattı: AKP ve Erdoğan'ın Ekrem İmamoğlu ve Belediyeler Planı!</description>
-    </item>
-    <item>
-      <title>Halk TV: ORTALIK YANIP YIKILACAK! YENİ Partili isimden bomba Cemil Tugay açıklaması! Meğer yakın zamanda...</title>
-      <link>https://www.youtube.com/watch?v=oxS5o9pVQBY</link>
-      <guid isPermaLink="false">oxS5o9pVQBY</guid>
-      <pubDate>Sat, 05 Sep 2026 10:30:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ORTALIK YANIP YIKILACAK! YENİ Partili isimden bomba Cemil Tugay açıklaması! Meğer yakın zamanda...</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel'den köprü ve otoyolların özelleştirilmesine tepki: Altın yumurtlayan tavuğu kesiyorlar!</title>
-      <link>https://www.youtube.com/shorts/ZNz5_1fLDs4</link>
-      <guid isPermaLink="false">ZNz5_1fLDs4</guid>
-      <pubDate>Sat, 05 Sep 2026 10:24:10 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel'den köprü ve otoyolların özelleştirilmesine tepki: Altın yumurtlayan tavuğu kesiyorlar!</description>
     </item>
   </channel>
 </rss>
