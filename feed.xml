@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 08:45:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 08:50:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Edirne'de Emeklilerle Buluştu!</title>
+      <link>https://www.youtube.com/watch?v=lQjfKK8ciZk</link>
+      <guid isPermaLink="false">lQjfKK8ciZk</guid>
+      <pubDate>Sat, 05 Sep 2026 08:48:58 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Edirne'de Emeklilerle Buluştu!</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Edirne'de emekli buluşmasında konuşuyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=D-YSgmYP0GU</link>
+      <guid isPermaLink="false">D-YSgmYP0GU</guid>
+      <pubDate>Sat, 05 Sep 2026 08:48:46 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Edirne'de emekli buluşmasında konuşuyor #Canlı</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Edirne'de emeklilerle buluştu #Canlı</title>
       <link>https://www.youtube.com/watch?v=jsMzk7z99nQ</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">4S7wpjDlcnk</guid>
       <pubDate>Sat, 05 Sep 2026 06:15:33 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Bir Anlık Dikkatsizlik! Arkadaşına selam vermek isterken kaza yaptı  #shorts</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Facianın Eşiğinden Dönüldü! Seyir halindeki TIR'ın dorsesi böyle koptu #shorts</title>
-      <link>https://www.youtube.com/shorts/brfZRkzhYlU</link>
-      <guid isPermaLink="false">brfZRkzhYlU</guid>
-      <pubDate>Sat, 05 Sep 2026 06:00:10 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Facianın Eşiğinden Dönüldü! Seyir halindeki TIR'ın dorsesi böyle koptu #shorts</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: GEMİ KAZASININ PERDE ARKASINDA NE VAR? Zeynel Lüle ile Ankara Günlüğü | Konuk:Rasıh Reşat (04.09.26)</title>
-      <link>https://www.youtube.com/watch?v=5_R8FDBkpHc</link>
-      <guid isPermaLink="false">5_R8FDBkpHc</guid>
-      <pubDate>Sat, 05 Sep 2026 02:19:02 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: GEMİ KAZASININ PERDE ARKASINDA NE VAR? Zeynel Lüle ile Ankara Günlüğü | Konuk:Rasıh Reşat (04.09.26)</description>
     </item>
   </channel>
 </rss>
