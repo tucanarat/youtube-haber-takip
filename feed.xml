@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 17:50:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 17:55:25 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ERDOĞAN’DAN BEKLENEN İMZA GELDİ! Köprü ve otoyollar özelleştirilecek!</title>
+      <link>https://www.youtube.com/watch?v=Xdr4YefWDoI</link>
+      <guid isPermaLink="false">Xdr4YefWDoI</guid>
+      <pubDate>Sat, 05 Sep 2026 17:50:05 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ERDOĞAN’DAN BEKLENEN İMZA GELDİ! Köprü ve otoyollar özelleştirilecek!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: TRUMP'TAN KAN DONDURAN SÖZLER! ABD Türk Bankasını Kara Listeye Aldı!</title>
+      <link>https://www.youtube.com/watch?v=Kn72qFm3kdc</link>
+      <guid isPermaLink="false">Kn72qFm3kdc</guid>
+      <pubDate>Sat, 05 Sep 2026 17:50:01 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: TRUMP'TAN KAN DONDURAN SÖZLER! ABD Türk Bankasını Kara Listeye Aldı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: "Diller Lal Olmuş!" Türkiye Berhan Şimşek'i Konuşuyor! Ekrem Açıkel'den CHP'ye Olay Gönderme</title>
       <link>https://www.youtube.com/watch?v=tUcNQ1oS-DU</link>
@@ -36,11 +50,11 @@
       <description>Halk TV kanalından yeni video: Bolu Belediyesi’nde “hayalet araç” soruşturması! Tanju Özcan dahil 7 kişi tutuklandı!</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: "KİMSEYE MASAL ANLATMASIN!" Ekrem Açıkel, Gökçek'in "Sakız" Savunmasını Böyle Çürüttü!</title>
+      <title>SÖZCÜ TV: Ekrem Açıkel, Melih Gökçek'in "Sakız" Savunmasını Böyle Çürüttü! "KİMSEYE MASAL ANLATMASIN!"</title>
       <link>https://www.youtube.com/watch?v=Y9eOnGz5H5A</link>
       <guid isPermaLink="false">Y9eOnGz5H5A</guid>
       <pubDate>Sat, 05 Sep 2026 17:10:13 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: "KİMSEYE MASAL ANLATMASIN!" Ekrem Açıkel, Gökçek'in "Sakız" Savunmasını Böyle Çürüttü!</description>
+      <description>SÖZCÜ TV kanalından yeni video: Ekrem Açıkel, Melih Gökçek'in "Sakız" Savunmasını Böyle Çürüttü! "KİMSEYE MASAL ANLATMASIN!"</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | Sinem Fıstıkoğlu ile Hafta Sonu Ana Haber | #Halktv</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">140qxK_mpPk</guid>
       <pubDate>Sat, 05 Sep 2026 13:02:48 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Yeni Parti Lideri Özgür Özel'den Kırklareli'de Kritik Açıklamalar! Meydan Doldu Taştı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Timur Soykan Cem Küçük Dosyasını Açtı: Serdar Özyurt, Beyaz TV ve Gökçek Ailesi</title>
-      <link>https://www.youtube.com/watch?v=ZnLWumhUbbE</link>
-      <guid isPermaLink="false">ZnLWumhUbbE</guid>
-      <pubDate>Sat, 05 Sep 2026 13:00:28 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Timur Soykan Cem Küçük Dosyasını Açtı: Serdar Özyurt, Beyaz TV ve Gökçek Ailesi</description>
-    </item>
-    <item>
-      <title>Halk TV: “HALK TV'YE ÇIKMAK İSTİYORUM!” Özgür Özel’in yanına gelen teyzenin sözleri milyonların dilinde!</title>
-      <link>https://www.youtube.com/watch?v=DHPy_FzhUZE</link>
-      <guid isPermaLink="false">DHPy_FzhUZE</guid>
-      <pubDate>Sat, 05 Sep 2026 13:00:13 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: “HALK TV'YE ÇIKMAK İSTİYORUM!” Özgür Özel’in yanına gelen teyzenin sözleri milyonların dilinde!</description>
     </item>
   </channel>
 </rss>
