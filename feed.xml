@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 12:05:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 12:10:32 +0000</lastBuildDate>
     <item>
       <title>Halk TV: Özgür Özel: Erdoğan’ın getirdiği bütün yasakları yasaklayacağımız bir Türkiye inşa edeceğiz!</title>
       <link>https://www.youtube.com/shorts/fvQnDAeTypk</link>
       <guid isPermaLink="false">fvQnDAeTypk</guid>
       <pubDate>Sat, 05 Sep 2026 12:03:28 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Özel: Erdoğan’ın getirdiği bütün yasakları yasaklayacağımız bir Türkiye inşa edeceğiz!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Kırklareli'nde esnaf ziyaret ediyor</title>
+      <link>https://www.youtube.com/watch?v=elnmmTOrpAU</link>
+      <guid isPermaLink="false">elnmmTOrpAU</guid>
+      <pubDate>Sat, 05 Sep 2026 12:01:04 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Kırklareli'nde esnaf ziyaret ediyor</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Kırklareli'nde Esnaf Ziyaret Ediyor!</title>
@@ -27,6 +34,13 @@
       <guid isPermaLink="false">xpkbGXjIea0</guid>
       <pubDate>Sat, 05 Sep 2026 12:00:35 +0000</pubDate>
       <description>Halk TV kanalından yeni video: VALİLİK BAŞVURUYA CEVAP VERMEMİŞ! Yaşar Tüzün'ün açıklamaları 'yok artık' dedirtir! Tek tek anlattı!</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Hürriyet Sağlık Sen Genel Başkanı Çakmak: Planlamalar kısa sürede yapılmalı</title>
+      <link>https://www.youtube.com/watch?v=UnJkaprllNM</link>
+      <guid isPermaLink="false">UnJkaprllNM</guid>
+      <pubDate>Sat, 05 Sep 2026 11:56:18 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Hürriyet Sağlık Sen Genel Başkanı Çakmak: Planlamalar kısa sürede yapılmalı</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti Sarıyer İlçe Başkanlığı açılışı / İstanbul #Canlı</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">xfA93ztu5yk</guid>
       <pubDate>Sat, 05 Sep 2026 09:25:08 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ERDOĞAN VE KILIÇDAROĞLU'NU KAPANA KISTIRDI! Özgür Özel'in sözleri tir tir titretir! Yok böyle vaat!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: CHP'den 'Üsküdar' açıklaması! "YENİ Parti grubu ile ortak karar aldık..."</title>
-      <link>https://www.youtube.com/watch?v=0KvvQ2RShB8</link>
-      <guid isPermaLink="false">0KvvQ2RShB8</guid>
-      <pubDate>Sat, 05 Sep 2026 09:19:59 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: CHP'den 'Üsküdar' açıklaması! "YENİ Parti grubu ile ortak karar aldık..."</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel maraton koşucusu olduğunu söyledi: 2 sefer 42 km’yi tamamladım!</title>
-      <link>https://www.youtube.com/shorts/TeugMWrFUU0</link>
-      <guid isPermaLink="false">TeugMWrFUU0</guid>
-      <pubDate>Sat, 05 Sep 2026 09:18:17 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel maraton koşucusu olduğunu söyledi: 2 sefer 42 km’yi tamamladım!</description>
     </item>
   </channel>
 </rss>
