@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 16:05:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 16:10:35 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SON DAKİKA! Ünlü oyuncu Serhat Kılıç kız arkadaşı tarafından evinde ölü bulundu!</title>
+      <link>https://www.youtube.com/watch?v=wCfdfsRYKIE</link>
+      <guid isPermaLink="false">wCfdfsRYKIE</guid>
+      <pubDate>Sat, 05 Sep 2026 15:58:41 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! Ünlü oyuncu Serhat Kılıç kız arkadaşı tarafından evinde ölü bulundu!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Ekrem Açıkel Melih Gökçek ve Sakız Arşivini Açtı! Neler Çıktı Neler! İlk Kez Göreceksiniz</title>
       <link>https://www.youtube.com/watch?v=yxIyoAdMTfo</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">NpIyFt7TOX4</guid>
       <pubDate>Sat, 05 Sep 2026 12:00:15 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: 'ÇARESİZSİN ERDOĞAN' Özgür Özel’den Erdoğan’a Sert Çıktı! AKP'nin Seçim Hesabını Bozacak Hamle</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Hürriyet Sağlık Sen Genel Başkanı Çakmak: Planlamalar kısa sürede yapılmalı</title>
-      <link>https://www.youtube.com/watch?v=UnJkaprllNM</link>
-      <guid isPermaLink="false">UnJkaprllNM</guid>
-      <pubDate>Sat, 05 Sep 2026 11:56:18 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Hürriyet Sağlık Sen Genel Başkanı Çakmak: Planlamalar kısa sürede yapılmalı</description>
     </item>
   </channel>
 </rss>
