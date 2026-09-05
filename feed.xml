@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 11:50:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 11:55:28 +0000</lastBuildDate>
     <item>
       <title>Halk TV: Özgür Özel: Ülkede herkes için kriz var ama emekliler için dayanılmaz bir kriz var!</title>
       <link>https://www.youtube.com/shorts/gBbCdgFy4Ww</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">YSMDCYtjR8U</guid>
       <pubDate>Sat, 05 Sep 2026 11:45:37 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ERDOĞAN FENA YAKALANDI! Özgür Özel, Beştepe'yi alarma geçirecek fitili ateşledi! Olay olacak sözler!</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: KKTC Başbakanı Ünal Üstel açıkladı: Girne'deki faciadan bir acı haber daha...</title>
+      <link>https://www.youtube.com/watch?v=s2HzsVEAb98</link>
+      <guid isPermaLink="false">s2HzsVEAb98</guid>
+      <pubDate>Sat, 05 Sep 2026 11:42:32 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: KKTC Başbakanı Ünal Üstel açıkladı: Girne'deki faciadan bir acı haber daha...</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Timur Soykan Skandalı Anlattı İsyan Etti: "İmamoğlu Davası Ahtapotun Kolları Gibi!"</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">r6Roayud1No</guid>
       <pubDate>Sat, 05 Sep 2026 09:05:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: AKP KENDİ KENDİNİ PATLATTI! Özgür Çelik, Üsküdar'da oynanan sinsi planı ifşaladı! Neler var neler!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Erdoğan'ın Korktuğu Başına Geldi! AKP'nin Oyları Eriyecek! Fatih Erbakan'dan Adaylık Hamlesi</title>
-      <link>https://www.youtube.com/watch?v=Ffomq_KLeBM</link>
-      <guid isPermaLink="false">Ffomq_KLeBM</guid>
-      <pubDate>Sat, 05 Sep 2026 09:00:05 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Erdoğan'ın Korktuğu Başına Geldi! AKP'nin Oyları Eriyecek! Fatih Erbakan'dan Adaylık Hamlesi</description>
     </item>
   </channel>
 </rss>
