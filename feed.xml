@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 09:35:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 09:40:31 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Edirne Halk Pazarı'nı ziyaret ediyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=eTX2UYa2jFk</link>
+      <guid isPermaLink="false">eTX2UYa2jFk</guid>
+      <pubDate>Sat, 05 Sep 2026 09:35:45 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Edirne Halk Pazarı'nı ziyaret ediyor #Canlı</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Edirne'de emekli buluşmasında konuşuyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=D-YSgmYP0GU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">vjTmyDFVc30</guid>
       <pubDate>Sat, 05 Sep 2026 07:05:23 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İSTANBUL’DA KAN DONDURAN OLAY! Korsan taksicilik yapan emekli polis, meslektaşını öldürdü! Kahreder!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Timur Soykan AKP İçindeki Para Savaşını Anlattı! "Erdoğan Sonrası İçin Büyük Kavga"</title>
-      <link>https://www.youtube.com/watch?v=AXN9JaFiM74</link>
-      <guid isPermaLink="false">AXN9JaFiM74</guid>
-      <pubDate>Sat, 05 Sep 2026 07:00:28 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Timur Soykan AKP İçindeki Para Savaşını Anlattı! "Erdoğan Sonrası İçin Büyük Kavga"</description>
     </item>
   </channel>
 </rss>
