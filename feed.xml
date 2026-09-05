@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 10:45:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 10:50:32 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Nuri Aslan'ın acı günü... Babası Muharrem Aslan son yolculuğuna uğurlandı</title>
+      <link>https://www.youtube.com/shorts/SSNsVCNp1AI</link>
+      <guid isPermaLink="false">SSNsVCNp1AI</guid>
+      <pubDate>Sat, 05 Sep 2026 10:44:53 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Nuri Aslan'ın acı günü... Babası Muharrem Aslan son yolculuğuna uğurlandı</description>
+    </item>
     <item>
       <title>Cumhuriyet: Bağımsız Maden-İş Sendikası Genel Başkanı Çakır: Mücadeleye devam edeceğiz</title>
       <link>https://www.youtube.com/shorts/RaIH5r4SeAA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">lUtad42z60w</guid>
       <pubDate>Sat, 05 Sep 2026 08:22:56 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ÜSKÜDAR SEÇİMİ 8 EYLÜL'E ERTELENDİ! Üsküdarlılar Belediye Önünde Sloganlar Atıyor! (5 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Üsküdar Belediye Başkan Vekilliği seçimi ertelendi</title>
-      <link>https://www.youtube.com/watch?v=d7_EJkuqwJs</link>
-      <guid isPermaLink="false">d7_EJkuqwJs</guid>
-      <pubDate>Sat, 05 Sep 2026 08:17:42 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Üsküdar Belediye Başkan Vekilliği seçimi ertelendi</description>
     </item>
   </channel>
 </rss>
