@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 09:45:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 09:50:30 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI Namık Koçak, Özdemir İnce ve Recai Aksu ile Forum (05.09.26)</title>
+      <link>https://www.youtube.com/watch?v=D6aNvrslJ84</link>
+      <guid isPermaLink="false">D6aNvrslJ84</guid>
+      <pubDate>Sat, 05 Sep 2026 09:46:48 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Namık Koçak, Özdemir İnce ve Recai Aksu ile Forum (05.09.26)</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Edirne Halk Pazarı'nı Ziyaret Ediyor!</title>
+      <link>https://www.youtube.com/watch?v=MBwyxzQtnIM</link>
+      <guid isPermaLink="false">MBwyxzQtnIM</guid>
+      <pubDate>Sat, 05 Sep 2026 09:42:09 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Edirne Halk Pazarı'nı Ziyaret Ediyor!</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Edirne Halk Pazarı'nı ziyaret ediyor</title>
       <link>https://www.youtube.com/watch?v=8bhDwFHmOXA</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">GvXSIOOAp8A</guid>
       <pubDate>Sat, 05 Sep 2026 07:50:39 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SON DAKİKA! ÜSKÜDAR’DA ORTALIK KARIŞTI! Seçim ertelendi, vatandaşlar belediyeye önüne akın etti!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Zirvede Gurur! Motorculardan alkışlanacak Türk bayrağı hassasiyeti #shorts</title>
-      <link>https://www.youtube.com/shorts/zbcOicj_sIE</link>
-      <guid isPermaLink="false">zbcOicj_sIE</guid>
-      <pubDate>Sat, 05 Sep 2026 07:45:17 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Zirvede Gurur! Motorculardan alkışlanacak Türk bayrağı hassasiyeti #shorts</description>
-    </item>
-    <item>
-      <title>Halk TV: Üsküdar Seçiminin Yenileneceği Belediye Çevresinde Yoğun Güvenlik Önlemi! (5 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=GQyXsZE67FU</link>
-      <guid isPermaLink="false">GQyXsZE67FU</guid>
-      <pubDate>Sat, 05 Sep 2026 07:38:15 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Üsküdar Seçiminin Yenileneceği Belediye Çevresinde Yoğun Güvenlik Önlemi! (5 Eylül 2026)</description>
     </item>
   </channel>
 </rss>
