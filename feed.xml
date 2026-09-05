@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 13:30:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 13:35:24 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Edirne'de gülümseten anlar! Özgür Özel partileri karıştırdı... "Müsavat Bey'e bir güzellik oldu"</title>
+      <link>https://www.youtube.com/watch?v=tyuhhz_7HgU</link>
+      <guid isPermaLink="false">tyuhhz_7HgU</guid>
+      <pubDate>Sat, 05 Sep 2026 13:35:05 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Edirne'de gülümseten anlar! Özgür Özel partileri karıştırdı... "Müsavat Bey'e bir güzellik oldu"</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: 'Ankara'nın Günah Yüklü Şahsiyeti' Selahattin Demirtaş'tan Melih Gökçek'e Olay Gönderme!</title>
+      <link>https://www.youtube.com/watch?v=vIVMXQH9rZA</link>
+      <guid isPermaLink="false">vIVMXQH9rZA</guid>
+      <pubDate>Sat, 05 Sep 2026 13:30:28 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: 'Ankara'nın Günah Yüklü Şahsiyeti' Selahattin Demirtaş'tan Melih Gökçek'e Olay Gönderme!</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Kırklareli'nde esnaf ziyaret ediyor</title>
       <link>https://www.youtube.com/watch?v=elnmmTOrpAU</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">kOnAblRSnVc</guid>
       <pubDate>Sat, 05 Sep 2026 10:00:38 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Özdemir İnce'den Ekrem İmamoğlu'nun 'SAVUNMA' kitabının yasaklanmasına çok sert tepki!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Kademeli Emeklilik mi Geliyor? 'BÜYÜK HAKSIZLIK' Uzman İsim AKP'nin Planını Açıkladı</title>
-      <link>https://www.youtube.com/watch?v=KIa-0eW4K-0</link>
-      <guid isPermaLink="false">KIa-0eW4K-0</guid>
-      <pubDate>Sat, 05 Sep 2026 10:00:31 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Kademeli Emeklilik mi Geliyor? 'BÜYÜK HAKSIZLIK' Uzman İsim AKP'nin Planını Açıkladı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Simge Fıstıkoğlu İle İyi ki Hafta Sonu | 5 Eylül</title>
-      <link>https://www.youtube.com/watch?v=OETiN9CqBf0</link>
-      <guid isPermaLink="false">OETiN9CqBf0</guid>
-      <pubDate>Sat, 05 Sep 2026 09:55:38 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Simge Fıstıkoğlu İle İyi ki Hafta Sonu | 5 Eylül</description>
     </item>
   </channel>
 </rss>
