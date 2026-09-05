@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 11:05:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 11:10:30 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Avrupa medyası Türkiye ekonomisini gündeme aldı! Recai Aksu aktardı...</title>
+      <link>https://www.youtube.com/watch?v=pRQjg-klSsA</link>
+      <guid isPermaLink="false">pRQjg-klSsA</guid>
+      <pubDate>Sat, 05 Sep 2026 11:00:29 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Avrupa medyası Türkiye ekonomisini gündeme aldı! Recai Aksu aktardı...</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Melih Gökçek Dosyası, Cem Küçük ve Adnan Oktar'ın Planı | Timur Soykan &amp; Barış Terkoğlu</title>
       <link>https://www.youtube.com/watch?v=OxLuud1FvR0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">4x5c-o88mAc</guid>
       <pubDate>Sat, 05 Sep 2026 08:38:55 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Yeni Parti Lideri Özgür Özel'den Edirne'de Kritik Açıklamalar! Emeklilerle Bir Araya Geldi</description>
-    </item>
-    <item>
-      <title>Halk TV: CHP'nin Butlan Sözcüsü Müslim Sarı Açıklama Yaptı! (5 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=zsYh8sKXGvQ</link>
-      <guid isPermaLink="false">zsYh8sKXGvQ</guid>
-      <pubDate>Sat, 05 Sep 2026 08:34:51 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: CHP'nin Butlan Sözcüsü Müslim Sarı Açıklama Yaptı! (5 Eylül 2026)</description>
     </item>
   </channel>
 </rss>
