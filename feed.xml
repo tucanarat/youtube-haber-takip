@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 18:10:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 18:15:31 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: MELİH GÖKÇEK KÖŞEYE Mİ SIKIŞTI? Eski AKP'li İsimden Bülent Arınç'a Şok Çağrı</title>
+      <link>https://www.youtube.com/watch?v=eUAdoHS4bpg</link>
+      <guid isPermaLink="false">eUAdoHS4bpg</guid>
+      <pubDate>Sat, 05 Sep 2026 18:10:02 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: MELİH GÖKÇEK KÖŞEYE Mİ SIKIŞTI? Eski AKP'li İsimden Bülent Arınç'a Şok Çağrı</description>
+    </item>
     <item>
       <title>Halk TV: ERDOĞAN’DAN BEKLENEN İMZA GELDİ! Köprü ve otoyollar özelleştirilecek!</title>
       <link>https://www.youtube.com/watch?v=Xdr4YefWDoI</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">P48xdXADrZc</guid>
       <pubDate>Sat, 05 Sep 2026 13:05:12 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Kırklareli'nde Esnaf Ziyaret Etti! Tarihe Geçecek Sözler!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Yeni Parti Lideri Özgür Özel'den Kırklareli'de Kritik Açıklamalar! Meydan Doldu Taştı</title>
-      <link>https://www.youtube.com/watch?v=140qxK_mpPk</link>
-      <guid isPermaLink="false">140qxK_mpPk</guid>
-      <pubDate>Sat, 05 Sep 2026 13:02:48 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Yeni Parti Lideri Özgür Özel'den Kırklareli'de Kritik Açıklamalar! Meydan Doldu Taştı</description>
     </item>
   </channel>
 </rss>
