@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 08:50:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 08:55:24 +0000</lastBuildDate>
     <item>
       <title>Halk TV: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Edirne'de Emeklilerle Buluştu!</title>
       <link>https://www.youtube.com/watch?v=lQjfKK8ciZk</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">D-YSgmYP0GU</guid>
       <pubDate>Sat, 05 Sep 2026 08:48:46 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Edirne'de emekli buluşmasında konuşuyor #Canlı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Yüreklerin Ağza Geldiği An! Raylara fırlayan küçük kızı tişörtünden çekerek kurtardı #shorts</title>
+      <link>https://www.youtube.com/shorts/0N5vyp6vNsk</link>
+      <guid isPermaLink="false">0N5vyp6vNsk</guid>
+      <pubDate>Sat, 05 Sep 2026 08:45:01 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Yüreklerin Ağza Geldiği An! Raylara fırlayan küçük kızı tişörtünden çekerek kurtardı #shorts</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Edirne'de emeklilerle buluştu #Canlı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">za9TatPifgg</guid>
       <pubDate>Sat, 05 Sep 2026 06:30:11 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI Üsküdar'da kritik seçim: Belediye çevresinde yoğun güvenlik önlemi…</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Bir Anlık Dikkatsizlik! Arkadaşına selam vermek isterken kaza yaptı  #shorts</title>
-      <link>https://www.youtube.com/shorts/4S7wpjDlcnk</link>
-      <guid isPermaLink="false">4S7wpjDlcnk</guid>
-      <pubDate>Sat, 05 Sep 2026 06:15:33 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Bir Anlık Dikkatsizlik! Arkadaşına selam vermek isterken kaza yaptı  #shorts</description>
     </item>
   </channel>
 </rss>
