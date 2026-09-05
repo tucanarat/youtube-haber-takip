@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 15:20:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 15:25:23 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Özgür Özel: Acıya dayanıyoruz diye başımıza daha acısı gelmese çok iyi olacak!</title>
+      <link>https://www.youtube.com/shorts/aARTQraomCg</link>
+      <guid isPermaLink="false">aARTQraomCg</guid>
+      <pubDate>Sat, 05 Sep 2026 15:20:47 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Özgür Özel: Acıya dayanıyoruz diye başımıza daha acısı gelmese çok iyi olacak!</description>
+    </item>
     <item>
       <title>Halk TV: Özgür Özel, Edirne’de halkın yoğun ilgisiyle karşılandı: Bu kadar yılmamanız…Bana gurur veriyor!</title>
       <link>https://www.youtube.com/shorts/U_Gb5c3c6Hg</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">bQdNygYU7oA</guid>
       <pubDate>Sat, 05 Sep 2026 11:55:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Parti Lideri Özgür Özel: AKP yoksulluğu yok etmenin değil, yönetmenin peşinde!</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel: Ülkede herkes için kriz var ama emekliler için dayanılmaz bir kriz var!</title>
-      <link>https://www.youtube.com/shorts/gBbCdgFy4Ww</link>
-      <guid isPermaLink="false">gBbCdgFy4Ww</guid>
-      <pubDate>Sat, 05 Sep 2026 11:47:05 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel: Ülkede herkes için kriz var ama emekliler için dayanılmaz bir kriz var!</description>
     </item>
   </channel>
 </rss>
