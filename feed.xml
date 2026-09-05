@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 16:50:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 16:55:27 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: ÜNLÜ OYUNCU SERHAT KILIÇ EVİNDE ÖLÜ BULUNDU! Sır Ölümün Perde Arkası</title>
+      <link>https://www.youtube.com/watch?v=SbcxGvXo1ro</link>
+      <guid isPermaLink="false">SbcxGvXo1ro</guid>
+      <pubDate>Sat, 05 Sep 2026 16:52:00 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: ÜNLÜ OYUNCU SERHAT KILIÇ EVİNDE ÖLÜ BULUNDU! Sır Ölümün Perde Arkası</description>
+    </item>
     <item>
       <title>Halk TV: TOZU DUMANA KATTI! Sera Kadıgil'in her sözü Beştepe'de yeri yerinden oynatacak! Resmen bombaladı!</title>
       <link>https://www.youtube.com/watch?v=8M-R2Lz636E</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">X4m31vIYoQI</guid>
       <pubDate>Sat, 05 Sep 2026 12:17:57 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI YENİ Parti lideri Özgür Özel'den Kırklareli'nde esnaf ziyareti</description>
-    </item>
-    <item>
-      <title>Halk TV: ORTALIK GÖKÇEK'İN BU GÖRÜNTÜSÜYLE YIKILIYOR! Sakız çiğnemesinin asıl sebebi buymuş! Gündem olacak!</title>
-      <link>https://www.youtube.com/watch?v=-JeHpfZM14A</link>
-      <guid isPermaLink="false">-JeHpfZM14A</guid>
-      <pubDate>Sat, 05 Sep 2026 12:15:09 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ORTALIK GÖKÇEK'İN BU GÖRÜNTÜSÜYLE YIKILIYOR! Sakız çiğnemesinin asıl sebebi buymuş! Gündem olacak!</description>
     </item>
   </channel>
 </rss>
