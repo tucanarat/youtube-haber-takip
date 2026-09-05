@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 20:55:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 21:00:47 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Kadıköy'de 3 Puan Beşiktaş'ın! Fenerbahçe'ye Soğuk Duş! | Maç Varsa Erman Hoca Var</title>
+      <link>https://www.youtube.com/watch?v=yCDo9m437Rs</link>
+      <guid isPermaLink="false">yCDo9m437Rs</guid>
+      <pubDate>Sat, 05 Sep 2026 20:57:12 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Kadıköy'de 3 Puan Beşiktaş'ın! Fenerbahçe'ye Soğuk Duş! | Maç Varsa Erman Hoca Var</description>
+    </item>
     <item>
       <title>Halk TV: KRİTİK OYLAMA ÖNCESİ SON TABLO! Üsküdar’da meclis aritmetiğinde son durum!</title>
       <link>https://www.youtube.com/watch?v=i248rJQQHAM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">vSXOnqyg8KQ</guid>
       <pubDate>Sat, 05 Sep 2026 14:30:36 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Deniz Göktaş'ın 12 Yıla Kadar Hapsi İstendi! Erdoğan Müşteki Oldu! Duruşma Tarihi Belli Oldu</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: #CANLI Özgür Özel Kırklareli’nde çiftçilerle buluştu</title>
-      <link>https://www.youtube.com/watch?v=BhGDTSGEspU</link>
-      <guid isPermaLink="false">BhGDTSGEspU</guid>
-      <pubDate>Sat, 05 Sep 2026 14:07:20 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI Özgür Özel Kırklareli’nde çiftçilerle buluştu</description>
     </item>
   </channel>
 </rss>
