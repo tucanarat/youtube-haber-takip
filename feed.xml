@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 16:45:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 16:50:29 +0000</lastBuildDate>
     <item>
       <title>Halk TV: TOZU DUMANA KATTI! Sera Kadıgil'in her sözü Beştepe'de yeri yerinden oynatacak! Resmen bombaladı!</title>
       <link>https://www.youtube.com/watch?v=8M-R2Lz636E</link>
       <guid isPermaLink="false">8M-R2Lz636E</guid>
       <pubDate>Sat, 05 Sep 2026 16:30:35 +0000</pubDate>
       <description>Halk TV kanalından yeni video: TOZU DUMANA KATTI! Sera Kadıgil'in her sözü Beştepe'de yeri yerinden oynatacak! Resmen bombaladı!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: AVRUPA'DAN TÜRK ASKERİNE KÜSTAH İFTİRA! Miçotakis'ten HadsizTehdit!</title>
+      <link>https://www.youtube.com/watch?v=BdaQnWF8NHw</link>
+      <guid isPermaLink="false">BdaQnWF8NHw</guid>
+      <pubDate>Sat, 05 Sep 2026 16:30:22 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: AVRUPA'DAN TÜRK ASKERİNE KÜSTAH İFTİRA! Miçotakis'ten HadsizTehdit!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Ekrem Açıkel Anlattı! Devlet Bahçeli Devreye Girdi! Erdoğan'ın Yeni Anayasa Planı İfşa Oldu</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">-JeHpfZM14A</guid>
       <pubDate>Sat, 05 Sep 2026 12:15:09 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ORTALIK GÖKÇEK'İN BU GÖRÜNTÜSÜYLE YIKILIYOR! Sakız çiğnemesinin asıl sebebi buymuş! Gündem olacak!</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel: Erdoğan’ın getirdiği bütün yasakları yasaklayacağımız bir Türkiye inşa edeceğiz!</title>
-      <link>https://www.youtube.com/shorts/fvQnDAeTypk</link>
-      <guid isPermaLink="false">fvQnDAeTypk</guid>
-      <pubDate>Sat, 05 Sep 2026 12:03:28 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel: Erdoğan’ın getirdiği bütün yasakları yasaklayacağımız bir Türkiye inşa edeceğiz!</description>
     </item>
   </channel>
 </rss>
