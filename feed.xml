@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 09:00:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 09:05:25 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: CHP İstanbul İl Başkanı Gürsel Tekin, Katılım ve Rozet Takma Töreni'nde açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=MInVkvf6KCY</link>
       <guid isPermaLink="false">MInVkvf6KCY</guid>
       <pubDate>Sat, 05 Sep 2026 08:57:32 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: CHP İstanbul İl Başkanı Gürsel Tekin, Katılım ve Rozet Takma Töreni'nde açıklama yapıyor #Canlı</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Edirne'de emekli buluşmasında konuşuyor</title>
+      <link>https://www.youtube.com/watch?v=BRZmHVVEeAM</link>
+      <guid isPermaLink="false">BRZmHVVEeAM</guid>
+      <pubDate>Sat, 05 Sep 2026 08:52:43 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Edirne'de emekli buluşmasında konuşuyor</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Edirne'de Emeklilerle Buluştu!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">5ekyROawBVo</guid>
       <pubDate>Sat, 05 Sep 2026 06:41:23 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Burak Tatari ile Masada Ne Var?</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İsmail Saymaz Bombayı Patlattı! Melih Gökçek İddialara Ne Dedi? Sakız Çiğnemesi Olay Oldu</title>
-      <link>https://www.youtube.com/watch?v=p8fQlT2wtHc</link>
-      <guid isPermaLink="false">p8fQlT2wtHc</guid>
-      <pubDate>Sat, 05 Sep 2026 06:35:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İsmail Saymaz Bombayı Patlattı! Melih Gökçek İddialara Ne Dedi? Sakız Çiğnemesi Olay Oldu</description>
     </item>
   </channel>
 </rss>
