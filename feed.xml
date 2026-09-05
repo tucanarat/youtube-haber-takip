@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 07:40:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 07:46:04 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: #SONDAKİKA Üsküdar Belediye Başkanvekilliği seçimi ertelendi! Üsküdar’dan #canlı yayın…</title>
+      <link>https://www.youtube.com/watch?v=Vj_PekUteZU</link>
+      <guid isPermaLink="false">Vj_PekUteZU</guid>
+      <pubDate>Sat, 05 Sep 2026 07:38:28 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #SONDAKİKA Üsküdar Belediye Başkanvekilliği seçimi ertelendi! Üsküdar’dan #canlı yayın…</description>
+    </item>
     <item>
       <title>Halk TV: Üsküdar Seçiminin Yenileneceği Belediye Çevresinde Yoğun Güvenlik Önlemi!</title>
       <link>https://www.youtube.com/watch?v=GQyXsZE67FU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Nk9VD0hPx6E</guid>
       <pubDate>Fri, 04 Sep 2026 21:59:26 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Burçin Atılgan ile Gündem Özel (4 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: Üsküdar Belediye Başkan Yardımcısı Mithat Özdemir serbest bırakıldı! #shorts</title>
-      <link>https://www.youtube.com/shorts/KFllz0-AOl4</link>
-      <guid isPermaLink="false">KFllz0-AOl4</guid>
-      <pubDate>Fri, 04 Sep 2026 21:55:50 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Üsküdar Belediye Başkan Yardımcısı Mithat Özdemir serbest bırakıldı! #shorts</description>
     </item>
   </channel>
 </rss>
