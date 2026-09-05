@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 14:10:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 14:15:27 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: TOZU DUMANA KATTTI! Özgür Özel’in sözleri çok can yakacak! Kara haberi verdi, meydan yıkıldı!</title>
+      <link>https://www.youtube.com/watch?v=f6iF-tTEStc</link>
+      <guid isPermaLink="false">f6iF-tTEStc</guid>
+      <pubDate>Sat, 05 Sep 2026 14:07:11 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: TOZU DUMANA KATTTI! Özgür Özel’in sözleri çok can yakacak! Kara haberi verdi, meydan yıkıldı!</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Çiftçilerle Buluştu!</title>
+      <link>https://www.youtube.com/watch?v=X8x8CIrmukc</link>
+      <guid isPermaLink="false">X8x8CIrmukc</guid>
+      <pubDate>Sat, 05 Sep 2026 14:04:12 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Çiftçilerle Buluştu!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, çiftçilerle buluştu / Kırklareli #Canlı</title>
       <link>https://www.youtube.com/watch?v=ZC4bSI3lY5M</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">SSNsVCNp1AI</guid>
       <pubDate>Sat, 05 Sep 2026 10:44:53 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Nuri Aslan'ın acı günü... Babası Muharrem Aslan son yolculuğuna uğurlandı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Bağımsız Maden-İş Sendikası Genel Başkanı Çakır: Mücadeleye devam edeceğiz</title>
-      <link>https://www.youtube.com/shorts/RaIH5r4SeAA</link>
-      <guid isPermaLink="false">RaIH5r4SeAA</guid>
-      <pubDate>Sat, 05 Sep 2026 10:36:47 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Bağımsız Maden-İş Sendikası Genel Başkanı Çakır: Mücadeleye devam edeceğiz</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Timur Soykan Bombayı Patlattı: AKP ve Erdoğan'ın Ekrem İmamoğlu ve Belediyeler Planı!</title>
-      <link>https://www.youtube.com/watch?v=YCOjF5IWtbg</link>
-      <guid isPermaLink="false">YCOjF5IWtbg</guid>
-      <pubDate>Sat, 05 Sep 2026 10:30:26 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Timur Soykan Bombayı Patlattı: AKP ve Erdoğan'ın Ekrem İmamoğlu ve Belediyeler Planı!</description>
     </item>
   </channel>
 </rss>
