@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 19:30:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 19:35:28 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Seraf Özer'den Bahçeli'ye Anayasa Yanıtı! Erdoğan ve AKP'nin Planını Bir Bir Anlattı</title>
+      <link>https://www.youtube.com/watch?v=QCFWweqrzGQ</link>
+      <guid isPermaLink="false">QCFWweqrzGQ</guid>
+      <pubDate>Sat, 05 Sep 2026 19:30:27 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Seraf Özer'den Bahçeli'ye Anayasa Yanıtı! Erdoğan ve AKP'nin Planını Bir Bir Anlattı</description>
+    </item>
     <item>
       <title>Halk TV: Özgür Özel’in Trakya mesaisi! Edirne’de vatandaş ve emeklilerle buluştu!</title>
       <link>https://www.youtube.com/watch?v=VDlcx9pIKVM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">YlPzSljBF3Q</guid>
       <pubDate>Sat, 05 Sep 2026 13:42:07 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Edirne’de yurttaşlarla sohbet eden Özgür Özel maraton koşucusu olduğunu söyledi</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: CHP sözcüsü Müslim Sarı 8 Eylül’e ertelenen Üsküdar seçimleri ile ilgili konuştu</title>
-      <link>https://www.youtube.com/shorts/2yvk4BL2bfU</link>
-      <guid isPermaLink="false">2yvk4BL2bfU</guid>
-      <pubDate>Sat, 05 Sep 2026 13:40:17 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP sözcüsü Müslim Sarı 8 Eylül’e ertelenen Üsküdar seçimleri ile ilgili konuştu</description>
     </item>
   </channel>
 </rss>
