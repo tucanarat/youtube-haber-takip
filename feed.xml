@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 12:25:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 12:30:39 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Asker Üzerinden Tank Geçtiği Anları Kaydetti! #shorts</title>
+      <link>https://www.youtube.com/shorts/Gd2Svusq_xw</link>
+      <guid isPermaLink="false">Gd2Svusq_xw</guid>
+      <pubDate>Sat, 05 Sep 2026 12:27:45 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Asker Üzerinden Tank Geçtiği Anları Kaydetti! #shorts</description>
+    </item>
     <item>
       <title>Cumhuriyet: #CANLI YENİ Parti lideri Özgür Özel'den Kırklareli'nde esnaf ziyareti</title>
       <link>https://www.youtube.com/watch?v=X4m31vIYoQI</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">wcL59rYQF6U</guid>
       <pubDate>Sat, 05 Sep 2026 09:36:26 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Baba ve oğul Ziyalan’lar...-Eren Aysan</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Yüksek heyecan-Ebru Kılıçoğlu</title>
-      <link>https://www.youtube.com/watch?v=wgPqrHfzLD0</link>
-      <guid isPermaLink="false">wgPqrHfzLD0</guid>
-      <pubDate>Sat, 05 Sep 2026 09:34:23 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Yüksek heyecan-Ebru Kılıçoğlu</description>
     </item>
   </channel>
 </rss>
