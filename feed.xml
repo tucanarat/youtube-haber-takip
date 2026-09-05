@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 02:30:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 02:35:22 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: GEMİ KAZASININ PERDE ARKASINDA NE VAR? Zeynel Lüle ile Ankara Günlüğü | Konuk:Rasıh Reşat (04.09.26)</title>
+      <link>https://www.youtube.com/watch?v=5_R8FDBkpHc</link>
+      <guid isPermaLink="false">5_R8FDBkpHc</guid>
+      <pubDate>Sat, 05 Sep 2026 02:19:02 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: GEMİ KAZASININ PERDE ARKASINDA NE VAR? Zeynel Lüle ile Ankara Günlüğü | Konuk:Rasıh Reşat (04.09.26)</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Zafer Partisi Genel Başkanı Ümit Özdağ, Eğitim İş Sendikası'nı ziyaret etti #Canlı</title>
       <link>https://www.youtube.com/watch?v=KKG7nYBJSyo</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">8HcwlO7T-W8</guid>
       <pubDate>Fri, 04 Sep 2026 19:30:06 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Melih Gökçek'ten sonra sıra Binali Yıldırım'da mı? Can Kakışım ve Bülent Mumay yorumluyor</description>
-    </item>
-    <item>
-      <title>Halk TV: Yöneticileri gözaltında: İktidara yakın gazete yoksulların yemek yediği Kent Lokantalarına saldırdı!</title>
-      <link>https://www.youtube.com/watch?v=43940eUWxN8</link>
-      <guid isPermaLink="false">43940eUWxN8</guid>
-      <pubDate>Fri, 04 Sep 2026 19:15:16 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Yöneticileri gözaltında: İktidara yakın gazete yoksulların yemek yediği Kent Lokantalarına saldırdı!</description>
     </item>
   </channel>
 </rss>
