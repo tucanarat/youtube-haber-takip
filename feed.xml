@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 14:35:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 14:40:33 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: İYİ Parti Genel Başkanı Müsavat Dervişoğlu, Fatsa'da açıklama yapıyor / Ordu #Canlı</title>
+      <link>https://www.youtube.com/watch?v=gBEGeeBdHgU</link>
+      <guid isPermaLink="false">gBEGeeBdHgU</guid>
+      <pubDate>Sat, 05 Sep 2026 14:34:54 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: İYİ Parti Genel Başkanı Müsavat Dervişoğlu, Fatsa'da açıklama yapıyor / Ordu #Canlı</description>
+    </item>
     <item>
       <title>Cumhuriyet: #CANLI Özgür Özel Kırklareli’nde çiftçilerle buluştu</title>
       <link>https://www.youtube.com/watch?v=BhGDTSGEspU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">b2inbPJxvn8</guid>
       <pubDate>Sat, 05 Sep 2026 10:53:02 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Müslim Sarı: YENİ Parti grubuyla beraber ortak bir tavır sergiledik ve seçime katılmadık</description>
-    </item>
-    <item>
-      <title>Halk TV: ERDOĞAN’IN ‘BUTLAN’ RÜYASI KABUSA DÖNDÜ! Üsküdar’daki tezgahı böyle bozdular! Gamze Altunay aktardı!</title>
-      <link>https://www.youtube.com/watch?v=MsDvTgHgWV4</link>
-      <guid isPermaLink="false">MsDvTgHgWV4</guid>
-      <pubDate>Sat, 05 Sep 2026 10:45:31 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ERDOĞAN’IN ‘BUTLAN’ RÜYASI KABUSA DÖNDÜ! Üsküdar’daki tezgahı böyle bozdular! Gamze Altunay aktardı!</description>
     </item>
   </channel>
 </rss>
