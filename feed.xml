@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 07:46:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 07:50:30 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI YENİ Parti Genel Başkanı Özgür Özel,  açıklama yapıyor</title>
+      <link>https://www.youtube.com/watch?v=rKRQPTJVUCM</link>
+      <guid isPermaLink="false">rKRQPTJVUCM</guid>
+      <pubDate>Sat, 05 Sep 2026 07:49:49 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti Genel Başkanı Özgür Özel,  açıklama yapıyor</description>
+    </item>
     <item>
       <title>Cumhuriyet: #SONDAKİKA Üsküdar Belediye Başkanvekilliği seçimi ertelendi! Üsküdar’dan #canlı yayın…</title>
       <link>https://www.youtube.com/watch?v=Vj_PekUteZU</link>
@@ -85,11 +92,11 @@
       <description>Cumhuriyet kanalından yeni video: Deniz Göktaş'ın 9 yıl hapsi istendi! Sera Kadıgil: Tek suçu bu düzenden korkmamak</description>
     </item>
     <item>
-      <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Edirne'de emeklilerle buluştu #Canlı</title>
+      <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel,  açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=RZT_ry3DLtA</link>
       <guid isPermaLink="false">RZT_ry3DLtA</guid>
       <pubDate>Sat, 05 Sep 2026 07:16:09 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Edirne'de emeklilerle buluştu #Canlı</description>
+      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel,  açıklama yapıyor #Canlı</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Helal Olsun! Derede mahsur kalan ayıyı köylüler böyle kurtardı #shorts</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Bnr9SeC14Fw</guid>
       <pubDate>Fri, 04 Sep 2026 22:00:27 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ODTÜ’de gerginlik zirve yaptı:  Belediyenin iş aracını öğrencilerin üzerine sürdü! #shorts</description>
-    </item>
-    <item>
-      <title>Halk TV: Burçin Atılgan ile Gündem Özel (4 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=Nk9VD0hPx6E</link>
-      <guid isPermaLink="false">Nk9VD0hPx6E</guid>
-      <pubDate>Fri, 04 Sep 2026 21:59:26 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Burçin Atılgan ile Gündem Özel (4 Eylül 2026)</description>
     </item>
   </channel>
 </rss>
