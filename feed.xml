@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 19:40:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 19:45:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SELAHATTİN DEMİRTAŞ DUYURDU! Selçuk Mızraklı için tahliye tarihi belli oldu!</title>
+      <link>https://www.youtube.com/watch?v=e8X1wVtGbbc</link>
+      <guid isPermaLink="false">e8X1wVtGbbc</guid>
+      <pubDate>Sat, 05 Sep 2026 19:35:18 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SELAHATTİN DEMİRTAŞ DUYURDU! Selçuk Mızraklı için tahliye tarihi belli oldu!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Seraf Özer'den Bahçeli'ye Anayasa Yanıtı! Erdoğan ve AKP'nin Planını Bir Bir Anlattı</title>
       <link>https://www.youtube.com/watch?v=QCFWweqrzGQ</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">YG11mANwEOg</guid>
       <pubDate>Sat, 05 Sep 2026 13:42:15 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Özgür  Özel, devlete ait otoyol ve köprülerin özelleştirilme kapsamına alınmasını eleştirdi</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Edirne’de yurttaşlarla sohbet eden Özgür Özel maraton koşucusu olduğunu söyledi</title>
-      <link>https://www.youtube.com/shorts/YlPzSljBF3Q</link>
-      <guid isPermaLink="false">YlPzSljBF3Q</guid>
-      <pubDate>Sat, 05 Sep 2026 13:42:07 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Edirne’de yurttaşlarla sohbet eden Özgür Özel maraton koşucusu olduğunu söyledi</description>
     </item>
   </channel>
 </rss>
