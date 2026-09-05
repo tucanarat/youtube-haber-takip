@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 20:10:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 20:15:31 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: #CANLI Üsküdar'da kritik seçim: Belediye çevresinde yoğun güvenlik önlemi…</title>
+      <link>https://www.youtube.com/watch?v=za9TatPifgg</link>
+      <guid isPermaLink="false">za9TatPifgg</guid>
+      <pubDate>Sat, 05 Sep 2026 20:07:23 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI Üsküdar'da kritik seçim: Belediye çevresinde yoğun güvenlik önlemi…</description>
+    </item>
     <item>
       <title>Halk TV: IRAKTA VARLIK İÇİNDE YOKLUK! Petrol zengini Irak’ta benzin kıtlığı yaşanıyor!</title>
       <link>https://www.youtube.com/watch?v=aDnguAzAwFk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">qrWsvNimAy8</guid>
       <pubDate>Sat, 05 Sep 2026 13:52:00 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Gülinay Selçuk İle Haber Bülteni | 5 Eylül</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Özgür Özel: “Bu millet bizim sesimizin kısılmasına izin vermedi, vermeyecek”</title>
-      <link>https://www.youtube.com/shorts/7u9NqQP50sQ</link>
-      <guid isPermaLink="false">7u9NqQP50sQ</guid>
-      <pubDate>Sat, 05 Sep 2026 13:45:31 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Özgür Özel: “Bu millet bizim sesimizin kısılmasına izin vermedi, vermeyecek”</description>
     </item>
   </channel>
 </rss>
