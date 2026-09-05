@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 18:55:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 19:00:50 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Burak Tatari ile Masada Ne Var?</title>
+      <link>https://www.youtube.com/watch?v=5ekyROawBVo</link>
+      <guid isPermaLink="false">5ekyROawBVo</guid>
+      <pubDate>Sat, 05 Sep 2026 18:55:34 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Burak Tatari ile Masada Ne Var?</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: BAHÇELİ'NİN YENİ ANAYASA PLANI İFŞA OLDU! Beştepe'de Hareketli Saatler! Gözler Erdoğan'da</title>
+      <link>https://www.youtube.com/watch?v=G8-d3wvwUmI</link>
+      <guid isPermaLink="false">G8-d3wvwUmI</guid>
+      <pubDate>Sat, 05 Sep 2026 18:50:11 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: BAHÇELİ'NİN YENİ ANAYASA PLANI İFŞA OLDU! Beştepe'de Hareketli Saatler! Gözler Erdoğan'da</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Muhalefet Gözaltı Melih Gökçek'e Davet! Seraf Özer Ateş Püskürdü! AKP'ye Neler Dedi Neler</title>
       <link>https://www.youtube.com/watch?v=LTG5wuisWLs</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">vIVMXQH9rZA</guid>
       <pubDate>Sat, 05 Sep 2026 13:30:28 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: 'Ankara'nın Günah Yüklü Şahsiyeti' Selahattin Demirtaş'tan Melih Gökçek'e Olay Gönderme!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Kırklareli'nde esnaf ziyaret ediyor</title>
-      <link>https://www.youtube.com/watch?v=elnmmTOrpAU</link>
-      <guid isPermaLink="false">elnmmTOrpAU</guid>
-      <pubDate>Sat, 05 Sep 2026 13:26:47 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Kırklareli'nde esnaf ziyaret ediyor</description>
-    </item>
-    <item>
-      <title>Halk TV: BU SÖZLER AKP'Yİ BİRBİRİNE KATACAK! Özgür Özel'in 'Üsküdar' ifşası uykuları haram edecek! Şok detay!</title>
-      <link>https://www.youtube.com/watch?v=YZKhA9gAjE4</link>
-      <guid isPermaLink="false">YZKhA9gAjE4</guid>
-      <pubDate>Sat, 05 Sep 2026 13:15:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BU SÖZLER AKP'Yİ BİRBİRİNE KATACAK! Özgür Özel'in 'Üsküdar' ifşası uykuları haram edecek! Şok detay!</description>
     </item>
   </channel>
 </rss>
