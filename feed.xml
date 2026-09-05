@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 12:40:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 12:45:34 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Yeni Parti Lideri Özgür Özel'den Kırklareli'de Kritik Açıklamalar! Meydan Doldu Taştı</title>
+      <link>https://www.youtube.com/watch?v=140qxK_mpPk</link>
+      <guid isPermaLink="false">140qxK_mpPk</guid>
+      <pubDate>Sat, 05 Sep 2026 12:37:53 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Yeni Parti Lideri Özgür Özel'den Kırklareli'de Kritik Açıklamalar! Meydan Doldu Taştı</description>
+    </item>
     <item>
       <title>Cumhuriyet: Yaban keçisi ağacın tepesinde görüntülendi</title>
       <link>https://www.youtube.com/shorts/USC4oQj93ec</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Qh5UxHVgP2Y</guid>
       <pubDate>Sat, 05 Sep 2026 09:36:36 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: YENİ Parti ve Özel-Oktay Ekşi</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Dogmatizm ve fetihçilik-Örsan K. Öymen</title>
-      <link>https://www.youtube.com/watch?v=mz6d73UJNns</link>
-      <guid isPermaLink="false">mz6d73UJNns</guid>
-      <pubDate>Sat, 05 Sep 2026 09:36:34 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Dogmatizm ve fetihçilik-Örsan K. Öymen</description>
     </item>
   </channel>
 </rss>
