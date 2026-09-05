@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 14:15:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 14:20:30 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: #CANLI Özgür Özel Kırklareli’nde çiftçilerle buluştu</title>
+      <link>https://www.youtube.com/watch?v=BhGDTSGEspU</link>
+      <guid isPermaLink="false">BhGDTSGEspU</guid>
+      <pubDate>Sat, 05 Sep 2026 14:07:20 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI Özgür Özel Kırklareli’nde çiftçilerle buluştu</description>
+    </item>
     <item>
       <title>Halk TV: TOZU DUMANA KATTTI! Özgür Özel’in sözleri çok can yakacak! Kara haberi verdi, meydan yıkıldı!</title>
       <link>https://www.youtube.com/watch?v=f6iF-tTEStc</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">MsDvTgHgWV4</guid>
       <pubDate>Sat, 05 Sep 2026 10:45:31 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ERDOĞAN’IN ‘BUTLAN’ RÜYASI KABUSA DÖNDÜ! Üsküdar’daki tezgahı böyle bozdular! Gamze Altunay aktardı!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Nuri Aslan'ın acı günü... Babası Muharrem Aslan son yolculuğuna uğurlandı</title>
-      <link>https://www.youtube.com/shorts/SSNsVCNp1AI</link>
-      <guid isPermaLink="false">SSNsVCNp1AI</guid>
-      <pubDate>Sat, 05 Sep 2026 10:44:53 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Nuri Aslan'ın acı günü... Babası Muharrem Aslan son yolculuğuna uğurlandı</description>
     </item>
   </channel>
 </rss>
