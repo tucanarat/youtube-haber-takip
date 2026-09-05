@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 11:00:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 11:05:24 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Melih Gökçek Dosyası, Cem Küçük ve Adnan Oktar'ın Planı | Timur Soykan &amp; Barış Terkoğlu</title>
+      <link>https://www.youtube.com/watch?v=OxLuud1FvR0</link>
+      <guid isPermaLink="false">OxLuud1FvR0</guid>
+      <pubDate>Sat, 05 Sep 2026 11:00:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Melih Gökçek Dosyası, Cem Küçük ve Adnan Oktar'ın Planı | Timur Soykan &amp; Barış Terkoğlu</description>
+    </item>
     <item>
       <title>Halk TV: Müslim Sarı: YENİ Parti grubuyla beraber ortak bir tavır sergiledik ve seçime katılmadık</title>
       <link>https://www.youtube.com/shorts/b2inbPJxvn8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">zsYh8sKXGvQ</guid>
       <pubDate>Sat, 05 Sep 2026 08:34:51 +0000</pubDate>
       <description>Halk TV kanalından yeni video: CHP'nin Butlan Sözcüsü Müslim Sarı Açıklama Yaptı! (5 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Üsküdar Belediyesi seçimi ertelendi! Özgür Çelik'ten çok kritik 'MECLİS ÜYESİ' açıklaması...</title>
-      <link>https://www.youtube.com/watch?v=y0t-nhVsiK4</link>
-      <guid isPermaLink="false">y0t-nhVsiK4</guid>
-      <pubDate>Sat, 05 Sep 2026 08:30:19 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Üsküdar Belediyesi seçimi ertelendi! Özgür Çelik'ten çok kritik 'MECLİS ÜYESİ' açıklaması...</description>
     </item>
   </channel>
 </rss>
