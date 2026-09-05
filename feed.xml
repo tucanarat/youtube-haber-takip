@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 22:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 22:25:24 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Manisa’da yangın paniği! Makilik alandaki alevler kontrol altına alındı! #shorts</title>
+      <link>https://www.youtube.com/shorts/fOcQ2tj-I5Q</link>
+      <guid isPermaLink="false">fOcQ2tj-I5Q</guid>
+      <pubDate>Sat, 05 Sep 2026 22:20:18 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Manisa’da yangın paniği! Makilik alandaki alevler kontrol altına alındı! #shorts</description>
+    </item>
     <item>
       <title>Halk TV: Edirne’de kaçan dana ortalığı karıştırdı! 1 saatlik kovalamacanın ardından yakalandı! #shorts</title>
       <link>https://www.youtube.com/shorts/Af2J7rB5lIQ</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">aARTQraomCg</guid>
       <pubDate>Sat, 05 Sep 2026 15:20:47 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Özel: Acıya dayanıyoruz diye başımıza daha acısı gelmese çok iyi olacak!</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel, Edirne’de halkın yoğun ilgisiyle karşılandı: Bu kadar yılmamanız…Bana gurur veriyor!</title>
-      <link>https://www.youtube.com/shorts/U_Gb5c3c6Hg</link>
-      <guid isPermaLink="false">U_Gb5c3c6Hg</guid>
-      <pubDate>Sat, 05 Sep 2026 15:15:56 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel, Edirne’de halkın yoğun ilgisiyle karşılandı: Bu kadar yılmamanız…Bana gurur veriyor!</description>
     </item>
   </channel>
 </rss>
