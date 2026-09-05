@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 10:30:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 10:35:25 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ORTALIK YANIP YIKILACAK! YENİ Partili isimden bomba Cemil Tugay açıklaması! Meğer yakın zamanda...</title>
+      <link>https://www.youtube.com/watch?v=oxS5o9pVQBY</link>
+      <guid isPermaLink="false">oxS5o9pVQBY</guid>
+      <pubDate>Sat, 05 Sep 2026 10:30:06 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ORTALIK YANIP YIKILACAK! YENİ Partili isimden bomba Cemil Tugay açıklaması! Meğer yakın zamanda...</description>
+    </item>
     <item>
       <title>Halk TV: Özgür Özel'den köprü ve otoyolların özelleştirilmesine tepki: Altın yumurtlayan tavuğu kesiyorlar!</title>
       <link>https://www.youtube.com/shorts/ZNz5_1fLDs4</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">aC00a_HSdes</guid>
       <pubDate>Sat, 05 Sep 2026 08:17:03 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BUTLANCILAR PROTESTO EDİLİNCE BÖYLE TOPUKLADI! 'Yuh' sesleri dinmek bilmedi! CHP iyice dibi boyladı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Nefes Kesen Kurtarma! Sarp kayalıklarda mahsur kalan oğlaklar için seferber oldular #shorts</title>
-      <link>https://www.youtube.com/shorts/exM4QEM7MyE</link>
-      <guid isPermaLink="false">exM4QEM7MyE</guid>
-      <pubDate>Sat, 05 Sep 2026 08:15:09 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Nefes Kesen Kurtarma! Sarp kayalıklarda mahsur kalan oğlaklar için seferber oldular #shorts</description>
     </item>
   </channel>
 </rss>
