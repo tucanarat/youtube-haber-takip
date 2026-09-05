@@ -6,13 +6,34 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 12:30:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 12:35:23 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Yaban keçisi ağacın tepesinde görüntülendi</title>
+      <link>https://www.youtube.com/shorts/USC4oQj93ec</link>
+      <guid isPermaLink="false">USC4oQj93ec</guid>
+      <pubDate>Sat, 05 Sep 2026 12:30:36 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Yaban keçisi ağacın tepesinde görüntülendi</description>
+    </item>
+    <item>
+      <title>Halk TV: ERDOĞAN O HAZIRLIĞINI DA ELİNDE TUTAMADI! Kulisten milyonları ayaklandıracak tarih sızdı! Şok detay!</title>
+      <link>https://www.youtube.com/watch?v=GzTrSm7OABY</link>
+      <guid isPermaLink="false">GzTrSm7OABY</guid>
+      <pubDate>Sat, 05 Sep 2026 12:30:28 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ERDOĞAN O HAZIRLIĞINI DA ELİNDE TUTAMADI! Kulisten milyonları ayaklandıracak tarih sızdı! Şok detay!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Asker Üzerinden Tank Geçtiği Anları Kaydetti! #shorts</title>
       <link>https://www.youtube.com/shorts/Gd2Svusq_xw</link>
       <guid isPermaLink="false">Gd2Svusq_xw</guid>
       <pubDate>Sat, 05 Sep 2026 12:27:45 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Asker Üzerinden Tank Geçtiği Anları Kaydetti! #shorts</description>
+    </item>
+    <item>
+      <title>Halk TV: Özgür Özel’in yanına gelen Edirneli Resmîye Berberler’in bu sözleri milyonların dilinde!</title>
+      <link>https://www.youtube.com/shorts/KKaD2w1lvLI</link>
+      <guid isPermaLink="false">KKaD2w1lvLI</guid>
+      <pubDate>Sat, 05 Sep 2026 12:25:21 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Özgür Özel’in yanına gelen Edirneli Resmîye Berberler’in bu sözleri milyonların dilinde!</description>
     </item>
     <item>
       <title>Cumhuriyet: #CANLI YENİ Parti lideri Özgür Özel'den Kırklareli'nde esnaf ziyareti</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">mz6d73UJNns</guid>
       <pubDate>Sat, 05 Sep 2026 09:36:34 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Dogmatizm ve fetihçilik-Örsan K. Öymen</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: ABD’den Donroe ile İsrail’e nefes-Mehmet Ali Güller</title>
-      <link>https://www.youtube.com/watch?v=HTfC1Z6GMl8</link>
-      <guid isPermaLink="false">HTfC1Z6GMl8</guid>
-      <pubDate>Sat, 05 Sep 2026 09:36:31 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: ABD’den Donroe ile İsrail’e nefes-Mehmet Ali Güller</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Özgürlükten demokrasiye-Öner Yağcı</title>
-      <link>https://www.youtube.com/watch?v=17lbFJWIR-0</link>
-      <guid isPermaLink="false">17lbFJWIR-0</guid>
-      <pubDate>Sat, 05 Sep 2026 09:36:28 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Özgürlükten demokrasiye-Öner Yağcı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Baba ve oğul Ziyalan’lar...-Eren Aysan</title>
-      <link>https://www.youtube.com/watch?v=wcL59rYQF6U</link>
-      <guid isPermaLink="false">wcL59rYQF6U</guid>
-      <pubDate>Sat, 05 Sep 2026 09:36:26 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Baba ve oğul Ziyalan’lar...-Eren Aysan</description>
     </item>
   </channel>
 </rss>
