@@ -6,13 +6,34 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 16:55:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 17:00:48 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Ekrem Açıkel İle Hafta Sonu Ana Haber 5 Eylül</title>
+      <link>https://www.youtube.com/watch?v=CDtPyf9bmBM</link>
+      <guid isPermaLink="false">CDtPyf9bmBM</guid>
+      <pubDate>Sat, 05 Sep 2026 16:56:14 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Ekrem Açıkel İle Hafta Sonu Ana Haber 5 Eylül</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: ÜNLÜ OYUNCU SERHAT KILIÇ EVİNDE ÖLÜ BULUNDU! Sır Ölümün Perde Arkası</title>
       <link>https://www.youtube.com/watch?v=SbcxGvXo1ro</link>
       <guid isPermaLink="false">SbcxGvXo1ro</guid>
       <pubDate>Sat, 05 Sep 2026 16:52:00 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: ÜNLÜ OYUNCU SERHAT KILIÇ EVİNDE ÖLÜ BULUNDU! Sır Ölümün Perde Arkası</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Gökmen Karadağ ile Açıkça</title>
+      <link>https://www.youtube.com/watch?v=nkoSsHxrsyQ</link>
+      <guid isPermaLink="false">nkoSsHxrsyQ</guid>
+      <pubDate>Sat, 05 Sep 2026 16:50:36 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Gökmen Karadağ ile Açıkça</description>
+    </item>
+    <item>
+      <title>Halk TV: Üsküdar’da dikkat çeken anlar! Tahsin Usta’yı gören vatandaşlar tepki gösterdi!</title>
+      <link>https://www.youtube.com/watch?v=O6fHPcpsAHs</link>
+      <guid isPermaLink="false">O6fHPcpsAHs</guid>
+      <pubDate>Sat, 05 Sep 2026 16:50:27 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Üsküdar’da dikkat çeken anlar! Tahsin Usta’yı gören vatandaşlar tepki gösterdi!</description>
     </item>
     <item>
       <title>Halk TV: TOZU DUMANA KATTI! Sera Kadıgil'in her sözü Beştepe'de yeri yerinden oynatacak! Resmen bombaladı!</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">GzTrSm7OABY</guid>
       <pubDate>Sat, 05 Sep 2026 12:30:28 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ERDOĞAN O HAZIRLIĞINI DA ELİNDE TUTAMADI! Kulisten milyonları ayaklandıracak tarih sızdı! Şok detay!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Asker Üzerinden Tank Geçtiği Anları Kaydetti! #shorts</title>
-      <link>https://www.youtube.com/shorts/Gd2Svusq_xw</link>
-      <guid isPermaLink="false">Gd2Svusq_xw</guid>
-      <pubDate>Sat, 05 Sep 2026 12:27:45 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Asker Üzerinden Tank Geçtiği Anları Kaydetti! #shorts</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel’in yanına gelen Edirneli Resmîye Berberler’in bu sözleri milyonların dilinde!</title>
-      <link>https://www.youtube.com/shorts/KKaD2w1lvLI</link>
-      <guid isPermaLink="false">KKaD2w1lvLI</guid>
-      <pubDate>Sat, 05 Sep 2026 12:25:21 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel’in yanına gelen Edirneli Resmîye Berberler’in bu sözleri milyonların dilinde!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: #CANLI YENİ Parti lideri Özgür Özel'den Kırklareli'nde esnaf ziyareti</title>
-      <link>https://www.youtube.com/watch?v=X4m31vIYoQI</link>
-      <guid isPermaLink="false">X4m31vIYoQI</guid>
-      <pubDate>Sat, 05 Sep 2026 12:17:57 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI YENİ Parti lideri Özgür Özel'den Kırklareli'nde esnaf ziyareti</description>
     </item>
   </channel>
 </rss>
