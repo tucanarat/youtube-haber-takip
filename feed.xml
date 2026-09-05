@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 13:20:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 13:25:24 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: BU SÖZLER AKP'Yİ BİRBİRİNE KATACAK! Özgür Özel'in 'Üsküdar' ifşası uykuları haram edecek! Şok detay!</title>
+      <link>https://www.youtube.com/watch?v=YZKhA9gAjE4</link>
+      <guid isPermaLink="false">YZKhA9gAjE4</guid>
+      <pubDate>Sat, 05 Sep 2026 13:15:06 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BU SÖZLER AKP'Yİ BİRBİRİNE KATACAK! Özgür Özel'in 'Üsküdar' ifşası uykuları haram edecek! Şok detay!</description>
+    </item>
     <item>
       <title>Halk TV: Gülşah Ekinci ile Öğle Haberleri (5 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=IuQ7r8FS1II</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">OETiN9CqBf0</guid>
       <pubDate>Sat, 05 Sep 2026 09:55:38 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Simge Fıstıkoğlu İle İyi ki Hafta Sonu | 5 Eylül</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Namık Koçak, Özdemir İnce ve Recai Aksu ile Forum (05.09.26)</title>
-      <link>https://www.youtube.com/watch?v=D6aNvrslJ84</link>
-      <guid isPermaLink="false">D6aNvrslJ84</guid>
-      <pubDate>Sat, 05 Sep 2026 09:46:48 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Namık Koçak, Özdemir İnce ve Recai Aksu ile Forum (05.09.26)</description>
     </item>
   </channel>
 </rss>
