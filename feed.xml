@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 11:40:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 11:45:31 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Timur Soykan Skandalı Anlattı İsyan Etti: "İmamoğlu Davası Ahtapotun Kolları Gibi!"</title>
+      <link>https://www.youtube.com/watch?v=dRMCmCoL7jI</link>
+      <guid isPermaLink="false">dRMCmCoL7jI</guid>
+      <pubDate>Sat, 05 Sep 2026 11:30:30 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Timur Soykan Skandalı Anlattı İsyan Etti: "İmamoğlu Davası Ahtapotun Kolları Gibi!"</description>
+    </item>
     <item>
       <title>Halk TV: SON DAKİKA! SELÇUK MIZRAKLI O GÜN TAHLİYE OLUYOR! Demirtaş bu sözlerle duyurdu! Fırtına kopartacak!</title>
       <link>https://www.youtube.com/watch?v=ON-iT2XoOLE</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">BRZmHVVEeAM</guid>
       <pubDate>Sat, 05 Sep 2026 08:52:43 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Edirne'de emekli buluşmasında konuşuyor</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Yüreklerin Ağza Geldiği An! Raylara fırlayan küçük kızı tişörtünden çekerek kurtardı #shorts</title>
-      <link>https://www.youtube.com/shorts/0N5vyp6vNsk</link>
-      <guid isPermaLink="false">0N5vyp6vNsk</guid>
-      <pubDate>Sat, 05 Sep 2026 08:45:01 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Yüreklerin Ağza Geldiği An! Raylara fırlayan küçük kızı tişörtünden çekerek kurtardı #shorts</description>
     </item>
   </channel>
 </rss>
