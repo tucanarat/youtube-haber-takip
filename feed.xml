@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 12:25:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 12:30:39 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Erdoğan'dan şok karar! Tüm köprü ve otoyollar paralı mı olacak? Oğuz Demir flaş senaryoyu açıkladı!</title>
+      <link>https://www.youtube.com/watch?v=hAAoNkIBSTw</link>
+      <guid isPermaLink="false">hAAoNkIBSTw</guid>
+      <pubDate>Sun, 06 Sep 2026 12:25:28 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Erdoğan'dan şok karar! Tüm köprü ve otoyollar paralı mı olacak? Oğuz Demir flaş senaryoyu açıkladı!</description>
+    </item>
     <item>
       <title>Halk TV: Ekonomide OVP açıklandı, enflasyon beklentisi uçuşa geçti! Oğuz Demir'in yorumu büyük ses getirecek!</title>
       <link>https://www.youtube.com/watch?v=ACnEcaYsqT0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">aYip58yldnU</guid>
       <pubDate>Sun, 06 Sep 2026 09:42:26 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ANKARA'DA DEPREM ETKİSİ YARATACAK SÖZLER! YENİ Partili İlksen Özalper'in 'zalim' çıkışı olay olacak!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Murat Ağırel İfşa Etmişti! '500 Kez Sıçradım' Melih Gökçek'ten Akılalmaz Açıklama! 15 Yıllık Arşiv!</title>
-      <link>https://www.youtube.com/watch?v=7GrGkOP94-0</link>
-      <guid isPermaLink="false">7GrGkOP94-0</guid>
-      <pubDate>Sun, 06 Sep 2026 09:30:14 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Murat Ağırel İfşa Etmişti! '500 Kez Sıçradım' Melih Gökçek'ten Akılalmaz Açıklama! 15 Yıllık Arşiv!</description>
     </item>
   </channel>
 </rss>
