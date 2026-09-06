@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 01:30:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 01:36:00 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: #CANLI YENİ Parti lideri Özgür Özel'den Kırklareli'nde esnaf ziyareti</title>
+      <link>https://www.youtube.com/watch?v=X4m31vIYoQI</link>
+      <guid isPermaLink="false">X4m31vIYoQI</guid>
+      <pubDate>Sun, 06 Sep 2026 01:31:25 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI YENİ Parti lideri Özgür Özel'den Kırklareli'nde esnaf ziyareti</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti Sarıyer İlçe Başkanlığı açılışı / İstanbul #Canlı</title>
       <link>https://www.youtube.com/watch?v=XdzoH92FbJw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">inltPnDu6Ok</guid>
       <pubDate>Sat, 05 Sep 2026 15:30:19 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İYİ Parti Genel Başkanı Müsavat Dervişoğlu, Fatsa'da Açıklama Yaptı! (5 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: YOK BÖYLE SEVGİ! Özgür Özel'i görenler yanına koştu, sarılan bırakamadı! Milyonlar bunu konuşacak!</title>
-      <link>https://www.youtube.com/watch?v=iICUbrb-xVU</link>
-      <guid isPermaLink="false">iICUbrb-xVU</guid>
-      <pubDate>Sat, 05 Sep 2026 15:30:15 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YOK BÖYLE SEVGİ! Özgür Özel'i görenler yanına koştu, sarılan bırakamadı! Milyonlar bunu konuşacak!</description>
     </item>
   </channel>
 </rss>
