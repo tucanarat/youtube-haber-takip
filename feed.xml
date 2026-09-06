@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 20:25:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 20:29:41 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Afşin Hatipoğlu Açtı Ağzını Yumdu Gözünü! Gündemi Olacak Melih Gökçek ve İmamoğlu Çıkışı</title>
+      <link>https://www.youtube.com/watch?v=O6F4Gke0Zb0</link>
+      <guid isPermaLink="false">O6F4Gke0Zb0</guid>
+      <pubDate>Sun, 06 Sep 2026 20:20:35 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Afşin Hatipoğlu Açtı Ağzını Yumdu Gözünü! Gündemi Olacak Melih Gökçek ve İmamoğlu Çıkışı</description>
+    </item>
     <item>
       <title>Halk TV: FATİH ALTAYLI'DAN GÖKÇEK İLE İLGİLİ KULİS HABERİ! İşte o açıklama! "Toplum elinize sağlık diyecek."</title>
       <link>https://www.youtube.com/watch?v=jeU37myLR14</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">-vpkXwIFhOA</guid>
       <pubDate>Sun, 06 Sep 2026 14:30:01 +0000</pubDate>
       <description>Halk TV kanalından yeni video: AKP'NİN İÇİ FOKUR FOKUR! Gökçek'in çıkışı AKP'de o isimleri sıkıntıya mı sokacak? Hatipoğlu anlattı!</description>
-    </item>
-    <item>
-      <title>Halk TV: ÖZGÜR ÖZEL KAHKAHALARA BOĞULDU! Edirne'de yanına gelen teyzenin söyledikleri resmen kırdı geçirdi!</title>
-      <link>https://www.youtube.com/watch?v=1LGfK50led0</link>
-      <guid isPermaLink="false">1LGfK50led0</guid>
-      <pubDate>Sun, 06 Sep 2026 14:15:17 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ÖZGÜR ÖZEL KAHKAHALARA BOĞULDU! Edirne'de yanına gelen teyzenin söyledikleri resmen kırdı geçirdi!</description>
     </item>
   </channel>
 </rss>
