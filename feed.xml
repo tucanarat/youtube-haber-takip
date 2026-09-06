@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 00:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 01:00:50 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: YENİ Parti Sarıyer İlçe Başkanlığı açılışı / İstanbul #Canlı</title>
+      <link>https://www.youtube.com/watch?v=XdzoH92FbJw</link>
+      <guid isPermaLink="false">XdzoH92FbJw</guid>
+      <pubDate>Sun, 06 Sep 2026 00:56:57 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Sarıyer İlçe Başkanlığı açılışı / İstanbul #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: Manisa’da yangın paniği! Makilik alandaki alevler kontrol altına alındı! #shorts</title>
       <link>https://www.youtube.com/shorts/fOcQ2tj-I5Q</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">iICUbrb-xVU</guid>
       <pubDate>Sat, 05 Sep 2026 15:30:15 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YOK BÖYLE SEVGİ! Özgür Özel'i görenler yanına koştu, sarılan bırakamadı! Milyonlar bunu konuşacak!</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel: Acıya dayanıyoruz diye başımıza daha acısı gelmese çok iyi olacak!</title>
-      <link>https://www.youtube.com/shorts/aARTQraomCg</link>
-      <guid isPermaLink="false">aARTQraomCg</guid>
-      <pubDate>Sat, 05 Sep 2026 15:20:47 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel: Acıya dayanıyoruz diye başımıza daha acısı gelmese çok iyi olacak!</description>
     </item>
   </channel>
 </rss>
