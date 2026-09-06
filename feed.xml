@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 19:05:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 19:10:29 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI Onur Öncü ile Sabah Pusulası (07.09.20626)</title>
+      <link>https://www.youtube.com/watch?v=GQ6PZNvBjPA</link>
+      <guid isPermaLink="false">GQ6PZNvBjPA</guid>
+      <pubDate>Sun, 06 Sep 2026 19:10:11 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Onur Öncü ile Sabah Pusulası (07.09.20626)</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #CANLI Ülkü Çoban ile Manşet Ötesi (07.09.2026)</title>
+      <link>https://www.youtube.com/watch?v=AuCV7U6UhAA</link>
+      <guid isPermaLink="false">AuCV7U6UhAA</guid>
+      <pubDate>Sun, 06 Sep 2026 19:08:44 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Ülkü Çoban ile Manşet Ötesi (07.09.2026)</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Hazinenin Gizlenen Tablosu! 30 Yıllık Büyük Plan İfşa Oldu! Seçim Ekonomisi İçin Hazırlık mı?</title>
+      <link>https://www.youtube.com/watch?v=HdQnqT4xtWw</link>
+      <guid isPermaLink="false">HdQnqT4xtWw</guid>
+      <pubDate>Sun, 06 Sep 2026 19:00:01 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Hazinenin Gizlenen Tablosu! 30 Yıllık Büyük Plan İfşa Oldu! Seçim Ekonomisi İçin Hazırlık mı?</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Milyar Dolarlık Sır! AKP'de Erdoğan Sonrası Hesapları! Gökçek, Yıldırım ve Davutoğlu...</title>
       <link>https://www.youtube.com/watch?v=-tP1G8SEf2M</link>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">q-CvYej1KQ8</guid>
       <pubDate>Sun, 06 Sep 2026 12:58:54 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Gülşah Ekinci ile Öğle Haberleri (6 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: DEM Parti'de Tuncer Bakırhan ve Tülay Hatimoğulları yeniden Eş Genel Başkan seçildi</title>
-      <link>https://www.youtube.com/shorts/wUtEuIZNj74</link>
-      <guid isPermaLink="false">wUtEuIZNj74</guid>
-      <pubDate>Sun, 06 Sep 2026 12:51:53 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: DEM Parti'de Tuncer Bakırhan ve Tülay Hatimoğulları yeniden Eş Genel Başkan seçildi</description>
-    </item>
-    <item>
-      <title>Halk TV: Ali Babacan: Enflasyonun düşmesi için devletin de tasarruf etmesi gerekir!</title>
-      <link>https://www.youtube.com/shorts/mcf8UtG_Us0</link>
-      <guid isPermaLink="false">mcf8UtG_Us0</guid>
-      <pubDate>Sun, 06 Sep 2026 12:51:41 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ali Babacan: Enflasyonun düşmesi için devletin de tasarruf etmesi gerekir!</description>
-    </item>
-    <item>
-      <title>Halk TV: ERDOĞAN'DAN BİR GARİP ÇIKIŞ! Yasaklanan kitaplar için 'katliam' dedi, İmamoğlu'nun kitabını unuttu!</title>
-      <link>https://www.youtube.com/watch?v=R65Avlfi5TM</link>
-      <guid isPermaLink="false">R65Avlfi5TM</guid>
-      <pubDate>Sun, 06 Sep 2026 12:42:13 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ERDOĞAN'DAN BİR GARİP ÇIKIŞ! Yasaklanan kitaplar için 'katliam' dedi, İmamoğlu'nun kitabını unuttu!</description>
     </item>
   </channel>
 </rss>
