@@ -32297,10 +32297,10 @@
   },
   "SgAQ02lVUgU": {
     "id": "SgAQ02lVUgU",
-    "title": "#CANLI Ekrem Açıkel İle Hafta Sonu Ana Haber",
+    "title": "Ekrem Açıkel İle Hafta Sonu Ana Haber 6 Eylül",
     "link": "https://www.youtube.com/watch?v=SgAQ02lVUgU",
-    "published": "2026-09-05T22:05:23+00:00",
-    "published_ts": 1788645923,
+    "published": "2026-09-06T16:55:18+00:00",
+    "published_ts": 1788713718,
     "channel_name": "SÖZCÜ TV"
   },
   "Af2J7rB5lIQ": {
@@ -32377,7 +32377,7 @@
   },
   "QwOoLaKnoDM": {
     "id": "QwOoLaKnoDM",
-    "title": "Senem Toluay Ilgaz ile Öncesi Sonrası Gece - Timur Soykan",
+    "title": "#CANLI Senem Toluay Ilgaz ile Öncesi Sonrası Gece - Timur Soykan",
     "link": "https://www.youtube.com/watch?v=QwOoLaKnoDM",
     "published": "2026-09-06T05:32:57+00:00",
     "published_ts": 1788672777,
@@ -33105,10 +33105,10 @@
   },
   "2yRBd20ScHY": {
     "id": "2yRBd20ScHY",
-    "title": "#CANLI | Sinem Fıstıkoğlu ile Hafta Sonu Ana Haber",
+    "title": "Sinem Fıstıkoğlu ile Hafta Sonu Ana Haber #Halktv (6 Eylül 2026)",
     "link": "https://www.youtube.com/watch?v=2yRBd20ScHY",
-    "published": "2026-09-06T14:37:57+00:00",
-    "published_ts": 1788705477,
+    "published": "2026-09-06T16:57:24+00:00",
+    "published_ts": 1788713844,
     "channel_name": "Halk TV"
   },
   "gKa0tXsR_RY": {
@@ -33230,5 +33230,13 @@
     "published": "2026-09-06T16:40:27+00:00",
     "published_ts": 1788712827,
     "channel_name": "SÖZCÜ TV"
+  },
+  "eAtT7ReOtKw": {
+    "id": "eAtT7ReOtKw",
+    "title": "#CANLI | Burçin Atılgan ile Gündem Özel",
+    "link": "https://www.youtube.com/watch?v=eAtT7ReOtKw",
+    "published": "2026-09-06T16:43:52+00:00",
+    "published_ts": 1788713032,
+    "channel_name": "Halk TV"
   }
 }

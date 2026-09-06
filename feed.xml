@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 16:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 17:00:50 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Sinem Fıstıkoğlu ile Hafta Sonu Ana Haber #Halktv (6 Eylül 2026)</title>
+      <link>https://www.youtube.com/watch?v=2yRBd20ScHY</link>
+      <guid isPermaLink="false">2yRBd20ScHY</guid>
+      <pubDate>Sun, 06 Sep 2026 16:57:24 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Sinem Fıstıkoğlu ile Hafta Sonu Ana Haber #Halktv (6 Eylül 2026)</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Ekrem Açıkel İle Hafta Sonu Ana Haber 6 Eylül</title>
+      <link>https://www.youtube.com/watch?v=SgAQ02lVUgU</link>
+      <guid isPermaLink="false">SgAQ02lVUgU</guid>
+      <pubDate>Sun, 06 Sep 2026 16:55:18 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Ekrem Açıkel İle Hafta Sonu Ana Haber 6 Eylül</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Burçin Atılgan ile Gündem Özel</title>
+      <link>https://www.youtube.com/watch?v=eAtT7ReOtKw</link>
+      <guid isPermaLink="false">eAtT7ReOtKw</guid>
+      <pubDate>Sun, 06 Sep 2026 16:43:52 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Burçin Atılgan ile Gündem Özel</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Cinayeti Böyle İşlemişler! Umut Altaş İtiraf Etti! Gülistan Doku Dosyasında Kilit İsim Ortaya Çıktı</title>
       <link>https://www.youtube.com/watch?v=Dqpzqi-kFJI</link>
@@ -125,13 +146,6 @@
       <guid isPermaLink="false">lHhrc6F6VgY</guid>
       <pubDate>Sun, 06 Sep 2026 14:45:19 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BU SEVGİNİN SINIRI YOK! Özgür Özel Edirne'de büyük coşku yarattı! Yaşlı teyze öpmelere doyamadı!</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Sinem Fıstıkoğlu ile Hafta Sonu Ana Haber</title>
-      <link>https://www.youtube.com/watch?v=2yRBd20ScHY</link>
-      <guid isPermaLink="false">2yRBd20ScHY</guid>
-      <pubDate>Sun, 06 Sep 2026 14:37:57 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Sinem Fıstıkoğlu ile Hafta Sonu Ana Haber</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Gülinay Selçuk İle Haber Bülteni | 6 Eylül</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">M6kKnVMVFZc</guid>
       <pubDate>Sun, 06 Sep 2026 11:15:02 +0000</pubDate>
       <description>Halk TV kanalından yeni video: "O ÖLDÜRDÜ, CESEDİ BAGAJA TAŞIDIK!" Gülistan Doku cinayetinde bomba itiraflar! Her şey açığa çıktı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Gülinay Selçuk İle Haber Bülteni | 6 Eylül</title>
-      <link>https://www.youtube.com/watch?v=3nKwGo_JOAU</link>
-      <guid isPermaLink="false">3nKwGo_JOAU</guid>
-      <pubDate>Sun, 06 Sep 2026 11:08:44 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Gülinay Selçuk İle Haber Bülteni | 6 Eylül</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Çelik: Bu memleketin başına ne geldiyse koltuğa yapışanlar yüzünden geldi!</title>
-      <link>https://www.youtube.com/shorts/gHq0hptjdQA</link>
-      <guid isPermaLink="false">gHq0hptjdQA</guid>
-      <pubDate>Sun, 06 Sep 2026 11:07:44 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Çelik: Bu memleketin başına ne geldiyse koltuğa yapışanlar yüzünden geldi!</description>
     </item>
   </channel>
 </rss>
