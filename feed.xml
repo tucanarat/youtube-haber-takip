@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 15:45:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 15:50:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: BU SÖZLER BEŞTEPE'DE YANKILANIR! Özgür Özel'den Kırklareli'nde Erdoğan'ı çıldırtacak çarpıcı sözler!</title>
+      <link>https://www.youtube.com/watch?v=rD0GvQG0X7s</link>
+      <guid isPermaLink="false">rD0GvQG0X7s</guid>
+      <pubDate>Sun, 06 Sep 2026 15:45:21 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BU SÖZLER BEŞTEPE'DE YANKILANIR! Özgür Özel'den Kırklareli'nde Erdoğan'ı çıldırtacak çarpıcı sözler!</description>
+    </item>
     <item>
       <title>Halk TV: DEHŞET OLAY! 80 kişi hayatını kaybetti: O ülkede “cinsel organ hırsızlığı” başladı!</title>
       <link>https://www.youtube.com/watch?v=ThWAxbXQfqU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">n5AVRgwfY-E</guid>
       <pubDate>Sun, 06 Sep 2026 10:33:04 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Burhanettin Bulut: Milletin destek verdiği bileği kimse bükemez!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Erman Toroğlu'ndan Bomba Derbi Yorumu! İsmail Kartal'a Tepki! | Beşiktaş, Fenerbahçe, Aziz Yıldırım</title>
-      <link>https://www.youtube.com/watch?v=vvFEyAD3jBE</link>
-      <guid isPermaLink="false">vvFEyAD3jBE</guid>
-      <pubDate>Sun, 06 Sep 2026 10:30:32 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Erman Toroğlu'ndan Bomba Derbi Yorumu! İsmail Kartal'a Tepki! | Beşiktaş, Fenerbahçe, Aziz Yıldırım</description>
     </item>
   </channel>
 </rss>
