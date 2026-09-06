@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 16:45:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 16:50:32 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Cinayeti Böyle İşlemişler! Umut Altaş İtiraf Etti! Gülistan Doku Dosyasında Kilit İsim Ortaya Çıktı</title>
+      <link>https://www.youtube.com/watch?v=Dqpzqi-kFJI</link>
+      <guid isPermaLink="false">Dqpzqi-kFJI</guid>
+      <pubDate>Sun, 06 Sep 2026 16:40:27 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Cinayeti Böyle İşlemişler! Umut Altaş İtiraf Etti! Gülistan Doku Dosyasında Kilit İsim Ortaya Çıktı</description>
+    </item>
     <item>
       <title>Halk TV: "ÖZGÜRÜMÜ ÇOK SEVİYORUM, PARAM OLSA DAHA ÇOK VERECEĞİM" Yaşlı teyze o sözleri güne damga vurdu!</title>
       <link>https://www.youtube.com/watch?v=I_GETMoXb5o</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">gHq0hptjdQA</guid>
       <pubDate>Sun, 06 Sep 2026 11:07:44 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Çelik: Bu memleketin başına ne geldiyse koltuğa yapışanlar yüzünden geldi!</description>
-    </item>
-    <item>
-      <title>Halk TV: İstanbul İl Başkanı Özgür Çelik, YENİ Parti Sarıyer İlçe Başkanlığı açılışında konuştu!</title>
-      <link>https://www.youtube.com/shorts/fz33DHmXfRc</link>
-      <guid isPermaLink="false">fz33DHmXfRc</guid>
-      <pubDate>Sun, 06 Sep 2026 11:07:27 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İstanbul İl Başkanı Özgür Çelik, YENİ Parti Sarıyer İlçe Başkanlığı açılışında konuştu!</description>
     </item>
   </channel>
 </rss>
