@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 19:35:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 19:40:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Evinde ölü bulunan oyuncu Serhat Mustafa Kılıç’ın son görüntüleri güvenlik kamerasında</title>
+      <link>https://www.youtube.com/shorts/z0TyQ45UoHo</link>
+      <guid isPermaLink="false">z0TyQ45UoHo</guid>
+      <pubDate>Sun, 06 Sep 2026 19:30:32 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Evinde ölü bulunan oyuncu Serhat Mustafa Kılıç’ın son görüntüleri güvenlik kamerasında</description>
+    </item>
+    <item>
+      <title>Halk TV: Yaşadıklarına dayanamadı beyin kanaması geçirdi: Kadın personel Merkez Bankası'nda taciz edildi!</title>
+      <link>https://www.youtube.com/watch?v=D0xpNykI47c</link>
+      <guid isPermaLink="false">D0xpNykI47c</guid>
+      <pubDate>Sun, 06 Sep 2026 19:30:01 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Yaşadıklarına dayanamadı beyin kanaması geçirdi: Kadın personel Merkez Bankası'nda taciz edildi!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İktidarın Çarpıcı Özelleştirme Oyunu! İşte 30 Yıllık Gizli Plan! Burak Dalgın'dan Olay Benzetme</title>
       <link>https://www.youtube.com/watch?v=rRgfNS1Sadg</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">3hvedzcs_hM</guid>
       <pubDate>Sun, 06 Sep 2026 13:30:28 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Altın ve Gümüş Yatırımcısı Dikkat! FED Faiz İndirirse Ne Olur? Uzman İsimden Kritik Uyarılar!</description>
-    </item>
-    <item>
-      <title>Halk TV: CANLI YAYINDA ESTİ GÜRLEDİ! İmamoğlu'nun kitabı yasaklandı, Afşin Hatipoğlu demediğini bırakmadı!</title>
-      <link>https://www.youtube.com/watch?v=FAv9TrrHy44</link>
-      <guid isPermaLink="false">FAv9TrrHy44</guid>
-      <pubDate>Sun, 06 Sep 2026 13:30:08 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: CANLI YAYINDA ESTİ GÜRLEDİ! İmamoğlu'nun kitabı yasaklandı, Afşin Hatipoğlu demediğini bırakmadı!</description>
-    </item>
-    <item>
-      <title>Halk TV: CENAZE PROGRAMI BELLİ OLDU! Ünlü oyuncu Serhat Kılıç'ın cenazesi Adli Tıp Kurumu'ndan teslim alındı!</title>
-      <link>https://www.youtube.com/watch?v=ujF2UoiUuFg</link>
-      <guid isPermaLink="false">ujF2UoiUuFg</guid>
-      <pubDate>Sun, 06 Sep 2026 13:11:47 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: CENAZE PROGRAMI BELLİ OLDU! Ünlü oyuncu Serhat Kılıç'ın cenazesi Adli Tıp Kurumu'ndan teslim alındı!</description>
     </item>
   </channel>
 </rss>
