@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 10:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 11:00:49 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: CHP İstanbul İl Başkanı Gürsel Tekin, CHP Kadıköy İlçe Başkanlığı'nda açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=8uvOppjPURI</link>
+      <guid isPermaLink="false">8uvOppjPURI</guid>
+      <pubDate>Sun, 06 Sep 2026 10:55:02 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: CHP İstanbul İl Başkanı Gürsel Tekin, CHP Kadıköy İlçe Başkanlığı'nda açıklama yapıyor #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: En az 4 cinayeti var: Fethi Dağlı ve ağabeyi Yaşar Dağlı tutuklandı! Ortaya çıkan bilgilerse sarsıcı</title>
       <link>https://www.youtube.com/watch?v=HUJ0AZaWuio</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">27QmI0vo3Ek</guid>
       <pubDate>Sun, 06 Sep 2026 07:30:18 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: MİKROBİYOLOGDAN ŞOK İTİRAF: "En Pahalı Organik Yumurta Bile Bizi Zehirliyor!"</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Cevdet Yılmaz, 2027-2029 dönemini kapsayan Orta Vadeli Program'ı açıklıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=ZNF1NNI17Go</link>
-      <guid isPermaLink="false">ZNF1NNI17Go</guid>
-      <pubDate>Sun, 06 Sep 2026 07:29:55 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Cevdet Yılmaz, 2027-2029 dönemini kapsayan Orta Vadeli Program'ı açıklıyor #Canlı</description>
     </item>
   </channel>
 </rss>
