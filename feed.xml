@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 08:50:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 08:55:24 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Hüsnü Mahalli: "Üsküdar'da İktidarla İlgili Korkunç Hikayeler Var Bir Tane İşlem Yapılmadı!"</title>
+      <link>https://www.youtube.com/watch?v=PuecEY16mik</link>
+      <guid isPermaLink="false">PuecEY16mik</guid>
+      <pubDate>Sun, 06 Sep 2026 08:45:54 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Hüsnü Mahalli: "Üsküdar'da İktidarla İlgili Korkunç Hikayeler Var Bir Tane İşlem Yapılmadı!"</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Süleymancılar Dosyasında Sır Perdesi Aralandı! Ahmet Denizolgun'un Ölümünde Gizemli Telefon Trafiği!</title>
       <link>https://www.youtube.com/watch?v=Lgo-jnDaQTQ</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">N8L_s63UnsI</guid>
       <pubDate>Sat, 05 Sep 2026 20:15:25 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ÜSKÜDAR BELEDİYESİ’NDE KRİTİK DENGE! Gökmen Karadağ’dan Üsküdar tablosunun tüm detayları!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: #CANLI Üsküdar'da kritik seçim: Belediye çevresinde yoğun güvenlik önlemi…</title>
-      <link>https://www.youtube.com/watch?v=za9TatPifgg</link>
-      <guid isPermaLink="false">za9TatPifgg</guid>
-      <pubDate>Sat, 05 Sep 2026 20:07:23 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI Üsküdar'da kritik seçim: Belediye çevresinde yoğun güvenlik önlemi…</description>
     </item>
   </channel>
 </rss>
