@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 08:10:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 08:15:32 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: SİYASETİ SALLAYACAK AÇIKLAMA! Bahçeli’den Erdoğan'a Yeni Anayasa Şartı! Ankara Bunu Konuşuyor!</title>
+      <link>https://www.youtube.com/watch?v=fkKxwdrFUW8</link>
+      <guid isPermaLink="false">fkKxwdrFUW8</guid>
+      <pubDate>Sun, 06 Sep 2026 08:00:21 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: SİYASETİ SALLAYACAK AÇIKLAMA! Bahçeli’den Erdoğan'a Yeni Anayasa Şartı! Ankara Bunu Konuşuyor!</description>
+    </item>
     <item>
       <title>Cumhuriyet: Beşiktaş hakkıyla - Gülengül Altınsay</title>
       <link>https://www.youtube.com/watch?v=iKXSEfmgCgA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">wGiq4AAbIiI</guid>
       <pubDate>Sat, 05 Sep 2026 19:10:14 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Bahçeli'nin "Sistem Değişikliği" Çıkışının Perde Arkası: Muhalefeti Bekleyen Büyük Tehlike</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! Üsküdar’da gözaltındaki 3 meclis üyesi için tutuklama istendi!</title>
-      <link>https://www.youtube.com/watch?v=YqdQdDfqm7o</link>
-      <guid isPermaLink="false">YqdQdDfqm7o</guid>
-      <pubDate>Sat, 05 Sep 2026 18:57:02 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! Üsküdar’da gözaltındaki 3 meclis üyesi için tutuklama istendi!</description>
     </item>
   </channel>
 </rss>
