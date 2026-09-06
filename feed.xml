@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 08:25:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 08:30:39 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Akaryakıt zamları gıda fiyatlarını vurdu: "Günlük zam geliyor, mecbur fiyat artırıyoruz"</title>
+      <link>https://www.youtube.com/shorts/VI2LBK_9d3Q</link>
+      <guid isPermaLink="false">VI2LBK_9d3Q</guid>
+      <pubDate>Sun, 06 Sep 2026 08:28:24 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Akaryakıt zamları gıda fiyatlarını vurdu: "Günlük zam geliyor, mecbur fiyat artırıyoruz"</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Erdal Sağlam'dan haftalık ekonomi analizi: "Rezervlerin eridiği döneme giriyoruz"</title>
+      <link>https://www.youtube.com/watch?v=tZuncV6BBMI</link>
+      <guid isPermaLink="false">tZuncV6BBMI</guid>
+      <pubDate>Sun, 06 Sep 2026 08:21:26 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Erdal Sağlam'dan haftalık ekonomi analizi: "Rezervlerin eridiği döneme giriyoruz"</description>
+    </item>
     <item>
       <title>Halk TV: ERDOĞAN'A SOĞUK DUŞ! YENİ Parti-CHP işbirliği, Üsküdar planını boşa düşürdü! Kritik hamle geldi!</title>
       <link>https://www.youtube.com/watch?v=bslMDlM28Ww</link>
@@ -162,11 +176,11 @@
       <description>SÖZCÜ TV kanalından yeni video: Nagihan Turhan ile S Raporu</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: Senem Toluay Ilgaz ile Öncesi Sonrası Gece</title>
+      <title>SÖZCÜ TV: Senem Toluay Ilgaz ile Öncesi Sonrası Gece - Timur Soykan</title>
       <link>https://www.youtube.com/watch?v=QwOoLaKnoDM</link>
       <guid isPermaLink="false">QwOoLaKnoDM</guid>
       <pubDate>Sun, 06 Sep 2026 05:32:57 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Senem Toluay Ilgaz ile Öncesi Sonrası Gece</description>
+      <description>SÖZCÜ TV kanalından yeni video: Senem Toluay Ilgaz ile Öncesi Sonrası Gece - Timur Soykan</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: İYİ Parti Genel Başkanı Müsavat Dervişoğlu, Fatsa'da açıklama yapıyor / Ordu #Canlı</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">e8X1wVtGbbc</guid>
       <pubDate>Sat, 05 Sep 2026 19:35:18 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SELAHATTİN DEMİRTAŞ DUYURDU! Selçuk Mızraklı için tahliye tarihi belli oldu!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Seraf Özer'den Bahçeli'ye Anayasa Yanıtı! Erdoğan ve AKP'nin Planını Bir Bir Anlattı</title>
-      <link>https://www.youtube.com/watch?v=QCFWweqrzGQ</link>
-      <guid isPermaLink="false">QCFWweqrzGQ</guid>
-      <pubDate>Sat, 05 Sep 2026 19:30:27 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Seraf Özer'den Bahçeli'ye Anayasa Yanıtı! Erdoğan ve AKP'nin Planını Bir Bir Anlattı</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel’in Trakya mesaisi! Edirne’de vatandaş ve emeklilerle buluştu!</title>
-      <link>https://www.youtube.com/watch?v=VDlcx9pIKVM</link>
-      <guid isPermaLink="false">VDlcx9pIKVM</guid>
-      <pubDate>Sat, 05 Sep 2026 19:15:48 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel’in Trakya mesaisi! Edirne’de vatandaş ve emeklilerle buluştu!</description>
     </item>
   </channel>
 </rss>
