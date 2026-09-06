@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 17:15:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 17:20:29 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ENFLASYON HEDEFİNDE 12 PUAN SAPMA! Açıklanan orta vadeli programdan ne anlamalıyız?</title>
+      <link>https://www.youtube.com/watch?v=6_aHRiM5RCA</link>
+      <guid isPermaLink="false">6_aHRiM5RCA</guid>
+      <pubDate>Sun, 06 Sep 2026 17:15:29 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ENFLASYON HEDEFİNDE 12 PUAN SAPMA! Açıklanan orta vadeli programdan ne anlamalıyız?</description>
+    </item>
     <item>
       <title>Halk TV: İçindeki 10 kişilik mürettebatla Silivri açıklarında battı: Tuğberk İmamoğlu'ndan ilk görüntü geldi!</title>
       <link>https://www.youtube.com/watch?v=YsifouaPo-M</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">2NprudiFWBs</guid>
       <pubDate>Sun, 06 Sep 2026 11:30:22 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Gülistan Doku Dosyasında Kritik İtiraf! "CİNAYETE TANIK OLDUM!" Umut Altaş'tan FBI'a Çarpıcı İfade!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "Özgür Özel 'Seçim Yapılmaz" Algısını Kırıyor!" Hüsnü Mahalli'den Kritik Yorum!</title>
-      <link>https://www.youtube.com/watch?v=xg6bYd4DrBQ</link>
-      <guid isPermaLink="false">xg6bYd4DrBQ</guid>
-      <pubDate>Sun, 06 Sep 2026 11:30:20 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "Özgür Özel 'Seçim Yapılmaz" Algısını Kırıyor!" Hüsnü Mahalli'den Kritik Yorum!</description>
     </item>
   </channel>
 </rss>
