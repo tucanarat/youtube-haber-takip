@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 18:20:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 18:25:26 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: AKP'de Melih Gökçek ve Binali Yıldırım Depremi! Erdoğan Sonrasına Gizli Hesap! Timur Soykan Anlattı</title>
+      <link>https://www.youtube.com/watch?v=DqFkAnyVUYM</link>
+      <guid isPermaLink="false">DqFkAnyVUYM</guid>
+      <pubDate>Sun, 06 Sep 2026 18:20:04 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: AKP'de Melih Gökçek ve Binali Yıldırım Depremi! Erdoğan Sonrasına Gizli Hesap! Timur Soykan Anlattı</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: İstanbul’da Filenin Sultanları’nın İtalya karşılaşması dev ekranlardan takip ediliyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=g0mrZD8Yq88</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">7chUOBaKm8U</guid>
       <pubDate>Sun, 06 Sep 2026 12:36:10 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Gülistan Doku Soruşturmasında UMUT ALTAŞ'IN FBI İFADESİ ORTAYA ÇIKTI! WhatsApp'taki Korkunç Video!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: DEM Parti 5. Olağan Kongresi... Bakırhan ve Hatimoğulları yeniden eş genel başkan seçildi</title>
-      <link>https://www.youtube.com/shorts/zEsHGacJQ8k</link>
-      <guid isPermaLink="false">zEsHGacJQ8k</guid>
-      <pubDate>Sun, 06 Sep 2026 12:34:03 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: DEM Parti 5. Olağan Kongresi... Bakırhan ve Hatimoğulları yeniden eş genel başkan seçildi</description>
     </item>
   </channel>
 </rss>
