@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 08:30:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 08:35:29 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Kanser tedavisi gören DEM Partili Ağrı Belediyesi Eş Başkanı Mehmet Akkuş yaşamını yitirdi!</title>
+      <link>https://www.youtube.com/watch?v=FDdfdeay0is</link>
+      <guid isPermaLink="false">FDdfdeay0is</guid>
+      <pubDate>Sun, 06 Sep 2026 08:30:09 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Kanser tedavisi gören DEM Partili Ağrı Belediyesi Eş Başkanı Mehmet Akkuş yaşamını yitirdi!</description>
+    </item>
     <item>
       <title>Cumhuriyet: Akaryakıt zamları gıda fiyatlarını vurdu: "Günlük zam geliyor, mecbur fiyat artırıyoruz"</title>
       <link>https://www.youtube.com/shorts/VI2LBK_9d3Q</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">aDnguAzAwFk</guid>
       <pubDate>Sat, 05 Sep 2026 19:55:18 +0000</pubDate>
       <description>Halk TV kanalından yeni video: IRAK'TA VARLIK İÇİNDE YOKLUK! Petrol zengini Irak’ta benzin kıtlığı yaşanıyor!</description>
-    </item>
-    <item>
-      <title>Halk TV: SELAHATTİN DEMİRTAŞ DUYURDU! Selçuk Mızraklı için tahliye tarihi belli oldu!</title>
-      <link>https://www.youtube.com/watch?v=e8X1wVtGbbc</link>
-      <guid isPermaLink="false">e8X1wVtGbbc</guid>
-      <pubDate>Sat, 05 Sep 2026 19:35:18 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SELAHATTİN DEMİRTAŞ DUYURDU! Selçuk Mızraklı için tahliye tarihi belli oldu!</description>
     </item>
   </channel>
 </rss>
