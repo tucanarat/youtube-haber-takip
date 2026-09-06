@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 17:25:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 17:30:40 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: 'Büyük Kıskaç Daralıyor' Yıldırım ve Gökçeklerin Dudak Uçuklatan Serveti! Ekrem Açıkel Anlattı</title>
+      <link>https://www.youtube.com/watch?v=-lCWE-spPug</link>
+      <guid isPermaLink="false">-lCWE-spPug</guid>
+      <pubDate>Sun, 06 Sep 2026 17:20:36 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: 'Büyük Kıskaç Daralıyor' Yıldırım ve Gökçeklerin Dudak Uçuklatan Serveti! Ekrem Açıkel Anlattı</description>
+    </item>
     <item>
       <title>Halk TV: ENFLASYON HEDEFİNDE 12 PUAN SAPMA! Açıklanan orta vadeli programdan ne anlamalıyız?</title>
       <link>https://www.youtube.com/watch?v=6_aHRiM5RCA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">YBJlxHiyEVo</guid>
       <pubDate>Sun, 06 Sep 2026 11:31:02 +0000</pubDate>
       <description>Halk TV kanalından yeni video: CHP Genel Başkan Yardımcısı Necdet Saraç, Kadıköy İlçe Başkanlığı'nda Açıklama Yaptı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Gülistan Doku Dosyasında Kritik İtiraf! "CİNAYETE TANIK OLDUM!" Umut Altaş'tan FBI'a Çarpıcı İfade!</title>
-      <link>https://www.youtube.com/watch?v=2NprudiFWBs</link>
-      <guid isPermaLink="false">2NprudiFWBs</guid>
-      <pubDate>Sun, 06 Sep 2026 11:30:22 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Gülistan Doku Dosyasında Kritik İtiraf! "CİNAYETE TANIK OLDUM!" Umut Altaş'tan FBI'a Çarpıcı İfade!</description>
     </item>
   </channel>
 </rss>
