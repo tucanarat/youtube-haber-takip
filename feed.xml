@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 20:05:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 20:10:31 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Yeniden Refah Genel Başkanı Fatih Erbakan, il başkanları toplantısı öncesi açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=oXKyqCqfRFI</link>
+      <guid isPermaLink="false">oXKyqCqfRFI</guid>
+      <pubDate>Sun, 06 Sep 2026 20:06:50 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Yeniden Refah Genel Başkanı Fatih Erbakan, il başkanları toplantısı öncesi açıklama yapıyor #Canlı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Mustafa Balbay Çarpıcı Mehmet Şimşek Gerçeğini Anlattı! 8 Yıllık Krizin Perde Arkası</title>
       <link>https://www.youtube.com/watch?v=iKwvb-UIf_g</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">6UtGEkcv39M</guid>
       <pubDate>Sun, 06 Sep 2026 14:11:01 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Beyoğlu İlçe Başkanlığı açılış töreni yapılıyor /  İstanbul #Canlı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: KÖRFEZ'DE SICAK ÇATIŞMA! CENTCOM'dan İran'a Ağır Darbe! ABD Vurdu Arda Arda Vurdu!</title>
-      <link>https://www.youtube.com/watch?v=UnW_zQbHOmk</link>
-      <guid isPermaLink="false">UnW_zQbHOmk</guid>
-      <pubDate>Sun, 06 Sep 2026 14:00:30 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: KÖRFEZ'DE SICAK ÇATIŞMA! CENTCOM'dan İran'a Ağır Darbe! ABD Vurdu Arda Arda Vurdu!</description>
     </item>
   </channel>
 </rss>
