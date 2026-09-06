@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 03:45:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 03:50:29 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: İYİ Parti Genel Başkanı Müsavat Dervişoğlu, Fatsa'da açıklama yapıyor / Ordu #Canlı</title>
+      <link>https://www.youtube.com/watch?v=gBEGeeBdHgU</link>
+      <guid isPermaLink="false">gBEGeeBdHgU</guid>
+      <pubDate>Sun, 06 Sep 2026 03:48:36 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: İYİ Parti Genel Başkanı Müsavat Dervişoğlu, Fatsa'da açıklama yapıyor / Ordu #Canlı</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: İstanbul Barosu Eğitim, Araştırma ve Uygulama binası açılış töreni #Canlı</title>
       <link>https://www.youtube.com/watch?v=ftMfeBaHXjQ</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">wSuSXTT-r7U</guid>
       <pubDate>Sat, 05 Sep 2026 16:10:04 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Ekrem Açıkel Anlattı! Devlet Bahçeli Devreye Girdi! Erdoğan'ın Yeni Anayasa Planı İfşa Oldu</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! Ünlü oyuncu Serhat Kılıç kız arkadaşı tarafından evinde ölü bulundu!</title>
-      <link>https://www.youtube.com/watch?v=wCfdfsRYKIE</link>
-      <guid isPermaLink="false">wCfdfsRYKIE</guid>
-      <pubDate>Sat, 05 Sep 2026 15:58:41 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! Ünlü oyuncu Serhat Kılıç kız arkadaşı tarafından evinde ölü bulundu!</description>
     </item>
   </channel>
 </rss>
