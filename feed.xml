@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 22:00:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 22:05:26 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Timur Soykan Sinirlendi! "Gözünü Cezaevinde Açarsın" Erdoğan'ın Seçim Planını Tek Tek Anlattı</title>
+      <link>https://www.youtube.com/watch?v=82LVKbcH2LY</link>
+      <guid isPermaLink="false">82LVKbcH2LY</guid>
+      <pubDate>Sun, 06 Sep 2026 22:00:32 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Timur Soykan Sinirlendi! "Gözünü Cezaevinde Açarsın" Erdoğan'ın Seçim Planını Tek Tek Anlattı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Nagihan Turhan ile S Raporu | 7 Eylül</title>
       <link>https://www.youtube.com/watch?v=7RcCEmmPuno</link>
@@ -20,6 +27,13 @@
       <guid isPermaLink="false">eAtT7ReOtKw</guid>
       <pubDate>Sun, 06 Sep 2026 21:56:10 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Burçin Atılgan ile Gündem Özel (6 Eylül 2026)</description>
+    </item>
+    <item>
+      <title>Halk TV: ERZURUM’un Çat ilçesinde şimşek çakması sonucu ilçeye bağlı 3 mahallede otluk yangınları çıktı</title>
+      <link>https://www.youtube.com/shorts/mF9al-KoyoA</link>
+      <guid isPermaLink="false">mF9al-KoyoA</guid>
+      <pubDate>Sun, 06 Sep 2026 21:55:01 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ERZURUM’un Çat ilçesinde şimşek çakması sonucu ilçeye bağlı 3 mahallede otluk yangınları çıktı</description>
     </item>
     <item>
       <title>Halk TV: FİLENİN SULTANLARI YENİDEN TARİH YAZDI! Vatandaş sokaklarda coşkuyla kutladı!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">zKdZmCFHr34</guid>
       <pubDate>Sun, 06 Sep 2026 16:00:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Kent merkezinde başlayan gök gürültülü sağanak yerini doluya bıraktı, yayalar ve sürücüler zorlandı.</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Müsavat Dervişoğlu'ndan Özgür Özel'e Süreç Eleştirisi! "Hayırla Övünüyorsan Neden Evet Dedin?"</title>
-      <link>https://www.youtube.com/watch?v=AyMxn-N18vo</link>
-      <guid isPermaLink="false">AyMxn-N18vo</guid>
-      <pubDate>Sun, 06 Sep 2026 16:00:00 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Müsavat Dervişoğlu'ndan Özgür Özel'e Süreç Eleştirisi! "Hayırla Övünüyorsan Neden Evet Dedin?"</description>
-    </item>
-    <item>
-      <title>Halk TV: BU SÖZLER BEŞTEPE'DE YANKILANIR! Özgür Özel'den Kırklareli'nde Erdoğan'ı çıldırtacak çarpıcı sözler!</title>
-      <link>https://www.youtube.com/watch?v=rD0GvQG0X7s</link>
-      <guid isPermaLink="false">rD0GvQG0X7s</guid>
-      <pubDate>Sun, 06 Sep 2026 15:45:21 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BU SÖZLER BEŞTEPE'DE YANKILANIR! Özgür Özel'den Kırklareli'nde Erdoğan'ı çıldırtacak çarpıcı sözler!</description>
     </item>
   </channel>
 </rss>
