@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 12:05:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 12:10:30 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Barış Terkoğlu Melih Gökçek'i Anlattı: "Devletin Elinde Murat Ağırel’in Yazdığından Fazlası Var"</title>
+      <link>https://www.youtube.com/watch?v=wn-unudLwdE</link>
+      <guid isPermaLink="false">wn-unudLwdE</guid>
+      <pubDate>Sun, 06 Sep 2026 12:00:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Barış Terkoğlu Melih Gökçek'i Anlattı: "Devletin Elinde Murat Ağırel’in Yazdığından Fazlası Var"</description>
+    </item>
     <item>
       <title>Cumhuriyet: DEM Parti 5'inci Kongresi: Eş Genel Başkanlar Hatimoğulları ile Bakırhan oy kullandı</title>
       <link>https://www.youtube.com/shorts/Qr6n9-OAyHA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">SvW3d5scu1Q</guid>
       <pubDate>Sun, 06 Sep 2026 09:25:23 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BOLU BELEDİYESİ'NE OPERASYON! Daha önce iki kez tutuklanan Tanju Özcan için üçüncü tutuklama kararı!</description>
-    </item>
-    <item>
-      <title>Halk TV: DEM Parti 5'inci Olağan Büyük Kongresi (6 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=ykGh6F2IUsw</link>
-      <guid isPermaLink="false">ykGh6F2IUsw</guid>
-      <pubDate>Sun, 06 Sep 2026 09:16:26 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: DEM Parti 5'inci Olağan Büyük Kongresi (6 Eylül 2026)</description>
     </item>
   </channel>
 </rss>
