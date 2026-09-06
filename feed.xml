@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 08:15:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 08:20:28 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ERDOĞAN'A SOĞUK DUŞ! YENİ Parti-CHP işbirliği, Üsküdar planını boşa düşürdü! Kritik hamle geldi!</title>
+      <link>https://www.youtube.com/watch?v=bslMDlM28Ww</link>
+      <guid isPermaLink="false">bslMDlM28Ww</guid>
+      <pubDate>Sun, 06 Sep 2026 08:14:58 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ERDOĞAN'A SOĞUK DUŞ! YENİ Parti-CHP işbirliği, Üsküdar planını boşa düşürdü! Kritik hamle geldi!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: SİYASETİ SALLAYACAK AÇIKLAMA! Bahçeli’den Erdoğan'a Yeni Anayasa Şartı! Ankara Bunu Konuşuyor!</title>
       <link>https://www.youtube.com/watch?v=fkKxwdrFUW8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">VDlcx9pIKVM</guid>
       <pubDate>Sat, 05 Sep 2026 19:15:48 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Özel’in Trakya mesaisi! Edirne’de vatandaş ve emeklilerle buluştu!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Bahçeli'nin "Sistem Değişikliği" Çıkışının Perde Arkası: Muhalefeti Bekleyen Büyük Tehlike</title>
-      <link>https://www.youtube.com/watch?v=wGiq4AAbIiI</link>
-      <guid isPermaLink="false">wGiq4AAbIiI</guid>
-      <pubDate>Sat, 05 Sep 2026 19:10:14 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Bahçeli'nin "Sistem Değişikliği" Çıkışının Perde Arkası: Muhalefeti Bekleyen Büyük Tehlike</description>
     </item>
   </channel>
 </rss>
