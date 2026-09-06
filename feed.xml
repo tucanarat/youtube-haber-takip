@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 13:25:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 13:30:43 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | YENİ Parti Beyoğlu İlçe Başkanlığı Açılış Töreni</title>
+      <link>https://www.youtube.com/watch?v=gfeD-X2ofHI</link>
+      <guid isPermaLink="false">gfeD-X2ofHI</guid>
+      <pubDate>Sun, 06 Sep 2026 13:25:02 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti Beyoğlu İlçe Başkanlığı Açılış Töreni</description>
+    </item>
     <item>
       <title>Halk TV: CENAZE PROGRAMI BELLİ OLDU! Ünlü oyuncu Serhat Kılıç'ın cenazesi Adli Tıp Kurumu'ndan teslim alındı!</title>
       <link>https://www.youtube.com/watch?v=ujF2UoiUuFg</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">rNCeBS05Z_E</guid>
       <pubDate>Sun, 06 Sep 2026 10:04:03 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: İki Türkiye - Veysel Ulusoy</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Durum umutsuz ama ciddi değil - Ahmet Tan</title>
-      <link>https://www.youtube.com/watch?v=-WAdGcaN2-c</link>
-      <guid isPermaLink="false">-WAdGcaN2-c</guid>
-      <pubDate>Sun, 06 Sep 2026 10:04:01 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Durum umutsuz ama ciddi değil - Ahmet Tan</description>
     </item>
   </channel>
 </rss>
