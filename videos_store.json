@@ -32273,7 +32273,7 @@
   },
   "3nKwGo_JOAU": {
     "id": "3nKwGo_JOAU",
-    "title": "Gülinay Selçuk İle Haber Bülteni",
+    "title": "#CANLI Gülinay Selçuk İle Haber Bülteni",
     "link": "https://www.youtube.com/watch?v=3nKwGo_JOAU",
     "published": "2026-09-05T22:02:06+00:00",
     "published_ts": 1788645726,
@@ -32283,8 +32283,8 @@
     "id": "jk8UDp2EMYk",
     "title": "Simge Fıstıkoğlu İle İyi ki Hafta Sonu | 6 Eylül",
     "link": "https://www.youtube.com/watch?v=jk8UDp2EMYk",
-    "published": "2026-09-05T22:01:21+00:00",
-    "published_ts": 1788645681,
+    "published": "2026-09-06T09:55:42+00:00",
+    "published_ts": 1788688542,
     "channel_name": "SÖZCÜ TV"
   },
   "okVFu49EPUY": {
@@ -32598,5 +32598,13 @@
     "published": "2026-09-06T09:49:37+00:00",
     "published_ts": 1788688177,
     "channel_name": "Cumhuriyet"
+  },
+  "fyuuk8pI4HE": {
+    "id": "fyuuk8pI4HE",
+    "title": "Timur Soykan Belge Belge Anlatıyor | Cem Küçük, Melih Gökçek, Binali Yıldırım'ın Serveti",
+    "link": "https://www.youtube.com/watch?v=fyuuk8pI4HE",
+    "published": "2026-09-06T10:00:06+00:00",
+    "published_ts": 1788688806,
+    "channel_name": "SÖZCÜ TV"
   }
 }
