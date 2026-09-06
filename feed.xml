@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 20:45:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 20:50:31 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Timur Soykan İktidarın Seçim Oyunu Bozuldu! İBB Davasında Şok Gerçekler ve Melih Gökçek Detayı</title>
+      <link>https://www.youtube.com/watch?v=dOdum-wPJ5w</link>
+      <guid isPermaLink="false">dOdum-wPJ5w</guid>
+      <pubDate>Sun, 06 Sep 2026 20:40:11 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Timur Soykan İktidarın Seçim Oyunu Bozuldu! İBB Davasında Şok Gerçekler ve Melih Gökçek Detayı</description>
+    </item>
     <item>
       <title>Halk TV: Pervin Buldan, Demokratik Cumhuriyet Hareketi adı altında yeni bir yapılanmaya gidileceğini açıkladı</title>
       <link>https://www.youtube.com/shorts/gsSrLFwTrsQ</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">naplVDuy2Hg</guid>
       <pubDate>Sun, 06 Sep 2026 14:33:51 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Gülinay Selçuk İle Haber Bülteni | 6 Eylül</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Hande Kazanova'dan Eylül Ayı Finansal Astroloji Analizi!</title>
-      <link>https://www.youtube.com/watch?v=M9eFFQ76wr0</link>
-      <guid isPermaLink="false">M9eFFQ76wr0</guid>
-      <pubDate>Sun, 06 Sep 2026 14:30:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Hande Kazanova'dan Eylül Ayı Finansal Astroloji Analizi!</description>
     </item>
   </channel>
 </rss>
