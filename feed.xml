@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 20:00:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 20:05:25 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Mustafa Balbay Çarpıcı Mehmet Şimşek Gerçeğini Anlattı! 8 Yıllık Krizin Perde Arkası</title>
+      <link>https://www.youtube.com/watch?v=iKwvb-UIf_g</link>
+      <guid isPermaLink="false">iKwvb-UIf_g</guid>
+      <pubDate>Sun, 06 Sep 2026 20:00:28 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Mustafa Balbay Çarpıcı Mehmet Şimşek Gerçeğini Anlattı! 8 Yıllık Krizin Perde Arkası</description>
+    </item>
+    <item>
+      <title>Halk TV: "Seçmen iradesi sadece seçim gecesi mi geçerli?" Üsküdar için her yol mübah mı?</title>
+      <link>https://www.youtube.com/watch?v=FI3n0smyGjU</link>
+      <guid isPermaLink="false">FI3n0smyGjU</guid>
+      <pubDate>Sun, 06 Sep 2026 20:00:08 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: "Seçmen iradesi sadece seçim gecesi mi geçerli?" Üsküdar için her yol mübah mı?</description>
+    </item>
     <item>
       <title>Halk TV: Elazığ’da sağanak ve dolu hayatı olumsuz etkiledi</title>
       <link>https://www.youtube.com/shorts/xtHHVmSUOek</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">UnW_zQbHOmk</guid>
       <pubDate>Sun, 06 Sep 2026 14:00:30 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: KÖRFEZ'DE SICAK ÇATIŞMA! CENTCOM'dan İran'a Ağır Darbe! ABD Vurdu Arda Arda Vurdu!</description>
-    </item>
-    <item>
-      <title>Halk TV: AFŞİN HATİPOĞLU BOMBAYI PATLATTI! Erdoğan'ın İBB'ye 'çökme' planını anlattı! O isim düşünülüyormuş!</title>
-      <link>https://www.youtube.com/watch?v=6XVdI1F4gqU</link>
-      <guid isPermaLink="false">6XVdI1F4gqU</guid>
-      <pubDate>Sun, 06 Sep 2026 14:00:01 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: AFŞİN HATİPOĞLU BOMBAYI PATLATTI! Erdoğan'ın İBB'ye 'çökme' planını anlattı! O isim düşünülüyormuş!</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti Beyoğlu İlçe Başkanlığı Açılış Töreni (6 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=gfeD-X2ofHI</link>
-      <guid isPermaLink="false">gfeD-X2ofHI</guid>
-      <pubDate>Sun, 06 Sep 2026 13:59:02 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti Beyoğlu İlçe Başkanlığı Açılış Töreni (6 Eylül 2026)</description>
     </item>
   </channel>
 </rss>
