@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 16:05:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 16:07:26 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Müsavat Dervişoğlu'ndan Özgür Özel'e Süreç Eleştirisi! "Hayırla Övünüyorsan Neden Evet Dedin?"</title>
+      <link>https://www.youtube.com/watch?v=AyMxn-N18vo</link>
+      <guid isPermaLink="false">AyMxn-N18vo</guid>
+      <pubDate>Sun, 06 Sep 2026 16:00:00 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Müsavat Dervişoğlu'ndan Özgür Özel'e Süreç Eleştirisi! "Hayırla Övünüyorsan Neden Evet Dedin?"</description>
+    </item>
     <item>
       <title>Halk TV: BU SÖZLER BEŞTEPE'DE YANKILANIR! Özgür Özel'den Kırklareli'nde Erdoğan'ı çıldırtacak çarpıcı sözler!</title>
       <link>https://www.youtube.com/watch?v=rD0GvQG0X7s</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">8uvOppjPURI</guid>
       <pubDate>Sun, 06 Sep 2026 10:55:02 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkan Yardımcısı Necdet Saraç, CHP Kadıköy İlçe Başkanlığı'nda açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: En az 4 cinayeti var: Fethi Dağlı ve ağabeyi Yaşar Dağlı tutuklandı! Ortaya çıkan bilgilerse sarsıcı</title>
-      <link>https://www.youtube.com/watch?v=HUJ0AZaWuio</link>
-      <guid isPermaLink="false">HUJ0AZaWuio</guid>
-      <pubDate>Sun, 06 Sep 2026 10:45:22 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: En az 4 cinayeti var: Fethi Dağlı ve ağabeyi Yaşar Dağlı tutuklandı! Ortaya çıkan bilgilerse sarsıcı</description>
     </item>
   </channel>
 </rss>
