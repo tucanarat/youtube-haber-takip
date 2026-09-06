@@ -6,14 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 03:10:33 +0000</lastBuildDate>
-    <item>
-      <title>Cumhuriyet: #CANLI Özgür Özel Kırklareli’nde çiftçilerle buluştu</title>
-      <link>https://www.youtube.com/watch?v=BhGDTSGEspU</link>
-      <guid isPermaLink="false">BhGDTSGEspU</guid>
-      <pubDate>Sun, 06 Sep 2026 03:04:13 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI Özgür Özel Kırklareli’nde çiftçilerle buluştu</description>
-    </item>
+    <lastBuildDate>Sun, 06 Sep 2026 03:15:28 +0000</lastBuildDate>
     <item>
       <title>Cumhuriyet: #CANLI YENİ Parti lideri Özgür Özel'den Kırklareli'nde esnaf ziyareti</title>
       <link>https://www.youtube.com/watch?v=X4m31vIYoQI</link>
@@ -356,6 +349,13 @@
       <guid isPermaLink="false">yxIyoAdMTfo</guid>
       <pubDate>Sat, 05 Sep 2026 15:40:25 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Ekrem Açıkel Melih Gökçek ve Sakız Arşivini Açtı! Neler Çıktı Neler! İlk Kez Göreceksiniz</description>
+    </item>
+    <item>
+      <title>Halk TV: İYİ Parti Genel Başkanı Müsavat Dervişoğlu, Fatsa'da Açıklama Yaptı! (5 Eylül 2026)</title>
+      <link>https://www.youtube.com/watch?v=inltPnDu6Ok</link>
+      <guid isPermaLink="false">inltPnDu6Ok</guid>
+      <pubDate>Sat, 05 Sep 2026 15:30:19 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İYİ Parti Genel Başkanı Müsavat Dervişoğlu, Fatsa'da Açıklama Yaptı! (5 Eylül 2026)</description>
     </item>
   </channel>
 </rss>
