@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 17:50:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 17:55:23 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Oyuncu Serhat Kılıç'ın Son Görüntüleri Ortaya Çıktı! #shorts</title>
+      <link>https://www.youtube.com/shorts/0_mD-y_XlW8</link>
+      <guid isPermaLink="false">0_mD-y_XlW8</guid>
+      <pubDate>Sun, 06 Sep 2026 17:45:18 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Oyuncu Serhat Kılıç'ın Son Görüntüleri Ortaya Çıktı! #shorts</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Önce Özelleştirme Sonra Demagoji! Eski Türkiye Satıla Satıla Bitti! Ekrem Açıkel 24 Yılı Anlattı</title>
+      <link>https://www.youtube.com/watch?v=U4EmYjTMJUg</link>
+      <guid isPermaLink="false">U4EmYjTMJUg</guid>
+      <pubDate>Sun, 06 Sep 2026 17:40:35 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Önce Özelleştirme Sonra Demagoji! Eski Türkiye Satıla Satıla Bitti! Ekrem Açıkel 24 Yılı Anlattı</description>
+    </item>
     <item>
       <title>Halk TV: DAVUTOĞLU YARIN İFADE VERECEK! Cumhurbaşkanına hakaret suçlaması ile yarın hakim karşısına çıkıyor!</title>
       <link>https://www.youtube.com/watch?v=WuVK2ji7u2I</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">Qr6n9-OAyHA</guid>
       <pubDate>Sun, 06 Sep 2026 11:58:38 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: DEM Parti 5'inci Kongresi: Eş Genel Başkanlar Hatimoğulları ile Bakırhan oy kullandı</description>
-    </item>
-    <item>
-      <title>Halk TV: GÖKÇEKLER KÖŞEYE SIKIŞTI! Oğlu ve gelini de 'şüpheli' sıfatıyla ifadeye çağrıldı! Ankara alev alev!</title>
-      <link>https://www.youtube.com/watch?v=i0lZ8SIerl8</link>
-      <guid isPermaLink="false">i0lZ8SIerl8</guid>
-      <pubDate>Sun, 06 Sep 2026 11:45:13 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: GÖKÇEKLER KÖŞEYE SIKIŞTI! Oğlu ve gelini de 'şüpheli' sıfatıyla ifadeye çağrıldı! Ankara alev alev!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: ISS astronotlarının kadrajından İstanbul! Uzaydan çekilen büyüleyici fotoğraflar paylaşıldı</title>
-      <link>https://www.youtube.com/shorts/5WJndLvXSkA</link>
-      <guid isPermaLink="false">5WJndLvXSkA</guid>
-      <pubDate>Sun, 06 Sep 2026 11:33:24 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: ISS astronotlarının kadrajından İstanbul! Uzaydan çekilen büyüleyici fotoğraflar paylaşıldı</description>
     </item>
   </channel>
 </rss>
