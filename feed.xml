@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 13:00:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 13:05:27 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: ABD’den Türk Bankasına Şoke Eden Yaptırım! İran Gerilimi Türkiye’ye Sıçradı!</title>
+      <link>https://www.youtube.com/watch?v=cm6pYyraErw</link>
+      <guid isPermaLink="false">cm6pYyraErw</guid>
+      <pubDate>Sun, 06 Sep 2026 13:00:37 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: ABD’den Türk Bankasına Şoke Eden Yaptırım! İran Gerilimi Türkiye’ye Sıçradı!</description>
+    </item>
     <item>
       <title>Halk TV: Gülşah Ekinci ile Öğle Haberleri (6 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=q-CvYej1KQ8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">I3JJoNm_NpM</guid>
       <pubDate>Sun, 06 Sep 2026 10:03:59 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Seçilmişlerin transferleri, rejim ve anayasa suçudur! (16) - Emre Kongar</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Tekzip itiraftır - Özdemir İnce</title>
-      <link>https://www.youtube.com/watch?v=szMJY1pXK0I</link>
-      <guid isPermaLink="false">szMJY1pXK0I</guid>
-      <pubDate>Sun, 06 Sep 2026 10:03:58 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Tekzip itiraftır - Özdemir İnce</description>
     </item>
   </channel>
 </rss>
