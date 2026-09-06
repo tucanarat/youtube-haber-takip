@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 10:10:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 10:15:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Yürütülen soruşturmada şarkıcı Tuğba Ekinci ile birlikte 'Timsah Celil'i oynayan isim de tutuklandı!</title>
+      <link>https://www.youtube.com/watch?v=M8PfGrEfEGA</link>
+      <guid isPermaLink="false">M8PfGrEfEGA</guid>
+      <pubDate>Sun, 06 Sep 2026 10:12:12 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Yürütülen soruşturmada şarkıcı Tuğba Ekinci ile birlikte 'Timsah Celil'i oynayan isim de tutuklandı!</description>
+    </item>
+    <item>
+      <title>Halk TV: Suat Özçağdaş, YENİ Parti'nin Sarıyer İlçe Başkanlığı binasının açılışında konuştu!</title>
+      <link>https://www.youtube.com/shorts/J6Fg99oAuws</link>
+      <guid isPermaLink="false">J6Fg99oAuws</guid>
+      <pubDate>Sun, 06 Sep 2026 10:09:48 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Suat Özçağdaş, YENİ Parti'nin Sarıyer İlçe Başkanlığı binasının açılışında konuştu!</description>
+    </item>
     <item>
       <title>Halk TV: Gökan Zeybek: Yılda 600 milyon dolarlık gelir elde eden köprüleri özelleştirecekler!</title>
       <link>https://www.youtube.com/shorts/ikdZ9vwp3ts</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">Im8Zdnb__O0</guid>
       <pubDate>Sun, 06 Sep 2026 06:14:57 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: DEM Parti, 5'inci Olağan Büyük Kongresi, Nazım Hikmet Kültür Merkezi'nde yapılıyor #Canlı / Ankara</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Hande Kazanova'dan Eylül Ayı Finansal Astroloji Analizi!</title>
-      <link>https://www.youtube.com/watch?v=M9eFFQ76wr0</link>
-      <guid isPermaLink="false">M9eFFQ76wr0</guid>
-      <pubDate>Sun, 06 Sep 2026 05:37:39 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Hande Kazanova'dan Eylül Ayı Finansal Astroloji Analizi!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Nagihan Turhan ile S Raporu</title>
-      <link>https://www.youtube.com/watch?v=7RcCEmmPuno</link>
-      <guid isPermaLink="false">7RcCEmmPuno</guid>
-      <pubDate>Sun, 06 Sep 2026 05:33:53 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Nagihan Turhan ile S Raporu</description>
     </item>
   </channel>
 </rss>
