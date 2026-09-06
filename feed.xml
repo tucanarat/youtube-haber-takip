@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 09:00:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 09:05:24 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: BAHÇELİ'YE ŞOK 'PROVOKATÖR' SÖZLERİ! Dervişoğlu'nun süreç çıkışı Ankara'da taşları yerinden oynatır!</title>
+      <link>https://www.youtube.com/watch?v=0flCiVzGIWI</link>
+      <guid isPermaLink="false">0flCiVzGIWI</guid>
+      <pubDate>Sun, 06 Sep 2026 08:52:20 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BAHÇELİ'YE ŞOK 'PROVOKATÖR' SÖZLERİ! Dervişoğlu'nun süreç çıkışı Ankara'da taşları yerinden oynatır!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Hüsnü Mahalli: "Üsküdar'da İktidarla İlgili Korkunç Hikayeler Var Bir Tane İşlem Yapılmadı!"</title>
       <link>https://www.youtube.com/watch?v=PuecEY16mik</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">pyoRhT6nihU</guid>
       <pubDate>Sat, 05 Sep 2026 20:35:02 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: CHP Sözcüsü Müslim Sarı açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: ÜSKÜDAR BELEDİYESİ’NDE KRİTİK DENGE! Gökmen Karadağ’dan Üsküdar tablosunun tüm detayları!</title>
-      <link>https://www.youtube.com/watch?v=N8L_s63UnsI</link>
-      <guid isPermaLink="false">N8L_s63UnsI</guid>
-      <pubDate>Sat, 05 Sep 2026 20:15:25 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ÜSKÜDAR BELEDİYESİ’NDE KRİTİK DENGE! Gökmen Karadağ’dan Üsküdar tablosunun tüm detayları!</description>
     </item>
   </channel>
 </rss>
