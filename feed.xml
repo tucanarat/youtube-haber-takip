@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 14:30:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 14:35:24 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Gülinay Selçuk İle Haber Bülteni | 6 Eylül</title>
+      <link>https://www.youtube.com/watch?v=naplVDuy2Hg</link>
+      <guid isPermaLink="false">naplVDuy2Hg</guid>
+      <pubDate>Sun, 06 Sep 2026 14:33:51 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Gülinay Selçuk İle Haber Bülteni | 6 Eylül</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Hande Kazanova'dan Eylül Ayı Finansal Astroloji Analizi!</title>
+      <link>https://www.youtube.com/watch?v=M9eFFQ76wr0</link>
+      <guid isPermaLink="false">M9eFFQ76wr0</guid>
+      <pubDate>Sun, 06 Sep 2026 14:30:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Hande Kazanova'dan Eylül Ayı Finansal Astroloji Analizi!</description>
+    </item>
+    <item>
+      <title>Halk TV: AKP'NİN İÇİ FOKUR FOKUR! Gökçek'in çıkışı AKP'de o isimleri sıkıntıya mı sokacak? Hatipoğlu anlattı!</title>
+      <link>https://www.youtube.com/watch?v=-vpkXwIFhOA</link>
+      <guid isPermaLink="false">-vpkXwIFhOA</guid>
+      <pubDate>Sun, 06 Sep 2026 14:30:01 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: AKP'NİN İÇİ FOKUR FOKUR! Gökçek'in çıkışı AKP'de o isimleri sıkıntıya mı sokacak? Hatipoğlu anlattı!</description>
+    </item>
     <item>
       <title>Halk TV: ÖZGÜR ÖZEL KAHKAHALARA BOĞULDU! Edirne'de yanına gelen teyzenin söyledikleri resmen kırdı geçirdi!</title>
       <link>https://www.youtube.com/watch?v=1LGfK50led0</link>
@@ -225,13 +246,6 @@
       <description>Halk TV kanalından yeni video: İstanbul İl Başkanı Özgür Çelik, YENİ Parti Sarıyer İlçe Başkanlığı açılışında konuştu!</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: Gülinay Selçuk İle Haber Bülteni | 6 Eylül</title>
-      <link>https://www.youtube.com/watch?v=naplVDuy2Hg</link>
-      <guid isPermaLink="false">naplVDuy2Hg</guid>
-      <pubDate>Sun, 06 Sep 2026 11:06:09 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Gülinay Selçuk İle Haber Bülteni | 6 Eylül</description>
-    </item>
-    <item>
       <title>Cumhuriyet: Mersinliler geçim sıkıntılarını anlattı: "Soğan alamıyoruz, soğan. Emekli aç"</title>
       <link>https://www.youtube.com/shorts/LwFxOeBctdY</link>
       <guid isPermaLink="false">LwFxOeBctdY</guid>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">m5I68VPoMQc</guid>
       <pubDate>Sun, 06 Sep 2026 10:08:26 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Özel'e 7'den 70'e sevgi seli!</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel'in Edirne ve Kırklareli'ndeki halka buluşmaları renkli diyaloglara da sahne oldu!</title>
-      <link>https://www.youtube.com/shorts/zdGFUz6kCKc</link>
-      <guid isPermaLink="false">zdGFUz6kCKc</guid>
-      <pubDate>Sun, 06 Sep 2026 10:07:58 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel'in Edirne ve Kırklareli'ndeki halka buluşmaları renkli diyaloglara da sahne oldu!</description>
-    </item>
-    <item>
-      <title>Halk TV: İYİ Parti Lideri Dervişoğlu, Özgür Özel'in dil sürçmesine ilişkin dikkat çeken ifadeler kullandı!</title>
-      <link>https://www.youtube.com/shorts/pu7Hqlnuryc</link>
-      <guid isPermaLink="false">pu7Hqlnuryc</guid>
-      <pubDate>Sun, 06 Sep 2026 10:07:39 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İYİ Parti Lideri Dervişoğlu, Özgür Özel'in dil sürçmesine ilişkin dikkat çeken ifadeler kullandı!</description>
     </item>
   </channel>
 </rss>
