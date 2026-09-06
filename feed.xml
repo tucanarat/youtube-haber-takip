@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 19:40:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 19:45:31 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Timur Soykan'dan Olay Mehmet Şimşek Kulisi! İktidar İçinde Büyük Kriz! Erdoğan Çıkışı</title>
+      <link>https://www.youtube.com/watch?v=DCu652hH5Sw</link>
+      <guid isPermaLink="false">DCu652hH5Sw</guid>
+      <pubDate>Sun, 06 Sep 2026 19:40:03 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Timur Soykan'dan Olay Mehmet Şimşek Kulisi! İktidar İçinde Büyük Kriz! Erdoğan Çıkışı</description>
+    </item>
     <item>
       <title>Halk TV: Evinde ölü bulunan oyuncu Serhat Mustafa Kılıç’ın son görüntüleri güvenlik kamerasında</title>
       <link>https://www.youtube.com/shorts/z0TyQ45UoHo</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">oDg0XW2MKa8</guid>
       <pubDate>Sun, 06 Sep 2026 13:45:16 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özlem Şanver'e yönelik şiddet görüntüsü çıkan Berhan Şimşek'in emniyet ifadesine ulaşıldı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Altın ve Gümüş Yatırımcısı Dikkat! FED Faiz İndirirse Ne Olur? Uzman İsimden Kritik Uyarılar!</title>
-      <link>https://www.youtube.com/watch?v=3hvedzcs_hM</link>
-      <guid isPermaLink="false">3hvedzcs_hM</guid>
-      <pubDate>Sun, 06 Sep 2026 13:30:28 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Altın ve Gümüş Yatırımcısı Dikkat! FED Faiz İndirirse Ne Olur? Uzman İsimden Kritik Uyarılar!</description>
     </item>
   </channel>
 </rss>
