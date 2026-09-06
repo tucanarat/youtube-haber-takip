@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 22:45:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 22:50:31 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: İktidar İçinde Büyük Tasfiye! Türkiye'nin Acı Hukuk Karnesi! Mustafa Balbay'dan Çarpıcı Sözler</title>
+      <link>https://www.youtube.com/watch?v=NTW9MGEq1wg</link>
+      <guid isPermaLink="false">NTW9MGEq1wg</guid>
+      <pubDate>Sun, 06 Sep 2026 22:40:01 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İktidar İçinde Büyük Tasfiye! Türkiye'nin Acı Hukuk Karnesi! Mustafa Balbay'dan Çarpıcı Sözler</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: AKP'li İsimler İBB Otelinde İddiası! Afşin Hatipoğlu Canlı Yayında İfşa Etti! Medyada Sansür</title>
       <link>https://www.youtube.com/watch?v=4JkKEkYZZWo</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">I_GETMoXb5o</guid>
       <pubDate>Sun, 06 Sep 2026 16:30:34 +0000</pubDate>
       <description>Halk TV kanalından yeni video: "ÖZGÜRÜMÜ ÇOK SEVİYORUM, PARAM OLSA DAHA ÇOK VERECEĞİM" Yaşlı teyze o sözleri güne damga vurdu!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: 'Sandıktan Çıkamayanlar Operasyonla Koltuk Peşinde' Ekrem Açıkel Seçimin Tüm Gerçeklerini Anlattı</title>
-      <link>https://www.youtube.com/watch?v=jnZIUHFQlfc</link>
-      <guid isPermaLink="false">jnZIUHFQlfc</guid>
-      <pubDate>Sun, 06 Sep 2026 16:20:16 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: 'Sandıktan Çıkamayanlar Operasyonla Koltuk Peşinde' Ekrem Açıkel Seçimin Tüm Gerçeklerini Anlattı</description>
     </item>
   </channel>
 </rss>
