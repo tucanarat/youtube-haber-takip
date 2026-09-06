@@ -6,20 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 20:30:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 20:35:26 +0000</lastBuildDate>
     <item>
-      <title>SÖZCÜ TV: Afşin Hatipoğlu Açtı Ağzını Yumdu Gözünü! Gündemi Olacak Melih Gökçek ve İmamoğlu Çıkışı</title>
+      <title>Halk TV: Pervin Buldan, Demokratik Cumhuriyet Hareketi adı altında yeni bir yapılanmaya gidileceğini açıkladı</title>
+      <link>https://www.youtube.com/shorts/gsSrLFwTrsQ</link>
+      <guid isPermaLink="false">gsSrLFwTrsQ</guid>
+      <pubDate>Sun, 06 Sep 2026 20:30:24 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Pervin Buldan, Demokratik Cumhuriyet Hareketi adı altında yeni bir yapılanmaya gidileceğini açıkladı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Afşin Hatipoğlu Açtı Ağzını Yumdu Gözünü! Gündem Olacak Melih Gökçek ve İmamoğlu Çıkışı</title>
       <link>https://www.youtube.com/watch?v=O6F4Gke0Zb0</link>
       <guid isPermaLink="false">O6F4Gke0Zb0</guid>
       <pubDate>Sun, 06 Sep 2026 20:20:35 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Afşin Hatipoğlu Açtı Ağzını Yumdu Gözünü! Gündemi Olacak Melih Gökçek ve İmamoğlu Çıkışı</description>
+      <description>SÖZCÜ TV kanalından yeni video: Afşin Hatipoğlu Açtı Ağzını Yumdu Gözünü! Gündem Olacak Melih Gökçek ve İmamoğlu Çıkışı</description>
     </item>
     <item>
-      <title>Halk TV: FATİH ALTAYLI'DAN GÖKÇEK İLE İLGİLİ KULİS HABERİ! İşte o açıklama! "Toplum elinize sağlık diyecek."</title>
+      <title>Halk TV: FATİH ALTAYLI’DAN BOMBA MELİH GÖKÇEK KULİSİ! İşte o açıklama! "Toplum elinize sağlık diyecek."</title>
       <link>https://www.youtube.com/watch?v=jeU37myLR14</link>
       <guid isPermaLink="false">jeU37myLR14</guid>
       <pubDate>Sun, 06 Sep 2026 20:15:09 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: FATİH ALTAYLI'DAN GÖKÇEK İLE İLGİLİ KULİS HABERİ! İşte o açıklama! "Toplum elinize sağlık diyecek."</description>
+      <description>Halk TV kanalından yeni video: FATİH ALTAYLI’DAN BOMBA MELİH GÖKÇEK KULİSİ! İşte o açıklama! "Toplum elinize sağlık diyecek."</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Yeniden Refah Genel Başkanı Fatih Erbakan, il başkanları toplantısı öncesi açıklama yapıyor #Canlı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">M9eFFQ76wr0</guid>
       <pubDate>Sun, 06 Sep 2026 14:30:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Hande Kazanova'dan Eylül Ayı Finansal Astroloji Analizi!</description>
-    </item>
-    <item>
-      <title>Halk TV: AKP'NİN İÇİ FOKUR FOKUR! Gökçek'in çıkışı AKP'de o isimleri sıkıntıya mı sokacak? Hatipoğlu anlattı!</title>
-      <link>https://www.youtube.com/watch?v=-vpkXwIFhOA</link>
-      <guid isPermaLink="false">-vpkXwIFhOA</guid>
-      <pubDate>Sun, 06 Sep 2026 14:30:01 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: AKP'NİN İÇİ FOKUR FOKUR! Gökçek'in çıkışı AKP'de o isimleri sıkıntıya mı sokacak? Hatipoğlu anlattı!</description>
     </item>
   </channel>
 </rss>
