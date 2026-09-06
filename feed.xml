@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 20:15:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 20:20:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: FATİH ALTAYLI'DAN GÖKÇEK İLE İLGİLİ KULİS HABERİ! İşte o açıklama! "Toplum elinize sağlık diyecek."</title>
+      <link>https://www.youtube.com/watch?v=jeU37myLR14</link>
+      <guid isPermaLink="false">jeU37myLR14</guid>
+      <pubDate>Sun, 06 Sep 2026 20:15:09 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: FATİH ALTAYLI'DAN GÖKÇEK İLE İLGİLİ KULİS HABERİ! İşte o açıklama! "Toplum elinize sağlık diyecek."</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Yeniden Refah Genel Başkanı Fatih Erbakan, il başkanları toplantısı öncesi açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=oXKyqCqfRFI</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">1LGfK50led0</guid>
       <pubDate>Sun, 06 Sep 2026 14:15:17 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ÖZGÜR ÖZEL KAHKAHALARA BOĞULDU! Edirne'de yanına gelen teyzenin söyledikleri resmen kırdı geçirdi!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: YENİ Parti Beyoğlu İlçe Başkanlığı açılış töreni yapılıyor /  İstanbul #Canlı</title>
-      <link>https://www.youtube.com/watch?v=6UtGEkcv39M</link>
-      <guid isPermaLink="false">6UtGEkcv39M</guid>
-      <pubDate>Sun, 06 Sep 2026 14:11:01 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Beyoğlu İlçe Başkanlığı açılış töreni yapılıyor /  İstanbul #Canlı</description>
     </item>
   </channel>
 </rss>
