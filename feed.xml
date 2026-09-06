@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 15:35:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 15:40:28 +0000</lastBuildDate>
     <item>
       <title>Halk TV: DEHŞET OLAY! 80 kişi hayatını kaybetti: O ülkede “cinsel organ hırsızlığı” başladı!</title>
       <link>https://www.youtube.com/watch?v=ThWAxbXQfqU</link>
       <guid isPermaLink="false">ThWAxbXQfqU</guid>
       <pubDate>Sun, 06 Sep 2026 15:30:02 +0000</pubDate>
       <description>Halk TV kanalından yeni video: DEHŞET OLAY! 80 kişi hayatını kaybetti: O ülkede “cinsel organ hırsızlığı” başladı!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: OVP'de Asgari Ücretliye Kurulan Tuzak! 'Bizi Oyalıyorlar!' Uzman İsim Kötü Senaryoyu Açıkladı!</title>
+      <link>https://www.youtube.com/watch?v=UYVaTA7m9dc</link>
+      <guid isPermaLink="false">UYVaTA7m9dc</guid>
+      <pubDate>Sun, 06 Sep 2026 15:20:38 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: OVP'de Asgari Ücretliye Kurulan Tuzak! 'Bizi Oyalıyorlar!' Uzman İsim Kötü Senaryoyu Açıkladı!</description>
     </item>
     <item>
       <title>Halk TV: BÖYLE COŞKU GÖRÜLMEDİ! Edirneliler Özgür Özel için sokaklara sel oldu aktı! İzdihamdan zor yürüdü!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">vvFEyAD3jBE</guid>
       <pubDate>Sun, 06 Sep 2026 10:30:32 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Erman Toroğlu'ndan Bomba Derbi Yorumu! İsmail Kartal'a Tepki! | Beşiktaş, Fenerbahçe, Aziz Yıldırım</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "Kavgalar, Rezillikler; Enteresan Bir İktidar Modeli!" Hüsnü Mahalli'den Çarpıcı AKP Analizi!</title>
-      <link>https://www.youtube.com/watch?v=S4YuHrSXb78</link>
-      <guid isPermaLink="false">S4YuHrSXb78</guid>
-      <pubDate>Sun, 06 Sep 2026 10:30:24 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "Kavgalar, Rezillikler; Enteresan Bir İktidar Modeli!" Hüsnü Mahalli'den Çarpıcı AKP Analizi!</description>
     </item>
   </channel>
 </rss>
