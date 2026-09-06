@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 12:58:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 13:00:47 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Gülşah Ekinci ile Öğle Haberleri (6 Eylül 2026)</title>
+      <link>https://www.youtube.com/watch?v=q-CvYej1KQ8</link>
+      <guid isPermaLink="false">q-CvYej1KQ8</guid>
+      <pubDate>Sun, 06 Sep 2026 12:58:54 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Gülşah Ekinci ile Öğle Haberleri (6 Eylül 2026)</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Işın Eliçin ile Sınırsız</title>
       <link>https://www.youtube.com/watch?v=wBcWyOH0c-w</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">szMJY1pXK0I</guid>
       <pubDate>Sun, 06 Sep 2026 10:03:58 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Tekzip itiraftır - Özdemir İnce</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Bir ‘kırmızı perşembe’ olayı üzerine - Orhan Bursalı</title>
-      <link>https://www.youtube.com/watch?v=_DMJC2jSdKo</link>
-      <guid isPermaLink="false">_DMJC2jSdKo</guid>
-      <pubDate>Sun, 06 Sep 2026 10:02:48 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Bir ‘kırmızı perşembe’ olayı üzerine - Orhan Bursalı</description>
     </item>
   </channel>
 </rss>
