@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 11:20:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 11:25:22 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | CHP Genel Başkan Yardımcısı Necdet Saraç, Kadıköy İlçe Başkanlığı'nda Açıklama Yapıyor</title>
+      <link>https://www.youtube.com/watch?v=YBJlxHiyEVo</link>
+      <guid isPermaLink="false">YBJlxHiyEVo</guid>
+      <pubDate>Sun, 06 Sep 2026 11:21:18 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | CHP Genel Başkan Yardımcısı Necdet Saraç, Kadıköy İlçe Başkanlığı'nda Açıklama Yapıyor</description>
+    </item>
     <item>
       <title>Halk TV: "O ÖLDÜRDÜ, CESEDİ BAGAJA TAŞIDIK!" Gülistan Doku cinayetinde bomba itiraflar! Her şey açığa çıktı!</title>
       <link>https://www.youtube.com/watch?v=M6kKnVMVFZc</link>
@@ -71,11 +78,11 @@
       <description>SÖZCÜ TV kanalından yeni video: DR. AYŞEGÜL ÇORUHLU İLE LONGEVITY: Şekerin Vücuttaki Yıkımını Geri Çevirmenin Yolları</description>
     </item>
     <item>
-      <title>ANKA Haber Ajansı: CHP İstanbul İl Başkanı Gürsel Tekin, CHP Kadıköy İlçe Başkanlığı'nda açıklama yapıyor #Canlı</title>
+      <title>ANKA Haber Ajansı: CHP Genel Başkan Yardımcısı Necdet Saraç, CHP Kadıköy İlçe Başkanlığı'nda açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=8uvOppjPURI</link>
       <guid isPermaLink="false">8uvOppjPURI</guid>
       <pubDate>Sun, 06 Sep 2026 10:55:02 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP İstanbul İl Başkanı Gürsel Tekin, CHP Kadıköy İlçe Başkanlığı'nda açıklama yapıyor #Canlı</description>
+      <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkan Yardımcısı Necdet Saraç, CHP Kadıköy İlçe Başkanlığı'nda açıklama yapıyor #Canlı</description>
     </item>
     <item>
       <title>Halk TV: En az 4 cinayeti var: Fethi Dağlı ve ağabeyi Yaşar Dağlı tutuklandı! Ortaya çıkan bilgilerse sarsıcı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Lgo-jnDaQTQ</guid>
       <pubDate>Sun, 06 Sep 2026 08:30:26 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Süleymancılar Dosyasında Sır Perdesi Aralandı! Ahmet Denizolgun'un Ölümünde Gizemli Telefon Trafiği!</description>
-    </item>
-    <item>
-      <title>Halk TV: Kanser tedavisi gören DEM Partili Ağrı Belediyesi Eş Başkanı Mehmet Akkuş yaşamını yitirdi!</title>
-      <link>https://www.youtube.com/watch?v=FDdfdeay0is</link>
-      <guid isPermaLink="false">FDdfdeay0is</guid>
-      <pubDate>Sun, 06 Sep 2026 08:30:09 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Kanser tedavisi gören DEM Partili Ağrı Belediyesi Eş Başkanı Mehmet Akkuş yaşamını yitirdi!</description>
     </item>
   </channel>
 </rss>
