@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 22:10:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 22:15:33 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Cevdet Yılmaz, 2027-2029 dönemini kapsayan Orta Vadeli Program'ı açıklıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=ZNF1NNI17Go</link>
+      <guid isPermaLink="false">ZNF1NNI17Go</guid>
+      <pubDate>Sun, 06 Sep 2026 22:14:19 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Cevdet Yılmaz, 2027-2029 dönemini kapsayan Orta Vadeli Program'ı açıklıyor #Canlı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Timur Soykan Sinirlendi! "Gözünü Cezaevinde Açarsın" Erdoğan'ın Seçim Planını Tek Tek Anlattı</title>
       <link>https://www.youtube.com/watch?v=82LVKbcH2LY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">h4ZH-ZhKUC0</guid>
       <pubDate>Sun, 06 Sep 2026 16:00:19 +0000</pubDate>
       <description>Halk TV kanalından yeni video: "Kontrolden çıkmaması önemli" Mehmet Şimşek, bir dizi parametrede hedefi tutturamadıklarını söyledi!</description>
-    </item>
-    <item>
-      <title>Halk TV: Kent merkezinde başlayan gök gürültülü sağanak yerini doluya bıraktı, yayalar ve sürücüler zorlandı.</title>
-      <link>https://www.youtube.com/shorts/zKdZmCFHr34</link>
-      <guid isPermaLink="false">zKdZmCFHr34</guid>
-      <pubDate>Sun, 06 Sep 2026 16:00:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Kent merkezinde başlayan gök gürültülü sağanak yerini doluya bıraktı, yayalar ve sürücüler zorlandı.</description>
     </item>
   </channel>
 </rss>
