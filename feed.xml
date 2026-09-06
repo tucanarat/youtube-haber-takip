@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 07:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 07:05:24 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Tuğberk İmamoğlu Gemisi Bulundu! 720 Metre Derinlikteki Enkazdan İlk Görüntüler!</title>
+      <link>https://www.youtube.com/watch?v=scvZVkKI_9w</link>
+      <guid isPermaLink="false">scvZVkKI_9w</guid>
+      <pubDate>Sun, 06 Sep 2026 07:00:35 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Tuğberk İmamoğlu Gemisi Bulundu! 720 Metre Derinlikteki Enkazdan İlk Görüntüler!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Ceylin Çağatay İle Sabah Kahvesi | 6 Eylül</title>
       <link>https://www.youtube.com/watch?v=okVFu49EPUY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Kn72qFm3kdc</guid>
       <pubDate>Sat, 05 Sep 2026 17:50:01 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: TRUMP'TAN KAN DONDURAN SÖZLER! ABD Türk Bankasını Kara Listeye Aldı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: "Diller Lal Olmuş!" Türkiye Berhan Şimşek'i Konuşuyor! Ekrem Açıkel'den CHP'ye Olay Gönderme</title>
-      <link>https://www.youtube.com/watch?v=tUcNQ1oS-DU</link>
-      <guid isPermaLink="false">tUcNQ1oS-DU</guid>
-      <pubDate>Sat, 05 Sep 2026 17:30:13 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: "Diller Lal Olmuş!" Türkiye Berhan Şimşek'i Konuşuyor! Ekrem Açıkel'den CHP'ye Olay Gönderme</description>
     </item>
   </channel>
 </rss>
