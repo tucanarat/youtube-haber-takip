@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 14:10:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 14:15:29 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: YENİ Parti Beyoğlu İlçe Başkanlığı açılış töreni yapılıyor /  İstanbul #Canlı</title>
+      <link>https://www.youtube.com/watch?v=6UtGEkcv39M</link>
+      <guid isPermaLink="false">6UtGEkcv39M</guid>
+      <pubDate>Sun, 06 Sep 2026 14:11:01 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Beyoğlu İlçe Başkanlığı açılış töreni yapılıyor /  İstanbul #Canlı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: KÖRFEZ'DE SICAK ÇATIŞMA! CENTCOM'dan İran'a Ağır Darbe! ABD Vurdu Arda Arda Vurdu!</title>
+      <link>https://www.youtube.com/watch?v=UnW_zQbHOmk</link>
+      <guid isPermaLink="false">UnW_zQbHOmk</guid>
+      <pubDate>Sun, 06 Sep 2026 14:00:30 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: KÖRFEZ'DE SICAK ÇATIŞMA! CENTCOM'dan İran'a Ağır Darbe! ABD Vurdu Arda Arda Vurdu!</description>
+    </item>
     <item>
       <title>Halk TV: AFŞİN HATİPOĞLU BOMBAYI PATLATTI! Erdoğan'ın İBB'ye 'çökme' planını anlattı! O isim düşünülüyormuş!</title>
       <link>https://www.youtube.com/watch?v=6XVdI1F4gqU</link>
@@ -41,13 +55,6 @@
       <guid isPermaLink="false">FAv9TrrHy44</guid>
       <pubDate>Sun, 06 Sep 2026 13:30:08 +0000</pubDate>
       <description>Halk TV kanalından yeni video: CANLI YAYINDA ESTİ GÜRLEDİ! İmamoğlu'nun kitabı yasaklandı, Afşin Hatipoğlu demediğini bırakmadı!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: YENİ Parti Beyoğlu İlçe Başkanlığı açılış töreni yapılıyor /  İstanbul #Canlı</title>
-      <link>https://www.youtube.com/watch?v=6UtGEkcv39M</link>
-      <guid isPermaLink="false">6UtGEkcv39M</guid>
-      <pubDate>Sun, 06 Sep 2026 13:24:52 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Beyoğlu İlçe Başkanlığı açılış töreni yapılıyor /  İstanbul #Canlı</description>
     </item>
     <item>
       <title>Halk TV: CENAZE PROGRAMI BELLİ OLDU! Ünlü oyuncu Serhat Kılıç'ın cenazesi Adli Tıp Kurumu'ndan teslim alındı!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">vPfLdPUc2zQ</guid>
       <pubDate>Sun, 06 Sep 2026 10:07:22 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Diyarbakır Büyükşehir Belediyesi eski Başkanı Mızraklı, kayyumun odasını böyle kayda almıştı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Üsküdar Belediyesi Başkan Vekilliği seçimi öncesi gözaltına alınan Amine Cansu Çelik tutuklandı!</title>
-      <link>https://www.youtube.com/shorts/R0R49uTdbjM</link>
-      <guid isPermaLink="false">R0R49uTdbjM</guid>
-      <pubDate>Sun, 06 Sep 2026 10:07:01 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Üsküdar Belediyesi Başkan Vekilliği seçimi öncesi gözaltına alınan Amine Cansu Çelik tutuklandı!</description>
     </item>
   </channel>
 </rss>
