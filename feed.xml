@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 14:45:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 14:50:29 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: BU SEVGİNİN SINIRI YOK! Özgür Özel Edirne'de büyük coşku yarattı! Yaşlı teyze öpmelere doyamadı!</title>
+      <link>https://www.youtube.com/watch?v=lHhrc6F6VgY</link>
+      <guid isPermaLink="false">lHhrc6F6VgY</guid>
+      <pubDate>Sun, 06 Sep 2026 14:45:19 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BU SEVGİNİN SINIRI YOK! Özgür Özel Edirne'de büyük coşku yarattı! Yaşlı teyze öpmelere doyamadı!</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Sinem Fıstıkoğlu ile Hafta Sonu Ana Haber</title>
+      <link>https://www.youtube.com/watch?v=2yRBd20ScHY</link>
+      <guid isPermaLink="false">2yRBd20ScHY</guid>
+      <pubDate>Sun, 06 Sep 2026 14:37:57 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Sinem Fıstıkoğlu ile Hafta Sonu Ana Haber</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Gülinay Selçuk İle Haber Bülteni | 6 Eylül</title>
       <link>https://www.youtube.com/watch?v=naplVDuy2Hg</link>
@@ -106,11 +120,11 @@
       <description>Halk TV kanalından yeni video: Gülşah Ekinci ile Öğle Haberleri (6 Eylül 2026)</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | Işın Eliçin ile Sınırsız</title>
+      <title>Halk TV: Işın Eliçin ile Sınırsız (6 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=wBcWyOH0c-w</link>
       <guid isPermaLink="false">wBcWyOH0c-w</guid>
       <pubDate>Sun, 06 Sep 2026 12:52:48 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Işın Eliçin ile Sınırsız</description>
+      <description>Halk TV kanalından yeni video: Işın Eliçin ile Sınırsız (6 Eylül 2026)</description>
     </item>
     <item>
       <title>Halk TV: DEM Parti'de Tuncer Bakırhan ve Tülay Hatimoğulları yeniden Eş Genel Başkan seçildi</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">ot7UA1PNOiM</guid>
       <pubDate>Sun, 06 Sep 2026 10:09:05 +0000</pubDate>
       <description>Halk TV kanalından yeni video: DEVA Partili Zeynep Sudan, bir üniversite öğrencisinin günlük yapacağı harcamayı kalem kalem çıkardı</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel'in Edirne ve Kırklareli halk buluşmalarından renkli anlar!</title>
-      <link>https://www.youtube.com/shorts/4P4LA7VHQb4</link>
-      <guid isPermaLink="false">4P4LA7VHQb4</guid>
-      <pubDate>Sun, 06 Sep 2026 10:08:46 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel'in Edirne ve Kırklareli halk buluşmalarından renkli anlar!</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel'e 7'den 70'e sevgi seli!</title>
-      <link>https://www.youtube.com/shorts/m5I68VPoMQc</link>
-      <guid isPermaLink="false">m5I68VPoMQc</guid>
-      <pubDate>Sun, 06 Sep 2026 10:08:26 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel'e 7'den 70'e sevgi seli!</description>
     </item>
   </channel>
 </rss>
