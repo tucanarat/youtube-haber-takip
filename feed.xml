@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 10:45:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 10:50:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Burhanettin Bulut: Milletin destek verdiği bileği kimse bükemez!</title>
+      <link>https://www.youtube.com/shorts/n5AVRgwfY-E</link>
+      <guid isPermaLink="false">n5AVRgwfY-E</guid>
+      <pubDate>Sun, 06 Sep 2026 10:33:04 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Burhanettin Bulut: Milletin destek verdiği bileği kimse bükemez!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Erman Toroğlu'ndan Bomba Derbi Yorumu! İsmail Kartal'a Tepki! | Beşiktaş, Fenerbahçe, Aziz Yıldırım</title>
       <link>https://www.youtube.com/watch?v=vvFEyAD3jBE</link>
@@ -20,6 +27,13 @@
       <guid isPermaLink="false">S4YuHrSXb78</guid>
       <pubDate>Sun, 06 Sep 2026 10:30:24 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "Kavgalar, Rezillikler; Enteresan Bir İktidar Modeli!" Hüsnü Mahalli'den Çarpıcı AKP Analizi!</description>
+    </item>
+    <item>
+      <title>Halk TV: TRUMP ORTALIĞI KARIŞTIRACAK! 'İran'a yaptırımları delmek' suçlamasıyla Türk iş insanını işaret etti!</title>
+      <link>https://www.youtube.com/watch?v=5VGAkb_9yvE</link>
+      <guid isPermaLink="false">5VGAkb_9yvE</guid>
+      <pubDate>Sun, 06 Sep 2026 10:30:13 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: TRUMP ORTALIĞI KARIŞTIRACAK! 'İran'a yaptırımları delmek' suçlamasıyla Türk iş insanını işaret etti!</description>
     </item>
     <item>
       <title>Halk TV: Yürütülen soruşturmada şarkıcı Tuğba Ekinci ile birlikte 'Timsah Celil'i oynayan isim de tutuklandı!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">U-t32QNnLdA</guid>
       <pubDate>Sun, 06 Sep 2026 07:24:53 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ERDOĞAN'IN BU KARARI GÜNDEMİ SARSTI! Yurttaşın vergileriyle yapılan köprü ve otoyollar elden gidiyor</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Tuğberk İmamoğlu Gemisi Bulundu! 720 Metre Derinlikteki Enkazdan İlk Görüntüler!</title>
-      <link>https://www.youtube.com/watch?v=scvZVkKI_9w</link>
-      <guid isPermaLink="false">scvZVkKI_9w</guid>
-      <pubDate>Sun, 06 Sep 2026 07:00:35 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Tuğberk İmamoğlu Gemisi Bulundu! 720 Metre Derinlikteki Enkazdan İlk Görüntüler!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Ceylin Çağatay İle Sabah Kahvesi | 6 Eylül</title>
-      <link>https://www.youtube.com/watch?v=okVFu49EPUY</link>
-      <guid isPermaLink="false">okVFu49EPUY</guid>
-      <pubDate>Sun, 06 Sep 2026 06:59:05 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Ceylin Çağatay İle Sabah Kahvesi | 6 Eylül</description>
     </item>
   </channel>
 </rss>
