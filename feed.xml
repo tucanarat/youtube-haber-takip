@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 14:15:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 14:20:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ÖZGÜR ÖZEL KAHKAHALARA BOĞULDU! Edirne'de yanına gelen teyzenin söyledikleri resmen kırdı geçirdi!</title>
+      <link>https://www.youtube.com/watch?v=1LGfK50led0</link>
+      <guid isPermaLink="false">1LGfK50led0</guid>
+      <pubDate>Sun, 06 Sep 2026 14:15:17 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ÖZGÜR ÖZEL KAHKAHALARA BOĞULDU! Edirne'de yanına gelen teyzenin söyledikleri resmen kırdı geçirdi!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti Beyoğlu İlçe Başkanlığı açılış töreni yapılıyor /  İstanbul #Canlı</title>
       <link>https://www.youtube.com/watch?v=6UtGEkcv39M</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">pu7Hqlnuryc</guid>
       <pubDate>Sun, 06 Sep 2026 10:07:39 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İYİ Parti Lideri Dervişoğlu, Özgür Özel'in dil sürçmesine ilişkin dikkat çeken ifadeler kullandı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Diyarbakır Büyükşehir Belediyesi eski Başkanı Mızraklı, kayyumun odasını böyle kayda almıştı!</title>
-      <link>https://www.youtube.com/shorts/vPfLdPUc2zQ</link>
-      <guid isPermaLink="false">vPfLdPUc2zQ</guid>
-      <pubDate>Sun, 06 Sep 2026 10:07:22 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Diyarbakır Büyükşehir Belediyesi eski Başkanı Mızraklı, kayyumun odasını böyle kayda almıştı!</description>
     </item>
   </channel>
 </rss>
