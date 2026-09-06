@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 11:40:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 11:45:28 +0000</lastBuildDate>
     <item>
       <title>Halk TV: CHP Genel Başkan Yardımcısı Necdet Saraç, Kadıköy İlçe Başkanlığı'nda Açıklama Yaptı</title>
       <link>https://www.youtube.com/watch?v=YBJlxHiyEVo</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">2NprudiFWBs</guid>
       <pubDate>Sun, 06 Sep 2026 11:30:22 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Gülistan Doku Dosyasında Kritik İtiraf! "CİNAYETE TANIK OLDUM!" Umut Altaş'tan FBI'a Çarpıcı İfade!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: "Özgür Özel 'Seçim Yapılmaz" Algısını Kırıyor!" Hüsnü Mahalli'den Kritik Yorum!</title>
+      <link>https://www.youtube.com/watch?v=xg6bYd4DrBQ</link>
+      <guid isPermaLink="false">xg6bYd4DrBQ</guid>
+      <pubDate>Sun, 06 Sep 2026 11:30:20 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "Özgür Özel 'Seçim Yapılmaz" Algısını Kırıyor!" Hüsnü Mahalli'den Kritik Yorum!</description>
     </item>
     <item>
       <title>Halk TV: HABERİ ALAN SEVENLERİ EVİNE AKIN ETTİ! Türkiye, ünlü oyuncu Serhat Kılıç'ın ölümünü konuşuyor!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">_CFikYeAcII</guid>
       <pubDate>Sun, 06 Sep 2026 09:00:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Barış Terkoğlu’ndan Şok Detaylar: Cem Küçük Soruşturmasının Ucu Nereye Çıkıyor?</description>
-    </item>
-    <item>
-      <title>Halk TV: BAHÇELİ'YE ŞOK 'PROVOKATÖR' SÖZLERİ! Dervişoğlu'nun süreç çıkışı Ankara'da taşları yerinden oynatır!</title>
-      <link>https://www.youtube.com/watch?v=0flCiVzGIWI</link>
-      <guid isPermaLink="false">0flCiVzGIWI</guid>
-      <pubDate>Sun, 06 Sep 2026 08:52:20 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BAHÇELİ'YE ŞOK 'PROVOKATÖR' SÖZLERİ! Dervişoğlu'nun süreç çıkışı Ankara'da taşları yerinden oynatır!</description>
     </item>
   </channel>
 </rss>
