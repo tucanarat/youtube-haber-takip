@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 08:05:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 08:10:32 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Beşiktaş hakkıyla - Gülengül Altınsay</title>
+      <link>https://www.youtube.com/watch?v=iKXSEfmgCgA</link>
+      <guid isPermaLink="false">iKXSEfmgCgA</guid>
+      <pubDate>Sun, 06 Sep 2026 07:53:23 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Beşiktaş hakkıyla - Gülengül Altınsay</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Berhan Şimşek butlan CHP’sinin portresi - Nilgün Cerrahoğlu</title>
+      <link>https://www.youtube.com/watch?v=Rb5l5pdZY9g</link>
+      <guid isPermaLink="false">Rb5l5pdZY9g</guid>
+      <pubDate>Sun, 06 Sep 2026 07:53:20 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Berhan Şimşek butlan CHP’sinin portresi - Nilgün Cerrahoğlu</description>
+    </item>
     <item>
       <title>Halk TV: TÜRKİYE'DE SAKLI KALMIŞ BİR CENNET! Bursa'daki Gölyazı köyünün büyülü görüntüsü adeta mest edecek!</title>
       <link>https://www.youtube.com/watch?v=zZksptbiPug</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">YqdQdDfqm7o</guid>
       <pubDate>Sat, 05 Sep 2026 18:57:02 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SON DAKİKA! Üsküdar’da gözaltındaki 3 meclis üyesi için tutuklama istendi!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Burak Tatari ile Masada Ne Var?</title>
-      <link>https://www.youtube.com/watch?v=5ekyROawBVo</link>
-      <guid isPermaLink="false">5ekyROawBVo</guid>
-      <pubDate>Sat, 05 Sep 2026 18:55:34 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Burak Tatari ile Masada Ne Var?</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: BAHÇELİ'NİN YENİ ANAYASA PLANI İFŞA OLDU! Beştepe'de Hareketli Saatler! Gözler Erdoğan'da</title>
-      <link>https://www.youtube.com/watch?v=G8-d3wvwUmI</link>
-      <guid isPermaLink="false">G8-d3wvwUmI</guid>
-      <pubDate>Sat, 05 Sep 2026 18:50:11 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: BAHÇELİ'NİN YENİ ANAYASA PLANI İFŞA OLDU! Beştepe'de Hareketli Saatler! Gözler Erdoğan'da</description>
     </item>
   </channel>
 </rss>
