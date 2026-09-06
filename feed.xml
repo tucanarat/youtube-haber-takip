@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 16:07:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 16:10:29 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: "Kontrolden çıkmaması önemli" Mehmet Şimşek, bir dizi parametrede hedefi tutturamadıklarını söyledi!</title>
+      <link>https://www.youtube.com/watch?v=h4ZH-ZhKUC0</link>
+      <guid isPermaLink="false">h4ZH-ZhKUC0</guid>
+      <pubDate>Sun, 06 Sep 2026 16:00:19 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: "Kontrolden çıkmaması önemli" Mehmet Şimşek, bir dizi parametrede hedefi tutturamadıklarını söyledi!</description>
+    </item>
+    <item>
+      <title>Halk TV: Kent merkezinde başlayan gök gürültülü sağanak yerini doluya bıraktı, yayalar ve sürücüler zorlandı.</title>
+      <link>https://www.youtube.com/shorts/zKdZmCFHr34</link>
+      <guid isPermaLink="false">zKdZmCFHr34</guid>
+      <pubDate>Sun, 06 Sep 2026 16:00:06 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Kent merkezinde başlayan gök gürültülü sağanak yerini doluya bıraktı, yayalar ve sürücüler zorlandı.</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Müsavat Dervişoğlu'ndan Özgür Özel'e Süreç Eleştirisi! "Hayırla Övünüyorsan Neden Evet Dedin?"</title>
       <link>https://www.youtube.com/watch?v=AyMxn-N18vo</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">JwP15SjyN_8</guid>
       <pubDate>Sun, 06 Sep 2026 11:00:08 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BU DİYALOG GÜNDEME DAMGA VURDU! Özgür Özel'in yaşlı teyzeye verdiği 'iktidar' mesajı çok konuşulur!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: DR. AYŞEGÜL ÇORUHLU İLE LONGEVITY: Şekerin Vücuttaki Yıkımını Geri Çevirmenin Yolları</title>
-      <link>https://www.youtube.com/watch?v=yNiwIUL-K8I</link>
-      <guid isPermaLink="false">yNiwIUL-K8I</guid>
-      <pubDate>Sun, 06 Sep 2026 11:00:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: DR. AYŞEGÜL ÇORUHLU İLE LONGEVITY: Şekerin Vücuttaki Yıkımını Geri Çevirmenin Yolları</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: CHP Genel Başkan Yardımcısı Necdet Saraç, CHP Kadıköy İlçe Başkanlığı'nda açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=8uvOppjPURI</link>
-      <guid isPermaLink="false">8uvOppjPURI</guid>
-      <pubDate>Sun, 06 Sep 2026 10:55:02 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkan Yardımcısı Necdet Saraç, CHP Kadıköy İlçe Başkanlığı'nda açıklama yapıyor #Canlı</description>
     </item>
   </channel>
 </rss>
