@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 21:00:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 21:05:23 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Üsküdar'da Gündem Olacak Şantaj İddiası! Suat Özçağdaş Parti Değiştirenlere Esti Gürledi</title>
+      <link>https://www.youtube.com/watch?v=FsVUCNmPZys</link>
+      <guid isPermaLink="false">FsVUCNmPZys</guid>
+      <pubDate>Sun, 06 Sep 2026 21:00:12 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Üsküdar'da Gündem Olacak Şantaj İddiası! Suat Özçağdaş Parti Değiştirenlere Esti Gürledi</description>
+    </item>
     <item>
       <title>Halk TV: KKTC, Cumhuriyetçi Türk Partisi (CTP) Genel Başkanı Sıla Usar İncirli konuştu</title>
       <link>https://www.youtube.com/shorts/rPiVC1Dj_ek</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">wBcWyOH0c-w</guid>
       <pubDate>Sun, 06 Sep 2026 14:58:00 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Işın Eliçin ile Sınırsız (6 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: BU SEVGİNİN SINIRI YOK! Özgür Özel Edirne'de büyük coşku yarattı! Yaşlı teyze öpmelere doyamadı!</title>
-      <link>https://www.youtube.com/watch?v=lHhrc6F6VgY</link>
-      <guid isPermaLink="false">lHhrc6F6VgY</guid>
-      <pubDate>Sun, 06 Sep 2026 14:45:19 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BU SEVGİNİN SINIRI YOK! Özgür Özel Edirne'de büyük coşku yarattı! Yaşlı teyze öpmelere doyamadı!</description>
     </item>
   </channel>
 </rss>
