@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 07:30:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 07:35:28 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: Cevdet Yılmaz, 2027-2029 dönemini kapsayan Orta Vadeli Program'ı açıklıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=ZNF1NNI17Go</link>
       <guid isPermaLink="false">ZNF1NNI17Go</guid>
       <pubDate>Sun, 06 Sep 2026 07:29:55 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Cevdet Yılmaz, 2027-2029 dönemini kapsayan Orta Vadeli Program'ı açıklıyor #Canlı</description>
+    </item>
+    <item>
+      <title>Halk TV: ERDOĞAN'IN BU KARARI GÜNDEMİ SARSTI! Yurttaşın vergileriyle yapılan köprü ve otoyollar elden gidiyor</title>
+      <link>https://www.youtube.com/watch?v=U-t32QNnLdA</link>
+      <guid isPermaLink="false">U-t32QNnLdA</guid>
+      <pubDate>Sun, 06 Sep 2026 07:24:53 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ERDOĞAN'IN BU KARARI GÜNDEMİ SARSTI! Yurttaşın vergileriyle yapılan köprü ve otoyollar elden gidiyor</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Tuğberk İmamoğlu Gemisi Bulundu! 720 Metre Derinlikteki Enkazdan İlk Görüntüler!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">eUAdoHS4bpg</guid>
       <pubDate>Sat, 05 Sep 2026 18:10:02 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: MELİH GÖKÇEK KÖŞEYE Mİ SIKIŞTI? Eski AKP'li İsimden Bülent Arınç'a Şok Çağrı</description>
-    </item>
-    <item>
-      <title>Halk TV: ERDOĞAN’DAN BEKLENEN İMZA GELDİ! Köprü ve otoyollar özelleştirilecek!</title>
-      <link>https://www.youtube.com/watch?v=Xdr4YefWDoI</link>
-      <guid isPermaLink="false">Xdr4YefWDoI</guid>
-      <pubDate>Sat, 05 Sep 2026 17:50:05 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ERDOĞAN’DAN BEKLENEN İMZA GELDİ! Köprü ve otoyollar özelleştirilecek!</description>
     </item>
   </channel>
 </rss>
