@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 13:30:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 13:35:27 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: CANLI YAYINDA ESTİ GÜRLEDİ! İmamoğlu'nun kitabı yasaklandı, Afşin Hatipoğlu demediğini bırakmadı!</title>
+      <link>https://www.youtube.com/watch?v=FAv9TrrHy44</link>
+      <guid isPermaLink="false">FAv9TrrHy44</guid>
+      <pubDate>Sun, 06 Sep 2026 13:30:08 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: CANLI YAYINDA ESTİ GÜRLEDİ! İmamoğlu'nun kitabı yasaklandı, Afşin Hatipoğlu demediğini bırakmadı!</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | YENİ Parti Beyoğlu İlçe Başkanlığı Açılış Töreni</title>
       <link>https://www.youtube.com/watch?v=gfeD-X2ofHI</link>
       <guid isPermaLink="false">gfeD-X2ofHI</guid>
       <pubDate>Sun, 06 Sep 2026 13:25:02 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti Beyoğlu İlçe Başkanlığı Açılış Töreni</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: YENİ Parti Beyoğlu İlçe Başkanlığı açılış töreni yapılıyor /  İstanbul #Canlı</title>
+      <link>https://www.youtube.com/watch?v=6UtGEkcv39M</link>
+      <guid isPermaLink="false">6UtGEkcv39M</guid>
+      <pubDate>Sun, 06 Sep 2026 13:24:52 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Beyoğlu İlçe Başkanlığı açılış töreni yapılıyor /  İstanbul #Canlı</description>
     </item>
     <item>
       <title>Halk TV: CENAZE PROGRAMI BELLİ OLDU! Ünlü oyuncu Serhat Kılıç'ın cenazesi Adli Tıp Kurumu'ndan teslim alındı!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">Pno-Hb4PFqA</guid>
       <pubDate>Sun, 06 Sep 2026 10:04:07 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Nâzım Hikmet müzesine doğru... - Zeynep Oral</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Şükran, canım sır kardeşim benim - Işıl Özgentürk</title>
-      <link>https://www.youtube.com/watch?v=8ZijACgNvOI</link>
-      <guid isPermaLink="false">8ZijACgNvOI</guid>
-      <pubDate>Sun, 06 Sep 2026 10:04:04 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Şükran, canım sır kardeşim benim - Işıl Özgentürk</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: İki Türkiye - Veysel Ulusoy</title>
-      <link>https://www.youtube.com/watch?v=rNCeBS05Z_E</link>
-      <guid isPermaLink="false">rNCeBS05Z_E</guid>
-      <pubDate>Sun, 06 Sep 2026 10:04:03 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: İki Türkiye - Veysel Ulusoy</description>
     </item>
   </channel>
 </rss>
