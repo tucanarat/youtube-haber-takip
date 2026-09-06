@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 18:40:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 18:45:30 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Milyar Dolarlık Sır! AKP'de Erdoğan Sonrası Hesapları! Gökçek, Yıldırım ve Davutoğlu...</title>
+      <link>https://www.youtube.com/watch?v=-tP1G8SEf2M</link>
+      <guid isPermaLink="false">-tP1G8SEf2M</guid>
+      <pubDate>Sun, 06 Sep 2026 18:40:14 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Milyar Dolarlık Sır! AKP'de Erdoğan Sonrası Hesapları! Gökçek, Yıldırım ve Davutoğlu...</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: İstanbul’da Filenin Sultanları’nın İtalya karşılaşması dev ekranlardan takip ediliyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=g0mrZD8Yq88</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">R65Avlfi5TM</guid>
       <pubDate>Sun, 06 Sep 2026 12:42:13 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ERDOĞAN'DAN BİR GARİP ÇIKIŞ! Yasaklanan kitaplar için 'katliam' dedi, İmamoğlu'nun kitabını unuttu!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Gülistan Doku Soruşturmasında UMUT ALTAŞ'IN FBI İFADESİ ORTAYA ÇIKTI! WhatsApp'taki Korkunç Video!</title>
-      <link>https://www.youtube.com/watch?v=7chUOBaKm8U</link>
-      <guid isPermaLink="false">7chUOBaKm8U</guid>
-      <pubDate>Sun, 06 Sep 2026 12:36:10 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Gülistan Doku Soruşturmasında UMUT ALTAŞ'IN FBI İFADESİ ORTAYA ÇIKTI! WhatsApp'taki Korkunç Video!</description>
     </item>
   </channel>
 </rss>
