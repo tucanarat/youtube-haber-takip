@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 08:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 08:45:30 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Süleymancılar Dosyasında Sır Perdesi Aralandı! Ahmet Denizolgun'un Ölümünde Gizemli Telefon Trafiği!</title>
+      <link>https://www.youtube.com/watch?v=Lgo-jnDaQTQ</link>
+      <guid isPermaLink="false">Lgo-jnDaQTQ</guid>
+      <pubDate>Sun, 06 Sep 2026 08:30:26 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Süleymancılar Dosyasında Sır Perdesi Aralandı! Ahmet Denizolgun'un Ölümünde Gizemli Telefon Trafiği!</description>
+    </item>
     <item>
       <title>Halk TV: Kanser tedavisi gören DEM Partili Ağrı Belediyesi Eş Başkanı Mehmet Akkuş yaşamını yitirdi!</title>
       <link>https://www.youtube.com/watch?v=FDdfdeay0is</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">za9TatPifgg</guid>
       <pubDate>Sat, 05 Sep 2026 20:07:23 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI Üsküdar'da kritik seçim: Belediye çevresinde yoğun güvenlik önlemi…</description>
-    </item>
-    <item>
-      <title>Halk TV: IRAK'TA VARLIK İÇİNDE YOKLUK! Petrol zengini Irak’ta benzin kıtlığı yaşanıyor!</title>
-      <link>https://www.youtube.com/watch?v=aDnguAzAwFk</link>
-      <guid isPermaLink="false">aDnguAzAwFk</guid>
-      <pubDate>Sat, 05 Sep 2026 19:55:18 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: IRAK'TA VARLIK İÇİNDE YOKLUK! Petrol zengini Irak’ta benzin kıtlığı yaşanıyor!</description>
     </item>
   </channel>
 </rss>
