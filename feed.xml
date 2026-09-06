@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 21:30:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 21:35:23 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: İşitme engelliyi tekme ve yumruklarla darbetti, adli kontrolle serbest kaldı</title>
+      <link>https://www.youtube.com/shorts/3BwhQ1Vs8-s</link>
+      <guid isPermaLink="false">3BwhQ1Vs8-s</guid>
+      <pubDate>Sun, 06 Sep 2026 21:20:27 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İşitme engelliyi tekme ve yumruklarla darbetti, adli kontrolle serbest kaldı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Afşin Hatipoğlu Çok Sinirlendi! İktidarın Operasyonlarına Esti Gürledi! Süleyman Soylu Çıkışı</title>
+      <link>https://www.youtube.com/watch?v=SVf3XhNjPrs</link>
+      <guid isPermaLink="false">SVf3XhNjPrs</guid>
+      <pubDate>Sun, 06 Sep 2026 21:20:04 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Afşin Hatipoğlu Çok Sinirlendi! İktidarın Operasyonlarına Esti Gürledi! Süleyman Soylu Çıkışı</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: DEM Parti, 5'inci Olağan Büyük Kongresi, Nazım Hikmet Kültür Merkezi'nde yapılıyor #Canlı / Ankara</title>
       <link>https://www.youtube.com/watch?v=Im8Zdnb__O0</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">WTzotdEImCA</guid>
       <pubDate>Sun, 06 Sep 2026 15:15:15 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BÖYLE COŞKU GÖRÜLMEDİ! Edirneliler Özgür Özel için sokaklara sel oldu aktı! İzdihamdan zor yürüdü!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: İYİ Parti'den Orta Vadeli Program tepkisi: 'Enflasyon tahminlerindeki artış beceriksizliktir'</title>
-      <link>https://www.youtube.com/watch?v=gKa0tXsR_RY</link>
-      <guid isPermaLink="false">gKa0tXsR_RY</guid>
-      <pubDate>Sun, 06 Sep 2026 15:01:22 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: İYİ Parti'den Orta Vadeli Program tepkisi: 'Enflasyon tahminlerindeki artış beceriksizliktir'</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Umut Altaş'tan FBI'a Gülistan Doku İtirafı! VALİ VE OĞLU DETAYI! Emekli Emniyet Müdürü Yorumladı</title>
-      <link>https://www.youtube.com/watch?v=jjTZuQZBE10</link>
-      <guid isPermaLink="false">jjTZuQZBE10</guid>
-      <pubDate>Sun, 06 Sep 2026 15:00:36 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Umut Altaş'tan FBI'a Gülistan Doku İtirafı! VALİ VE OĞLU DETAYI! Emekli Emniyet Müdürü Yorumladı</description>
     </item>
   </channel>
 </rss>
