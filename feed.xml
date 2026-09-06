@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 23:10:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 23:15:33 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: 'Dip Dalga Geliyor' Mustafa Balbay'dan Bomba Kulis! Üsküdar'da Seçim Oyunu! İmamoğlu Sözleri</title>
+      <link>https://www.youtube.com/watch?v=JP6HozEdrq8</link>
+      <guid isPermaLink="false">JP6HozEdrq8</guid>
+      <pubDate>Sun, 06 Sep 2026 23:00:32 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: 'Dip Dalga Geliyor' Mustafa Balbay'dan Bomba Kulis! Üsküdar'da Seçim Oyunu! İmamoğlu Sözleri</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Özlem Gürses ile Sözcü Ana Haber</title>
       <link>https://www.youtube.com/watch?v=-dHFeOKVK-U</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">WuVK2ji7u2I</guid>
       <pubDate>Sun, 06 Sep 2026 17:30:38 +0000</pubDate>
       <description>Halk TV kanalından yeni video: DAVUTOĞLU YARIN İFADE VERECEK! Cumhurbaşkanına hakaret suçlaması ile yarın hakim karşısına çıkıyor!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: 'Büyük Kıskaç Daralıyor' Yıldırım ve Gökçeklerin Dudak Uçuklatan Serveti! Ekrem Açıkel Anlattı</title>
-      <link>https://www.youtube.com/watch?v=-lCWE-spPug</link>
-      <guid isPermaLink="false">-lCWE-spPug</guid>
-      <pubDate>Sun, 06 Sep 2026 17:20:36 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: 'Büyük Kıskaç Daralıyor' Yıldırım ve Gökçeklerin Dudak Uçuklatan Serveti! Ekrem Açıkel Anlattı</description>
     </item>
   </channel>
 </rss>
