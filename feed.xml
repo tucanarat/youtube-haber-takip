@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 07:50:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 07:55:24 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: TÜRKİYE'DE SAKLI KALMIŞ BİR CENNET! Bursa'daki Gölyazı köyünün büyülü görüntüsü adeta mest edecek!</title>
+      <link>https://www.youtube.com/watch?v=zZksptbiPug</link>
+      <guid isPermaLink="false">zZksptbiPug</guid>
+      <pubDate>Sun, 06 Sep 2026 07:46:14 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: TÜRKİYE'DE SAKLI KALMIŞ BİR CENNET! Bursa'daki Gölyazı köyünün büyülü görüntüsü adeta mest edecek!</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | DEM Parti 5'inci Olağan Büyük Kongresi</title>
       <link>https://www.youtube.com/watch?v=ykGh6F2IUsw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">G8-d3wvwUmI</guid>
       <pubDate>Sat, 05 Sep 2026 18:50:11 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: BAHÇELİ'NİN YENİ ANAYASA PLANI İFŞA OLDU! Beştepe'de Hareketli Saatler! Gözler Erdoğan'da</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Muhalefet Gözaltı Melih Gökçek'e Davet! Seraf Özer Ateş Püskürdü! AKP'ye Neler Dedi Neler</title>
-      <link>https://www.youtube.com/watch?v=LTG5wuisWLs</link>
-      <guid isPermaLink="false">LTG5wuisWLs</guid>
-      <pubDate>Sat, 05 Sep 2026 18:30:18 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Muhalefet Gözaltı Melih Gökçek'e Davet! Seraf Özer Ateş Püskürdü! AKP'ye Neler Dedi Neler</description>
     </item>
   </channel>
 </rss>
