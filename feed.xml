@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 09:40:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 09:45:28 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ANKARA'DA DEPREM ETKİSİ YARATACAK SÖZLER! YENİ Partili İlksen Özalper'in 'zalim' çıkışı olay olacak!</title>
+      <link>https://www.youtube.com/watch?v=aYip58yldnU</link>
+      <guid isPermaLink="false">aYip58yldnU</guid>
+      <pubDate>Sun, 06 Sep 2026 09:42:26 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ANKARA'DA DEPREM ETKİSİ YARATACAK SÖZLER! YENİ Partili İlksen Özalper'in 'zalim' çıkışı olay olacak!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Murat Ağırel İfşa Etmişti! '500 Kez Sıçradım' Melih Gökçek'ten Akılalmaz Açıklama! 15 Yıllık Arşiv!</title>
       <link>https://www.youtube.com/watch?v=7GrGkOP94-0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">YpGN4ZCttzs</guid>
       <pubDate>Sat, 05 Sep 2026 21:45:09 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Fenerbahçe taraftarı derbi mağlubiyeti sonrası çıldırdı | Enes Köseoğlu ile Tribünün Sesi</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Edirne'de emekli buluşmasında konuşuyor</title>
-      <link>https://www.youtube.com/watch?v=BRZmHVVEeAM</link>
-      <guid isPermaLink="false">BRZmHVVEeAM</guid>
-      <pubDate>Sat, 05 Sep 2026 21:43:41 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Edirne'de emekli buluşmasında konuşuyor</description>
     </item>
   </channel>
 </rss>
