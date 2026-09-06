@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 17:35:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 17:40:29 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: DAVUTOĞLU YARIN İFADE VERECEK! Cumhurbaşkanına hakaret suçlaması ile yarın hakim karşısına çıkıyor!</title>
+      <link>https://www.youtube.com/watch?v=WuVK2ji7u2I</link>
+      <guid isPermaLink="false">WuVK2ji7u2I</guid>
+      <pubDate>Sun, 06 Sep 2026 17:30:38 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: DAVUTOĞLU YARIN İFADE VERECEK! Cumhurbaşkanına hakaret suçlaması ile yarın hakim karşısına çıkıyor!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: 'Büyük Kıskaç Daralıyor' Yıldırım ve Gökçeklerin Dudak Uçuklatan Serveti! Ekrem Açıkel Anlattı</title>
       <link>https://www.youtube.com/watch?v=-lCWE-spPug</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">5WJndLvXSkA</guid>
       <pubDate>Sun, 06 Sep 2026 11:33:24 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: ISS astronotlarının kadrajından İstanbul! Uzaydan çekilen büyüleyici fotoğraflar paylaşıldı</description>
-    </item>
-    <item>
-      <title>Halk TV: CHP Genel Başkan Yardımcısı Necdet Saraç, Kadıköy İlçe Başkanlığı'nda Açıklama Yaptı</title>
-      <link>https://www.youtube.com/watch?v=YBJlxHiyEVo</link>
-      <guid isPermaLink="false">YBJlxHiyEVo</guid>
-      <pubDate>Sun, 06 Sep 2026 11:31:02 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: CHP Genel Başkan Yardımcısı Necdet Saraç, Kadıköy İlçe Başkanlığı'nda Açıklama Yaptı</description>
     </item>
   </channel>
 </rss>
