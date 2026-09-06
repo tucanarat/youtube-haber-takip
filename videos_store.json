@@ -32273,10 +32273,10 @@
   },
   "3nKwGo_JOAU": {
     "id": "3nKwGo_JOAU",
-    "title": "#CANLI Gülinay Selçuk İle Haber Bülteni",
+    "title": "Gülinay Selçuk İle Haber Bülteni | 6 Eylül",
     "link": "https://www.youtube.com/watch?v=3nKwGo_JOAU",
-    "published": "2026-09-05T22:02:06+00:00",
-    "published_ts": 1788645726,
+    "published": "2026-09-06T11:08:44+00:00",
+    "published_ts": 1788692924,
     "channel_name": "SÖZCÜ TV"
   },
   "jk8UDp2EMYk": {
@@ -32822,5 +32822,37 @@
     "published": "2026-09-06T10:55:02+00:00",
     "published_ts": 1788692102,
     "channel_name": "ANKA Haber Ajansı"
+  },
+  "gHq0hptjdQA": {
+    "id": "gHq0hptjdQA",
+    "title": "Özgür Çelik: Bu memleketin başına ne geldiyse koltuğa yapışanlar yüzünden geldi!",
+    "link": "https://www.youtube.com/shorts/gHq0hptjdQA",
+    "published": "2026-09-06T11:07:44+00:00",
+    "published_ts": 1788692864,
+    "channel_name": "Halk TV"
+  },
+  "fz33DHmXfRc": {
+    "id": "fz33DHmXfRc",
+    "title": "İstanbul İl Başkanı Özgür Çelik, YENİ Parti Sarıyer İlçe Başkanlığı açılışında konuştu!",
+    "link": "https://www.youtube.com/shorts/fz33DHmXfRc",
+    "published": "2026-09-06T11:07:27+00:00",
+    "published_ts": 1788692847,
+    "channel_name": "Halk TV"
+  },
+  "wPY6Re-xQnE": {
+    "id": "wPY6Re-xQnE",
+    "title": "Özgür Özel'in dili sürçtü, YENİ Parti yerine 3 kez İYİ Parti dedi! Dervişoğlu'ndan yanıt gecikmedi!",
+    "link": "https://www.youtube.com/watch?v=wPY6Re-xQnE",
+    "published": "2026-09-06T11:00:16+00:00",
+    "published_ts": 1788692416,
+    "channel_name": "Halk TV"
+  },
+  "JwP15SjyN_8": {
+    "id": "JwP15SjyN_8",
+    "title": "BU DİYALOG GÜNDEME DAMGA VURDU! Özgür Özel'in yaşlı teyzeye verdiği 'iktidar' mesajı çok konuşulur!",
+    "link": "https://www.youtube.com/watch?v=JwP15SjyN_8",
+    "published": "2026-09-06T11:00:08+00:00",
+    "published_ts": 1788692408,
+    "channel_name": "Halk TV"
   }
 }
