@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 15:30:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 15:35:23 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: DEHŞET OLAY! 80 kişi hayatını kaybetti: O ülkede “cinsel organ hırsızlığı” başladı!</title>
+      <link>https://www.youtube.com/watch?v=ThWAxbXQfqU</link>
+      <guid isPermaLink="false">ThWAxbXQfqU</guid>
+      <pubDate>Sun, 06 Sep 2026 15:30:02 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: DEHŞET OLAY! 80 kişi hayatını kaybetti: O ülkede “cinsel organ hırsızlığı” başladı!</description>
+    </item>
     <item>
       <title>Halk TV: BÖYLE COŞKU GÖRÜLMEDİ! Edirneliler Özgür Özel için sokaklara sel oldu aktı! İzdihamdan zor yürüdü!</title>
       <link>https://www.youtube.com/watch?v=WTzotdEImCA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">S4YuHrSXb78</guid>
       <pubDate>Sun, 06 Sep 2026 10:30:24 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "Kavgalar, Rezillikler; Enteresan Bir İktidar Modeli!" Hüsnü Mahalli'den Çarpıcı AKP Analizi!</description>
-    </item>
-    <item>
-      <title>Halk TV: TRUMP ORTALIĞI KARIŞTIRACAK! 'İran'a yaptırımları delmek' suçlamasıyla Türk iş insanını işaret etti!</title>
-      <link>https://www.youtube.com/watch?v=5VGAkb_9yvE</link>
-      <guid isPermaLink="false">5VGAkb_9yvE</guid>
-      <pubDate>Sun, 06 Sep 2026 10:30:13 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: TRUMP ORTALIĞI KARIŞTIRACAK! 'İran'a yaptırımları delmek' suçlamasıyla Türk iş insanını işaret etti!</description>
     </item>
   </channel>
 </rss>
