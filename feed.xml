@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 11:35:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 11:40:31 +0000</lastBuildDate>
     <item>
       <title>Halk TV: CHP Genel Başkan Yardımcısı Necdet Saraç, Kadıköy İlçe Başkanlığı'nda Açıklama Yaptı</title>
       <link>https://www.youtube.com/watch?v=YBJlxHiyEVo</link>
       <guid isPermaLink="false">YBJlxHiyEVo</guid>
       <pubDate>Sun, 06 Sep 2026 11:31:02 +0000</pubDate>
       <description>Halk TV kanalından yeni video: CHP Genel Başkan Yardımcısı Necdet Saraç, Kadıköy İlçe Başkanlığı'nda Açıklama Yaptı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Gülistan Doku Dosyasında Kritik İtiraf! "CİNAYETE TANIK OLDUM!" Umut Altaş'tan FBI'a Çarpıcı İfade!</title>
+      <link>https://www.youtube.com/watch?v=2NprudiFWBs</link>
+      <guid isPermaLink="false">2NprudiFWBs</guid>
+      <pubDate>Sun, 06 Sep 2026 11:30:22 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Gülistan Doku Dosyasında Kritik İtiraf! "CİNAYETE TANIK OLDUM!" Umut Altaş'tan FBI'a Çarpıcı İfade!</description>
     </item>
     <item>
       <title>Halk TV: HABERİ ALAN SEVENLERİ EVİNE AKIN ETTİ! Türkiye, ünlü oyuncu Serhat Kılıç'ın ölümünü konuşuyor!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">0flCiVzGIWI</guid>
       <pubDate>Sun, 06 Sep 2026 08:52:20 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BAHÇELİ'YE ŞOK 'PROVOKATÖR' SÖZLERİ! Dervişoğlu'nun süreç çıkışı Ankara'da taşları yerinden oynatır!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Hüsnü Mahalli: "Üsküdar'da İktidarla İlgili Korkunç Hikayeler Var Bir Tane İşlem Yapılmadı!"</title>
-      <link>https://www.youtube.com/watch?v=PuecEY16mik</link>
-      <guid isPermaLink="false">PuecEY16mik</guid>
-      <pubDate>Sun, 06 Sep 2026 08:45:54 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Hüsnü Mahalli: "Üsküdar'da İktidarla İlgili Korkunç Hikayeler Var Bir Tane İşlem Yapılmadı!"</description>
     </item>
   </channel>
 </rss>
