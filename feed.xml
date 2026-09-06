@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 14:05:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 14:10:29 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: AFŞİN HATİPOĞLU BOMBAYI PATLATTI! Erdoğan'ın İBB'ye 'çökme' planını anlattı! O isim düşünülüyormuş!</title>
+      <link>https://www.youtube.com/watch?v=6XVdI1F4gqU</link>
+      <guid isPermaLink="false">6XVdI1F4gqU</guid>
+      <pubDate>Sun, 06 Sep 2026 14:00:01 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: AFŞİN HATİPOĞLU BOMBAYI PATLATTI! Erdoğan'ın İBB'ye 'çökme' planını anlattı! O isim düşünülüyormuş!</description>
+    </item>
     <item>
       <title>Halk TV: YENİ Parti Beyoğlu İlçe Başkanlığı Açılış Töreni (6 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=gfeD-X2ofHI</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">R0R49uTdbjM</guid>
       <pubDate>Sun, 06 Sep 2026 10:07:01 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Üsküdar Belediyesi Başkan Vekilliği seçimi öncesi gözaltına alınan Amine Cansu Çelik tutuklandı!</description>
-    </item>
-    <item>
-      <title>Halk TV: 51 yaşındaki ünlü oyuncu Serhat Kılıç, kız arkadaşı tarafından evinde ölü bulundu!</title>
-      <link>https://www.youtube.com/shorts/7GK0_ZiwAks</link>
-      <guid isPermaLink="false">7GK0_ZiwAks</guid>
-      <pubDate>Sun, 06 Sep 2026 10:06:43 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: 51 yaşındaki ünlü oyuncu Serhat Kılıç, kız arkadaşı tarafından evinde ölü bulundu!</description>
     </item>
   </channel>
 </rss>
