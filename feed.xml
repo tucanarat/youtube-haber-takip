@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 21:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 22:00:50 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Nagihan Turhan ile S Raporu | 7 Eylül</title>
+      <link>https://www.youtube.com/watch?v=7RcCEmmPuno</link>
+      <guid isPermaLink="false">7RcCEmmPuno</guid>
+      <pubDate>Sun, 06 Sep 2026 21:58:55 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Nagihan Turhan ile S Raporu | 7 Eylül</description>
+    </item>
+    <item>
+      <title>Halk TV: Burçin Atılgan ile Gündem Özel (6 Eylül 2026)</title>
+      <link>https://www.youtube.com/watch?v=eAtT7ReOtKw</link>
+      <guid isPermaLink="false">eAtT7ReOtKw</guid>
+      <pubDate>Sun, 06 Sep 2026 21:56:10 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Burçin Atılgan ile Gündem Özel (6 Eylül 2026)</description>
+    </item>
     <item>
       <title>Halk TV: FİLENİN SULTANLARI YENİDEN TARİH YAZDI! Vatandaş sokaklarda coşkuyla kutladı!</title>
       <link>https://www.youtube.com/watch?v=v9FCZffCU-g</link>
@@ -288,13 +302,6 @@
       <description>SÖZCÜ TV kanalından yeni video: Ekrem Açıkel İle Hafta Sonu Ana Haber 6 Eylül</description>
     </item>
     <item>
-      <title>Halk TV: Burçin Atılgan ile Gündem Özel (6 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=eAtT7ReOtKw</link>
-      <guid isPermaLink="false">eAtT7ReOtKw</guid>
-      <pubDate>Sun, 06 Sep 2026 16:43:52 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Burçin Atılgan ile Gündem Özel (6 Eylül 2026)</description>
-    </item>
-    <item>
       <title>SÖZCÜ TV: Cinayeti Böyle İşlemişler! Umut Altaş İtiraf Etti! Gülistan Doku Dosyasında Kilit İsim Ortaya Çıktı</title>
       <link>https://www.youtube.com/watch?v=Dqpzqi-kFJI</link>
       <guid isPermaLink="false">Dqpzqi-kFJI</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">rD0GvQG0X7s</guid>
       <pubDate>Sun, 06 Sep 2026 15:45:21 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BU SÖZLER BEŞTEPE'DE YANKILANIR! Özgür Özel'den Kırklareli'nde Erdoğan'ı çıldırtacak çarpıcı sözler!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Emekli Maaşıyla 23 Milyonluk Lüks Araç! Melih Gökçek'in Çarpıcı Masrafları! Ekrem Açıkel Anlattı</title>
-      <link>https://www.youtube.com/watch?v=LYiccn3oj0U</link>
-      <guid isPermaLink="false">LYiccn3oj0U</guid>
-      <pubDate>Sun, 06 Sep 2026 15:40:36 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Emekli Maaşıyla 23 Milyonluk Lüks Araç! Melih Gökçek'in Çarpıcı Masrafları! Ekrem Açıkel Anlattı</description>
     </item>
   </channel>
 </rss>
