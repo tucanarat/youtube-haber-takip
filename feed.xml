@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 18:05:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 18:10:29 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: TÜRKİYE BU ÖLÜMÜ KONUŞUYOR: Oyuncu Serhat Kılıç'ın son görüntüsü ortaya çıktı!</title>
+      <link>https://www.youtube.com/watch?v=51e-b1n1CsM</link>
+      <guid isPermaLink="false">51e-b1n1CsM</guid>
+      <pubDate>Sun, 06 Sep 2026 18:03:30 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: TÜRKİYE BU ÖLÜMÜ KONUŞUYOR: Oyuncu Serhat Kılıç'ın son görüntüsü ortaya çıktı!</description>
+    </item>
     <item>
       <title>Halk TV: BU HABER ÜLKEDE GÜNDEM OLUR: Halk TV muhabiri sordu; verdiği yanıtlarla yürekleri dağladı!</title>
       <link>https://www.youtube.com/watch?v=e0yvdHVSpwg</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">hAAoNkIBSTw</guid>
       <pubDate>Sun, 06 Sep 2026 12:25:28 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Erdoğan'dan şok karar! Tüm köprü ve otoyollar paralı mı olacak? Oğuz Demir flaş senaryoyu açıkladı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Ekonomide OVP açıklandı, enflasyon beklentisi uçuşa geçti! Oğuz Demir'in yorumu büyük ses getirecek!</title>
-      <link>https://www.youtube.com/watch?v=ACnEcaYsqT0</link>
-      <guid isPermaLink="false">ACnEcaYsqT0</guid>
-      <pubDate>Sun, 06 Sep 2026 12:10:14 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ekonomide OVP açıklandı, enflasyon beklentisi uçuşa geçti! Oğuz Demir'in yorumu büyük ses getirecek!</description>
     </item>
   </channel>
 </rss>
