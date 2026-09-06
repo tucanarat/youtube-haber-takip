@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 10:30:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 10:35:22 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Erman Toroğlu'ndan Bomba Derbi Yorumu! İsmail Kartal'a Tepki! | Beşiktaş, Fenerbahçe, Aziz Yıldırım</title>
+      <link>https://www.youtube.com/watch?v=vvFEyAD3jBE</link>
+      <guid isPermaLink="false">vvFEyAD3jBE</guid>
+      <pubDate>Sun, 06 Sep 2026 10:30:32 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Erman Toroğlu'ndan Bomba Derbi Yorumu! İsmail Kartal'a Tepki! | Beşiktaş, Fenerbahçe, Aziz Yıldırım</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: "Kavgalar, Rezillikler; Enteresan Bir İktidar Modeli!" Hüsnü Mahalli'den Çarpıcı AKP Analizi!</title>
+      <link>https://www.youtube.com/watch?v=S4YuHrSXb78</link>
+      <guid isPermaLink="false">S4YuHrSXb78</guid>
+      <pubDate>Sun, 06 Sep 2026 10:30:24 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "Kavgalar, Rezillikler; Enteresan Bir İktidar Modeli!" Hüsnü Mahalli'den Çarpıcı AKP Analizi!</description>
+    </item>
     <item>
       <title>Halk TV: Yürütülen soruşturmada şarkıcı Tuğba Ekinci ile birlikte 'Timsah Celil'i oynayan isim de tutuklandı!</title>
       <link>https://www.youtube.com/watch?v=M8PfGrEfEGA</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">okVFu49EPUY</guid>
       <pubDate>Sun, 06 Sep 2026 06:59:05 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Ceylin Çağatay İle Sabah Kahvesi | 6 Eylül</description>
-    </item>
-    <item>
-      <title>Halk TV: Gökhan Kayış ile Hafta Sonu Sabah | #nereyekadar (6 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=8IMPm2bxRlE</link>
-      <guid isPermaLink="false">8IMPm2bxRlE</guid>
-      <pubDate>Sun, 06 Sep 2026 06:58:45 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Gökhan Kayış ile Hafta Sonu Sabah | #nereyekadar (6 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: KPSS Maratonu Başlıyor! Genel Yetenek-Genel Kültür Sınavı Öncesi Sınav Merkezinde Son Durum</title>
-      <link>https://www.youtube.com/watch?v=y3u-6N7dhP0</link>
-      <guid isPermaLink="false">y3u-6N7dhP0</guid>
-      <pubDate>Sun, 06 Sep 2026 06:55:10 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KPSS Maratonu Başlıyor! Genel Yetenek-Genel Kültür Sınavı Öncesi Sınav Merkezinde Son Durum</description>
     </item>
   </channel>
 </rss>
