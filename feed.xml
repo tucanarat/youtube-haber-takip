@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 15:15:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 15:20:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: BÖYLE COŞKU GÖRÜLMEDİ! Edirneliler Özgür Özel için sokaklara sel oldu aktı! İzdihamdan zor yürüdü!</title>
+      <link>https://www.youtube.com/watch?v=WTzotdEImCA</link>
+      <guid isPermaLink="false">WTzotdEImCA</guid>
+      <pubDate>Sun, 06 Sep 2026 15:15:15 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BÖYLE COŞKU GÖRÜLMEDİ! Edirneliler Özgür Özel için sokaklara sel oldu aktı! İzdihamdan zor yürüdü!</description>
+    </item>
     <item>
       <title>Cumhuriyet: İYİ Parti'den Orta Vadeli Program tepkisi: 'Enflasyon tahminlerindeki artış beceriksizliktir'</title>
       <link>https://www.youtube.com/watch?v=gKa0tXsR_RY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">5VGAkb_9yvE</guid>
       <pubDate>Sun, 06 Sep 2026 10:30:13 +0000</pubDate>
       <description>Halk TV kanalından yeni video: TRUMP ORTALIĞI KARIŞTIRACAK! 'İran'a yaptırımları delmek' suçlamasıyla Türk iş insanını işaret etti!</description>
-    </item>
-    <item>
-      <title>Halk TV: Yürütülen soruşturmada şarkıcı Tuğba Ekinci ile birlikte 'Timsah Celil'i oynayan isim de tutuklandı!</title>
-      <link>https://www.youtube.com/watch?v=M8PfGrEfEGA</link>
-      <guid isPermaLink="false">M8PfGrEfEGA</guid>
-      <pubDate>Sun, 06 Sep 2026 10:12:12 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Yürütülen soruşturmada şarkıcı Tuğba Ekinci ile birlikte 'Timsah Celil'i oynayan isim de tutuklandı!</description>
     </item>
   </channel>
 </rss>
