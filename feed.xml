@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 07:25:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 07:30:40 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Cevdet Yılmaz, 2027-2029 dönemini kapsayan Orta Vadeli Program'ı açıklıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=ZNF1NNI17Go</link>
+      <guid isPermaLink="false">ZNF1NNI17Go</guid>
+      <pubDate>Sun, 06 Sep 2026 07:29:55 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Cevdet Yılmaz, 2027-2029 dönemini kapsayan Orta Vadeli Program'ı açıklıyor #Canlı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Tuğberk İmamoğlu Gemisi Bulundu! 720 Metre Derinlikteki Enkazdan İlk Görüntüler!</title>
       <link>https://www.youtube.com/watch?v=scvZVkKI_9w</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Xdr4YefWDoI</guid>
       <pubDate>Sat, 05 Sep 2026 17:50:05 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ERDOĞAN’DAN BEKLENEN İMZA GELDİ! Köprü ve otoyollar özelleştirilecek!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: TRUMP'TAN KAN DONDURAN SÖZLER! ABD Türk Bankasını Kara Listeye Aldı!</title>
-      <link>https://www.youtube.com/watch?v=Kn72qFm3kdc</link>
-      <guid isPermaLink="false">Kn72qFm3kdc</guid>
-      <pubDate>Sat, 05 Sep 2026 17:50:01 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: TRUMP'TAN KAN DONDURAN SÖZLER! ABD Türk Bankasını Kara Listeye Aldı!</description>
     </item>
   </channel>
 </rss>
