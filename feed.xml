@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 13:15:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 13:20:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: CENAZE PROGRAMI BELLİ OLDU! Ünlü oyuncu Serhat Kılıç'ın cenazesi Adli Tıp Kurumu'ndan teslim alındı!</title>
+      <link>https://www.youtube.com/watch?v=ujF2UoiUuFg</link>
+      <guid isPermaLink="false">ujF2UoiUuFg</guid>
+      <pubDate>Sun, 06 Sep 2026 13:11:47 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: CENAZE PROGRAMI BELLİ OLDU! Ünlü oyuncu Serhat Kılıç'ın cenazesi Adli Tıp Kurumu'ndan teslim alındı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: ABD’den Türk Bankasına Şoke Eden Yaptırım! İran Gerilimi Türkiye’ye Sıçradı!</title>
       <link>https://www.youtube.com/watch?v=cm6pYyraErw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">-WAdGcaN2-c</guid>
       <pubDate>Sun, 06 Sep 2026 10:04:01 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Durum umutsuz ama ciddi değil - Ahmet Tan</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Seçilmişlerin transferleri, rejim ve anayasa suçudur! (16) - Emre Kongar</title>
-      <link>https://www.youtube.com/watch?v=I3JJoNm_NpM</link>
-      <guid isPermaLink="false">I3JJoNm_NpM</guid>
-      <pubDate>Sun, 06 Sep 2026 10:03:59 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Seçilmişlerin transferleri, rejim ve anayasa suçudur! (16) - Emre Kongar</description>
     </item>
   </channel>
 </rss>
