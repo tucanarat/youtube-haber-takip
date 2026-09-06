@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 10:00:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 10:05:26 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Bir ‘kırmızı perşembe’ olayı üzerine - Orhan Bursalı</title>
+      <link>https://www.youtube.com/watch?v=_DMJC2jSdKo</link>
+      <guid isPermaLink="false">_DMJC2jSdKo</guid>
+      <pubDate>Sun, 06 Sep 2026 10:02:48 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Bir ‘kırmızı perşembe’ olayı üzerine - Orhan Bursalı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Timur Soykan Belge Belge Anlatıyor | Cem Küçük, Melih Gökçek, Binali Yıldırım'ın Serveti</title>
       <link>https://www.youtube.com/watch?v=fyuuk8pI4HE</link>
@@ -15,11 +22,25 @@
       <description>SÖZCÜ TV kanalından yeni video: Timur Soykan Belge Belge Anlatıyor | Cem Küçük, Melih Gökçek, Binali Yıldırım'ın Serveti</description>
     </item>
     <item>
+      <title>Halk TV: "BENİ KİMSE DURDURAMAZ!" Aziz Yıldırım çılgına döndü! Beşiktaş maçından sonra o isme ateş püskürdü!</title>
+      <link>https://www.youtube.com/watch?v=z_J-XDIDrtM</link>
+      <guid isPermaLink="false">z_J-XDIDrtM</guid>
+      <pubDate>Sun, 06 Sep 2026 09:57:24 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: "BENİ KİMSE DURDURAMAZ!" Aziz Yıldırım çılgına döndü! Beşiktaş maçından sonra o isme ateş püskürdü!</description>
+    </item>
+    <item>
       <title>SÖZCÜ TV: Simge Fıstıkoğlu İle İyi ki Hafta Sonu | 6 Eylül</title>
       <link>https://www.youtube.com/watch?v=jk8UDp2EMYk</link>
       <guid isPermaLink="false">jk8UDp2EMYk</guid>
       <pubDate>Sun, 06 Sep 2026 09:55:42 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Simge Fıstıkoğlu İle İyi ki Hafta Sonu | 6 Eylül</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Gülşah Ekinci ile Öğle Haberleri</title>
+      <link>https://www.youtube.com/watch?v=q-CvYej1KQ8</link>
+      <guid isPermaLink="false">q-CvYej1KQ8</guid>
+      <pubDate>Sun, 06 Sep 2026 09:55:05 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Gülşah Ekinci ile Öğle Haberleri</description>
     </item>
     <item>
       <title>Cumhuriyet: Terliğini eline alıp koşsa da saniyeler için sınava yetişemedi!</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">nkoSsHxrsyQ</guid>
       <pubDate>Sat, 05 Sep 2026 22:06:26 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Gökmen Karadağ ile Açıkça (5 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Ekrem Açıkel İle Hafta Sonu Ana Haber</title>
-      <link>https://www.youtube.com/watch?v=SgAQ02lVUgU</link>
-      <guid isPermaLink="false">SgAQ02lVUgU</guid>
-      <pubDate>Sat, 05 Sep 2026 22:05:23 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Ekrem Açıkel İle Hafta Sonu Ana Haber</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: #CANLI Gülinay Selçuk İle Haber Bülteni</title>
-      <link>https://www.youtube.com/watch?v=3nKwGo_JOAU</link>
-      <guid isPermaLink="false">3nKwGo_JOAU</guid>
-      <pubDate>Sat, 05 Sep 2026 22:02:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: #CANLI Gülinay Selçuk İle Haber Bülteni</description>
-    </item>
-    <item>
-      <title>Halk TV: Fenerbahçe Kulübü Başkanı Aziz Yıldırım, Beşiktaş maçının ardından açıklamalarda bulundu!</title>
-      <link>https://www.youtube.com/watch?v=LfjSvoNdChk</link>
-      <guid isPermaLink="false">LfjSvoNdChk</guid>
-      <pubDate>Sat, 05 Sep 2026 22:00:11 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Fenerbahçe Kulübü Başkanı Aziz Yıldırım, Beşiktaş maçının ardından açıklamalarda bulundu!</description>
     </item>
   </channel>
 </rss>
