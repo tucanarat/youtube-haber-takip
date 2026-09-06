@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 19:20:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 19:25:27 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: İktidarın Çarpıcı Özelleştirme Oyunu! İşte 30 Yıllık Gizli Plan! Burak Dalgın'dan Olay Benzetme</title>
+      <link>https://www.youtube.com/watch?v=rRgfNS1Sadg</link>
+      <guid isPermaLink="false">rRgfNS1Sadg</guid>
+      <pubDate>Sun, 06 Sep 2026 19:20:13 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İktidarın Çarpıcı Özelleştirme Oyunu! İşte 30 Yıllık Gizli Plan! Burak Dalgın'dan Olay Benzetme</description>
+    </item>
+    <item>
+      <title>Halk TV: Salı günü yine seçim yapılacak: AKP, sandıkta kaybettiği Üsküdar'ı masa başında kazanma derdinde!</title>
+      <link>https://www.youtube.com/watch?v=XNwRNdOrztc</link>
+      <guid isPermaLink="false">XNwRNdOrztc</guid>
+      <pubDate>Sun, 06 Sep 2026 19:15:08 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Salı günü yine seçim yapılacak: AKP, sandıkta kaybettiği Üsküdar'ı masa başında kazanma derdinde!</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI Onur Öncü ile Sabah Pusulası (07.09.20626)</title>
       <link>https://www.youtube.com/watch?v=GQ6PZNvBjPA</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">ujF2UoiUuFg</guid>
       <pubDate>Sun, 06 Sep 2026 13:11:47 +0000</pubDate>
       <description>Halk TV kanalından yeni video: CENAZE PROGRAMI BELLİ OLDU! Ünlü oyuncu Serhat Kılıç'ın cenazesi Adli Tıp Kurumu'ndan teslim alındı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: ABD’den Türk Bankasına Şoke Eden Yaptırım! İran Gerilimi Türkiye’ye Sıçradı!</title>
-      <link>https://www.youtube.com/watch?v=cm6pYyraErw</link>
-      <guid isPermaLink="false">cm6pYyraErw</guid>
-      <pubDate>Sun, 06 Sep 2026 13:00:37 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: ABD’den Türk Bankasına Şoke Eden Yaptırım! İran Gerilimi Türkiye’ye Sıçradı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Gülşah Ekinci ile Öğle Haberleri (6 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=q-CvYej1KQ8</link>
-      <guid isPermaLink="false">q-CvYej1KQ8</guid>
-      <pubDate>Sun, 06 Sep 2026 12:58:54 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Gülşah Ekinci ile Öğle Haberleri (6 Eylül 2026)</description>
     </item>
   </channel>
 </rss>
