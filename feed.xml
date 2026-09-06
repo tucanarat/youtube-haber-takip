@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 18:00:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 18:05:25 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: BU HABER ÜLKEDE GÜNDEM OLUR: Halk TV muhabiri sordu; verdiği yanıtlarla yürekleri dağladı!</title>
+      <link>https://www.youtube.com/watch?v=e0yvdHVSpwg</link>
+      <guid isPermaLink="false">e0yvdHVSpwg</guid>
+      <pubDate>Sun, 06 Sep 2026 18:00:26 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BU HABER ÜLKEDE GÜNDEM OLUR: Halk TV muhabiri sordu; verdiği yanıtlarla yürekleri dağladı!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Timur Soykan Kan Donduran Kara Para Ağını Çökertti! Varlık Barışı Sistemini Tek Tek Anlattı</title>
+      <link>https://www.youtube.com/watch?v=1TwcL2rpcN0</link>
+      <guid isPermaLink="false">1TwcL2rpcN0</guid>
+      <pubDate>Sun, 06 Sep 2026 18:00:09 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Timur Soykan Kan Donduran Kara Para Ağını Çökertti! Varlık Barışı Sistemini Tek Tek Anlattı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Oyuncu Serhat Kılıç'ın Son Görüntüleri Ortaya Çıktı! #shorts</title>
       <link>https://www.youtube.com/shorts/0_mD-y_XlW8</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">ACnEcaYsqT0</guid>
       <pubDate>Sun, 06 Sep 2026 12:10:14 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Ekonomide OVP açıklandı, enflasyon beklentisi uçuşa geçti! Oğuz Demir'in yorumu büyük ses getirecek!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Barış Terkoğlu Melih Gökçek'i Anlattı: "Devletin Elinde Murat Ağırel’in Yazdığından Fazlası Var"</title>
-      <link>https://www.youtube.com/watch?v=wn-unudLwdE</link>
-      <guid isPermaLink="false">wn-unudLwdE</guid>
-      <pubDate>Sun, 06 Sep 2026 12:00:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Barış Terkoğlu Melih Gökçek'i Anlattı: "Devletin Elinde Murat Ağırel’in Yazdığından Fazlası Var"</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: DEM Parti 5'inci Kongresi: Eş Genel Başkanlar Hatimoğulları ile Bakırhan oy kullandı</title>
-      <link>https://www.youtube.com/shorts/Qr6n9-OAyHA</link>
-      <guid isPermaLink="false">Qr6n9-OAyHA</guid>
-      <pubDate>Sun, 06 Sep 2026 11:58:38 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: DEM Parti 5'inci Kongresi: Eş Genel Başkanlar Hatimoğulları ile Bakırhan oy kullandı</description>
     </item>
   </channel>
 </rss>
