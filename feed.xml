@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 17:00:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 17:05:25 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: İçindeki 10 kişilik mürettebatla Silivri açıklarında battı: Tuğberk İmamoğlu'ndan ilk görüntü geldi!</title>
+      <link>https://www.youtube.com/watch?v=YsifouaPo-M</link>
+      <guid isPermaLink="false">YsifouaPo-M</guid>
+      <pubDate>Sun, 06 Sep 2026 17:00:30 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İçindeki 10 kişilik mürettebatla Silivri açıklarında battı: Tuğberk İmamoğlu'ndan ilk görüntü geldi!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: 'Hükümet Enflasyonla Mücadelesini Kaybetti' Ekrem Açıkel İktidarın Ekonomi Karnesini Anlattı</title>
+      <link>https://www.youtube.com/watch?v=m-G1TbafaSM</link>
+      <guid isPermaLink="false">m-G1TbafaSM</guid>
+      <pubDate>Sun, 06 Sep 2026 17:00:15 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: 'Hükümet Enflasyonla Mücadelesini Kaybetti' Ekrem Açıkel İktidarın Ekonomi Karnesini Anlattı</description>
+    </item>
     <item>
       <title>Halk TV: Sinem Fıstıkoğlu ile Hafta Sonu Ana Haber #Halktv (6 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=2yRBd20ScHY</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">xg6bYd4DrBQ</guid>
       <pubDate>Sun, 06 Sep 2026 11:30:20 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "Özgür Özel 'Seçim Yapılmaz" Algısını Kırıyor!" Hüsnü Mahalli'den Kritik Yorum!</description>
-    </item>
-    <item>
-      <title>Halk TV: HABERİ ALAN SEVENLERİ EVİNE AKIN ETTİ! Türkiye, ünlü oyuncu Serhat Kılıç'ın ölümünü konuşuyor!</title>
-      <link>https://www.youtube.com/watch?v=WnDUntHxteM</link>
-      <guid isPermaLink="false">WnDUntHxteM</guid>
-      <pubDate>Sun, 06 Sep 2026 11:30:04 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: HABERİ ALAN SEVENLERİ EVİNE AKIN ETTİ! Türkiye, ünlü oyuncu Serhat Kılıç'ın ölümünü konuşuyor!</description>
-    </item>
-    <item>
-      <title>Halk TV: "O ÖLDÜRDÜ, CESEDİ BAGAJA TAŞIDIK!" Gülistan Doku cinayetinde bomba itiraflar! Her şey açığa çıktı!</title>
-      <link>https://www.youtube.com/watch?v=M6kKnVMVFZc</link>
-      <guid isPermaLink="false">M6kKnVMVFZc</guid>
-      <pubDate>Sun, 06 Sep 2026 11:15:02 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: "O ÖLDÜRDÜ, CESEDİ BAGAJA TAŞIDIK!" Gülistan Doku cinayetinde bomba itiraflar! Her şey açığa çıktı!</description>
     </item>
   </channel>
 </rss>
