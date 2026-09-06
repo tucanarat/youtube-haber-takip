@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 07:40:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 07:45:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | DEM Parti 5'inci Olağan Büyük Kongresi</title>
+      <link>https://www.youtube.com/watch?v=ykGh6F2IUsw</link>
+      <guid isPermaLink="false">ykGh6F2IUsw</guid>
+      <pubDate>Sun, 06 Sep 2026 07:39:22 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | DEM Parti 5'inci Olağan Büyük Kongresi</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Okul zili çalmadan cepler yandı: Bir öğrencinin kırtasiye masrafı 4 bin 500 lirayı buldu</title>
+      <link>https://www.youtube.com/watch?v=DXCZxULQi80</link>
+      <guid isPermaLink="false">DXCZxULQi80</guid>
+      <pubDate>Sun, 06 Sep 2026 07:32:24 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Okul zili çalmadan cepler yandı: Bir öğrencinin kırtasiye masrafı 4 bin 500 lirayı buldu</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: MİKROBİYOLOGDAN ŞOK İTİRAF: "En Pahalı Organik Yumurta Bile Bizi Zehirliyor!"</title>
+      <link>https://www.youtube.com/watch?v=27QmI0vo3Ek</link>
+      <guid isPermaLink="false">27QmI0vo3Ek</guid>
+      <pubDate>Sun, 06 Sep 2026 07:30:18 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: MİKROBİYOLOGDAN ŞOK İTİRAF: "En Pahalı Organik Yumurta Bile Bizi Zehirliyor!"</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Cevdet Yılmaz, 2027-2029 dönemini kapsayan Orta Vadeli Program'ı açıklıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=ZNF1NNI17Go</link>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">LTG5wuisWLs</guid>
       <pubDate>Sat, 05 Sep 2026 18:30:18 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Muhalefet Gözaltı Melih Gökçek'e Davet! Seraf Özer Ateş Püskürdü! AKP'ye Neler Dedi Neler</description>
-    </item>
-    <item>
-      <title>Halk TV: Bakırköy’de otelde korkutan yangın! 12 kişi yaralandı, 7 kişi kurtarıldı!</title>
-      <link>https://www.youtube.com/watch?v=8TJL-9ye5zM</link>
-      <guid isPermaLink="false">8TJL-9ye5zM</guid>
-      <pubDate>Sat, 05 Sep 2026 18:30:15 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Bakırköy’de otelde korkutan yangın! 12 kişi yaralandı, 7 kişi kurtarıldı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel’den köprü ve otoyollar için sert çıkış! “25 sene haraç alacaklar!”</title>
-      <link>https://www.youtube.com/watch?v=pEJ_ISv2kY8</link>
-      <guid isPermaLink="false">pEJ_ISv2kY8</guid>
-      <pubDate>Sat, 05 Sep 2026 18:10:09 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel’den köprü ve otoyollar için sert çıkış! “25 sene haraç alacaklar!”</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: MELİH GÖKÇEK KÖŞEYE Mİ SIKIŞTI? Eski AKP'li İsimden Bülent Arınç'a Şok Çağrı</title>
-      <link>https://www.youtube.com/watch?v=eUAdoHS4bpg</link>
-      <guid isPermaLink="false">eUAdoHS4bpg</guid>
-      <pubDate>Sat, 05 Sep 2026 18:10:02 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: MELİH GÖKÇEK KÖŞEYE Mİ SIKIŞTI? Eski AKP'li İsimden Bülent Arınç'a Şok Çağrı</description>
     </item>
   </channel>
 </rss>
