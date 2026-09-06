@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 09:50:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 09:55:24 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Terliğini eline alıp koşsa da saniyeler için sınava yetişemedi!</title>
+      <link>https://www.youtube.com/shorts/eMU967DmyH8</link>
+      <guid isPermaLink="false">eMU967DmyH8</guid>
+      <pubDate>Sun, 06 Sep 2026 09:49:37 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Terliğini eline alıp koşsa da saniyeler için sınava yetişemedi!</description>
+    </item>
     <item>
       <title>Halk TV: ANKARA'DA DEPREM ETKİSİ YARATACAK SÖZLER! YENİ Partili İlksen Özalper'in 'zalim' çıkışı olay olacak!</title>
       <link>https://www.youtube.com/watch?v=aYip58yldnU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">rgBfEn07y1w</guid>
       <pubDate>Sat, 05 Sep 2026 21:59:13 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Nagihan Turhan ile S Raporu | 5 Eylül</description>
-    </item>
-    <item>
-      <title>Halk TV: Fenerbahçe taraftarı derbi mağlubiyeti sonrası çıldırdı | Enes Köseoğlu ile Tribünün Sesi</title>
-      <link>https://www.youtube.com/watch?v=YpGN4ZCttzs</link>
-      <guid isPermaLink="false">YpGN4ZCttzs</guid>
-      <pubDate>Sat, 05 Sep 2026 21:45:09 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Fenerbahçe taraftarı derbi mağlubiyeti sonrası çıldırdı | Enes Köseoğlu ile Tribünün Sesi</description>
     </item>
   </channel>
 </rss>
