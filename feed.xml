@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 19:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 19:25:24 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Antalya'nın Aksu ilçesinde çıkan orman yangınına, havadan ve karadan müdahale başlatıldı! #shorts</title>
+      <link>https://www.youtube.com/shorts/3PGd9sQzqHs</link>
+      <guid isPermaLink="false">3PGd9sQzqHs</guid>
+      <pubDate>Mon, 07 Sep 2026 19:23:09 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Antalya'nın Aksu ilçesinde çıkan orman yangınına, havadan ve karadan müdahale başlatıldı! #shorts</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Gökçekler Soruşturması Büyüyor! Çarpıcı Beyaz TV Gelişmesi! Soruşturmaların Perde Arkası</title>
+      <link>https://www.youtube.com/watch?v=154L3yUR8eE</link>
+      <guid isPermaLink="false">154L3yUR8eE</guid>
+      <pubDate>Mon, 07 Sep 2026 19:20:35 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Gökçekler Soruşturması Büyüyor! Çarpıcı Beyaz TV Gelişmesi! Soruşturmaların Perde Arkası</description>
+    </item>
     <item>
       <title>Halk TV: Ahmet Gökçek ve eşinin sorgusu 5 saat sürdü: Adliye çıkışında tarihe geçecek o görüntü ortaya çıktı!</title>
       <link>https://www.youtube.com/watch?v=IXaEyLWA1E8</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">R9piVnVFbpc</guid>
       <pubDate>Mon, 07 Sep 2026 15:20:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: 30 Yıllık Otoyol Geliri Nereye Gidecek? Özelleştirmenin Perde Arkası | Yalçın Karatepe Anlatıyor</description>
-    </item>
-    <item>
-      <title>Halk TV: Gizem Çetin ile Parantez (7 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=Iz8fqnglT1M</link>
-      <guid isPermaLink="false">Iz8fqnglT1M</guid>
-      <pubDate>Mon, 07 Sep 2026 15:05:15 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Gizem Çetin ile Parantez (7 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: ÜSKÜDAR ERDOĞAN İÇİN NEDEN BU KADAR ÖNEMLİ? Bahadır Özgür'ün analizi gündemi sarsacak! Olay sözler!</title>
-      <link>https://www.youtube.com/watch?v=6__VXDFSMAA</link>
-      <guid isPermaLink="false">6__VXDFSMAA</guid>
-      <pubDate>Mon, 07 Sep 2026 15:05:03 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ÜSKÜDAR ERDOĞAN İÇİN NEDEN BU KADAR ÖNEMLİ? Bahadır Özgür'ün analizi gündemi sarsacak! Olay sözler!</description>
     </item>
   </channel>
 </rss>
