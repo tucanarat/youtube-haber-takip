@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 09:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 09:40:31 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Ünlü oyuncu Serhat Kılıç'a Veda... Bennu Yıldırımlar: ''Seni çok sevdik''</title>
+      <link>https://www.youtube.com/shorts/0WpeDZM3WrI</link>
+      <guid isPermaLink="false">0WpeDZM3WrI</guid>
+      <pubDate>Mon, 07 Sep 2026 09:38:15 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Ünlü oyuncu Serhat Kılıç'a Veda... Bennu Yıldırımlar: ''Seni çok sevdik''</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti İstanbul Milletvekili Suat Özçağdaş açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=gfIXLH2Z5iI</link>
@@ -78,11 +85,11 @@
       <description>SÖZCÜ TV kanalından yeni video: Melih Gökçek'e MASAK Şoku! Gökçeklerin Almanya'daki HAMAK Şirketi Patladı! İsmail Saymaz Anlattı</description>
     </item>
     <item>
-      <title>Tele2 Haber: Gülistan Doku Cinayetini FBI Sorgusunda İtiraf Etti! "Bu Suç Örgütü En Ağız Cezayı Almalı!"</title>
+      <title>Tele2 Haber: Gülistan Doku Cinayetini FBI Sorgusunda İtiraf Etti! "Bu Suç Örgütü En Ağır Cezayı Almalı!"</title>
       <link>https://www.youtube.com/watch?v=F4P6OAjD3F8</link>
       <guid isPermaLink="false">F4P6OAjD3F8</guid>
       <pubDate>Mon, 07 Sep 2026 09:00:20 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Gülistan Doku Cinayetini FBI Sorgusunda İtiraf Etti! "Bu Suç Örgütü En Ağız Cezayı Almalı!"</description>
+      <description>Tele2 Haber kanalından yeni video: Gülistan Doku Cinayetini FBI Sorgusunda İtiraf Etti! "Bu Suç Örgütü En Ağır Cezayı Almalı!"</description>
     </item>
     <item>
       <title>Halk TV: ÜSKÜDAR'DA NEFESLER TUTULDU! Başkanvekili seçimi öncesi Özgür Çelik'ten AKP ve MHP'lilere flaş çağrı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">M4Fi8zvqdsw</guid>
       <pubDate>Mon, 07 Sep 2026 07:01:07 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: GÖKÇEK AİLESİNİN GİZLİ SERVETİ! İsmail Saymaz'dan Bomba İddia! Yurtdışına Para mı Kaçırıldı?</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Karaburun’da boğulma tehlikesi! Cankurtaran son anda yetişti</title>
-      <link>https://www.youtube.com/shorts/SoVQE060dj0</link>
-      <guid isPermaLink="false">SoVQE060dj0</guid>
-      <pubDate>Mon, 07 Sep 2026 07:00:25 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Karaburun’da boğulma tehlikesi! Cankurtaran son anda yetişti</description>
     </item>
   </channel>
 </rss>
