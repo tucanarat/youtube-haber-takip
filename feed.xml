@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 11:30:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 11:35:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: GÖKÇEK'TEN SONRA SIRA OĞLU VE GELİNİNDE! İfade vermek için adliyeye geldiler, görüntü vermediler!</title>
+      <link>https://www.youtube.com/watch?v=pAAsT4RaAcI</link>
+      <guid isPermaLink="false">pAAsT4RaAcI</guid>
+      <pubDate>Mon, 07 Sep 2026 11:22:13 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: GÖKÇEK'TEN SONRA SIRA OĞLU VE GELİNİNDE! İfade vermek için adliyeye geldiler, görüntü vermediler!</description>
+    </item>
     <item>
       <title>Cumhuriyet: Üsküdar Belediyesi'nde başkan vekilliği seçimi öncesi CHP ve YENİ Parti'den birlik mesajı</title>
       <link>https://www.youtube.com/watch?v=BVXdee6pcq8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">NSXds6lrzT0</guid>
       <pubDate>Mon, 07 Sep 2026 08:44:38 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SON DAKİKA! Ahbap soruşturması derinleşiyor! 5. dalga operasyonda 20 ilde 53 şüpheliye operasyon!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Bodrum sahillerinde mucizevi anlar: 62 yavru caretta caretta denizle buluştu</title>
-      <link>https://www.youtube.com/shorts/FisAawsZ79g</link>
-      <guid isPermaLink="false">FisAawsZ79g</guid>
-      <pubDate>Mon, 07 Sep 2026 08:41:56 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Bodrum sahillerinde mucizevi anlar: 62 yavru caretta caretta denizle buluştu</description>
     </item>
   </channel>
 </rss>
