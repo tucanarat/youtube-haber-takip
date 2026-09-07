@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 21:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 21:10:34 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Melih Gökçek soruşturması AKP içine dair bir şey söylüyor mu?  Ersin Eroğlu yorumladı...</title>
+      <link>https://www.youtube.com/watch?v=iFF7S1_g8u4</link>
+      <guid isPermaLink="false">iFF7S1_g8u4</guid>
+      <pubDate>Mon, 07 Sep 2026 21:00:25 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Melih Gökçek soruşturması AKP içine dair bir şey söylüyor mu?  Ersin Eroğlu yorumladı...</description>
+    </item>
+    <item>
+      <title>Halk TV: Siirt’te yangın alarmı! Otluk alandaki alevlere müdahale ediliyor! #shorts</title>
+      <link>https://www.youtube.com/shorts/tEioVH1rbDg</link>
+      <guid isPermaLink="false">tEioVH1rbDg</guid>
+      <pubDate>Mon, 07 Sep 2026 21:00:20 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Siirt’te yangın alarmı! Otluk alandaki alevlere müdahale ediliyor! #shorts</description>
+    </item>
     <item>
       <title>Halk TV: Ankara’da taksi durağında kavga kameraya böyle yansıdı! 2 şoförü darbeden şüpheliler yakalandı!</title>
       <link>https://www.youtube.com/shorts/capMA6WctZs</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">fRSNiz74_Pg</guid>
       <pubDate>Mon, 07 Sep 2026 16:58:11 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Ece Üner ile Halk Ana Haber | #gururumuz (7 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Köprüler, otoyollar ve çevreyolları özelleştirme kararı! Murat Taylan ile Haber-Yorum (07.09.2026)</title>
-      <link>https://www.youtube.com/watch?v=2LVeRgKW1rY</link>
-      <guid isPermaLink="false">2LVeRgKW1rY</guid>
-      <pubDate>Mon, 07 Sep 2026 16:57:44 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Köprüler, otoyollar ve çevreyolları özelleştirme kararı! Murat Taylan ile Haber-Yorum (07.09.2026)</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Özlem Gürses ile Sözcü Ana Haber 7 Eylül</title>
-      <link>https://www.youtube.com/watch?v=-dHFeOKVK-U</link>
-      <guid isPermaLink="false">-dHFeOKVK-U</guid>
-      <pubDate>Mon, 07 Sep 2026 16:55:10 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses ile Sözcü Ana Haber 7 Eylül</description>
     </item>
   </channel>
 </rss>
