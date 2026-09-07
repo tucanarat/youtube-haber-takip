@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 12:40:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 12:45:29 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Ahmet Davutoğlu, Ankara Adliyesi önünde açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=FEdBvaeSej0</link>
+      <guid isPermaLink="false">FEdBvaeSej0</guid>
+      <pubDate>Mon, 07 Sep 2026 12:42:48 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Ahmet Davutoğlu, Ankara Adliyesi önünde açıklama yapıyor #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: SON DAKİKA! İLK KEZ HAKİM KARŞISINA ÇIKTI! Veyis Ateş'e 'uyuşturucu' davasında tahliye kararı!</title>
       <link>https://www.youtube.com/watch?v=UJKc6LcgGdk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">KubQfn7kumY</guid>
       <pubDate>Mon, 07 Sep 2026 09:56:08 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Emre Karayel'den arkadaşı Serhat Kılıç'a veda; "Bana çok emek verdi, beni yetiştiridi"</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI YENİ Parti İstanbul Milletvekili Suat Özçağdaş açıklama yapıyor</title>
-      <link>https://www.youtube.com/watch?v=gZXsAGzQKAI</link>
-      <guid isPermaLink="false">gZXsAGzQKAI</guid>
-      <pubDate>Mon, 07 Sep 2026 09:52:09 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti İstanbul Milletvekili Suat Özçağdaş açıklama yapıyor</description>
     </item>
   </channel>
 </rss>
