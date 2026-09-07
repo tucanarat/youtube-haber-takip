@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 20:45:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 20:50:32 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: AKP'nin Üsküdar ve Beykoz Planı! İsmail Saymaz'dan Sert Sözler! Burcu Köksal ve Çerçioğlu Çıkışı</title>
       <link>https://www.youtube.com/watch?v=COaPLU3XSxI</link>
       <guid isPermaLink="false">COaPLU3XSxI</guid>
       <pubDate>Mon, 07 Sep 2026 20:40:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: AKP'nin Üsküdar ve Beykoz Planı! İsmail Saymaz'dan Sert Sözler! Burcu Köksal ve Çerçioğlu Çıkışı</description>
+    </item>
+    <item>
+      <title>Halk TV: "Yangın ilerleyerek devam ediyor" Antalya'daki orman yangınıyla ilgili son gelişmeler!</title>
+      <link>https://www.youtube.com/watch?v=mN-CPl4OOac</link>
+      <guid isPermaLink="false">mN-CPl4OOac</guid>
+      <pubDate>Mon, 07 Sep 2026 20:38:26 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: "Yangın ilerleyerek devam ediyor" Antalya'daki orman yangınıyla ilgili son gelişmeler!</description>
     </item>
     <item>
       <title>Tele2 Haber: Özelleştirmeler sonrası erken seçim mi geliyor? Görkem Doğan yaşananlar için kritik yorum!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">O2--fk682LU</guid>
       <pubDate>Mon, 07 Sep 2026 16:40:37 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Gökçekler Soruşturmasında Çarpıcı Karar! Melih Gökçek'ten Olay Çıkış! Özlem Gürses Anlattı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: İmamoğlu'nun avukatlarından uzun duruşma süresine itiraz etti! Murat Taylan'dan kritik yorum...</title>
-      <link>https://www.youtube.com/watch?v=UqmOeHH_QDM</link>
-      <guid isPermaLink="false">UqmOeHH_QDM</guid>
-      <pubDate>Mon, 07 Sep 2026 16:40:06 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: İmamoğlu'nun avukatlarından uzun duruşma süresine itiraz etti! Murat Taylan'dan kritik yorum...</description>
     </item>
   </channel>
 </rss>
