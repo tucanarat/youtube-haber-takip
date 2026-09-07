@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 07:15:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 07:20:30 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: "Takım olarak başardık": Eda Erdem milli takımın yaz maratonunu zaferle özetledi</title>
+      <link>https://www.youtube.com/shorts/R8_cmBqRIvk</link>
+      <guid isPermaLink="false">R8_cmBqRIvk</guid>
+      <pubDate>Mon, 07 Sep 2026 07:15:11 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: "Takım olarak başardık": Eda Erdem milli takımın yaz maratonunu zaferle özetledi</description>
+    </item>
+    <item>
+      <title>Halk TV: Deniz Bayramoğlu ile Gün Doğarken | #kupahepimizin (7 Eylül 2026)</title>
+      <link>https://www.youtube.com/watch?v=ADORIrMSFe4</link>
+      <guid isPermaLink="false">ADORIrMSFe4</guid>
+      <pubDate>Mon, 07 Sep 2026 07:02:59 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Deniz Bayramoğlu ile Gün Doğarken | #kupahepimizin (7 Eylül 2026)</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: GÖKÇEK AİLESİNİN GİZLİ SERVETİ! İsmail Saymaz'dan Bomba İddia! Yurtdışına Para mı Kaçırıldı?</title>
       <link>https://www.youtube.com/watch?v=M4Fi8zvqdsw</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">oXKyqCqfRFI</guid>
       <pubDate>Sun, 06 Sep 2026 20:06:50 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Yeniden Refah Genel Başkanı Fatih Erbakan, il başkanları toplantısı öncesi açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Mustafa Balbay Çarpıcı Mehmet Şimşek Gerçeğini Anlattı! 8 Yıllık Krizin Perde Arkası</title>
-      <link>https://www.youtube.com/watch?v=iKwvb-UIf_g</link>
-      <guid isPermaLink="false">iKwvb-UIf_g</guid>
-      <pubDate>Sun, 06 Sep 2026 20:00:28 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Mustafa Balbay Çarpıcı Mehmet Şimşek Gerçeğini Anlattı! 8 Yıllık Krizin Perde Arkası</description>
-    </item>
-    <item>
-      <title>Halk TV: "Seçmen iradesi sadece seçim gecesi mi geçerli?" Üsküdar için her yol mübah mı?</title>
-      <link>https://www.youtube.com/watch?v=FI3n0smyGjU</link>
-      <guid isPermaLink="false">FI3n0smyGjU</guid>
-      <pubDate>Sun, 06 Sep 2026 20:00:08 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: "Seçmen iradesi sadece seçim gecesi mi geçerli?" Üsküdar için her yol mübah mı?</description>
     </item>
   </channel>
 </rss>
