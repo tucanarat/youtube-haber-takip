@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 05:55:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 06:00:51 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Pınar Erbaş ile Gecenin Sözü</title>
+      <link>https://www.youtube.com/watch?v=FUKT73iKskE</link>
+      <guid isPermaLink="false">FUKT73iKskE</guid>
+      <pubDate>Mon, 07 Sep 2026 05:58:55 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Pınar Erbaş ile Gecenin Sözü</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Ekrem Açıkel ile Hafta Başı</title>
+      <link>https://www.youtube.com/watch?v=2ldwjlMXPX0</link>
+      <guid isPermaLink="false">2ldwjlMXPX0</guid>
+      <pubDate>Mon, 07 Sep 2026 05:57:59 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Ekrem Açıkel ile Hafta Başı</description>
+    </item>
     <item>
       <title>Halk TV: AKP ÜSKÜDAR İÇİN HER TUŞA BASIYOR! Başkanvekilliği seçiminde oy kullanacak Ekrem Baki tutuklandı!</title>
       <link>https://www.youtube.com/watch?v=gkDifDxsaUY</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">DqFkAnyVUYM</guid>
       <pubDate>Sun, 06 Sep 2026 18:20:04 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: AKP'de Melih Gökçek ve Binali Yıldırım Depremi! Erdoğan Sonrasına Gizli Hesap! Timur Soykan Anlattı</description>
-    </item>
-    <item>
-      <title>Halk TV: TÜRKİYE BU ÖLÜMÜ KONUŞUYOR: Oyuncu Serhat Kılıç'ın son görüntüsü ortaya çıktı!</title>
-      <link>https://www.youtube.com/watch?v=51e-b1n1CsM</link>
-      <guid isPermaLink="false">51e-b1n1CsM</guid>
-      <pubDate>Sun, 06 Sep 2026 18:03:30 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: TÜRKİYE BU ÖLÜMÜ KONUŞUYOR: Oyuncu Serhat Kılıç'ın son görüntüsü ortaya çıktı!</description>
-    </item>
-    <item>
-      <title>Halk TV: BU HABER ÜLKEDE GÜNDEM OLUR: Halk TV muhabiri sordu; verdiği yanıtlarla yürekleri dağladı!</title>
-      <link>https://www.youtube.com/watch?v=e0yvdHVSpwg</link>
-      <guid isPermaLink="false">e0yvdHVSpwg</guid>
-      <pubDate>Sun, 06 Sep 2026 18:00:26 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BU HABER ÜLKEDE GÜNDEM OLUR: Halk TV muhabiri sordu; verdiği yanıtlarla yürekleri dağladı!</description>
     </item>
   </channel>
 </rss>
