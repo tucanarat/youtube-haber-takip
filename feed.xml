@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 17:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 17:20:32 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Üsküdar Belediyesi önünde "Üsküdar'ın İradesi Yok Sayılamaz" buluşması düzenleniyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=AHZ1S1xhjoc</link>
+      <guid isPermaLink="false">AHZ1S1xhjoc</guid>
+      <pubDate>Mon, 07 Sep 2026 17:19:04 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Üsküdar Belediyesi önünde "Üsküdar'ın İradesi Yok Sayılamaz" buluşması düzenleniyor #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: Doğrudan yüzüne doğru söyledi: Ülkü İnanlı, AKP’ye geçen Eren Ali Bingöl'ü yerin dibine soktu!</title>
       <link>https://www.youtube.com/watch?v=_BtTZSEPAx4</link>
@@ -43,11 +50,11 @@
       <description>Halk TV kanalından yeni video: Ece Üner ile Halk Ana Haber | #gururumuz (7 Eylül 2026)</description>
     </item>
     <item>
-      <title>Tele2 Haber: Köprüler, otoyollar ve çevreyolları özelleştirme kararı! Murat Taylan ile Haber-Yorum (07.09.2026)</title>
+      <title>Tele2 Haber: #CANLI Murat Taylan ile Haber-Yorum (07.09.2026)</title>
       <link>https://www.youtube.com/watch?v=2LVeRgKW1rY</link>
       <guid isPermaLink="false">2LVeRgKW1rY</guid>
       <pubDate>Mon, 07 Sep 2026 16:57:44 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Köprüler, otoyollar ve çevreyolları özelleştirme kararı! Murat Taylan ile Haber-Yorum (07.09.2026)</description>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Murat Taylan ile Haber-Yorum (07.09.2026)</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Özlem Gürses ile Sözcü Ana Haber 7 Eylül</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">YiYMN2bGCwg</guid>
       <pubDate>Mon, 07 Sep 2026 13:30:15 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "Devletin Gücüyle Patronluk Taslayıp Zengin Oluyorlar!" Demir'den Çok Sert Melih Gökçek Tepkisi!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İsmail Küçükkaya'dan Çarpıcı AKP, Mehmet Şimşek ve Seçim Kulisi! "İhtimal Vermem!"</title>
-      <link>https://www.youtube.com/watch?v=Z46zfbwqPbs</link>
-      <guid isPermaLink="false">Z46zfbwqPbs</guid>
-      <pubDate>Mon, 07 Sep 2026 13:30:08 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya'dan Çarpıcı AKP, Mehmet Şimşek ve Seçim Kulisi! "İhtimal Vermem!"</description>
     </item>
   </channel>
 </rss>
