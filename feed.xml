@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 07:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 08:00:49 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Şırnak'ta 8 katlı binaya yıldırım isabet etti: Binada hasar medyana geldi</title>
+      <link>https://www.youtube.com/shorts/c3oX2GJTFEc</link>
+      <guid isPermaLink="false">c3oX2GJTFEc</guid>
+      <pubDate>Mon, 07 Sep 2026 07:50:26 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Şırnak'ta 8 katlı binaya yıldırım isabet etti: Binada hasar medyana geldi</description>
+    </item>
     <item>
       <title>Halk TV: Ünlü oyuncu Serhat Kılıç'ın ölümünde kahreden detaylar! Kız arkadaşı cenazesini böyle bulmuş!</title>
       <link>https://www.youtube.com/watch?v=CyieoZ_DZVo</link>
       <guid isPermaLink="false">CyieoZ_DZVo</guid>
       <pubDate>Mon, 07 Sep 2026 07:46:53 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Ünlü oyuncu Serhat Kılıç'ın ölümünde kahreden detaylar! Kız arkadaşı cenazesini böyle bulmuş!</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Sanat dünyası yasta: Evinde ölü bulunan Serhat Kılıç'ın yürek burkan son görüntüsü ortaya çıktı</title>
+      <link>https://www.youtube.com/shorts/37OpEFVRHRc</link>
+      <guid isPermaLink="false">37OpEFVRHRc</guid>
+      <pubDate>Mon, 07 Sep 2026 07:46:05 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Sanat dünyası yasta: Evinde ölü bulunan Serhat Kılıç'ın yürek burkan son görüntüsü ortaya çıktı</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Gürsel Tekin, Girişimci İş ve Fikir İnsanları Derneği'ni (GİSİAD) ziyaret ediyor #Canlı</title>
@@ -288,11 +302,11 @@
       <description>SÖZCÜ TV kanalından yeni video: #CANLI Can Coşkun ile Gündem Masası</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: #CANLI İsmail Küçükkaya ile Günaydın Türkiyem</title>
+      <title>SÖZCÜ TV: İsmail Küçükkaya ile Günaydın Türkiyem | 7 Eylül</title>
       <link>https://www.youtube.com/watch?v=21Io4apo4J8</link>
       <guid isPermaLink="false">21Io4apo4J8</guid>
       <pubDate>Sun, 06 Sep 2026 22:48:34 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: #CANLI İsmail Küçükkaya ile Günaydın Türkiyem</description>
+      <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya ile Günaydın Türkiyem | 7 Eylül</description>
     </item>
     <item>
       <title>SÖZCÜ TV: İktidar İçinde Büyük Tasfiye! Türkiye'nin Acı Hukuk Karnesi! Mustafa Balbay'dan Çarpıcı Sözler</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">eAtT7ReOtKw</guid>
       <pubDate>Sun, 06 Sep 2026 21:56:10 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Burçin Atılgan ile Gündem Özel (6 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: ERZURUM’un Çat ilçesinde şimşek çakması sonucu ilçeye bağlı 3 mahallede otluk yangınları çıktı</title>
-      <link>https://www.youtube.com/shorts/mF9al-KoyoA</link>
-      <guid isPermaLink="false">mF9al-KoyoA</guid>
-      <pubDate>Sun, 06 Sep 2026 21:55:01 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ERZURUM’un Çat ilçesinde şimşek çakması sonucu ilçeye bağlı 3 mahallede otluk yangınları çıktı</description>
-    </item>
-    <item>
-      <title>Halk TV: FİLENİN SULTANLARI YENİDEN TARİH YAZDI! Vatandaş sokaklarda coşkuyla kutladı!</title>
-      <link>https://www.youtube.com/watch?v=v9FCZffCU-g</link>
-      <guid isPermaLink="false">v9FCZffCU-g</guid>
-      <pubDate>Sun, 06 Sep 2026 21:45:34 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: FİLENİN SULTANLARI YENİDEN TARİH YAZDI! Vatandaş sokaklarda coşkuyla kutladı!</description>
     </item>
   </channel>
 </rss>
