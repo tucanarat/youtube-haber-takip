@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 03:05:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 03:10:30 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: CHP Genel Başkan Yardımcısı Necdet Saraç, CHP Kadıköy İlçe Başkanlığı'nda açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=8uvOppjPURI</link>
       <guid isPermaLink="false">8uvOppjPURI</guid>
       <pubDate>Mon, 07 Sep 2026 00:06:42 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkan Yardımcısı Necdet Saraç, CHP Kadıköy İlçe Başkanlığı'nda açıklama yapıyor #Canlı</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Süheyla Demir ile Günaydın Türkiye</title>
+      <link>https://www.youtube.com/watch?v=zLoYWcIbMic</link>
+      <guid isPermaLink="false">zLoYWcIbMic</guid>
+      <pubDate>Sun, 06 Sep 2026 23:22:08 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Süheyla Demir ile Günaydın Türkiye</description>
     </item>
     <item>
       <title>SÖZCÜ TV: 'Dip Dalga Geliyor' Mustafa Balbay'dan Bomba Kulis! Üsküdar'da Seçim Oyunu! İmamoğlu Sözleri</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">0_mD-y_XlW8</guid>
       <pubDate>Sun, 06 Sep 2026 17:45:18 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Oyuncu Serhat Kılıç'ın Son Görüntüleri Ortaya Çıktı! #shorts</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Önce Özelleştirme Sonra Demagoji! Eski Türkiye Satıla Satıla Bitti! Ekrem Açıkel 24 Yılı Anlattı</title>
-      <link>https://www.youtube.com/watch?v=U4EmYjTMJUg</link>
-      <guid isPermaLink="false">U4EmYjTMJUg</guid>
-      <pubDate>Sun, 06 Sep 2026 17:40:35 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Önce Özelleştirme Sonra Demagoji! Eski Türkiye Satıla Satıla Bitti! Ekrem Açıkel 24 Yılı Anlattı</description>
     </item>
   </channel>
 </rss>
