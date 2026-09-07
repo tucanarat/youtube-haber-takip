@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 21:35:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 21:40:31 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: #CANLI Oyuncu Serhat Kılıç için Harbiye Muhsin Ertuğrul Sahnesi'nde tören düzenleniyor</title>
       <link>https://www.youtube.com/watch?v=AcQr_zYfcNI</link>
       <guid isPermaLink="false">AcQr_zYfcNI</guid>
       <pubDate>Mon, 07 Sep 2026 21:33:56 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Oyuncu Serhat Kılıç için Harbiye Muhsin Ertuğrul Sahnesi'nde tören düzenleniyor</description>
+    </item>
+    <item>
+      <title>Halk TV: Kilis OSB’de ambalaj fabrikası alev aldı: Duvar çöktü, itfaiyeci yaralandı, 150 kişi müdahale etti!</title>
+      <link>https://www.youtube.com/watch?v=tsohUmFzwdY</link>
+      <guid isPermaLink="false">tsohUmFzwdY</guid>
+      <pubDate>Mon, 07 Sep 2026 21:30:22 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Kilis OSB’de ambalaj fabrikası alev aldı: Duvar çöktü, itfaiyeci yaralandı, 150 kişi müdahale etti!</description>
+    </item>
+    <item>
+      <title>Halk TV: Nijerya’nın başkentinde faciaya dönen çökme! İlk belirlemeye göre 2 kişi hayatını kaybetti! #shorts</title>
+      <link>https://www.youtube.com/shorts/w93OSRyDwMA</link>
+      <guid isPermaLink="false">w93OSRyDwMA</guid>
+      <pubDate>Mon, 07 Sep 2026 21:30:07 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Nijerya’nın başkentinde faciaya dönen çökme! İlk belirlemeye göre 2 kişi hayatını kaybetti! #shorts</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: CHP Üsküdar Başkanı Zerrin Civandağ ve Yeni Parti Üsküdar Başkanı Berk Tütüncü açıklama yapıyor #</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">hJI2oO-Fu40</guid>
       <pubDate>Mon, 07 Sep 2026 17:40:48 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Üsküdar Belediyesi önünde "Üsküdar'ın İradesi Yok Sayılamaz" buluşması düzenlendi! (7 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Melih Gökçek'ten Tarihi İtiraf! 500 Soruşturmanın Sırrı Çözüldü! 'Bana Kimse Dokunamaz' Resti</title>
-      <link>https://www.youtube.com/watch?v=sQxs7FjXsqY</link>
-      <guid isPermaLink="false">sQxs7FjXsqY</guid>
-      <pubDate>Mon, 07 Sep 2026 17:40:32 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Melih Gökçek'ten Tarihi İtiraf! 500 Soruşturmanın Sırrı Çözüldü! 'Bana Kimse Dokunamaz' Resti</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Veyis Ateş ilk duruşmada tahliye edildi! Murat Taylan, 'CASUSLUK DAVASI'nı hatırlattı...</title>
-      <link>https://www.youtube.com/watch?v=6eOf3t-k3PY</link>
-      <guid isPermaLink="false">6eOf3t-k3PY</guid>
-      <pubDate>Mon, 07 Sep 2026 17:30:07 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Veyis Ateş ilk duruşmada tahliye edildi! Murat Taylan, 'CASUSLUK DAVASI'nı hatırlattı...</description>
     </item>
   </channel>
 </rss>
