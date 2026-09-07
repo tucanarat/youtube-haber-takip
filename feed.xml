@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 08:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 08:40:27 +0000</lastBuildDate>
     <item>
       <title>Halk TV: FBI Ajanları 2 Gün Sorguladı: 109 Soruya Yanıt Veren Umut Altaş, Cinayeti Anbean Anlattı!</title>
       <link>https://www.youtube.com/watch?v=DfkWoWHRAUI</link>
       <guid isPermaLink="false">DfkWoWHRAUI</guid>
       <pubDate>Mon, 07 Sep 2026 08:35:18 +0000</pubDate>
       <description>Halk TV kanalından yeni video: FBI Ajanları 2 Gün Sorguladı: 109 Soruya Yanıt Veren Umut Altaş, Cinayeti Anbean Anlattı!</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Yapay zekânın gözünden AK-Yargı-Mehmet Ali Güller</title>
+      <link>https://www.youtube.com/watch?v=IoBmky0E3OM</link>
+      <guid isPermaLink="false">IoBmky0E3OM</guid>
+      <pubDate>Mon, 07 Sep 2026 08:33:06 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Yapay zekânın gözünden AK-Yargı-Mehmet Ali Güller</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: İklim krizi önce yoksulu vuruyor-Jale Özgentürk</title>
+      <link>https://www.youtube.com/watch?v=Lu0rIDyPoAY</link>
+      <guid isPermaLink="false">Lu0rIDyPoAY</guid>
+      <pubDate>Mon, 07 Sep 2026 08:32:36 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: İklim krizi önce yoksulu vuruyor-Jale Özgentürk</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: CHP Üsküdar Başkanı Zerrin Civandağ ve Yeni Parti Üsküdar Başkanı Berk Tütüncü açıklama yapıyor #</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">isA_E0hnffM</guid>
       <pubDate>Sun, 06 Sep 2026 22:51:08 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Damla Doğan Tuncel ile 1 Saat</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Serap Belovacıklı ile Haber Saati</title>
-      <link>https://www.youtube.com/watch?v=BBGwq6-j9iA</link>
-      <guid isPermaLink="false">BBGwq6-j9iA</guid>
-      <pubDate>Sun, 06 Sep 2026 22:50:31 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Serap Belovacıklı ile Haber Saati</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Senem Toluay Ilgaz ile Öncesi Sonrası</title>
-      <link>https://www.youtube.com/watch?v=_bgiHndWoSc</link>
-      <guid isPermaLink="false">_bgiHndWoSc</guid>
-      <pubDate>Sun, 06 Sep 2026 22:49:54 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Senem Toluay Ilgaz ile Öncesi Sonrası</description>
     </item>
   </channel>
 </rss>
