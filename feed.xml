@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 22:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 23:00:52 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Merve Ekinci ile Uyanma Vakti</title>
+      <link>https://www.youtube.com/watch?v=qSkSKtuhlo4</link>
+      <guid isPermaLink="false">qSkSKtuhlo4</guid>
+      <pubDate>Mon, 07 Sep 2026 22:59:01 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Merve Ekinci ile Uyanma Vakti</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Engel Tanımayan Şampiyon! Tuna Tunca Catalina'yı Nasıl Geçtiğini Anlattı! Okyanusu Dize Getirdi</title>
       <link>https://www.youtube.com/watch?v=XR7feWgP3io</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">nG9QA6GPW18</guid>
       <pubDate>Mon, 07 Sep 2026 18:40:34 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İsmail Saymaz'dan Olay Ahmet Gökçek İddiası! Melih Gökçek’ten Çarpıcı İtiraf! 3.8 Milyon Euro...</description>
-    </item>
-    <item>
-      <title>Halk TV: DÜZCE'DE FECİ KAZA! TIR ile “patpat” çarpıştı! 4 kişi hayatını kaybetti, 9 kişi yaralandı!</title>
-      <link>https://www.youtube.com/watch?v=64sKG072Eno</link>
-      <guid isPermaLink="false">64sKG072Eno</guid>
-      <pubDate>Mon, 07 Sep 2026 18:32:14 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: DÜZCE'DE FECİ KAZA! TIR ile “patpat” çarpıştı! 4 kişi hayatını kaybetti, 9 kişi yaralandı!</description>
     </item>
   </channel>
 </rss>
