@@ -6,20 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 03:55:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 04:00:50 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Süheyla Demir ile Günaydın Türkiye (7 Eylül 2026)</title>
+      <link>https://www.youtube.com/watch?v=zLoYWcIbMic</link>
+      <guid isPermaLink="false">zLoYWcIbMic</guid>
+      <pubDate>Mon, 07 Sep 2026 03:55:25 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Süheyla Demir ile Günaydın Türkiye (7 Eylül 2026)</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: CHP Genel Başkan Yardımcısı Necdet Saraç, CHP Kadıköy İlçe Başkanlığı'nda açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=8uvOppjPURI</link>
       <guid isPermaLink="false">8uvOppjPURI</guid>
       <pubDate>Mon, 07 Sep 2026 00:06:42 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkan Yardımcısı Necdet Saraç, CHP Kadıköy İlçe Başkanlığı'nda açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: Süheyla Demir ile Günaydın Türkiye (7 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=zLoYWcIbMic</link>
-      <guid isPermaLink="false">zLoYWcIbMic</guid>
-      <pubDate>Sun, 06 Sep 2026 23:22:08 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Süheyla Demir ile Günaydın Türkiye (7 Eylül 2026)</description>
     </item>
     <item>
       <title>SÖZCÜ TV: 'Dip Dalga Geliyor' Mustafa Balbay'dan Bomba Kulis! Üsküdar'da Seçim Oyunu! İmamoğlu Sözleri</title>
@@ -71,11 +71,11 @@
       <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya ile Günaydın Türkiyem</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: Merve Ekinci ile Uyanma Vakti</title>
+      <title>SÖZCÜ TV: #CANLI Merve Ekinci ile Uyanma Vakti</title>
       <link>https://www.youtube.com/watch?v=ipSjvJifxk8</link>
       <guid isPermaLink="false">ipSjvJifxk8</guid>
       <pubDate>Sun, 06 Sep 2026 22:48:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Merve Ekinci ile Uyanma Vakti</description>
+      <description>SÖZCÜ TV kanalından yeni video: #CANLI Merve Ekinci ile Uyanma Vakti</description>
     </item>
     <item>
       <title>SÖZCÜ TV: İktidar İçinde Büyük Tasfiye! Türkiye'nin Acı Hukuk Karnesi! Mustafa Balbay'dan Çarpıcı Sözler</title>
@@ -323,6 +323,13 @@
       <description>ANKA Haber Ajansı kanalından yeni video: İstanbul’da Filenin Sultanları’nın İtalya karşılaşması dev ekranlardan takip ediliyor #Canlı</description>
     </item>
     <item>
+      <title>Halk TV: #CANLI | Deniz Bayramoğlu ile Gün Doğarken</title>
+      <link>https://www.youtube.com/watch?v=ADORIrMSFe4</link>
+      <guid isPermaLink="false">ADORIrMSFe4</guid>
+      <pubDate>Sun, 06 Sep 2026 18:21:26 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Deniz Bayramoğlu ile Gün Doğarken</description>
+    </item>
+    <item>
       <title>SÖZCÜ TV: AKP'de Melih Gökçek ve Binali Yıldırım Depremi! Erdoğan Sonrasına Gizli Hesap! Timur Soykan Anlattı</title>
       <link>https://www.youtube.com/watch?v=DqFkAnyVUYM</link>
       <guid isPermaLink="false">DqFkAnyVUYM</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">1TwcL2rpcN0</guid>
       <pubDate>Sun, 06 Sep 2026 18:00:09 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Timur Soykan Kan Donduran Kara Para Ağını Çökertti! Varlık Barışı Sistemini Tek Tek Anlattı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Oyuncu Serhat Kılıç'ın Son Görüntüleri Ortaya Çıktı! #shorts</title>
-      <link>https://www.youtube.com/shorts/0_mD-y_XlW8</link>
-      <guid isPermaLink="false">0_mD-y_XlW8</guid>
-      <pubDate>Sun, 06 Sep 2026 17:45:18 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Oyuncu Serhat Kılıç'ın Son Görüntüleri Ortaya Çıktı! #shorts</description>
     </item>
   </channel>
 </rss>
