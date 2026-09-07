@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 10:30:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 10:35:24 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: FELAKET SENARYOSU GİBİ TABLO! Ekonomide dengeler altüst oldu! Enflasyon beklentisi fena şaştı!</title>
+      <link>https://www.youtube.com/watch?v=nsoP39Zb5Zk</link>
+      <guid isPermaLink="false">nsoP39Zb5Zk</guid>
+      <pubDate>Mon, 07 Sep 2026 10:30:01 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: FELAKET SENARYOSU GİBİ TABLO! Ekonomide dengeler altüst oldu! Enflasyon beklentisi fena şaştı!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Melih Gökçek'in oğlu Ahmet Gökçek ve gelini Hülya Gökçek, Ankara Adliyesi'nde #Canlı</title>
       <link>https://www.youtube.com/watch?v=L5_wcv17fPw</link>
       <guid isPermaLink="false">L5_wcv17fPw</guid>
       <pubDate>Mon, 07 Sep 2026 10:29:00 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Melih Gökçek'in oğlu Ahmet Gökçek ve gelini Hülya Gökçek, Ankara Adliyesi'nde #Canlı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İsmail Saymaz'dan Beştepe ve AKP Kulisleri! Ankara Hareketli! "Bana Kimse Dokunamaz Diyen Kalmadı"</title>
+      <link>https://www.youtube.com/watch?v=32BzTRQaNXM</link>
+      <guid isPermaLink="false">32BzTRQaNXM</guid>
+      <pubDate>Mon, 07 Sep 2026 10:20:26 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İsmail Saymaz'dan Beştepe ve AKP Kulisleri! Ankara Hareketli! "Bana Kimse Dokunamaz Diyen Kalmadı"</description>
     </item>
     <item>
       <title>Cumhuriyet: Köprü ve yol özelleşti̇rmeleri yurttaşı ne i̇le karşı karşıya bırakıyor? İnan Mutlu anlattı.</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">vkXJSqnuzmM</guid>
       <pubDate>Mon, 07 Sep 2026 08:07:12 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Üsküdar'da yarın seçim yapılacak: Geçen yıl AKP'den istifa eden Ekrem Baki dün akşam tutuklandı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İsmail Küçükkaya ile Günaydın Türkiyem | 7 Eylül</title>
-      <link>https://www.youtube.com/watch?v=21Io4apo4J8</link>
-      <guid isPermaLink="false">21Io4apo4J8</guid>
-      <pubDate>Mon, 07 Sep 2026 08:06:40 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya ile Günaydın Türkiyem | 7 Eylül</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: AKP'den CHP'ye Geçen Üsküdar Meclis Üyesi Ekrem Baki Dahil 6 Kişi Tutuklandı! Seçim Yarın!</title>
-      <link>https://www.youtube.com/watch?v=zdwLtgXW_n0</link>
-      <guid isPermaLink="false">zdwLtgXW_n0</guid>
-      <pubDate>Mon, 07 Sep 2026 08:01:27 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: AKP'den CHP'ye Geçen Üsküdar Meclis Üyesi Ekrem Baki Dahil 6 Kişi Tutuklandı! Seçim Yarın!</description>
     </item>
   </channel>
 </rss>
