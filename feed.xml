@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 09:00:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 09:05:27 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ÜSKÜDAR'DA NEFESLER TUTULDU! Başkanvekili seçimi öncesi Özgür Çelik'ten AKP ve MHP'lilere flaş çağrı</title>
+      <link>https://www.youtube.com/watch?v=9lmMbqOdlOg</link>
+      <guid isPermaLink="false">9lmMbqOdlOg</guid>
+      <pubDate>Mon, 07 Sep 2026 09:00:07 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ÜSKÜDAR'DA NEFESLER TUTULDU! Başkanvekili seçimi öncesi Özgür Çelik'ten AKP ve MHP'lilere flaş çağrı</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: Oyuncu Serhat Kılıç için Harbiye Muhsin Ertuğrul Sahnesi'nde tören düzenleniyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=gpY2ZjWuxT4</link>
+      <guid isPermaLink="false">gpY2ZjWuxT4</guid>
+      <pubDate>Mon, 07 Sep 2026 08:59:15 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Oyuncu Serhat Kılıç için Harbiye Muhsin Ertuğrul Sahnesi'nde tören düzenleniyor #Canlı</description>
+    </item>
     <item>
       <title>Cumhuriyet: Trabzon’da fındık üreticisine müjde: Kokarcaya karşı geliştirilen panzehir zararı sıfırladı</title>
       <link>https://www.youtube.com/shorts/KLREArIFYIU</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">CeyFA21mWng</guid>
       <pubDate>Mon, 07 Sep 2026 06:03:20 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SON DAKİKA! Eski MİT görevlisi Kaşif Kozinoğlu'nun şüpheli ölümünde flaş gelişme! 11 kişi gözaltında</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Pınar Erbaş ile Gecenin Sözü</title>
-      <link>https://www.youtube.com/watch?v=FUKT73iKskE</link>
-      <guid isPermaLink="false">FUKT73iKskE</guid>
-      <pubDate>Mon, 07 Sep 2026 05:58:55 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Pınar Erbaş ile Gecenin Sözü</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Ekrem Açıkel ile Hafta Başı</title>
-      <link>https://www.youtube.com/watch?v=2ldwjlMXPX0</link>
-      <guid isPermaLink="false">2ldwjlMXPX0</guid>
-      <pubDate>Mon, 07 Sep 2026 05:57:59 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Ekrem Açıkel ile Hafta Başı</description>
     </item>
   </channel>
 </rss>
