@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 22:45:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 22:50:33 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Engel Tanımayan Şampiyon! Tuna Tunca Catalina'yı Nasıl Geçtiğini Anlattı! Okyanusu Dize Getirdi</title>
+      <link>https://www.youtube.com/watch?v=XR7feWgP3io</link>
+      <guid isPermaLink="false">XR7feWgP3io</guid>
+      <pubDate>Mon, 07 Sep 2026 22:40:30 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Engel Tanımayan Şampiyon! Tuna Tunca Catalina'yı Nasıl Geçtiğini Anlattı! Okyanusu Dize Getirdi</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Ahmet Zeki Üçok'tan Korkunç Şüphe! Kaşif Kozinoğlu Şüpheli Ölümünün Sırları! Çarpıcı FETÖ İddiası</title>
       <link>https://www.youtube.com/watch?v=NN65XvVSh4Y</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">64sKG072Eno</guid>
       <pubDate>Mon, 07 Sep 2026 18:32:14 +0000</pubDate>
       <description>Halk TV kanalından yeni video: DÜZCE'DE FECİ KAZA! TIR ile “patpat” çarpıştı! 4 kişi hayatını kaybetti, 9 kişi yaralandı!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: MURAT TAYLAN'DAN İSTABUL BOĞAZI'NDAKİ KÖPRÜLERİN ÖZELLEŞTİRMESİNE SERT TEPKİ!</title>
-      <link>https://www.youtube.com/shorts/LqM921PXlSE</link>
-      <guid isPermaLink="false">LqM921PXlSE</guid>
-      <pubDate>Mon, 07 Sep 2026 18:31:11 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: MURAT TAYLAN'DAN İSTABUL BOĞAZI'NDAKİ KÖPRÜLERİN ÖZELLEŞTİRMESİNE SERT TEPKİ!</description>
     </item>
   </channel>
 </rss>
