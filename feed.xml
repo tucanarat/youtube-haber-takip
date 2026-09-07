@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 20:30:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 20:35:26 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Özelleştirmeler sonrası erken seçim mi geliyor? Görkem Doğan yaşananlar için kritik yorum!</title>
+      <link>https://www.youtube.com/watch?v=a3trfERkUZk</link>
+      <guid isPermaLink="false">a3trfERkUZk</guid>
+      <pubDate>Mon, 07 Sep 2026 20:30:31 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Özelleştirmeler sonrası erken seçim mi geliyor? Görkem Doğan yaşananlar için kritik yorum!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Gürsel Tekin, Girişimci İş ve Fikir İnsanları Derneği'ni (GİSİAD) ziyaret ediyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=L5VS1fo2cMM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">9kwK_ejAbNY</guid>
       <pubDate>Mon, 07 Sep 2026 16:26:03 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #Sondakika Melih Gökçek'in oğlu ve gelini hakkında adli kontrol talebi!</description>
-    </item>
-    <item>
-      <title>Halk TV: Sorguları tam 5 saat sürdü: Melih Gökçek'in oğlu ve gelini için savcı kritik bir talepte bulundu!</title>
-      <link>https://www.youtube.com/watch?v=m0ZA5ULZRr4</link>
-      <guid isPermaLink="false">m0ZA5ULZRr4</guid>
-      <pubDate>Mon, 07 Sep 2026 16:25:44 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Sorguları tam 5 saat sürdü: Melih Gökçek'in oğlu ve gelini için savcı kritik bir talepte bulundu!</description>
     </item>
   </channel>
 </rss>
