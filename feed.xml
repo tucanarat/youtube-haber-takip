@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 09:20:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 09:25:26 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: Oyuncu Serhat Kılıç için Harbiye Muhsin Ertuğrul Sahnesi'nde tören düzenleniyor...</title>
       <link>https://www.youtube.com/shorts/UL0UkBal6Lw</link>
       <guid isPermaLink="false">UL0UkBal6Lw</guid>
       <pubDate>Mon, 07 Sep 2026 09:17:38 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Oyuncu Serhat Kılıç için Harbiye Muhsin Ertuğrul Sahnesi'nde tören düzenleniyor...</description>
+    </item>
+    <item>
+      <title>Halk TV: UMUT ALTAŞ'IN FBI İFADESİ ORTAYA ÇIKTI! Gülistan Doku cinayetini baştan sona anlattı! Kan donduracak</title>
+      <link>https://www.youtube.com/watch?v=d4GI8eiNdB0</link>
+      <guid isPermaLink="false">d4GI8eiNdB0</guid>
+      <pubDate>Mon, 07 Sep 2026 09:15:05 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: UMUT ALTAŞ'IN FBI İFADESİ ORTAYA ÇIKTI! Gülistan Doku cinayetini baştan sona anlattı! Kan donduracak</description>
     </item>
     <item>
       <title>Halk TV: CHP ve YENİ Parti'nin Üsküdar İlçe Başkanları Açıklama Yaptı (7 Eylül 2026)</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">BGeUWn5-4qU</guid>
       <pubDate>Mon, 07 Sep 2026 06:42:01 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Isparta'da elma ağaçları susuzluktan kurudu: "Yiyecek elma yok''</description>
-    </item>
-    <item>
-      <title>Halk TV: Muğla'nın merkez ilçesi Menteşe'ye bağlı Yaraş Mahallesi yakınlarında ormanlık alanda yangın çıktı!</title>
-      <link>https://www.youtube.com/shorts/d5vpu1pc-SY</link>
-      <guid isPermaLink="false">d5vpu1pc-SY</guid>
-      <pubDate>Mon, 07 Sep 2026 06:35:21 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Muğla'nın merkez ilçesi Menteşe'ye bağlı Yaraş Mahallesi yakınlarında ormanlık alanda yangın çıktı!</description>
     </item>
   </channel>
 </rss>
