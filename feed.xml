@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 13:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 13:30:44 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: DAVUTOĞLU ANKARA'YI SARSTI! Savcıya verdiği ifadeden sonra demediğini bırakmadı! Dikkat çeken sözler</title>
+      <link>https://www.youtube.com/watch?v=Qj1myX9dNew</link>
+      <guid isPermaLink="false">Qj1myX9dNew</guid>
+      <pubDate>Mon, 07 Sep 2026 13:20:03 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: DAVUTOĞLU ANKARA'YI SARSTI! Savcıya verdiği ifadeden sonra demediğini bırakmadı! Dikkat çeken sözler</description>
+    </item>
     <item>
       <title>Halk TV: İrem Sansak ile Haber Masası (7 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=eGVpdRrTChk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">57L5Wa7vgs0</guid>
       <pubDate>Mon, 07 Sep 2026 10:16:30 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Suat Özçağdaş'tan AKP'ye Çok Sert Üsküdar Tepkisi! "Ağlamaya Devam Edeceksiniz, Biz Buradayız!"</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Evin çatısına düşen boğa, delinen tavanda asılı kaldı</title>
-      <link>https://www.youtube.com/shorts/-N5u1jLNrCA</link>
-      <guid isPermaLink="false">-N5u1jLNrCA</guid>
-      <pubDate>Mon, 07 Sep 2026 10:16:20 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Evin çatısına düşen boğa, delinen tavanda asılı kaldı</description>
     </item>
   </channel>
 </rss>
