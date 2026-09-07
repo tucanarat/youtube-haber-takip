@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 20:05:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 20:10:36 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Akın Gürlek, Ankara 2 No'lu Barosu'nun 2026-2027 Adli Yıl Açılış Programı'nda konuşuyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=PL0CeSu6XEE</link>
+      <guid isPermaLink="false">PL0CeSu6XEE</guid>
+      <pubDate>Mon, 07 Sep 2026 20:09:37 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Akın Gürlek, Ankara 2 No'lu Barosu'nun 2026-2027 Adli Yıl Açılış Programı'nda konuşuyor #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: SIRA KÖPRÜLERE Mİ GELDİ? Köprü ve otoyolların 'özelleştirilmesi' ne anlama geliyor? İşte detaylar!</title>
       <link>https://www.youtube.com/watch?v=yJ0AD2rGCmY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">iUhu5fx8OjI</guid>
       <pubDate>Mon, 07 Sep 2026 16:20:03 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Çeşitli kentlerde kurulan taziye çadırları AKP ile DEM Parti arasında krize neden oldu!</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Kürşad Oğuz ile Rota</title>
-      <link>https://www.youtube.com/watch?v=BtE0sxLPK5M</link>
-      <guid isPermaLink="false">BtE0sxLPK5M</guid>
-      <pubDate>Mon, 07 Sep 2026 16:10:38 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Kürşad Oğuz ile Rota</description>
     </item>
   </channel>
 </rss>
