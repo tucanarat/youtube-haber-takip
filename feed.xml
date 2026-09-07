@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 07:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 07:05:28 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Deniz Bayramoğlu ile Gün Doğarken | #kupahepimizin (7 Eylül 2026)</title>
+      <link>https://www.youtube.com/watch?v=ADORIrMSFe4</link>
+      <guid isPermaLink="false">ADORIrMSFe4</guid>
+      <pubDate>Mon, 07 Sep 2026 07:02:59 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Deniz Bayramoğlu ile Gün Doğarken | #kupahepimizin (7 Eylül 2026)</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Ebru Baki ile Para Siyaset | İbrahim Kahveci</title>
       <link>https://www.youtube.com/watch?v=TO9o8RdrqVc</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">xtHHVmSUOek</guid>
       <pubDate>Sun, 06 Sep 2026 19:45:15 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Elazığ’da sağanak ve dolu hayatı olumsuz etkiledi</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Timur Soykan'dan Olay Mehmet Şimşek Kulisi! İktidar İçinde Büyük Kriz! Erdoğan Çıkışı</title>
-      <link>https://www.youtube.com/watch?v=DCu652hH5Sw</link>
-      <guid isPermaLink="false">DCu652hH5Sw</guid>
-      <pubDate>Sun, 06 Sep 2026 19:40:03 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Timur Soykan'dan Olay Mehmet Şimşek Kulisi! İktidar İçinde Büyük Kriz! Erdoğan Çıkışı</description>
     </item>
   </channel>
 </rss>
