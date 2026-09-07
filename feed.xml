@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 07:50:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 07:55:25 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Ünlü oyuncu Serhat Kılıç'ın ölümünde kahreden detaylar! Kız arkadaşı cenazesini böyle bulmuş!</title>
+      <link>https://www.youtube.com/watch?v=CyieoZ_DZVo</link>
+      <guid isPermaLink="false">CyieoZ_DZVo</guid>
+      <pubDate>Mon, 07 Sep 2026 07:46:53 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Ünlü oyuncu Serhat Kılıç'ın ölümünde kahreden detaylar! Kız arkadaşı cenazesini böyle bulmuş!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Gürsel Tekin, Girişimci İş ve Fikir İnsanları Derneği'ni (GİSİAD) ziyaret ediyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=MulU04N5tYM</link>
@@ -274,11 +281,11 @@
       <description>SÖZCÜ TV kanalından yeni video: Senem Toluay Ilgaz ile Öncesi Sonrası</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: Can Coşkun ile Gündem Masası</title>
+      <title>SÖZCÜ TV: #CANLI Can Coşkun ile Gündem Masası</title>
       <link>https://www.youtube.com/watch?v=J2sPtoD0h7Y</link>
       <guid isPermaLink="false">J2sPtoD0h7Y</guid>
       <pubDate>Sun, 06 Sep 2026 22:49:10 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Can Coşkun ile Gündem Masası</description>
+      <description>SÖZCÜ TV kanalından yeni video: #CANLI Can Coşkun ile Gündem Masası</description>
     </item>
     <item>
       <title>SÖZCÜ TV: #CANLI İsmail Küçükkaya ile Günaydın Türkiyem</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">v9FCZffCU-g</guid>
       <pubDate>Sun, 06 Sep 2026 21:45:34 +0000</pubDate>
       <description>Halk TV kanalından yeni video: FİLENİN SULTANLARI YENİDEN TARİH YAZDI! Vatandaş sokaklarda coşkuyla kutladı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Çıldır kara yolu, sağanak ardından etkili olan dolu yağışıyla beyaza bürüdü.</title>
-      <link>https://www.youtube.com/shorts/2CUNzCL3kHk</link>
-      <guid isPermaLink="false">2CUNzCL3kHk</guid>
-      <pubDate>Sun, 06 Sep 2026 21:40:36 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Çıldır kara yolu, sağanak ardından etkili olan dolu yağışıyla beyaza bürüdü.</description>
     </item>
   </channel>
 </rss>
