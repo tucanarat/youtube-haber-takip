@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 16:50:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 16:55:31 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Özlem Gürses ile Sözcü Ana Haber 7 Eylül</title>
+      <link>https://www.youtube.com/watch?v=-dHFeOKVK-U</link>
+      <guid isPermaLink="false">-dHFeOKVK-U</guid>
+      <pubDate>Mon, 07 Sep 2026 16:55:10 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses ile Sözcü Ana Haber 7 Eylül</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Gökçekler Soruşturmasında Çarpıcı Karar! Melih Gökçek'ten Olay Çıkış! Özlem Gürses Anlattı</title>
       <link>https://www.youtube.com/watch?v=O2--fk682LU</link>
@@ -141,11 +148,11 @@
       <description>SÖZCÜ TV kanalından yeni video: Damla Doğan Tuncel ile 1 Saat 7 Eylül</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | Ece Üner ile Halk Ana Haber | #gururumuz</title>
+      <title>Halk TV: Ece Üner ile Halk Ana Haber | #gururumuz (7 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=fRSNiz74_Pg</link>
       <guid isPermaLink="false">fRSNiz74_Pg</guid>
       <pubDate>Mon, 07 Sep 2026 14:55:31 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Ece Üner ile Halk Ana Haber | #gururumuz</description>
+      <description>Halk TV kanalından yeni video: Ece Üner ile Halk Ana Haber | #gururumuz (7 Eylül 2026)</description>
     </item>
     <item>
       <title>Halk TV: 'Melih Gökçek'ten sonra sırada Binali Yıldırım var' iddiası... Yıldırım'dan 'Erdoğan' hamlesi!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Og-OpCWOvHo</guid>
       <pubDate>Mon, 07 Sep 2026 13:00:41 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İSMAİL SAYMAZ ÖZELLEŞTİRMEYE İSYAN ETTİ! "Seçimi Finanse Etmek için Satıyorlar"</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Ahmet Davutoğlu, Ankara Adliyesi önünde açıklama yapıyor</title>
-      <link>https://www.youtube.com/watch?v=VfJ3COfs6sE</link>
-      <guid isPermaLink="false">VfJ3COfs6sE</guid>
-      <pubDate>Mon, 07 Sep 2026 12:56:09 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Ahmet Davutoğlu, Ankara Adliyesi önünde açıklama yapıyor</description>
     </item>
   </channel>
 </rss>
