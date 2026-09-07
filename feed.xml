@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 17:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 17:05:25 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Suriye'de Dengeler Değişti! SDG'de Çatlak Sesleri! 1 Milyar Dolarlık Silah! Ortadoğu Alev Alev</title>
+      <link>https://www.youtube.com/watch?v=uMerW1FFWuk</link>
+      <guid isPermaLink="false">uMerW1FFWuk</guid>
+      <pubDate>Mon, 07 Sep 2026 17:03:41 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Suriye'de Dengeler Değişti! SDG'de Çatlak Sesleri! 1 Milyar Dolarlık Silah! Ortadoğu Alev Alev</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Ahmet Davutoğlu "Şüpheli" Olarak İfade Verdi! Murat Taylan kritik noktaya dikkat çekti...</title>
+      <link>https://www.youtube.com/watch?v=htIkgiT9OZg</link>
+      <guid isPermaLink="false">htIkgiT9OZg</guid>
+      <pubDate>Mon, 07 Sep 2026 17:00:23 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Ahmet Davutoğlu "Şüpheli" Olarak İfade Verdi! Murat Taylan kritik noktaya dikkat çekti...</description>
+    </item>
     <item>
       <title>Halk TV: Ece Üner ile Halk Ana Haber | #gururumuz (7 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=fRSNiz74_Pg</link>
@@ -20,6 +34,13 @@
       <guid isPermaLink="false">2LVeRgKW1rY</guid>
       <pubDate>Mon, 07 Sep 2026 16:57:44 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Murat Taylan ile Haber-Yorum (07.09.2026)</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Özlem Gürses ile Sözcü Ana Haber 7 Eylül</title>
+      <link>https://www.youtube.com/watch?v=-dHFeOKVK-U</link>
+      <guid isPermaLink="false">-dHFeOKVK-U</guid>
+      <pubDate>Mon, 07 Sep 2026 16:55:10 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses ile Sözcü Ana Haber 7 Eylül</description>
     </item>
     <item>
       <title>Halk TV: Milyonlarca ev sahibini ilgilendiriyor! "Yarısı bizden kampanyası" ile ilgili önemli kararlar alındı</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">eGVpdRrTChk</guid>
       <pubDate>Mon, 07 Sep 2026 13:07:35 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İrem Sansak ile Haber Masası (7 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: ANKARA SEÇİM GÜNDEMİYLE ISINIYOR! MHP, Erdoğan'ın adaylığını ilan etti! Çok konuşulacak sözler!</title>
-      <link>https://www.youtube.com/watch?v=aSFzHPKDzjA</link>
-      <guid isPermaLink="false">aSFzHPKDzjA</guid>
-      <pubDate>Mon, 07 Sep 2026 13:05:39 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ANKARA SEÇİM GÜNDEMİYLE ISINIYOR! MHP, Erdoğan'ın adaylığını ilan etti! Çok konuşulacak sözler!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Ahmet Davutoğlu, "Cumhurbaşkanına hakaret" suçlamasıyla ifade verdi</title>
-      <link>https://www.youtube.com/shorts/rBFxeivwibE</link>
-      <guid isPermaLink="false">rBFxeivwibE</guid>
-      <pubDate>Mon, 07 Sep 2026 13:04:51 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Ahmet Davutoğlu, "Cumhurbaşkanına hakaret" suçlamasıyla ifade verdi</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Ahmet Davutoğlu "Şüpheli" Olarak İfade Verdikten Sonra Açıklama Yaptı! "Hüzünle Karşılıyorum!"</title>
-      <link>https://www.youtube.com/watch?v=4uaV-UX7y2M</link>
-      <guid isPermaLink="false">4uaV-UX7y2M</guid>
-      <pubDate>Mon, 07 Sep 2026 13:03:37 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Ahmet Davutoğlu "Şüpheli" Olarak İfade Verdikten Sonra Açıklama Yaptı! "Hüzünle Karşılıyorum!"</description>
     </item>
   </channel>
 </rss>

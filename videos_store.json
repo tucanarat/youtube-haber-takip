@@ -33563,8 +33563,8 @@
     "id": "-dHFeOKVK-U",
     "title": "Özlem Gürses ile Sözcü Ana Haber 7 Eylül",
     "link": "https://www.youtube.com/watch?v=-dHFeOKVK-U",
-    "published": "2026-09-06T22:51:59+00:00",
-    "published_ts": 1788735119,
+    "published": "2026-09-07T16:55:10+00:00",
+    "published_ts": 1788800110,
     "channel_name": "SÖZCÜ TV"
   },
   "isA_E0hnffM": {
@@ -33657,7 +33657,7 @@
   },
   "2ldwjlMXPX0": {
     "id": "2ldwjlMXPX0",
-    "title": "Ekrem Açıkel ile Hafta Başı",
+    "title": "#CANLI Ekrem Açıkel ile Hafta Başı | İsmail Saymaz & Can Özçelik",
     "link": "https://www.youtube.com/watch?v=2ldwjlMXPX0",
     "published": "2026-09-07T05:57:59+00:00",
     "published_ts": 1788760679,
@@ -34942,5 +34942,21 @@
     "published": "2026-09-07T16:50:20+00:00",
     "published_ts": 1788799820,
     "channel_name": "Halk TV"
+  },
+  "uMerW1FFWuk": {
+    "id": "uMerW1FFWuk",
+    "title": "Suriye'de Dengeler Değişti! SDG'de Çatlak Sesleri! 1 Milyar Dolarlık Silah! Ortadoğu Alev Alev",
+    "link": "https://www.youtube.com/watch?v=uMerW1FFWuk",
+    "published": "2026-09-07T17:03:41+00:00",
+    "published_ts": 1788800621,
+    "channel_name": "SÖZCÜ TV"
+  },
+  "htIkgiT9OZg": {
+    "id": "htIkgiT9OZg",
+    "title": "Ahmet Davutoğlu \"Şüpheli\" Olarak İfade Verdi! Murat Taylan kritik noktaya dikkat çekti...",
+    "link": "https://www.youtube.com/watch?v=htIkgiT9OZg",
+    "published": "2026-09-07T17:00:23+00:00",
+    "published_ts": 1788800423,
+    "channel_name": "Tele2 Haber"
   }
 }
