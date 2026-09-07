@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 21:40:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 21:45:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SON DAKİKA! Antalya'daki orman yangını büyüyor! Aykut Kaya bölgeden aktarıyor!</title>
+      <link>https://www.youtube.com/watch?v=stludzCG4ww</link>
+      <guid isPermaLink="false">stludzCG4ww</guid>
+      <pubDate>Mon, 07 Sep 2026 21:38:29 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! Antalya'daki orman yangını büyüyor! Aykut Kaya bölgeden aktarıyor!</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI Oyuncu Serhat Kılıç için Harbiye Muhsin Ertuğrul Sahnesi'nde tören düzenleniyor</title>
       <link>https://www.youtube.com/watch?v=AcQr_zYfcNI</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">6JCW8RBCKsU</guid>
       <pubDate>Mon, 07 Sep 2026 18:00:14 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (07 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: Üsküdar Belediyesi önünde "Üsküdar'ın İradesi Yok Sayılamaz" buluşması düzenlendi! (7 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=hJI2oO-Fu40</link>
-      <guid isPermaLink="false">hJI2oO-Fu40</guid>
-      <pubDate>Mon, 07 Sep 2026 17:40:48 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Üsküdar Belediyesi önünde "Üsküdar'ın İradesi Yok Sayılamaz" buluşması düzenlendi! (7 Eylül 2026)</description>
     </item>
   </channel>
 </rss>
