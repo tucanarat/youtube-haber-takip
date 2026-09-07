@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 22:35:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 22:40:33 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Ahmet Zeki Üçok'tan Korkunç Şüphe! Kaşif Kozinoğlu Şüpheli Ölümünün Sırları! Çarpıcı FETÖ İddiası</title>
+      <link>https://www.youtube.com/watch?v=NN65XvVSh4Y</link>
+      <guid isPermaLink="false">NN65XvVSh4Y</guid>
+      <pubDate>Mon, 07 Sep 2026 22:20:32 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Ahmet Zeki Üçok'tan Korkunç Şüphe! Kaşif Kozinoğlu Şüpheli Ölümünün Sırları! Çarpıcı FETÖ İddiası</description>
+    </item>
     <item>
       <title>Halk TV: Antalya’da orman yangını paniği! Alevler Döşemealtı’na dayandı! #shorts</title>
       <link>https://www.youtube.com/shorts/fjj54Z2fN7Q</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">LqM921PXlSE</guid>
       <pubDate>Mon, 07 Sep 2026 18:31:11 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: MURAT TAYLAN'DAN İSTABUL BOĞAZI'NDAKİ KÖPRÜLERİN ÖZELLEŞTİRMESİNE SERT TEPKİ!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "O ÇİĞNEDİĞİ SAKIZ DEĞİL! İNSANLIK ONURU..." Murat Taylan, Selahattin Demirtaş'ın mektubunu aktardı!</title>
-      <link>https://www.youtube.com/watch?v=HfpGXPCsS_w</link>
-      <guid isPermaLink="false">HfpGXPCsS_w</guid>
-      <pubDate>Mon, 07 Sep 2026 18:30:23 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "O ÇİĞNEDİĞİ SAKIZ DEĞİL! İNSANLIK ONURU..." Murat Taylan, Selahattin Demirtaş'ın mektubunu aktardı!</description>
     </item>
   </channel>
 </rss>
