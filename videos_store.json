@@ -33561,7 +33561,7 @@
   },
   "-dHFeOKVK-U": {
     "id": "-dHFeOKVK-U",
-    "title": "Özlem Gürses ile Sözcü Ana Haber",
+    "title": "#CANLI Özlem Gürses ile Sözcü Ana Haber",
     "link": "https://www.youtube.com/watch?v=-dHFeOKVK-U",
     "published": "2026-09-06T22:51:59+00:00",
     "published_ts": 1788735119,
@@ -33569,10 +33569,10 @@
   },
   "isA_E0hnffM": {
     "id": "isA_E0hnffM",
-    "title": "#CANLI Damla Doğan Tuncel ile 1 Saat",
+    "title": "Damla Doğan Tuncel ile 1 Saat 7 Eylül",
     "link": "https://www.youtube.com/watch?v=isA_E0hnffM",
-    "published": "2026-09-06T22:51:08+00:00",
-    "published_ts": 1788735068,
+    "published": "2026-09-07T14:55:44+00:00",
+    "published_ts": 1788792944,
     "channel_name": "SÖZCÜ TV"
   },
   "BBGwq6-j9iA": {
@@ -34561,7 +34561,7 @@
   },
   "Iz8fqnglT1M": {
     "id": "Iz8fqnglT1M",
-    "title": "#CANLI | Gizem Çetin ile Parantez",
+    "title": "Gizem Çetin ile Parantez (7 Eylül 2026)",
     "link": "https://www.youtube.com/watch?v=Iz8fqnglT1M",
     "published": "2026-09-07T12:53:07+00:00",
     "published_ts": 1788785587,
@@ -34805,6 +34805,14 @@
     "link": "https://www.youtube.com/watch?v=1mJz9FaaKHQ",
     "published": "2026-09-07T14:50:23+00:00",
     "published_ts": 1788792623,
+    "channel_name": "Halk TV"
+  },
+  "fRSNiz74_Pg": {
+    "id": "fRSNiz74_Pg",
+    "title": "#CANLI | Ece Üner ile Halk Ana Haber | #gururumuz",
+    "link": "https://www.youtube.com/watch?v=fRSNiz74_Pg",
+    "published": "2026-09-07T14:55:31+00:00",
+    "published_ts": 1788792931,
     "channel_name": "Halk TV"
   }
 }
