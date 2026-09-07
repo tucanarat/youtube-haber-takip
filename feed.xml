@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 08:45:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 08:50:36 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SON DAKİKA! Ahbap soruşturması derinleşiyor! 5. dalga operasyonda 20 ilde 53 şüpheliye operasyon!</title>
+      <link>https://www.youtube.com/watch?v=NSXds6lrzT0</link>
+      <guid isPermaLink="false">NSXds6lrzT0</guid>
+      <pubDate>Mon, 07 Sep 2026 08:44:38 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! Ahbap soruşturması derinleşiyor! 5. dalga operasyonda 20 ilde 53 şüpheliye operasyon!</description>
+    </item>
     <item>
       <title>Halk TV: FBI Ajanları 2 Gün Sorguladı: 109 Soruya Yanıt Veren Umut Altaş, Cinayeti Anbean Anlattı!</title>
       <link>https://www.youtube.com/watch?v=DfkWoWHRAUI</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">JP6HozEdrq8</guid>
       <pubDate>Sun, 06 Sep 2026 23:00:32 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: 'Dip Dalga Geliyor' Mustafa Balbay'dan Bomba Kulis! Üsküdar'da Seçim Oyunu! İmamoğlu Sözleri</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Özlem Gürses ile Sözcü Ana Haber</title>
-      <link>https://www.youtube.com/watch?v=-dHFeOKVK-U</link>
-      <guid isPermaLink="false">-dHFeOKVK-U</guid>
-      <pubDate>Sun, 06 Sep 2026 22:51:59 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses ile Sözcü Ana Haber</description>
     </item>
   </channel>
 </rss>
