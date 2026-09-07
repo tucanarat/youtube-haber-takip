@@ -6,13 +6,34 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 07:20:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 07:25:25 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Tekerlekli sandalyeyle geçemeyince isyan etti! İhbar sonrası 55 araca ceza yağdı</title>
+      <link>https://www.youtube.com/shorts/M6kaMmblSyY</link>
+      <guid isPermaLink="false">M6kaMmblSyY</guid>
+      <pubDate>Mon, 07 Sep 2026 07:21:37 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Tekerlekli sandalyeyle geçemeyince isyan etti! İhbar sonrası 55 araca ceza yağdı</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Daniele Santarelli'den gurur dolu kapanış konuşması: "Yaz istediğimiz şekilde inanılmaz bitti"</title>
+      <link>https://www.youtube.com/shorts/uxYj97Bb3tc</link>
+      <guid isPermaLink="false">uxYj97Bb3tc</guid>
+      <pubDate>Mon, 07 Sep 2026 07:21:31 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Daniele Santarelli'den gurur dolu kapanış konuşması: "Yaz istediğimiz şekilde inanılmaz bitti"</description>
+    </item>
     <item>
       <title>Cumhuriyet: "Takım olarak başardık": Eda Erdem milli takımın yaz maratonunu zaferle özetledi</title>
       <link>https://www.youtube.com/shorts/R8_cmBqRIvk</link>
       <guid isPermaLink="false">R8_cmBqRIvk</guid>
       <pubDate>Mon, 07 Sep 2026 07:15:11 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: "Takım olarak başardık": Eda Erdem milli takımın yaz maratonunu zaferle özetledi</description>
+    </item>
+    <item>
+      <title>Halk TV: İBB DAVASI BÖYLE ÇÖKMÜŞ! Özgür Çelik skandal detayları tek tek anlattı! Silivri'de neler olmuş neler</title>
+      <link>https://www.youtube.com/watch?v=53FuUSAVFvw</link>
+      <guid isPermaLink="false">53FuUSAVFvw</guid>
+      <pubDate>Mon, 07 Sep 2026 07:08:19 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İBB DAVASI BÖYLE ÇÖKMÜŞ! Özgür Çelik skandal detayları tek tek anlattı! Silivri'de neler olmuş neler</description>
     </item>
     <item>
       <title>Halk TV: Deniz Bayramoğlu ile Gün Doğarken | #kupahepimizin (7 Eylül 2026)</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">gsSrLFwTrsQ</guid>
       <pubDate>Sun, 06 Sep 2026 20:30:24 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Pervin Buldan, Demokratik Cumhuriyet Hareketi adı altında yeni bir yapılanmaya gidileceğini açıkladı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Afşin Hatipoğlu Açtı Ağzını Yumdu Gözünü! Gündem Olacak Melih Gökçek ve İmamoğlu Çıkışı</title>
-      <link>https://www.youtube.com/watch?v=O6F4Gke0Zb0</link>
-      <guid isPermaLink="false">O6F4Gke0Zb0</guid>
-      <pubDate>Sun, 06 Sep 2026 20:20:35 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Afşin Hatipoğlu Açtı Ağzını Yumdu Gözünü! Gündem Olacak Melih Gökçek ve İmamoğlu Çıkışı</description>
-    </item>
-    <item>
-      <title>Halk TV: FATİH ALTAYLI’DAN BOMBA MELİH GÖKÇEK KULİSİ! İşte o açıklama! "Toplum elinize sağlık diyecek."</title>
-      <link>https://www.youtube.com/watch?v=jeU37myLR14</link>
-      <guid isPermaLink="false">jeU37myLR14</guid>
-      <pubDate>Sun, 06 Sep 2026 20:15:09 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: FATİH ALTAYLI’DAN BOMBA MELİH GÖKÇEK KULİSİ! İşte o açıklama! "Toplum elinize sağlık diyecek."</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Yeniden Refah Genel Başkanı Fatih Erbakan, il başkanları toplantısı öncesi açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=oXKyqCqfRFI</link>
-      <guid isPermaLink="false">oXKyqCqfRFI</guid>
-      <pubDate>Sun, 06 Sep 2026 20:06:50 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Yeniden Refah Genel Başkanı Fatih Erbakan, il başkanları toplantısı öncesi açıklama yapıyor #Canlı</description>
     </item>
   </channel>
 </rss>
