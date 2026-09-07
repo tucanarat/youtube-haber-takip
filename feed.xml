@@ -6,27 +6,34 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 12:00:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 12:05:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Ahmet Davutoğlu, Cumhurbaşkanına Hakaret Suçlamasıyla İfade Vermek İçin Ankara Adliyesi'nde</title>
+      <link>https://www.youtube.com/watch?v=3bPkHH13yj0</link>
+      <guid isPermaLink="false">3bPkHH13yj0</guid>
+      <pubDate>Mon, 07 Sep 2026 12:03:22 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Ahmet Davutoğlu, Cumhurbaşkanına Hakaret Suçlamasıyla İfade Vermek İçin Ankara Adliyesi'nde</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #CANLI Ahmet Davutoğlu Ankara Adliyesi'nde</title>
+      <link>https://www.youtube.com/watch?v=LsBEH3jLLNM</link>
+      <guid isPermaLink="false">LsBEH3jLLNM</guid>
+      <pubDate>Mon, 07 Sep 2026 12:01:18 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Ahmet Davutoğlu Ankara Adliyesi'nde</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Hande Kazanova Uyardı: "Eylül'de Bildiğimiz Gerçekler Değişecek!" | Eylül Ayı Burç Yorumları</title>
+      <link>https://www.youtube.com/watch?v=zYnwFmHRjRs</link>
+      <guid isPermaLink="false">zYnwFmHRjRs</guid>
+      <pubDate>Mon, 07 Sep 2026 12:00:36 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Hande Kazanova Uyardı: "Eylül'de Bildiğimiz Gerçekler Değişecek!" | Eylül Ayı Burç Yorumları</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Senem Toluay Ilgaz ile Öncesi Sonrası | 7 Eylül</title>
       <link>https://www.youtube.com/watch?v=_bgiHndWoSc</link>
       <guid isPermaLink="false">_bgiHndWoSc</guid>
       <pubDate>Mon, 07 Sep 2026 11:58:36 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Senem Toluay Ilgaz ile Öncesi Sonrası | 7 Eylül</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Ahmet Davutoğlu, Cumhurbaşkanına Hakaret Suçlamasıyla İfade Vermek İçin Ankara Adliyesi'nde</title>
-      <link>https://www.youtube.com/watch?v=3bPkHH13yj0</link>
-      <guid isPermaLink="false">3bPkHH13yj0</guid>
-      <pubDate>Mon, 07 Sep 2026 11:57:09 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Ahmet Davutoğlu, Cumhurbaşkanına Hakaret Suçlamasıyla İfade Vermek İçin Ankara Adliyesi'nde</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Ahmet Davutoğlu Ankara Adliyesi'nde</title>
-      <link>https://www.youtube.com/watch?v=LsBEH3jLLNM</link>
-      <guid isPermaLink="false">LsBEH3jLLNM</guid>
-      <pubDate>Mon, 07 Sep 2026 11:56:30 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Ahmet Davutoğlu Ankara Adliyesi'nde</description>
     </item>
     <item>
       <title>Tele2 Haber: Hilmi Hacaloğlu ve Ersin Eroğlu ile Kayıt Dışı (07.09.2026)</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">aqMUtUUGlGs</guid>
       <pubDate>Mon, 07 Sep 2026 09:20:27 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Pompeiopolis Antik Kenti’nde heyecanlandıran keşif: 105 metrekarelik zemin mozaiği açığa çıkarıldı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Oyuncu Serhat Kılıç için Harbiye Muhsin Ertuğrul Sahnesi'nde tören düzenleniyor...</title>
-      <link>https://www.youtube.com/shorts/UL0UkBal6Lw</link>
-      <guid isPermaLink="false">UL0UkBal6Lw</guid>
-      <pubDate>Mon, 07 Sep 2026 09:17:38 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Oyuncu Serhat Kılıç için Harbiye Muhsin Ertuğrul Sahnesi'nde tören düzenleniyor...</description>
     </item>
   </channel>
 </rss>
