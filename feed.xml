@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 19:05:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 19:10:25 +0000</lastBuildDate>
     <item>
       <title>Halk TV: İstanbul’da film gibi operasyon! Kadın kılığındaki firari yakalandı! #shorts</title>
       <link>https://www.youtube.com/shorts/LNa0BM-Tf9g</link>
       <guid isPermaLink="false">LNa0BM-Tf9g</guid>
       <pubDate>Mon, 07 Sep 2026 19:00:46 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İstanbul’da film gibi operasyon! Kadın kılığındaki firari yakalandı! #shorts</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İsmail Saymaz ve Onur Alp Yılmaz'dan Gündem Yaratacak Tartışma! Özgür Özel, Üsküdar, Meşruiyet...</title>
+      <link>https://www.youtube.com/watch?v=mEUWtAS5nR0</link>
+      <guid isPermaLink="false">mEUWtAS5nR0</guid>
+      <pubDate>Mon, 07 Sep 2026 19:00:35 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İsmail Saymaz ve Onur Alp Yılmaz'dan Gündem Yaratacak Tartışma! Özgür Özel, Üsküdar, Meşruiyet...</description>
     </item>
     <item>
       <title>Tele2 Haber: "NE KADAR GİDER BÖYLE?" Üsküdar seçimleri öncesi Murat Taylan'dan çok kritik 'İKTİDAR' yorumu...</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">isA_E0hnffM</guid>
       <pubDate>Mon, 07 Sep 2026 14:55:44 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Damla Doğan Tuncel ile 1 Saat 7 Eylül</description>
-    </item>
-    <item>
-      <title>Halk TV: 'Melih Gökçek'ten sonra sırada Binali Yıldırım var' iddiası... Yıldırım'dan 'Erdoğan' hamlesi!</title>
-      <link>https://www.youtube.com/watch?v=1mJz9FaaKHQ</link>
-      <guid isPermaLink="false">1mJz9FaaKHQ</guid>
-      <pubDate>Mon, 07 Sep 2026 14:50:23 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: 'Melih Gökçek'ten sonra sırada Binali Yıldırım var' iddiası... Yıldırım'dan 'Erdoğan' hamlesi!</description>
     </item>
   </channel>
 </rss>
