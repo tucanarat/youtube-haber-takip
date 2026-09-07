@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 14:35:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 14:40:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: 'SARAYIN SESİ' SELVİ AĞZINDAKİ BAKLAYI ÇIKARDI! AKP ve Bahçeli'nin istediği seçim tarihi buymuş!</title>
+      <link>https://www.youtube.com/watch?v=hbBbaJZWzJw</link>
+      <guid isPermaLink="false">hbBbaJZWzJw</guid>
+      <pubDate>Mon, 07 Sep 2026 14:35:09 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: 'SARAYIN SESİ' SELVİ AĞZINDAKİ BAKLAYI ÇIKARDI! AKP ve Bahçeli'nin istediği seçim tarihi buymuş!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: "BU OVP 2027'de Yapılacak Seçim İçim Altlık Sağlıyor İktidara!" Oğuz Demir'den Çok Sert OVP Tepkisi!</title>
+      <link>https://www.youtube.com/watch?v=BfRDA0123Zo</link>
+      <guid isPermaLink="false">BfRDA0123Zo</guid>
+      <pubDate>Mon, 07 Sep 2026 14:30:30 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "BU OVP 2027'de Yapılacak Seçim İçim Altlık Sağlıyor İktidara!" Oğuz Demir'den Çok Sert OVP Tepkisi!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: MİT'İN HAYALETİ NASIL ÖLDÜ? Uzman İsim Kaşif Kozinoğlu Dosyasındaki Cevapsız Soruları Anlatıyor</title>
       <link>https://www.youtube.com/watch?v=-gHKHYAhSn8</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">T-KDl7V021E</guid>
       <pubDate>Mon, 07 Sep 2026 11:53:10 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Hilmi Hacaloğlu ve Ersin Eroğlu ile Kayıt Dışı (07.09.2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: AKP'NİN HEVESİ KURSAĞINDA MI KALACAK? YENİ Parti ve CHP Üsküdar'daki seçimde birlikte hareket edecek</title>
-      <link>https://www.youtube.com/watch?v=x7ML9gqN-WM</link>
-      <guid isPermaLink="false">x7ML9gqN-WM</guid>
-      <pubDate>Mon, 07 Sep 2026 11:50:25 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: AKP'NİN HEVESİ KURSAĞINDA MI KALACAK? YENİ Parti ve CHP Üsküdar'daki seçimde birlikte hareket edecek</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Kayseri’de organik tarım zaferi: 30 çiftçi ailesi ekonomiye 7 milyon TL kazandırdı</title>
-      <link>https://www.youtube.com/shorts/Spq-JdwAnOU</link>
-      <guid isPermaLink="false">Spq-JdwAnOU</guid>
-      <pubDate>Mon, 07 Sep 2026 11:49:52 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Kayseri’de organik tarım zaferi: 30 çiftçi ailesi ekonomiye 7 milyon TL kazandırdı</description>
     </item>
   </channel>
 </rss>
