@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 20:15:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 20:20:38 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Gürsel Tekin, Girişimci İş ve Fikir İnsanları Derneği'ni (GİSİAD) ziyaret ediyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=L5VS1fo2cMM</link>
+      <guid isPermaLink="false">L5VS1fo2cMM</guid>
+      <pubDate>Mon, 07 Sep 2026 20:20:21 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Gürsel Tekin, Girişimci İş ve Fikir İnsanları Derneği'ni (GİSİAD) ziyaret ediyor #Canlı</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Akın Gürlek, Ankara 2 No'lu Barosu'nun 2026-2027 Adli Yıl Açılış Programı'nda konuşuyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=PL0CeSu6XEE</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">V080OEriTrs</guid>
       <pubDate>Mon, 07 Sep 2026 16:20:12 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İran'dan Yeni Hürmüz Kararı! Trump Çılgına Döndü! Petrol Fırladı! Piyasaların Gözü Ortadoğu'da</description>
-    </item>
-    <item>
-      <title>Halk TV: Çeşitli kentlerde kurulan taziye çadırları AKP ile DEM Parti arasında krize neden oldu!</title>
-      <link>https://www.youtube.com/watch?v=iUhu5fx8OjI</link>
-      <guid isPermaLink="false">iUhu5fx8OjI</guid>
-      <pubDate>Mon, 07 Sep 2026 16:20:03 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Çeşitli kentlerde kurulan taziye çadırları AKP ile DEM Parti arasında krize neden oldu!</description>
     </item>
   </channel>
 </rss>
