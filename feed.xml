@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 21:10:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 21:15:34 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: CHP Grup Başkanvekili Rahmi Aşkın Türeli, TBMM'de açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=sq6eYa16FfU</link>
+      <guid isPermaLink="false">sq6eYa16FfU</guid>
+      <pubDate>Mon, 07 Sep 2026 21:11:39 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: CHP Grup Başkanvekili Rahmi Aşkın Türeli, TBMM'de açıklama yapıyor #Canlı</description>
+    </item>
     <item>
       <title>Tele2 Haber: Melih Gökçek soruşturması AKP içine dair bir şey söylüyor mu?  Ersin Eroğlu yorumladı...</title>
       <link>https://www.youtube.com/watch?v=iFF7S1_g8u4</link>
@@ -20,6 +27,13 @@
       <guid isPermaLink="false">tEioVH1rbDg</guid>
       <pubDate>Mon, 07 Sep 2026 21:00:20 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Siirt’te yangın alarmı! Otluk alandaki alevlere müdahale ediliyor! #shorts</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İsmail Saymaz O Ses Kaydını İfşa Etti!  Siyasette Çürüme! "Para Alıp Oy Kullandılar AKP'ye Geçtiler"</title>
+      <link>https://www.youtube.com/watch?v=gU-ms_Za5Bo</link>
+      <guid isPermaLink="false">gU-ms_Za5Bo</guid>
+      <pubDate>Mon, 07 Sep 2026 21:00:02 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İsmail Saymaz O Ses Kaydını İfşa Etti!  Siyasette Çürüme! "Para Alıp Oy Kullandılar AKP'ye Geçtiler"</description>
     </item>
     <item>
       <title>Halk TV: Ankara’da taksi durağında kavga kameraya böyle yansıdı! 2 şoförü darbeden şüpheliler yakalandı!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">uMerW1FFWuk</guid>
       <pubDate>Mon, 07 Sep 2026 17:03:41 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Suriye'de Dengeler Değişti! SDG'de Çatlak Sesleri! 1 Milyar Dolarlık Silah! Ortadoğu Alev Alev</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Ahmet Davutoğlu "Şüpheli" Olarak İfade Verdi! Murat Taylan kritik noktaya dikkat çekti...</title>
-      <link>https://www.youtube.com/watch?v=htIkgiT9OZg</link>
-      <guid isPermaLink="false">htIkgiT9OZg</guid>
-      <pubDate>Mon, 07 Sep 2026 17:00:23 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Ahmet Davutoğlu "Şüpheli" Olarak İfade Verdi! Murat Taylan kritik noktaya dikkat çekti...</description>
-    </item>
-    <item>
-      <title>Halk TV: Ece Üner ile Halk Ana Haber | #gururumuz (7 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=fRSNiz74_Pg</link>
-      <guid isPermaLink="false">fRSNiz74_Pg</guid>
-      <pubDate>Mon, 07 Sep 2026 16:58:11 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ece Üner ile Halk Ana Haber | #gururumuz (7 Eylül 2026)</description>
     </item>
   </channel>
 </rss>
