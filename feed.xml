@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 18:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 18:45:34 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI Ülkü Çoban ile Manşet Ötesi (08.09.26)</title>
+      <link>https://www.youtube.com/watch?v=oXQfY4qzmAE</link>
+      <guid isPermaLink="false">oXQfY4qzmAE</guid>
+      <pubDate>Mon, 07 Sep 2026 18:44:54 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Ülkü Çoban ile Manşet Ötesi (08.09.26)</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #CANLI Onur Öncü ile Sabah Pusulası (08.09.26)</title>
+      <link>https://www.youtube.com/watch?v=kyulm-mNs8M</link>
+      <guid isPermaLink="false">kyulm-mNs8M</guid>
+      <pubDate>Mon, 07 Sep 2026 18:43:31 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Onur Öncü ile Sabah Pusulası (08.09.26)</description>
+    </item>
     <item>
       <title>Halk TV: DÜZCE'DE FECİ KAZA! TIR ile “patpat” çarpıştı! 4 kişi hayatını kaybetti, 9 kişi yaralandı!</title>
       <link>https://www.youtube.com/watch?v=64sKG072Eno</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">-gHKHYAhSn8</guid>
       <pubDate>Mon, 07 Sep 2026 14:30:19 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: MİT'İN HAYALETİ NASIL ÖLDÜ? Uzman İsim Kaşif Kozinoğlu Dosyasındaki Cevapsız Soruları Anlatıyor</description>
-    </item>
-    <item>
-      <title>Halk TV: Emre Karayel’in Serhat Kılıç’a vedası yürekleri burktu!</title>
-      <link>https://www.youtube.com/shorts/McfkhJXQIpQ</link>
-      <guid isPermaLink="false">McfkhJXQIpQ</guid>
-      <pubDate>Mon, 07 Sep 2026 14:24:14 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Emre Karayel’in Serhat Kılıç’a vedası yürekleri burktu!</description>
-    </item>
-    <item>
-      <title>Halk TV: ALMANYA'DA AŞIRI SAĞ DEPREMİ! Irkçı parti AfD eyalet seçimini ezici farkla kazandı! Dengeler alt üst</title>
-      <link>https://www.youtube.com/watch?v=wKbYQ0-Bb8I</link>
-      <guid isPermaLink="false">wKbYQ0-Bb8I</guid>
-      <pubDate>Mon, 07 Sep 2026 14:20:13 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ALMANYA'DA AŞIRI SAĞ DEPREMİ! Irkçı parti AfD eyalet seçimini ezici farkla kazandı! Dengeler alt üst</description>
     </item>
   </channel>
 </rss>
