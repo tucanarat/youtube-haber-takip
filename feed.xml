@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 22:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 22:10:34 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: Pınar Erbaş ile Gecenin Sözü | 7 Eylül</title>
       <link>https://www.youtube.com/watch?v=FUKT73iKskE</link>
@@ -27,6 +27,13 @@
       <guid isPermaLink="false">FlwLU2cYbus</guid>
       <pubDate>Mon, 07 Sep 2026 22:00:23 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Kadirli’de alevler yükseldi! Osmaniye'de tarihi müze yakınında orman yangını!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Can Özçelik'ten Davutoğlu'na Olay Sözler! "Silivri'yi Siz Yaptınız! Özelleştirmeyi Siz Başlattınız!"</title>
+      <link>https://www.youtube.com/watch?v=bxy0qeo0GdE</link>
+      <guid isPermaLink="false">bxy0qeo0GdE</guid>
+      <pubDate>Mon, 07 Sep 2026 22:00:01 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Can Özçelik'ten Davutoğlu'na Olay Sözler! "Silivri'yi Siz Yaptınız! Özelleştirmeyi Siz Başlattınız!"</description>
     </item>
     <item>
       <title>Halk TV: Kürşad Oğuz ile Rota (7 Eylül 2026)</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">T-KDl7V021E</guid>
       <pubDate>Mon, 07 Sep 2026 18:26:24 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Hilmi Hacaloğlu ve Ersin Eroğlu ile Kayıt Dışı (07.09.2026)</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Üsküdar Belediyesi önünde "Üsküdar'ın İradesi Yok Sayılamaz" buluşması düzenleniyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=AHZ1S1xhjoc</link>
-      <guid isPermaLink="false">AHZ1S1xhjoc</guid>
-      <pubDate>Mon, 07 Sep 2026 18:23:40 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Üsküdar Belediyesi önünde "Üsküdar'ın İradesi Yok Sayılamaz" buluşması düzenleniyor #Canlı</description>
     </item>
   </channel>
 </rss>
