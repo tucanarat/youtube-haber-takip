@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 22:15:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 22:20:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Antalya’da orman yangını paniği! Alevler Döşemealtı’na dayandı! #shorts</title>
+      <link>https://www.youtube.com/shorts/fjj54Z2fN7Q</link>
+      <guid isPermaLink="false">fjj54Z2fN7Q</guid>
+      <pubDate>Mon, 07 Sep 2026 22:15:30 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Antalya’da orman yangını paniği! Alevler Döşemealtı’na dayandı! #shorts</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Pınar Erbaş ile Gecenin Sözü | 7 Eylül</title>
       <link>https://www.youtube.com/watch?v=FUKT73iKskE</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">HfpGXPCsS_w</guid>
       <pubDate>Mon, 07 Sep 2026 18:30:23 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "O ÇİĞNEDİĞİ SAKIZ DEĞİL! İNSANLIK ONURU..." Murat Taylan, Selahattin Demirtaş'ın mektubunu aktardı!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Hilmi Hacaloğlu ve Ersin Eroğlu ile Kayıt Dışı (07.09.2026)</title>
-      <link>https://www.youtube.com/watch?v=T-KDl7V021E</link>
-      <guid isPermaLink="false">T-KDl7V021E</guid>
-      <pubDate>Mon, 07 Sep 2026 18:26:24 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Hilmi Hacaloğlu ve Ersin Eroğlu ile Kayıt Dışı (07.09.2026)</description>
     </item>
   </channel>
 </rss>
