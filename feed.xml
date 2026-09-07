@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 18:10:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 18:15:32 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: İstanbul Boğazı'ndaki köprüler, otoyollar ve çevreyolları özelleştiriliyor! Taylan isyan etti...</title>
+      <link>https://www.youtube.com/watch?v=D7TbZhL2oYM</link>
+      <guid isPermaLink="false">D7TbZhL2oYM</guid>
+      <pubDate>Mon, 07 Sep 2026 18:00:22 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: İstanbul Boğazı'ndaki köprüler, otoyollar ve çevreyolları özelleştiriliyor! Taylan isyan etti...</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Dudak Uçuklatan 180 Milyon Euro Gerçeği! Gökçeklere Yurt Dışı Yasağı! AKP İçinde Tasfiye</title>
       <link>https://www.youtube.com/watch?v=cZ1Chmw1568</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">icjpX98S6F8</guid>
       <pubDate>Mon, 07 Sep 2026 14:00:02 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İsmail Saymaz'dan Ezber Bozan Çözüm Süreci Yorumu: "Bülent Turan Sonuna Kadar Haklı"</description>
-    </item>
-    <item>
-      <title>Halk TV: Serhat Kılıç için düzenlenen törende Ahmet Mümtaz Taylan’ın konuşması salonda duygusal anlar yaşattı</title>
-      <link>https://www.youtube.com/shorts/9AMe8LlPgo0</link>
-      <guid isPermaLink="false">9AMe8LlPgo0</guid>
-      <pubDate>Mon, 07 Sep 2026 13:59:42 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Serhat Kılıç için düzenlenen törende Ahmet Mümtaz Taylan’ın konuşması salonda duygusal anlar yaşattı</description>
     </item>
   </channel>
 </rss>
