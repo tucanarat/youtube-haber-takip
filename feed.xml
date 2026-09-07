@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 17:40:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 17:45:33 +0000</lastBuildDate>
     <item>
-      <title>Halk TV: #CANLI | Üsküdar Belediyesi önünde "Üsküdar'ın İradesi Yok Sayılamaz" buluşması düzenleniyor!</title>
+      <title>Halk TV: Üsküdar Belediyesi önünde "Üsküdar'ın İradesi Yok Sayılamaz" buluşması düzenlendi! (7 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=hJI2oO-Fu40</link>
       <guid isPermaLink="false">hJI2oO-Fu40</guid>
-      <pubDate>Mon, 07 Sep 2026 17:22:57 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Üsküdar Belediyesi önünde "Üsküdar'ın İradesi Yok Sayılamaz" buluşması düzenleniyor!</description>
+      <pubDate>Mon, 07 Sep 2026 17:40:48 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Üsküdar Belediyesi önünde "Üsküdar'ın İradesi Yok Sayılamaz" buluşması düzenlendi! (7 Eylül 2026)</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Veyis Ateş ilk duruşmada tahliye edildi! Murat Taylan, 'CASUSLUK DAVASI'nı hatırlattı...</title>
+      <link>https://www.youtube.com/watch?v=6eOf3t-k3PY</link>
+      <guid isPermaLink="false">6eOf3t-k3PY</guid>
+      <pubDate>Mon, 07 Sep 2026 17:30:07 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Veyis Ateş ilk duruşmada tahliye edildi! Murat Taylan, 'CASUSLUK DAVASI'nı hatırlattı...</description>
     </item>
     <item>
       <title>Halk TV: AKP'li kimi isimler diken üstünde: Şirketlerine el konulacağı öne sürülen Yıldırım'dan ilginç hamle!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">_xqTYfiJklQ</guid>
       <pubDate>Mon, 07 Sep 2026 13:54:37 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Ertan Saban, Serhat Kılıç'tan helallik istedi!</description>
-    </item>
-    <item>
-      <title>Halk TV: DENİZLİ'DE KANLI HESAPLAŞMA! Silahlar bir anda ateşlendi, çıkan çatışmada 3 kişi hayatını kaybetti!</title>
-      <link>https://www.youtube.com/watch?v=GPopMveEsJw</link>
-      <guid isPermaLink="false">GPopMveEsJw</guid>
-      <pubDate>Mon, 07 Sep 2026 13:50:08 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: DENİZLİ'DE KANLI HESAPLAŞMA! Silahlar bir anda ateşlendi, çıkan çatışmada 3 kişi hayatını kaybetti!</description>
     </item>
   </channel>
 </rss>
