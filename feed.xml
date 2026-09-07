@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 14:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 14:30:46 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Emre Karayel’in Serhat Kılıç’a vedası yürekleri burktu!</title>
+      <link>https://www.youtube.com/shorts/McfkhJXQIpQ</link>
+      <guid isPermaLink="false">McfkhJXQIpQ</guid>
+      <pubDate>Mon, 07 Sep 2026 14:24:14 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Emre Karayel’in Serhat Kılıç’a vedası yürekleri burktu!</description>
+    </item>
     <item>
       <title>Halk TV: ALMANYA'DA AŞIRI SAĞ DEPREMİ! Irkçı parti AfD eyalet seçimini ezici farkla kazandı! Dengeler alt üst</title>
       <link>https://www.youtube.com/watch?v=wKbYQ0-Bb8I</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">R9piVnVFbpc</guid>
       <pubDate>Mon, 07 Sep 2026 11:37:54 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: 30 Yıllık Otoyol Geliri Nereye Gidecek? Özelleştirmenin Perde Arkası | Yalçın Karatepe Anlatıyor</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "Kaçırılan Paralar Geri Getirilerek Mansur Yavaş Operasyonlarına Zemin Hazırlanacak!" Bomba Kulis...</title>
-      <link>https://www.youtube.com/watch?v=wpI4cMZdTgk</link>
-      <guid isPermaLink="false">wpI4cMZdTgk</guid>
-      <pubDate>Mon, 07 Sep 2026 11:36:47 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "Kaçırılan Paralar Geri Getirilerek Mansur Yavaş Operasyonlarına Zemin Hazırlanacak!" Bomba Kulis...</description>
     </item>
   </channel>
 </rss>
