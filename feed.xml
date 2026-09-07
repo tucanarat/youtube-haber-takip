@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 16:15:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 16:20:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #Canlı | Kürşad Oğuz ile Rota</title>
+      <link>https://www.youtube.com/watch?v=BtE0sxLPK5M</link>
+      <guid isPermaLink="false">BtE0sxLPK5M</guid>
+      <pubDate>Mon, 07 Sep 2026 16:10:38 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #Canlı | Kürşad Oğuz ile Rota</description>
+    </item>
     <item>
       <title>Halk TV: BOMBA AÇIKLAMA! ÖZGÜR ÇELİK'TEN FLAŞ OLAN SÖZLER! "Tutuklanma korkusuyla transfer olanlar var"</title>
       <link>https://www.youtube.com/watch?v=gaa2YGhhj-U</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">UJKc6LcgGdk</guid>
       <pubDate>Mon, 07 Sep 2026 12:35:07 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SON DAKİKA! İLK KEZ HAKİM KARŞISINA ÇIKTI! Veyis Ateş'e 'uyuşturucu' davasında tahliye kararı!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Yayla sevdalılarına kartpostallık görüntüler: Rize'nin yüksek kesimlerine kar yağdı</title>
-      <link>https://www.youtube.com/shorts/EV5rjlZMYHA</link>
-      <guid isPermaLink="false">EV5rjlZMYHA</guid>
-      <pubDate>Mon, 07 Sep 2026 12:32:28 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Yayla sevdalılarına kartpostallık görüntüler: Rize'nin yüksek kesimlerine kar yağdı</description>
     </item>
   </channel>
 </rss>
