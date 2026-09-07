@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 15:30:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 15:35:26 +0000</lastBuildDate>
     <item>
       <title>Halk TV: "Müstehcenlik" soruşturması kapsamında tutuklanan Tuğba Ekinci'den ilginç bir savunma geldi!</title>
       <link>https://www.youtube.com/watch?v=67_rdG6IxfA</link>
       <guid isPermaLink="false">67_rdG6IxfA</guid>
       <pubDate>Mon, 07 Sep 2026 15:20:26 +0000</pubDate>
       <description>Halk TV kanalından yeni video: "Müstehcenlik" soruşturması kapsamında tutuklanan Tuğba Ekinci'den ilginç bir savunma geldi!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: 30 Yıllık Otoyol Geliri Nereye Gidecek? Özelleştirmenin Perde Arkası | Yalçın Karatepe Anlatıyor</title>
+      <link>https://www.youtube.com/watch?v=R9piVnVFbpc</link>
+      <guid isPermaLink="false">R9piVnVFbpc</guid>
+      <pubDate>Mon, 07 Sep 2026 15:20:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: 30 Yıllık Otoyol Geliri Nereye Gidecek? Özelleştirmenin Perde Arkası | Yalçın Karatepe Anlatıyor</description>
     </item>
     <item>
       <title>Halk TV: Gizem Çetin ile Parantez (7 Eylül 2026)</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">fjjJlPtxacs</guid>
       <pubDate>Mon, 07 Sep 2026 12:18:20 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Havalandırma boşluğuna düşen yavru kedileri itfaiye kurtardı</description>
-    </item>
-    <item>
-      <title>Halk TV: ANKARA'DA SICAK SAATLER! Ahmet Davutoğlu, 'cumhurbaşkanına hakaret' suçlamasıyla ifade için adliyede</title>
-      <link>https://www.youtube.com/watch?v=JizGJ_cbAvE</link>
-      <guid isPermaLink="false">JizGJ_cbAvE</guid>
-      <pubDate>Mon, 07 Sep 2026 12:10:12 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ANKARA'DA SICAK SAATLER! Ahmet Davutoğlu, 'cumhurbaşkanına hakaret' suçlamasıyla ifade için adliyede</description>
     </item>
   </channel>
 </rss>
