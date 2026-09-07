@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 13:30:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 13:35:26 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: İsmail Küçükkaya'dan Çarpıcı AKP, Mehmet Şimşek ve Seçim Kulisi! "İhtimal Vermem!"</title>
+      <link>https://www.youtube.com/watch?v=Z46zfbwqPbs</link>
+      <guid isPermaLink="false">Z46zfbwqPbs</guid>
+      <pubDate>Mon, 07 Sep 2026 13:30:08 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya'dan Çarpıcı AKP, Mehmet Şimşek ve Seçim Kulisi! "İhtimal Vermem!"</description>
+    </item>
     <item>
       <title>Halk TV: DAVUTOĞLU ANKARA'YI SARSTI! Savcıya verdiği ifadeden sonra demediğini bırakmadı! Dikkat çeken sözler</title>
       <link>https://www.youtube.com/watch?v=Qj1myX9dNew</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Wv5GxPnO46g</guid>
       <pubDate>Mon, 07 Sep 2026 10:17:01 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Köprü ve yol özelleşti̇rmeleri yurttaşı ne i̇le karşı karşıya bırakıyor? İnan Mutlu anlattı.</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Suat Özçağdaş'tan AKP'ye Çok Sert Üsküdar Tepkisi! "Ağlamaya Devam Edeceksiniz, Biz Buradayız!"</title>
-      <link>https://www.youtube.com/watch?v=57L5Wa7vgs0</link>
-      <guid isPermaLink="false">57L5Wa7vgs0</guid>
-      <pubDate>Mon, 07 Sep 2026 10:16:30 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Suat Özçağdaş'tan AKP'ye Çok Sert Üsküdar Tepkisi! "Ağlamaya Devam Edeceksiniz, Biz Buradayız!"</description>
     </item>
   </channel>
 </rss>
