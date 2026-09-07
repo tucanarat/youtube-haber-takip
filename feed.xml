@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 16:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 16:10:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: BOMBA AÇIKLAMA! ÖZGÜR ÇELİK'TEN FLAŞ OLAN SÖZLER! "Tutuklanma korkusuyla transfer olanlar var"</title>
+      <link>https://www.youtube.com/watch?v=gaa2YGhhj-U</link>
+      <guid isPermaLink="false">gaa2YGhhj-U</guid>
+      <pubDate>Mon, 07 Sep 2026 16:05:01 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BOMBA AÇIKLAMA! ÖZGÜR ÇELİK'TEN FLAŞ OLAN SÖZLER! "Tutuklanma korkusuyla transfer olanlar var"</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Mahkeme Kürsüsünde Duygusal Anlar! İmamoğlu'nun Oğlundan Silivri'yi Sarsan Savunma</title>
+      <link>https://www.youtube.com/watch?v=FwOsj8ME3TA</link>
+      <guid isPermaLink="false">FwOsj8ME3TA</guid>
+      <pubDate>Mon, 07 Sep 2026 16:00:13 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Mahkeme Kürsüsünde Duygusal Anlar! İmamoğlu'nun Oğlundan Silivri'yi Sarsan Savunma</description>
+    </item>
     <item>
       <title>Halk TV: Davutoğlu’ndan soruşturma sonrası ilk açıklama! “Hüzünle karşılıyorum!” #shorts</title>
       <link>https://www.youtube.com/shorts/-hx5fh9W4Dw</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">EV5rjlZMYHA</guid>
       <pubDate>Mon, 07 Sep 2026 12:32:28 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Yayla sevdalılarına kartpostallık görüntüler: Rize'nin yüksek kesimlerine kar yağdı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Timur Soykan Soruyor: Binali Yıldırım'ın Çocuklarındaki 480 Milyon Euro Nereden Geldi?</title>
-      <link>https://www.youtube.com/watch?v=IF053irQgN4</link>
-      <guid isPermaLink="false">IF053irQgN4</guid>
-      <pubDate>Mon, 07 Sep 2026 12:30:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Timur Soykan Soruyor: Binali Yıldırım'ın Çocuklarındaki 480 Milyon Euro Nereden Geldi?</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: İBB TUTUKLULUKLARINDA YENİ SKANDAL! Tutuklanan Beş Kişide 18 Bin Lira Kamu Zazarı Bulmuşlar!</title>
-      <link>https://www.youtube.com/watch?v=rxcqsR5etLo</link>
-      <guid isPermaLink="false">rxcqsR5etLo</guid>
-      <pubDate>Mon, 07 Sep 2026 12:26:39 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: İBB TUTUKLULUKLARINDA YENİ SKANDAL! Tutuklanan Beş Kişide 18 Bin Lira Kamu Zazarı Bulmuşlar!</description>
     </item>
   </channel>
 </rss>
