@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 07:30:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 07:35:27 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: TVF Başkanı Mehmet Akif Üstündağ'dan net mesaj: "Voleybolun bu başarısı asla tesadüf değil"</title>
+      <link>https://www.youtube.com/shorts/8-Lw3wJJbVQ</link>
+      <guid isPermaLink="false">8-Lw3wJJbVQ</guid>
+      <pubDate>Mon, 07 Sep 2026 07:30:08 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: TVF Başkanı Mehmet Akif Üstündağ'dan net mesaj: "Voleybolun bu başarısı asla tesadüf değil"</description>
+    </item>
     <item>
       <title>Cumhuriyet: Kaşif Kozinoğlu’nun şüpheli ölümü: 10 cezaevi çalışanı gözaltında!</title>
       <link>https://www.youtube.com/watch?v=fzZM15-FzsY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Im8Zdnb__O0</guid>
       <pubDate>Sun, 06 Sep 2026 21:08:22 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: DEM Parti, 5'inci Olağan Büyük Kongresi, Nazım Hikmet Kültür Merkezi'nde yapılıyor #Canlı / Ankara</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Senem Toluay Ilgaz ile Öncesi Sonrası Gece - Timur Soykan | 6 Eylül</title>
-      <link>https://www.youtube.com/watch?v=QwOoLaKnoDM</link>
-      <guid isPermaLink="false">QwOoLaKnoDM</guid>
-      <pubDate>Sun, 06 Sep 2026 21:05:54 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Senem Toluay Ilgaz ile Öncesi Sonrası Gece - Timur Soykan | 6 Eylül</description>
     </item>
   </channel>
 </rss>
