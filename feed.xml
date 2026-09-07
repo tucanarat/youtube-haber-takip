@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 09:30:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 09:32:43 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Pompeiopolis Antik Kenti’nde heyecanlandıran keşif: 105 metrekarelik zemin mozaiği açığa çıkarıldı</title>
+      <link>https://www.youtube.com/shorts/aqMUtUUGlGs</link>
+      <guid isPermaLink="false">aqMUtUUGlGs</guid>
+      <pubDate>Mon, 07 Sep 2026 09:20:27 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Pompeiopolis Antik Kenti’nde heyecanlandıran keşif: 105 metrekarelik zemin mozaiği açığa çıkarıldı</description>
+    </item>
     <item>
       <title>Tele2 Haber: Oyuncu Serhat Kılıç için Harbiye Muhsin Ertuğrul Sahnesi'nde tören düzenleniyor...</title>
       <link>https://www.youtube.com/shorts/UL0UkBal6Lw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">XC7acSx1QuU</guid>
       <pubDate>Mon, 07 Sep 2026 06:49:40 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Artvin'de ayı sürprizi! Evin kapısına kadar geldi</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Isparta'da elma ağaçları susuzluktan kurudu: "Yiyecek elma yok''</title>
-      <link>https://www.youtube.com/shorts/BGeUWn5-4qU</link>
-      <guid isPermaLink="false">BGeUWn5-4qU</guid>
-      <pubDate>Mon, 07 Sep 2026 06:42:01 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Isparta'da elma ağaçları susuzluktan kurudu: "Yiyecek elma yok''</description>
     </item>
   </channel>
 </rss>
