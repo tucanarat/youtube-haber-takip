@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 10:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 10:30:39 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Melih Gökçek'in oğlu Ahmet Gökçek ve gelini Hülya Gökçek, Ankara Adliyesi'nde #Canlı</title>
+      <link>https://www.youtube.com/watch?v=L5_wcv17fPw</link>
+      <guid isPermaLink="false">L5_wcv17fPw</guid>
+      <pubDate>Mon, 07 Sep 2026 10:29:00 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Melih Gökçek'in oğlu Ahmet Gökçek ve gelini Hülya Gökçek, Ankara Adliyesi'nde #Canlı</description>
+    </item>
     <item>
       <title>Cumhuriyet: Köprü ve yol özelleşti̇rmeleri yurttaşı ne i̇le karşı karşıya bırakıyor? İnan Mutlu anlattı.</title>
       <link>https://www.youtube.com/shorts/Wv5GxPnO46g</link>
       <guid isPermaLink="false">Wv5GxPnO46g</guid>
       <pubDate>Mon, 07 Sep 2026 10:17:01 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Köprü ve yol özelleşti̇rmeleri yurttaşı ne i̇le karşı karşıya bırakıyor? İnan Mutlu anlattı.</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Suat Özçağdaş'tan AKP'ye Çok Sert Üsküdar Tepkisi! "Ağlamaya Devam Edeceksiniz, Biz Buradayız!"</title>
+      <link>https://www.youtube.com/watch?v=57L5Wa7vgs0</link>
+      <guid isPermaLink="false">57L5Wa7vgs0</guid>
+      <pubDate>Mon, 07 Sep 2026 10:16:30 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Suat Özçağdaş'tan AKP'ye Çok Sert Üsküdar Tepkisi! "Ağlamaya Devam Edeceksiniz, Biz Buradayız!"</description>
     </item>
     <item>
       <title>Cumhuriyet: Evin çatısına düşen boğa, delinen tavanda asılı kaldı</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">zdwLtgXW_n0</guid>
       <pubDate>Mon, 07 Sep 2026 08:01:27 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: AKP'den CHP'ye Geçen Üsküdar Meclis Üyesi Ekrem Baki Dahil 6 Kişi Tutuklandı! Seçim Yarın!</description>
-    </item>
-    <item>
-      <title>Halk TV: AĞZINIZ AÇIK KALACAK! AKP'nin Üsküdar'a 'çökme' planında akılalmaz bilgiler! Özgür Çelik açıkladı!</title>
-      <link>https://www.youtube.com/watch?v=33FVjd1yAm4</link>
-      <guid isPermaLink="false">33FVjd1yAm4</guid>
-      <pubDate>Mon, 07 Sep 2026 08:00:26 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: AĞZINIZ AÇIK KALACAK! AKP'nin Üsküdar'a 'çökme' planında akılalmaz bilgiler! Özgür Çelik açıkladı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: "Erdoğan'dan Habersiz Olamaz" İsmail Saymaz Kulisi Patlattı! Gökçek Soruşturmasında Çarpıcı İddia!</title>
-      <link>https://www.youtube.com/watch?v=fQl0zgnb_KU</link>
-      <guid isPermaLink="false">fQl0zgnb_KU</guid>
-      <pubDate>Mon, 07 Sep 2026 08:00:11 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: "Erdoğan'dan Habersiz Olamaz" İsmail Saymaz Kulisi Patlattı! Gökçek Soruşturmasında Çarpıcı İddia!</description>
     </item>
   </channel>
 </rss>
