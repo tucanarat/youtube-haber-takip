@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 13:10:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 13:15:33 +0000</lastBuildDate>
     <item>
       <title>Halk TV: İrem Sansak ile Haber Masası (7 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=eGVpdRrTChk</link>
@@ -22,11 +22,25 @@
       <description>Halk TV kanalından yeni video: ANKARA SEÇİM GÜNDEMİYLE ISINIYOR! MHP, Erdoğan'ın adaylığını ilan etti! Çok konuşulacak sözler!</description>
     </item>
     <item>
+      <title>Cumhuriyet: Ahmet Davutoğlu, "Cumhurbaşkanına hakaret" suçlamasıyla ifade verdi</title>
+      <link>https://www.youtube.com/shorts/rBFxeivwibE</link>
+      <guid isPermaLink="false">rBFxeivwibE</guid>
+      <pubDate>Mon, 07 Sep 2026 13:04:51 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Ahmet Davutoğlu, "Cumhurbaşkanına hakaret" suçlamasıyla ifade verdi</description>
+    </item>
+    <item>
       <title>Tele2 Haber: Ahmet Davutoğlu "Şüpheli" Olarak İfade Verdikten Sonra Açıklama Yaptı! "Hüzünle Karşılıyorum!"</title>
       <link>https://www.youtube.com/watch?v=4uaV-UX7y2M</link>
       <guid isPermaLink="false">4uaV-UX7y2M</guid>
       <pubDate>Mon, 07 Sep 2026 13:03:37 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Ahmet Davutoğlu "Şüpheli" Olarak İfade Verdikten Sonra Açıklama Yaptı! "Hüzünle Karşılıyorum!"</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İSMAİL SAYMAZ ÖZELLEŞTİRMEYE İSYAN ETTİ! "Seçimi Finanse Etmek için Satıyorlar"</title>
+      <link>https://www.youtube.com/watch?v=Og-OpCWOvHo</link>
+      <guid isPermaLink="false">Og-OpCWOvHo</guid>
+      <pubDate>Mon, 07 Sep 2026 13:00:41 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İSMAİL SAYMAZ ÖZELLEŞTİRMEYE İSYAN ETTİ! "Seçimi Finanse Etmek için Satıyorlar"</description>
     </item>
     <item>
       <title>Tele2 Haber: #CANLI Ahmet Davutoğlu, Ankara Adliyesi önünde açıklama yapıyor</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">-N5u1jLNrCA</guid>
       <pubDate>Mon, 07 Sep 2026 10:16:20 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Evin çatısına düşen boğa, delinen tavanda asılı kaldı</description>
-    </item>
-    <item>
-      <title>Halk TV: VEYİS ATEŞ HAKİM KARŞISINDA! Bomba 'Mehmet Akif Ersoy' iddiası! "Cezaevinde karşılaştık ve bana..."</title>
-      <link>https://www.youtube.com/watch?v=rNEvBappXmw</link>
-      <guid isPermaLink="false">rNEvBappXmw</guid>
-      <pubDate>Mon, 07 Sep 2026 10:15:01 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: VEYİS ATEŞ HAKİM KARŞISINDA! Bomba 'Mehmet Akif Ersoy' iddiası! "Cezaevinde karşılaştık ve bana..."</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Oyuncu Serhat Kılıç için Harbiye Muhsin Ertuğrul Sahnesi'nde tören düzenleniyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=gpY2ZjWuxT4</link>
-      <guid isPermaLink="false">gpY2ZjWuxT4</guid>
-      <pubDate>Mon, 07 Sep 2026 10:11:29 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Oyuncu Serhat Kılıç için Harbiye Muhsin Ertuğrul Sahnesi'nde tören düzenleniyor #Canlı</description>
     </item>
   </channel>
 </rss>
