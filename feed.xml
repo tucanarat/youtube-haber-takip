@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 16:45:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 16:50:37 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Gökçekler Soruşturmasında Çarpıcı Karar! Melih Gökçek'ten Olay Çıkış! Özlem Gürses Anlattı</title>
+      <link>https://www.youtube.com/watch?v=O2--fk682LU</link>
+      <guid isPermaLink="false">O2--fk682LU</guid>
+      <pubDate>Mon, 07 Sep 2026 16:40:37 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Gökçekler Soruşturmasında Çarpıcı Karar! Melih Gökçek'ten Olay Çıkış! Özlem Gürses Anlattı</description>
+    </item>
     <item>
       <title>Tele2 Haber: İmamoğlu'nun avukatlarından uzun duruşma süresine itiraz etti! Murat Taylan'dan kritik yorum...</title>
       <link>https://www.youtube.com/watch?v=UqmOeHH_QDM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">VfJ3COfs6sE</guid>
       <pubDate>Mon, 07 Sep 2026 12:56:09 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Ahmet Davutoğlu, Ankara Adliyesi önünde açıklama yapıyor</description>
-    </item>
-    <item>
-      <title>Halk TV: Ahmet Davutoğlu, Ankara Adliyesi Önünde Açıklama Yaptı (7 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=w4WldgPN86o</link>
-      <guid isPermaLink="false">w4WldgPN86o</guid>
-      <pubDate>Mon, 07 Sep 2026 12:54:42 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ahmet Davutoğlu, Ankara Adliyesi Önünde Açıklama Yaptı (7 Eylül 2026)</description>
     </item>
   </channel>
 </rss>
