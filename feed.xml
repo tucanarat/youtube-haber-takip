@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 16:25:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 16:30:46 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #Sondakika Melih Gökçek'in oğlu ve gelini hakkında adli kontrol talebi!</title>
+      <link>https://www.youtube.com/watch?v=9kwK_ejAbNY</link>
+      <guid isPermaLink="false">9kwK_ejAbNY</guid>
+      <pubDate>Mon, 07 Sep 2026 16:26:03 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #Sondakika Melih Gökçek'in oğlu ve gelini hakkında adli kontrol talebi!</description>
+    </item>
     <item>
       <title>Halk TV: #Canlı | Kürşad Oğuz ile Rota</title>
       <link>https://www.youtube.com/watch?v=BtE0sxLPK5M</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">AuCV7U6UhAA</guid>
       <pubDate>Mon, 07 Sep 2026 12:46:04 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Bomba Gökçek ve Binali Yıldırım detayı! | Ülkü Çoban ile Manşet Ötesi</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! İLK KEZ HAKİM KARŞISINA ÇIKTI! Veyis Ateş'e 'uyuşturucu' davasında tahliye kararı!</title>
-      <link>https://www.youtube.com/watch?v=UJKc6LcgGdk</link>
-      <guid isPermaLink="false">UJKc6LcgGdk</guid>
-      <pubDate>Mon, 07 Sep 2026 12:35:07 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! İLK KEZ HAKİM KARŞISINA ÇIKTI! Veyis Ateş'e 'uyuşturucu' davasında tahliye kararı!</description>
     </item>
   </channel>
 </rss>
