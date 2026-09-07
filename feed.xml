@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 17:50:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 17:55:26 +0000</lastBuildDate>
     <item>
       <title>Halk TV: Üsküdar Belediyesi önünde "Üsküdar'ın İradesi Yok Sayılamaz" buluşması düzenlendi! (7 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=hJI2oO-Fu40</link>
       <guid isPermaLink="false">hJI2oO-Fu40</guid>
       <pubDate>Mon, 07 Sep 2026 17:40:48 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Üsküdar Belediyesi önünde "Üsküdar'ın İradesi Yok Sayılamaz" buluşması düzenlendi! (7 Eylül 2026)</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Melih Gökçek'ten Tarihi İtiraf! 500 Soruşturmanın Sırrı Çözüldü! 'Bana Kimse Dokunamaz' Resti</title>
+      <link>https://www.youtube.com/watch?v=sQxs7FjXsqY</link>
+      <guid isPermaLink="false">sQxs7FjXsqY</guid>
+      <pubDate>Mon, 07 Sep 2026 17:40:32 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Melih Gökçek'ten Tarihi İtiraf! 500 Soruşturmanın Sırrı Çözüldü! 'Bana Kimse Dokunamaz' Resti</description>
     </item>
     <item>
       <title>Tele2 Haber: Veyis Ateş ilk duruşmada tahliye edildi! Murat Taylan, 'CASUSLUK DAVASI'nı hatırlattı...</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">BBGwq6-j9iA</guid>
       <pubDate>Mon, 07 Sep 2026 13:57:27 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Serap Belovacıklı ile Haber Saati | 7 Eylül</description>
-    </item>
-    <item>
-      <title>Halk TV: Ertan Saban, Serhat Kılıç'tan helallik istedi!</title>
-      <link>https://www.youtube.com/shorts/_xqTYfiJklQ</link>
-      <guid isPermaLink="false">_xqTYfiJklQ</guid>
-      <pubDate>Mon, 07 Sep 2026 13:54:37 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ertan Saban, Serhat Kılıç'tan helallik istedi!</description>
     </item>
   </channel>
 </rss>
