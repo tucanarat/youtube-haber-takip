@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 06:10:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 06:15:27 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SON DAKİKA! Eski MİT görevlisi Kaşif Kozinoğlu'nun şüpheli ölümünde flaş gelişme! 11 kişi gözaltında</title>
+      <link>https://www.youtube.com/watch?v=CeyFA21mWng</link>
+      <guid isPermaLink="false">CeyFA21mWng</guid>
+      <pubDate>Mon, 07 Sep 2026 06:03:20 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! Eski MİT görevlisi Kaşif Kozinoğlu'nun şüpheli ölümünde flaş gelişme! 11 kişi gözaltında</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Pınar Erbaş ile Gecenin Sözü</title>
       <link>https://www.youtube.com/watch?v=FUKT73iKskE</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ADORIrMSFe4</guid>
       <pubDate>Sun, 06 Sep 2026 18:21:26 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | Deniz Bayramoğlu ile Gün Doğarken | #kupahepimizin</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: AKP'de Melih Gökçek ve Binali Yıldırım Depremi! Erdoğan Sonrasına Gizli Hesap! Timur Soykan Anlattı</title>
-      <link>https://www.youtube.com/watch?v=DqFkAnyVUYM</link>
-      <guid isPermaLink="false">DqFkAnyVUYM</guid>
-      <pubDate>Sun, 06 Sep 2026 18:20:04 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: AKP'de Melih Gökçek ve Binali Yıldırım Depremi! Erdoğan Sonrasına Gizli Hesap! Timur Soykan Anlattı</description>
     </item>
   </channel>
 </rss>
