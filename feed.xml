@@ -6,14 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 05:00:51 +0000</lastBuildDate>
-    <item>
-      <title>SÖZCÜ TV: #CANLI Merve Ekinci ile Uyanma Vakti</title>
-      <link>https://www.youtube.com/watch?v=ipSjvJifxk8</link>
-      <guid isPermaLink="false">ipSjvJifxk8</guid>
-      <pubDate>Mon, 07 Sep 2026 04:56:01 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: #CANLI Merve Ekinci ile Uyanma Vakti</description>
-    </item>
+    <lastBuildDate>Mon, 07 Sep 2026 05:05:27 +0000</lastBuildDate>
     <item>
       <title>Halk TV: Süheyla Demir ile Günaydın Türkiye (7 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=zLoYWcIbMic</link>
@@ -76,6 +69,13 @@
       <guid isPermaLink="false">21Io4apo4J8</guid>
       <pubDate>Sun, 06 Sep 2026 22:48:34 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: #CANLI İsmail Küçükkaya ile Günaydın Türkiyem</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: #CANLI Merve Ekinci ile Uyanma Vakti</title>
+      <link>https://www.youtube.com/watch?v=ipSjvJifxk8</link>
+      <guid isPermaLink="false">ipSjvJifxk8</guid>
+      <pubDate>Sun, 06 Sep 2026 22:48:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: #CANLI Merve Ekinci ile Uyanma Vakti</description>
     </item>
     <item>
       <title>SÖZCÜ TV: İktidar İçinde Büyük Tasfiye! Türkiye'nin Acı Hukuk Karnesi! Mustafa Balbay'dan Çarpıcı Sözler</title>
