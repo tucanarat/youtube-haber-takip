@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 19:35:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 19:40:32 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: "BEN BURADA KENDİM İÇİN YATMIYORUM!" Merdan Yanardağ Silivri'den 'MERKEZ MEDYA' yorumu...</title>
+      <link>https://www.youtube.com/watch?v=DRKzW0Dyr34</link>
+      <guid isPermaLink="false">DRKzW0Dyr34</guid>
+      <pubDate>Mon, 07 Sep 2026 19:30:02 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "BEN BURADA KENDİM İÇİN YATMIYORUM!" Merdan Yanardağ Silivri'den 'MERKEZ MEDYA' yorumu...</description>
+    </item>
     <item>
       <title>Halk TV: Antalya'nın Aksu ilçesinde çıkan orman yangınına, havadan ve karadan müdahale başlatıldı! #shorts</title>
       <link>https://www.youtube.com/shorts/3PGd9sQzqHs</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">67_rdG6IxfA</guid>
       <pubDate>Mon, 07 Sep 2026 15:20:26 +0000</pubDate>
       <description>Halk TV kanalından yeni video: "Müstehcenlik" soruşturması kapsamında tutuklanan Tuğba Ekinci'den ilginç bir savunma geldi!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: 30 Yıllık Otoyol Geliri Nereye Gidecek? Özelleştirmenin Perde Arkası | Yalçın Karatepe Anlatıyor</title>
-      <link>https://www.youtube.com/watch?v=R9piVnVFbpc</link>
-      <guid isPermaLink="false">R9piVnVFbpc</guid>
-      <pubDate>Mon, 07 Sep 2026 15:20:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: 30 Yıllık Otoyol Geliri Nereye Gidecek? Özelleştirmenin Perde Arkası | Yalçın Karatepe Anlatıyor</description>
     </item>
   </channel>
 </rss>
