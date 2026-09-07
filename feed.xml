@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 20:40:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 20:45:31 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: AKP'nin Üsküdar ve Beykoz Planı! İsmail Saymaz'dan Sert Sözler! Burcu Köksal ve Çerçioğlu Çıkışı</title>
+      <link>https://www.youtube.com/watch?v=COaPLU3XSxI</link>
+      <guid isPermaLink="false">COaPLU3XSxI</guid>
+      <pubDate>Mon, 07 Sep 2026 20:40:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: AKP'nin Üsküdar ve Beykoz Planı! İsmail Saymaz'dan Sert Sözler! Burcu Köksal ve Çerçioğlu Çıkışı</description>
+    </item>
     <item>
       <title>Tele2 Haber: Özelleştirmeler sonrası erken seçim mi geliyor? Görkem Doğan yaşananlar için kritik yorum!</title>
       <link>https://www.youtube.com/watch?v=a3trfERkUZk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">UqmOeHH_QDM</guid>
       <pubDate>Mon, 07 Sep 2026 16:40:06 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: İmamoğlu'nun avukatlarından uzun duruşma süresine itiraz etti! Murat Taylan'dan kritik yorum...</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #Sondakika Melih Gökçek'in oğlu ve gelini hakkında adli kontrol talebi!</title>
-      <link>https://www.youtube.com/watch?v=9kwK_ejAbNY</link>
-      <guid isPermaLink="false">9kwK_ejAbNY</guid>
-      <pubDate>Mon, 07 Sep 2026 16:26:03 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #Sondakika Melih Gökçek'in oğlu ve gelini hakkında adli kontrol talebi!</description>
     </item>
   </channel>
 </rss>
