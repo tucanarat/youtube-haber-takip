@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 08:40:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 08:45:30 +0000</lastBuildDate>
     <item>
       <title>Halk TV: FBI Ajanları 2 Gün Sorguladı: 109 Soruya Yanıt Veren Umut Altaş, Cinayeti Anbean Anlattı!</title>
       <link>https://www.youtube.com/watch?v=DfkWoWHRAUI</link>
@@ -27,6 +27,13 @@
       <guid isPermaLink="false">Lu0rIDyPoAY</guid>
       <pubDate>Mon, 07 Sep 2026 08:32:36 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: İklim krizi önce yoksulu vuruyor-Jale Özgentürk</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İSMAİL SAYMAZ DEŞİFRE ETTİ: Üsküdar'da Akılalmaz Olaylar! "En Az 15-20 Yıllık CHP'liler Acırsın"</title>
+      <link>https://www.youtube.com/watch?v=FG_30lq23kE</link>
+      <guid isPermaLink="false">FG_30lq23kE</guid>
+      <pubDate>Mon, 07 Sep 2026 08:30:09 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İSMAİL SAYMAZ DEŞİFRE ETTİ: Üsküdar'da Akılalmaz Olaylar! "En Az 15-20 Yıllık CHP'liler Acırsın"</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: CHP Üsküdar Başkanı Zerrin Civandağ ve Yeni Parti Üsküdar Başkanı Berk Tütüncü açıklama yapıyor #</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">-dHFeOKVK-U</guid>
       <pubDate>Sun, 06 Sep 2026 22:51:59 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses ile Sözcü Ana Haber</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Damla Doğan Tuncel ile 1 Saat</title>
-      <link>https://www.youtube.com/watch?v=isA_E0hnffM</link>
-      <guid isPermaLink="false">isA_E0hnffM</guid>
-      <pubDate>Sun, 06 Sep 2026 22:51:08 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Damla Doğan Tuncel ile 1 Saat</description>
     </item>
   </channel>
 </rss>
