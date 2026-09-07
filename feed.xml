@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 13:00:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 13:05:24 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: #CANLI Ahmet Davutoğlu, Ankara Adliyesi önünde açıklama yapıyor</title>
       <link>https://www.youtube.com/watch?v=VfJ3COfs6sE</link>
@@ -36,6 +36,13 @@
       <description>Halk TV kanalından yeni video: #CANLI | Gizem Çetin ile Parantez</description>
     </item>
     <item>
+      <title>ANKA Haber Ajansı: Ahmet Davutoğlu, Ankara Adliyesi önünde açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=FEdBvaeSej0</link>
+      <guid isPermaLink="false">FEdBvaeSej0</guid>
+      <pubDate>Mon, 07 Sep 2026 12:52:44 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Ahmet Davutoğlu, Ankara Adliyesi önünde açıklama yapıyor #Canlı</description>
+    </item>
+    <item>
       <title>Halk TV: ADLİYEYE BÖYLE GİRDİLER! Melih Gökçek’ten sonra oğlu ve gelini de 'şüpheli' olarak ifade verdi!</title>
       <link>https://www.youtube.com/watch?v=0qIJW66ewJg</link>
       <guid isPermaLink="false">0qIJW66ewJg</guid>
@@ -48,13 +55,6 @@
       <guid isPermaLink="false">AuCV7U6UhAA</guid>
       <pubDate>Mon, 07 Sep 2026 12:46:04 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Bomba Gökçek ve Binali Yıldırım detayı! | Ülkü Çoban ile Manşet Ötesi</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Ahmet Davutoğlu, Ankara Adliyesi önünde açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=FEdBvaeSej0</link>
-      <guid isPermaLink="false">FEdBvaeSej0</guid>
-      <pubDate>Mon, 07 Sep 2026 12:42:48 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Ahmet Davutoğlu, Ankara Adliyesi önünde açıklama yapıyor #Canlı</description>
     </item>
     <item>
       <title>Halk TV: SON DAKİKA! İLK KEZ HAKİM KARŞISINA ÇIKTI! Veyis Ateş'e 'uyuşturucu' davasında tahliye kararı!</title>
