@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 09:45:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 09:50:35 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: YENİ Parti İstanbul Milletvekili Suat Özçağdaş açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=gfIXLH2Z5iI</link>
+      <guid isPermaLink="false">gfIXLH2Z5iI</guid>
+      <pubDate>Mon, 07 Sep 2026 09:50:23 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti İstanbul Milletvekili Suat Özçağdaş açıklama yapıyor #Canlı</description>
+    </item>
     <item>
       <title>Cumhuriyet: Ahmet Mümtaz Taylan'dan hayatını kaybeden Serhat Kılıç'a duygusal veda...</title>
       <link>https://www.youtube.com/shorts/DrgKSjnxhCo</link>
@@ -36,11 +43,18 @@
       <description>Cumhuriyet kanalından yeni video: Ünlü oyuncu Serhat Kılıç'a Veda... Bennu Yıldırımlar: ''Seni çok sevdik''</description>
     </item>
     <item>
-      <title>ANKA Haber Ajansı: YENİ Parti İstanbul Milletvekili Suat Özçağdaş açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=gfIXLH2Z5iI</link>
-      <guid isPermaLink="false">gfIXLH2Z5iI</guid>
-      <pubDate>Mon, 07 Sep 2026 09:32:25 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti İstanbul Milletvekili Suat Özçağdaş açıklama yapıyor #Canlı</description>
+      <title>Tele2 Haber: Serhat Kılıç'a Dostları, Sevenleri Veda Etti... "Biz Cumhuriyet Çocuğuyuz..."</title>
+      <link>https://www.youtube.com/watch?v=Xr55XCzCrb8</link>
+      <guid isPermaLink="false">Xr55XCzCrb8</guid>
+      <pubDate>Mon, 07 Sep 2026 09:36:52 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Serhat Kılıç'a Dostları, Sevenleri Veda Etti... "Biz Cumhuriyet Çocuğuyuz..."</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #CANLI YENİ Parti İstanbul Milletvekili Suat Özçağdaş açıklama yapıyor</title>
+      <link>https://www.youtube.com/watch?v=gZXsAGzQKAI</link>
+      <guid isPermaLink="false">gZXsAGzQKAI</guid>
+      <pubDate>Mon, 07 Sep 2026 09:33:03 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti İstanbul Milletvekili Suat Özçağdaş açıklama yapıyor</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Hande Kazanova'dan Eylül Ayı Ekonomi Yorumları: Dikkat Edilmesi Gereken O Tarihler</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">M6kaMmblSyY</guid>
       <pubDate>Mon, 07 Sep 2026 07:21:37 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Tekerlekli sandalyeyle geçemeyince isyan etti! İhbar sonrası 55 araca ceza yağdı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Daniele Santarelli'den gurur dolu kapanış konuşması: "Yaz istediğimiz şekilde inanılmaz bitti"</title>
-      <link>https://www.youtube.com/shorts/uxYj97Bb3tc</link>
-      <guid isPermaLink="false">uxYj97Bb3tc</guid>
-      <pubDate>Mon, 07 Sep 2026 07:21:31 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Daniele Santarelli'den gurur dolu kapanış konuşması: "Yaz istediğimiz şekilde inanılmaz bitti"</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: FİLENİN SULTANLARI AVRUPA ŞAMPİYONU!</title>
-      <link>https://www.youtube.com/watch?v=BvOa3xPkQFY</link>
-      <guid isPermaLink="false">BvOa3xPkQFY</guid>
-      <pubDate>Mon, 07 Sep 2026 07:18:57 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: FİLENİN SULTANLARI AVRUPA ŞAMPİYONU!</description>
     </item>
   </channel>
 </rss>
