@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 13:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 13:40:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: TAŞLARI YERİNDEN OYNATTI! İmamoğlu'ndan öyle bir paylaşım geldi ki! Her cümlesi dillere dolanacak!</title>
+      <link>https://www.youtube.com/watch?v=kJcg36di488</link>
+      <guid isPermaLink="false">kJcg36di488</guid>
+      <pubDate>Mon, 07 Sep 2026 13:35:29 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: TAŞLARI YERİNDEN OYNATTI! İmamoğlu'ndan öyle bir paylaşım geldi ki! Her cümlesi dillere dolanacak!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: "Devletin Gücüyle Patronluk Taslayıp Zengin Oluyorlar!" Demir'den Çok Sert Melih Gökçek Tepkisi!</title>
+      <link>https://www.youtube.com/watch?v=YiYMN2bGCwg</link>
+      <guid isPermaLink="false">YiYMN2bGCwg</guid>
+      <pubDate>Mon, 07 Sep 2026 13:30:15 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "Devletin Gücüyle Patronluk Taslayıp Zengin Oluyorlar!" Demir'den Çok Sert Melih Gökçek Tepkisi!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İsmail Küçükkaya'dan Çarpıcı AKP, Mehmet Şimşek ve Seçim Kulisi! "İhtimal Vermem!"</title>
       <link>https://www.youtube.com/watch?v=Z46zfbwqPbs</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">L5_wcv17fPw</guid>
       <pubDate>Mon, 07 Sep 2026 10:29:00 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Melih Gökçek'in oğlu Ahmet Gökçek ve gelini Hülya Gökçek, Ankara Adliyesi'nde #Canlı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İsmail Saymaz'dan Beştepe ve AKP Kulisleri! Ankara Hareketli! "Bana Kimse Dokunamaz Diyen Kalmadı"</title>
-      <link>https://www.youtube.com/watch?v=32BzTRQaNXM</link>
-      <guid isPermaLink="false">32BzTRQaNXM</guid>
-      <pubDate>Mon, 07 Sep 2026 10:20:26 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İsmail Saymaz'dan Beştepe ve AKP Kulisleri! Ankara Hareketli! "Bana Kimse Dokunamaz Diyen Kalmadı"</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Köprü ve yol özelleşti̇rmeleri yurttaşı ne i̇le karşı karşıya bırakıyor? İnan Mutlu anlattı.</title>
-      <link>https://www.youtube.com/shorts/Wv5GxPnO46g</link>
-      <guid isPermaLink="false">Wv5GxPnO46g</guid>
-      <pubDate>Mon, 07 Sep 2026 10:17:01 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Köprü ve yol özelleşti̇rmeleri yurttaşı ne i̇le karşı karşıya bırakıyor? İnan Mutlu anlattı.</description>
     </item>
   </channel>
 </rss>
