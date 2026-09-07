@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 08:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 08:20:32 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: CHP Üsküdar Başkanı Zerrin Civandağ ve Yeni Parti Üsküdar Başkanı Berk Tütüncü açıklama yapıyor #</title>
+      <link>https://www.youtube.com/watch?v=v0nFZCmRMFU</link>
+      <guid isPermaLink="false">v0nFZCmRMFU</guid>
+      <pubDate>Mon, 07 Sep 2026 08:15:52 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: CHP Üsküdar Başkanı Zerrin Civandağ ve Yeni Parti Üsküdar Başkanı Berk Tütüncü açıklama yapıyor #</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: CHP Kadın Kolları Genel Başkanı Ayten Gülsever, açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=m-17u6PK6lw</link>
       <guid isPermaLink="false">m-17u6PK6lw</guid>
       <pubDate>Mon, 07 Sep 2026 08:12:51 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: CHP Kadın Kolları Genel Başkanı Ayten Gülsever, açıklama yapıyor #Canlı</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: CHP Grup Başkanvekili Rahmi Aşkın Türeli, TBMM'de açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=sq6eYa16FfU</link>
+      <guid isPermaLink="false">sq6eYa16FfU</guid>
+      <pubDate>Mon, 07 Sep 2026 08:09:10 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: CHP Grup Başkanvekili Rahmi Aşkın Türeli, TBMM'de açıklama yapıyor #Canlı</description>
     </item>
     <item>
       <title>Tele2 Haber: #CANLI | OVP Geldi, Kriz Derinleşti | Üsküdar’a Büyük Operasyon | Onur Öncü ile Sabah Pusulası</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">_bgiHndWoSc</guid>
       <pubDate>Sun, 06 Sep 2026 22:49:54 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Senem Toluay Ilgaz ile Öncesi Sonrası</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: #CANLI Can Coşkun ile Gündem Masası</title>
-      <link>https://www.youtube.com/watch?v=J2sPtoD0h7Y</link>
-      <guid isPermaLink="false">J2sPtoD0h7Y</guid>
-      <pubDate>Sun, 06 Sep 2026 22:49:10 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: #CANLI Can Coşkun ile Gündem Masası</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İktidar İçinde Büyük Tasfiye! Türkiye'nin Acı Hukuk Karnesi! Mustafa Balbay'dan Çarpıcı Sözler</title>
-      <link>https://www.youtube.com/watch?v=NTW9MGEq1wg</link>
-      <guid isPermaLink="false">NTW9MGEq1wg</guid>
-      <pubDate>Sun, 06 Sep 2026 22:40:01 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İktidar İçinde Büyük Tasfiye! Türkiye'nin Acı Hukuk Karnesi! Mustafa Balbay'dan Çarpıcı Sözler</description>
     </item>
   </channel>
 </rss>
