@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 15:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 15:40:35 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Mansur Yavaş Harekete Geçti! Saygı Öztürk Kulisleri Anlattı | Melih Gökçek'in Buharlaşan Tapuları</title>
+      <link>https://www.youtube.com/watch?v=xEeJP0B5vRg</link>
+      <guid isPermaLink="false">xEeJP0B5vRg</guid>
+      <pubDate>Mon, 07 Sep 2026 15:40:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Mansur Yavaş Harekete Geçti! Saygı Öztürk Kulisleri Anlattı | Melih Gökçek'in Buharlaşan Tapuları</description>
+    </item>
+    <item>
+      <title>Halk TV: AĞZINDA SAKIZLA İFADEYE GELMESİ GÜNDEM OLMUŞTU! Semih Turan'dan o görüntülere çarpıcı sözler!</title>
+      <link>https://www.youtube.com/watch?v=U5g00vMXBMQ</link>
+      <guid isPermaLink="false">U5g00vMXBMQ</guid>
+      <pubDate>Mon, 07 Sep 2026 15:35:22 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: AĞZINDA SAKIZLA İFADEYE GELMESİ GÜNDEM OLMUŞTU! Semih Turan'dan o görüntülere çarpıcı sözler!</description>
+    </item>
     <item>
       <title>Halk TV: "Müstehcenlik" soruşturması kapsamında tutuklanan Tuğba Ekinci'den ilginç bir savunma geldi!</title>
       <link>https://www.youtube.com/watch?v=67_rdG6IxfA</link>
@@ -260,13 +274,6 @@
       <description>SÖZCÜ TV kanalından yeni video: İSMAİL SAYMAZ ÖZELLEŞTİRMEYE İSYAN ETTİ! "Seçimi Finanse Etmek için Satıyorlar"</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: Mansur Yavaş Harekete Geçti! Saygı Öztürk Kulisleri Anlattı | Melih Gökçek'in Buharlaşan Tapuları</title>
-      <link>https://www.youtube.com/watch?v=xEeJP0B5vRg</link>
-      <guid isPermaLink="false">xEeJP0B5vRg</guid>
-      <pubDate>Mon, 07 Sep 2026 12:57:16 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Mansur Yavaş Harekete Geçti! Saygı Öztürk Kulisleri Anlattı | Melih Gökçek'in Buharlaşan Tapuları</description>
-    </item>
-    <item>
       <title>Tele2 Haber: #CANLI Ahmet Davutoğlu, Ankara Adliyesi önünde açıklama yapıyor</title>
       <link>https://www.youtube.com/watch?v=VfJ3COfs6sE</link>
       <guid isPermaLink="false">VfJ3COfs6sE</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">SHt959wLDlg</guid>
       <pubDate>Mon, 07 Sep 2026 12:21:12 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Ahmet ve Hülya Gökçek, yurt dışına kayıt dışı para aktarımı soruşturmasında için adliyede!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Havalandırma boşluğuna düşen yavru kedileri itfaiye kurtardı</title>
-      <link>https://www.youtube.com/shorts/fjjJlPtxacs</link>
-      <guid isPermaLink="false">fjjJlPtxacs</guid>
-      <pubDate>Mon, 07 Sep 2026 12:18:20 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Havalandırma boşluğuna düşen yavru kedileri itfaiye kurtardı</description>
     </item>
   </channel>
 </rss>
