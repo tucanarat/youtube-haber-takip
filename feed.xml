@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 11:40:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 11:45:29 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: "Kaçırılan Paralar Geri Getirilerek Mansur Yavaş Operasyonlarına Zemin Hazırlanacak!" Bomba Kulis...</title>
+      <link>https://www.youtube.com/watch?v=wpI4cMZdTgk</link>
+      <guid isPermaLink="false">wpI4cMZdTgk</guid>
+      <pubDate>Mon, 07 Sep 2026 11:36:47 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "Kaçırılan Paralar Geri Getirilerek Mansur Yavaş Operasyonlarına Zemin Hazırlanacak!" Bomba Kulis...</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Ahmet Davutoğlu, Cumhurbaşkanına hakaret suçlamasıyla Ankara Adliyesi'nde #Canlı</title>
       <link>https://www.youtube.com/watch?v=kOWQHNgCJT0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">KLREArIFYIU</guid>
       <pubDate>Mon, 07 Sep 2026 08:52:53 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Trabzon’da fındık üreticisine müjde: Kokarcaya karşı geliştirilen panzehir zararı sıfırladı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Okula başlayan miniklerin ilk gün heyecanı</title>
-      <link>https://www.youtube.com/shorts/8eBOtVKckzY</link>
-      <guid isPermaLink="false">8eBOtVKckzY</guid>
-      <pubDate>Mon, 07 Sep 2026 08:52:10 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Okula başlayan miniklerin ilk gün heyecanı</description>
     </item>
   </channel>
 </rss>
