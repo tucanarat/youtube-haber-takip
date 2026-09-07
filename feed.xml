@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 21:45:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 21:50:35 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: “DÖRT MECLİS ÜYESİNİ İSTANBUL DIŞINA ÇIKARDILAR!” Üsküdar’da seçim öncesi dikkat çeken iddia!</title>
+      <link>https://www.youtube.com/watch?v=2IAcyxRgwXY</link>
+      <guid isPermaLink="false">2IAcyxRgwXY</guid>
+      <pubDate>Mon, 07 Sep 2026 21:45:06 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: “DÖRT MECLİS ÜYESİNİ İSTANBUL DIŞINA ÇIKARDILAR!” Üsküdar’da seçim öncesi dikkat çeken iddia!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İsmail Saymaz'dan Çarpıcı Davutoğlu Çıkışı! İfade Özgürlüğü Çıkışı! Erdoğan Sözleri</title>
+      <link>https://www.youtube.com/watch?v=KKVQkNRczck</link>
+      <guid isPermaLink="false">KKVQkNRczck</guid>
+      <pubDate>Mon, 07 Sep 2026 21:40:28 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İsmail Saymaz'dan Çarpıcı Davutoğlu Çıkışı! İfade Özgürlüğü Çıkışı! Erdoğan Sözleri</description>
+    </item>
     <item>
       <title>Halk TV: SON DAKİKA! Antalya'daki orman yangını büyüyor! Aykut Kaya bölgeden aktarıyor!</title>
       <link>https://www.youtube.com/watch?v=stludzCG4ww</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">D7TbZhL2oYM</guid>
       <pubDate>Mon, 07 Sep 2026 18:00:22 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: İstanbul Boğazı'ndaki köprüler, otoyollar ve çevreyolları özelleştiriliyor! Taylan isyan etti...</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Dudak Uçuklatan 180 Milyon Euro Gerçeği! Gökçeklere Yurt Dışı Yasağı! AKP İçinde Tasfiye</title>
-      <link>https://www.youtube.com/watch?v=cZ1Chmw1568</link>
-      <guid isPermaLink="false">cZ1Chmw1568</guid>
-      <pubDate>Mon, 07 Sep 2026 18:00:20 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Dudak Uçuklatan 180 Milyon Euro Gerçeği! Gökçeklere Yurt Dışı Yasağı! AKP İçinde Tasfiye</description>
-    </item>
-    <item>
-      <title>Halk TV: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (07 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=6JCW8RBCKsU</link>
-      <guid isPermaLink="false">6JCW8RBCKsU</guid>
-      <pubDate>Mon, 07 Sep 2026 18:00:14 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (07 Eylül 2026)</description>
     </item>
   </channel>
 </rss>
