@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 14:05:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 14:10:33 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: #CANLI  Silivri’de 76. gün! Sanıklar savunmalarında ne dedi?</title>
+      <link>https://www.youtube.com/watch?v=QN-Yftyw8wo</link>
+      <guid isPermaLink="false">QN-Yftyw8wo</guid>
+      <pubDate>Mon, 07 Sep 2026 14:07:24 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI  Silivri’de 76. gün! Sanıklar savunmalarında ne dedi?</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: AHMET DAVUTOĞLU 'ŞÜPHELİ' OLARAK İFADE VERDİKTEN SONRA AÇIKLAMA YAPTI!</title>
+      <link>https://www.youtube.com/shorts/L5pynWK4tUw</link>
+      <guid isPermaLink="false">L5pynWK4tUw</guid>
+      <pubDate>Mon, 07 Sep 2026 14:03:08 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: AHMET DAVUTOĞLU 'ŞÜPHELİ' OLARAK İFADE VERDİKTEN SONRA AÇIKLAMA YAPTI!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İsmail Saymaz'dan Ezber Bozan Çözüm Süreci Yorumu: "Bülent Turan Sonuna Kadar Haklı"</title>
       <link>https://www.youtube.com/watch?v=icjpX98S6F8</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">UqhJeVnd0Zw</guid>
       <pubDate>Mon, 07 Sep 2026 11:05:36 +0000</pubDate>
       <description>Halk TV kanalından yeni video: DEM PARTİ'NİN İSMİ DEĞİŞİYOR! İşte 'süreç' mesajlarının damga vurduğu kongreden çarpıcı detaylar!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: F-35 TEHDİDİ! Miçotakis'ten Akılalmaz Türkiye Sözleri! "TÜRKİYE F-35 ALAMAZ!"</title>
-      <link>https://www.youtube.com/watch?v=3Zcgj5LngwY</link>
-      <guid isPermaLink="false">3Zcgj5LngwY</guid>
-      <pubDate>Mon, 07 Sep 2026 11:00:19 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: F-35 TEHDİDİ! Miçotakis'ten Akılalmaz Türkiye Sözleri! "TÜRKİYE F-35 ALAMAZ!"</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: İBB Davası'nda Tarihi Anlar... Selim İmamoğlu'nun Savunması, Avukatların Saat İtirazı...</title>
-      <link>https://www.youtube.com/watch?v=LxefhCONiNQ</link>
-      <guid isPermaLink="false">LxefhCONiNQ</guid>
-      <pubDate>Mon, 07 Sep 2026 10:54:45 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: İBB Davası'nda Tarihi Anlar... Selim İmamoğlu'nun Savunması, Avukatların Saat İtirazı...</description>
     </item>
   </channel>
 </rss>
