@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 10:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 10:25:26 +0000</lastBuildDate>
     <item>
       <title>Cumhuriyet: Köprü ve yol özelleşti̇rmeleri yurttaşı ne i̇le karşı karşıya bırakıyor? İnan Mutlu anlattı.</title>
       <link>https://www.youtube.com/shorts/Wv5GxPnO46g</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">-N5u1jLNrCA</guid>
       <pubDate>Mon, 07 Sep 2026 10:16:20 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Evin çatısına düşen boğa, delinen tavanda asılı kaldı</description>
+    </item>
+    <item>
+      <title>Halk TV: VEYİS ATEŞ HAKİM KARŞISINDA! Bomba 'Mehmet Akif Ersoy' iddiası! "Cezaevinde karşılaştık ve bana..."</title>
+      <link>https://www.youtube.com/watch?v=rNEvBappXmw</link>
+      <guid isPermaLink="false">rNEvBappXmw</guid>
+      <pubDate>Mon, 07 Sep 2026 10:15:01 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: VEYİS ATEŞ HAKİM KARŞISINDA! Bomba 'Mehmet Akif Ersoy' iddiası! "Cezaevinde karşılaştık ve bana..."</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Oyuncu Serhat Kılıç için Harbiye Muhsin Ertuğrul Sahnesi'nde tören düzenleniyor #Canlı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">fQl0zgnb_KU</guid>
       <pubDate>Mon, 07 Sep 2026 08:00:11 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: "Erdoğan'dan Habersiz Olamaz" İsmail Saymaz Kulisi Patlattı! Gökçek Soruşturmasında Çarpıcı İddia!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Şırnak'ta 8 katlı binaya yıldırım isabet etti: Binada hasar medyana geldi</title>
-      <link>https://www.youtube.com/shorts/c3oX2GJTFEc</link>
-      <guid isPermaLink="false">c3oX2GJTFEc</guid>
-      <pubDate>Mon, 07 Sep 2026 07:50:26 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Şırnak'ta 8 katlı binaya yıldırım isabet etti: Binada hasar medyana geldi</description>
     </item>
   </channel>
 </rss>
