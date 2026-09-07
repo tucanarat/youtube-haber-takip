@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 09:32:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 09:35:26 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: YENİ Parti İstanbul Milletvekili Suat Özçağdaş açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=gfIXLH2Z5iI</link>
+      <guid isPermaLink="false">gfIXLH2Z5iI</guid>
+      <pubDate>Mon, 07 Sep 2026 09:32:25 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti İstanbul Milletvekili Suat Özçağdaş açıklama yapıyor #Canlı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Hande Kazanova'dan Eylül Ayı Ekonomi Yorumları: Dikkat Edilmesi Gereken O Tarihler</title>
+      <link>https://www.youtube.com/watch?v=0GPd4LNgDeM</link>
+      <guid isPermaLink="false">0GPd4LNgDeM</guid>
+      <pubDate>Mon, 07 Sep 2026 09:30:30 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Hande Kazanova'dan Eylül Ayı Ekonomi Yorumları: Dikkat Edilmesi Gereken O Tarihler</description>
+    </item>
     <item>
       <title>Cumhuriyet: Pompeiopolis Antik Kenti’nde heyecanlandıran keşif: 105 metrekarelik zemin mozaiği açığa çıkarıldı</title>
       <link>https://www.youtube.com/shorts/aqMUtUUGlGs</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">SoVQE060dj0</guid>
       <pubDate>Mon, 07 Sep 2026 07:00:25 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Karaburun’da boğulma tehlikesi! Cankurtaran son anda yetişti</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Ebru Baki ile Para Siyaset | İbrahim Kahveci</title>
-      <link>https://www.youtube.com/watch?v=TO9o8RdrqVc</link>
-      <guid isPermaLink="false">TO9o8RdrqVc</guid>
-      <pubDate>Mon, 07 Sep 2026 06:52:30 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Ebru Baki ile Para Siyaset | İbrahim Kahveci</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Artvin'de ayı sürprizi! Evin kapısına kadar geldi</title>
-      <link>https://www.youtube.com/shorts/XC7acSx1QuU</link>
-      <guid isPermaLink="false">XC7acSx1QuU</guid>
-      <pubDate>Mon, 07 Sep 2026 06:49:40 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Artvin'de ayı sürprizi! Evin kapısına kadar geldi</description>
     </item>
   </channel>
 </rss>
