@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 18:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 18:25:27 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Üsküdar Belediyesi önünde "Üsküdar'ın İradesi Yok Sayılamaz" buluşması düzenleniyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=AHZ1S1xhjoc</link>
+      <guid isPermaLink="false">AHZ1S1xhjoc</guid>
+      <pubDate>Mon, 07 Sep 2026 18:23:40 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Üsküdar Belediyesi önünde "Üsküdar'ın İradesi Yok Sayılamaz" buluşması düzenleniyor #Canlı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Gökçek Kıskacı Daralıyor! Fıstık Bahçesinden Beyaz Tv Krizine! İsmail Saymaz Sır Perdesini Araladı</title>
+      <link>https://www.youtube.com/watch?v=kI4_lUNvsS4</link>
+      <guid isPermaLink="false">kI4_lUNvsS4</guid>
+      <pubDate>Mon, 07 Sep 2026 18:20:08 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Gökçek Kıskacı Daralıyor! Fıstık Bahçesinden Beyaz Tv Krizine! İsmail Saymaz Sır Perdesini Araladı</description>
+    </item>
     <item>
       <title>Tele2 Haber: İstanbul Boğazı'ndaki köprüler, otoyollar ve çevreyolları özelleştiriliyor! Taylan isyan etti...</title>
       <link>https://www.youtube.com/watch?v=D7TbZhL2oYM</link>
@@ -62,13 +76,6 @@
       <guid isPermaLink="false">WaH3ucJnSEg</guid>
       <pubDate>Mon, 07 Sep 2026 17:20:36 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Gökçeklerin Milyon Euroluk Almanya Oyununu İsmail Saymaz Bozdu! Mahkemeden Çarpıcı Karar</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Üsküdar Belediyesi önünde "Üsküdar'ın İradesi Yok Sayılamaz" buluşması düzenleniyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=AHZ1S1xhjoc</link>
-      <guid isPermaLink="false">AHZ1S1xhjoc</guid>
-      <pubDate>Mon, 07 Sep 2026 17:19:04 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Üsküdar Belediyesi önünde "Üsküdar'ın İradesi Yok Sayılamaz" buluşması düzenleniyor #Canlı</description>
     </item>
     <item>
       <title>Halk TV: Doğrudan yüzüne doğru söyledi: Ülkü İnanlı, AKP’ye geçen Eren Ali Bingöl'ü yerin dibine soktu!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">L5pynWK4tUw</guid>
       <pubDate>Mon, 07 Sep 2026 14:03:08 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: AHMET DAVUTOĞLU 'ŞÜPHELİ' OLARAK İFADE VERDİKTEN SONRA AÇIKLAMA YAPTI!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İsmail Saymaz'dan Ezber Bozan Çözüm Süreci Yorumu: "Bülent Turan Sonuna Kadar Haklı"</title>
-      <link>https://www.youtube.com/watch?v=icjpX98S6F8</link>
-      <guid isPermaLink="false">icjpX98S6F8</guid>
-      <pubDate>Mon, 07 Sep 2026 14:00:02 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İsmail Saymaz'dan Ezber Bozan Çözüm Süreci Yorumu: "Bülent Turan Sonuna Kadar Haklı"</description>
     </item>
   </channel>
 </rss>
