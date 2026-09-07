@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 12:10:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 12:15:28 +0000</lastBuildDate>
     <item>
       <title>Halk TV: Ahmet Davutoğlu, Cumhurbaşkanına Hakaret Suçlamasıyla İfade Vermek İçin Ankara Adliyesi'nde</title>
       <link>https://www.youtube.com/watch?v=3bPkHH13yj0</link>
       <guid isPermaLink="false">3bPkHH13yj0</guid>
       <pubDate>Mon, 07 Sep 2026 12:03:22 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Ahmet Davutoğlu, Cumhurbaşkanına Hakaret Suçlamasıyla İfade Vermek İçin Ankara Adliyesi'nde</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Ahmet Davutoğlu "Cumhurbaşkanı'na hakaret" suçlamasından ifade verecek</title>
+      <link>https://www.youtube.com/shorts/h1s36XJheHs</link>
+      <guid isPermaLink="false">h1s36XJheHs</guid>
+      <pubDate>Mon, 07 Sep 2026 12:02:28 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Ahmet Davutoğlu "Cumhurbaşkanı'na hakaret" suçlamasından ifade verecek</description>
     </item>
     <item>
       <title>Tele2 Haber: #CANLI Ahmet Davutoğlu Ankara Adliyesi'nde</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">0E8BlOwsZzk</guid>
       <pubDate>Mon, 07 Sep 2026 09:30:14 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SERHAT KILIÇ'A SON VEDA! Ünlü oyuncu için Muhsin Ertuğrul Sahnesi'nde tören düzenlendi!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Pompeiopolis Antik Kenti’nde heyecanlandıran keşif: 105 metrekarelik zemin mozaiği açığa çıkarıldı</title>
-      <link>https://www.youtube.com/shorts/aqMUtUUGlGs</link>
-      <guid isPermaLink="false">aqMUtUUGlGs</guid>
-      <pubDate>Mon, 07 Sep 2026 09:20:27 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Pompeiopolis Antik Kenti’nde heyecanlandıran keşif: 105 metrekarelik zemin mozaiği açığa çıkarıldı</description>
     </item>
   </channel>
 </rss>
