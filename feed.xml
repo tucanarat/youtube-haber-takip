@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 10:55:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 11:00:52 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: İBB Davası'nda Tarihi Anlar... Selim İmamoğlu'nun Savunması, Avukatların Saat İtirazı...</title>
+      <link>https://www.youtube.com/watch?v=LxefhCONiNQ</link>
+      <guid isPermaLink="false">LxefhCONiNQ</guid>
+      <pubDate>Mon, 07 Sep 2026 10:54:45 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: İBB Davası'nda Tarihi Anlar... Selim İmamoğlu'nun Savunması, Avukatların Saat İtirazı...</description>
+    </item>
     <item>
       <title>Halk TV: Serhat Kılıç neden öldü? Sevgilisi Özlem Esmegül'ün ifadesi ortaya çıktı: 2 gün önce setten atılmış!</title>
       <link>https://www.youtube.com/watch?v=OEaBRCPEWZ0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">FG_30lq23kE</guid>
       <pubDate>Mon, 07 Sep 2026 08:30:09 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İSMAİL SAYMAZ DEŞİFRE ETTİ: Üsküdar'da Akılalmaz Olaylar! "En Az 15-20 Yıllık CHP'liler Acırsın"</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: CHP Üsküdar Başkanı Zerrin Civandağ ve Yeni Parti Üsküdar Başkanı Berk Tütüncü açıklama yapıyor #</title>
-      <link>https://www.youtube.com/watch?v=v0nFZCmRMFU</link>
-      <guid isPermaLink="false">v0nFZCmRMFU</guid>
-      <pubDate>Mon, 07 Sep 2026 08:15:52 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP Üsküdar Başkanı Zerrin Civandağ ve Yeni Parti Üsküdar Başkanı Berk Tütüncü açıklama yapıyor #</description>
     </item>
   </channel>
 </rss>
