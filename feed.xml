@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 11:50:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 11:55:29 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Hilmi Hacaloğlu ve Ersin Eroğlu ile Kayıt Dışı (07.09.2026)</title>
+      <link>https://www.youtube.com/watch?v=T-KDl7V021E</link>
+      <guid isPermaLink="false">T-KDl7V021E</guid>
+      <pubDate>Mon, 07 Sep 2026 11:53:10 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Hilmi Hacaloğlu ve Ersin Eroğlu ile Kayıt Dışı (07.09.2026)</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Kayseri’de organik tarım zaferi: 30 çiftçi ailesi ekonomiye 7 milyon TL kazandırdı</title>
+      <link>https://www.youtube.com/shorts/Spq-JdwAnOU</link>
+      <guid isPermaLink="false">Spq-JdwAnOU</guid>
+      <pubDate>Mon, 07 Sep 2026 11:49:52 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Kayseri’de organik tarım zaferi: 30 çiftçi ailesi ekonomiye 7 milyon TL kazandırdı</description>
+    </item>
     <item>
       <title>Tele2 Haber: "Kaçırılan Paralar Geri Getirilerek Mansur Yavaş Operasyonlarına Zemin Hazırlanacak!" Bomba Kulis...</title>
       <link>https://www.youtube.com/watch?v=wpI4cMZdTgk</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">3qWkstbCLyk</guid>
       <pubDate>Mon, 07 Sep 2026 09:00:29 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Melih Gökçek'e MASAK Şoku! Gökçeklerin Almanya'daki HAMAK Şirketi Patladı! İsmail Saymaz Anlattı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Gülistan Doku Cinayetini FBI Sorgusunda İtiraf Etti! "Bu Suç Örgütü En Ağır Cezayı Almalı!"</title>
-      <link>https://www.youtube.com/watch?v=F4P6OAjD3F8</link>
-      <guid isPermaLink="false">F4P6OAjD3F8</guid>
-      <pubDate>Mon, 07 Sep 2026 09:00:20 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Gülistan Doku Cinayetini FBI Sorgusunda İtiraf Etti! "Bu Suç Örgütü En Ağır Cezayı Almalı!"</description>
-    </item>
-    <item>
-      <title>Halk TV: ÜSKÜDAR'DA NEFESLER TUTULDU! Başkanvekili seçimi öncesi Özgür Çelik'ten AKP ve MHP'lilere flaş çağrı</title>
-      <link>https://www.youtube.com/watch?v=9lmMbqOdlOg</link>
-      <guid isPermaLink="false">9lmMbqOdlOg</guid>
-      <pubDate>Mon, 07 Sep 2026 09:00:07 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ÜSKÜDAR'DA NEFESLER TUTULDU! Başkanvekili seçimi öncesi Özgür Çelik'ten AKP ve MHP'lilere flaş çağrı</description>
     </item>
   </channel>
 </rss>
