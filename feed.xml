@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 15:10:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 15:11:32 +0000</lastBuildDate>
     <item>
       <title>Halk TV: Gizem Çetin ile Parantez (7 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=Iz8fqnglT1M</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">6__VXDFSMAA</guid>
       <pubDate>Mon, 07 Sep 2026 15:05:03 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ÜSKÜDAR ERDOĞAN İÇİN NEDEN BU KADAR ÖNEMLİ? Bahadır Özgür'ün analizi gündemi sarsacak! Olay sözler!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Timur Soykan &amp; Senem Toluay Ilgaz | Kara Para Ağı, Melih Gökçek ve Binali Yıldırım Dosyası</title>
+      <link>https://www.youtube.com/watch?v=ZldFh62mg7c</link>
+      <guid isPermaLink="false">ZldFh62mg7c</guid>
+      <pubDate>Mon, 07 Sep 2026 15:00:07 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Timur Soykan &amp; Senem Toluay Ilgaz | Kara Para Ağı, Melih Gökçek ve Binali Yıldırım Dosyası</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Damla Doğan Tuncel ile 1 Saat 7 Eylül</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">P7EH9oCTgAI</guid>
       <pubDate>Mon, 07 Sep 2026 12:05:03 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SERHAT KILIÇ SON YOLCULUĞUNA UĞURLANIYOR! Oyuncu Selim Bayraktar'ın o hareketi törene damga vurdu!</description>
-    </item>
-    <item>
-      <title>Halk TV: Ahmet Davutoğlu, Cumhurbaşkanına Hakaret Suçlamasıyla İfade Vermek İçin Ankara Adliyesi'nde</title>
-      <link>https://www.youtube.com/watch?v=3bPkHH13yj0</link>
-      <guid isPermaLink="false">3bPkHH13yj0</guid>
-      <pubDate>Mon, 07 Sep 2026 12:03:22 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ahmet Davutoğlu, Cumhurbaşkanına Hakaret Suçlamasıyla İfade Vermek İçin Ankara Adliyesi'nde</description>
     </item>
   </channel>
 </rss>
