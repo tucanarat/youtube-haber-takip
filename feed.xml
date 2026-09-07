@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 18:50:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 18:55:28 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: #CANLI Ülkü Çoban ile Manşet Ötesi (08.09.26)</title>
       <link>https://www.youtube.com/watch?v=oXQfY4qzmAE</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">kyulm-mNs8M</guid>
       <pubDate>Mon, 07 Sep 2026 18:43:31 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Onur Öncü ile Sabah Pusulası (08.09.26)</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İsmail Saymaz'dan Olay Ahmet Gökçek İddiası! Melih Gökçek’ten Çarpıcı İtiraf! 3.8 Milyon Euro...</title>
+      <link>https://www.youtube.com/watch?v=nG9QA6GPW18</link>
+      <guid isPermaLink="false">nG9QA6GPW18</guid>
+      <pubDate>Mon, 07 Sep 2026 18:40:34 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İsmail Saymaz'dan Olay Ahmet Gökçek İddiası! Melih Gökçek’ten Çarpıcı İtiraf! 3.8 Milyon Euro...</description>
     </item>
     <item>
       <title>Halk TV: DÜZCE'DE FECİ KAZA! TIR ile “patpat” çarpıştı! 4 kişi hayatını kaybetti, 9 kişi yaralandı!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">BfRDA0123Zo</guid>
       <pubDate>Mon, 07 Sep 2026 14:30:30 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "BU OVP 2027'de Yapılacak Seçim İçim Altlık Sağlıyor İktidara!" Oğuz Demir'den Çok Sert OVP Tepkisi!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: MİT'İN HAYALETİ NASIL ÖLDÜ? Uzman İsim Kaşif Kozinoğlu Dosyasındaki Cevapsız Soruları Anlatıyor</title>
-      <link>https://www.youtube.com/watch?v=-gHKHYAhSn8</link>
-      <guid isPermaLink="false">-gHKHYAhSn8</guid>
-      <pubDate>Mon, 07 Sep 2026 14:30:19 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: MİT'İN HAYALETİ NASIL ÖLDÜ? Uzman İsim Kaşif Kozinoğlu Dosyasındaki Cevapsız Soruları Anlatıyor</description>
     </item>
   </channel>
 </rss>
