@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 18:10:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 18:15:32 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: MURAT TAYLAN'DAN KILIÇDAROĞLU'NUN İMAMOĞLU SÖZLERİ İÇİN KRİTİK SORU!</title>
+      <link>https://www.youtube.com/shorts/NyBr12BjArA</link>
+      <guid isPermaLink="false">NyBr12BjArA</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:02 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: MURAT TAYLAN'DAN KILIÇDAROĞLU'NUN İMAMOĞLU SÖZLERİ İÇİN KRİTİK SORU!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Türker Ertürk hakkında 'tutukluluğa devam' kararı! Murat Taylan'dan çok kritik hatırlatma...</title>
       <link>https://www.youtube.com/watch?v=UGk0W5EF87E</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">aIHp9JT_iaY</guid>
       <pubDate>Tue, 08 Sep 2026 14:20:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Barış Terkoğlu'ndan Ezber Bozan Yorum | Devlet Bahçeli’nin Adımı ve Adı Konmamış Hamlesi!</description>
-    </item>
-    <item>
-      <title>Halk TV: Tahliye Edilen Selçuk Mızraklı, Sırrı Süreyya Önder'in Mezarını Ziyaret Etti (8 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=mQqHxuGj3kI</link>
-      <guid isPermaLink="false">mQqHxuGj3kI</guid>
-      <pubDate>Tue, 08 Sep 2026 14:12:57 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Tahliye Edilen Selçuk Mızraklı, Sırrı Süreyya Önder'in Mezarını Ziyaret Etti (8 Eylül 2026)</description>
     </item>
   </channel>
 </rss>
