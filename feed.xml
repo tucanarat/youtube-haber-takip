@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 11:00:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 11:05:25 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Üsküdar Belediyesi Başkan Vekilliği seçimi sonrası belediye önünde son durum #Canlı</title>
+      <link>https://www.youtube.com/watch?v=X_M4ql5Dq_8</link>
+      <guid isPermaLink="false">X_M4ql5Dq_8</guid>
+      <pubDate>Tue, 08 Sep 2026 11:00:55 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Üsküdar Belediyesi Başkan Vekilliği seçimi sonrası belediye önünde son durum #Canlı</description>
+    </item>
     <item>
       <title>Cumhuriyet: Oyuncu Serhat Kılıç'a veda...</title>
       <link>https://www.youtube.com/shorts/1myy2-WrXQM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">-9BVstLNC1E</guid>
       <pubDate>Tue, 08 Sep 2026 08:22:20 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: YENİ Parti milletvekilleri sahada... “Tek umudumuz sizsiniz”</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Bartın açıklarında tekneye eşlik eden yunuslar kamerada!</title>
-      <link>https://www.youtube.com/shorts/Ug9a2rrjJLI</link>
-      <guid isPermaLink="false">Ug9a2rrjJLI</guid>
-      <pubDate>Tue, 08 Sep 2026 08:21:35 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Bartın açıklarında tekneye eşlik eden yunuslar kamerada!</description>
     </item>
   </channel>
 </rss>
