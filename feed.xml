@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 22:35:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 22:38:49 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ACI VEREN GÖRÜNTÜLER! Antalya'da ormanlık alandaki yangına müdahale sürüyor!</title>
+      <link>https://www.youtube.com/watch?v=6BDvGvmc1tE</link>
+      <guid isPermaLink="false">6BDvGvmc1tE</guid>
+      <pubDate>Tue, 08 Sep 2026 22:30:07 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ACI VEREN GÖRÜNTÜLER! Antalya'da ormanlık alandaki yangına müdahale sürüyor!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Numan Kurtulmuş, Irak Temsilciler Meclisi Başkanı Heybet Halbusi ile toplantısı düzenliyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=PaUWW4xBO7Q</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">AxcCPwi2vBY</guid>
       <pubDate>Tue, 08 Sep 2026 19:12:29 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Tahliye edilen Adnan Selçuk Mızraklı, Diyarbakır Havalimanında karşılanıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Tahliye edilen Adnan Selçuk Mızraklı, Diyarbakır Havalimanında karşılanıyor</title>
-      <link>https://www.youtube.com/watch?v=yyP8cA7SznQ</link>
-      <guid isPermaLink="false">yyP8cA7SznQ</guid>
-      <pubDate>Tue, 08 Sep 2026 19:00:19 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Tahliye edilen Adnan Selçuk Mızraklı, Diyarbakır Havalimanında karşılanıyor</description>
     </item>
   </channel>
 </rss>
