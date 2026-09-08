@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 22:25:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 22:30:51 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Numan Kurtulmuş, Irak Temsilciler Meclisi Başkanı Heybet Halbusi ile toplantısı düzenliyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=PaUWW4xBO7Q</link>
+      <guid isPermaLink="false">PaUWW4xBO7Q</guid>
+      <pubDate>Tue, 08 Sep 2026 22:27:02 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Numan Kurtulmuş, Irak Temsilciler Meclisi Başkanı Heybet Halbusi ile toplantısı düzenliyor #Canlı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: ORTADOĞU'DA SULAR ISINIYOR: Husiler Arabistan'ı Vurdu, Petrol Tesisleri Alev Alev!</title>
       <link>https://www.youtube.com/watch?v=MTS7DWl9n4s</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">yyP8cA7SznQ</guid>
       <pubDate>Tue, 08 Sep 2026 19:00:19 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Tahliye edilen Adnan Selçuk Mızraklı, Diyarbakır Havalimanında karşılanıyor</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: NETANYAHU 7 EKİM'İ BİLİYOR MUYDU? BAE'den İsrail'i Sarsan Şok İstihbarat! Nevzat Çiçek Anlattı</title>
-      <link>https://www.youtube.com/watch?v=7b-YMgJHzBQ</link>
-      <guid isPermaLink="false">7b-YMgJHzBQ</guid>
-      <pubDate>Tue, 08 Sep 2026 19:00:18 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: NETANYAHU 7 EKİM'İ BİLİYOR MUYDU? BAE'den İsrail'i Sarsan Şok İstihbarat! Nevzat Çiçek Anlattı</description>
     </item>
   </channel>
 </rss>
