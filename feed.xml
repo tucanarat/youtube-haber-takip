@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 17:15:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 17:20:38 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: YANGIN KABUSU 2. GÜNÜNDE!  2 bini aşkın hane elektriksiz, yangına müdahale güçlükle sürüyor!</title>
+      <link>https://www.youtube.com/watch?v=c5VcrYWAb0U</link>
+      <guid isPermaLink="false">c5VcrYWAb0U</guid>
+      <pubDate>Tue, 08 Sep 2026 17:15:22 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YANGIN KABUSU 2. GÜNÜNDE!  2 bini aşkın hane elektriksiz, yangına müdahale güçlükle sürüyor!</description>
+    </item>
     <item>
       <title>Halk TV: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (08 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=NpSmgligraU</link>
@@ -71,11 +78,11 @@
       <description>Tele2 Haber kanalından yeni video: "BİZ NE DÜĞÜNLER GÖRDÜK!" Taylan, Gökçek soruşturmasında Erdoğan'ı hatırlattı ve  Şimşek'e seslendi!</description>
     </item>
     <item>
-      <title>Halk TV: TCDD, SÜMER HOLDİNG, ŞEKER FABRİKALARI... KAMUNUN MALLARI SATILIYOR! Bu</title>
+      <title>Halk TV: TCDD, SÜMER HOLDİNG, ŞEKER FABRİKALARI... KAMUNUN MALLARI SATILIYOR!</title>
       <link>https://www.youtube.com/watch?v=TGzNMAwP_T0</link>
       <guid isPermaLink="false">TGzNMAwP_T0</guid>
       <pubDate>Tue, 08 Sep 2026 16:20:39 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: TCDD, SÜMER HOLDİNG, ŞEKER FABRİKALARI... KAMUNUN MALLARI SATILIYOR! Bu</description>
+      <description>Halk TV kanalından yeni video: TCDD, SÜMER HOLDİNG, ŞEKER FABRİKALARI... KAMUNUN MALLARI SATILIYOR!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Mansur Yavaş'tan Kritik Hamle: Mecliste AK Parti'yi Deviren Güç Birliği! CHP ve Yeni Parti Anlaştı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">zC86qj709Mo</guid>
       <pubDate>Tue, 08 Sep 2026 13:35:09 +0000</pubDate>
       <description>Halk TV kanalından yeni video: REZİL RÜSVA ETTİ! Dilek İmamoğlu'ndan Kılıçdaroğlu'na zehir zemberek 'siyasi rehine' sözleri!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Ertan Özyiğit Uyarıyor! Geleceğin Savaşı Başlıyor: Çin ve ABD'nin Gizli Silahı Robotlar</title>
-      <link>https://www.youtube.com/watch?v=T5azDrfsjrY</link>
-      <guid isPermaLink="false">T5azDrfsjrY</guid>
-      <pubDate>Tue, 08 Sep 2026 13:30:11 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Ertan Özyiğit Uyarıyor! Geleceğin Savaşı Başlıyor: Çin ve ABD'nin Gizli Silahı Robotlar</description>
     </item>
   </channel>
 </rss>
