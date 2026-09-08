@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 07:20:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 07:25:27 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ANKARA BU İDDİAYI KONUŞUYOR! Operasyon kulisi alan Binali Yıldırım panikle Erdoğan'a ulaşmak istemiş</title>
+      <link>https://www.youtube.com/watch?v=-4N_NCKLMU0</link>
+      <guid isPermaLink="false">-4N_NCKLMU0</guid>
+      <pubDate>Tue, 08 Sep 2026 07:20:26 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ANKARA BU İDDİAYI KONUŞUYOR! Operasyon kulisi alan Binali Yıldırım panikle Erdoğan'a ulaşmak istemiş</description>
+    </item>
     <item>
       <title>Tele2 Haber: "84 bin 94 Seçmene Özür Borcunuz Var!" Ülkü İnanlı AKP'ye Geçen Eren Ali Bingöl'e Ateş Püskürdü!</title>
       <link>https://www.youtube.com/watch?v=czhx_mx7qCY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">w93OSRyDwMA</guid>
       <pubDate>Mon, 07 Sep 2026 21:30:07 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Nijerya’nın başkentinde faciaya dönen çökme! İlk belirlemeye göre 2 kişi hayatını kaybetti! #shorts</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: CHP Üsküdar Başkanı Zerrin Civandağ ve Yeni Parti Üsküdar Başkanı Berk Tütüncü açıklama yapıyor #</title>
-      <link>https://www.youtube.com/watch?v=v0nFZCmRMFU</link>
-      <guid isPermaLink="false">v0nFZCmRMFU</guid>
-      <pubDate>Mon, 07 Sep 2026 21:28:59 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP Üsküdar Başkanı Zerrin Civandağ ve Yeni Parti Üsküdar Başkanı Berk Tütüncü açıklama yapıyor #</description>
     </item>
   </channel>
 </rss>
