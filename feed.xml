@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 10:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 10:05:26 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Kılıçdaroğlu'ndan Şoke Eden İmamoğlu Çıkışı! İsmail Küçükkaya ve Barış Terkoğlu'ndan Sert Analiz</title>
+      <link>https://www.youtube.com/watch?v=GTTQHNnfWGw</link>
+      <guid isPermaLink="false">GTTQHNnfWGw</guid>
+      <pubDate>Tue, 08 Sep 2026 10:00:28 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Kılıçdaroğlu'ndan Şoke Eden İmamoğlu Çıkışı! İsmail Küçükkaya ve Barış Terkoğlu'ndan Sert Analiz</description>
+    </item>
+    <item>
+      <title>Halk TV: Kırtasiyecilerin AVM ve büyük market isyanı! “Satış yapamıyoruz, sektörü bırakmayı düşünüyoruz”</title>
+      <link>https://www.youtube.com/shorts/oQFVInVKzzk</link>
+      <guid isPermaLink="false">oQFVInVKzzk</guid>
+      <pubDate>Tue, 08 Sep 2026 10:00:25 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Kırtasiyecilerin AVM ve büyük market isyanı! “Satış yapamıyoruz, sektörü bırakmayı düşünüyoruz”</description>
+    </item>
     <item>
       <title>Halk TV: Ebru Baki ile Para Siyaset | İbrahim Kahveci - Mehmet Tezkan (8 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=Z2ugRxD8zzk</link>
@@ -27,6 +41,13 @@
       <guid isPermaLink="false">rWAtPXiIPfk</guid>
       <pubDate>Tue, 08 Sep 2026 09:57:11 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI | Hayatını kaybeden oyuncu Serhat Kılıç için cenaze töreni...</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #CANLI Oyuncu Serhat Kılıç için Ahmet Hamdi Akseki Camisinde cenaze töreni düzenleniyor</title>
+      <link>https://www.youtube.com/watch?v=urp38jkS-8I</link>
+      <guid isPermaLink="false">urp38jkS-8I</guid>
+      <pubDate>Tue, 08 Sep 2026 09:56:00 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Oyuncu Serhat Kılıç için Ahmet Hamdi Akseki Camisinde cenaze töreni düzenleniyor</description>
     </item>
     <item>
       <title>Halk TV: Konserve domatesin maliyeti tartışma yarattı! Pazarda hem alıcı hem satıcı şikayetçi!</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">1-AXAUMgXQk</guid>
       <pubDate>Tue, 08 Sep 2026 07:55:16 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Murat Taylan ile Haber-Yorum (08.09.2026)</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: AKP’ye geçen Eren Ali Bingöl'e Tuzla Meclisi'nde sert tepki: 84 bin 94 seçmene özür borcunuz var</title>
-      <link>https://www.youtube.com/watch?v=NqWR-1w883M</link>
-      <guid isPermaLink="false">NqWR-1w883M</guid>
-      <pubDate>Tue, 08 Sep 2026 07:52:19 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: AKP’ye geçen Eren Ali Bingöl'e Tuzla Meclisi'nde sert tepki: 84 bin 94 seçmene özür borcunuz var</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DURUM! Nefeslerin tutulduğu Üsküdar'daki başkanvekili seçiminde ilk tur sonucu belli oldu!</title>
-      <link>https://www.youtube.com/watch?v=ZGbkchDSLWY</link>
-      <guid isPermaLink="false">ZGbkchDSLWY</guid>
-      <pubDate>Tue, 08 Sep 2026 07:49:40 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DURUM! Nefeslerin tutulduğu Üsküdar'daki başkanvekili seçiminde ilk tur sonucu belli oldu!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Van’da ‘devlet kurumlarını aşağılama’ operasyonu: Van'lı Kara Haydar'a MASAK kıskacı!</title>
-      <link>https://www.youtube.com/shorts/XGh37lLcZxo</link>
-      <guid isPermaLink="false">XGh37lLcZxo</guid>
-      <pubDate>Tue, 08 Sep 2026 07:48:00 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Van’da ‘devlet kurumlarını aşağılama’ operasyonu: Van'lı Kara Haydar'a MASAK kıskacı!</description>
     </item>
   </channel>
 </rss>
