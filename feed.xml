@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 18:30:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 18:35:27 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: UĞUR DÜNDAR: "KAYBETMİŞ BİR İKTİDARIN ZORAKİ TUTUNMA ÇABALARI..."</title>
+      <link>https://www.youtube.com/watch?v=BhpO5J6iWLM</link>
+      <guid isPermaLink="false">BhpO5J6iWLM</guid>
+      <pubDate>Tue, 08 Sep 2026 18:30:25 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: UĞUR DÜNDAR: "KAYBETMİŞ BİR İKTİDARIN ZORAKİ TUTUNMA ÇABALARI..."</description>
+    </item>
     <item>
       <title>Tele2 Haber: "BU SERVETİN KAYNAĞI NE?" Gökçek soruşturmasında yanıtsız kalan kritik soru! Taylan yorumladı...</title>
       <link>https://www.youtube.com/watch?v=u6H5x8m3EM4</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">eIG-QDozbQg</guid>
       <pubDate>Tue, 08 Sep 2026 14:53:51 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Fatoş Pınar Türker mahkeme salonunda fenalaştı</description>
-    </item>
-    <item>
-      <title>Halk TV: Üsküdar’da seçim sonrası bomba iddia: “Dört meclis üyesi otelde tutuldu, başlarına polis dikildi!”</title>
-      <link>https://www.youtube.com/shorts/jnvgSICk2Uc</link>
-      <guid isPermaLink="false">jnvgSICk2Uc</guid>
-      <pubDate>Tue, 08 Sep 2026 14:49:49 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Üsküdar’da seçim sonrası bomba iddia: “Dört meclis üyesi otelde tutuldu, başlarına polis dikildi!”</description>
     </item>
   </channel>
 </rss>
