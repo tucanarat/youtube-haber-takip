@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 21:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 22:00:56 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Sinem Fıstıkoğlu ile Sansürsüz (9 Eylül 2026)</title>
+      <link>https://www.youtube.com/watch?v=pm-jeBG8Kxw</link>
+      <guid isPermaLink="false">pm-jeBG8Kxw</guid>
+      <pubDate>Tue, 08 Sep 2026 21:56:22 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Sinem Fıstıkoğlu ile Sansürsüz (9 Eylül 2026)</description>
+    </item>
     <item>
       <title>Halk TV: “Millet iradesini askıya almaya meyilli bir iktidardan bahsediyoruz!” İdris Şahin'den sert sözler!</title>
       <link>https://www.youtube.com/watch?v=oX9QQkd0BNc</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">3xGOuDeszkI</guid>
       <pubDate>Tue, 08 Sep 2026 18:00:08 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Erol Mütercimler Sinirlendi! Siyasilere Çarpıcı Uyarı! Hukuktaki Acı Tabloyu Anlattı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: ÜSKÜDAR BELEDİYESİ AKP’YE GEÇTİ! MURAT TAYLAN YAŞANANLARI YORUMLADI</title>
-      <link>https://www.youtube.com/shorts/IFReydkrbr4</link>
-      <guid isPermaLink="false">IFReydkrbr4</guid>
-      <pubDate>Tue, 08 Sep 2026 17:54:55 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: ÜSKÜDAR BELEDİYESİ AKP’YE GEÇTİ! MURAT TAYLAN YAŞANANLARI YORUMLADI</description>
     </item>
   </channel>
 </rss>
