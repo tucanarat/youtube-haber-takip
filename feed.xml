@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 20:45:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 20:50:38 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Antalya’nın Aksu ilçesindeki orman yangınına ekiplerin müdahalesi sürüyor!</title>
+      <link>https://www.youtube.com/watch?v=0Lmet0-hSK0</link>
+      <guid isPermaLink="false">0Lmet0-hSK0</guid>
+      <pubDate>Tue, 08 Sep 2026 20:47:18 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Antalya’nın Aksu ilçesindeki orman yangınına ekiplerin müdahalesi sürüyor!</description>
+    </item>
+    <item>
+      <title>Halk TV: Antalya Aksu’da yangından son görüntüler! Alevlerle mücadele havadan ve karadan sürüyor! #shorts</title>
+      <link>https://www.youtube.com/shorts/Sxl7uVkNDmk</link>
+      <guid isPermaLink="false">Sxl7uVkNDmk</guid>
+      <pubDate>Tue, 08 Sep 2026 20:45:26 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Antalya Aksu’da yangından son görüntüler! Alevlerle mücadele havadan ve karadan sürüyor! #shorts</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Dünyadan İsrail'e Ambargo! Netanyahu'nun Tehlikeli Oyunu Deşifre Oldu! Erol Mütercimler Anlattı</title>
+      <link>https://www.youtube.com/watch?v=JZneCJZVg6s</link>
+      <guid isPermaLink="false">JZneCJZVg6s</guid>
+      <pubDate>Tue, 08 Sep 2026 20:40:03 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Dünyadan İsrail'e Ambargo! Netanyahu'nun Tehlikeli Oyunu Deşifre Oldu! Erol Mütercimler Anlattı</description>
+    </item>
     <item>
       <title>Halk TV: SON DAKİKA! ANTALYA'DA CİĞERLERİMİZ YANIYOR! Yangının ikinci gününde son durum ne?</title>
       <link>https://www.youtube.com/watch?v=NjfPKnNm_rM</link>
@@ -55,13 +76,6 @@
       <guid isPermaLink="false">Drz6-Nv7eQA</guid>
       <pubDate>Tue, 08 Sep 2026 20:15:00 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Üsküdar’da olanlar tarihe geçer: Kadın bir yurttaşın sözleri ise tokat gibiydi!</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Antalya’nın Aksu ilçesindeki orman yangınına ekiplerin müdahalesi sürüyor!</title>
-      <link>https://www.youtube.com/watch?v=0Lmet0-hSK0</link>
-      <guid isPermaLink="false">0Lmet0-hSK0</guid>
-      <pubDate>Tue, 08 Sep 2026 20:12:51 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Antalya’nın Aksu ilçesindeki orman yangınına ekiplerin müdahalesi sürüyor!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: İpek Özbey ile Karşı Karşıya | Erol Mütercimler &amp; Nevzat Çiçek 8 Eylül</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">yDCvwDnuFVw</guid>
       <pubDate>Tue, 08 Sep 2026 17:00:10 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: “81 İLİ ALSIN, BUNLARI KESMEZ Kİ!” Üsküdar Belediye'si AKP'ye geçti! Taylan yaşananları yorumladı...</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "SÖZÜN BİTTİĞİ YERDEYİZ!" Üsküdar Belediyesi AKP'ye geçti! Murat Taylan ile Haber-Yorum (08.09.2026)</title>
-      <link>https://www.youtube.com/watch?v=1-AXAUMgXQk</link>
-      <guid isPermaLink="false">1-AXAUMgXQk</guid>
-      <pubDate>Tue, 08 Sep 2026 16:59:37 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "SÖZÜN BİTTİĞİ YERDEYİZ!" Üsküdar Belediyesi AKP'ye geçti! Murat Taylan ile Haber-Yorum (08.09.2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: Ece Üner ile Halk Ana Haber | #eşik (8 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=w_rsIeZdDn0</link>
-      <guid isPermaLink="false">w_rsIeZdDn0</guid>
-      <pubDate>Tue, 08 Sep 2026 16:56:16 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ece Üner ile Halk Ana Haber | #eşik (8 Eylül 2026)</description>
     </item>
   </channel>
 </rss>
