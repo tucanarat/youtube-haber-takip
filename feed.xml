@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 22:20:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 22:25:28 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: ORTADOĞU'DA SULAR ISINIYOR: Husiler Arabistan'ı Vurdu, Petrol Tesisleri Alev Alev!</title>
+      <link>https://www.youtube.com/watch?v=MTS7DWl9n4s</link>
+      <guid isPermaLink="false">MTS7DWl9n4s</guid>
+      <pubDate>Tue, 08 Sep 2026 22:20:04 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: ORTADOĞU'DA SULAR ISINIYOR: Husiler Arabistan'ı Vurdu, Petrol Tesisleri Alev Alev!</description>
+    </item>
     <item>
       <title>Halk TV: KOZAN'DA KRİTİK SAATLER! 2 ayrı noktadaki yangın nedeniyle yerleşim yerleri boşaltıldı!</title>
       <link>https://www.youtube.com/watch?v=Mti1cZoKvk0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">7b-YMgJHzBQ</guid>
       <pubDate>Tue, 08 Sep 2026 19:00:18 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: NETANYAHU 7 EKİM'İ BİLİYOR MUYDU? BAE'den İsrail'i Sarsan Şok İstihbarat! Nevzat Çiçek Anlattı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: FBI'ın 'EN ÇOK ARANAN DOLANDIRICILAR' listesinde bir Türk! Yılmaz Polat aktardı...</title>
-      <link>https://www.youtube.com/watch?v=6MZ5Roc_cdQ</link>
-      <guid isPermaLink="false">6MZ5Roc_cdQ</guid>
-      <pubDate>Tue, 08 Sep 2026 19:00:10 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: FBI'ın 'EN ÇOK ARANAN DOLANDIRICILAR' listesinde bir Türk! Yılmaz Polat aktardı...</description>
     </item>
   </channel>
 </rss>
