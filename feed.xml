@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 16:40:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 16:45:40 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Mansur Yavaş Düğmeye Bastı! Tarihi Rest! Kemal Kılıçdaroğlu Bunu Beklemiyordu</title>
+      <link>https://www.youtube.com/watch?v=dAGFlaRAWj8</link>
+      <guid isPermaLink="false">dAGFlaRAWj8</guid>
+      <pubDate>Tue, 08 Sep 2026 16:40:28 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Mansur Yavaş Düğmeye Bastı! Tarihi Rest! Kemal Kılıçdaroğlu Bunu Beklemiyordu</description>
+    </item>
     <item>
       <title>Tele2 Haber: "BİZ NE DÜĞÜNLER GÖRDÜK!" Taylan, Gökçek soruşturmasında Erdoğan'ı hatırlattı ve  Şimşek'e seslendi!</title>
       <link>https://www.youtube.com/watch?v=T247CRsGdm8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">KsvBZkVtrO4</guid>
       <pubDate>Tue, 08 Sep 2026 13:15:36 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Selçuk Mızraklı 7 Yıl Sonra Tahliye Edildi! Çarpıcı Selahattin Demirtaş ve Süreç Mesajları!</description>
-    </item>
-    <item>
-      <title>Halk TV: ADANA FELAKETİ YAŞADI! Orman yangını yerleşim yerlerine sıçradı, 40 ev tahliye edildi! Dehşet verici</title>
-      <link>https://www.youtube.com/watch?v=whYc8XmImpA</link>
-      <guid isPermaLink="false">whYc8XmImpA</guid>
-      <pubDate>Tue, 08 Sep 2026 13:05:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ADANA FELAKETİ YAŞADI! Orman yangını yerleşim yerlerine sıçradı, 40 ev tahliye edildi! Dehşet verici</description>
     </item>
   </channel>
 </rss>
