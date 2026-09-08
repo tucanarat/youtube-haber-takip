@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 18:25:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 18:30:52 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: "BU SERVETİN KAYNAĞI NE?" Gökçek soruşturmasında yanıtsız kalan kritik soru! Taylan yorumladı...</title>
+      <link>https://www.youtube.com/watch?v=u6H5x8m3EM4</link>
+      <guid isPermaLink="false">u6H5x8m3EM4</guid>
+      <pubDate>Tue, 08 Sep 2026 18:30:07 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "BU SERVETİN KAYNAĞI NE?" Gökçek soruşturmasında yanıtsız kalan kritik soru! Taylan yorumladı...</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #CANLI Tahliye edilen Adnan Selçuk Mızraklı, Diyarbakır Havalimanında karşılanıyor</title>
+      <link>https://www.youtube.com/watch?v=yyP8cA7SznQ</link>
+      <guid isPermaLink="false">yyP8cA7SznQ</guid>
+      <pubDate>Tue, 08 Sep 2026 18:28:36 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Tahliye edilen Adnan Selçuk Mızraklı, Diyarbakır Havalimanında karşılanıyor</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: NEVZAT ÇİÇEK'TEN ÇARPICI KULİS: İmamoğlu'na Siyasi Yasak Planı ve İBB Erken Seçimi!</title>
       <link>https://www.youtube.com/watch?v=v7VKq6zR3hQ</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">jnvgSICk2Uc</guid>
       <pubDate>Tue, 08 Sep 2026 14:49:49 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Üsküdar’da seçim sonrası bomba iddia: “Dört meclis üyesi otelde tutuldu, başlarına polis dikildi!”</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: #CANLI İBB Davasında 77. gün! Avukattan salonu geren İmamoğlu çıkışı!</title>
-      <link>https://www.youtube.com/watch?v=QsODPE6WR4U</link>
-      <guid isPermaLink="false">QsODPE6WR4U</guid>
-      <pubDate>Tue, 08 Sep 2026 14:45:07 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI İBB Davasında 77. gün! Avukattan salonu geren İmamoğlu çıkışı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İSRAİL YUNAN'I KANDIRDI! Netanyahu'dan Miçotakis'e Aşil Kalkanı Tuzağı! ANAHTAR İSRAİL'DE</title>
-      <link>https://www.youtube.com/watch?v=PGxE4BO2hc4</link>
-      <guid isPermaLink="false">PGxE4BO2hc4</guid>
-      <pubDate>Tue, 08 Sep 2026 14:40:35 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İSRAİL YUNAN'I KANDIRDI! Netanyahu'dan Miçotakis'e Aşil Kalkanı Tuzağı! ANAHTAR İSRAİL'DE</description>
     </item>
   </channel>
 </rss>
