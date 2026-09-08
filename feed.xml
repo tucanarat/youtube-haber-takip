@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 19:15:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 19:20:32 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Gençlik ve Spor Bakanı Osman Aşkın Bak, GSB Yurtları başvuru sonuçlarına ilişkin açıklama yapıyor</title>
+      <link>https://www.youtube.com/watch?v=vSi5Mk3P8xs</link>
+      <guid isPermaLink="false">vSi5Mk3P8xs</guid>
+      <pubDate>Tue, 08 Sep 2026 19:18:43 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Gençlik ve Spor Bakanı Osman Aşkın Bak, GSB Yurtları başvuru sonuçlarına ilişkin açıklama yapıyor</description>
+    </item>
+    <item>
+      <title>Halk TV: DEVA Parti Milletvekili İdris Şahin: "İktidar halktan ümidini kesmemiş olsa bu yola başvurmazdı!"</title>
+      <link>https://www.youtube.com/watch?v=As0kIW_ouK0</link>
+      <guid isPermaLink="false">As0kIW_ouK0</guid>
+      <pubDate>Tue, 08 Sep 2026 19:15:34 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: DEVA Parti Milletvekili İdris Şahin: "İktidar halktan ümidini kesmemiş olsa bu yola başvurmazdı!"</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Tahliye edilen Adnan Selçuk Mızraklı, Diyarbakır Havalimanında karşılanıyor!</title>
       <link>https://www.youtube.com/watch?v=evY3D4XJ6f8</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">plm3bjwe1lM</guid>
       <pubDate>Tue, 08 Sep 2026 15:20:00 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Afşin Hatipoğlu'dan Tarihi Sözler! "Ekrem İmamoğlu'ndan Vampirin Haçtan Korktuğu Gibi Korkuyorlar!"</description>
-    </item>
-    <item>
-      <title>Halk TV: TÜRKİYE HALK TV'YE KİLİTLENDİ! Deniz Bayramoğlu ilk yayınında tüm kategorilerde zirveye oturdu!</title>
-      <link>https://www.youtube.com/watch?v=IwEBQxA1Oxk</link>
-      <guid isPermaLink="false">IwEBQxA1Oxk</guid>
-      <pubDate>Tue, 08 Sep 2026 15:14:46 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: TÜRKİYE HALK TV'YE KİLİTLENDİ! Deniz Bayramoğlu ilk yayınında tüm kategorilerde zirveye oturdu!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Silivri'de 77. gün! İBB Davası'na damga vuran 'İmamoğlu' polemiği</title>
-      <link>https://www.youtube.com/watch?v=cxMxY9BDP94</link>
-      <guid isPermaLink="false">cxMxY9BDP94</guid>
-      <pubDate>Tue, 08 Sep 2026 15:13:46 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Silivri'de 77. gün! İBB Davası'na damga vuran 'İmamoğlu' polemiği</description>
     </item>
   </channel>
 </rss>
