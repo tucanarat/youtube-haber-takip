@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 07:05:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 07:10:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Sosyal medyada yer alan şaşalı düğün görüntüleriyle gündemde olan Mehmet Fatih Tançalan gözaltında!</title>
+      <link>https://www.youtube.com/watch?v=XI7Ld1vQjow</link>
+      <guid isPermaLink="false">XI7Ld1vQjow</guid>
+      <pubDate>Tue, 08 Sep 2026 07:05:16 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Sosyal medyada yer alan şaşalı düğün görüntüleriyle gündemde olan Mehmet Fatih Tançalan gözaltında!</description>
+    </item>
     <item>
       <title>Cumhuriyet: #CANLI Üsküdar Belediyesi'nde kritik seçim... Sinem Dedetaş yerine başkanvekili seçiliyor...</title>
       <link>https://www.youtube.com/watch?v=SPTfjEqbpik</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">1KXW5w1kfYQ</guid>
       <pubDate>Mon, 07 Sep 2026 21:20:38 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Üsküdar'da İktidarın Gizli Planı Devrede! Çarpıcı Özgür Çelik Çıkışı! Siyasette Yer Yerinden Oynar</description>
-    </item>
-    <item>
-      <title>Halk TV: Silivri açıklarında batan gemide çalışmalar sürüyor! Bölgede arama kurtarma çalışmaları devam ediyor</title>
-      <link>https://www.youtube.com/shorts/Opfw1NMmKbI</link>
-      <guid isPermaLink="false">Opfw1NMmKbI</guid>
-      <pubDate>Mon, 07 Sep 2026 21:16:20 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Silivri açıklarında batan gemide çalışmalar sürüyor! Bölgede arama kurtarma çalışmaları devam ediyor</description>
     </item>
   </channel>
 </rss>
