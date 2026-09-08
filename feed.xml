@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 09:10:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 09:15:35 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: CHP'nin 103. kuruluş yıl dönümü dolayısıyla Taksim'de çelenk koyma töreni düzenleniyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=LlyIpGfInmg</link>
+      <guid isPermaLink="false">LlyIpGfInmg</guid>
+      <pubDate>Tue, 08 Sep 2026 09:11:35 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: CHP'nin 103. kuruluş yıl dönümü dolayısıyla Taksim'de çelenk koyma töreni düzenleniyor #Canlı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: ÇİN'İN ROBOT ORDUSU SAVAŞA HAZIRLANIYOR! Dünyayı Bekleyen Büyük Tehlike! | Ertan Özyiğit</title>
+      <link>https://www.youtube.com/watch?v=6zaZbMaKTWo</link>
+      <guid isPermaLink="false">6zaZbMaKTWo</guid>
+      <pubDate>Tue, 08 Sep 2026 09:00:04 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: ÇİN'İN ROBOT ORDUSU SAVAŞA HAZIRLANIYOR! Dünyayı Bekleyen Büyük Tehlike! | Ertan Özyiğit</description>
+    </item>
     <item>
       <title>Cumhuriyet: Diyarbakır'da inşaat işçisi Recep Karakaş oğluna Ronaldo ismini verdi</title>
       <link>https://www.youtube.com/shorts/duQpQVQmIsw</link>
@@ -20,13 +34,6 @@
       <guid isPermaLink="false">mTuTI_Hk7Ao</guid>
       <pubDate>Tue, 08 Sep 2026 08:40:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ESKİ DEFTERLER BİR AÇILDI PİR AÇILDI! İBB davası sanığı, Topbaş dönemi için öyle bir dosya açtı ki..</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: CHP'nin 103. kuruluş yıl dönümü dolayısıyla Taksim'de çelenk koyma töreni düzenleniyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=LlyIpGfInmg</link>
-      <guid isPermaLink="false">LlyIpGfInmg</guid>
-      <pubDate>Tue, 08 Sep 2026 08:33:16 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP'nin 103. kuruluş yıl dönümü dolayısıyla Taksim'de çelenk koyma töreni düzenleniyor #Canlı</description>
     </item>
     <item>
       <title>Tele2 Haber: #CANLI Üsküdar Belediyesi Başkanı başkan vekilliği seçimi yapılıyor</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Z2ugRxD8zzk</guid>
       <pubDate>Tue, 08 Sep 2026 06:53:16 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | Ebru Baki ile Para Siyaset | İbrahim Kahveci - Mehmet Tezkan</description>
-    </item>
-    <item>
-      <title>Halk TV: ÜSKÜDAR'DA YER YERİNDEN OYNUYOR! Kritik seçimde oylama başladı! Vatandaşlar belediye önünde toplandı</title>
-      <link>https://www.youtube.com/watch?v=PAXOnJN9_L0</link>
-      <guid isPermaLink="false">PAXOnJN9_L0</guid>
-      <pubDate>Tue, 08 Sep 2026 06:52:16 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ÜSKÜDAR'DA YER YERİNDEN OYNUYOR! Kritik seçimde oylama başladı! Vatandaşlar belediye önünde toplandı</description>
     </item>
   </channel>
 </rss>
