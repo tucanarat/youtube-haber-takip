@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 19:20:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 19:25:28 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Erol Mütercimler'den Siyaseti Sallayacak Ahmet Davutoğlu ve Ali Babacan Çıkışı! AKP'deki Gizli Plan</title>
+      <link>https://www.youtube.com/watch?v=GKE342DpMPE</link>
+      <guid isPermaLink="false">GKE342DpMPE</guid>
+      <pubDate>Tue, 08 Sep 2026 19:20:11 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Erol Mütercimler'den Siyaseti Sallayacak Ahmet Davutoğlu ve Ali Babacan Çıkışı! AKP'deki Gizli Plan</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Gençlik ve Spor Bakanı Osman Aşkın Bak, GSB Yurtları başvuru sonuçlarına ilişkin açıklama yapıyor</title>
       <link>https://www.youtube.com/watch?v=vSi5Mk3P8xs</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ITqrJU3UCZA</guid>
       <pubDate>Tue, 08 Sep 2026 15:30:09 +0000</pubDate>
       <description>Halk TV kanalından yeni video: 3 yaşındaki Elif Mavi'nin ölümüne neden olan Fatoş Akıl Bilgesoy'dan dikkat çeken savunma!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Afşin Hatipoğlu'dan Tarihi Sözler! "Ekrem İmamoğlu'ndan Vampirin Haçtan Korktuğu Gibi Korkuyorlar!"</title>
-      <link>https://www.youtube.com/watch?v=plm3bjwe1lM</link>
-      <guid isPermaLink="false">plm3bjwe1lM</guid>
-      <pubDate>Tue, 08 Sep 2026 15:20:00 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Afşin Hatipoğlu'dan Tarihi Sözler! "Ekrem İmamoğlu'ndan Vampirin Haçtan Korktuğu Gibi Korkuyorlar!"</description>
     </item>
   </channel>
 </rss>
