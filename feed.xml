@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 13:30:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 13:34:36 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Ertan Özyiğit Uyarıyor! Geleceğin Savaşı Başlıyor: Çin ve ABD'nin Gizli Silahı Robotlar</title>
+      <link>https://www.youtube.com/watch?v=T5azDrfsjrY</link>
+      <guid isPermaLink="false">T5azDrfsjrY</guid>
+      <pubDate>Tue, 08 Sep 2026 13:30:11 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Ertan Özyiğit Uyarıyor! Geleceğin Savaşı Başlıyor: Çin ve ABD'nin Gizli Silahı Robotlar</description>
+    </item>
     <item>
       <title>Cumhuriyet: Yurttaşa sorduk: "Otoyol ve köprülerin özelleştirilmesi hakkında ne düşünüyorsunuz?"</title>
       <link>https://www.youtube.com/watch?v=XNslJ1osCAw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">lMKca1JIWas</guid>
       <pubDate>Tue, 08 Sep 2026 11:41:19 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Üsküdar Belediyesi AKP'ye geçti. Halk belediye binası önünde tepki gösterdi</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Üsküdar Belediyesi'nin AKP'ye geçmesinin ardından bir yurttaş fenalaştı.</title>
-      <link>https://www.youtube.com/shorts/Ot_Q9_m6nF0</link>
-      <guid isPermaLink="false">Ot_Q9_m6nF0</guid>
-      <pubDate>Tue, 08 Sep 2026 11:41:05 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Üsküdar Belediyesi'nin AKP'ye geçmesinin ardından bir yurttaş fenalaştı.</description>
     </item>
   </channel>
 </rss>
