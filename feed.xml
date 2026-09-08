@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 10:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 11:00:54 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Oyuncu Serhat Kılıç'a veda...</title>
+      <link>https://www.youtube.com/shorts/1myy2-WrXQM</link>
+      <guid isPermaLink="false">1myy2-WrXQM</guid>
+      <pubDate>Tue, 08 Sep 2026 10:53:54 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Oyuncu Serhat Kılıç'a veda...</description>
+    </item>
     <item>
       <title>Tele2 Haber: Butlandan Akıl Almaz "İmamoğlu Siyasi Tutuklu Değil Çıkışı! Ülkü Çoban Ateş Püskürdü!</title>
       <link>https://www.youtube.com/watch?v=83Msc8AHfkc</link>
@@ -20,6 +27,20 @@
       <guid isPermaLink="false">eHNOy4iO8UE</guid>
       <pubDate>Tue, 08 Sep 2026 10:49:40 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: İYİ Parti Genel Başkan Yardımcısı Burak Dalgın basın toplantısı düzenliyor</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Oyuncu Serhat Kılıç için Ankara'da cenaze töreni... Son yolculuğuna uğurlandı...</title>
+      <link>https://www.youtube.com/watch?v=WQ6r85VvXvA</link>
+      <guid isPermaLink="false">WQ6r85VvXvA</guid>
+      <pubDate>Tue, 08 Sep 2026 10:46:03 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Oyuncu Serhat Kılıç için Ankara'da cenaze töreni... Son yolculuğuna uğurlandı...</description>
+    </item>
+    <item>
+      <title>Halk TV: BU SÖZLER SARAY'DA YANKILANIR! Vatandaşlar Erdoğan'a bu sözlerle kazan kaldırdı! Büyük olay olacak!</title>
+      <link>https://www.youtube.com/watch?v=13AfOZZsf2k</link>
+      <guid isPermaLink="false">13AfOZZsf2k</guid>
+      <pubDate>Tue, 08 Sep 2026 10:45:19 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BU SÖZLER SARAY'DA YANKILANIR! Vatandaşlar Erdoğan'a bu sözlerle kazan kaldırdı! Büyük olay olacak!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Üsküdar Belediye Başkanvekilliği Seçimi Yapılıyor | CHP - Yeni Parti İş Birliği</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">Ug9a2rrjJLI</guid>
       <pubDate>Tue, 08 Sep 2026 08:21:35 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Bartın açıklarında tekneye eşlik eden yunuslar kamerada!</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Üsküdar Belediyesi Başkanı Başkan Vekilliği Seçimi Yapılıyor!</title>
-      <link>https://www.youtube.com/watch?v=5X9OlLJVWyk</link>
-      <guid isPermaLink="false">5X9OlLJVWyk</guid>
-      <pubDate>Tue, 08 Sep 2026 08:20:24 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Üsküdar Belediyesi Başkanı Başkan Vekilliği Seçimi Yapılıyor!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI 3. TUR OY VERME İŞLEMİ TAMAMLANDI!  Üsküdar Belediyesi'nde Seçim Devam Ediyor!</title>
-      <link>https://www.youtube.com/watch?v=zeoqrVy8N9k</link>
-      <guid isPermaLink="false">zeoqrVy8N9k</guid>
-      <pubDate>Tue, 08 Sep 2026 08:20:21 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI 3. TUR OY VERME İŞLEMİ TAMAMLANDI!  Üsküdar Belediyesi'nde Seçim Devam Ediyor!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Üsküdar Belediyesi Başkanı başkan vekilliği seçimi yapılıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=iQGPemtW3QU</link>
-      <guid isPermaLink="false">iQGPemtW3QU</guid>
-      <pubDate>Tue, 08 Sep 2026 08:18:29 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Üsküdar Belediyesi Başkanı başkan vekilliği seçimi yapılıyor #Canlı</description>
     </item>
   </channel>
 </rss>
