@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 17:20:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 17:25:27 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: 'Bir Özür Borcu Var!' Erol Mütercimler Özgür Özel'e Seslendi! Üsküdar'daki Seçimlere Esti Gürledi</title>
+      <link>https://www.youtube.com/watch?v=Q-ALK92qh0U</link>
+      <guid isPermaLink="false">Q-ALK92qh0U</guid>
+      <pubDate>Tue, 08 Sep 2026 17:22:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: 'Bir Özür Borcu Var!' Erol Mütercimler Özgür Özel'e Seslendi! Üsküdar'daki Seçimlere Esti Gürledi</description>
+    </item>
     <item>
       <title>Halk TV: YANGIN KABUSU 2. GÜNÜNDE!  2 bini aşkın hane elektriksiz, yangına müdahale güçlükle sürüyor!</title>
       <link>https://www.youtube.com/watch?v=c5VcrYWAb0U</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">XIEB__YYgR8</guid>
       <pubDate>Tue, 08 Sep 2026 13:45:29 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: “Köprü ve Otoyolların Özelleştirilmesi”ne yurttaşlardan tepki</description>
-    </item>
-    <item>
-      <title>Halk TV: REZİL RÜSVA ETTİ! Dilek İmamoğlu'ndan Kılıçdaroğlu'na zehir zemberek 'siyasi rehine' sözleri!</title>
-      <link>https://www.youtube.com/watch?v=zC86qj709Mo</link>
-      <guid isPermaLink="false">zC86qj709Mo</guid>
-      <pubDate>Tue, 08 Sep 2026 13:35:09 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: REZİL RÜSVA ETTİ! Dilek İmamoğlu'ndan Kılıçdaroğlu'na zehir zemberek 'siyasi rehine' sözleri!</description>
     </item>
   </channel>
 </rss>
