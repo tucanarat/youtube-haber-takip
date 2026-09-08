@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 21:01:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 21:05:31 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI Onur Öncü ile Sabah Pusulası (10.09.2026)</title>
+      <link>https://www.youtube.com/watch?v=tiLiCYsD_RU</link>
+      <guid isPermaLink="false">tiLiCYsD_RU</guid>
+      <pubDate>Tue, 08 Sep 2026 21:04:48 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Onur Öncü ile Sabah Pusulası (10.09.2026)</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Antalya’nın Aksu ilçesindeki orman yangınına ekiplerin müdahalesi sürüyor!</title>
       <link>https://www.youtube.com/watch?v=0Lmet0-hSK0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">JHvJImwAhnM</guid>
       <pubDate>Tue, 08 Sep 2026 17:00:32 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Kılıçdaroğlu'ndan İmamoğlu Çıkışı! Dilek İmamoğlu Çok Sert Yanıt Verdi: "Allah'a Havale Ediyorum"</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: “81 İLİ ALSIN, BUNLARI KESMEZ Kİ!” Üsküdar Belediye'si AKP'ye geçti! Taylan yaşananları yorumladı...</title>
-      <link>https://www.youtube.com/watch?v=yDCvwDnuFVw</link>
-      <guid isPermaLink="false">yDCvwDnuFVw</guid>
-      <pubDate>Tue, 08 Sep 2026 17:00:10 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: “81 İLİ ALSIN, BUNLARI KESMEZ Kİ!” Üsküdar Belediye'si AKP'ye geçti! Taylan yaşananları yorumladı...</description>
     </item>
   </channel>
 </rss>
