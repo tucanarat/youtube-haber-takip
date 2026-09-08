@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 23:55:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 00:00:51 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Ahmet Davutoğlu, Cumhurbaşkanına hakaret suçlamasıyla Ankara Adliyesi'nde #Canlı</title>
+      <link>https://www.youtube.com/watch?v=kOWQHNgCJT0</link>
+      <guid isPermaLink="false">kOWQHNgCJT0</guid>
+      <pubDate>Mon, 07 Sep 2026 23:59:50 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Ahmet Davutoğlu, Cumhurbaşkanına hakaret suçlamasıyla Ankara Adliyesi'nde #Canlı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Özlem Gürses ile Sözcü Ana Haber</title>
       <link>https://www.youtube.com/watch?v=-fE5gJIqT_Y</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">IXaEyLWA1E8</guid>
       <pubDate>Mon, 07 Sep 2026 19:15:14 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Ahmet Gökçek ve eşinin sorgusu 5 saat sürdü: Adliye çıkışında tarihe geçecek o görüntü ortaya çıktı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Üsküdar halkı yarınki seçim öncesi ayakta! İlçede gergin bekleyiş sürüyor! #shorts</title>
-      <link>https://www.youtube.com/shorts/GmHj0s5zUwk</link>
-      <guid isPermaLink="false">GmHj0s5zUwk</guid>
-      <pubDate>Mon, 07 Sep 2026 19:10:25 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Üsküdar halkı yarınki seçim öncesi ayakta! İlçede gergin bekleyiş sürüyor! #shorts</description>
     </item>
   </channel>
 </rss>
