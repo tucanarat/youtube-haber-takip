@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 17:30:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 17:35:28 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: GÖZYAŞLARINI TUTAMADI! Üsküdar'daki seçiminin ardından o üyenin gözyaşları kameralara böyle yansıdı!</title>
+      <link>https://www.youtube.com/watch?v=jvKskvmiH1A</link>
+      <guid isPermaLink="false">jvKskvmiH1A</guid>
+      <pubDate>Tue, 08 Sep 2026 17:30:10 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: GÖZYAŞLARINI TUTAMADI! Üsküdar'daki seçiminin ardından o üyenin gözyaşları kameralara böyle yansıdı!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: “BU HUKUKSUZLUKTA SİZE BAŞARILAR!” Taylan'dan Kılıçdaroğlu'nun İmamoğlu sözleri için kritik soru!</title>
+      <link>https://www.youtube.com/watch?v=QeQQoJhPqew</link>
+      <guid isPermaLink="false">QeQQoJhPqew</guid>
+      <pubDate>Tue, 08 Sep 2026 17:30:08 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: “BU HUKUKSUZLUKTA SİZE BAŞARILAR!” Taylan'dan Kılıçdaroğlu'nun İmamoğlu sözleri için kritik soru!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: 'Bir Özür Borcu Var!' Erol Mütercimler Özgür Özel'e Seslendi! Üsküdar'daki Seçimlere Esti Gürledi</title>
       <link>https://www.youtube.com/watch?v=Q-ALK92qh0U</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">tWIpvqs_kJc</guid>
       <pubDate>Tue, 08 Sep 2026 13:50:26 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Ankara bu olayı konuşuyor: Holding patronu da dev lastik firmasının sahibi de tutuklandı!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Atlas Çağlayan davasında sanığa 18 yıl 10 ay hapis cezası! Anne Gülhan Ünlü gözyaşlarına boğuldu</title>
-      <link>https://www.youtube.com/watch?v=QceulUpK-Jk</link>
-      <guid isPermaLink="false">QceulUpK-Jk</guid>
-      <pubDate>Tue, 08 Sep 2026 13:47:16 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Atlas Çağlayan davasında sanığa 18 yıl 10 ay hapis cezası! Anne Gülhan Ünlü gözyaşlarına boğuldu</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: “Köprü ve Otoyolların Özelleştirilmesi”ne yurttaşlardan tepki</title>
-      <link>https://www.youtube.com/watch?v=XIEB__YYgR8</link>
-      <guid isPermaLink="false">XIEB__YYgR8</guid>
-      <pubDate>Tue, 08 Sep 2026 13:45:29 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: “Köprü ve Otoyolların Özelleştirilmesi”ne yurttaşlardan tepki</description>
     </item>
   </channel>
 </rss>
