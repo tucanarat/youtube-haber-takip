@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 14:55:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 15:00:56 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Ayhan Aydın transferinin perde arkası! Özgür Çelik: ‘Ayhan Aydın’ı savcı tutuklamayla tehdit etti’</title>
+      <link>https://www.youtube.com/shorts/qMweRG9Jgls</link>
+      <guid isPermaLink="false">qMweRG9Jgls</guid>
+      <pubDate>Tue, 08 Sep 2026 14:56:01 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Ayhan Aydın transferinin perde arkası! Özgür Çelik: ‘Ayhan Aydın’ı savcı tutuklamayla tehdit etti’</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Ece Üner ile Halk Ana Haber | #eşik</title>
       <link>https://www.youtube.com/watch?v=w_rsIeZdDn0</link>
@@ -20,6 +27,13 @@
       <guid isPermaLink="false">bM1SkaUK2fY</guid>
       <pubDate>Tue, 08 Sep 2026 14:54:02 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Gizem Çetin ile Parantez (8 Eylül 2026)</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Fatoş Pınar Türker mahkeme salonunda fenalaştı</title>
+      <link>https://www.youtube.com/shorts/eIG-QDozbQg</link>
+      <guid isPermaLink="false">eIG-QDozbQg</guid>
+      <pubDate>Tue, 08 Sep 2026 14:53:51 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Fatoş Pınar Türker mahkeme salonunda fenalaştı</description>
     </item>
     <item>
       <title>Halk TV: Üsküdar’da seçim sonrası bomba iddia: “Dört meclis üyesi otelde tutuldu, başlarına polis dikildi!”</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">crHyr6xetrM</guid>
       <pubDate>Tue, 08 Sep 2026 12:30:29 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: ALMANYA'DA TRUMP VE PUTİN'İ SEVİNDİREN SEÇİM! Aşırı Sağ Parti Kazandı! Avrupa Düşüyor!</description>
-    </item>
-    <item>
-      <title>Halk TV: BU KÖTÜLÜK ŞEYTANIN AKLINA GELMEZ! Üsküdar seçimi öncesi CHP'li ismi eşi ve oğluyla tehdit etmişler!</title>
-      <link>https://www.youtube.com/watch?v=fNrFcs-lRkA</link>
-      <guid isPermaLink="false">fNrFcs-lRkA</guid>
-      <pubDate>Tue, 08 Sep 2026 12:30:29 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BU KÖTÜLÜK ŞEYTANIN AKLINA GELMEZ! Üsküdar seçimi öncesi CHP'li ismi eşi ve oğluyla tehdit etmişler!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Gezegenin Dili: Doğayı Korumadan Geleceği Koruyabilir miyiz?</title>
-      <link>https://www.youtube.com/watch?v=yZqoI2bD-zc</link>
-      <guid isPermaLink="false">yZqoI2bD-zc</guid>
-      <pubDate>Tue, 08 Sep 2026 12:28:01 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Gezegenin Dili: Doğayı Korumadan Geleceği Koruyabilir miyiz?</description>
     </item>
   </channel>
 </rss>
