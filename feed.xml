@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 11:05:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 11:10:36 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI Üsküdar Belediyesi Başkan Vekilliği seçimi sonrası belediye önünde son durum</title>
+      <link>https://www.youtube.com/watch?v=EKSBmIEKIRM</link>
+      <guid isPermaLink="false">EKSBmIEKIRM</guid>
+      <pubDate>Tue, 08 Sep 2026 11:05:58 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Üsküdar Belediyesi Başkan Vekilliği seçimi sonrası belediye önünde son durum</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Üsküdar'da Yurttaş: Kazanmış gibi yapsanız da gerçek burada. Bu halkın vicdanında kazanmış değilsin.</title>
+      <link>https://www.youtube.com/shorts/MbPLFMQ6Gjc</link>
+      <guid isPermaLink="false">MbPLFMQ6Gjc</guid>
+      <pubDate>Tue, 08 Sep 2026 11:01:42 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Üsküdar'da Yurttaş: Kazanmış gibi yapsanız da gerçek burada. Bu halkın vicdanında kazanmış değilsin.</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Üsküdar Belediyesi Başkan Vekilliği seçimi sonrası belediye önünde son durum #Canlı</title>
       <link>https://www.youtube.com/watch?v=X_M4ql5Dq_8</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">-AroxorgcwE</guid>
       <pubDate>Tue, 08 Sep 2026 08:23:19 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Atlas Çağlayan davasında karar bekleniyor! Sanık için 21 yıl 7 ay 15 güne kadar hapis istendi</description>
-    </item>
-    <item>
-      <title>Halk TV: Üsküdar Belediyesi Başkanı Başkan Vekilliği Seçimi Yapılıyor!</title>
-      <link>https://www.youtube.com/watch?v=n_A1JRqa-RA</link>
-      <guid isPermaLink="false">n_A1JRqa-RA</guid>
-      <pubDate>Tue, 08 Sep 2026 08:23:02 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Üsküdar Belediyesi Başkanı Başkan Vekilliği Seçimi Yapılıyor!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: YENİ Parti milletvekilleri sahada... “Tek umudumuz sizsiniz”</title>
-      <link>https://www.youtube.com/shorts/-9BVstLNC1E</link>
-      <guid isPermaLink="false">-9BVstLNC1E</guid>
-      <pubDate>Tue, 08 Sep 2026 08:22:20 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: YENİ Parti milletvekilleri sahada... “Tek umudumuz sizsiniz”</description>
     </item>
   </channel>
 </rss>
