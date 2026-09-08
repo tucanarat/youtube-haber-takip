@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 20:25:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 20:30:44 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Nevzat Çiçek'ten Tarihi Analiz! Netanyahu Ortadoğu'da Kırmızı Çizgiyi Aştı! İsrail'in Suriye Planı</title>
+      <link>https://www.youtube.com/watch?v=AQ57wtLYcL4</link>
+      <guid isPermaLink="false">AQ57wtLYcL4</guid>
+      <pubDate>Tue, 08 Sep 2026 20:20:23 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Nevzat Çiçek'ten Tarihi Analiz! Netanyahu Ortadoğu'da Kırmızı Çizgiyi Aştı! İsrail'in Suriye Planı</description>
+    </item>
     <item>
       <title>Halk TV: Özgür Çelik o anları ilk kez anlatmıştı! Özgür Çelik’in bu açıklamasına soruşturma! #shorts</title>
       <link>https://www.youtube.com/shorts/9Ro0uIIf_HU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">T247CRsGdm8</guid>
       <pubDate>Tue, 08 Sep 2026 16:30:04 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "BİZ NE DÜĞÜNLER GÖRDÜK!" Taylan, Gökçek soruşturmasında Erdoğan'ı hatırlattı ve  Şimşek'e seslendi!</description>
-    </item>
-    <item>
-      <title>Halk TV: TCDD, SÜMER HOLDİNG, ŞEKER FABRİKALARI... KAMUNUN MALLARI SATILIYOR!</title>
-      <link>https://www.youtube.com/watch?v=TGzNMAwP_T0</link>
-      <guid isPermaLink="false">TGzNMAwP_T0</guid>
-      <pubDate>Tue, 08 Sep 2026 16:20:39 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: TCDD, SÜMER HOLDİNG, ŞEKER FABRİKALARI... KAMUNUN MALLARI SATILIYOR!</description>
     </item>
   </channel>
 </rss>
