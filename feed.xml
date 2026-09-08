@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 10:50:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 10:55:26 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Butlandan Akıl Almaz "İmamoğlu Siyasi Tutuklu Değil Çıkışı! Ülkü Çoban Ateş Püskürdü!</title>
+      <link>https://www.youtube.com/watch?v=83Msc8AHfkc</link>
+      <guid isPermaLink="false">83Msc8AHfkc</guid>
+      <pubDate>Tue, 08 Sep 2026 10:50:01 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Butlandan Akıl Almaz "İmamoğlu Siyasi Tutuklu Değil Çıkışı! Ülkü Çoban Ateş Püskürdü!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: İYİ Parti Genel Başkan Yardımcısı Burak Dalgın basın toplantısı düzenliyor</title>
       <link>https://www.youtube.com/watch?v=eHNOy4iO8UE</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">iQGPemtW3QU</guid>
       <pubDate>Tue, 08 Sep 2026 08:18:29 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Üsküdar Belediyesi Başkanı başkan vekilliği seçimi yapılıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: 65 yaş aylığıyla engelli kızına bakan teyze pazarda isyan etti: "Aç mı kalalım?"</title>
-      <link>https://www.youtube.com/shorts/TzRvSAKbVLY</link>
-      <guid isPermaLink="false">TzRvSAKbVLY</guid>
-      <pubDate>Tue, 08 Sep 2026 08:13:02 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: 65 yaş aylığıyla engelli kızına bakan teyze pazarda isyan etti: "Aç mı kalalım?"</description>
     </item>
   </channel>
 </rss>
