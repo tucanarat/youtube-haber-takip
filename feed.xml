@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 11:55:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 12:01:04 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI Üsküdar Belediyesi Başkan Vekilliği seçimi sonrası belediye önünde son durum</title>
+      <link>https://www.youtube.com/watch?v=EKSBmIEKIRM</link>
+      <guid isPermaLink="false">EKSBmIEKIRM</guid>
+      <pubDate>Tue, 08 Sep 2026 11:59:56 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Üsküdar Belediyesi Başkan Vekilliği seçimi sonrası belediye önünde son durum</description>
+    </item>
     <item>
       <title>Cumhuriyet: Başkan vekili seçimi sona erdi! Üsküdar Belediyesi artık AKP'de...</title>
       <link>https://www.youtube.com/watch?v=BfYTBbJQDxI</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="false">2PS-qLsAQCs</guid>
       <pubDate>Tue, 08 Sep 2026 11:15:16 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI Başkan vekilliği seçimi sona erdi! Üsküdar Belediyesi önünde son durum….</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Üsküdar Belediyesi Başkan Vekilliği seçimi sonrası belediye önünde son durum</title>
-      <link>https://www.youtube.com/watch?v=EKSBmIEKIRM</link>
-      <guid isPermaLink="false">EKSBmIEKIRM</guid>
-      <pubDate>Tue, 08 Sep 2026 11:05:58 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Üsküdar Belediyesi Başkan Vekilliği seçimi sonrası belediye önünde son durum</description>
     </item>
     <item>
       <title>Tele2 Haber: Üsküdar'da Yurttaş: Kazanmış gibi yapsanız da gerçek burada. Bu halkın vicdanında kazanmış değilsin.</title>
