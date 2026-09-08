@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 11:35:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 11:40:37 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: "Ortada ne para var ne rüşvet suçüstü! 'Tiyatro izliyoruz'"</title>
+      <link>https://www.youtube.com/shorts/pEaNiW-q_UA</link>
+      <guid isPermaLink="false">pEaNiW-q_UA</guid>
+      <pubDate>Tue, 08 Sep 2026 11:39:31 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: "Ortada ne para var ne rüşvet suçüstü! 'Tiyatro izliyoruz'"</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: ÜSKÜDAR'DA YURTTAŞTAN SİYASİ KUMPASA ÇOK SERT TEPKİ! "HIRSIZLAR!"</title>
+      <link>https://www.youtube.com/watch?v=SNNIufku_54</link>
+      <guid isPermaLink="false">SNNIufku_54</guid>
+      <pubDate>Tue, 08 Sep 2026 11:32:29 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: ÜSKÜDAR'DA YURTTAŞTAN SİYASİ KUMPASA ÇOK SERT TEPKİ! "HIRSIZLAR!"</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Üsküdar Belediyesi Başkanı başkan vekilliği seçimi yapılıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=iQGPemtW3QU</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">LlyIpGfInmg</guid>
       <pubDate>Tue, 08 Sep 2026 09:11:35 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: CHP'nin 103. kuruluş yıl dönümü dolayısıyla Taksim'de çelenk koyma töreni düzenleniyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: SICAK GELİŞME! Kıran kırana geçen Üsküdar'daki başkan vekili seçimi 3. tura kaldı! İşte son sonuçlar</title>
-      <link>https://www.youtube.com/watch?v=l_ss31384xA</link>
-      <guid isPermaLink="false">l_ss31384xA</guid>
-      <pubDate>Tue, 08 Sep 2026 09:01:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SICAK GELİŞME! Kıran kırana geçen Üsküdar'daki başkan vekili seçimi 3. tura kaldı! İşte son sonuçlar</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: ÇİN'İN ROBOT ORDUSU SAVAŞA HAZIRLANIYOR! Dünyayı Bekleyen Büyük Tehlike! | Ertan Özyiğit</title>
-      <link>https://www.youtube.com/watch?v=6zaZbMaKTWo</link>
-      <guid isPermaLink="false">6zaZbMaKTWo</guid>
-      <pubDate>Tue, 08 Sep 2026 09:00:04 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: ÇİN'İN ROBOT ORDUSU SAVAŞA HAZIRLANIYOR! Dünyayı Bekleyen Büyük Tehlike! | Ertan Özyiğit</description>
     </item>
   </channel>
 </rss>
