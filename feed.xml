@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 16:10:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 16:15:34 +0000</lastBuildDate>
     <item>
       <title>Halk TV: İlker Çakıroğlu cinayetinde karar çıktı: Fuat Çakır'ın liderliğindeki çete dosyasında sürpriz isim!</title>
       <link>https://www.youtube.com/watch?v=-3BJ116orIw</link>
       <guid isPermaLink="false">-3BJ116orIw</guid>
       <pubDate>Tue, 08 Sep 2026 16:00:16 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İlker Çakıroğlu cinayetinde karar çıktı: Fuat Çakır'ın liderliğindeki çete dosyasında sürpriz isim!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Mecliste Gözyaşları! Üsküdar Belediyesi'nde Olaylı Oylama ve Transfer Krizi! AKP Bunu Yaptı</title>
+      <link>https://www.youtube.com/watch?v=T024QJqbPzo</link>
+      <guid isPermaLink="false">T024QJqbPzo</guid>
+      <pubDate>Tue, 08 Sep 2026 16:00:07 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Mecliste Gözyaşları! Üsküdar Belediyesi'nde Olaylı Oylama ve Transfer Krizi! AKP Bunu Yaptı</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | Sinem Fıstıkoğlu ile Sansürsüz</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Iiq7psfrxcs</guid>
       <pubDate>Tue, 08 Sep 2026 12:57:08 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İrem Sansak ile Haber Masası (8 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Tahliye edilen Selçuk Mızraklı, Sırrı Süreyya Önder'in mezarını ziyaret ediyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=7o0qZxVoSUI</link>
-      <guid isPermaLink="false">7o0qZxVoSUI</guid>
-      <pubDate>Tue, 08 Sep 2026 12:55:41 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Tahliye edilen Selçuk Mızraklı, Sırrı Süreyya Önder'in mezarını ziyaret ediyor #Canlı</description>
     </item>
   </channel>
 </rss>
