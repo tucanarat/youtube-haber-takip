@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 16:30:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 16:35:33 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: "BİZ NE DÜĞÜNLER GÖRDÜK!" Taylan, Gökçek soruşturmasında Erdoğan'ı hatırlattı ve  Şimşek'e seslendi!</title>
+      <link>https://www.youtube.com/watch?v=T247CRsGdm8</link>
+      <guid isPermaLink="false">T247CRsGdm8</guid>
+      <pubDate>Tue, 08 Sep 2026 16:30:04 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "BİZ NE DÜĞÜNLER GÖRDÜK!" Taylan, Gökçek soruşturmasında Erdoğan'ı hatırlattı ve  Şimşek'e seslendi!</description>
+    </item>
     <item>
       <title>Halk TV: TCDD, SÜMER HOLDİNG, ŞEKER FABRİKALARI... KAMUNUN MALLARI SATILIYOR! Bu</title>
       <link>https://www.youtube.com/watch?v=TGzNMAwP_T0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">whYc8XmImpA</guid>
       <pubDate>Tue, 08 Sep 2026 13:05:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ADANA FELAKETİ YAŞADI! Orman yangını yerleşim yerlerine sıçradı, 40 ev tahliye edildi! Dehşet verici</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Barış Terkoğlu Bülent Arınç'ın Savcıya Vereceği İfadeyi Anlattı! Melih Gökçek'e Büyük Darbe</title>
-      <link>https://www.youtube.com/watch?v=WhGIz67MV50</link>
-      <guid isPermaLink="false">WhGIz67MV50</guid>
-      <pubDate>Tue, 08 Sep 2026 13:00:32 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Barış Terkoğlu Bülent Arınç'ın Savcıya Vereceği İfadeyi Anlattı! Melih Gökçek'e Büyük Darbe</description>
     </item>
   </channel>
 </rss>
