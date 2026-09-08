@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 16:55:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 17:00:54 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI Murat Taylan ile Haber-Yorum (08.09.2026)</title>
+      <link>https://www.youtube.com/watch?v=1-AXAUMgXQk</link>
+      <guid isPermaLink="false">1-AXAUMgXQk</guid>
+      <pubDate>Tue, 08 Sep 2026 16:59:37 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Murat Taylan ile Haber-Yorum (08.09.2026)</description>
+    </item>
+    <item>
+      <title>Halk TV: Ece Üner ile Halk Ana Haber | #eşik (8 Eylül 2026)</title>
+      <link>https://www.youtube.com/watch?v=w_rsIeZdDn0</link>
+      <guid isPermaLink="false">w_rsIeZdDn0</guid>
+      <pubDate>Tue, 08 Sep 2026 16:56:16 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Ece Üner ile Halk Ana Haber | #eşik (8 Eylül 2026)</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Özlem Gürses ile Sözcü Ana Haber 8 Eylül</title>
+      <link>https://www.youtube.com/watch?v=-fE5gJIqT_Y</link>
+      <guid isPermaLink="false">-fE5gJIqT_Y</guid>
+      <pubDate>Tue, 08 Sep 2026 16:56:01 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses ile Sözcü Ana Haber 8 Eylül</description>
+    </item>
     <item>
       <title>Halk TV: SELÇUK MIZRAKLI 7 YIL SONRA TAHLİYE EDİLDİ! "Süreci hakikaten samimi hale getirmeliyiz."</title>
       <link>https://www.youtube.com/watch?v=-zaGLhbDDSY</link>
@@ -160,13 +181,6 @@
       <guid isPermaLink="false">qMweRG9Jgls</guid>
       <pubDate>Tue, 08 Sep 2026 14:56:01 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Ayhan Aydın transferinin perde arkası! Özgür Çelik: ‘Ayhan Aydın’ı savcı tutuklamayla tehdit etti’</description>
-    </item>
-    <item>
-      <title>Halk TV: Ece Üner ile Halk Ana Haber | #eşik (8 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=w_rsIeZdDn0</link>
-      <guid isPermaLink="false">w_rsIeZdDn0</guid>
-      <pubDate>Tue, 08 Sep 2026 14:54:30 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ece Üner ile Halk Ana Haber | #eşik (8 Eylül 2026)</description>
     </item>
     <item>
       <title>Halk TV: Gizem Çetin ile Parantez (8 Eylül 2026)</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">PKeNeL2X_rU</guid>
       <pubDate>Tue, 08 Sep 2026 13:20:00 +0000</pubDate>
       <description>Halk TV kanalından yeni video: AÇTI AĞZINI YUMDU GÖZÜNÜ! YENİ Partili Zeynel Emre, Üsküdar'da yapılan pazarlıkları tek tek anlattı!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Yurtdışından tatile gelen gurbetçi “Köprü ve Yolların Özelleştirilmesi”ni doğru bularak övdü</title>
-      <link>https://www.youtube.com/shorts/v0E8RCwfggU</link>
-      <guid isPermaLink="false">v0E8RCwfggU</guid>
-      <pubDate>Tue, 08 Sep 2026 13:19:57 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Yurtdışından tatile gelen gurbetçi “Köprü ve Yolların Özelleştirilmesi”ni doğru bularak övdü</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: YENİ Parti Sözcüsü Zeynel Emre Parti Genel Merkezi'nde açıklama yaptı: "Üsküdar işgal edilmiştir''</title>
-      <link>https://www.youtube.com/shorts/dZO30nWXCCQ</link>
-      <guid isPermaLink="false">dZO30nWXCCQ</guid>
-      <pubDate>Tue, 08 Sep 2026 13:19:24 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: YENİ Parti Sözcüsü Zeynel Emre Parti Genel Merkezi'nde açıklama yaptı: "Üsküdar işgal edilmiştir''</description>
     </item>
   </channel>
 </rss>
