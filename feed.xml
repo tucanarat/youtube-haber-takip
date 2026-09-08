@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 21:30:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 21:35:28 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: YANGININ BİLANÇOSU BÜYÜYOR! Antalya'da alevler yerleşim yerlerine yaklaştı!</title>
+      <link>https://www.youtube.com/watch?v=wtrP-HjkXCE</link>
+      <guid isPermaLink="false">wtrP-HjkXCE</guid>
+      <pubDate>Tue, 08 Sep 2026 21:30:20 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YANGININ BİLANÇOSU BÜYÜYOR! Antalya'da alevler yerleşim yerlerine yaklaştı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Ortadoğu'da Savaş Yeniden! Erol Mütercimler'den Olay Analiz! ABD'den İran'ın Kalbine Yeni Saldırı</title>
       <link>https://www.youtube.com/watch?v=3rz1aFf1msA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">OZEcIYsY0xo</guid>
       <pubDate>Tue, 08 Sep 2026 17:42:32 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SON DAKİKA! "Tutuklamayla tehdit edildim, eşim ve çocuğum engelli" sözleri üzerine soruşturma!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İSTANBUL HARİTASI TEPEDEN TIRNAĞA DEĞİŞTİ! AKP'nin Seçim Oyununu Özlem Gürses Anlattı</title>
-      <link>https://www.youtube.com/watch?v=sNrBR82zqVU</link>
-      <guid isPermaLink="false">sNrBR82zqVU</guid>
-      <pubDate>Tue, 08 Sep 2026 17:40:35 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İSTANBUL HARİTASI TEPEDEN TIRNAĞA DEĞİŞTİ! AKP'nin Seçim Oyununu Özlem Gürses Anlattı</description>
     </item>
   </channel>
 </rss>
