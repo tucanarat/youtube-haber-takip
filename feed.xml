@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 11:51:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 11:55:29 +0000</lastBuildDate>
     <item>
       <title>Cumhuriyet: Başkan vekili seçimi sona erdi! Üsküdar Belediyesi artık AKP'de...</title>
       <link>https://www.youtube.com/watch?v=BfYTBbJQDxI</link>
@@ -48,6 +48,13 @@
       <guid isPermaLink="false">Ot_Q9_m6nF0</guid>
       <pubDate>Tue, 08 Sep 2026 11:41:05 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Üsküdar Belediyesi'nin AKP'ye geçmesinin ardından bir yurttaş fenalaştı.</description>
+    </item>
+    <item>
+      <title>Halk TV: AİLESİ VE SEVENLERİ YALNIZ BIRAKMADI! Evinde ölü bulunan Serhat Kılıç son yolculuğuna uğurlandı!</title>
+      <link>https://www.youtube.com/watch?v=r7DU30FL2FA</link>
+      <guid isPermaLink="false">r7DU30FL2FA</guid>
+      <pubDate>Tue, 08 Sep 2026 11:40:29 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: AİLESİ VE SEVENLERİ YALNIZ BIRAKMADI! Evinde ölü bulunan Serhat Kılıç son yolculuğuna uğurlandı!</description>
     </item>
     <item>
       <title>Cumhuriyet: "Ortada ne para var ne rüşvet suçüstü! 'Tiyatro izliyoruz'"</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ZA9LOemd4zw</guid>
       <pubDate>Tue, 08 Sep 2026 09:42:35 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Üsküdar Belediyesi'nde başkan vekili seçimi... İkinci tur tamamlandı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Ispartalı pazarcı YENİ Partili Halıcı’ya dert yandı: “Domates 20 lira ama satamıyoruz"</title>
-      <link>https://www.youtube.com/shorts/n-6ZT53xD1c</link>
-      <guid isPermaLink="false">n-6ZT53xD1c</guid>
-      <pubDate>Tue, 08 Sep 2026 09:40:23 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Ispartalı pazarcı YENİ Partili Halıcı’ya dert yandı: “Domates 20 lira ama satamıyoruz"</description>
     </item>
   </channel>
 </rss>
