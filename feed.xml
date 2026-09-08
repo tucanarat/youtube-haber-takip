@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 18:45:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 18:50:36 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Tahliye edilen Adnan Selçuk Mızraklı, Diyarbakır Havalimanında karşılanıyor!</title>
+      <link>https://www.youtube.com/watch?v=evY3D4XJ6f8</link>
+      <guid isPermaLink="false">evY3D4XJ6f8</guid>
+      <pubDate>Tue, 08 Sep 2026 18:40:31 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Tahliye edilen Adnan Selçuk Mızraklı, Diyarbakır Havalimanında karşılanıyor!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Erol Mütercimler Eski Defterleri Açtı! Davutoğlu'na 2015 Çıkışı! AKP'deki Erdoğan Sonrası Plan</title>
+      <link>https://www.youtube.com/watch?v=JkLTlFcErrQ</link>
+      <guid isPermaLink="false">JkLTlFcErrQ</guid>
+      <pubDate>Tue, 08 Sep 2026 18:40:30 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Erol Mütercimler Eski Defterleri Açtı! Davutoğlu'na 2015 Çıkışı! AKP'deki Erdoğan Sonrası Plan</description>
+    </item>
     <item>
       <title>Halk TV: UĞUR DÜNDAR: "KAYBETMİŞ BİR İKTİDARIN ZORAKİ TUTUNMA ÇABALARI..."</title>
       <link>https://www.youtube.com/watch?v=BhpO5J6iWLM</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">qMweRG9Jgls</guid>
       <pubDate>Tue, 08 Sep 2026 14:56:01 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Ayhan Aydın transferinin perde arkası! Özgür Çelik: ‘Ayhan Aydın’ı savcı tutuklamayla tehdit etti’</description>
-    </item>
-    <item>
-      <title>Halk TV: Gizem Çetin ile Parantez (8 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=bM1SkaUK2fY</link>
-      <guid isPermaLink="false">bM1SkaUK2fY</guid>
-      <pubDate>Tue, 08 Sep 2026 14:54:02 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Gizem Çetin ile Parantez (8 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Fatoş Pınar Türker mahkeme salonunda fenalaştı</title>
-      <link>https://www.youtube.com/shorts/eIG-QDozbQg</link>
-      <guid isPermaLink="false">eIG-QDozbQg</guid>
-      <pubDate>Tue, 08 Sep 2026 14:53:51 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Fatoş Pınar Türker mahkeme salonunda fenalaştı</description>
     </item>
   </channel>
 </rss>
