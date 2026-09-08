@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 19:50:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 19:55:25 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SON DAKİKA! "ÜSKÜDAR'DA BUGÜN OLANLAR DEMOKRASİYE BİR ALAYDIR!" Nacho Sanchez'in Üsküdar tepkisi!</title>
+      <link>https://www.youtube.com/watch?v=T91BGNsIKQg</link>
+      <guid isPermaLink="false">T91BGNsIKQg</guid>
+      <pubDate>Tue, 08 Sep 2026 19:53:16 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! "ÜSKÜDAR'DA BUGÜN OLANLAR DEMOKRASİYE BİR ALAYDIR!" Nacho Sanchez'in Üsküdar tepkisi!</description>
+    </item>
     <item>
       <title>Halk TV: SUAT ÖZÇAĞDAŞ "AKLINI YİTİRMİŞ ŞEKİLDE OY VERDİ" Üsküdar'daki seçimin arka yüzü!</title>
       <link>https://www.youtube.com/watch?v=562OlIbfoi8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Fx9AximXivg</guid>
       <pubDate>Tue, 08 Sep 2026 15:49:27 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ÖZGÜR ÇELİK SEÇİMİN PERDE ARKASINI AÇIKLADI! Üsküdar seçiminde akılları altüst edecek iddia!</description>
-    </item>
-    <item>
-      <title>Halk TV: Atlas Çağlayan cinayetinde karar çıktı! Annesinin feryadı yürek dağladı! İşte katile verilen ceza!</title>
-      <link>https://www.youtube.com/watch?v=MZe_lqPWc8c</link>
-      <guid isPermaLink="false">MZe_lqPWc8c</guid>
-      <pubDate>Tue, 08 Sep 2026 15:45:16 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Atlas Çağlayan cinayetinde karar çıktı! Annesinin feryadı yürek dağladı! İşte katile verilen ceza!</description>
     </item>
   </channel>
 </rss>
