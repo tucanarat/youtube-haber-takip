@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 10:30:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 10:35:30 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: İsmail Küçükkaya Ahmet Davutoğlu Gerçeğini İlk Kez Açıkladı! "CUMHURİYET TARİHİNDE BİR İLK!"</title>
+      <link>https://www.youtube.com/watch?v=0xYEh1ZYpfI</link>
+      <guid isPermaLink="false">0xYEh1ZYpfI</guid>
+      <pubDate>Tue, 08 Sep 2026 10:30:01 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya Ahmet Davutoğlu Gerçeğini İlk Kez Açıkladı! "CUMHURİYET TARİHİNDE BİR İLK!"</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Oyuncu Serhat Kılıç için Ahmet Hamdi Akseki Camisinde cenaze töreni düzenleniyor / Ankara #Canlı</title>
       <link>https://www.youtube.com/watch?v=SL16DpzZFW8</link>
@@ -20,6 +27,13 @@
       <guid isPermaLink="false">Q8mHg-w4WZU</guid>
       <pubDate>Tue, 08 Sep 2026 10:27:41 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Numan Kurtulmuş, Irak Temsilciler Meclisi Başkanı Heybet Halbusi ile toplantısı düzenliyor #Canlı</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: CHP 103 Yaşına Butlan Gölgesinde Giriyor... Mansur Yavaş'tan Butlancılara Kutlama Vetosu!</title>
+      <link>https://www.youtube.com/watch?v=uqGAsXNjIKw</link>
+      <guid isPermaLink="false">uqGAsXNjIKw</guid>
+      <pubDate>Tue, 08 Sep 2026 10:27:31 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: CHP 103 Yaşına Butlan Gölgesinde Giriyor... Mansur Yavaş'tan Butlancılara Kutlama Vetosu!</description>
     </item>
     <item>
       <title>Cumhuriyet: #CANLI | Hayatını kaybeden oyuncu Serhat Kılıç için cenaze töreni...</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">_9V6N9N9kts</guid>
       <pubDate>Tue, 08 Sep 2026 08:00:30 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Mansur Yavaş Ortak Aday mı?  Kılıçdaroğlu Özgür Özel İttifakı! Barış Terkoğlu'ndan Bomba İddia</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Mahkeme kararının ardından ilk adım: Üsküdar’da başkan vekilliği oylaması başladı</title>
-      <link>https://www.youtube.com/shorts/MUB6qhyEeSU</link>
-      <guid isPermaLink="false">MUB6qhyEeSU</guid>
-      <pubDate>Tue, 08 Sep 2026 07:56:51 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Mahkeme kararının ardından ilk adım: Üsküdar’da başkan vekilliği oylaması başladı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Musa Özuğurlu ile Dünya Hali (08.09.2026)</title>
-      <link>https://www.youtube.com/watch?v=cYXVP5jYupM</link>
-      <guid isPermaLink="false">cYXVP5jYupM</guid>
-      <pubDate>Tue, 08 Sep 2026 07:56:43 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Musa Özuğurlu ile Dünya Hali (08.09.2026)</description>
     </item>
   </channel>
 </rss>
