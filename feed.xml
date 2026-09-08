@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 15:05:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 15:10:39 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Damla Doğan Tuncel ile 1 Saat 8 Eylül</title>
+      <link>https://www.youtube.com/watch?v=Z20_N77K1IY</link>
+      <guid isPermaLink="false">Z20_N77K1IY</guid>
+      <pubDate>Tue, 08 Sep 2026 15:02:16 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Damla Doğan Tuncel ile 1 Saat 8 Eylül</description>
+    </item>
     <item>
       <title>Halk TV: Özgür Çelik: “Bir oy için ter*r örgütünden ceza alan oğlunu Türkiye’ye getirme sözü verdiler!”</title>
       <link>https://www.youtube.com/shorts/pFiqq7xaoDI</link>
       <guid isPermaLink="false">pFiqq7xaoDI</guid>
       <pubDate>Tue, 08 Sep 2026 15:01:08 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Çelik: “Bir oy için ter*r örgütünden ceza alan oğlunu Türkiye’ye getirme sözü verdiler!”</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Melih Gökçek Dosyası | İsmail Saymaz &amp; Can Özçelik &amp; Onur Alp Yılmaz | Ekrem Açıkel ile Hafta Başı</title>
+      <link>https://www.youtube.com/watch?v=F72zWIyX_yo</link>
+      <guid isPermaLink="false">F72zWIyX_yo</guid>
+      <pubDate>Tue, 08 Sep 2026 15:00:08 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Melih Gökçek Dosyası | İsmail Saymaz &amp; Can Özçelik &amp; Onur Alp Yılmaz | Ekrem Açıkel ile Hafta Başı</description>
     </item>
     <item>
       <title>Halk TV: Ayhan Aydın transferinin perde arkası! Özgür Çelik: ‘Ayhan Aydın’ı savcı tutuklamayla tehdit etti’</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">LVCKVGDcHZ8</guid>
       <pubDate>Tue, 08 Sep 2026 12:35:23 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Özgür Çelik ilk kez Üsküdar'da açıkladı! AKP'YE GEÇEN O İSİM TELEFONDA HÜNGÜR HÜNGÜR AĞLAMIŞ</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Özgür Çelik'ten Üsküdar Belediyesi önünde açıklama: ''Üsküdar bugünün hesabını soracak''</title>
-      <link>https://www.youtube.com/shorts/lHi6fhccPd4</link>
-      <guid isPermaLink="false">lHi6fhccPd4</guid>
-      <pubDate>Tue, 08 Sep 2026 12:33:38 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Özgür Çelik'ten Üsküdar Belediyesi önünde açıklama: ''Üsküdar bugünün hesabını soracak''</description>
-    </item>
-    <item>
-      <title>Halk TV: Enerji ve Tabii Kaynaklar Bakanı Bayraktar: Gabar'da petrol üretimi günlük 83-84 bin varile ulaştı</title>
-      <link>https://www.youtube.com/shorts/zqNTwC-05Y4</link>
-      <guid isPermaLink="false">zqNTwC-05Y4</guid>
-      <pubDate>Tue, 08 Sep 2026 12:32:45 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Enerji ve Tabii Kaynaklar Bakanı Bayraktar: Gabar'da petrol üretimi günlük 83-84 bin varile ulaştı</description>
     </item>
   </channel>
 </rss>
