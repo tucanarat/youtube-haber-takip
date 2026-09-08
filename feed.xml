@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 23:05:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 23:10:35 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: CHP'de İpler Koptu! Mansur Yavaş'tan Çarpıcı Hamle! Kılıçdaroğlu'ndan Olay İmamoğlu Çıkışı</title>
+      <link>https://www.youtube.com/watch?v=XCxnpZU0hno</link>
+      <guid isPermaLink="false">XCxnpZU0hno</guid>
+      <pubDate>Tue, 08 Sep 2026 23:00:30 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: CHP'de İpler Koptu! Mansur Yavaş'tan Çarpıcı Hamle! Kılıçdaroğlu'ndan Olay İmamoğlu Çıkışı</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Numan Kurtulmuş, Irak Temsilciler Meclisi Başkanı Heybet Halbusi ile toplantısı düzenliyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=Q8mHg-w4WZU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">GKE342DpMPE</guid>
       <pubDate>Tue, 08 Sep 2026 19:20:11 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Erol Mütercimler'den Siyaseti Sallayacak Ahmet Davutoğlu ve Ali Babacan Çıkışı! AKP'deki Gizli Plan</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Gençlik ve Spor Bakanı Osman Aşkın Bak, GSB Yurtları başvuru sonuçlarına ilişkin açıklama yapıyor</title>
-      <link>https://www.youtube.com/watch?v=vSi5Mk3P8xs</link>
-      <guid isPermaLink="false">vSi5Mk3P8xs</guid>
-      <pubDate>Tue, 08 Sep 2026 19:18:43 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Gençlik ve Spor Bakanı Osman Aşkın Bak, GSB Yurtları başvuru sonuçlarına ilişkin açıklama yapıyor</description>
     </item>
   </channel>
 </rss>
