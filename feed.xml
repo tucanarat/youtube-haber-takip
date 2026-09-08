@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 15:30:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 15:35:27 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Afşin Hatipoğlu'dan Tarihi Sözler! "Ekrem İmamoğlu'ndan Vampirin Haçtan Korktuğu Gibi Korkuyorlar!"</title>
+      <link>https://www.youtube.com/watch?v=plm3bjwe1lM</link>
+      <guid isPermaLink="false">plm3bjwe1lM</guid>
+      <pubDate>Tue, 08 Sep 2026 15:20:00 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Afşin Hatipoğlu'dan Tarihi Sözler! "Ekrem İmamoğlu'ndan Vampirin Haçtan Korktuğu Gibi Korkuyorlar!"</description>
+    </item>
     <item>
       <title>Halk TV: TÜRKİYE HALK TV'YE KİLİTLENDİ! Deniz Bayramoğlu ilk yayınında tüm kategorilerde zirveye oturdu!</title>
       <link>https://www.youtube.com/watch?v=IwEBQxA1Oxk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">kfI5-r8ryYI</guid>
       <pubDate>Tue, 08 Sep 2026 12:39:17 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Selahattin Demirtaş duyurmuştu: Selçuk Mızraklı tahliye edildi! İlk açıklama geldi</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: CHP Genel Başkanı Kemal Kılıçdaroğlu, "Cumhuriyet'in 103. Yılında İz Bırakan 103 Kadın" sergisinde</title>
-      <link>https://www.youtube.com/watch?v=Src2nNsGsYE</link>
-      <guid isPermaLink="false">Src2nNsGsYE</guid>
-      <pubDate>Tue, 08 Sep 2026 12:39:04 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkanı Kemal Kılıçdaroğlu, "Cumhuriyet'in 103. Yılında İz Bırakan 103 Kadın" sergisinde</description>
     </item>
   </channel>
 </rss>
