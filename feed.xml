@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 07:45:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 07:50:36 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Van’da ‘devlet kurumlarını aşağılama’ operasyonu: Van'lı Kara Haydar'a MASAK kıskacı!</title>
+      <link>https://www.youtube.com/shorts/XGh37lLcZxo</link>
+      <guid isPermaLink="false">XGh37lLcZxo</guid>
+      <pubDate>Tue, 08 Sep 2026 07:48:00 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Van’da ‘devlet kurumlarını aşağılama’ operasyonu: Van'lı Kara Haydar'a MASAK kıskacı!</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Adana Kozan’da alevlerle mücadele: 2 ayrı noktada çıkan orman yangını sürüyor</title>
+      <link>https://www.youtube.com/shorts/fru2z4d-eEw</link>
+      <guid isPermaLink="false">fru2z4d-eEw</guid>
+      <pubDate>Tue, 08 Sep 2026 07:45:54 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Adana Kozan’da alevlerle mücadele: 2 ayrı noktada çıkan orman yangını sürüyor</description>
+    </item>
+    <item>
+      <title>Halk TV: Üsküdar’da kritik gün! Başkan Vekili seçimi başladı</title>
+      <link>https://www.youtube.com/shorts/NH-qumcdtgI</link>
+      <guid isPermaLink="false">NH-qumcdtgI</guid>
+      <pubDate>Tue, 08 Sep 2026 07:42:01 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Üsküdar’da kritik gün! Başkan Vekili seçimi başladı</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Zafer Partisi Genel Başkanı Ümit Özdağ, Yol İş Sendikasını ziyaret etti / Ankara #Canlı</title>
       <link>https://www.youtube.com/watch?v=EWzlkJQ5a2k</link>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">FlwLU2cYbus</guid>
       <pubDate>Mon, 07 Sep 2026 22:00:23 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Kadirli’de alevler yükseldi! Osmaniye'de tarihi müze yakınında orman yangını!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Can Özçelik'ten Davutoğlu'na Olay Sözler! "Silivri'yi Siz Yaptınız! Özelleştirmeyi Siz Başlattınız!"</title>
-      <link>https://www.youtube.com/watch?v=bxy0qeo0GdE</link>
-      <guid isPermaLink="false">bxy0qeo0GdE</guid>
-      <pubDate>Mon, 07 Sep 2026 22:00:01 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Can Özçelik'ten Davutoğlu'na Olay Sözler! "Silivri'yi Siz Yaptınız! Özelleştirmeyi Siz Başlattınız!"</description>
-    </item>
-    <item>
-      <title>Halk TV: Kürşad Oğuz ile Rota (7 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=BtE0sxLPK5M</link>
-      <guid isPermaLink="false">BtE0sxLPK5M</guid>
-      <pubDate>Mon, 07 Sep 2026 21:56:49 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Kürşad Oğuz ile Rota (7 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: “DÖRT MECLİS ÜYESİNİ İSTANBUL DIŞINA ÇIKARDILAR!” Üsküdar’da seçim öncesi dikkat çeken iddia!</title>
-      <link>https://www.youtube.com/watch?v=2IAcyxRgwXY</link>
-      <guid isPermaLink="false">2IAcyxRgwXY</guid>
-      <pubDate>Mon, 07 Sep 2026 21:45:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: “DÖRT MECLİS ÜYESİNİ İSTANBUL DIŞINA ÇIKARDILAR!” Üsküdar’da seçim öncesi dikkat çeken iddia!</description>
     </item>
   </channel>
 </rss>
