@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 13:20:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 13:25:28 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Üsküdar Belediyesi AKP'ye Geçti Zeynel Emre Duruma İsyan Etti!</title>
+      <link>https://www.youtube.com/shorts/BzzoWzKniRg</link>
+      <guid isPermaLink="false">BzzoWzKniRg</guid>
+      <pubDate>Tue, 08 Sep 2026 13:23:40 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Üsküdar Belediyesi AKP'ye Geçti Zeynel Emre Duruma İsyan Etti!</description>
+    </item>
     <item>
       <title>Halk TV: AÇTI AĞZINI YUMDU GÖZÜNÜ! YENİ Partili Zeynel Emre, Üsküdar'da yapılan pazarlıkları tek tek anlattı!</title>
       <link>https://www.youtube.com/watch?v=PKeNeL2X_rU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">SNNIufku_54</guid>
       <pubDate>Tue, 08 Sep 2026 11:32:29 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: ÜSKÜDAR'DA YURTTAŞTAN SİYASİ KUMPASA ÇOK SERT TEPKİ! "HIRSIZLAR!"</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Üsküdar Belediyesi Başkanı başkan vekilliği seçimi yapılıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=iQGPemtW3QU</link>
-      <guid isPermaLink="false">iQGPemtW3QU</guid>
-      <pubDate>Tue, 08 Sep 2026 11:30:40 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Üsküdar Belediyesi Başkanı başkan vekilliği seçimi yapılıyor #Canlı</description>
     </item>
   </channel>
 </rss>
