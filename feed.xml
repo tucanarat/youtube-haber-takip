@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 03:50:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 03:55:24 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: #CANLI  Silivri’de 76. gün! Sanıklar savunmalarında ne dedi?</title>
+      <link>https://www.youtube.com/watch?v=QN-Yftyw8wo</link>
+      <guid isPermaLink="false">QN-Yftyw8wo</guid>
+      <pubDate>Tue, 08 Sep 2026 02:45:01 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI  Silivri’de 76. gün! Sanıklar savunmalarında ne dedi?</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Ahmet Davutoğlu, Cumhurbaşkanına hakaret suçlamasıyla Ankara Adliyesi'nde #Canlı</title>
       <link>https://www.youtube.com/watch?v=kOWQHNgCJT0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">154L3yUR8eE</guid>
       <pubDate>Mon, 07 Sep 2026 19:20:35 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Gökçekler Soruşturması Büyüyor! Çarpıcı Beyaz TV Gelişmesi! Soruşturmaların Perde Arkası</description>
-    </item>
-    <item>
-      <title>Halk TV: Ahmet Gökçek ve eşinin sorgusu 5 saat sürdü: Adliye çıkışında tarihe geçecek o görüntü ortaya çıktı!</title>
-      <link>https://www.youtube.com/watch?v=IXaEyLWA1E8</link>
-      <guid isPermaLink="false">IXaEyLWA1E8</guid>
-      <pubDate>Mon, 07 Sep 2026 19:15:14 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ahmet Gökçek ve eşinin sorgusu 5 saat sürdü: Adliye çıkışında tarihe geçecek o görüntü ortaya çıktı!</description>
     </item>
   </channel>
 </rss>
