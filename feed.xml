@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 11:45:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 11:51:08 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Başkan vekili seçimi sona erdi! Üsküdar Belediyesi artık AKP'de...</title>
+      <link>https://www.youtube.com/watch?v=BfYTBbJQDxI</link>
+      <guid isPermaLink="false">BfYTBbJQDxI</guid>
+      <pubDate>Tue, 08 Sep 2026 11:47:25 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Başkan vekili seçimi sona erdi! Üsküdar Belediyesi artık AKP'de...</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Üsküdar Belediyesi CHP'den AKP'ye geçti!</title>
+      <link>https://www.youtube.com/shorts/AXHdxGkB4GM</link>
+      <guid isPermaLink="false">AXHdxGkB4GM</guid>
+      <pubDate>Tue, 08 Sep 2026 11:46:00 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Üsküdar Belediyesi CHP'den AKP'ye geçti!</description>
+    </item>
     <item>
       <title>Cumhuriyet: Üsküdar Belediyesi önünde tansiyon yükseldi</title>
       <link>https://www.youtube.com/shorts/lHudSzeUDYk</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">n-6ZT53xD1c</guid>
       <pubDate>Tue, 08 Sep 2026 09:40:23 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Ispartalı pazarcı YENİ Partili Halıcı’ya dert yandı: “Domates 20 lira ama satamıyoruz"</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: İstanbul Sanayi Odası Yönetim Kurulu Başkanı Erdal Bahçıvan, basın toplantısı düzenliyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=_OKcXHAiljQ</link>
-      <guid isPermaLink="false">_OKcXHAiljQ</guid>
-      <pubDate>Tue, 08 Sep 2026 09:33:48 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: İstanbul Sanayi Odası Yönetim Kurulu Başkanı Erdal Bahçıvan, basın toplantısı düzenliyor #Canlı</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Numan Kurtulmuş, Irak Temsilciler Meclisi Başkanı Heybet Halbusi ile toplantısı düzenliyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=PaUWW4xBO7Q</link>
-      <guid isPermaLink="false">PaUWW4xBO7Q</guid>
-      <pubDate>Tue, 08 Sep 2026 09:31:58 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Numan Kurtulmuş, Irak Temsilciler Meclisi Başkanı Heybet Halbusi ile toplantısı düzenliyor #Canlı</description>
     </item>
   </channel>
 </rss>
