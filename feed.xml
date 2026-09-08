@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 23:30:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 23:35:26 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: İstanbul Sanayi Odası Yönetim Kurulu Başkanı Erdal Bahçıvan, basın toplantısı düzenliyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=_OKcXHAiljQ</link>
+      <guid isPermaLink="false">_OKcXHAiljQ</guid>
+      <pubDate>Tue, 08 Sep 2026 23:33:57 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: İstanbul Sanayi Odası Yönetim Kurulu Başkanı Erdal Bahçıvan, basın toplantısı düzenliyor #Canlı</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: İYİ Parti Genel Başkan Yardımcısı Burak Dalgın basın toplantısı düzenliyor</title>
       <link>https://www.youtube.com/watch?v=eHNOy4iO8UE</link>
       <guid isPermaLink="false">eHNOy4iO8UE</guid>
       <pubDate>Tue, 08 Sep 2026 23:24:33 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: İYİ Parti Genel Başkan Yardımcısı Burak Dalgın basın toplantısı düzenliyor</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Ukrayna İçin Kritik Toplantı! Trump ve Putin Zirvesinde Kritik Karar! ABD'den Rusya'ya Olay Teklif</title>
+      <link>https://www.youtube.com/watch?v=MsEdVw-dZdU</link>
+      <guid isPermaLink="false">MsEdVw-dZdU</guid>
+      <pubDate>Tue, 08 Sep 2026 23:20:29 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Ukrayna İçin Kritik Toplantı! Trump ve Putin Zirvesinde Kritik Karar! ABD'den Rusya'ya Olay Teklif</description>
     </item>
     <item>
       <title>SÖZCÜ TV: CHP'de İpler Koptu! Mansur Yavaş'tan Çarpıcı Hamle! Kılıçdaroğlu'ndan Olay İmamoğlu Çıkışı</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">M9ZGpr49uIs</guid>
       <pubDate>Tue, 08 Sep 2026 19:43:12 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Üsküdar Meclisi’nde duygu dolu anlar! Hazal Bayhan Koç gözyaşlarını tutamadı! #shorts</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İran'dan ABD'ye Hürmüz Boğazı'nda Ağır Darbe! Trump Çılgına Döndü! Ortadoğu'da Psikolojik Savaş</title>
-      <link>https://www.youtube.com/watch?v=V8YZ8ARyggE</link>
-      <guid isPermaLink="false">V8YZ8ARyggE</guid>
-      <pubDate>Tue, 08 Sep 2026 19:40:38 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İran'dan ABD'ye Hürmüz Boğazı'nda Ağır Darbe! Trump Çılgına Döndü! Ortadoğu'da Psikolojik Savaş</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Türkiye İran'a karşı ABD'nin yanında mı? Yılmaz Polat yorumladı...</title>
-      <link>https://www.youtube.com/watch?v=QgZZL2zHAk8</link>
-      <guid isPermaLink="false">QgZZL2zHAk8</guid>
-      <pubDate>Tue, 08 Sep 2026 19:30:28 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Türkiye İran'a karşı ABD'nin yanında mı? Yılmaz Polat yorumladı...</description>
     </item>
   </channel>
 </rss>
