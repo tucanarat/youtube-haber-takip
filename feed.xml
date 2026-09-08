@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 08:15:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 08:20:40 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Üsküdar Belediyesi Başkanı başkan vekilliği seçimi yapılıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=iQGPemtW3QU</link>
+      <guid isPermaLink="false">iQGPemtW3QU</guid>
+      <pubDate>Tue, 08 Sep 2026 08:18:29 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Üsküdar Belediyesi Başkanı başkan vekilliği seçimi yapılıyor #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: ŞOK GELİŞME! Tanju Özcan savunma yaptığı esnada fenalaşarak bayıldı! Hakime söyledikleri iç acıttı!</title>
       <link>https://www.youtube.com/watch?v=jPE-KHaO09U</link>
@@ -260,11 +267,11 @@
       <description>Cumhuriyet kanalından yeni video: #CANLI  Silivri’de 76. gün! Sanıklar savunmalarında ne dedi?</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | Üsküdar Belediyesi Başkanı Başkan Vekilliği Seçimi Yapılıyor!</title>
+      <title>Halk TV: Üsküdar Belediyesi Başkanı Başkan Vekilliği Seçimi Yapılıyor!</title>
       <link>https://www.youtube.com/watch?v=n_A1JRqa-RA</link>
       <guid isPermaLink="false">n_A1JRqa-RA</guid>
       <pubDate>Tue, 08 Sep 2026 06:14:19 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Üsküdar Belediyesi Başkanı Başkan Vekilliği Seçimi Yapılıyor!</description>
+      <description>Halk TV kanalından yeni video: Üsküdar Belediyesi Başkanı Başkan Vekilliği Seçimi Yapılıyor!</description>
     </item>
     <item>
       <title>Tele2 Haber: #CANLI Üsküdar Belediyesi Başkanı başkan vekilliği seçimi yapılıyor</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">R7gPhCXdX_A</guid>
       <pubDate>Mon, 07 Sep 2026 23:01:11 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Senem Toluay Ilgaz ile Öncesi Sonrası</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Serap Belovacıklı ile Haber Saati</title>
-      <link>https://www.youtube.com/watch?v=9FjLxOJfgAo</link>
-      <guid isPermaLink="false">9FjLxOJfgAo</guid>
-      <pubDate>Mon, 07 Sep 2026 23:00:33 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Serap Belovacıklı ile Haber Saati</description>
     </item>
   </channel>
 </rss>
