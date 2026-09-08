@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 07:00:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 07:05:27 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: #CANLI Üsküdar Belediyesi'nde kritik seçim... Sinem Dedetaş yerine başkanvekili seçiliyor...</title>
+      <link>https://www.youtube.com/watch?v=SPTfjEqbpik</link>
+      <guid isPermaLink="false">SPTfjEqbpik</guid>
+      <pubDate>Tue, 08 Sep 2026 07:04:39 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI Üsküdar Belediyesi'nde kritik seçim... Sinem Dedetaş yerine başkanvekili seçiliyor...</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Osman Gökçek AKP'li Vekili CHP'li Sanıp Yumrukladı! Erdoğan Sinirden Çılgına Döndü!</title>
+      <link>https://www.youtube.com/watch?v=6nTKDLRinhU</link>
+      <guid isPermaLink="false">6nTKDLRinhU</guid>
+      <pubDate>Tue, 08 Sep 2026 07:00:31 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Osman Gökçek AKP'li Vekili CHP'li Sanıp Yumrukladı! Erdoğan Sinirden Çılgına Döndü!</description>
+    </item>
     <item>
       <title>Halk TV: Deniz Bayramoğlu ile Gün Doğarken | #külolmasın (8 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=r3kvwvdluL0</link>
@@ -97,13 +111,6 @@
       <guid isPermaLink="false">QtKChudGPh8</guid>
       <pubDate>Tue, 08 Sep 2026 06:30:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İsmail Saymaz Cevapsız Soruları Anlatıyor | Melih Gökçek, Bülent Arınç, Otoyol ve Köprüler</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: #CANLI Üsküdar Belediyesi'nde kritik seçim... Sinem Dedetaş yerine başkanvekili seçiliyor...</title>
-      <link>https://www.youtube.com/watch?v=SPTfjEqbpik</link>
-      <guid isPermaLink="false">SPTfjEqbpik</guid>
-      <pubDate>Tue, 08 Sep 2026 06:15:08 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI Üsküdar Belediyesi'nde kritik seçim... Sinem Dedetaş yerine başkanvekili seçiliyor...</description>
     </item>
     <item>
       <title>Cumhuriyet: #CANLI  Silivri’de 76. gün! Sanıklar savunmalarında ne dedi?</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Opfw1NMmKbI</guid>
       <pubDate>Mon, 07 Sep 2026 21:16:20 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Silivri açıklarında batan gemide çalışmalar sürüyor! Bölgede arama kurtarma çalışmaları devam ediyor</description>
-    </item>
-    <item>
-      <title>Halk TV: Büyükçekmece'deki yangın mutfaktan çıktı, tüm katı sardı: Mahsur kalan 3 kişi nasıl çıkarıldı?</title>
-      <link>https://www.youtube.com/watch?v=N88SpKUyu8I</link>
-      <guid isPermaLink="false">N88SpKUyu8I</guid>
-      <pubDate>Mon, 07 Sep 2026 21:15:20 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Büyükçekmece'deki yangın mutfaktan çıktı, tüm katı sardı: Mahsur kalan 3 kişi nasıl çıkarıldı?</description>
     </item>
   </channel>
 </rss>
