@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 14:00:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 14:05:30 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: ALİYEV VE AZİZ YILDIRIM BİR ARADA! Dünya SALVO'yu Konuşuyor! DEARSAN'dan Korku Salan Gemi</title>
+      <link>https://www.youtube.com/watch?v=rOmcCuTr4eE</link>
+      <guid isPermaLink="false">rOmcCuTr4eE</guid>
+      <pubDate>Tue, 08 Sep 2026 14:00:34 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: ALİYEV VE AZİZ YILDIRIM BİR ARADA! Dünya SALVO'yu Konuşuyor! DEARSAN'dan Korku Salan Gemi</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Tahliye Edilen Selçuk Mızraklı, Sırrı Süreyya Önder'in Mezarını Ziyaret Ediyor</title>
+      <link>https://www.youtube.com/watch?v=mQqHxuGj3kI</link>
+      <guid isPermaLink="false">mQqHxuGj3kI</guid>
+      <pubDate>Tue, 08 Sep 2026 14:00:01 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Tahliye Edilen Selçuk Mızraklı, Sırrı Süreyya Önder'in Mezarını Ziyaret Ediyor</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Serap Belovacıklı ile Haber Saati 8 Eylül</title>
       <link>https://www.youtube.com/watch?v=9FjLxOJfgAo</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">EKSBmIEKIRM</guid>
       <pubDate>Tue, 08 Sep 2026 11:59:56 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Üsküdar Belediyesi Başkan Vekilliği seçimi sonrası belediye önünde son durum</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Özgür Çelik İsim İsim Açıkladı! Tarihi İfşa! "Engelli Çocuğumla Tehdit Edildim Teslim Oldum"</title>
-      <link>https://www.youtube.com/watch?v=6svvOLyxZzY</link>
-      <guid isPermaLink="false">6svvOLyxZzY</guid>
-      <pubDate>Tue, 08 Sep 2026 11:59:00 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Özgür Çelik İsim İsim Açıkladı! Tarihi İfşa! "Engelli Çocuğumla Tehdit Edildim Teslim Oldum"</description>
-    </item>
-    <item>
-      <title>Halk TV: GÖZYAŞLARINA BOĞULDU! Üsküdar AKP'ye geçti, vatandaş öfke kustu! Belediye önünde bir kadın fenalaştı</title>
-      <link>https://www.youtube.com/watch?v=LIkea2TVlcY</link>
-      <guid isPermaLink="false">LIkea2TVlcY</guid>
-      <pubDate>Tue, 08 Sep 2026 11:55:39 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: GÖZYAŞLARINA BOĞULDU! Üsküdar AKP'ye geçti, vatandaş öfke kustu! Belediye önünde bir kadın fenalaştı</description>
     </item>
   </channel>
 </rss>
