@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 07:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 08:00:54 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Mahkeme kararının ardından ilk adım: Üsküdar’da başkan vekilliği oylaması başladı</title>
+      <link>https://www.youtube.com/shorts/MUB6qhyEeSU</link>
+      <guid isPermaLink="false">MUB6qhyEeSU</guid>
+      <pubDate>Tue, 08 Sep 2026 07:56:51 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Mahkeme kararının ardından ilk adım: Üsküdar’da başkan vekilliği oylaması başladı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Barış Terkoğlu İsmail Küçükkaya'nın Sorularını Yanıtlıyor! Melih Gökçek, Mansur Yavaş</title>
+      <link>https://www.youtube.com/watch?v=A2SBjsu4kk0</link>
+      <guid isPermaLink="false">A2SBjsu4kk0</guid>
+      <pubDate>Tue, 08 Sep 2026 07:55:52 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Barış Terkoğlu İsmail Küçükkaya'nın Sorularını Yanıtlıyor! Melih Gökçek, Mansur Yavaş</description>
+    </item>
     <item>
       <title>Cumhuriyet: AKP’ye geçen Eren Ali Bingöl'e Tuzla Meclisi'nde sert tepki: 84 bin 94 seçmene özür borcunuz var</title>
       <link>https://www.youtube.com/watch?v=NqWR-1w883M</link>
@@ -125,13 +139,6 @@
       <guid isPermaLink="false">r3kvwvdluL0</guid>
       <pubDate>Tue, 08 Sep 2026 06:58:42 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Deniz Bayramoğlu ile Gün Doğarken | #külolmasın (8 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Barış Terkoğlu İsmail Küçükkaya'nın Sorularını Yanıtlıyor! Melih Gökçek, Mansur Yavaş</title>
-      <link>https://www.youtube.com/watch?v=A2SBjsu4kk0</link>
-      <guid isPermaLink="false">A2SBjsu4kk0</guid>
-      <pubDate>Tue, 08 Sep 2026 06:58:17 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Barış Terkoğlu İsmail Küçükkaya'nın Sorularını Yanıtlıyor! Melih Gökçek, Mansur Yavaş</description>
     </item>
     <item>
       <title>Tele2 Haber: Üsküdar Belediyesi önünde son durum. "Sinem Başkan, onurumuzdur!"</title>
@@ -316,11 +323,11 @@
       <description>SÖZCÜ TV kanalından yeni video: İktidarın Asgari Ücret Sınavı! Erdoğan'ın Gizli Seçim Planı! Mehmet Şimşek Köşeye Sıkıştı</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: Can Coşkun ile Gündem Masası</title>
+      <title>SÖZCÜ TV: #CANLI Can Coşkun ile Gündem Masası</title>
       <link>https://www.youtube.com/watch?v=ffkUtMgfrR8</link>
       <guid isPermaLink="false">ffkUtMgfrR8</guid>
       <pubDate>Mon, 07 Sep 2026 22:59:58 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Can Coşkun ile Gündem Masası</description>
+      <description>SÖZCÜ TV kanalından yeni video: #CANLI Can Coşkun ile Gündem Masası</description>
     </item>
     <item>
       <title>SÖZCÜ TV: İsmail Küçükkaya ile Günaydın Türkiyem | 8 Eylül</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">fjj54Z2fN7Q</guid>
       <pubDate>Mon, 07 Sep 2026 22:15:30 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Antalya’da orman yangını paniği! Alevler Döşemealtı’na dayandı! #shorts</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Pınar Erbaş ile Gecenin Sözü | 7 Eylül</title>
-      <link>https://www.youtube.com/watch?v=FUKT73iKskE</link>
-      <guid isPermaLink="false">FUKT73iKskE</guid>
-      <pubDate>Mon, 07 Sep 2026 22:03:14 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Pınar Erbaş ile Gecenin Sözü | 7 Eylül</description>
     </item>
   </channel>
 </rss>
