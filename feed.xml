@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 23:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 23:25:27 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: İYİ Parti Genel Başkan Yardımcısı Burak Dalgın basın toplantısı düzenliyor</title>
+      <link>https://www.youtube.com/watch?v=eHNOy4iO8UE</link>
+      <guid isPermaLink="false">eHNOy4iO8UE</guid>
+      <pubDate>Tue, 08 Sep 2026 23:24:33 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: İYİ Parti Genel Başkan Yardımcısı Burak Dalgın basın toplantısı düzenliyor</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: CHP'de İpler Koptu! Mansur Yavaş'tan Çarpıcı Hamle! Kılıçdaroğlu'ndan Olay İmamoğlu Çıkışı</title>
       <link>https://www.youtube.com/watch?v=XCxnpZU0hno</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">QgZZL2zHAk8</guid>
       <pubDate>Tue, 08 Sep 2026 19:30:28 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Türkiye İran'a karşı ABD'nin yanında mı? Yılmaz Polat yorumladı...</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Erol Mütercimler'den Siyaseti Sallayacak Ahmet Davutoğlu ve Ali Babacan Çıkışı! AKP'deki Gizli Plan</title>
-      <link>https://www.youtube.com/watch?v=GKE342DpMPE</link>
-      <guid isPermaLink="false">GKE342DpMPE</guid>
-      <pubDate>Tue, 08 Sep 2026 19:20:11 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Erol Mütercimler'den Siyaseti Sallayacak Ahmet Davutoğlu ve Ali Babacan Çıkışı! AKP'deki Gizli Plan</description>
     </item>
   </channel>
 </rss>
