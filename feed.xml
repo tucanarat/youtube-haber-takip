@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 13:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 13:45:36 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: REZİL RÜSVA ETTİ! Dilek İmamoğlu'ndan Kılıçdaroğlu'na zehir zemberek 'siyasi rehine' sözleri!</title>
+      <link>https://www.youtube.com/watch?v=zC86qj709Mo</link>
+      <guid isPermaLink="false">zC86qj709Mo</guid>
+      <pubDate>Tue, 08 Sep 2026 13:35:09 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: REZİL RÜSVA ETTİ! Dilek İmamoğlu'ndan Kılıçdaroğlu'na zehir zemberek 'siyasi rehine' sözleri!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Ertan Özyiğit Uyarıyor! Geleceğin Savaşı Başlıyor: Çin ve ABD'nin Gizli Silahı Robotlar</title>
       <link>https://www.youtube.com/watch?v=T5azDrfsjrY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Bz4cZqx-EyU</guid>
       <pubDate>Tue, 08 Sep 2026 11:43:25 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Üsküdar AKP'ye geçti... Belediye meclis üyesi gözyaşlarını tutamadı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Üsküdar Belediyesi AKP'ye geçti. Halk belediye binası önünde tepki gösterdi</title>
-      <link>https://www.youtube.com/shorts/lMKca1JIWas</link>
-      <guid isPermaLink="false">lMKca1JIWas</guid>
-      <pubDate>Tue, 08 Sep 2026 11:41:19 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Üsküdar Belediyesi AKP'ye geçti. Halk belediye binası önünde tepki gösterdi</description>
     </item>
   </channel>
 </rss>
