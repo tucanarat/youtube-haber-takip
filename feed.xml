@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 21:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 21:25:28 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Ortadoğu'da Savaş Yeniden! Erol Mütercimler'den Olay Analiz! ABD'den İran'ın Kalbine Yeni Saldırı</title>
+      <link>https://www.youtube.com/watch?v=3rz1aFf1msA</link>
+      <guid isPermaLink="false">3rz1aFf1msA</guid>
+      <pubDate>Tue, 08 Sep 2026 21:20:17 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Ortadoğu'da Savaş Yeniden! Erol Mütercimler'den Olay Analiz! ABD'den İran'ın Kalbine Yeni Saldırı</description>
+    </item>
     <item>
       <title>Halk TV: UĞUR DÜNDAR: İBB DAVASI SİYASİ DEĞİLSE AYKUT ERDOĞDU NİÇİN YATARINDAN FAZLA SÜREYİ ZİNDANDA GEÇİRDİ?</title>
       <link>https://www.youtube.com/watch?v=m3sZKNAw0aY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">sNrBR82zqVU</guid>
       <pubDate>Tue, 08 Sep 2026 17:40:35 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İSTANBUL HARİTASI TEPEDEN TIRNAĞA DEĞİŞTİ! AKP'nin Seçim Oyununu Özlem Gürses Anlattı</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! Antalya-Isparta yolu çift yönlü trafiğe kapatıldı! #shorts</title>
-      <link>https://www.youtube.com/shorts/-oHadZ6f_vw</link>
-      <guid isPermaLink="false">-oHadZ6f_vw</guid>
-      <pubDate>Tue, 08 Sep 2026 17:38:16 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! Antalya-Isparta yolu çift yönlü trafiğe kapatıldı! #shorts</description>
     </item>
   </channel>
 </rss>
