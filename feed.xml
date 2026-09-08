@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 19:35:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 19:40:33 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Türkiye İran'a karşı ABD'nin yanında mı? Yılmaz Polat yorumladı...</title>
+      <link>https://www.youtube.com/watch?v=QgZZL2zHAk8</link>
+      <guid isPermaLink="false">QgZZL2zHAk8</guid>
+      <pubDate>Tue, 08 Sep 2026 19:30:28 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Türkiye İran'a karşı ABD'nin yanında mı? Yılmaz Polat yorumladı...</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Erol Mütercimler'den Siyaseti Sallayacak Ahmet Davutoğlu ve Ali Babacan Çıkışı! AKP'deki Gizli Plan</title>
       <link>https://www.youtube.com/watch?v=GKE342DpMPE</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">4GKKMKiujNE</guid>
       <pubDate>Tue, 08 Sep 2026 15:31:29 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: İBB Davası'nda duruşma saatleri avukatları ve sanıkları yordu</description>
-    </item>
-    <item>
-      <title>Halk TV: 3 yaşındaki Elif Mavi'nin ölümüne neden olan Fatoş Akıl Bilgesoy'dan dikkat çeken savunma!</title>
-      <link>https://www.youtube.com/watch?v=ITqrJU3UCZA</link>
-      <guid isPermaLink="false">ITqrJU3UCZA</guid>
-      <pubDate>Tue, 08 Sep 2026 15:30:09 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: 3 yaşındaki Elif Mavi'nin ölümüne neden olan Fatoş Akıl Bilgesoy'dan dikkat çeken savunma!</description>
     </item>
   </channel>
 </rss>
