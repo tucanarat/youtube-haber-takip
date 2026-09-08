@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 22:45:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 22:50:34 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: İRAN'DAN ABD'YE ŞOK MİSİLLEME! Ortadoğu Cehenneme Dönecek! Trump Çok Öfkelenecek</title>
+      <link>https://www.youtube.com/watch?v=AUJs_2LQBlY</link>
+      <guid isPermaLink="false">AUJs_2LQBlY</guid>
+      <pubDate>Tue, 08 Sep 2026 22:40:37 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İRAN'DAN ABD'YE ŞOK MİSİLLEME! Ortadoğu Cehenneme Dönecek! Trump Çok Öfkelenecek</description>
+    </item>
     <item>
       <title>Halk TV: ACI VEREN GÖRÜNTÜLER! Antalya'da ormanlık alandaki yangına müdahale sürüyor!</title>
       <link>https://www.youtube.com/watch?v=6BDvGvmc1tE</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">evY3D4XJ6f8</guid>
       <pubDate>Tue, 08 Sep 2026 19:13:46 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | Tahliye edilen Adnan Selçuk Mızraklı, Diyarbakır Havalimanında karşılanıyor!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Tahliye edilen Adnan Selçuk Mızraklı, Diyarbakır Havalimanında karşılanıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=AxcCPwi2vBY</link>
-      <guid isPermaLink="false">AxcCPwi2vBY</guid>
-      <pubDate>Tue, 08 Sep 2026 19:12:29 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Tahliye edilen Adnan Selçuk Mızraklı, Diyarbakır Havalimanında karşılanıyor #Canlı</description>
     </item>
   </channel>
 </rss>
