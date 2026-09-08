@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 17:00:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 17:05:28 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (08 Eylül 2026)</title>
+      <link>https://www.youtube.com/watch?v=NpSmgligraU</link>
+      <guid isPermaLink="false">NpSmgligraU</guid>
+      <pubDate>Tue, 08 Sep 2026 17:00:37 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (08 Eylül 2026)</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Kılıçdaroğlu'ndan İmamoğlu Çıkışı! Dilek İmamoğlu Çok Sert Yanıt Verdi: "Allah'a Havale Ediyorum"</title>
+      <link>https://www.youtube.com/watch?v=JHvJImwAhnM</link>
+      <guid isPermaLink="false">JHvJImwAhnM</guid>
+      <pubDate>Tue, 08 Sep 2026 17:00:32 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Kılıçdaroğlu'ndan İmamoğlu Çıkışı! Dilek İmamoğlu Çok Sert Yanıt Verdi: "Allah'a Havale Ediyorum"</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: “81 İLİ ALSIN, BUNLARI KESMEZ Kİ!” Üsküdar Belediye'si AKP'ye geçti! Taylan yaşananları yorumladı...</title>
+      <link>https://www.youtube.com/watch?v=yDCvwDnuFVw</link>
+      <guid isPermaLink="false">yDCvwDnuFVw</guid>
+      <pubDate>Tue, 08 Sep 2026 17:00:10 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: “81 İLİ ALSIN, BUNLARI KESMEZ Kİ!” Üsküdar Belediye'si AKP'ye geçti! Taylan yaşananları yorumladı...</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI Murat Taylan ile Haber-Yorum (08.09.2026)</title>
       <link>https://www.youtube.com/watch?v=1-AXAUMgXQk</link>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">T5azDrfsjrY</guid>
       <pubDate>Tue, 08 Sep 2026 13:30:11 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Ertan Özyiğit Uyarıyor! Geleceğin Savaşı Başlıyor: Çin ve ABD'nin Gizli Silahı Robotlar</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Yurttaşa sorduk: "Otoyol ve köprülerin özelleştirilmesi hakkında ne düşünüyorsunuz?"</title>
-      <link>https://www.youtube.com/watch?v=XNslJ1osCAw</link>
-      <guid isPermaLink="false">XNslJ1osCAw</guid>
-      <pubDate>Tue, 08 Sep 2026 13:27:08 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Yurttaşa sorduk: "Otoyol ve köprülerin özelleştirilmesi hakkında ne düşünüyorsunuz?"</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Üsküdar Belediyesi AKP'ye Geçti Zeynel Emre Duruma İsyan Etti!</title>
-      <link>https://www.youtube.com/shorts/BzzoWzKniRg</link>
-      <guid isPermaLink="false">BzzoWzKniRg</guid>
-      <pubDate>Tue, 08 Sep 2026 13:23:40 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Üsküdar Belediyesi AKP'ye Geçti Zeynel Emre Duruma İsyan Etti!</description>
-    </item>
-    <item>
-      <title>Halk TV: AÇTI AĞZINI YUMDU GÖZÜNÜ! YENİ Partili Zeynel Emre, Üsküdar'da yapılan pazarlıkları tek tek anlattı!</title>
-      <link>https://www.youtube.com/watch?v=PKeNeL2X_rU</link>
-      <guid isPermaLink="false">PKeNeL2X_rU</guid>
-      <pubDate>Tue, 08 Sep 2026 13:20:00 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: AÇTI AĞZINI YUMDU GÖZÜNÜ! YENİ Partili Zeynel Emre, Üsküdar'da yapılan pazarlıkları tek tek anlattı!</description>
     </item>
   </channel>
 </rss>
