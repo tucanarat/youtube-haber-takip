@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 10:40:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 10:45:36 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: Üsküdar Belediye Başkanvekilliği Seçimi Yapılıyor | CHP - Yeni Parti İş Birliği</title>
       <link>https://www.youtube.com/watch?v=AFnCljgWFA8</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">urp38jkS-8I</guid>
       <pubDate>Tue, 08 Sep 2026 10:36:37 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Oyuncu Serhat Kılıç için Ahmet Hamdi Akseki Camisinde cenaze töreni düzenleniyor</description>
+    </item>
+    <item>
+      <title>Halk TV: BİR GÜN ÖNCE DOĞUM GÜNÜ VARDI! 3 yaşındaki Elif Mavi'nin ölümüne neden olan sürücü tutuklandı!</title>
+      <link>https://www.youtube.com/watch?v=FIgZQalP4Gw</link>
+      <guid isPermaLink="false">FIgZQalP4Gw</guid>
+      <pubDate>Tue, 08 Sep 2026 10:30:30 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BİR GÜN ÖNCE DOĞUM GÜNÜ VARDI! 3 yaşındaki Elif Mavi'nin ölümüne neden olan sürücü tutuklandı!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: İsmail Küçükkaya Ahmet Davutoğlu Gerçeğini İlk Kez Açıkladı! "CUMHURİYET TARİHİNDE BİR İLK!"</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">jPE-KHaO09U</guid>
       <pubDate>Tue, 08 Sep 2026 08:05:30 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ŞOK GELİŞME! Tanju Özcan savunma yaptığı esnada fenalaşarak bayıldı! Hakime söyledikleri iç acıttı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İsmail Küçükkaya ile Günaydın Türkiyem | 8 Eylül</title>
-      <link>https://www.youtube.com/watch?v=6ouswuUlNc8</link>
-      <guid isPermaLink="false">6ouswuUlNc8</guid>
-      <pubDate>Tue, 08 Sep 2026 08:03:53 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya ile Günaydın Türkiyem | 8 Eylül</description>
     </item>
   </channel>
 </rss>
