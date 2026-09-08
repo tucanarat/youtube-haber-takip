@@ -6,20 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 12:10:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 12:15:37 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: #CANLI  Üsküdar Belediyesi Başkan Vekilliği seçimi sonrası belediye önünde son durum</title>
       <link>https://www.youtube.com/watch?v=X5LQ9qdjqbo</link>
       <guid isPermaLink="false">X5LQ9qdjqbo</guid>
-      <pubDate>Tue, 08 Sep 2026 12:07:48 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 12:14:38 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI  Üsküdar Belediyesi Başkan Vekilliği seçimi sonrası belediye önünde son durum</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | CHP Sözcüsü Müslüm Sarı, CHP Üsküdar İlçe Başkanlığı'nda Açıklama Yapıyor</title>
+      <title>Halk TV: ÖZGÜR ÇELİK ATEŞ PÜSKÜRDÜ! Üsküdar'daki seçim sonucuna demediğini bırakmadı! Tarihe geçecek sözler!</title>
+      <link>https://www.youtube.com/watch?v=MOCsaBqmBIs</link>
+      <guid isPermaLink="false">MOCsaBqmBIs</guid>
+      <pubDate>Tue, 08 Sep 2026 12:12:07 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ÖZGÜR ÇELİK ATEŞ PÜSKÜRDÜ! Üsküdar'daki seçim sonucuna demediğini bırakmadı! Tarihe geçecek sözler!</description>
+    </item>
+    <item>
+      <title>Halk TV: CHP Sözcüsü Müslüm Sarı, CHP Üsküdar İlçe Başkanlığı'nda Açıklama Yaptı (8 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=GwWFgrWg_eM</link>
       <guid isPermaLink="false">GwWFgrWg_eM</guid>
       <pubDate>Tue, 08 Sep 2026 12:02:57 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | CHP Sözcüsü Müslüm Sarı, CHP Üsküdar İlçe Başkanlığı'nda Açıklama Yapıyor</description>
+      <description>Halk TV kanalından yeni video: CHP Sözcüsü Müslüm Sarı, CHP Üsküdar İlçe Başkanlığı'nda Açıklama Yaptı (8 Eylül 2026)</description>
     </item>
     <item>
       <title>Tele2 Haber: #CANLI YENİ Parti Sözcüsü Zeynel Emre,  Parti Genel Merkezi’nde açıklama yapıyor</title>
@@ -50,11 +57,11 @@
       <description>Tele2 Haber kanalından yeni video: #CANLI Üsküdar Belediyesi Başkan Vekilliği seçimi sonrası belediye önünde son durum</description>
     </item>
     <item>
-      <title>ANKA Haber Ajansı: CHP Sözcüsü Müslüm Sarı, CHP Üsküdar İlçe Başkanlığı'nda açıklama yapıyor #Canlı</title>
+      <title>ANKA Haber Ajansı: CHP Sözcüsü Müslim Sarı, CHP Üsküdar İlçe Başkanlığı'nda açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=o3soiDybcMQ</link>
       <guid isPermaLink="false">o3soiDybcMQ</guid>
       <pubDate>Tue, 08 Sep 2026 11:59:12 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP Sözcüsü Müslüm Sarı, CHP Üsküdar İlçe Başkanlığı'nda açıklama yapıyor #Canlı</description>
+      <description>ANKA Haber Ajansı kanalından yeni video: CHP Sözcüsü Müslim Sarı, CHP Üsküdar İlçe Başkanlığı'nda açıklama yapıyor #Canlı</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Özgür Çelik İsim İsim Açıkladı! Tarihi İfşa! "Engelli Çocuğumla Tehdit Edildim Teslim Oldum"</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Kz-vSdPL81M</guid>
       <pubDate>Tue, 08 Sep 2026 10:10:35 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ŞOK SÖZLER! İBB davasında o isim, cezaevinden çıkmak için milyon dolarını nasıl kaybettiğini anlattı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Kılıçdaroğlu'ndan Şoke Eden İmamoğlu Çıkışı! İsmail Küçükkaya ve Barış Terkoğlu'ndan Sert Analiz</title>
-      <link>https://www.youtube.com/watch?v=GTTQHNnfWGw</link>
-      <guid isPermaLink="false">GTTQHNnfWGw</guid>
-      <pubDate>Tue, 08 Sep 2026 10:00:28 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Kılıçdaroğlu'ndan Şoke Eden İmamoğlu Çıkışı! İsmail Küçükkaya ve Barış Terkoğlu'ndan Sert Analiz</description>
     </item>
   </channel>
 </rss>
