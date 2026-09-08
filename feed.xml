@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 16:00:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 16:05:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: İlker Çakıroğlu cinayetinde karar çıktı: Fuat Çakır'ın liderliğindeki çete dosyasında sürpriz isim!</title>
+      <link>https://www.youtube.com/watch?v=-3BJ116orIw</link>
+      <guid isPermaLink="false">-3BJ116orIw</guid>
+      <pubDate>Tue, 08 Sep 2026 16:00:16 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İlker Çakıroğlu cinayetinde karar çıktı: Fuat Çakır'ın liderliğindeki çete dosyasında sürpriz isim!</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Sinem Fıstıkoğlu ile Sansürsüz</title>
       <link>https://www.youtube.com/watch?v=pm-jeBG8Kxw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">7o0qZxVoSUI</guid>
       <pubDate>Tue, 08 Sep 2026 12:55:41 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Tahliye edilen Selçuk Mızraklı, Sırrı Süreyya Önder'in mezarını ziyaret ediyor #Canlı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Son Dakika! Üsküdar Belediyesi AKP'ye geçti! I Gökçek’in oğlu “işsiz” mi? | Manşet Ötesi</title>
-      <link>https://www.youtube.com/watch?v=oXQfY4qzmAE</link>
-      <guid isPermaLink="false">oXQfY4qzmAE</guid>
-      <pubDate>Tue, 08 Sep 2026 12:55:31 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Son Dakika! Üsküdar Belediyesi AKP'ye geçti! I Gökçek’in oğlu “işsiz” mi? | Manşet Ötesi</description>
     </item>
   </channel>
 </rss>
