@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 17:40:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 17:45:36 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SON DAKİKA! "Tutuklamayla tehdit edildim, eşim ve çocuğum engelli" sözleri üzerine soruşturma!</title>
+      <link>https://www.youtube.com/watch?v=OZEcIYsY0xo</link>
+      <guid isPermaLink="false">OZEcIYsY0xo</guid>
+      <pubDate>Tue, 08 Sep 2026 17:42:32 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! "Tutuklamayla tehdit edildim, eşim ve çocuğum engelli" sözleri üzerine soruşturma!</description>
+    </item>
+    <item>
+      <title>Halk TV: SON DAKİKA! Antalya-Isparta yolu çift yönlü trafiğe kapatıldı! #shorts</title>
+      <link>https://www.youtube.com/shorts/-oHadZ6f_vw</link>
+      <guid isPermaLink="false">-oHadZ6f_vw</guid>
+      <pubDate>Tue, 08 Sep 2026 17:38:16 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! Antalya-Isparta yolu çift yönlü trafiğe kapatıldı! #shorts</description>
+    </item>
     <item>
       <title>Halk TV: GÖZYAŞLARINI TUTAMADI! Üsküdar'daki seçiminin ardından o üyenin gözyaşları kameralara böyle yansıdı!</title>
       <link>https://www.youtube.com/watch?v=jvKskvmiH1A</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">1PXCyEu5OG8</guid>
       <pubDate>Tue, 08 Sep 2026 14:00:01 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: MELİH GÖKÇEK'İN OĞLUNUN SOMUT İŞİ YOKMUŞ! Melih Gökçek'in ifadesinde kritik Ahmet Gökçek sözleri...</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Serap Belovacıklı ile Haber Saati 8 Eylül</title>
-      <link>https://www.youtube.com/watch?v=9FjLxOJfgAo</link>
-      <guid isPermaLink="false">9FjLxOJfgAo</guid>
-      <pubDate>Tue, 08 Sep 2026 13:58:32 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Serap Belovacıklı ile Haber Saati 8 Eylül</description>
-    </item>
-    <item>
-      <title>Halk TV: Ankara bu olayı konuşuyor: Holding patronu da dev lastik firmasının sahibi de tutuklandı!</title>
-      <link>https://www.youtube.com/watch?v=tWIpvqs_kJc</link>
-      <guid isPermaLink="false">tWIpvqs_kJc</guid>
-      <pubDate>Tue, 08 Sep 2026 13:50:26 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ankara bu olayı konuşuyor: Holding patronu da dev lastik firmasının sahibi de tutuklandı!</description>
     </item>
   </channel>
 </rss>
