@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 22:15:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 22:20:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: KOZAN'DA KRİTİK SAATLER! 2 ayrı noktadaki yangın nedeniyle yerleşim yerleri boşaltıldı!</title>
+      <link>https://www.youtube.com/watch?v=Mti1cZoKvk0</link>
+      <guid isPermaLink="false">Mti1cZoKvk0</guid>
+      <pubDate>Tue, 08 Sep 2026 22:15:36 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KOZAN'DA KRİTİK SAATLER! 2 ayrı noktadaki yangın nedeniyle yerleşim yerleri boşaltıldı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Pınar Erbaş ile Gecenin Sözü | 8 Eylül</title>
       <link>https://www.youtube.com/watch?v=W5rkmWV74Yg</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">6MZ5Roc_cdQ</guid>
       <pubDate>Tue, 08 Sep 2026 19:00:10 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: FBI'ın 'EN ÇOK ARANAN DOLANDIRICILAR' listesinde bir Türk! Yılmaz Polat aktardı...</description>
-    </item>
-    <item>
-      <title>Halk TV: "Siyahla beyaz gibi farklı bir anlayışın iradesi altındayız." Cumhurbaşkanı ile o anısını anlattı!</title>
-      <link>https://www.youtube.com/watch?v=JvJOrUCk8j8</link>
-      <guid isPermaLink="false">JvJOrUCk8j8</guid>
-      <pubDate>Tue, 08 Sep 2026 18:50:03 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: "Siyahla beyaz gibi farklı bir anlayışın iradesi altındayız." Cumhurbaşkanı ile o anısını anlattı!</description>
     </item>
   </channel>
 </rss>
