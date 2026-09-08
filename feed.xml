@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 08:10:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 08:15:36 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ŞOK GELİŞME! Tanju Özcan savunma yaptığı esnada fenalaşarak bayıldı! Hakime söyledikleri iç acıttı!</title>
+      <link>https://www.youtube.com/watch?v=jPE-KHaO09U</link>
+      <guid isPermaLink="false">jPE-KHaO09U</guid>
+      <pubDate>Tue, 08 Sep 2026 08:05:30 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ŞOK GELİŞME! Tanju Özcan savunma yaptığı esnada fenalaşarak bayıldı! Hakime söyledikleri iç acıttı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İsmail Küçükkaya ile Günaydın Türkiyem | 8 Eylül</title>
       <link>https://www.youtube.com/watch?v=6ouswuUlNc8</link>
@@ -20,6 +27,13 @@
       <guid isPermaLink="false">_9V6N9N9kts</guid>
       <pubDate>Tue, 08 Sep 2026 08:00:30 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Mansur Yavaş Ortak Aday mı?  Kılıçdaroğlu Özgür Özel İttifakı! Barış Terkoğlu'ndan Bomba İddia</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Holding Patronu Tutuklandı: 'Ela Rümeysa Cebeci Mektubu’ ise Ortalığı Karıştırdı!</title>
+      <link>https://www.youtube.com/watch?v=02m7AGOT4uI</link>
+      <guid isPermaLink="false">02m7AGOT4uI</guid>
+      <pubDate>Tue, 08 Sep 2026 08:00:29 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Holding Patronu Tutuklandı: 'Ela Rümeysa Cebeci Mektubu’ ise Ortalığı Karıştırdı!</description>
     </item>
     <item>
       <title>Cumhuriyet: Mahkeme kararının ardından ilk adım: Üsküdar’da başkan vekilliği oylaması başladı</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">9FjLxOJfgAo</guid>
       <pubDate>Mon, 07 Sep 2026 23:00:33 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Serap Belovacıklı ile Haber Saati</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İktidarın Asgari Ücret Sınavı! Erdoğan'ın Gizli Seçim Planı! Mehmet Şimşek Köşeye Sıkıştı</title>
-      <link>https://www.youtube.com/watch?v=RCyzGL1I4_4</link>
-      <guid isPermaLink="false">RCyzGL1I4_4</guid>
-      <pubDate>Mon, 07 Sep 2026 23:00:28 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İktidarın Asgari Ücret Sınavı! Erdoğan'ın Gizli Seçim Planı! Mehmet Şimşek Köşeye Sıkıştı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: #CANLI Can Coşkun ile Gündem Masası</title>
-      <link>https://www.youtube.com/watch?v=ffkUtMgfrR8</link>
-      <guid isPermaLink="false">ffkUtMgfrR8</guid>
-      <pubDate>Mon, 07 Sep 2026 22:59:58 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: #CANLI Can Coşkun ile Gündem Masası</description>
     </item>
   </channel>
 </rss>
