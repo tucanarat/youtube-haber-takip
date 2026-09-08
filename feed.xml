@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 21:10:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 21:15:34 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Selçuk Mızraklı Diyarbakır’da çiçeklerle karşılandı!</title>
+      <link>https://www.youtube.com/watch?v=AeQ-37_Tncs</link>
+      <guid isPermaLink="false">AeQ-37_Tncs</guid>
+      <pubDate>Tue, 08 Sep 2026 21:13:01 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Selçuk Mızraklı Diyarbakır’da çiçeklerle karşılandı!</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI Murat Taylan ile Haber-Yorum (09.09.2026)</title>
       <link>https://www.youtube.com/watch?v=QyFyINl1W9A</link>
@@ -34,6 +41,13 @@
       <guid isPermaLink="false">yHMdDQWRSck</guid>
       <pubDate>Tue, 08 Sep 2026 21:00:19 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: SİYASETTE DEPREM! Nevzat Çiçek'ten Çarpıcı Üsküdar Analizi! Türkiye Ayağa Kalkacak!</description>
+    </item>
+    <item>
+      <title>Halk TV: 30 saattir söndürülemiyor! Antalya Aksu’da yangın yeniden alevlendi! #shorts</title>
+      <link>https://www.youtube.com/shorts/n4GgI8xs700</link>
+      <guid isPermaLink="false">n4GgI8xs700</guid>
+      <pubDate>Tue, 08 Sep 2026 20:58:33 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: 30 saattir söndürülemiyor! Antalya Aksu’da yangın yeniden alevlendi! #shorts</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | Antalya’nın Aksu ilçesindeki orman yangınına ekiplerin müdahalesi sürüyor!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">jvKskvmiH1A</guid>
       <pubDate>Tue, 08 Sep 2026 17:30:10 +0000</pubDate>
       <description>Halk TV kanalından yeni video: GÖZYAŞLARINI TUTAMADI! Üsküdar'daki seçiminin ardından o üyenin gözyaşları kameralara böyle yansıdı!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: “BU HUKUKSUZLUKTA SİZE BAŞARILAR!” Taylan'dan Kılıçdaroğlu'nun İmamoğlu sözleri için kritik soru!</title>
-      <link>https://www.youtube.com/watch?v=QeQQoJhPqew</link>
-      <guid isPermaLink="false">QeQQoJhPqew</guid>
-      <pubDate>Tue, 08 Sep 2026 17:30:08 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: “BU HUKUKSUZLUKTA SİZE BAŞARILAR!” Taylan'dan Kılıçdaroğlu'nun İmamoğlu sözleri için kritik soru!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: 'Bir Özür Borcu Var!' Erol Mütercimler Özgür Özel'e Seslendi! Üsküdar'daki Seçimlere Esti Gürledi</title>
-      <link>https://www.youtube.com/watch?v=Q-ALK92qh0U</link>
-      <guid isPermaLink="false">Q-ALK92qh0U</guid>
-      <pubDate>Tue, 08 Sep 2026 17:22:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: 'Bir Özür Borcu Var!' Erol Mütercimler Özgür Özel'e Seslendi! Üsküdar'daki Seçimlere Esti Gürledi</description>
     </item>
   </channel>
 </rss>
