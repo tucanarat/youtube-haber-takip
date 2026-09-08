@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 09:40:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 09:45:36 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SONUÇ BİRAZDAN BELLİ OLACAK! Üsküdar'daki başkan vekili seçiminde kritik aşamaya geçildi! Son durum!</title>
+      <link>https://www.youtube.com/watch?v=JgzGM8lD-Kk</link>
+      <guid isPermaLink="false">JgzGM8lD-Kk</guid>
+      <pubDate>Tue, 08 Sep 2026 09:30:34 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SONUÇ BİRAZDAN BELLİ OLACAK! Üsküdar'daki başkan vekili seçiminde kritik aşamaya geçildi! Son durum!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Melih Gökçek'in İfadesinde Ne Var ? OLAY OLACAK! | İsmail Saymaz Dosyanın Derinlerine İndi</title>
+      <link>https://www.youtube.com/watch?v=hLMuaAADoiA</link>
+      <guid isPermaLink="false">hLMuaAADoiA</guid>
+      <pubDate>Tue, 08 Sep 2026 09:30:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Melih Gökçek'in İfadesinde Ne Var ? OLAY OLACAK! | İsmail Saymaz Dosyanın Derinlerine İndi</description>
+    </item>
     <item>
       <title>Halk TV: 'Butlan' kararıyla CHP'nin başına gelen Kılıçdaroğlu'ndan ortalığı altüst edecek 'İmamoğlu' çıkışı!</title>
       <link>https://www.youtube.com/watch?v=UKfXIriIbSU</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">r3kvwvdluL0</guid>
       <pubDate>Tue, 08 Sep 2026 06:58:42 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Deniz Bayramoğlu ile Gün Doğarken | #külolmasın (8 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Üsküdar Belediyesi önünde son durum. "Sinem Başkan, onurumuzdur!"</title>
-      <link>https://www.youtube.com/shorts/OykWSutBSCU</link>
-      <guid isPermaLink="false">OykWSutBSCU</guid>
-      <pubDate>Tue, 08 Sep 2026 06:57:01 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Üsküdar Belediyesi önünde son durum. "Sinem Başkan, onurumuzdur!"</description>
-    </item>
-    <item>
-      <title>Halk TV: 'Vanlı Kara Haydar' gözaltına alındı! Kilolarca altın takıp polise gövde gösterisi yapmıştı</title>
-      <link>https://www.youtube.com/shorts/JT98JWVbcDc</link>
-      <guid isPermaLink="false">JT98JWVbcDc</guid>
-      <pubDate>Tue, 08 Sep 2026 06:55:41 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: 'Vanlı Kara Haydar' gözaltına alındı! Kilolarca altın takıp polise gövde gösterisi yapmıştı</description>
     </item>
   </channel>
 </rss>
