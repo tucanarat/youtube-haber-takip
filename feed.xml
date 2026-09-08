@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 20:30:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 20:35:23 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: #CANLI Üsküdar Belediyesi'nde kritik seçim... Sinem Dedetaş yerine başkanvekili seçiliyor...</title>
+      <link>https://www.youtube.com/watch?v=JqxJ60f0wb4</link>
+      <guid isPermaLink="false">JqxJ60f0wb4</guid>
+      <pubDate>Tue, 08 Sep 2026 20:30:54 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI Üsküdar Belediyesi'nde kritik seçim... Sinem Dedetaş yerine başkanvekili seçiliyor...</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Nevzat Çiçek'ten Tarihi Analiz! Netanyahu Ortadoğu'da Kırmızı Çizgiyi Aştı! İsrail'in Suriye Planı</title>
       <link>https://www.youtube.com/watch?v=AQ57wtLYcL4</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">dAGFlaRAWj8</guid>
       <pubDate>Tue, 08 Sep 2026 16:40:28 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Mansur Yavaş Düğmeye Bastı! Tarihi Rest! Kemal Kılıçdaroğlu Bunu Beklemiyordu</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "BİZ NE DÜĞÜNLER GÖRDÜK!" Taylan, Gökçek soruşturmasında Erdoğan'ı hatırlattı ve  Şimşek'e seslendi!</title>
-      <link>https://www.youtube.com/watch?v=T247CRsGdm8</link>
-      <guid isPermaLink="false">T247CRsGdm8</guid>
-      <pubDate>Tue, 08 Sep 2026 16:30:04 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "BİZ NE DÜĞÜNLER GÖRDÜK!" Taylan, Gökçek soruşturmasında Erdoğan'ı hatırlattı ve  Şimşek'e seslendi!</description>
     </item>
   </channel>
 </rss>
