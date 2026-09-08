@@ -6,13 +6,34 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 12:50:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 12:55:29 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Belediye başkan vekili seçimi sonrasında tansiyon yükseldi! Üsküdarlı teyze fenalaştı...</title>
+      <link>https://www.youtube.com/watch?v=aBPSrFrtBNg</link>
+      <guid isPermaLink="false">aBPSrFrtBNg</guid>
+      <pubDate>Tue, 08 Sep 2026 12:52:41 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Belediye başkan vekili seçimi sonrasında tansiyon yükseldi! Üsküdarlı teyze fenalaştı...</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Gizem Çetin ile Parantez</title>
+      <link>https://www.youtube.com/watch?v=bM1SkaUK2fY</link>
+      <guid isPermaLink="false">bM1SkaUK2fY</guid>
+      <pubDate>Tue, 08 Sep 2026 12:50:42 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Gizem Çetin ile Parantez</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Üsküdar Belediyesi AKP'ye Geçti! Belediye Önü Karıştı</title>
       <link>https://www.youtube.com/watch?v=5hmAWxEOlBg</link>
       <guid isPermaLink="false">5hmAWxEOlBg</guid>
       <pubDate>Tue, 08 Sep 2026 12:50:29 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Üsküdar Belediyesi AKP'ye Geçti! Belediye Önü Karıştı</description>
+    </item>
+    <item>
+      <title>Halk TV: VALİ DAVUT GÜL NEYE UĞRADIĞINI ŞAŞIRACAK! Özgür Çelik ipliğini pazara çıkardı! Tokat gibi sözler!</title>
+      <link>https://www.youtube.com/watch?v=K9xkITheqh4</link>
+      <guid isPermaLink="false">K9xkITheqh4</guid>
+      <pubDate>Tue, 08 Sep 2026 12:50:17 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: VALİ DAVUT GÜL NEYE UĞRADIĞINI ŞAŞIRACAK! Özgür Çelik ipliğini pazara çıkardı! Tokat gibi sözler!</description>
     </item>
     <item>
       <title>Halk TV: Sezgin Tanrıkulu: İmamoğlu'nun siyasi tutuklu olmadığını söylemek bir akıl tutulmasıdır!</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">5CEuUkkZCJs</guid>
       <pubDate>Tue, 08 Sep 2026 11:16:55 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | Üsküdar AKP'ye Geçti! Vatandaşlar Belediye Önünde 'Hırsız Var' Sesleriyle Tepki Gösteriyor!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: #CANLI Başkan vekilliği seçimi sona erdi! Üsküdar Belediyesi önünde son durum….</title>
-      <link>https://www.youtube.com/watch?v=2PS-qLsAQCs</link>
-      <guid isPermaLink="false">2PS-qLsAQCs</guid>
-      <pubDate>Tue, 08 Sep 2026 11:15:16 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI Başkan vekilliği seçimi sona erdi! Üsküdar Belediyesi önünde son durum….</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Üsküdar'da Yurttaş: Kazanmış gibi yapsanız da gerçek burada. Bu halkın vicdanında kazanmış değilsin.</title>
-      <link>https://www.youtube.com/shorts/MbPLFMQ6Gjc</link>
-      <guid isPermaLink="false">MbPLFMQ6Gjc</guid>
-      <pubDate>Tue, 08 Sep 2026 11:01:42 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Üsküdar'da Yurttaş: Kazanmış gibi yapsanız da gerçek burada. Bu halkın vicdanında kazanmış değilsin.</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Üsküdar Belediyesi Başkan Vekilliği seçimi sonrası belediye önünde son durum #Canlı</title>
-      <link>https://www.youtube.com/watch?v=X_M4ql5Dq_8</link>
-      <guid isPermaLink="false">X_M4ql5Dq_8</guid>
-      <pubDate>Tue, 08 Sep 2026 11:00:55 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Üsküdar Belediyesi Başkan Vekilliği seçimi sonrası belediye önünde son durum #Canlı</description>
     </item>
   </channel>
 </rss>
