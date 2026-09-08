@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 08:50:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 08:55:26 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Diyarbakır'da inşaat işçisi Recep Karakaş oğluna Ronaldo ismini verdi</title>
+      <link>https://www.youtube.com/shorts/duQpQVQmIsw</link>
+      <guid isPermaLink="false">duQpQVQmIsw</guid>
+      <pubDate>Tue, 08 Sep 2026 08:42:41 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Diyarbakır'da inşaat işçisi Recep Karakaş oğluna Ronaldo ismini verdi</description>
+    </item>
     <item>
       <title>Halk TV: ESKİ DEFTERLER BİR AÇILDI PİR AÇILDI! İBB davası sanığı, Topbaş dönemi için öyle bir dosya açtı ki..</title>
       <link>https://www.youtube.com/watch?v=mTuTI_Hk7Ao</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">PAXOnJN9_L0</guid>
       <pubDate>Tue, 08 Sep 2026 06:52:16 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ÜSKÜDAR'DA YER YERİNDEN OYNUYOR! Kritik seçimde oylama başladı! Vatandaşlar belediye önünde toplandı</description>
-    </item>
-    <item>
-      <title>Halk TV: Melih Gökçek'in oğlundan ibretlik görüntüler!</title>
-      <link>https://www.youtube.com/shorts/UgipeJDaNk8</link>
-      <guid isPermaLink="false">UgipeJDaNk8</guid>
-      <pubDate>Tue, 08 Sep 2026 06:50:15 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Melih Gökçek'in oğlundan ibretlik görüntüler!</description>
     </item>
   </channel>
 </rss>
