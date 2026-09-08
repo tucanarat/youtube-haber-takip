@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 11:10:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 11:15:32 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: #CANLI Üsküdar Belediyesi Başkan Vekilliği seçimi sonrası belediye önünde son durum</title>
       <link>https://www.youtube.com/watch?v=EKSBmIEKIRM</link>
@@ -27,6 +27,27 @@
       <guid isPermaLink="false">X_M4ql5Dq_8</guid>
       <pubDate>Tue, 08 Sep 2026 11:00:55 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Üsküdar Belediyesi Başkan Vekilliği seçimi sonrası belediye önünde son durum #Canlı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: SON DAKİKA Üsküdar Belediyesi AKP'ye Geçti!</title>
+      <link>https://www.youtube.com/watch?v=5hmAWxEOlBg</link>
+      <guid isPermaLink="false">5hmAWxEOlBg</guid>
+      <pubDate>Tue, 08 Sep 2026 11:00:48 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: SON DAKİKA Üsküdar Belediyesi AKP'ye Geçti!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Gökçeklere Yargı Kıskacı! MASAK'A TAKILAN MİLYONLAR! Barış Terkoğlu ve İsmail Küçükkaya Anlattı</title>
+      <link>https://www.youtube.com/watch?v=5K0qzX0A6pw</link>
+      <guid isPermaLink="false">5K0qzX0A6pw</guid>
+      <pubDate>Tue, 08 Sep 2026 11:00:21 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Gökçeklere Yargı Kıskacı! MASAK'A TAKILAN MİLYONLAR! Barış Terkoğlu ve İsmail Küçükkaya Anlattı</description>
+    </item>
+    <item>
+      <title>Halk TV: SICAK GELİŞME! Demirtaş'ın koğuş arkadaşı Selçuk Mızraklı dakikalar önce cezaevinden tahliye edildi!</title>
+      <link>https://www.youtube.com/watch?v=cY3PxWrzHmc</link>
+      <guid isPermaLink="false">cY3PxWrzHmc</guid>
+      <pubDate>Tue, 08 Sep 2026 11:00:03 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SICAK GELİŞME! Demirtaş'ın koğuş arkadaşı Selçuk Mızraklı dakikalar önce cezaevinden tahliye edildi!</description>
     </item>
     <item>
       <title>Cumhuriyet: Oyuncu Serhat Kılıç'a veda...</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">U7ew5qSsw7s</guid>
       <pubDate>Tue, 08 Sep 2026 08:28:20 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: ‘Atı alan Üsküdar’ı geçti’nin yeni versiyonu - Orhan Bursalı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Üsküdar’da kritik seçim! Gidenler, geri gelecek mi? | Onur Öncü ile Sabah Pusulası</title>
-      <link>https://www.youtube.com/watch?v=kyulm-mNs8M</link>
-      <guid isPermaLink="false">kyulm-mNs8M</guid>
-      <pubDate>Tue, 08 Sep 2026 08:24:42 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Üsküdar’da kritik seçim! Gidenler, geri gelecek mi? | Onur Öncü ile Sabah Pusulası</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: #CANLI Üsküdar Belediyesi'nde kritik seçim... Sinem Dedetaş yerine başkanvekili seçiliyor...</title>
-      <link>https://www.youtube.com/watch?v=-jAOW2GRHCA</link>
-      <guid isPermaLink="false">-jAOW2GRHCA</guid>
-      <pubDate>Tue, 08 Sep 2026 08:24:15 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI Üsküdar Belediyesi'nde kritik seçim... Sinem Dedetaş yerine başkanvekili seçiliyor...</description>
-    </item>
-    <item>
-      <title>Halk TV: Atlas Çağlayan davasında karar bekleniyor! Sanık için 21 yıl 7 ay 15 güne kadar hapis istendi</title>
-      <link>https://www.youtube.com/shorts/-AroxorgcwE</link>
-      <guid isPermaLink="false">-AroxorgcwE</guid>
-      <pubDate>Tue, 08 Sep 2026 08:23:19 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Atlas Çağlayan davasında karar bekleniyor! Sanık için 21 yıl 7 ay 15 güne kadar hapis istendi</description>
     </item>
   </channel>
 </rss>
