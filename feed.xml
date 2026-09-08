@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 15:40:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 15:45:37 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: 3 yaşındaki Elif Mavi'nin ölümüne neden olan Fatoş Akıl Bilgesoy'dan dikkat çeken savunma!</title>
+      <link>https://www.youtube.com/watch?v=ITqrJU3UCZA</link>
+      <guid isPermaLink="false">ITqrJU3UCZA</guid>
+      <pubDate>Tue, 08 Sep 2026 15:30:09 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: 3 yaşındaki Elif Mavi'nin ölümüne neden olan Fatoş Akıl Bilgesoy'dan dikkat çeken savunma!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Afşin Hatipoğlu'dan Tarihi Sözler! "Ekrem İmamoğlu'ndan Vampirin Haçtan Korktuğu Gibi Korkuyorlar!"</title>
       <link>https://www.youtube.com/watch?v=plm3bjwe1lM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">hMHyurQMxOA</guid>
       <pubDate>Tue, 08 Sep 2026 12:40:43 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Silivri’de batan gemide kaybolan 10 mürettebat için arama çalışmaları sürüyor!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Selahattin Demirtaş duyurmuştu: Selçuk Mızraklı tahliye edildi! İlk açıklama geldi</title>
-      <link>https://www.youtube.com/watch?v=kfI5-r8ryYI</link>
-      <guid isPermaLink="false">kfI5-r8ryYI</guid>
-      <pubDate>Tue, 08 Sep 2026 12:39:17 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Selahattin Demirtaş duyurmuştu: Selçuk Mızraklı tahliye edildi! İlk açıklama geldi</description>
     </item>
   </channel>
 </rss>
