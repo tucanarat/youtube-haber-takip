@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 15:15:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 15:20:41 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Silivri'de 77. gün! İBB Davası'na damga vuran 'İmamoğlu' polemiği</title>
+      <link>https://www.youtube.com/watch?v=cxMxY9BDP94</link>
+      <guid isPermaLink="false">cxMxY9BDP94</guid>
+      <pubDate>Tue, 08 Sep 2026 15:13:46 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Silivri'de 77. gün! İBB Davası'na damga vuran 'İmamoğlu' polemiği</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Damla Doğan Tuncel ile 1 Saat 8 Eylül</title>
       <link>https://www.youtube.com/watch?v=Z20_N77K1IY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">x0FThX4NJzs</guid>
       <pubDate>Tue, 08 Sep 2026 12:37:48 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Parti Sözcüsü Zeynel Emre,  Parti Genel Merkezi’nde Açıklama Yaptı (8 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Özgür Çelik ilk kez Üsküdar'da açıkladı! AKP'YE GEÇEN O İSİM TELEFONDA HÜNGÜR HÜNGÜR AĞLAMIŞ</title>
-      <link>https://www.youtube.com/watch?v=LVCKVGDcHZ8</link>
-      <guid isPermaLink="false">LVCKVGDcHZ8</guid>
-      <pubDate>Tue, 08 Sep 2026 12:35:23 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Özgür Çelik ilk kez Üsküdar'da açıkladı! AKP'YE GEÇEN O İSİM TELEFONDA HÜNGÜR HÜNGÜR AĞLAMIŞ</description>
     </item>
   </channel>
 </rss>
