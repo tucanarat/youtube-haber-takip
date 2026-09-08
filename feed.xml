@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 19:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 19:10:35 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: #CANLI Tahliye edilen Adnan Selçuk Mızraklı, Diyarbakır Havalimanında karşılanıyor</title>
       <link>https://www.youtube.com/watch?v=yyP8cA7SznQ</link>
       <guid isPermaLink="false">yyP8cA7SznQ</guid>
       <pubDate>Tue, 08 Sep 2026 19:00:19 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Tahliye edilen Adnan Selçuk Mızraklı, Diyarbakır Havalimanında karşılanıyor</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: NETANYAHU 7 EKİM'İ BİLİYOR MUYDU? BAE'den İsrail'i Sarsan Şok İstihbarat! Nevzat Çiçek Anlattı</title>
+      <link>https://www.youtube.com/watch?v=7b-YMgJHzBQ</link>
+      <guid isPermaLink="false">7b-YMgJHzBQ</guid>
+      <pubDate>Tue, 08 Sep 2026 19:00:18 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: NETANYAHU 7 EKİM'İ BİLİYOR MUYDU? BAE'den İsrail'i Sarsan Şok İstihbarat! Nevzat Çiçek Anlattı</description>
     </item>
     <item>
       <title>Tele2 Haber: FBI'ın 'EN ÇOK ARANAN DOLANDIRICILAR' listesinde bir Türk! Yılmaz Polat aktardı...</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Z20_N77K1IY</guid>
       <pubDate>Tue, 08 Sep 2026 15:02:16 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Damla Doğan Tuncel ile 1 Saat 8 Eylül</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Çelik: “Bir oy için ter*r örgütünden ceza alan oğlunu Türkiye’ye getirme sözü verdiler!”</title>
-      <link>https://www.youtube.com/shorts/pFiqq7xaoDI</link>
-      <guid isPermaLink="false">pFiqq7xaoDI</guid>
-      <pubDate>Tue, 08 Sep 2026 15:01:08 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Çelik: “Bir oy için ter*r örgütünden ceza alan oğlunu Türkiye’ye getirme sözü verdiler!”</description>
     </item>
   </channel>
 </rss>
