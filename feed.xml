@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 12:40:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 12:45:35 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Silivri’de batan gemide kaybolan 10 mürettebat için arama çalışmaları sürüyor!</title>
+      <link>https://www.youtube.com/shorts/hMHyurQMxOA</link>
+      <guid isPermaLink="false">hMHyurQMxOA</guid>
+      <pubDate>Tue, 08 Sep 2026 12:40:43 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Silivri’de batan gemide kaybolan 10 mürettebat için arama çalışmaları sürüyor!</description>
+    </item>
     <item>
       <title>Cumhuriyet: Selahattin Demirtaş duyurmuştu: Selçuk Mızraklı tahliye edildi! İlk açıklama geldi</title>
       <link>https://www.youtube.com/watch?v=kfI5-r8ryYI</link>
       <guid isPermaLink="false">kfI5-r8ryYI</guid>
       <pubDate>Tue, 08 Sep 2026 12:39:17 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Selahattin Demirtaş duyurmuştu: Selçuk Mızraklı tahliye edildi! İlk açıklama geldi</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: Kemal Kılıçdaroğlu, "Cumhuriyet'in 103. Yılında İz Bırakan 103 Kadın" sergisinde #Canlı</title>
+      <link>https://www.youtube.com/watch?v=Src2nNsGsYE</link>
+      <guid isPermaLink="false">Src2nNsGsYE</guid>
+      <pubDate>Tue, 08 Sep 2026 12:39:04 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Kemal Kılıçdaroğlu, "Cumhuriyet'in 103. Yılında İz Bırakan 103 Kadın" sergisinde #Canlı</description>
     </item>
     <item>
       <title>Halk TV: YENİ Parti Sözcüsü Zeynel Emre,  Parti Genel Merkezi’nde Açıklama Yaptı (8 Eylül 2026)</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">1myy2-WrXQM</guid>
       <pubDate>Tue, 08 Sep 2026 10:53:54 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Oyuncu Serhat Kılıç'a veda...</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Butlandan Akıl Almaz "İmamoğlu Siyasi Tutuklu Değil Çıkışı! Ülkü Çoban Ateş Püskürdü!</title>
-      <link>https://www.youtube.com/watch?v=83Msc8AHfkc</link>
-      <guid isPermaLink="false">83Msc8AHfkc</guid>
-      <pubDate>Tue, 08 Sep 2026 10:50:01 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Butlandan Akıl Almaz "İmamoğlu Siyasi Tutuklu Değil Çıkışı! Ülkü Çoban Ateş Püskürdü!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: İYİ Parti Genel Başkan Yardımcısı Burak Dalgın basın toplantısı düzenliyor</title>
-      <link>https://www.youtube.com/watch?v=eHNOy4iO8UE</link>
-      <guid isPermaLink="false">eHNOy4iO8UE</guid>
-      <pubDate>Tue, 08 Sep 2026 10:49:40 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: İYİ Parti Genel Başkan Yardımcısı Burak Dalgın basın toplantısı düzenliyor</description>
     </item>
   </channel>
 </rss>
