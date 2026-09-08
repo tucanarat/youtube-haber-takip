@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 20:00:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 20:05:26 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: İpek Özbey ile Karşı Karşıya | Erol Mütercimler &amp; Nevzat Çiçek 8 Eylül</title>
+      <link>https://www.youtube.com/watch?v=3ZgCWSuM1k4</link>
+      <guid isPermaLink="false">3ZgCWSuM1k4</guid>
+      <pubDate>Tue, 08 Sep 2026 20:03:03 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İpek Özbey ile Karşı Karşıya | Erol Mütercimler &amp; Nevzat Çiçek 8 Eylül</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Husiler'den Suudi Arabistan'a Saldırı! Körfez Cehenneme Döndü! Prens Selman Bunu Hesap Edemedi</title>
+      <link>https://www.youtube.com/watch?v=oB9ibGCbzdY</link>
+      <guid isPermaLink="false">oB9ibGCbzdY</guid>
+      <pubDate>Tue, 08 Sep 2026 20:00:21 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Husiler'den Suudi Arabistan'a Saldırı! Körfez Cehenneme Döndü! Prens Selman Bunu Hesap Edemedi</description>
+    </item>
     <item>
       <title>Halk TV: SON DAKİKA! "ÜSKÜDAR'DA BUGÜN OLANLAR DEMOKRASİYE BİR ALAYDIR!" Nacho Sanchez'in Üsküdar tepkisi!</title>
       <link>https://www.youtube.com/watch?v=T91BGNsIKQg</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">T024QJqbPzo</guid>
       <pubDate>Tue, 08 Sep 2026 16:00:07 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Mecliste Gözyaşları! Üsküdar Belediyesi'nde Olaylı Oylama ve Transfer Krizi! AKP Bunu Yaptı</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Sinem Fıstıkoğlu ile Sansürsüz</title>
-      <link>https://www.youtube.com/watch?v=pm-jeBG8Kxw</link>
-      <guid isPermaLink="false">pm-jeBG8Kxw</guid>
-      <pubDate>Tue, 08 Sep 2026 15:59:52 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Sinem Fıstıkoğlu ile Sansürsüz</description>
-    </item>
-    <item>
-      <title>Halk TV: ÖZGÜR ÇELİK SEÇİMİN PERDE ARKASINI AÇIKLADI! Üsküdar seçiminde akılları altüst edecek iddia!</title>
-      <link>https://www.youtube.com/watch?v=Fx9AximXivg</link>
-      <guid isPermaLink="false">Fx9AximXivg</guid>
-      <pubDate>Tue, 08 Sep 2026 15:49:27 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ÖZGÜR ÇELİK SEÇİMİN PERDE ARKASINI AÇIKLADI! Üsküdar seçiminde akılları altüst edecek iddia!</description>
     </item>
   </channel>
 </rss>
