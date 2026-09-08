@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 15:00:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 15:05:28 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Özgür Çelik: “Bir oy için ter*r örgütünden ceza alan oğlunu Türkiye’ye getirme sözü verdiler!”</title>
+      <link>https://www.youtube.com/shorts/pFiqq7xaoDI</link>
+      <guid isPermaLink="false">pFiqq7xaoDI</guid>
+      <pubDate>Tue, 08 Sep 2026 15:01:08 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Özgür Çelik: “Bir oy için ter*r örgütünden ceza alan oğlunu Türkiye’ye getirme sözü verdiler!”</description>
+    </item>
     <item>
       <title>Halk TV: Ayhan Aydın transferinin perde arkası! Özgür Çelik: ‘Ayhan Aydın’ı savcı tutuklamayla tehdit etti’</title>
       <link>https://www.youtube.com/shorts/qMweRG9Jgls</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">zqNTwC-05Y4</guid>
       <pubDate>Tue, 08 Sep 2026 12:32:45 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Enerji ve Tabii Kaynaklar Bakanı Bayraktar: Gabar'da petrol üretimi günlük 83-84 bin varile ulaştı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: ALMANYA'DA TRUMP VE PUTİN'İ SEVİNDİREN SEÇİM! Aşırı Sağ Parti Kazandı! Avrupa Düşüyor!</title>
-      <link>https://www.youtube.com/watch?v=crHyr6xetrM</link>
-      <guid isPermaLink="false">crHyr6xetrM</guid>
-      <pubDate>Tue, 08 Sep 2026 12:30:29 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: ALMANYA'DA TRUMP VE PUTİN'İ SEVİNDİREN SEÇİM! Aşırı Sağ Parti Kazandı! Avrupa Düşüyor!</description>
     </item>
   </channel>
 </rss>
