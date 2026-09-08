@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 22:00:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 22:05:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: 7 yıl sonra tahliye oldu Selçuk Mızraklı, Diyarbakır’da ilk mesajını verdi!</title>
+      <link>https://www.youtube.com/watch?v=0Jl2EYdsJDI</link>
+      <guid isPermaLink="false">0Jl2EYdsJDI</guid>
+      <pubDate>Tue, 08 Sep 2026 22:00:22 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: 7 yıl sonra tahliye oldu Selçuk Mızraklı, Diyarbakır’da ilk mesajını verdi!</description>
+    </item>
     <item>
       <title>Halk TV: Sinem Fıstıkoğlu ile Sansürsüz (9 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=pm-jeBG8Kxw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">JyG94MTkGoU</guid>
       <pubDate>Tue, 08 Sep 2026 18:00:11 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Kura Nehri yeşile büründü! Ardahan’da şaşırtan manzara! #shorts</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Erol Mütercimler Sinirlendi! Siyasilere Çarpıcı Uyarı! Hukuktaki Acı Tabloyu Anlattı</title>
-      <link>https://www.youtube.com/watch?v=3xGOuDeszkI</link>
-      <guid isPermaLink="false">3xGOuDeszkI</guid>
-      <pubDate>Tue, 08 Sep 2026 18:00:08 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Erol Mütercimler Sinirlendi! Siyasilere Çarpıcı Uyarı! Hukuktaki Acı Tabloyu Anlattı</description>
     </item>
   </channel>
 </rss>
