@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 07:10:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 07:15:31 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: "84 bin 94 Seçmene Özür Borcunuz Var!" Ülkü İnanlı AKP'ye Geçen Eren Ali Bingöl'e Ateş Püskürdü!</title>
+      <link>https://www.youtube.com/watch?v=czhx_mx7qCY</link>
+      <guid isPermaLink="false">czhx_mx7qCY</guid>
+      <pubDate>Tue, 08 Sep 2026 07:12:26 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "84 bin 94 Seçmene Özür Borcunuz Var!" Ülkü İnanlı AKP'ye Geçen Eren Ali Bingöl'e Ateş Püskürdü!</description>
+    </item>
     <item>
       <title>Halk TV: Sosyal medyada yer alan şaşalı düğün görüntüleriyle gündemde olan Mehmet Fatih Tançalan gözaltında!</title>
       <link>https://www.youtube.com/watch?v=XI7Ld1vQjow</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">v0nFZCmRMFU</guid>
       <pubDate>Mon, 07 Sep 2026 21:28:59 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: CHP Üsküdar Başkanı Zerrin Civandağ ve Yeni Parti Üsküdar Başkanı Berk Tütüncü açıklama yapıyor #</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Üsküdar'da İktidarın Gizli Planı Devrede! Çarpıcı Özgür Çelik Çıkışı! Siyasette Yer Yerinden Oynar</title>
-      <link>https://www.youtube.com/watch?v=1KXW5w1kfYQ</link>
-      <guid isPermaLink="false">1KXW5w1kfYQ</guid>
-      <pubDate>Mon, 07 Sep 2026 21:20:38 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Üsküdar'da İktidarın Gizli Planı Devrede! Çarpıcı Özgür Çelik Çıkışı! Siyasette Yer Yerinden Oynar</description>
     </item>
   </channel>
 </rss>
