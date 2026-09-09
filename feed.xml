@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 20:50:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 20:55:29 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: İzmir'in düşman işgalinden kurtuluşunun 104. yıl dönümü kutlanıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=dQaae28tRgU</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">89AUK1F3UTE</guid>
       <pubDate>Wed, 09 Sep 2026 20:45:15 +0000</pubDate>
       <description>Halk TV kanalından yeni video: MANSUR YAVAŞ'I ZORA SOKACAK SÖZLER! Afşin Hatipoğlu: Erdoğan ile verdiği fotoğraf masum değil!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Barış Terkoğlu Kaşif Kozinoğlu Dosyasını Açtı! FETÖ'cüler mi Öldürdü? İfşa Edilen Gizli Mektup</title>
+      <link>https://www.youtube.com/watch?v=19J0qrV1Cao</link>
+      <guid isPermaLink="false">19J0qrV1Cao</guid>
+      <pubDate>Wed, 09 Sep 2026 20:40:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Barış Terkoğlu Kaşif Kozinoğlu Dosyasını Açtı! FETÖ'cüler mi Öldürdü? İfşa Edilen Gizli Mektup</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Mansur Yavaş Erdoğan Görüşmesi Ankara'yı Salladı! Murat Ağırel Anlattı! Kulisleri Sarsan Hamle</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">RsH62f4eRy0</guid>
       <pubDate>Wed, 09 Sep 2026 16:32:27 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Özgür Çelik'ten Üsküdar seçimlerine ilişkin suç duyurusu!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "AKP'Yİ CESARETLENDİREN KİM?" Murat Taylan'dan çok kritik ÜSKÜDAR BELEDİYESİ ve SİNEM DEDETAŞ yorumu</title>
-      <link>https://www.youtube.com/watch?v=-aL6RnqxVHE</link>
-      <guid isPermaLink="false">-aL6RnqxVHE</guid>
-      <pubDate>Wed, 09 Sep 2026 16:30:34 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "AKP'Yİ CESARETLENDİREN KİM?" Murat Taylan'dan çok kritik ÜSKÜDAR BELEDİYESİ ve SİNEM DEDETAŞ yorumu</description>
     </item>
   </channel>
 </rss>
