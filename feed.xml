@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 15:50:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 15:55:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Yıllarca tek bir karesi bile yoktu... MİT'te namıdiğer 'Hayalet'ti: 15 yıl sonra kritik bir karar!</title>
+      <link>https://www.youtube.com/watch?v=V9hAv4GtBvc</link>
+      <guid isPermaLink="false">V9hAv4GtBvc</guid>
+      <pubDate>Wed, 09 Sep 2026 15:50:25 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Yıllarca tek bir karesi bile yoktu... MİT'te namıdiğer 'Hayalet'ti: 15 yıl sonra kritik bir karar!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: CHP'de Mansur Yavaş Krizi! Özlem Gürses'ten Olay Sözler! "İktidarın En Zorlandığı İsim Mansur Yavaş'</title>
       <link>https://www.youtube.com/watch?v=cLi5DlBAa7o</link>
       <guid isPermaLink="false">cLi5DlBAa7o</guid>
       <pubDate>Wed, 09 Sep 2026 15:40:28 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: CHP'de Mansur Yavaş Krizi! Özlem Gürses'ten Olay Sözler! "İktidarın En Zorlandığı İsim Mansur Yavaş'</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: Özgür Çelik, hakkında başlatılan soruşturmaya ilişkin açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=j34q0szizMM</link>
+      <guid isPermaLink="false">j34q0szizMM</guid>
+      <pubDate>Wed, 09 Sep 2026 15:40:02 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Özgür Çelik, hakkında başlatılan soruşturmaya ilişkin açıklama yapıyor #Canlı</description>
     </item>
     <item>
       <title>Halk TV: 'Vanlı iş insanı' videosunun sonu gözaltı oldu! Kara Haydar videosuna benzetildi gözaltına alındı!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">AQQndEbKRmw</guid>
       <pubDate>Wed, 09 Sep 2026 13:00:11 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Düğün yaptığı Çağla Öz'ü istismar etmişti: Mehmet Fatih Tançalan'ın verdiği ifade ortaya çıktı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Butlan CHP'si Genel Başkanı Kemal Kılıçdaroğlu Konuştu (9 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=yOi1EwTFSSc</link>
-      <guid isPermaLink="false">yOi1EwTFSSc</guid>
-      <pubDate>Wed, 09 Sep 2026 12:47:32 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Butlan CHP'si Genel Başkanı Kemal Kılıçdaroğlu Konuştu (9 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: ÜSKÜDAR'DAN SON SIRA İBB'DE Mİ? YENİ Partili Gül Çiftci AKP'nin sarsıcı planını bir bir anlattı!</title>
-      <link>https://www.youtube.com/watch?v=Og1UjNJX-3g</link>
-      <guid isPermaLink="false">Og1UjNJX-3g</guid>
-      <pubDate>Wed, 09 Sep 2026 12:45:22 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ÜSKÜDAR'DAN SON SIRA İBB'DE Mİ? YENİ Partili Gül Çiftci AKP'nin sarsıcı planını bir bir anlattı!</description>
     </item>
   </channel>
 </rss>
