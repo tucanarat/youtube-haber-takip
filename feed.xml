@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 10:05:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 10:10:38 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Ayşe Tokyaz cinayeti davasında kritik gün... Sanık avukatlarından istifa kararı!</title>
+      <link>https://www.youtube.com/watch?v=dpv4CzFS8Mk</link>
+      <guid isPermaLink="false">dpv4CzFS8Mk</guid>
+      <pubDate>Wed, 09 Sep 2026 10:06:03 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Ayşe Tokyaz cinayeti davasında kritik gün... Sanık avukatlarından istifa kararı!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Üsküdar Belediyesi Seçimine İtiraz Edilecek! "Herkesi Arsızlığıyla Yüzleşmeye Davet Ediyorum!"</title>
       <link>https://www.youtube.com/watch?v=9Yft5bw-wuM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">CgwC6axhUCk</guid>
       <pubDate>Wed, 09 Sep 2026 07:38:57 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: İzmir'in düşman işgalinden kurtuluşunun 104. yıl dönümü kutlanıyor</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Kadın Cinayetlerini Durduracağız Platformu, Ayşe Tokyaz cinayetine ilişkin açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=vKi4fFPXwNA</link>
-      <guid isPermaLink="false">vKi4fFPXwNA</guid>
-      <pubDate>Wed, 09 Sep 2026 07:32:13 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Kadın Cinayetlerini Durduracağız Platformu, Ayşe Tokyaz cinayetine ilişkin açıklama yapıyor #Canlı</description>
     </item>
   </channel>
 </rss>
