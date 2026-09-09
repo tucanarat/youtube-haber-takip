@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 21:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 21:45:34 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Mansur Yavaş Erdoğan Görüşmesinin Perde Arkası! Saygı Öztürk Her Şeyi Tek Tek Açıkladı</title>
+      <link>https://www.youtube.com/watch?v=TUTovAko0Lc</link>
+      <guid isPermaLink="false">TUTovAko0Lc</guid>
+      <pubDate>Wed, 09 Sep 2026 21:40:19 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Mansur Yavaş Erdoğan Görüşmesinin Perde Arkası! Saygı Öztürk Her Şeyi Tek Tek Açıkladı</description>
+    </item>
     <item>
       <title>Halk TV: ABD'NİN VURDUĞU GEMİNİN SON HALİ! İran Devrim Muhafızları'na ait savaş gemisi yanmış halde bulundu!</title>
       <link>https://www.youtube.com/watch?v=OmjxTogMoIs</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">98DeNnEmvz8</guid>
       <pubDate>Wed, 09 Sep 2026 17:00:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Sosyal Medyadan Satış Yapanlar Dikkat! Ağır Vergi Kıskacı Başladı | Mahmut Aydoğmuş | Vergi Kafe</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Özlem Gürses ile Sözcü Ana Haber 9 Eylül</title>
-      <link>https://www.youtube.com/watch?v=iqNJeDxlMEc</link>
-      <guid isPermaLink="false">iqNJeDxlMEc</guid>
-      <pubDate>Wed, 09 Sep 2026 16:57:07 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses ile Sözcü Ana Haber 9 Eylül</description>
     </item>
   </channel>
 </rss>
