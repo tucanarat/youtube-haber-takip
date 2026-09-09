@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 20:00:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 20:02:58 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: İktidarın İBB Planı Deşifre Oldu! Barış Terkoğlu'ndan Seçim Tarihi Kulisi! Çarpıcı İmamoğlu Çıkışı</title>
+      <link>https://www.youtube.com/watch?v=m52ZXCVzxh4</link>
+      <guid isPermaLink="false">m52ZXCVzxh4</guid>
+      <pubDate>Wed, 09 Sep 2026 20:00:38 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İktidarın İBB Planı Deşifre Oldu! Barış Terkoğlu'ndan Seçim Tarihi Kulisi! Çarpıcı İmamoğlu Çıkışı</description>
+    </item>
     <item>
       <title>Halk TV: Meclis toplantısına katılmadılar: Belediye Başkanı Candan Yüceer, duruma böyle isyan etti!</title>
       <link>https://www.youtube.com/watch?v=dSEDt0Cqvt4</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">y3kDFVofKgM</guid>
       <pubDate>Wed, 09 Sep 2026 16:00:36 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Ayhan Aydın'ın ifadesi ortaya çıktı! Murat Taylan Üsküdar Belediyesi'nde yaşananları yorumladı...</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: CHP'nin 103. Kuruluş Yıldönümü sebebiyle 9 Eylül Resepsiyonu düzenleniyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=WwaynyPl9sQ</link>
-      <guid isPermaLink="false">WwaynyPl9sQ</guid>
-      <pubDate>Wed, 09 Sep 2026 15:55:21 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP'nin 103. Kuruluş Yıldönümü sebebiyle 9 Eylül Resepsiyonu düzenleniyor #Canlı</description>
     </item>
   </channel>
 </rss>
