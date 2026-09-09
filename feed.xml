@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 10:10:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 10:15:37 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: #CANLI İBB Davasında 77. gün! Avukattan salonu geren İmamoğlu çıkışı!</title>
+      <link>https://www.youtube.com/watch?v=7KCbWAwNOhk</link>
+      <guid isPermaLink="false">7KCbWAwNOhk</guid>
+      <pubDate>Wed, 09 Sep 2026 10:13:56 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI İBB Davasında 77. gün! Avukattan salonu geren İmamoğlu çıkışı!</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: İzmir'in düşman işgalinden kurtuluşunun 104. yıl dönümü</title>
+      <link>https://www.youtube.com/watch?v=yYyFMo0SvzA</link>
+      <guid isPermaLink="false">yYyFMo0SvzA</guid>
+      <pubDate>Wed, 09 Sep 2026 10:10:25 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: İzmir'in düşman işgalinden kurtuluşunun 104. yıl dönümü</description>
+    </item>
     <item>
       <title>Cumhuriyet: Ayşe Tokyaz cinayeti davasında kritik gün... Sanık avukatlarından istifa kararı!</title>
       <link>https://www.youtube.com/watch?v=dpv4CzFS8Mk</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">QZ2OusHpl_w</guid>
       <pubDate>Wed, 09 Sep 2026 07:43:40 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Eskişehir'de AKP'li ve CHP’li başkanlar hakkında suç duyurusu! "BİRLİKTE HAREKET EDİYORLAR"</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI İzmir'in düşman işgalinden kurtuluşunun 104. yıl dönümü kutlanıyor...</title>
-      <link>https://www.youtube.com/watch?v=W8kpJlO9XfM</link>
-      <guid isPermaLink="false">W8kpJlO9XfM</guid>
-      <pubDate>Wed, 09 Sep 2026 07:41:28 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI İzmir'in düşman işgalinden kurtuluşunun 104. yıl dönümü kutlanıyor...</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: İzmir'in düşman işgalinden kurtuluşunun 104. yıl dönümü kutlanıyor</title>
-      <link>https://www.youtube.com/watch?v=CgwC6axhUCk</link>
-      <guid isPermaLink="false">CgwC6axhUCk</guid>
-      <pubDate>Wed, 09 Sep 2026 07:38:57 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: İzmir'in düşman işgalinden kurtuluşunun 104. yıl dönümü kutlanıyor</description>
     </item>
   </channel>
 </rss>
