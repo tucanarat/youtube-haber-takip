@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 07:25:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 07:30:51 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Kadın Cinayetlerini Durduracağız Platformu, Ayşe Tokyaz cinayetine ilişkin açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=vKi4fFPXwNA</link>
+      <guid isPermaLink="false">vKi4fFPXwNA</guid>
+      <pubDate>Wed, 09 Sep 2026 07:26:03 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Kadın Cinayetlerini Durduracağız Platformu, Ayşe Tokyaz cinayetine ilişkin açıklama yapıyor #Canlı</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: İzmir'in düşman işgalinden kurtuluşunun 104. yıl dönümü kutlanıyor</title>
       <link>https://www.youtube.com/watch?v=CgwC6axhUCk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">nqsze7LdCws</guid>
       <pubDate>Tue, 08 Sep 2026 22:01:29 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Senem Toluay Ilgaz ile Öncesi Sonrası</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Can Coşkun ile Gündem Masası</title>
-      <link>https://www.youtube.com/watch?v=4A-lxjPKJNw</link>
-      <guid isPermaLink="false">4A-lxjPKJNw</guid>
-      <pubDate>Tue, 08 Sep 2026 22:00:30 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Can Coşkun ile Gündem Masası</description>
     </item>
   </channel>
 </rss>
