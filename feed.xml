@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 19:45:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 19:50:35 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: MURAT AĞIREL İFŞA ETTİ: AKP Üsküdar'ı Madde Madde Nasıl Ele Geçirdi?</title>
+      <link>https://www.youtube.com/watch?v=1sIJqu5eV2Y</link>
+      <guid isPermaLink="false">1sIJqu5eV2Y</guid>
+      <pubDate>Wed, 09 Sep 2026 19:40:16 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: MURAT AĞIREL İFŞA ETTİ: AKP Üsküdar'ı Madde Madde Nasıl Ele Geçirdi?</description>
+    </item>
     <item>
       <title>Tele2 Haber: Gökçek Soruşturmasının Şifreleri Neler? Nurcan Gökdemir'den çok kritik açıklama!</title>
       <link>https://www.youtube.com/watch?v=2Wzi6RSnyQA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">V9hAv4GtBvc</guid>
       <pubDate>Wed, 09 Sep 2026 15:50:25 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Yıllarca tek bir karesi bile yoktu... MİT'te namıdiğer 'Hayalet'ti: 15 yıl sonra kritik bir karar!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: CHP'de Mansur Yavaş Krizi! Özlem Gürses'ten Olay Sözler! "İktidarın En Zorlandığı İsim Mansur Yavaş'</title>
-      <link>https://www.youtube.com/watch?v=cLi5DlBAa7o</link>
-      <guid isPermaLink="false">cLi5DlBAa7o</guid>
-      <pubDate>Wed, 09 Sep 2026 15:40:28 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: CHP'de Mansur Yavaş Krizi! Özlem Gürses'ten Olay Sözler! "İktidarın En Zorlandığı İsim Mansur Yavaş'</description>
     </item>
   </channel>
 </rss>
