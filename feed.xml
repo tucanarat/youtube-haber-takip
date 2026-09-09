@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 11:00:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 11:05:32 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Doğu’da erken kış alarmı: Kars’ta eylül ayında dondurucu soğuk etkisini gösterdi</title>
+      <link>https://www.youtube.com/shorts/PLdbS88KZco</link>
+      <guid isPermaLink="false">PLdbS88KZco</guid>
+      <pubDate>Wed, 09 Sep 2026 11:01:34 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Doğu’da erken kış alarmı: Kars’ta eylül ayında dondurucu soğuk etkisini gösterdi</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İran ABD Denizaltısını Ele Geçirdi! Hürmüz'de Tarihe Geçen Operasyon! Burak Tatari Haritada Anlattı</title>
+      <link>https://www.youtube.com/watch?v=GnhgUr-nQe0</link>
+      <guid isPermaLink="false">GnhgUr-nQe0</guid>
+      <pubDate>Wed, 09 Sep 2026 11:00:02 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İran ABD Denizaltısını Ele Geçirdi! Hürmüz'de Tarihe Geçen Operasyon! Burak Tatari Haritada Anlattı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Can Coşkun ile Gündem Masası | 9 Eylül</title>
       <link>https://www.youtube.com/watch?v=4A-lxjPKJNw</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">IUh6y696lP4</guid>
       <pubDate>Wed, 09 Sep 2026 08:15:36 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "Demirtaş 10 Yıldır Tutsak, İmamoğlu 2400 Yıla Rağmen Geri Adım Atmıyor!" Öncü'den Tehdit Tepkisi!</description>
-    </item>
-    <item>
-      <title>Halk TV: GÖZLER MANSUR YAVAŞ'A ÇEVRİLMİŞTİ! Kılıçdaroğlu'nu hüsrana uğratacak yanıt geldi! Ankara alev alev!</title>
-      <link>https://www.youtube.com/watch?v=FTXgxH2RbY0</link>
-      <guid isPermaLink="false">FTXgxH2RbY0</guid>
-      <pubDate>Wed, 09 Sep 2026 08:15:33 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: GÖZLER MANSUR YAVAŞ'A ÇEVRİLMİŞTİ! Kılıçdaroğlu'nu hüsrana uğratacak yanıt geldi! Ankara alev alev!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Öğretmenlerden MEB'e 'kıyafet' tepkisi! "DAYATMAYI İTİBAR OLARAK SUNMAYA ÇALIŞIYORLAR"</title>
-      <link>https://www.youtube.com/watch?v=qTYvrbwJXAM</link>
-      <guid isPermaLink="false">qTYvrbwJXAM</guid>
-      <pubDate>Wed, 09 Sep 2026 08:08:39 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Öğretmenlerden MEB'e 'kıyafet' tepkisi! "DAYATMAYI İTİBAR OLARAK SUNMAYA ÇALIŞIYORLAR"</description>
     </item>
   </channel>
 </rss>
