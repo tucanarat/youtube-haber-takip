@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 11:10:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 11:15:35 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI İBB Başkan Vekili Nuri Aslan, Fatih Spor Kompleksi’nin yenileme sonrası açılışında konuşuyor</title>
+      <link>https://www.youtube.com/watch?v=1ak9-wxntHI</link>
+      <guid isPermaLink="false">1ak9-wxntHI</guid>
+      <pubDate>Wed, 09 Sep 2026 11:13:04 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI İBB Başkan Vekili Nuri Aslan, Fatih Spor Kompleksi’nin yenileme sonrası açılışında konuşuyor</description>
+    </item>
     <item>
       <title>Tele2 Haber: "Allah Kimseyi Akit'in Desteklediği Kişi Haline Getirmesin!" Can Uğur'dan Kılıçdaroğlu'na Ağır Söz!</title>
       <link>https://www.youtube.com/watch?v=Fs9FKOIH6EY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">hHhCLyB674I</guid>
       <pubDate>Wed, 09 Sep 2026 08:30:02 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Üsküdar’da Kirli Oyun İddiası! İsmail Küçükkaya’dan Tarihi Tepki! 'Milli İrade Neydi?'</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Selçuk Mızraklı Diyarbakır'da: Artık bu toprağa barışı ekelim</title>
-      <link>https://www.youtube.com/watch?v=0gmwXKa6CQA</link>
-      <guid isPermaLink="false">0gmwXKa6CQA</guid>
-      <pubDate>Wed, 09 Sep 2026 08:22:01 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Selçuk Mızraklı Diyarbakır'da: Artık bu toprağa barışı ekelim</description>
     </item>
   </channel>
 </rss>
