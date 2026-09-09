@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 11:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 12:00:54 +0000</lastBuildDate>
     <item>
       <title>Halk TV: Gürcistan’dan havalanan 2 yolculu uçak, Çayeli açıklarında denize acil iniş yaptı!</title>
       <link>https://www.youtube.com/shorts/yRXSqy0pMcM</link>
       <guid isPermaLink="false">yRXSqy0pMcM</guid>
       <pubDate>Wed, 09 Sep 2026 11:53:16 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Gürcistan’dan havalanan 2 yolculu uçak, Çayeli açıklarında denize acil iniş yaptı!</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: CHP'den “Geçmişin Değerlendirilmesi ve Gelecek Vizyonunun Tespiti’ toplantısı #Canlı</title>
+      <link>https://www.youtube.com/watch?v=CaC60hH5Wx4</link>
+      <guid isPermaLink="false">CaC60hH5Wx4</guid>
+      <pubDate>Wed, 09 Sep 2026 11:52:58 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: CHP'den “Geçmişin Değerlendirilmesi ve Gelecek Vizyonunun Tespiti’ toplantısı #Canlı</description>
     </item>
     <item>
       <title>Halk TV: İhracı istenen vekil Ahmet Baran Yazgan CHP töreninde en önde! Hakkında taciz soruşturması açılmıştı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">yGr_r66Cmmk</guid>
       <pubDate>Wed, 09 Sep 2026 09:09:16 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: İnan Demirel ile Gündemdekiler | Konuk: Nurcan Gökdemir (09.09.2026)</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Fred’i ve Talisca’yı neden gönderdiniz? - Hilmi Türkay</title>
-      <link>https://www.youtube.com/watch?v=T7e4UOQbPpU</link>
-      <guid isPermaLink="false">T7e4UOQbPpU</guid>
-      <pubDate>Wed, 09 Sep 2026 09:02:41 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Fred’i ve Talisca’yı neden gönderdiniz? - Hilmi Türkay</description>
     </item>
   </channel>
 </rss>
