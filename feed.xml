@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 19:10:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 19:15:35 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Mansur Yavaş Erdoğan Görüşmesinin Sırrı! Üsküdar'da Meclis Nasıl Ele Geçirildi?</title>
+      <link>https://www.youtube.com/watch?v=6-CuhMvayOo</link>
+      <guid isPermaLink="false">6-CuhMvayOo</guid>
+      <pubDate>Wed, 09 Sep 2026 19:00:37 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Mansur Yavaş Erdoğan Görüşmesinin Sırrı! Üsküdar'da Meclis Nasıl Ele Geçirildi?</description>
+    </item>
     <item>
       <title>Tele2 Haber: "TEDBİR OLARAK MI SİYASETİ BIRAKTI?" Murat Taylan'dan çok kritik Ahmet Davutoğlu yorumu!</title>
       <link>https://www.youtube.com/watch?v=Y4YM8EAZeb8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">quLhadBxNkQ</guid>
       <pubDate>Wed, 09 Sep 2026 15:20:37 +0000</pubDate>
       <description>Halk TV kanalından yeni video: EMEKLİLİK SİSTEMİNDE DEĞİŞİKLİK RAFA MI KALKTI? Özgür Erdursun ekonomide felaket senaryosu açıkladı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Özlem Gürses'ten Çarpıcı Kılıçdaroğlu Çıkışı! Özgür Özel'siz 103 Yıl Videosu! CHP'de Büyük Çatlak</title>
-      <link>https://www.youtube.com/watch?v=NwNFIMvZTbk</link>
-      <guid isPermaLink="false">NwNFIMvZTbk</guid>
-      <pubDate>Wed, 09 Sep 2026 15:20:23 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses'ten Çarpıcı Kılıçdaroğlu Çıkışı! Özgür Özel'siz 103 Yıl Videosu! CHP'de Büyük Çatlak</description>
     </item>
   </channel>
 </rss>
