@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 21:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 21:25:27 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: AKP'NİN GİZLİ İSTANBUL PLANI İFŞA OLDU! İmamoğlu'nu Bekleyen Tehlike Ne? İsmail Saymaz Anlattı</title>
+      <link>https://www.youtube.com/watch?v=ziA9IhSXQzY</link>
+      <guid isPermaLink="false">ziA9IhSXQzY</guid>
+      <pubDate>Wed, 09 Sep 2026 21:20:10 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: AKP'NİN GİZLİ İSTANBUL PLANI İFŞA OLDU! İmamoğlu'nu Bekleyen Tehlike Ne? İsmail Saymaz Anlattı</description>
+    </item>
     <item>
       <title>Halk TV: SON DAKİKA! Çalışmalar devam ediyor! Aydın'da otluk alanda çıkan yangın kontrol altına alındı!</title>
       <link>https://www.youtube.com/watch?v=wSZOWBfaIio</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">imVoZsrrK6k</guid>
       <pubDate>Wed, 09 Sep 2026 16:48:01 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | Kürşad Oğuz ile Rota</description>
-    </item>
-    <item>
-      <title>Halk TV: YOK ARTIK! Hayırseverler bağışladı, Kızılay satışa çıkardı... Bakın şimdi de neyi sattılar!</title>
-      <link>https://www.youtube.com/watch?v=aqUlmkguBqg</link>
-      <guid isPermaLink="false">aqUlmkguBqg</guid>
-      <pubDate>Wed, 09 Sep 2026 16:45:19 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YOK ARTIK! Hayırseverler bağışladı, Kızılay satışa çıkardı... Bakın şimdi de neyi sattılar!</description>
     </item>
   </channel>
 </rss>
