@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 17:30:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 17:35:29 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: CHP'nin 103. Kuruluş Yıldönümü Resepsiyonu #Canlı</title>
       <link>https://www.youtube.com/watch?v=Ho4guIr1My4</link>
       <guid isPermaLink="false">Ho4guIr1My4</guid>
       <pubDate>Wed, 09 Sep 2026 17:29:35 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: CHP'nin 103. Kuruluş Yıldönümü Resepsiyonu #Canlı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Suriye'de Türkçe Müfredattan Çıkarıldı! Ankara'da Gece Yarısı Zirvesi! Hakan Fidan Ahmed eş-Şara</title>
+      <link>https://www.youtube.com/watch?v=4VZfqysimCY</link>
+      <guid isPermaLink="false">4VZfqysimCY</guid>
+      <pubDate>Wed, 09 Sep 2026 17:20:04 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Suriye'de Türkçe Müfredattan Çıkarıldı! Ankara'da Gece Yarısı Zirvesi! Hakan Fidan Ahmed eş-Şara</description>
     </item>
     <item>
       <title>Tele2 Haber: Üsküdar Belediyesi AKP'ye geçti, Özgür Çelik'e soruşturma başlatıldı! Taylan'dan çok sert yorum...</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">JuLqRVNtXXI</guid>
       <pubDate>Wed, 09 Sep 2026 14:35:13 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Almanya bu olayı konuşuyor: Yer altı dünyasının kilit 2 ismi otoparkta infaz edildi!</description>
-    </item>
-    <item>
-      <title>Halk TV: Gökhan Günaydın: Tarihe Akit'in manşetlerinde değil, halkın vicdanlarında geçmektir mesele olan!</title>
-      <link>https://www.youtube.com/shorts/hK1FrbXVH3Q</link>
-      <guid isPermaLink="false">hK1FrbXVH3Q</guid>
-      <pubDate>Wed, 09 Sep 2026 14:31:12 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Gökhan Günaydın: Tarihe Akit'in manşetlerinde değil, halkın vicdanlarında geçmektir mesele olan!</description>
     </item>
   </channel>
 </rss>
