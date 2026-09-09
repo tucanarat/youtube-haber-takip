@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 15:45:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 15:50:36 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: CHP'de Mansur Yavaş Krizi! Özlem Gürses'ten Olay Sözler! "İktidarın En Zorlandığı İsim Mansur Yavaş'</title>
+      <link>https://www.youtube.com/watch?v=cLi5DlBAa7o</link>
+      <guid isPermaLink="false">cLi5DlBAa7o</guid>
+      <pubDate>Wed, 09 Sep 2026 15:40:28 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: CHP'de Mansur Yavaş Krizi! Özlem Gürses'ten Olay Sözler! "İktidarın En Zorlandığı İsim Mansur Yavaş'</description>
+    </item>
     <item>
       <title>Halk TV: 'Vanlı iş insanı' videosunun sonu gözaltı oldu! Kara Haydar videosuna benzetildi gözaltına alındı!</title>
       <link>https://www.youtube.com/watch?v=LG9Zkm6IHy4</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Og1UjNJX-3g</guid>
       <pubDate>Wed, 09 Sep 2026 12:45:22 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ÜSKÜDAR'DAN SON SIRA İBB'DE Mİ? YENİ Partili Gül Çiftci AKP'nin sarsıcı planını bir bir anlattı!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Ezgi Apartmanı'nda üç evladını kaybetti... Anne Göksu: Yaşamaya devam edebilmem için bir sebep verin</title>
-      <link>https://www.youtube.com/watch?v=tgZTU2p-Dkg</link>
-      <guid isPermaLink="false">tgZTU2p-Dkg</guid>
-      <pubDate>Wed, 09 Sep 2026 12:34:26 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Ezgi Apartmanı'nda üç evladını kaybetti... Anne Göksu: Yaşamaya devam edebilmem için bir sebep verin</description>
     </item>
   </channel>
 </rss>
