@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 08:01:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 08:06:03 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: İsmail Küçükkaya ile Günaydın Türkiyem | 9 Eylül</title>
+      <link>https://www.youtube.com/watch?v=kfnDy9EfcJo</link>
+      <guid isPermaLink="false">kfnDy9EfcJo</guid>
+      <pubDate>Wed, 09 Sep 2026 08:05:08 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya ile Günaydın Türkiyem | 9 Eylül</description>
+    </item>
+    <item>
+      <title>Halk TV: KILIÇDAROĞLU GERİ ADIM ATMIYOR! Kurultay planı şoke edecek! Yeniden aday olmak için sinyali verdi!</title>
+      <link>https://www.youtube.com/watch?v=s33lA0gvND4</link>
+      <guid isPermaLink="false">s33lA0gvND4</guid>
+      <pubDate>Wed, 09 Sep 2026 08:00:28 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KILIÇDAROĞLU GERİ ADIM ATMIYOR! Kurultay planı şoke edecek! Yeniden aday olmak için sinyali verdi!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İran'dan ABD'ye Şok Baskın! ABD'nin Üslerine Saldırı! Hark Adası'nda Peş Peşe Patlamalar</title>
+      <link>https://www.youtube.com/watch?v=JTT_GfEYHlY</link>
+      <guid isPermaLink="false">JTT_GfEYHlY</guid>
+      <pubDate>Wed, 09 Sep 2026 08:00:00 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İran'dan ABD'ye Şok Baskın! ABD'nin Üslerine Saldırı! Hark Adası'nda Peş Peşe Patlamalar</description>
+    </item>
     <item>
       <title>Tele2 Haber: Zeynel Lüle ile Ankara Günlüğü | Konuk: Umut Akdoğan (09.09.2026)</title>
       <link>https://www.youtube.com/watch?v=1ReMKstxf2w</link>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">eHNOy4iO8UE</guid>
       <pubDate>Tue, 08 Sep 2026 23:24:33 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: İYİ Parti Genel Başkan Yardımcısı Burak Dalgın basın toplantısı düzenliyor</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Ukrayna İçin Kritik Toplantı! Trump ve Putin Zirvesinde Kritik Karar! ABD'den Rusya'ya Olay Teklif</title>
-      <link>https://www.youtube.com/watch?v=MsEdVw-dZdU</link>
-      <guid isPermaLink="false">MsEdVw-dZdU</guid>
-      <pubDate>Tue, 08 Sep 2026 23:20:29 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Ukrayna İçin Kritik Toplantı! Trump ve Putin Zirvesinde Kritik Karar! ABD'den Rusya'ya Olay Teklif</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: CHP'de İpler Koptu! Mansur Yavaş'tan Çarpıcı Hamle! Kılıçdaroğlu'ndan Olay İmamoğlu Çıkışı</title>
-      <link>https://www.youtube.com/watch?v=XCxnpZU0hno</link>
-      <guid isPermaLink="false">XCxnpZU0hno</guid>
-      <pubDate>Tue, 08 Sep 2026 23:00:30 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: CHP'de İpler Koptu! Mansur Yavaş'tan Çarpıcı Hamle! Kılıçdaroğlu'ndan Olay İmamoğlu Çıkışı</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Numan Kurtulmuş, Irak Temsilciler Meclisi Başkanı Heybet Halbusi ile toplantısı düzenliyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=Q8mHg-w4WZU</link>
-      <guid isPermaLink="false">Q8mHg-w4WZU</guid>
-      <pubDate>Tue, 08 Sep 2026 22:59:37 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Numan Kurtulmuş, Irak Temsilciler Meclisi Başkanı Heybet Halbusi ile toplantısı düzenliyor #Canlı</description>
     </item>
   </channel>
 </rss>
