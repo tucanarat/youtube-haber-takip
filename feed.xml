@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 14:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 14:40:36 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Zeynel Lüle ile Ankara Günlüğü | Konuk: Umut Akdoğan (09.09.2026)</title>
+      <link>https://www.youtube.com/watch?v=1ReMKstxf2w</link>
+      <guid isPermaLink="false">1ReMKstxf2w</guid>
+      <pubDate>Wed, 09 Sep 2026 14:39:18 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Zeynel Lüle ile Ankara Günlüğü | Konuk: Umut Akdoğan (09.09.2026)</description>
+    </item>
     <item>
       <title>Cumhuriyet: Kendisi küçük yüreği büyük: 12 yaşındaki çocuk dumandan etkilenen oğlağını sırtında taşıdı</title>
       <link>https://www.youtube.com/shorts/_hhBVkr8xos</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Fs9FKOIH6EY</guid>
       <pubDate>Wed, 09 Sep 2026 11:06:55 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "Allah Kimseyi Akit'in Desteklediği Kişi Haline Getirmesin!" Can Uğur'dan Kılıçdaroğlu'na Ağır Söz!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Doğu’da erken kış alarmı: Kars’ta eylül ayında dondurucu soğuk etkisini gösterdi</title>
-      <link>https://www.youtube.com/shorts/PLdbS88KZco</link>
-      <guid isPermaLink="false">PLdbS88KZco</guid>
-      <pubDate>Wed, 09 Sep 2026 11:01:34 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Doğu’da erken kış alarmı: Kars’ta eylül ayında dondurucu soğuk etkisini gösterdi</description>
     </item>
   </channel>
 </rss>
