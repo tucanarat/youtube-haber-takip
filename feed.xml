@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 13:50:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 13:55:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: PİYASALARDA FIRTINA ÖNCESİ SESSİZLİK! Yükselişe geçen altın fiyatının gidişatını o veri belirleyecek</title>
+      <link>https://www.youtube.com/watch?v=EfBVHazYBXM</link>
+      <guid isPermaLink="false">EfBVHazYBXM</guid>
+      <pubDate>Wed, 09 Sep 2026 13:50:26 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: PİYASALARDA FIRTINA ÖNCESİ SESSİZLİK! Yükselişe geçen altın fiyatının gidişatını o veri belirleyecek</description>
+    </item>
     <item>
       <title>Halk TV: Sanal medyada “Vanlı iş insanı” diye paylaşılmıştı! Ali Haydar Kurum tutuklandı!</title>
       <link>https://www.youtube.com/shorts/kgjF6qSLHbI</link>
@@ -71,11 +78,11 @@
       <description>SÖZCÜ TV kanalından yeni video: Erdoğan Sordu, Eda Erdem'in Cevabı Milyonları Gülümsetti! #shorts</description>
     </item>
     <item>
-      <title>Cumhuriyet: #CANLI İBB Davasında 78. gün! “Müge Anlı programına döndü”</title>
+      <title>Cumhuriyet: #CANLI İBB Davasında 78. gün! “Murat Ongun’un eşi olmak suç sayıldı”</title>
       <link>https://www.youtube.com/watch?v=qQgKp3iYeOw</link>
       <guid isPermaLink="false">qQgKp3iYeOw</guid>
       <pubDate>Wed, 09 Sep 2026 13:13:41 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI İBB Davasında 78. gün! “Müge Anlı programına döndü”</description>
+      <description>Cumhuriyet kanalından yeni video: #CANLI İBB Davasında 78. gün! “Murat Ongun’un eşi olmak suç sayıldı”</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | İrem Sansak ile Haber Masası</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">xW5xVGR4WxI</guid>
       <pubDate>Wed, 09 Sep 2026 10:20:33 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "Tarihe Akit'in Manşetinde Değil Halkın Vicdanlarında Geçmektir Mesele! Günaydın'dan Butlana Tepki!</description>
-    </item>
-    <item>
-      <title>Halk TV: Üsküdarlının iradesi yok sayıldı, AKP tehdit ve şantajla seçimi kazandı! Onur Cingil'den şok sözler!</title>
-      <link>https://www.youtube.com/watch?v=0Cu920p2aW8</link>
-      <guid isPermaLink="false">0Cu920p2aW8</guid>
-      <pubDate>Wed, 09 Sep 2026 10:15:35 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Üsküdarlının iradesi yok sayıldı, AKP tehdit ve şantajla seçimi kazandı! Onur Cingil'den şok sözler!</description>
     </item>
   </channel>
 </rss>
