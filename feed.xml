@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 14:25:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 14:30:51 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: 'Gökçek Ailesinin Mal Varlıklarına El Konulmalı' MASAK Eski Başkan Yardımcısı Anlattı!</title>
       <link>https://www.youtube.com/watch?v=HCNBPFOjuVA</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">BVpUVKOP6Aw</guid>
       <pubDate>Wed, 09 Sep 2026 14:20:05 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ANKARA'DA DİKKET ÇEKEN BULUŞMA! Mehmet Ağar, Ankara İl Emniyet Müdürü'nü ziyaret etti!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: "Orada Barajın %3'e Düşeceği İnancı Var!" Umut Akdoğan'dan Çok Kritik CHP İddiası!</title>
+      <link>https://www.youtube.com/watch?v=oBJZh1B7hR4</link>
+      <guid isPermaLink="false">oBJZh1B7hR4</guid>
+      <pubDate>Wed, 09 Sep 2026 14:15:35 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "Orada Barajın %3'e Düşeceği İnancı Var!" Umut Akdoğan'dan Çok Kritik CHP İddiası!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: BOLU'DA FECİ KAZA! 19 Yaşındaki Genç Kurtarılamadı! #shorts</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">8HbswWB_NJ0</guid>
       <pubDate>Wed, 09 Sep 2026 11:00:20 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ALMANYA'DA TAŞLAR YERİNDEN OYNADI! Irkçı parti AfD'nin seçim zaferi Merkel'i derdinden sarsmış!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İran ABD Denizaltısını Ele Geçirdi! Hürmüz'de Tarihe Geçen Operasyon! Burak Tatari Haritada Anlattı</title>
-      <link>https://www.youtube.com/watch?v=GnhgUr-nQe0</link>
-      <guid isPermaLink="false">GnhgUr-nQe0</guid>
-      <pubDate>Wed, 09 Sep 2026 11:00:02 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İran ABD Denizaltısını Ele Geçirdi! Hürmüz'de Tarihe Geçen Operasyon! Burak Tatari Haritada Anlattı</description>
     </item>
   </channel>
 </rss>
