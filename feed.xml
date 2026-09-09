@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 12:05:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 12:10:37 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Özgür Çelik'in 'tehditle AKP'ye geçti' iddiası gündem olmuştu! Ayhan Aydın o sözlere bakın ne dedi!</title>
+      <link>https://www.youtube.com/watch?v=1JPzWPTxXq8</link>
+      <guid isPermaLink="false">1JPzWPTxXq8</guid>
+      <pubDate>Wed, 09 Sep 2026 12:00:29 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Özgür Çelik'in 'tehditle AKP'ye geçti' iddiası gündem olmuştu! Ayhan Aydın o sözlere bakın ne dedi!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: 'Müge Anlı Programına Döndü' İBB Davasında Ortalık Karıştı! Mahkeme Başkanından Beklenmedik Çıkış</title>
       <link>https://www.youtube.com/watch?v=jBx7UKEIW_c</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">zioN2eu_VdA</guid>
       <pubDate>Wed, 09 Sep 2026 09:15:06 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Butlanın Savunucusu Akit! "Kılıçdaroğlu Daha Önce Kendisine Küfür Eden Akit'e Manşet Oldu!"</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Burdur’da içleri ısıtan görüntü: Tezgahtan karpuzu aldılar, kameraya bakıp helallik istediler</title>
-      <link>https://www.youtube.com/shorts/gAL1VltXwB8</link>
-      <guid isPermaLink="false">gAL1VltXwB8</guid>
-      <pubDate>Wed, 09 Sep 2026 09:09:16 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Burdur’da içleri ısıtan görüntü: Tezgahtan karpuzu aldılar, kameraya bakıp helallik istediler</description>
     </item>
   </channel>
 </rss>
