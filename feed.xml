@@ -6,13 +6,34 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 17:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 17:05:27 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | CHP Genel Başkanı Kemal Kılıçdaroğlu, CHP'nin 103. Kuruluş Yıldönümünde konuşuyor!</title>
+      <link>https://www.youtube.com/watch?v=I5QStBi-ZTc</link>
+      <guid isPermaLink="false">I5QStBi-ZTc</guid>
+      <pubDate>Wed, 09 Sep 2026 17:02:10 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | CHP Genel Başkanı Kemal Kılıçdaroğlu, CHP'nin 103. Kuruluş Yıldönümünde konuşuyor!</description>
+    </item>
     <item>
       <title>Halk TV: Ece Üner ile Halk Ana Haber | #elbet (9 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=yjF-EIFnmDs</link>
       <guid isPermaLink="false">yjF-EIFnmDs</guid>
       <pubDate>Wed, 09 Sep 2026 17:00:11 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Ece Üner ile Halk Ana Haber | #elbet (9 Eylül 2026)</description>
+    </item>
+    <item>
+      <title>Halk TV: AKP'li Dündar Ziya Gültekin: "Dün itibarıyla biz o işi bitirdik!" #shorts</title>
+      <link>https://www.youtube.com/shorts/DMiIA9RO3PM</link>
+      <guid isPermaLink="false">DMiIA9RO3PM</guid>
+      <pubDate>Wed, 09 Sep 2026 17:00:11 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: AKP'li Dündar Ziya Gültekin: "Dün itibarıyla biz o işi bitirdik!" #shorts</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Sosyal Medyadan Satış Yapanlar Dikkat! Ağır Vergi Kıskacı Başladı | Mahmut Aydoğmuş | Vergi Kafe</title>
+      <link>https://www.youtube.com/watch?v=98DeNnEmvz8</link>
+      <guid isPermaLink="false">98DeNnEmvz8</guid>
+      <pubDate>Wed, 09 Sep 2026 17:00:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Sosyal Medyadan Satış Yapanlar Dikkat! Ağır Vergi Kıskacı Başladı | Mahmut Aydoğmuş | Vergi Kafe</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Özlem Gürses ile Sözcü Ana Haber 9 Eylül</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">BVpUVKOP6Aw</guid>
       <pubDate>Wed, 09 Sep 2026 14:20:05 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ANKARA'DA DİKKET ÇEKEN BULUŞMA! Mehmet Ağar, Ankara İl Emniyet Müdürü'nü ziyaret etti!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "Orada Barajın %3'e Düşeceği İnancı Var!" Umut Akdoğan'dan Çok Kritik CHP İddiası!</title>
-      <link>https://www.youtube.com/watch?v=oBJZh1B7hR4</link>
-      <guid isPermaLink="false">oBJZh1B7hR4</guid>
-      <pubDate>Wed, 09 Sep 2026 14:15:35 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "Orada Barajın %3'e Düşeceği İnancı Var!" Umut Akdoğan'dan Çok Kritik CHP İddiası!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: BOLU'DA FECİ KAZA! 19 Yaşındaki Genç Kurtarılamadı! #shorts</title>
-      <link>https://www.youtube.com/shorts/RJMSBZzQcFQ</link>
-      <guid isPermaLink="false">RJMSBZzQcFQ</guid>
-      <pubDate>Wed, 09 Sep 2026 14:15:02 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: BOLU'DA FECİ KAZA! 19 Yaşındaki Genç Kurtarılamadı! #shorts</description>
-    </item>
-    <item>
-      <title>Halk TV: BUTLAN EKİBİ YOK SAYDI! Kılıçdaroğlu, CHP'nin 103. yıl dönümü paylaşımında Özgür Özel'e yer vermedi!</title>
-      <link>https://www.youtube.com/watch?v=3f8tUbQMWjE</link>
-      <guid isPermaLink="false">3f8tUbQMWjE</guid>
-      <pubDate>Wed, 09 Sep 2026 14:05:03 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BUTLAN EKİBİ YOK SAYDI! Kılıçdaroğlu, CHP'nin 103. yıl dönümü paylaşımında Özgür Özel'e yer vermedi!</description>
     </item>
   </channel>
 </rss>
