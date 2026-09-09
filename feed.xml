@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 21:45:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 21:50:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SON DAKİKA! Dilek İmamoğlu'nun kardeşi Ali Kaya tahliye edildi!</title>
+      <link>https://www.youtube.com/watch?v=WA1VRxr3xmA</link>
+      <guid isPermaLink="false">WA1VRxr3xmA</guid>
+      <pubDate>Wed, 09 Sep 2026 21:44:24 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! Dilek İmamoğlu'nun kardeşi Ali Kaya tahliye edildi!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Mansur Yavaş Erdoğan Görüşmesinin Perde Arkası! Saygı Öztürk Her Şeyi Tek Tek Açıkladı</title>
       <link>https://www.youtube.com/watch?v=TUTovAko0Lc</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">DMiIA9RO3PM</guid>
       <pubDate>Wed, 09 Sep 2026 17:00:11 +0000</pubDate>
       <description>Halk TV kanalından yeni video: AKP'li Dündar Ziya Gültekin: "Dün itibarıyla biz o işi bitirdik!" #shorts</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Sosyal Medyadan Satış Yapanlar Dikkat! Ağır Vergi Kıskacı Başladı | Mahmut Aydoğmuş | Vergi Kafe</title>
-      <link>https://www.youtube.com/watch?v=98DeNnEmvz8</link>
-      <guid isPermaLink="false">98DeNnEmvz8</guid>
-      <pubDate>Wed, 09 Sep 2026 17:00:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Sosyal Medyadan Satış Yapanlar Dikkat! Ağır Vergi Kıskacı Başladı | Mahmut Aydoğmuş | Vergi Kafe</description>
     </item>
   </channel>
 </rss>
