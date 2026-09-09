@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 11:50:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 11:55:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Gürcistan’dan havalanan 2 yolculu uçak, Çayeli açıklarında denize acil iniş yaptı!</title>
+      <link>https://www.youtube.com/shorts/yRXSqy0pMcM</link>
+      <guid isPermaLink="false">yRXSqy0pMcM</guid>
+      <pubDate>Wed, 09 Sep 2026 11:53:16 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Gürcistan’dan havalanan 2 yolculu uçak, Çayeli açıklarında denize acil iniş yaptı!</description>
+    </item>
+    <item>
+      <title>Halk TV: İhracı istenen vekil Ahmet Baran Yazgan CHP töreninde en önde! Hakkında taciz soruşturması açılmıştı</title>
+      <link>https://www.youtube.com/shorts/CAzH9WwhTLU</link>
+      <guid isPermaLink="false">CAzH9WwhTLU</guid>
+      <pubDate>Wed, 09 Sep 2026 11:52:57 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İhracı istenen vekil Ahmet Baran Yazgan CHP töreninde en önde! Hakkında taciz soruşturması açılmıştı</description>
+    </item>
     <item>
       <title>Halk TV: 'ETKİN PİŞMANLIK' İFADELERİ DE KENDİSİNİ KURTARAMADI! Tezkan'dan Muhittin Böcek'in oğluna şok sözler</title>
       <link>https://www.youtube.com/watch?v=j9pBrbj1SDM</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">T7e4UOQbPpU</guid>
       <pubDate>Wed, 09 Sep 2026 09:02:41 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Fred’i ve Talisca’yı neden gönderdiniz? - Hilmi Türkay</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Dönüşü olmayan yol - Ahmet Süha Umar</title>
-      <link>https://www.youtube.com/watch?v=mqfIMIxrLfc</link>
-      <guid isPermaLink="false">mqfIMIxrLfc</guid>
-      <pubDate>Wed, 09 Sep 2026 09:02:40 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Dönüşü olmayan yol - Ahmet Süha Umar</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: 104 yıl önce İzmir! - Arif Kızılyalın</title>
-      <link>https://www.youtube.com/watch?v=mHlsVjWkVLQ</link>
-      <guid isPermaLink="false">mHlsVjWkVLQ</guid>
-      <pubDate>Wed, 09 Sep 2026 09:02:38 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: 104 yıl önce İzmir! - Arif Kızılyalın</description>
     </item>
   </channel>
 </rss>
