@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 20:05:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 20:10:37 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Gazeteci Masası - İsmail Saymaz, Barış Terkoğlu, Murat Ağırel, Saygı Öztürk 9 Eylül</title>
+      <link>https://www.youtube.com/watch?v=tVtSP-NXcrU</link>
+      <guid isPermaLink="false">tVtSP-NXcrU</guid>
+      <pubDate>Wed, 09 Sep 2026 20:06:05 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Gazeteci Masası - İsmail Saymaz, Barış Terkoğlu, Murat Ağırel, Saygı Öztürk 9 Eylül</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İktidarın İBB Planı Deşifre Oldu! Barış Terkoğlu'ndan Seçim Tarihi Kulisi! Çarpıcı İmamoğlu Çıkışı</title>
       <link>https://www.youtube.com/watch?v=m52ZXCVzxh4</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">LI49KH02NmE</guid>
       <pubDate>Wed, 09 Sep 2026 16:05:20 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Akit’in manşeti siyaseti karıştırdı! Günaydın’dan Kılıçdaroğlu’na gönderme</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Şamil Tayyar'dan Kulisleri Sallayan Seçim Çıkışı! AKP'nin Erken Seçim Planı İfşa Oldu</title>
-      <link>https://www.youtube.com/watch?v=bNrCmIxkVeE</link>
-      <guid isPermaLink="false">bNrCmIxkVeE</guid>
-      <pubDate>Wed, 09 Sep 2026 16:00:39 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Şamil Tayyar'dan Kulisleri Sallayan Seçim Çıkışı! AKP'nin Erken Seçim Planı İfşa Oldu</description>
     </item>
   </channel>
 </rss>
