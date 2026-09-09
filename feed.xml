@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 23:30:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 23:35:29 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: İBB Başkan Vekili Nuri Aslan, Fatih Spor Kompleksi'nin yenileme sonrası açılışında konuşuyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=73Y1gythSVA</link>
+      <guid isPermaLink="false">73Y1gythSVA</guid>
+      <pubDate>Wed, 09 Sep 2026 23:33:47 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: İBB Başkan Vekili Nuri Aslan, Fatih Spor Kompleksi'nin yenileme sonrası açılışında konuşuyor #Canlı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Kaşif Kozinoğlu'nun Ölümünde 15 Yıllık Karanlık Sır Çözülüyor! Kemik Dokusunda Yıllanmış Zehir İzi</title>
       <link>https://www.youtube.com/watch?v=VJyRNurYoWA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">hG-LUVP8mbw</guid>
       <pubDate>Wed, 09 Sep 2026 18:11:37 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: 'GÖKÇEK SORUŞTUMASI' İÇİN NURCAN GÖKDEMİR'DEN ÇOK KRİTİK YORUM!</description>
-    </item>
-    <item>
-      <title>Halk TV: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (09 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=TtEYrg8B4Zo</link>
-      <guid isPermaLink="false">TtEYrg8B4Zo</guid>
-      <pubDate>Wed, 09 Sep 2026 18:00:32 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (09 Eylül 2026)</description>
     </item>
   </channel>
 </rss>
