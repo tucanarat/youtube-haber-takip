@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 10:30:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 10:35:28 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: CÜBBELİ AHMET HADDİNİ AŞTI! Üsküdar'daki seçim sonucuna skandal çıkış! İbrahim Kahveci çılgına döndü</title>
+      <link>https://www.youtube.com/watch?v=C39HzYcZroE</link>
+      <guid isPermaLink="false">C39HzYcZroE</guid>
+      <pubDate>Wed, 09 Sep 2026 10:30:23 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: CÜBBELİ AHMET HADDİNİ AŞTI! Üsküdar'daki seçim sonucuna skandal çıkış! İbrahim Kahveci çılgına döndü</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: "Tarihe Akit'in Manşetinde Değil Halkın Vicdanlarında Geçmektir Mesele! Günaydın'dan Butlana Tepki!</title>
+      <link>https://www.youtube.com/watch?v=xW5xVGR4WxI</link>
+      <guid isPermaLink="false">xW5xVGR4WxI</guid>
+      <pubDate>Wed, 09 Sep 2026 10:20:33 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "Tarihe Akit'in Manşetinde Değil Halkın Vicdanlarında Geçmektir Mesele! Günaydın'dan Butlana Tepki!</description>
+    </item>
     <item>
       <title>Halk TV: Üsküdarlının iradesi yok sayıldı, AKP tehdit ve şantajla seçimi kazandı! Onur Cingil'den şok sözler!</title>
       <link>https://www.youtube.com/watch?v=0Cu920p2aW8</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">1ReMKstxf2w</guid>
       <pubDate>Wed, 09 Sep 2026 07:49:47 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Zeynel Lüle ile Ankara Günlüğü | Konuk: Umut Akdoğan (09.09.2026)</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Zeynel Lüle ve Faruk Bildirici ile Medyamorfoz (09.09.26)</title>
-      <link>https://www.youtube.com/watch?v=rnGvZdfRK4E</link>
-      <guid isPermaLink="false">rnGvZdfRK4E</guid>
-      <pubDate>Wed, 09 Sep 2026 07:46:32 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Zeynel Lüle ve Faruk Bildirici ile Medyamorfoz (09.09.26)</description>
-    </item>
-    <item>
-      <title>Halk TV: SAVAŞ YENİDEN ŞİDDETLENDİ! ABD Hürmüz'ü vurdu; İran ise Ürdün'deki ABD üslerini cehenneme çevirdi!</title>
-      <link>https://www.youtube.com/watch?v=P6s2VV5Ia-A</link>
-      <guid isPermaLink="false">P6s2VV5Ia-A</guid>
-      <pubDate>Wed, 09 Sep 2026 07:45:11 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SAVAŞ YENİDEN ŞİDDETLENDİ! ABD Hürmüz'ü vurdu; İran ise Ürdün'deki ABD üslerini cehenneme çevirdi!</description>
     </item>
   </channel>
 </rss>
