@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 07:45:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 07:50:34 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Zeynel Lüle ile Ankara Günlüğü | Konuk: Umut Akdoğan (09.09.2026)</title>
+      <link>https://www.youtube.com/watch?v=1ReMKstxf2w</link>
+      <guid isPermaLink="false">1ReMKstxf2w</guid>
+      <pubDate>Wed, 09 Sep 2026 07:49:47 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Zeynel Lüle ile Ankara Günlüğü | Konuk: Umut Akdoğan (09.09.2026)</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #CANLI Zeynel Lüle ve Faruk Bildirici ile Medyamorfoz (09.09.26)</title>
+      <link>https://www.youtube.com/watch?v=rnGvZdfRK4E</link>
+      <guid isPermaLink="false">rnGvZdfRK4E</guid>
+      <pubDate>Wed, 09 Sep 2026 07:46:32 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Zeynel Lüle ve Faruk Bildirici ile Medyamorfoz (09.09.26)</description>
+    </item>
     <item>
       <title>Tele2 Haber: Onur Öncü'den "Tehdit" Tepkisi! "AİLELERİ YOK MUYDU?"</title>
       <link>https://www.youtube.com/shorts/FrNEQJHpxjQ</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">AUJs_2LQBlY</guid>
       <pubDate>Tue, 08 Sep 2026 22:40:37 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İRAN'DAN ABD'YE ŞOK MİSİLLEME! Ortadoğu Cehenneme Dönecek! Trump Çok Öfkelenecek</description>
-    </item>
-    <item>
-      <title>Halk TV: ACI VEREN GÖRÜNTÜLER! Antalya'da ormanlık alandaki yangına müdahale sürüyor!</title>
-      <link>https://www.youtube.com/watch?v=6BDvGvmc1tE</link>
-      <guid isPermaLink="false">6BDvGvmc1tE</guid>
-      <pubDate>Tue, 08 Sep 2026 22:30:07 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ACI VEREN GÖRÜNTÜLER! Antalya'da ormanlık alandaki yangına müdahale sürüyor!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Numan Kurtulmuş, Irak Temsilciler Meclisi Başkanı Heybet Halbusi ile toplantısı düzenliyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=PaUWW4xBO7Q</link>
-      <guid isPermaLink="false">PaUWW4xBO7Q</guid>
-      <pubDate>Tue, 08 Sep 2026 22:27:02 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Numan Kurtulmuş, Irak Temsilciler Meclisi Başkanı Heybet Halbusi ile toplantısı düzenliyor #Canlı</description>
     </item>
   </channel>
 </rss>
