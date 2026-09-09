@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 20:10:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 20:16:09 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: YÜREKLER AĞZA GELDİ! İzmir'de banka çalışanlarını rehin alan şüpheli gözaltına alındı!</title>
+      <link>https://www.youtube.com/watch?v=met9mDCJU6Y</link>
+      <guid isPermaLink="false">met9mDCJU6Y</guid>
+      <pubDate>Wed, 09 Sep 2026 20:15:32 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YÜREKLER AĞZA GELDİ! İzmir'de banka çalışanlarını rehin alan şüpheli gözaltına alındı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Gazeteci Masası - İsmail Saymaz, Barış Terkoğlu, Murat Ağırel, Saygı Öztürk 9 Eylül</title>
       <link>https://www.youtube.com/watch?v=tVtSP-NXcrU</link>
       <guid isPermaLink="false">tVtSP-NXcrU</guid>
       <pubDate>Wed, 09 Sep 2026 20:06:05 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Gazeteci Masası - İsmail Saymaz, Barış Terkoğlu, Murat Ağırel, Saygı Öztürk 9 Eylül</description>
+    </item>
+    <item>
+      <title>Halk TV: Mahmut Tanal'dan flaş sözler! Gökçek ve ailesine adalet işleyecek mi? İşin aslı ne?</title>
+      <link>https://www.youtube.com/watch?v=Ss16P2i7kH8</link>
+      <guid isPermaLink="false">Ss16P2i7kH8</guid>
+      <pubDate>Wed, 09 Sep 2026 20:00:39 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Mahmut Tanal'dan flaş sözler! Gökçek ve ailesine adalet işleyecek mi? İşin aslı ne?</description>
     </item>
     <item>
       <title>SÖZCÜ TV: İktidarın İBB Planı Deşifre Oldu! Barış Terkoğlu'ndan Seçim Tarihi Kulisi! Çarpıcı İmamoğlu Çıkışı</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">f0J70gCmIFg</guid>
       <pubDate>Wed, 09 Sep 2026 16:20:13 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Üsküdar'ı Karıştıran Şok Şantaj Olayı! Özgür Çelik Anlattı! Ayhan Aydın'dan Çarpıcı Açıklama</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: ÖZGÜR ÇELİK'TEN ÇARPICI AÇIKLAMALAR! Tehdit Soruşturmasına Tarihi Cevap</title>
-      <link>https://www.youtube.com/watch?v=MqhNqALMRbo</link>
-      <guid isPermaLink="false">MqhNqALMRbo</guid>
-      <pubDate>Wed, 09 Sep 2026 16:16:46 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: ÖZGÜR ÇELİK'TEN ÇARPICI AÇIKLAMALAR! Tehdit Soruşturmasına Tarihi Cevap</description>
-    </item>
-    <item>
-      <title>Halk TV: Akit’in manşeti siyaseti karıştırdı! Günaydın’dan Kılıçdaroğlu’na gönderme</title>
-      <link>https://www.youtube.com/watch?v=LI49KH02NmE</link>
-      <guid isPermaLink="false">LI49KH02NmE</guid>
-      <pubDate>Wed, 09 Sep 2026 16:05:20 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Akit’in manşeti siyaseti karıştırdı! Günaydın’dan Kılıçdaroğlu’na gönderme</description>
     </item>
   </channel>
 </rss>
