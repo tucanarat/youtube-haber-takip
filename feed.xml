@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 21:55:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 22:00:50 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: YENİ Parti Grup Başkanvekili Gökhan Günaydın, TBMM'de açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=etzPKVYABuA</link>
+      <guid isPermaLink="false">etzPKVYABuA</guid>
+      <pubDate>Wed, 09 Sep 2026 21:57:55 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Grup Başkanvekili Gökhan Günaydın, TBMM'de açıklama yapıyor #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: SON DAKİKA! Dilek İmamoğlu'nun kardeşi Ali Kaya tahliye edildi!</title>
       <link>https://www.youtube.com/watch?v=WA1VRxr3xmA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">yjF-EIFnmDs</guid>
       <pubDate>Wed, 09 Sep 2026 17:00:11 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Ece Üner ile Halk Ana Haber | #elbet (9 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: AKP'li Dündar Ziya Gültekin: "Dün itibarıyla biz o işi bitirdik!" #shorts</title>
-      <link>https://www.youtube.com/shorts/DMiIA9RO3PM</link>
-      <guid isPermaLink="false">DMiIA9RO3PM</guid>
-      <pubDate>Wed, 09 Sep 2026 17:00:11 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: AKP'li Dündar Ziya Gültekin: "Dün itibarıyla biz o işi bitirdik!" #shorts</description>
     </item>
   </channel>
 </rss>
