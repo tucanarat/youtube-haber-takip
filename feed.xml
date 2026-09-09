@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 15:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 15:10:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: "ÜSKÜDAR'DA DEVLET KARŞIMIZDAYDI" Tarık Balyalı sarsıcı bilgileri Halk TV YouTube'a açıkladı!</title>
+      <link>https://www.youtube.com/watch?v=jBSPtJPc62I</link>
+      <guid isPermaLink="false">jBSPtJPc62I</guid>
+      <pubDate>Wed, 09 Sep 2026 15:05:10 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: "ÜSKÜDAR'DA DEVLET KARŞIMIZDAYDI" Tarık Balyalı sarsıcı bilgileri Halk TV YouTube'a açıkladı!</description>
+    </item>
     <item>
       <title>Halk TV: Selçuk Mızraklı ile Demirtaş'ın annesi arasında yürek burkan diyalog: "Sen niye tek geldin!"</title>
       <link>https://www.youtube.com/shorts/NzZsmG3oWlg</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">yRXSqy0pMcM</guid>
       <pubDate>Wed, 09 Sep 2026 11:53:16 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Gürcistan’dan havalanan 2 yolculu uçak, Çayeli açıklarında denize acil iniş yaptı!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: CHP'den “Geçmişin Değerlendirilmesi ve Gelecek Vizyonunun Tespiti’ toplantısı #Canlı</title>
-      <link>https://www.youtube.com/watch?v=CaC60hH5Wx4</link>
-      <guid isPermaLink="false">CaC60hH5Wx4</guid>
-      <pubDate>Wed, 09 Sep 2026 11:52:58 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP'den “Geçmişin Değerlendirilmesi ve Gelecek Vizyonunun Tespiti’ toplantısı #Canlı</description>
     </item>
   </channel>
 </rss>
