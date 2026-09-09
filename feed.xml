@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 05:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 05:05:27 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Tahliye edilen Selçuk Mızraklı, Sırrı Süreyya Önder'in mezarını ziyaret ediyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=7o0qZxVoSUI</link>
+      <guid isPermaLink="false">7o0qZxVoSUI</guid>
+      <pubDate>Wed, 09 Sep 2026 02:10:58 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Tahliye edilen Selçuk Mızraklı, Sırrı Süreyya Önder'in mezarını ziyaret ediyor #Canlı</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI YENİ Parti Sözcüsü Zeynel Emre,  Parti Genel Merkezi’nde açıklama yapıyor</title>
       <link>https://www.youtube.com/watch?v=YJP37UeRMog</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">AQ57wtLYcL4</guid>
       <pubDate>Tue, 08 Sep 2026 20:20:23 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Nevzat Çiçek'ten Tarihi Analiz! Netanyahu Ortadoğu'da Kırmızı Çizgiyi Aştı! İsrail'in Suriye Planı</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Çelik o anları ilk kez anlatmıştı! Özgür Çelik’in bu açıklamasına soruşturma! #shorts</title>
-      <link>https://www.youtube.com/shorts/9Ro0uIIf_HU</link>
-      <guid isPermaLink="false">9Ro0uIIf_HU</guid>
-      <pubDate>Tue, 08 Sep 2026 20:15:11 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Çelik o anları ilk kez anlatmıştı! Özgür Çelik’in bu açıklamasına soruşturma! #shorts</description>
     </item>
   </channel>
 </rss>
