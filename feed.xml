@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 00:00:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 00:05:25 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Atlas Çağlayan Davasında Olay Karar Ersan Barkın'dan Çarpıcı Sözler! '200 Bin Çocuğu Şüpheli Gördük'</title>
+      <link>https://www.youtube.com/watch?v=xQOPbPoF0sw</link>
+      <guid isPermaLink="false">xQOPbPoF0sw</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:22 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Atlas Çağlayan Davasında Olay Karar Ersan Barkın'dan Çarpıcı Sözler! '200 Bin Çocuğu Şüpheli Gördük'</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: CHP Genel Başkanı Kemal Kılıçdaroğlu "Cumhuriyet Bir Kadın Devrimidir" panelinde #Canlı</title>
       <link>https://www.youtube.com/watch?v=tnP9mEcu5fU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">T91BGNsIKQg</guid>
       <pubDate>Tue, 08 Sep 2026 19:53:16 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SON DAKİKA! "ÜSKÜDAR'DA BUGÜN OLANLAR DEMOKRASİYE BİR ALAYDIR!" Nacho Sanchez'in Üsküdar tepkisi!</description>
-    </item>
-    <item>
-      <title>Halk TV: "AKLINI YİTİRMİŞ ŞEKİLDE OY VERDİ" Suat Özçağdaş’tan gündemi sallayacak Üsküdar bombası!</title>
-      <link>https://www.youtube.com/watch?v=562OlIbfoi8</link>
-      <guid isPermaLink="false">562OlIbfoi8</guid>
-      <pubDate>Tue, 08 Sep 2026 19:45:15 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: "AKLINI YİTİRMİŞ ŞEKİLDE OY VERDİ" Suat Özçağdaş’tan gündemi sallayacak Üsküdar bombası!</description>
     </item>
   </channel>
 </rss>
