@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 21:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 21:20:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SON DAKİKA! Çalışmalar devam ediyor! Aydın'da otluk alanda çıkan yangın kontrol altına alındı!</title>
+      <link>https://www.youtube.com/watch?v=wSZOWBfaIio</link>
+      <guid isPermaLink="false">wSZOWBfaIio</guid>
+      <pubDate>Wed, 09 Sep 2026 21:15:22 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! Çalışmalar devam ediyor! Aydın'da otluk alanda çıkan yangın kontrol altına alındı!</description>
+    </item>
+    <item>
+      <title>Halk TV: SON DAKİKA! Aydın’da korkutan yangın! Otluk alandaki alevler kontrol altına alındı! #shorts</title>
+      <link>https://www.youtube.com/shorts/6R3rf8Ggx_w</link>
+      <guid isPermaLink="false">6R3rf8Ggx_w</guid>
+      <pubDate>Wed, 09 Sep 2026 21:07:43 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! Aydın’da korkutan yangın! Otluk alandaki alevler kontrol altına alındı! #shorts</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Barış Terkoğlu'ndan Gündem Olacak Mansur Yavaş Analizi! Beştepe'de Erdoğan İle Beklenmedik Zirve</title>
       <link>https://www.youtube.com/watch?v=ZiR0EJe0Vwc</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">aqUlmkguBqg</guid>
       <pubDate>Wed, 09 Sep 2026 16:45:19 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YOK ARTIK! Hayırseverler bağışladı, Kızılay satışa çıkardı... Bakın şimdi de neyi sattılar!</description>
-    </item>
-    <item>
-      <title>Halk TV: Eskişehir’de ekiplerin zorlu mücadelesi sonuç verdi! Çıkan orman yangını söndürüldü! #shorts</title>
-      <link>https://www.youtube.com/shorts/Gg2k5c35jDE</link>
-      <guid isPermaLink="false">Gg2k5c35jDE</guid>
-      <pubDate>Wed, 09 Sep 2026 16:45:11 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Eskişehir’de ekiplerin zorlu mücadelesi sonuç verdi! Çıkan orman yangını söndürüldü! #shorts</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Hürmüz'de Tansiyon Tavan Yaptı! İran'dan Cehennem Gibi Misilleme! Husiler Savaşa Dahil Oldu</title>
-      <link>https://www.youtube.com/watch?v=tDpQ_NuibAg</link>
-      <guid isPermaLink="false">tDpQ_NuibAg</guid>
-      <pubDate>Wed, 09 Sep 2026 16:40:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Hürmüz'de Tansiyon Tavan Yaptı! İran'dan Cehennem Gibi Misilleme! Husiler Savaşa Dahil Oldu</description>
     </item>
   </channel>
 </rss>
