@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 18:45:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 18:50:39 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: "TEDBİR OLARAK MI SİYASETİ BIRAKTI?" Murat Taylan'dan çok kritik Ahmet Davutoğlu yorumu!</title>
+      <link>https://www.youtube.com/watch?v=Y4YM8EAZeb8</link>
+      <guid isPermaLink="false">Y4YM8EAZeb8</guid>
+      <pubDate>Wed, 09 Sep 2026 18:45:12 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "TEDBİR OLARAK MI SİYASETİ BIRAKTI?" Murat Taylan'dan çok kritik Ahmet Davutoğlu yorumu!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Saygı Öztürk'ten Olay Kulis! Gizli Kılıçdaroğlu Görüşmesi! CHP'de Mansur Yavaş Bilmecesi</title>
       <link>https://www.youtube.com/watch?v=aOF43Osz-nk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">NwNFIMvZTbk</guid>
       <pubDate>Wed, 09 Sep 2026 15:20:23 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses'ten Çarpıcı Kılıçdaroğlu Çıkışı! Özgür Özel'siz 103 Yıl Videosu! CHP'de Büyük Çatlak</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: 🔴 İBB davasında bir ilk: İlk kez bir sanığa avukatlara hiçbir soru soramadı</title>
-      <link>https://www.youtube.com/shorts/3HbO4FVk8dU</link>
-      <guid isPermaLink="false">3HbO4FVk8dU</guid>
-      <pubDate>Wed, 09 Sep 2026 15:14:44 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: 🔴 İBB davasında bir ilk: İlk kez bir sanığa avukatlara hiçbir soru soramadı</description>
     </item>
   </channel>
 </rss>
