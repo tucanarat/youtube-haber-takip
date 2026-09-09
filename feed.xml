@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 13:00:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 13:05:27 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | İrem Sansak ile Haber Masası</title>
+      <link>https://www.youtube.com/watch?v=D1Ny5gUvlrg</link>
+      <guid isPermaLink="false">D1Ny5gUvlrg</guid>
+      <pubDate>Wed, 09 Sep 2026 13:02:34 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | İrem Sansak ile Haber Masası</description>
+    </item>
     <item>
       <title>Halk TV: Butlan CHP'si Genel Başkanı Kemal Kılıçdaroğlu Konuştu (9 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=yOi1EwTFSSc</link>
@@ -335,13 +342,6 @@
       <guid isPermaLink="false">5kC7a_hpjkU</guid>
       <pubDate>Wed, 09 Sep 2026 09:52:52 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: SURİYE İDLİB'DE BÜYÜK PATLAMA! Türkiye Sınırında Panik! Çok Sayıda Yaralılar Var!</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | İrem Sansak ile Haber Masası</title>
-      <link>https://www.youtube.com/watch?v=D1Ny5gUvlrg</link>
-      <guid isPermaLink="false">D1Ny5gUvlrg</guid>
-      <pubDate>Wed, 09 Sep 2026 09:51:01 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | İrem Sansak ile Haber Masası</description>
     </item>
     <item>
       <title>Halk TV: BU BİLGİLERİ İLK KEZ DUYACAKSINIZ! Milli mücadelede düşman kuvvetleri İzmir'den böyle söküp atılmış!</title>
