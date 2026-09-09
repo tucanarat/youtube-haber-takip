@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 12:00:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 12:05:31 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: 'Müge Anlı Programına Döndü' İBB Davasında Ortalık Karıştı! Mahkeme Başkanından Beklenmedik Çıkış</title>
+      <link>https://www.youtube.com/watch?v=jBx7UKEIW_c</link>
+      <guid isPermaLink="false">jBx7UKEIW_c</guid>
+      <pubDate>Wed, 09 Sep 2026 12:00:23 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: 'Müge Anlı Programına Döndü' İBB Davasında Ortalık Karıştı! Mahkeme Başkanından Beklenmedik Çıkış</description>
+    </item>
     <item>
       <title>Halk TV: Gürcistan’dan havalanan 2 yolculu uçak, Çayeli açıklarında denize acil iniş yaptı!</title>
       <link>https://www.youtube.com/shorts/yRXSqy0pMcM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">gAL1VltXwB8</guid>
       <pubDate>Wed, 09 Sep 2026 09:09:16 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Burdur’da içleri ısıtan görüntü: Tezgahtan karpuzu aldılar, kameraya bakıp helallik istediler</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: İnan Demirel ile Gündemdekiler | Konuk: Nurcan Gökdemir (09.09.2026)</title>
-      <link>https://www.youtube.com/watch?v=yGr_r66Cmmk</link>
-      <guid isPermaLink="false">yGr_r66Cmmk</guid>
-      <pubDate>Wed, 09 Sep 2026 09:09:16 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: İnan Demirel ile Gündemdekiler | Konuk: Nurcan Gökdemir (09.09.2026)</description>
     </item>
   </channel>
 </rss>
