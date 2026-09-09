@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 09:30:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 09:35:27 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI YENİ Parti Grup Başkanvekili Gökhan Günaydın, TBMM'de açıklama yapıyor</title>
+      <link>https://www.youtube.com/watch?v=w7knbLFPYvU</link>
+      <guid isPermaLink="false">w7knbLFPYvU</guid>
+      <pubDate>Wed, 09 Sep 2026 09:32:52 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti Grup Başkanvekili Gökhan Günaydın, TBMM'de açıklama yapıyor</description>
+    </item>
     <item>
       <title>Cumhuriyet: Sosyal medya paylaşımları başını yaktı: Ali Haydar Kurum hakkında soruşturma ve gözaltı kararı</title>
       <link>https://www.youtube.com/shorts/TB84Fqu8yDM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">IGUdUj6N8Zs</guid>
       <pubDate>Wed, 09 Sep 2026 06:52:44 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | Ebru Baki ile Para Siyaset | İbrahim Kahveci - Mehmet Tezkan</description>
-    </item>
-    <item>
-      <title>Halk TV: Bolu'da kavga zinciri: İnşaatta başladı, polis merkezi önünde sona erdi!</title>
-      <link>https://www.youtube.com/shorts/0H0f6_UWtbk</link>
-      <guid isPermaLink="false">0H0f6_UWtbk</guid>
-      <pubDate>Wed, 09 Sep 2026 06:51:08 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Bolu'da kavga zinciri: İnşaatta başladı, polis merkezi önünde sona erdi!</description>
     </item>
   </channel>
 </rss>
