@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 13:45:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 13:50:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Sanal medyada “Vanlı iş insanı” diye paylaşılmıştı! Ali Haydar Kurum tutuklandı!</title>
+      <link>https://www.youtube.com/shorts/kgjF6qSLHbI</link>
+      <guid isPermaLink="false">kgjF6qSLHbI</guid>
+      <pubDate>Wed, 09 Sep 2026 13:45:56 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Sanal medyada “Vanlı iş insanı” diye paylaşılmıştı! Ali Haydar Kurum tutuklandı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Senem Toluay Ilgaz ile Öncesi Sonrası | 9 Eylül</title>
       <link>https://www.youtube.com/watch?v=nqsze7LdCws</link>
       <guid isPermaLink="false">nqsze7LdCws</guid>
       <pubDate>Wed, 09 Sep 2026 13:39:01 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Senem Toluay Ilgaz ile Öncesi Sonrası | 9 Eylül</description>
+    </item>
+    <item>
+      <title>Halk TV: SON DAKİKA! Özgür Çelik'in iddiaları gündemi altüst etmişti! O sözleri nedeniyle ifadeye çağrıldı!</title>
+      <link>https://www.youtube.com/watch?v=YUzQV31qnw0</link>
+      <guid isPermaLink="false">YUzQV31qnw0</guid>
+      <pubDate>Wed, 09 Sep 2026 13:35:06 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! Özgür Çelik'in iddiaları gündemi altüst etmişti! O sözleri nedeniyle ifadeye çağrıldı!</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Kemal Kılıçdaroğlu: “Türkiye’nin bütün evlatlarına CHP’nin kapıları açık olmalıdır” #shorts</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">0Cu920p2aW8</guid>
       <pubDate>Wed, 09 Sep 2026 10:15:35 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Üsküdarlının iradesi yok sayıldı, AKP tehdit ve şantajla seçimi kazandı! Onur Cingil'den şok sözler!</description>
-    </item>
-    <item>
-      <title>Halk TV: Kılıçdaroğlu ile Anıtkabir'e gidenler arasında Zeydan Karalar, Vahap Seçer ve Ahmet Akın da yer aldı</title>
-      <link>https://www.youtube.com/shorts/H7vnSySiVdg</link>
-      <guid isPermaLink="false">H7vnSySiVdg</guid>
-      <pubDate>Wed, 09 Sep 2026 10:14:14 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Kılıçdaroğlu ile Anıtkabir'e gidenler arasında Zeydan Karalar, Vahap Seçer ve Ahmet Akın da yer aldı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: İzmir'in düşman işgalinden kurtuluşunun 104. yıl dönümü</title>
-      <link>https://www.youtube.com/watch?v=yYyFMo0SvzA</link>
-      <guid isPermaLink="false">yYyFMo0SvzA</guid>
-      <pubDate>Wed, 09 Sep 2026 10:10:25 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: İzmir'in düşman işgalinden kurtuluşunun 104. yıl dönümü</description>
     </item>
   </channel>
 </rss>
