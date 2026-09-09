@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 17:25:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 17:30:47 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: CHP'nin 103. Kuruluş Yıldönümü Resepsiyonu #Canlı</title>
+      <link>https://www.youtube.com/watch?v=Ho4guIr1My4</link>
+      <guid isPermaLink="false">Ho4guIr1My4</guid>
+      <pubDate>Wed, 09 Sep 2026 17:29:35 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: CHP'nin 103. Kuruluş Yıldönümü Resepsiyonu #Canlı</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Üsküdar Belediyesi AKP'ye geçti, Özgür Çelik'e soruşturma başlatıldı! Taylan'dan çok sert yorum...</title>
+      <link>https://www.youtube.com/watch?v=OMp812aj6RA</link>
+      <guid isPermaLink="false">OMp812aj6RA</guid>
+      <pubDate>Wed, 09 Sep 2026 17:15:22 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Üsküdar Belediyesi AKP'ye geçti, Özgür Çelik'e soruşturma başlatıldı! Taylan'dan çok sert yorum...</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | CHP'nin 103. Kuruluş Yıldönümü sebebiyle 9 Eylül Resepsiyonu düzenleniyor!</title>
       <link>https://www.youtube.com/watch?v=LtXhC9AvYt4</link>
@@ -22,11 +36,11 @@
       <description>Halk TV kanalından yeni video: CHP Genel Başkanı Kemal Kılıçdaroğlu, CHP'nin 103. Kuruluş Yıldönümünde konuştu.</description>
     </item>
     <item>
-      <title>Tele2 Haber: #CANLI Murat Taylan ile Haber-Yorum (09.09.2026)</title>
+      <title>Tele2 Haber: ÖZGÜR ÇELİK'TEN ÜSKÜDAR SEÇİMLERİNE İLİŞKİN SUÇ DUYURUSU! Murat Taylan ile Haber-Yorum (09.09.2026)</title>
       <link>https://www.youtube.com/watch?v=QyFyINl1W9A</link>
       <guid isPermaLink="false">QyFyINl1W9A</guid>
       <pubDate>Wed, 09 Sep 2026 17:05:27 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Murat Taylan ile Haber-Yorum (09.09.2026)</description>
+      <description>Tele2 Haber kanalından yeni video: ÖZGÜR ÇELİK'TEN ÜSKÜDAR SEÇİMLERİNE İLİŞKİN SUÇ DUYURUSU! Murat Taylan ile Haber-Yorum (09.09.2026)</description>
     </item>
     <item>
       <title>Halk TV: Ece Üner ile Halk Ana Haber | #elbet (9 Eylül 2026)</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">hK1FrbXVH3Q</guid>
       <pubDate>Wed, 09 Sep 2026 14:31:12 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Gökhan Günaydın: Tarihe Akit'in manşetlerinde değil, halkın vicdanlarında geçmektir mesele olan!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Kendisi küçük yüreği büyük: 12 yaşındaki çocuk dumandan etkilenen oğlağını sırtında taşıdı</title>
-      <link>https://www.youtube.com/shorts/_hhBVkr8xos</link>
-      <guid isPermaLink="false">_hhBVkr8xos</guid>
-      <pubDate>Wed, 09 Sep 2026 14:30:11 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Kendisi küçük yüreği büyük: 12 yaşındaki çocuk dumandan etkilenen oğlağını sırtında taşıdı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: 'Gökçek Ailesinin Mal Varlıklarına El Konulmalı' MASAK Eski Başkan Yardımcısı Anlattı!</title>
-      <link>https://www.youtube.com/watch?v=HCNBPFOjuVA</link>
-      <guid isPermaLink="false">HCNBPFOjuVA</guid>
-      <pubDate>Wed, 09 Sep 2026 14:20:35 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: 'Gökçek Ailesinin Mal Varlıklarına El Konulmalı' MASAK Eski Başkan Yardımcısı Anlattı!</description>
     </item>
   </channel>
 </rss>
