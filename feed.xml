@@ -6,13 +6,34 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 16:10:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 16:15:35 +0000</lastBuildDate>
     <item>
       <title>Halk TV: Akit’in manşeti siyaseti karıştırdı! Günaydın’dan Kılıçdaroğlu’na gönderme</title>
       <link>https://www.youtube.com/watch?v=LI49KH02NmE</link>
       <guid isPermaLink="false">LI49KH02NmE</guid>
       <pubDate>Wed, 09 Sep 2026 16:05:20 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Akit’in manşeti siyaseti karıştırdı! Günaydın’dan Kılıçdaroğlu’na gönderme</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: ÖZGÜR ÇELİK'TEN ÇARPICI AÇIKLAMALAR! Tehdit Soruşturmasına Tarihi Cevap</title>
+      <link>https://www.youtube.com/watch?v=MqhNqALMRbo</link>
+      <guid isPermaLink="false">MqhNqALMRbo</guid>
+      <pubDate>Wed, 09 Sep 2026 16:05:09 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: ÖZGÜR ÇELİK'TEN ÇARPICI AÇIKLAMALAR! Tehdit Soruşturmasına Tarihi Cevap</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Şamil Tayyar'dan Kulisleri Sallayan Seçim Çıkışı! AKP'nin Erken Seçim Planı İfşa Oldu</title>
+      <link>https://www.youtube.com/watch?v=bNrCmIxkVeE</link>
+      <guid isPermaLink="false">bNrCmIxkVeE</guid>
+      <pubDate>Wed, 09 Sep 2026 16:00:39 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Şamil Tayyar'dan Kulisleri Sallayan Seçim Çıkışı! AKP'nin Erken Seçim Planı İfşa Oldu</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Ayhan Aydın'ın ifadesi ortaya çıktı! Murat Taylan Üsküdar Belediyesi'nde yaşananları yorumladı...</title>
+      <link>https://www.youtube.com/watch?v=y3kDFVofKgM</link>
+      <guid isPermaLink="false">y3kDFVofKgM</guid>
+      <pubDate>Wed, 09 Sep 2026 16:00:36 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Ayhan Aydın'ın ifadesi ortaya çıktı! Murat Taylan Üsküdar Belediyesi'nde yaşananları yorumladı...</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Özgür Çelik, hakkında başlatılan soruşturmaya ilişkin açıklama yapıyor #Canlı</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">bFEUk4UZ83g</guid>
       <pubDate>Wed, 09 Sep 2026 13:27:32 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Üsküdar Belediyesi'nin AKP'ye geçmesine sevinen yurttaştan garip tepki!</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! BAŞSAVCILIK ÖZGÜR ÇELİK HAKKINDA SORUŞTURMA BAŞLATTI! Sebebi 3 Meclis üyesinin şikayeti!</title>
-      <link>https://www.youtube.com/watch?v=oD9ccHMcLxw</link>
-      <guid isPermaLink="false">oD9ccHMcLxw</guid>
-      <pubDate>Wed, 09 Sep 2026 13:17:24 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! BAŞSAVCILIK ÖZGÜR ÇELİK HAKKINDA SORUŞTURMA BAŞLATTI! Sebebi 3 Meclis üyesinin şikayeti!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Erdoğan Sordu, Eda Erdem'in Cevabı Milyonları Gülümsetti! #shorts</title>
-      <link>https://www.youtube.com/shorts/l4RdRd3Xg9I</link>
-      <guid isPermaLink="false">l4RdRd3Xg9I</guid>
-      <pubDate>Wed, 09 Sep 2026 13:15:24 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Erdoğan Sordu, Eda Erdem'in Cevabı Milyonları Gülümsetti! #shorts</description>
-    </item>
-    <item>
-      <title>Halk TV: İrem Sansak ile Haber Masası (9 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=D1Ny5gUvlrg</link>
-      <guid isPermaLink="false">D1Ny5gUvlrg</guid>
-      <pubDate>Wed, 09 Sep 2026 13:02:34 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İrem Sansak ile Haber Masası (9 Eylül 2026)</description>
     </item>
   </channel>
 </rss>
