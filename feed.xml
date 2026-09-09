@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 21:35:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 21:40:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ABD'NİN VURDUĞU GEMİNİN SON HALİ! İran Devrim Muhafızları'na ait savaş gemisi yanmış halde bulundu!</title>
+      <link>https://www.youtube.com/watch?v=OmjxTogMoIs</link>
+      <guid isPermaLink="false">OmjxTogMoIs</guid>
+      <pubDate>Wed, 09 Sep 2026 21:30:20 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ABD'NİN VURDUĞU GEMİNİN SON HALİ! İran Devrim Muhafızları'na ait savaş gemisi yanmış halde bulundu!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: AKP'NİN GİZLİ İSTANBUL PLANI İFŞA OLDU! İmamoğlu'nu Bekleyen Tehlike Ne? İsmail Saymaz Anlattı</title>
       <link>https://www.youtube.com/watch?v=ziA9IhSXQzY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">iqNJeDxlMEc</guid>
       <pubDate>Wed, 09 Sep 2026 16:57:07 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses ile Sözcü Ana Haber 9 Eylül</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Kürşad Oğuz ile Rota</title>
-      <link>https://www.youtube.com/watch?v=imVoZsrrK6k</link>
-      <guid isPermaLink="false">imVoZsrrK6k</guid>
-      <pubDate>Wed, 09 Sep 2026 16:48:01 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Kürşad Oğuz ile Rota</description>
     </item>
   </channel>
 </rss>
