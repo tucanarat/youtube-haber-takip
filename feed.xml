@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 19:50:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 19:55:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Meclis toplantısına katılmadılar: Belediye Başkanı Candan Yüceer, duruma böyle isyan etti!</title>
+      <link>https://www.youtube.com/watch?v=dSEDt0Cqvt4</link>
+      <guid isPermaLink="false">dSEDt0Cqvt4</guid>
+      <pubDate>Wed, 09 Sep 2026 19:45:04 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Meclis toplantısına katılmadılar: Belediye Başkanı Candan Yüceer, duruma böyle isyan etti!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: MURAT AĞIREL İFŞA ETTİ: AKP Üsküdar'ı Madde Madde Nasıl Ele Geçirdi?</title>
       <link>https://www.youtube.com/watch?v=1sIJqu5eV2Y</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">WwaynyPl9sQ</guid>
       <pubDate>Wed, 09 Sep 2026 15:55:21 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: CHP'nin 103. Kuruluş Yıldönümü sebebiyle 9 Eylül Resepsiyonu düzenleniyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: Yıllarca tek bir karesi bile yoktu... MİT'te namıdiğer 'Hayalet'ti: 15 yıl sonra kritik bir karar!</title>
-      <link>https://www.youtube.com/watch?v=V9hAv4GtBvc</link>
-      <guid isPermaLink="false">V9hAv4GtBvc</guid>
-      <pubDate>Wed, 09 Sep 2026 15:50:25 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Yıllarca tek bir karesi bile yoktu... MİT'te namıdiğer 'Hayalet'ti: 15 yıl sonra kritik bir karar!</description>
     </item>
   </channel>
 </rss>
