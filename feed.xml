@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 10:55:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 11:00:55 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Can Coşkun ile Gündem Masası | 9 Eylül</title>
+      <link>https://www.youtube.com/watch?v=4A-lxjPKJNw</link>
+      <guid isPermaLink="false">4A-lxjPKJNw</guid>
+      <pubDate>Wed, 09 Sep 2026 10:59:08 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Can Coşkun ile Gündem Masası | 9 Eylül</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: İBB Başkan Vekili Nuri Aslan, Fatih Spor Kompleksi'nin yenileme sonrası açılışında konuşuyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=73Y1gythSVA</link>
+      <guid isPermaLink="false">73Y1gythSVA</guid>
+      <pubDate>Wed, 09 Sep 2026 10:53:04 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: İBB Başkan Vekili Nuri Aslan, Fatih Spor Kompleksi'nin yenileme sonrası açılışında konuşuyor #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: AKP'NİN ŞOK PLANINI AÇIKLADI! Üsküdar'daki seçim meğerse bunun habercisiymiş! Tezkan tek tek anlattı</title>
       <link>https://www.youtube.com/watch?v=yCl6NyvRauA</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">qTYvrbwJXAM</guid>
       <pubDate>Wed, 09 Sep 2026 08:08:39 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Öğretmenlerden MEB'e 'kıyafet' tepkisi! "DAYATMAYI İTİBAR OLARAK SUNMAYA ÇALIŞIYORLAR"</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: İzmir'in düşman işgalinden kurtuluşunun 104. yıl dönümü kutlanıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=dQaae28tRgU</link>
-      <guid isPermaLink="false">dQaae28tRgU</guid>
-      <pubDate>Wed, 09 Sep 2026 08:07:07 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: İzmir'in düşman işgalinden kurtuluşunun 104. yıl dönümü kutlanıyor #Canlı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İsmail Küçükkaya ile Günaydın Türkiyem | 9 Eylül</title>
-      <link>https://www.youtube.com/watch?v=kfnDy9EfcJo</link>
-      <guid isPermaLink="false">kfnDy9EfcJo</guid>
-      <pubDate>Wed, 09 Sep 2026 08:05:08 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya ile Günaydın Türkiyem | 9 Eylül</description>
     </item>
   </channel>
 </rss>
