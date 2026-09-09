@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 12:30:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 12:35:26 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: "Bu Rejimin En Korktuğu Şey Demokratik Yurttaş Tepkisi!" Can Uğur'dan Çarpıcı Üsküdar Yorumu!</title>
+      <link>https://www.youtube.com/watch?v=bolSKTmswUg</link>
+      <guid isPermaLink="false">bolSKTmswUg</guid>
+      <pubDate>Wed, 09 Sep 2026 12:30:14 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "Bu Rejimin En Korktuğu Şey Demokratik Yurttaş Tepkisi!" Can Uğur'dan Çarpıcı Üsküdar Yorumu!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Avrupa'nın Kabusu Gerçek Oldu! Almanya'da Aşırı Sağ Seçimlere Damga Vurdu! Türklerden AfD'ye Destek</title>
+      <link>https://www.youtube.com/watch?v=AcwV4_qDSWk</link>
+      <guid isPermaLink="false">AcwV4_qDSWk</guid>
+      <pubDate>Wed, 09 Sep 2026 12:30:09 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Avrupa'nın Kabusu Gerçek Oldu! Almanya'da Aşırı Sağ Seçimlere Damga Vurdu! Türklerden AfD'ye Destek</description>
+    </item>
     <item>
       <title>Halk TV: ÜSKÜDAR'DAKİ SEÇİMDEN SONRA HÜNGÜR HÜNGÜR AĞLAMIŞTI! CHP'li Hazal Bayhan Koç o anları anlattı!</title>
       <link>https://www.youtube.com/watch?v=ZCdkiOp9cMg</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">rIV4T7xP3zA</guid>
       <pubDate>Wed, 09 Sep 2026 09:30:56 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İBB DAVASINDA TANSİYON YÜKSELDİ! Mahkeme başkanının o sözleri gerilimi tavan yaptı! İşte detaylar!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: YUNANİSTAN'A TARİHİ KAZIK! İsrail Atina'yı Böyle Oyuna Getirdi! Netanyahu'nun Gizli Planı</title>
-      <link>https://www.youtube.com/watch?v=AZ-6h_WGR9o</link>
-      <guid isPermaLink="false">AZ-6h_WGR9o</guid>
-      <pubDate>Wed, 09 Sep 2026 09:30:17 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: YUNANİSTAN'A TARİHİ KAZIK! İsrail Atina'yı Böyle Oyuna Getirdi! Netanyahu'nun Gizli Planı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Ali Haydar Kurum gözaltına alındı</title>
-      <link>https://www.youtube.com/shorts/zRpm91n5S08</link>
-      <guid isPermaLink="false">zRpm91n5S08</guid>
-      <pubDate>Wed, 09 Sep 2026 09:28:28 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Ali Haydar Kurum gözaltına alındı</description>
     </item>
   </channel>
 </rss>
