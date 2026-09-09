@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 08:25:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 08:30:47 +0000</lastBuildDate>
     <item>
       <title>Halk TV: Minik çocuk Antalya'daki yangında keçisini sırtlayıp güvenli bir alana taşıdı!</title>
       <link>https://www.youtube.com/shorts/YtLyrJG-Xs0</link>
       <guid isPermaLink="false">YtLyrJG-Xs0</guid>
       <pubDate>Wed, 09 Sep 2026 08:16:31 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Minik çocuk Antalya'daki yangında keçisini sırtlayıp güvenli bir alana taşıdı!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: "Demirtaş 10 Yıldır Tutsak, İmamoğlu 2400 Yıla Rağmen Geri Adım Atmıyor!" Öncü'den Tehdit Tepkisi!</title>
+      <link>https://www.youtube.com/watch?v=IUh6y696lP4</link>
+      <guid isPermaLink="false">IUh6y696lP4</guid>
+      <pubDate>Wed, 09 Sep 2026 08:15:36 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "Demirtaş 10 Yıldır Tutsak, İmamoğlu 2400 Yıla Rağmen Geri Adım Atmıyor!" Öncü'den Tehdit Tepkisi!</description>
     </item>
     <item>
       <title>Halk TV: GÖZLER MANSUR YAVAŞ'A ÇEVRİLMİŞTİ! Kılıçdaroğlu'nu hüsrana uğratacak yanıt geldi! Ankara alev alev!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Ip-lehdua2s</guid>
       <pubDate>Wed, 09 Sep 2026 00:20:14 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: "DALTONLAR" ALMANYA'YI KARIŞTIRDI! Köln'de Türk İşletmelere Kurşun Yağmuru</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Üsküdar Belediyesi Başkan Vekilliği seçimi sonrası belediye önünde son durum #Canlı</title>
-      <link>https://www.youtube.com/watch?v=X_M4ql5Dq_8</link>
-      <guid isPermaLink="false">X_M4ql5Dq_8</guid>
-      <pubDate>Wed, 09 Sep 2026 00:18:09 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Üsküdar Belediyesi Başkan Vekilliği seçimi sonrası belediye önünde son durum #Canlı</description>
     </item>
   </channel>
 </rss>
