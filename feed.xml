@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 00:30:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 00:35:28 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: "DALTONLAR" ALMANYA'YI KARIŞTIRDI! Köln'de Türk İşletmelere Kurşun Yağmuru</title>
+      <link>https://www.youtube.com/watch?v=Ip-lehdua2s</link>
+      <guid isPermaLink="false">Ip-lehdua2s</guid>
+      <pubDate>Wed, 09 Sep 2026 00:20:14 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: "DALTONLAR" ALMANYA'YI KARIŞTIRDI! Köln'de Türk İşletmelere Kurşun Yağmuru</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Üsküdar Belediyesi Başkan Vekilliği seçimi sonrası belediye önünde son durum #Canlı</title>
       <link>https://www.youtube.com/watch?v=X_M4ql5Dq_8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">l_l2SYbw2b8</guid>
       <pubDate>Tue, 08 Sep 2026 20:00:31 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SON DAKİKA! Aksu’daki yangın büyüdü, Antalya Isparta yolu kapatıldı! #shorts</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Husiler'den Suudi Arabistan'a Saldırı! Körfez Cehenneme Döndü! Prens Selman Bunu Hesap Edemedi</title>
-      <link>https://www.youtube.com/watch?v=oB9ibGCbzdY</link>
-      <guid isPermaLink="false">oB9ibGCbzdY</guid>
-      <pubDate>Tue, 08 Sep 2026 20:00:21 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Husiler'den Suudi Arabistan'a Saldırı! Körfez Cehenneme Döndü! Prens Selman Bunu Hesap Edemedi</description>
     </item>
   </channel>
 </rss>
