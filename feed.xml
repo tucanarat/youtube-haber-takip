@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 18:10:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 18:15:33 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Kemal Kılıçdaroğlu'nun 'SİYASİ DEĞİL' açıklamasına Resul Emrah Şahan örnekli yanıt!</title>
+      <link>https://www.youtube.com/watch?v=XOIGothV9g4</link>
+      <guid isPermaLink="false">XOIGothV9g4</guid>
+      <pubDate>Wed, 09 Sep 2026 18:15:06 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Kemal Kılıçdaroğlu'nun 'SİYASİ DEĞİL' açıklamasına Resul Emrah Şahan örnekli yanıt!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: 'GÖKÇEK SORUŞTUMASI' İÇİN NURCAN GÖKDEMİR'DEN ÇOK KRİTİK YORUM!</title>
+      <link>https://www.youtube.com/shorts/hG-LUVP8mbw</link>
+      <guid isPermaLink="false">hG-LUVP8mbw</guid>
+      <pubDate>Wed, 09 Sep 2026 18:11:37 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: 'GÖKÇEK SORUŞTUMASI' İÇİN NURCAN GÖKDEMİR'DEN ÇOK KRİTİK YORUM!</description>
+    </item>
     <item>
       <title>Halk TV: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (09 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=TtEYrg8B4Zo</link>
@@ -29,11 +43,11 @@
       <description>Tele2 Haber kanalından yeni video: ÜSKÜDAR BELEDİYESİ'NİN AKP'YE GEÇMESİ İLE İLGİLİ MURAT TAYLAN'DAN ÇOK SERT YORUM!</description>
     </item>
     <item>
-      <title>Tele2 Haber: İnan Demirel ile Gündemdekiler | Konuk: Nurcan Gökdemir (09.09.2026)</title>
+      <title>Tele2 Haber: "SEÇİMSİZLEŞTİRİLEN TÜRKİYE'NİN İLK ADIMI" İnan Demirel ile Gündemdekiler | Konuk: Nurcan Gökdemir</title>
       <link>https://www.youtube.com/watch?v=yGr_r66Cmmk</link>
       <guid isPermaLink="false">yGr_r66Cmmk</guid>
       <pubDate>Wed, 09 Sep 2026 17:48:50 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: İnan Demirel ile Gündemdekiler | Konuk: Nurcan Gökdemir (09.09.2026)</description>
+      <description>Tele2 Haber kanalından yeni video: "SEÇİMSİZLEŞTİRİLEN TÜRKİYE'NİN İLK ADIMI" İnan Demirel ile Gündemdekiler | Konuk: Nurcan Gökdemir</description>
     </item>
     <item>
       <title>Halk TV: SON DAKİKA! Cumhurbaşkanı Erdoğan, Ankara Büyükşehir Belediye Başkanı Mansur Yavaş ile görüştü!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">etvuzLSR_a4</guid>
       <pubDate>Wed, 09 Sep 2026 15:00:13 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: GÖKÇEK AİLESİ TARTIŞMASI! Akdoğan'ın 'ADALET' çağrısı ne anlama geliyor? Umut Akdoğan anlattı...</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Erol Mütercimler &amp; Nevzat Çiçek | Melih Gökçek ve Davutoğlu Gerçekleri, Netanyahu'ya ABD'den Darbe</title>
-      <link>https://www.youtube.com/watch?v=RgzpNxHPuxM</link>
-      <guid isPermaLink="false">RgzpNxHPuxM</guid>
-      <pubDate>Wed, 09 Sep 2026 15:00:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Erol Mütercimler &amp; Nevzat Çiçek | Melih Gökçek ve Davutoğlu Gerçekleri, Netanyahu'ya ABD'den Darbe</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Damla Doğan Tuncel ile 1 Saat 9 Eylül</title>
-      <link>https://www.youtube.com/watch?v=PF8UpT-7XwQ</link>
-      <guid isPermaLink="false">PF8UpT-7XwQ</guid>
-      <pubDate>Wed, 09 Sep 2026 14:59:52 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Damla Doğan Tuncel ile 1 Saat 9 Eylül</description>
     </item>
   </channel>
 </rss>
