@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 19:30:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 19:35:27 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Gökçek Soruşturmasının Şifreleri Neler? Nurcan Gökdemir'den çok kritik açıklama!</title>
+      <link>https://www.youtube.com/watch?v=2Wzi6RSnyQA</link>
+      <guid isPermaLink="false">2Wzi6RSnyQA</guid>
+      <pubDate>Wed, 09 Sep 2026 19:30:34 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Gökçek Soruşturmasının Şifreleri Neler? Nurcan Gökdemir'den çok kritik açıklama!</description>
+    </item>
+    <item>
+      <title>Halk TV: Afşin Hatipoğlu'ndan Kılıçdaroğlu'na zehir gibi sözler: "Bunu görüp insan kendini sıraya çekmez mi?"</title>
+      <link>https://www.youtube.com/watch?v=9h-3Z-DKAV4</link>
+      <guid isPermaLink="false">9h-3Z-DKAV4</guid>
+      <pubDate>Wed, 09 Sep 2026 19:30:11 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Afşin Hatipoğlu'ndan Kılıçdaroğlu'na zehir gibi sözler: "Bunu görüp insan kendini sıraya çekmez mi?"</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Gizli İddianame Sızdı! İmamoğlu Örgüt Lideri İlan Edildi! Barış Terkoğlu Belgeleri Tek Tek Açıkladı</title>
       <link>https://www.youtube.com/watch?v=tOONbnjkaHE</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">cLi5DlBAa7o</guid>
       <pubDate>Wed, 09 Sep 2026 15:40:28 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: CHP'de Mansur Yavaş Krizi! Özlem Gürses'ten Olay Sözler! "İktidarın En Zorlandığı İsim Mansur Yavaş'</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Özgür Çelik, hakkında başlatılan soruşturmaya ilişkin açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=j34q0szizMM</link>
-      <guid isPermaLink="false">j34q0szizMM</guid>
-      <pubDate>Wed, 09 Sep 2026 15:40:02 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Özgür Çelik, hakkında başlatılan soruşturmaya ilişkin açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: 'Vanlı iş insanı' videosunun sonu gözaltı oldu! Kara Haydar videosuna benzetildi gözaltına alındı!</title>
-      <link>https://www.youtube.com/watch?v=LG9Zkm6IHy4</link>
-      <guid isPermaLink="false">LG9Zkm6IHy4</guid>
-      <pubDate>Wed, 09 Sep 2026 15:35:15 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: 'Vanlı iş insanı' videosunun sonu gözaltı oldu! Kara Haydar videosuna benzetildi gözaltına alındı!</description>
     </item>
   </channel>
 </rss>
