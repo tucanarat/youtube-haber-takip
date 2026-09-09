@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 08:45:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 08:50:34 +0000</lastBuildDate>
     <item>
-      <title>Tele2 Haber: #CANLI DEMİRTAŞ TAHLİYE OLACAK MI | ÜSKÜDAR'DA BÜYÜK GASP | Onur Öncü ile Sabah Pusulası</title>
+      <title>Halk TV: İzmir'in Düşman İşgalinden Kurtuluşunun 104. Yıl Dönümü Kutlanıyor</title>
+      <link>https://www.youtube.com/watch?v=hzAhZniA8I0</link>
+      <guid isPermaLink="false">hzAhZniA8I0</guid>
+      <pubDate>Wed, 09 Sep 2026 08:48:30 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İzmir'in Düşman İşgalinden Kurtuluşunun 104. Yıl Dönümü Kutlanıyor</description>
+    </item>
+    <item>
+      <title>Halk TV: SOLUK SOLUĞA İZLEYECEKSİNİZ! Ulu Önder Atatürk, milli mücadelenin zafere giden yolunu böyle örmüş!</title>
+      <link>https://www.youtube.com/watch?v=YgK2TD-hz8g</link>
+      <guid isPermaLink="false">YgK2TD-hz8g</guid>
+      <pubDate>Wed, 09 Sep 2026 08:46:13 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SOLUK SOLUĞA İZLEYECEKSİNİZ! Ulu Önder Atatürk, milli mücadelenin zafere giden yolunu böyle örmüş!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: DEMİRTAŞ TAHLİYE OLACAK MI | ÜSKÜDAR'DA BÜYÜK GASP | Onur Öncü ile Sabah Pusulası</title>
       <link>https://www.youtube.com/watch?v=tiLiCYsD_RU</link>
       <guid isPermaLink="false">tiLiCYsD_RU</guid>
       <pubDate>Wed, 09 Sep 2026 08:36:25 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI DEMİRTAŞ TAHLİYE OLACAK MI | ÜSKÜDAR'DA BÜYÜK GASP | Onur Öncü ile Sabah Pusulası</description>
+      <description>Tele2 Haber kanalından yeni video: DEMİRTAŞ TAHLİYE OLACAK MI | ÜSKÜDAR'DA BÜYÜK GASP | Onur Öncü ile Sabah Pusulası</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Kemal Kılıçdaroğlu CHP’nin 103. kuruluş yıldönümü için Anıtkabirdeydi #shorts</title>
@@ -62,13 +76,6 @@
       <guid isPermaLink="false">FTXgxH2RbY0</guid>
       <pubDate>Wed, 09 Sep 2026 08:15:33 +0000</pubDate>
       <description>Halk TV kanalından yeni video: GÖZLER MANSUR YAVAŞ'A ÇEVRİLMİŞTİ! Kılıçdaroğlu'nu hüsrana uğratacak yanıt geldi! Ankara alev alev!</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | İzmir'in Düşman İşgalinden Kurtuluşunun 104. Yıl Dönümü Kutlanıyor</title>
-      <link>https://www.youtube.com/watch?v=hzAhZniA8I0</link>
-      <guid isPermaLink="false">hzAhZniA8I0</guid>
-      <pubDate>Wed, 09 Sep 2026 08:09:36 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | İzmir'in Düşman İşgalinden Kurtuluşunun 104. Yıl Dönümü Kutlanıyor</description>
     </item>
     <item>
       <title>Cumhuriyet: Öğretmenlerden MEB'e 'kıyafet' tepkisi! "DAYATMAYI İTİBAR OLARAK SUNMAYA ÇALIŞIYORLAR"</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">n_WsnjorH9E</guid>
       <pubDate>Wed, 09 Sep 2026 05:23:53 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Pınar Erbaş ile Gecenin Sözü</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Merve Ekinci ile Uyanma Vakti | 9 Eylül</title>
-      <link>https://www.youtube.com/watch?v=wZx1sFTQyas</link>
-      <guid isPermaLink="false">wZx1sFTQyas</guid>
-      <pubDate>Wed, 09 Sep 2026 05:02:32 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Merve Ekinci ile Uyanma Vakti | 9 Eylül</description>
     </item>
   </channel>
 </rss>
