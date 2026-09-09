@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 08:10:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 08:15:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | İzmir'in Düşman İşgalinden Kurtuluşunun 104. Yıl Dönümü Kutlanıyor</title>
+      <link>https://www.youtube.com/watch?v=hzAhZniA8I0</link>
+      <guid isPermaLink="false">hzAhZniA8I0</guid>
+      <pubDate>Wed, 09 Sep 2026 08:09:36 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | İzmir'in Düşman İşgalinden Kurtuluşunun 104. Yıl Dönümü Kutlanıyor</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: İzmir'in düşman işgalinden kurtuluşunun 104. yıl dönümü kutlanıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=dQaae28tRgU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ir5AnnvEuDM</guid>
       <pubDate>Tue, 08 Sep 2026 23:40:32 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Geline Kilolarca Altın Takan "Vanlı Kara Haydar" Tutuklandı! ŞOV CEZAEVİNDE BİTTİ</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: İstanbul Sanayi Odası Yönetim Kurulu Başkanı Erdal Bahçıvan, basın toplantısı düzenliyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=_OKcXHAiljQ</link>
-      <guid isPermaLink="false">_OKcXHAiljQ</guid>
-      <pubDate>Tue, 08 Sep 2026 23:33:57 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: İstanbul Sanayi Odası Yönetim Kurulu Başkanı Erdal Bahçıvan, basın toplantısı düzenliyor #Canlı</description>
     </item>
   </channel>
 </rss>
