@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 08:06:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 08:10:37 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: İzmir'in düşman işgalinden kurtuluşunun 104. yıl dönümü kutlanıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=dQaae28tRgU</link>
+      <guid isPermaLink="false">dQaae28tRgU</guid>
+      <pubDate>Wed, 09 Sep 2026 08:07:07 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: İzmir'in düşman işgalinden kurtuluşunun 104. yıl dönümü kutlanıyor #Canlı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İsmail Küçükkaya ile Günaydın Türkiyem | 9 Eylül</title>
       <link>https://www.youtube.com/watch?v=kfnDy9EfcJo</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">_OKcXHAiljQ</guid>
       <pubDate>Tue, 08 Sep 2026 23:33:57 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: İstanbul Sanayi Odası Yönetim Kurulu Başkanı Erdal Bahçıvan, basın toplantısı düzenliyor #Canlı</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: İYİ Parti Genel Başkan Yardımcısı Burak Dalgın basın toplantısı düzenliyor</title>
-      <link>https://www.youtube.com/watch?v=eHNOy4iO8UE</link>
-      <guid isPermaLink="false">eHNOy4iO8UE</guid>
-      <pubDate>Tue, 08 Sep 2026 23:24:33 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: İYİ Parti Genel Başkan Yardımcısı Burak Dalgın basın toplantısı düzenliyor</description>
     </item>
   </channel>
 </rss>
