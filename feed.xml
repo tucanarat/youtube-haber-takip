@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 23:25:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 23:30:46 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Kaşif Kozinoğlu'nun Ölümünde 15 Yıllık Karanlık Sır Çözülüyor! Kemik Dokusunda Yıllanmış Zehir İzi</title>
+      <link>https://www.youtube.com/watch?v=VJyRNurYoWA</link>
+      <guid isPermaLink="false">VJyRNurYoWA</guid>
+      <pubDate>Wed, 09 Sep 2026 23:20:35 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Kaşif Kozinoğlu'nun Ölümünde 15 Yıllık Karanlık Sır Çözülüyor! Kemik Dokusunda Yıllanmış Zehir İzi</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Eski MİT'çi Kaşif Kozinoğlu'na FETÖ Kumpası! Barış Terkoğlu Mahkemeye 9 Gün Kala Olanları Anlattı</title>
       <link>https://www.youtube.com/watch?v=z0peU8O-pnA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">TtEYrg8B4Zo</guid>
       <pubDate>Wed, 09 Sep 2026 18:00:32 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (09 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İsmail Saymaz İfşa Etti: Üsküdar Belediyesi'nde Şok Tutuklamalar ve Tehditler</title>
-      <link>https://www.youtube.com/watch?v=t_hKpcPL8NY</link>
-      <guid isPermaLink="false">t_hKpcPL8NY</guid>
-      <pubDate>Wed, 09 Sep 2026 18:00:07 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İsmail Saymaz İfşa Etti: Üsküdar Belediyesi'nde Şok Tutuklamalar ve Tehditler</description>
     </item>
   </channel>
 </rss>
