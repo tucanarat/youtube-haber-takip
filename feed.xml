@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 20:55:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 21:00:53 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: SEÇER, KARALAR, AKIN! Kılıçdaroğlu'nun Yanında Yer Alan Belediye Başkanları... Gökdemir yorumladı...</title>
+      <link>https://www.youtube.com/watch?v=C4Rj75ynPQ4</link>
+      <guid isPermaLink="false">C4Rj75ynPQ4</guid>
+      <pubDate>Wed, 09 Sep 2026 21:00:17 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: SEÇER, KARALAR, AKIN! Kılıçdaroğlu'nun Yanında Yer Alan Belediye Başkanları... Gökdemir yorumladı...</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: İzmir'in düşman işgalinden kurtuluşunun 104. yıl dönümü kutlanıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=dQaae28tRgU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">k_KjBSpDreo</guid>
       <pubDate>Wed, 09 Sep 2026 16:35:04 +0000</pubDate>
       <description>Halk TV kanalından yeni video: O CİNAYET İÇİN KARAR GÜNÜ! Eski polis Cemil Koç'un müebbet hapsi bekleniyor! İşte davada son durum!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Özgür Çelik'ten Üsküdar seçimlerine ilişkin suç duyurusu!</title>
-      <link>https://www.youtube.com/watch?v=RsH62f4eRy0</link>
-      <guid isPermaLink="false">RsH62f4eRy0</guid>
-      <pubDate>Wed, 09 Sep 2026 16:32:27 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Özgür Çelik'ten Üsküdar seçimlerine ilişkin suç duyurusu!</description>
     </item>
   </channel>
 </rss>
