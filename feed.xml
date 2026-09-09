@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 17:55:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 18:00:54 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: ÜSKÜDAR BELEDİYESİ'NİN AKP'YE GEÇMESİ İLE İLGİLİ MURAT TAYLAN'DAN ÇOK SERT YORUM!</title>
+      <link>https://www.youtube.com/shorts/XeK14dSnaO4</link>
+      <guid isPermaLink="false">XeK14dSnaO4</guid>
+      <pubDate>Wed, 09 Sep 2026 17:59:02 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: ÜSKÜDAR BELEDİYESİ'NİN AKP'YE GEÇMESİ İLE İLGİLİ MURAT TAYLAN'DAN ÇOK SERT YORUM!</description>
+    </item>
     <item>
       <title>Tele2 Haber: İnan Demirel ile Gündemdekiler | Konuk: Nurcan Gökdemir (09.09.2026)</title>
       <link>https://www.youtube.com/watch?v=yGr_r66Cmmk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">qQgKp3iYeOw</guid>
       <pubDate>Wed, 09 Sep 2026 14:54:48 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI İBB Davasında 78. gün! “Murat Ongun’un eşi olmak suç sayıldı”</description>
-    </item>
-    <item>
-      <title>Halk TV: İMAM İLE MÜEZZİN BİRBİRİNE GİRDİ! Yumruk yumruğa kavgaya tutuştular! Perde arkası şoke etti!</title>
-      <link>https://www.youtube.com/watch?v=ocQSnoseUlA</link>
-      <guid isPermaLink="false">ocQSnoseUlA</guid>
-      <pubDate>Wed, 09 Sep 2026 14:50:34 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İMAM İLE MÜEZZİN BİRBİRİNE GİRDİ! Yumruk yumruğa kavgaya tutuştular! Perde arkası şoke etti!</description>
     </item>
   </channel>
 </rss>
