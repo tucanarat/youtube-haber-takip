@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 11:45:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 11:50:38 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: 'ETKİN PİŞMANLIK' İFADELERİ DE KENDİSİNİ KURTARAMADI! Tezkan'dan Muhittin Böcek'in oğluna şok sözler</title>
+      <link>https://www.youtube.com/watch?v=j9pBrbj1SDM</link>
+      <guid isPermaLink="false">j9pBrbj1SDM</guid>
+      <pubDate>Wed, 09 Sep 2026 11:45:32 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: 'ETKİN PİŞMANLIK' İFADELERİ DE KENDİSİNİ KURTARAMADI! Tezkan'dan Muhittin Böcek'in oğluna şok sözler</description>
+    </item>
     <item>
       <title>Cumhuriyet: Aksaray’da çocuk oyununun acı sonu: 2 yaşındaki minik çakmakla oynarken evi yaktı</title>
       <link>https://www.youtube.com/shorts/uC-1kW-X6sQ</link>
@@ -22,11 +29,11 @@
       <description>Cumhuriyet kanalından yeni video: #CANLI İBB Davasında 78. gün! “Müge Anlı programına döndü”</description>
     </item>
     <item>
-      <title>Halk TV: KARADENİZ'DE HAREKETLİ ANLAR! Gürcistan'dan kalkan uçak, Rize açıklarında denize acil iniş yaptı!</title>
+      <title>Halk TV: KARADENİZ'DE KIRMIZI ALARM! Gürcistan'dan kalkan uçak, Rize açıklarında denize acil iniş yaptı!</title>
       <link>https://www.youtube.com/watch?v=VoJSMuxGZDE</link>
       <guid isPermaLink="false">VoJSMuxGZDE</guid>
       <pubDate>Wed, 09 Sep 2026 11:30:10 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KARADENİZ'DE HAREKETLİ ANLAR! Gürcistan'dan kalkan uçak, Rize açıklarında denize acil iniş yaptı!</description>
+      <description>Halk TV kanalından yeni video: KARADENİZ'DE KIRMIZI ALARM! Gürcistan'dan kalkan uçak, Rize açıklarında denize acil iniş yaptı!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Nevzat Çiçek Netanyahu'yu Yakan Belgeleri Açıkladı! 7 EKİM'DEN 10 GÜN ÖNCE GELEN GİZLİ İSTİHBARAT!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">mHlsVjWkVLQ</guid>
       <pubDate>Wed, 09 Sep 2026 09:02:38 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: 104 yıl önce İzmir! - Arif Kızılyalın</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: 9 Eylül zaferi aynı zamanda yeni bir dönemin kapılarının açılışıdır: Türkün yeniden doğuş...</title>
-      <link>https://www.youtube.com/watch?v=qyPihuffNOU</link>
-      <guid isPermaLink="false">qyPihuffNOU</guid>
-      <pubDate>Wed, 09 Sep 2026 09:02:37 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: 9 Eylül zaferi aynı zamanda yeni bir dönemin kapılarının açılışıdır: Türkün yeniden doğuş...</description>
     </item>
   </channel>
 </rss>
