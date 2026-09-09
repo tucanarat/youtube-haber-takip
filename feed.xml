@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 08:35:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 08:40:34 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI DEMİRTAŞ TAHLİYE OLACAK MI | ÜSKÜDAR'DA BÜYÜK GASP | Onur Öncü ile Sabah Pusulası</title>
+      <link>https://www.youtube.com/watch?v=tiLiCYsD_RU</link>
+      <guid isPermaLink="false">tiLiCYsD_RU</guid>
+      <pubDate>Wed, 09 Sep 2026 08:36:25 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI DEMİRTAŞ TAHLİYE OLACAK MI | ÜSKÜDAR'DA BÜYÜK GASP | Onur Öncü ile Sabah Pusulası</description>
+    </item>
     <item>
       <title>Cumhuriyet: İzmir'in düşman işgalinden kurtuluşunun 104. yıl dönümü çoşkuyla kutlanıyor</title>
       <link>https://www.youtube.com/shorts/9WrU7UMhGF8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">YJP37UeRMog</guid>
       <pubDate>Wed, 09 Sep 2026 00:42:05 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti Sözcüsü Zeynel Emre,  Parti Genel Merkezi’nde açıklama yapıyor</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: ABD İran Restleşmesi Petrolü Fırlattı! Mehmet Öğütçü'den Benzin ve Motorin İçin Korkutan Uyarı</title>
-      <link>https://www.youtube.com/watch?v=pA66ZP88nMs</link>
-      <guid isPermaLink="false">pA66ZP88nMs</guid>
-      <pubDate>Wed, 09 Sep 2026 00:40:19 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: ABD İran Restleşmesi Petrolü Fırlattı! Mehmet Öğütçü'den Benzin ve Motorin İçin Korkutan Uyarı</description>
     </item>
   </channel>
 </rss>
