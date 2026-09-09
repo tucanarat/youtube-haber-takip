@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 09:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 09:25:29 +0000</lastBuildDate>
     <item>
       <title>Cumhuriyet: Sosyal medya paylaşımları başını yaktı: Ali Haydar Kurum hakkında soruşturma ve gözaltı kararı</title>
       <link>https://www.youtube.com/shorts/TB84Fqu8yDM</link>
@@ -22,11 +22,25 @@
       <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Grup Başkanvekili Gökhan Günaydın, TBMM'de açıklama yapıyor #Canlı</description>
     </item>
     <item>
+      <title>Tele2 Haber: Butlanın Savuncusu Akit! "Kılıçdaroğlu Daha Önce Kendisine Küfür Eden Akit'e Manşet Oldu!"</title>
+      <link>https://www.youtube.com/watch?v=zioN2eu_VdA</link>
+      <guid isPermaLink="false">zioN2eu_VdA</guid>
+      <pubDate>Wed, 09 Sep 2026 09:15:06 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Butlanın Savuncusu Akit! "Kılıçdaroğlu Daha Önce Kendisine Küfür Eden Akit'e Manşet Oldu!"</description>
+    </item>
+    <item>
       <title>Cumhuriyet: Burdur’da içleri ısıtan görüntü: Tezgahtan karpuzu aldılar, kameraya bakıp helallik istediler</title>
       <link>https://www.youtube.com/shorts/gAL1VltXwB8</link>
       <guid isPermaLink="false">gAL1VltXwB8</guid>
       <pubDate>Wed, 09 Sep 2026 09:09:16 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Burdur’da içleri ısıtan görüntü: Tezgahtan karpuzu aldılar, kameraya bakıp helallik istediler</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: İnan Demirel ile Gündemdekiler | Konuk: Nurcan Gökdemir (09.09.2026)</title>
+      <link>https://www.youtube.com/watch?v=yGr_r66Cmmk</link>
+      <guid isPermaLink="false">yGr_r66Cmmk</guid>
+      <pubDate>Wed, 09 Sep 2026 09:09:16 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: İnan Demirel ile Gündemdekiler | Konuk: Nurcan Gökdemir (09.09.2026)</description>
     </item>
     <item>
       <title>Cumhuriyet: Fred’i ve Talisca’yı neden gönderdiniz? - Hilmi Türkay</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">0H0f6_UWtbk</guid>
       <pubDate>Wed, 09 Sep 2026 06:51:08 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Bolu'da kavga zinciri: İnşaatta başladı, polis merkezi önünde sona erdi!</description>
-    </item>
-    <item>
-      <title>Halk TV: BOĞAZI DÜĞÜMLENDİ! Selçuk Mızraklı'dan Sırrı Süreyya Önder'in mezarında duygu dolu 'Demirtaş' mesajı</title>
-      <link>https://www.youtube.com/watch?v=UPze6QcMsEs</link>
-      <guid isPermaLink="false">UPze6QcMsEs</guid>
-      <pubDate>Wed, 09 Sep 2026 06:45:24 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BOĞAZI DÜĞÜMLENDİ! Selçuk Mızraklı'dan Sırrı Süreyya Önder'in mezarında duygu dolu 'Demirtaş' mesajı</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Ayşe Tokyaz cinayetine ilişkin davanın duruşması öncesi kadın örgütleri açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=hw7o5FVTEDI</link>
-      <guid isPermaLink="false">hw7o5FVTEDI</guid>
-      <pubDate>Wed, 09 Sep 2026 06:42:51 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Ayşe Tokyaz cinayetine ilişkin davanın duruşması öncesi kadın örgütleri açıklama yapıyor #Canlı</description>
     </item>
   </channel>
 </rss>
