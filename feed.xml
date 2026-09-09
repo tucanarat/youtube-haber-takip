@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 08:30:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 08:35:25 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: İzmir'in düşman işgalinden kurtuluşunun 104. yıl dönümü çoşkuyla kutlanıyor</title>
+      <link>https://www.youtube.com/shorts/9WrU7UMhGF8</link>
+      <guid isPermaLink="false">9WrU7UMhGF8</guid>
+      <pubDate>Wed, 09 Sep 2026 08:31:18 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: İzmir'in düşman işgalinden kurtuluşunun 104. yıl dönümü çoşkuyla kutlanıyor</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Selçuk Mızraklı Diyarbakır'da: Artık bu toprağa barışı ekelim</title>
+      <link>https://www.youtube.com/watch?v=0gmwXKa6CQA</link>
+      <guid isPermaLink="false">0gmwXKa6CQA</guid>
+      <pubDate>Wed, 09 Sep 2026 08:22:01 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Selçuk Mızraklı Diyarbakır'da: Artık bu toprağa barışı ekelim</description>
+    </item>
     <item>
       <title>Halk TV: Minik çocuk Antalya'daki yangında keçisini sırtlayıp güvenli bir alana taşıdı!</title>
       <link>https://www.youtube.com/shorts/YtLyrJG-Xs0</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">pA66ZP88nMs</guid>
       <pubDate>Wed, 09 Sep 2026 00:40:19 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: ABD İran Restleşmesi Petrolü Fırlattı! Mehmet Öğütçü'den Benzin ve Motorin İçin Korkutan Uyarı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: #CANLI Başkan vekilliği seçimi sona erdi! Üsküdar Belediyesi önünde son durum….</title>
-      <link>https://www.youtube.com/watch?v=2PS-qLsAQCs</link>
-      <guid isPermaLink="false">2PS-qLsAQCs</guid>
-      <pubDate>Wed, 09 Sep 2026 00:37:17 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI Başkan vekilliği seçimi sona erdi! Üsküdar Belediyesi önünde son durum….</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: "DALTONLAR" ALMANYA'YI KARIŞTIRDI! Köln'de Türk İşletmelere Kurşun Yağmuru</title>
-      <link>https://www.youtube.com/watch?v=Ip-lehdua2s</link>
-      <guid isPermaLink="false">Ip-lehdua2s</guid>
-      <pubDate>Wed, 09 Sep 2026 00:20:14 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: "DALTONLAR" ALMANYA'YI KARIŞTIRDI! Köln'de Türk İşletmelere Kurşun Yağmuru</description>
     </item>
   </channel>
 </rss>
