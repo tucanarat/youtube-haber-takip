@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 13:55:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 14:01:22 +0000</lastBuildDate>
     <item>
       <title>Halk TV: PİYASALARDA FIRTINA ÖNCESİ SESSİZLİK! Yükselişe geçen altın fiyatının gidişatını o veri belirleyecek</title>
       <link>https://www.youtube.com/watch?v=EfBVHazYBXM</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">kgjF6qSLHbI</guid>
       <pubDate>Wed, 09 Sep 2026 13:45:56 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Sanal medyada “Vanlı iş insanı” diye paylaşılmıştı! Ali Haydar Kurum tutuklandı!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: "BİZ CHP'DEN KOPMADIK, KOPARILDIK!" Umut Akdoğan'dan YENİ Parti'ye İlişkin Çarpıcı Satır Araları...</title>
+      <link>https://www.youtube.com/watch?v=h27_qQg0fuI</link>
+      <guid isPermaLink="false">h27_qQg0fuI</guid>
+      <pubDate>Wed, 09 Sep 2026 13:45:26 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "BİZ CHP'DEN KOPMADIK, KOPARILDIK!" Umut Akdoğan'dan YENİ Parti'ye İlişkin Çarpıcı Satır Araları...</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Senem Toluay Ilgaz ile Öncesi Sonrası | 9 Eylül</title>
@@ -78,11 +85,11 @@
       <description>SÖZCÜ TV kanalından yeni video: Erdoğan Sordu, Eda Erdem'in Cevabı Milyonları Gülümsetti! #shorts</description>
     </item>
     <item>
-      <title>Cumhuriyet: #CANLI İBB Davasında 78. gün! “Murat Ongun’un eşi olmak suç sayıldı”</title>
+      <title>Cumhuriyet: #CANLI İBB Davasında 78. gün! “Müge Anlı programına döndü”</title>
       <link>https://www.youtube.com/watch?v=qQgKp3iYeOw</link>
       <guid isPermaLink="false">qQgKp3iYeOw</guid>
       <pubDate>Wed, 09 Sep 2026 13:13:41 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI İBB Davasında 78. gün! “Murat Ongun’un eşi olmak suç sayıldı”</description>
+      <description>Cumhuriyet kanalından yeni video: #CANLI İBB Davasında 78. gün! “Müge Anlı programına döndü”</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | İrem Sansak ile Haber Masası</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">erc3EE84oC4</guid>
       <pubDate>Wed, 09 Sep 2026 10:30:16 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: MANSUR YAVAŞ'TAN ŞOK KARAR! Kılıçdaroğlu Küplere Binecek! CHP'de Tarihi Gün Önce Kritik Hamle</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "Tarihe Akit'in Manşetinde Değil Halkın Vicdanlarında Geçmektir Mesele! Günaydın'dan Butlana Tepki!</title>
-      <link>https://www.youtube.com/watch?v=xW5xVGR4WxI</link>
-      <guid isPermaLink="false">xW5xVGR4WxI</guid>
-      <pubDate>Wed, 09 Sep 2026 10:20:33 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "Tarihe Akit'in Manşetinde Değil Halkın Vicdanlarında Geçmektir Mesele! Günaydın'dan Butlana Tepki!</description>
     </item>
   </channel>
 </rss>
