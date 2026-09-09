@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 18:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 18:25:28 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: YENİ PARTİ'NİN YENİ ROTASI BELLİ OLDU! Özel'in bir sonraki durağı Doğu Anadolu! İşte son durum!</title>
+      <link>https://www.youtube.com/watch?v=FocoGC4YnPw</link>
+      <guid isPermaLink="false">FocoGC4YnPw</guid>
+      <pubDate>Wed, 09 Sep 2026 18:15:33 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YENİ PARTİ'NİN YENİ ROTASI BELLİ OLDU! Özel'in bir sonraki durağı Doğu Anadolu! İşte son durum!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Kemal Kılıçdaroğlu'nun 'SİYASİ DEĞİL' açıklamasına Resul Emrah Şahan örnekli yanıt!</title>
       <link>https://www.youtube.com/watch?v=XOIGothV9g4</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">NzZsmG3oWlg</guid>
       <pubDate>Wed, 09 Sep 2026 15:02:19 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Selçuk Mızraklı ile Demirtaş'ın annesi arasında yürek burkan diyalog: "Sen niye tek geldin!"</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: GÖKÇEK AİLESİ TARTIŞMASI! Akdoğan'ın 'ADALET' çağrısı ne anlama geliyor? Umut Akdoğan anlattı...</title>
-      <link>https://www.youtube.com/watch?v=etvuzLSR_a4</link>
-      <guid isPermaLink="false">etvuzLSR_a4</guid>
-      <pubDate>Wed, 09 Sep 2026 15:00:13 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: GÖKÇEK AİLESİ TARTIŞMASI! Akdoğan'ın 'ADALET' çağrısı ne anlama geliyor? Umut Akdoğan anlattı...</description>
     </item>
   </channel>
 </rss>
