@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 21:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 21:05:28 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Barış Terkoğlu'ndan Gündem Olacak Mansur Yavaş Analizi! Beştepe'de Erdoğan İle Beklenmedik Zirve</title>
+      <link>https://www.youtube.com/watch?v=ZiR0EJe0Vwc</link>
+      <guid isPermaLink="false">ZiR0EJe0Vwc</guid>
+      <pubDate>Wed, 09 Sep 2026 21:00:20 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Barış Terkoğlu'ndan Gündem Olacak Mansur Yavaş Analizi! Beştepe'de Erdoğan İle Beklenmedik Zirve</description>
+    </item>
     <item>
       <title>Tele2 Haber: SEÇER, KARALAR, AKIN! Kılıçdaroğlu'nun Yanında Yer Alan Belediye Başkanları... Gökdemir yorumladı...</title>
       <link>https://www.youtube.com/watch?v=C4Rj75ynPQ4</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">tDpQ_NuibAg</guid>
       <pubDate>Wed, 09 Sep 2026 16:40:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Hürmüz'de Tansiyon Tavan Yaptı! İran'dan Cehennem Gibi Misilleme! Husiler Savaşa Dahil Oldu</description>
-    </item>
-    <item>
-      <title>Halk TV: O CİNAYET İÇİN KARAR GÜNÜ! Eski polis Cemil Koç'un müebbet hapsi bekleniyor! İşte davada son durum!</title>
-      <link>https://www.youtube.com/watch?v=k_KjBSpDreo</link>
-      <guid isPermaLink="false">k_KjBSpDreo</guid>
-      <pubDate>Wed, 09 Sep 2026 16:35:04 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: O CİNAYET İÇİN KARAR GÜNÜ! Eski polis Cemil Koç'un müebbet hapsi bekleniyor! İşte davada son durum!</description>
     </item>
   </channel>
 </rss>
