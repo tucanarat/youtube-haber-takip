@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 18:00:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 18:05:28 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (09 Eylül 2026)</title>
+      <link>https://www.youtube.com/watch?v=TtEYrg8B4Zo</link>
+      <guid isPermaLink="false">TtEYrg8B4Zo</guid>
+      <pubDate>Wed, 09 Sep 2026 18:00:32 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (09 Eylül 2026)</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İsmail Saymaz İfşa Etti: Üsküdar Belediyesi'nde Şok Tutuklamalar ve Tehditler</title>
+      <link>https://www.youtube.com/watch?v=t_hKpcPL8NY</link>
+      <guid isPermaLink="false">t_hKpcPL8NY</guid>
+      <pubDate>Wed, 09 Sep 2026 18:00:07 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İsmail Saymaz İfşa Etti: Üsküdar Belediyesi'nde Şok Tutuklamalar ve Tehditler</description>
+    </item>
     <item>
       <title>Tele2 Haber: ÜSKÜDAR BELEDİYESİ'NİN AKP'YE GEÇMESİ İLE İLGİLİ MURAT TAYLAN'DAN ÇOK SERT YORUM!</title>
       <link>https://www.youtube.com/shorts/XeK14dSnaO4</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">PF8UpT-7XwQ</guid>
       <pubDate>Wed, 09 Sep 2026 14:59:52 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Damla Doğan Tuncel ile 1 Saat 9 Eylül</description>
-    </item>
-    <item>
-      <title>Halk TV: Gizem Çetin ile Parantez (9 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=4xHQo6VzFMA</link>
-      <guid isPermaLink="false">4xHQo6VzFMA</guid>
-      <pubDate>Wed, 09 Sep 2026 14:57:18 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Gizem Çetin ile Parantez (9 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: #CANLI İBB Davasında 78. gün! “Murat Ongun’un eşi olmak suç sayıldı”</title>
-      <link>https://www.youtube.com/watch?v=qQgKp3iYeOw</link>
-      <guid isPermaLink="false">qQgKp3iYeOw</guid>
-      <pubDate>Wed, 09 Sep 2026 14:54:48 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI İBB Davasında 78. gün! “Murat Ongun’un eşi olmak suç sayıldı”</description>
     </item>
   </channel>
 </rss>
