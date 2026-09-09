@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 12:15:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 12:20:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Butlan CHP'si Genel Başkanı Kemal Kılıçdaroğlu Konuşuyor!</title>
+      <link>https://www.youtube.com/watch?v=yOi1EwTFSSc</link>
+      <guid isPermaLink="false">yOi1EwTFSSc</guid>
+      <pubDate>Wed, 09 Sep 2026 12:17:19 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Butlan CHP'si Genel Başkanı Kemal Kılıçdaroğlu Konuşuyor!</description>
+    </item>
+    <item>
+      <title>Halk TV: AÇTI AĞZINI YUMDU GÖZÜNÜ! YENİ Partili Gül Çiftci, Üsküdar seçiminde olan biteni tek tek anlattı!</title>
+      <link>https://www.youtube.com/watch?v=gIVeZeL3Tm4</link>
+      <guid isPermaLink="false">gIVeZeL3Tm4</guid>
+      <pubDate>Wed, 09 Sep 2026 12:15:13 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: AÇTI AĞZINI YUMDU GÖZÜNÜ! YENİ Partili Gül Çiftci, Üsküdar seçiminde olan biteni tek tek anlattı!</description>
+    </item>
     <item>
       <title>Halk TV: Özgür Çelik'in 'tehditle AKP'ye geçti' iddiası gündem olmuştu! Ayhan Aydın o sözlere bakın ne dedi!</title>
       <link>https://www.youtube.com/watch?v=1JPzWPTxXq8</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">TB84Fqu8yDM</guid>
       <pubDate>Wed, 09 Sep 2026 09:16:08 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Sosyal medya paylaşımları başını yaktı: Ali Haydar Kurum hakkında soruşturma ve gözaltı kararı</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: YENİ Parti Grup Başkanvekili Gökhan Günaydın, TBMM'de açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=etzPKVYABuA</link>
-      <guid isPermaLink="false">etzPKVYABuA</guid>
-      <pubDate>Wed, 09 Sep 2026 09:15:18 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Grup Başkanvekili Gökhan Günaydın, TBMM'de açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Butlanın Savunucusu Akit! "Kılıçdaroğlu Daha Önce Kendisine Küfür Eden Akit'e Manşet Oldu!"</title>
-      <link>https://www.youtube.com/watch?v=zioN2eu_VdA</link>
-      <guid isPermaLink="false">zioN2eu_VdA</guid>
-      <pubDate>Wed, 09 Sep 2026 09:15:06 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Butlanın Savunucusu Akit! "Kılıçdaroğlu Daha Önce Kendisine Küfür Eden Akit'e Manşet Oldu!"</description>
     </item>
   </channel>
 </rss>
