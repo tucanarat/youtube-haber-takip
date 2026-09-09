@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 10:40:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 10:45:33 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Veliler dikkat! Tatilden okul düzenine geçişte uyku uyarısı</title>
+      <link>https://www.youtube.com/shorts/MhZRPnCCDxw</link>
+      <guid isPermaLink="false">MhZRPnCCDxw</guid>
+      <pubDate>Wed, 09 Sep 2026 10:41:09 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Veliler dikkat! Tatilden okul düzenine geçişte uyku uyarısı</description>
+    </item>
     <item>
       <title>Halk TV: CÜBBELİ AHMET HADDİNİ AŞTI! Üsküdar'daki seçim sonucuna skandal çıkış! İbrahim Kahveci çılgına döndü</title>
       <link>https://www.youtube.com/watch?v=C39HzYcZroE</link>
       <guid isPermaLink="false">C39HzYcZroE</guid>
       <pubDate>Wed, 09 Sep 2026 10:30:23 +0000</pubDate>
       <description>Halk TV kanalından yeni video: CÜBBELİ AHMET HADDİNİ AŞTI! Üsküdar'daki seçim sonucuna skandal çıkış! İbrahim Kahveci çılgına döndü</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: MANSUR YAVAŞ'TAN ŞOK KARAR! Kılıçdaroğlu Küplere Binecek! CHP'de Tarihi Gün Önce Kritik Hamle</title>
+      <link>https://www.youtube.com/watch?v=erc3EE84oC4</link>
+      <guid isPermaLink="false">erc3EE84oC4</guid>
+      <pubDate>Wed, 09 Sep 2026 10:30:16 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: MANSUR YAVAŞ'TAN ŞOK KARAR! Kılıçdaroğlu Küplere Binecek! CHP'de Tarihi Gün Önce Kritik Hamle</description>
     </item>
     <item>
       <title>Tele2 Haber: "Tarihe Akit'in Manşetinde Değil Halkın Vicdanlarında Geçmektir Mesele! Günaydın'dan Butlana Tepki!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">s33lA0gvND4</guid>
       <pubDate>Wed, 09 Sep 2026 08:00:28 +0000</pubDate>
       <description>Halk TV kanalından yeni video: KILIÇDAROĞLU GERİ ADIM ATMIYOR! Kurultay planı şoke edecek! Yeniden aday olmak için sinyali verdi!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İran'dan ABD'ye Şok Baskın! ABD'nin Üslerine Saldırı! Hark Adası'nda Peş Peşe Patlamalar</title>
-      <link>https://www.youtube.com/watch?v=JTT_GfEYHlY</link>
-      <guid isPermaLink="false">JTT_GfEYHlY</guid>
-      <pubDate>Wed, 09 Sep 2026 08:00:00 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İran'dan ABD'ye Şok Baskın! ABD'nin Üslerine Saldırı! Hark Adası'nda Peş Peşe Patlamalar</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Zeynel Lüle ile Ankara Günlüğü | Konuk: Umut Akdoğan (09.09.2026)</title>
-      <link>https://www.youtube.com/watch?v=1ReMKstxf2w</link>
-      <guid isPermaLink="false">1ReMKstxf2w</guid>
-      <pubDate>Wed, 09 Sep 2026 07:49:47 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Zeynel Lüle ile Ankara Günlüğü | Konuk: Umut Akdoğan (09.09.2026)</description>
     </item>
   </channel>
 </rss>
