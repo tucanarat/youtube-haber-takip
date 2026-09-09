@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 15:30:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 15:35:27 +0000</lastBuildDate>
     <item>
       <title>Halk TV: EMEKLİLİK SİSTEMİNDE DEĞİŞİKLİK RAFA MI KALKTI? Özgür Erdursun ekonomide felaket senaryosu açıkladı!</title>
       <link>https://www.youtube.com/watch?v=quLhadBxNkQ</link>
       <guid isPermaLink="false">quLhadBxNkQ</guid>
       <pubDate>Wed, 09 Sep 2026 15:20:37 +0000</pubDate>
       <description>Halk TV kanalından yeni video: EMEKLİLİK SİSTEMİNDE DEĞİŞİKLİK RAFA MI KALKTI? Özgür Erdursun ekonomide felaket senaryosu açıkladı!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Özlem Gürses'ten Çarpıcı Kılıçdaroğlu Çıkışı! Özgür Özel'siz 103 Yıl Videosu! CHP'de Büyük Çatlak</title>
+      <link>https://www.youtube.com/watch?v=NwNFIMvZTbk</link>
+      <guid isPermaLink="false">NwNFIMvZTbk</guid>
+      <pubDate>Wed, 09 Sep 2026 15:20:23 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses'ten Çarpıcı Kılıçdaroğlu Çıkışı! Özgür Özel'siz 103 Yıl Videosu! CHP'de Büyük Çatlak</description>
     </item>
     <item>
       <title>Cumhuriyet: 🔴 İBB davasında bir ilk: İlk kez bir sanığa avukatlara hiçbir soru soramadı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">AcwV4_qDSWk</guid>
       <pubDate>Wed, 09 Sep 2026 12:30:09 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Avrupa'nın Kabusu Gerçek Oldu! Almanya'da Aşırı Sağ Seçimlere Damga Vurdu! Türklerden AfD'ye Destek</description>
-    </item>
-    <item>
-      <title>Halk TV: ÜSKÜDAR'DAKİ SEÇİMDEN SONRA HÜNGÜR HÜNGÜR AĞLAMIŞTI! CHP'li Hazal Bayhan Koç o anları anlattı!</title>
-      <link>https://www.youtube.com/watch?v=ZCdkiOp9cMg</link>
-      <guid isPermaLink="false">ZCdkiOp9cMg</guid>
-      <pubDate>Wed, 09 Sep 2026 12:30:01 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ÜSKÜDAR'DAKİ SEÇİMDEN SONRA HÜNGÜR HÜNGÜR AĞLAMIŞTI! CHP'li Hazal Bayhan Koç o anları anlattı!</description>
     </item>
   </channel>
 </rss>
