@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 13:40:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 13:45:37 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Senem Toluay Ilgaz ile Öncesi Sonrası | 9 Eylül</title>
+      <link>https://www.youtube.com/watch?v=nqsze7LdCws</link>
+      <guid isPermaLink="false">nqsze7LdCws</guid>
+      <pubDate>Wed, 09 Sep 2026 13:39:01 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Senem Toluay Ilgaz ile Öncesi Sonrası | 9 Eylül</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: Kemal Kılıçdaroğlu: “Türkiye’nin bütün evlatlarına CHP’nin kapıları açık olmalıdır” #shorts</title>
+      <link>https://www.youtube.com/shorts/EyUw7I6b11U</link>
+      <guid isPermaLink="false">EyUw7I6b11U</guid>
+      <pubDate>Wed, 09 Sep 2026 13:33:58 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Kemal Kılıçdaroğlu: “Türkiye’nin bütün evlatlarına CHP’nin kapıları açık olmalıdır” #shorts</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Türkiye Ekonomisi Nasıl Toparlanır? Daron Acemoğlu Sözcü'ye Açıkladı! "TÜRKİYE PATLAMA YAPABİLİR!"</title>
       <link>https://www.youtube.com/watch?v=PH8bSbbebMU</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">yYyFMo0SvzA</guid>
       <pubDate>Wed, 09 Sep 2026 10:10:25 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: İzmir'in düşman işgalinden kurtuluşunun 104. yıl dönümü</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Ayşe Tokyaz cinayeti davasında kritik gün... Sanık avukatlarından istifa kararı!</title>
-      <link>https://www.youtube.com/watch?v=dpv4CzFS8Mk</link>
-      <guid isPermaLink="false">dpv4CzFS8Mk</guid>
-      <pubDate>Wed, 09 Sep 2026 10:06:03 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Ayşe Tokyaz cinayeti davasında kritik gün... Sanık avukatlarından istifa kararı!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Üsküdar Belediyesi Seçimine İtiraz Edilecek! "Herkesi Arsızlığıyla Yüzleşmeye Davet Ediyorum!"</title>
-      <link>https://www.youtube.com/watch?v=9Yft5bw-wuM</link>
-      <guid isPermaLink="false">9Yft5bw-wuM</guid>
-      <pubDate>Wed, 09 Sep 2026 10:01:09 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Üsküdar Belediyesi Seçimine İtiraz Edilecek! "Herkesi Arsızlığıyla Yüzleşmeye Davet Ediyorum!"</description>
     </item>
   </channel>
 </rss>
