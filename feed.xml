@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 14:30:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 14:35:26 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Kendisi küçük yüreği büyük: 12 yaşındaki çocuk dumandan etkilenen oğlağını sırtında taşıdı</title>
+      <link>https://www.youtube.com/shorts/_hhBVkr8xos</link>
+      <guid isPermaLink="false">_hhBVkr8xos</guid>
+      <pubDate>Wed, 09 Sep 2026 14:30:11 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Kendisi küçük yüreği büyük: 12 yaşındaki çocuk dumandan etkilenen oğlağını sırtında taşıdı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: 'Gökçek Ailesinin Mal Varlıklarına El Konulmalı' MASAK Eski Başkan Yardımcısı Anlattı!</title>
       <link>https://www.youtube.com/watch?v=HCNBPFOjuVA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">PLdbS88KZco</guid>
       <pubDate>Wed, 09 Sep 2026 11:01:34 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Doğu’da erken kış alarmı: Kars’ta eylül ayında dondurucu soğuk etkisini gösterdi</description>
-    </item>
-    <item>
-      <title>Halk TV: ALMANYA'DA TAŞLAR YERİNDEN OYNADI! Irkçı parti AfD'nin seçim zaferi Merkel'i derdinden sarsmış!</title>
-      <link>https://www.youtube.com/watch?v=8HbswWB_NJ0</link>
-      <guid isPermaLink="false">8HbswWB_NJ0</guid>
-      <pubDate>Wed, 09 Sep 2026 11:00:20 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ALMANYA'DA TAŞLAR YERİNDEN OYNADI! Irkçı parti AfD'nin seçim zaferi Merkel'i derdinden sarsmış!</description>
     </item>
   </channel>
 </rss>
