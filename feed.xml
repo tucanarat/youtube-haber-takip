@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 23:46:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 23:50:31 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: ERDOĞAN'IN YAVAŞ PLANI NE? İsmail Saymaz İfşa Etti! Ankara Kulisleri Alev Alev</title>
+      <link>https://www.youtube.com/watch?v=KyxcQuBxI1U</link>
+      <guid isPermaLink="false">KyxcQuBxI1U</guid>
+      <pubDate>Wed, 09 Sep 2026 23:40:18 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: ERDOĞAN'IN YAVAŞ PLANI NE? İsmail Saymaz İfşa Etti! Ankara Kulisleri Alev Alev</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: İBB Başkan Vekili Nuri Aslan, Fatih Spor Kompleksi'nin yenileme sonrası açılışında konuşuyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=73Y1gythSVA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">XOIGothV9g4</guid>
       <pubDate>Wed, 09 Sep 2026 18:15:06 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Kemal Kılıçdaroğlu'nun 'SİYASİ DEĞİL' açıklamasına Resul Emrah Şahan örnekli yanıt!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: 'GÖKÇEK SORUŞTUMASI' İÇİN NURCAN GÖKDEMİR'DEN ÇOK KRİTİK YORUM!</title>
-      <link>https://www.youtube.com/shorts/hG-LUVP8mbw</link>
-      <guid isPermaLink="false">hG-LUVP8mbw</guid>
-      <pubDate>Wed, 09 Sep 2026 18:11:37 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: 'GÖKÇEK SORUŞTUMASI' İÇİN NURCAN GÖKDEMİR'DEN ÇOK KRİTİK YORUM!</description>
     </item>
   </channel>
 </rss>
