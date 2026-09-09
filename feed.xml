@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 07:50:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 07:55:27 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: Zeynel Lüle ile Ankara Günlüğü | Konuk: Umut Akdoğan (09.09.2026)</title>
       <link>https://www.youtube.com/watch?v=1ReMKstxf2w</link>
@@ -22,11 +22,25 @@
       <description>Tele2 Haber kanalından yeni video: #CANLI Zeynel Lüle ve Faruk Bildirici ile Medyamorfoz (09.09.26)</description>
     </item>
     <item>
+      <title>Halk TV: SAVAŞ YENİDEN ŞİDDETLENDİ! ABD Hürmüz'ü vurdu; İran ise Ürdün'deki ABD üslerini cehenneme çevirdi!</title>
+      <link>https://www.youtube.com/watch?v=P6s2VV5Ia-A</link>
+      <guid isPermaLink="false">P6s2VV5Ia-A</guid>
+      <pubDate>Wed, 09 Sep 2026 07:45:11 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SAVAŞ YENİDEN ŞİDDETLENDİ! ABD Hürmüz'ü vurdu; İran ise Ürdün'deki ABD üslerini cehenneme çevirdi!</description>
+    </item>
+    <item>
       <title>Tele2 Haber: Onur Öncü'den "Tehdit" Tepkisi! "AİLELERİ YOK MUYDU?"</title>
       <link>https://www.youtube.com/shorts/FrNEQJHpxjQ</link>
       <guid isPermaLink="false">FrNEQJHpxjQ</guid>
       <pubDate>Wed, 09 Sep 2026 07:43:43 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Onur Öncü'den "Tehdit" Tepkisi! "AİLELERİ YOK MUYDU?"</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Eskişehir'de AKP'li ve CHP’li başkanlar hakkında suç duyurusu! "BİRLİKTE HAREKET EDİYORLAR"</title>
+      <link>https://www.youtube.com/watch?v=QZ2OusHpl_w</link>
+      <guid isPermaLink="false">QZ2OusHpl_w</guid>
+      <pubDate>Wed, 09 Sep 2026 07:43:40 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Eskişehir'de AKP'li ve CHP’li başkanlar hakkında suç duyurusu! "BİRLİKTE HAREKET EDİYORLAR"</description>
     </item>
     <item>
       <title>Tele2 Haber: #CANLI İzmir'in düşman işgalinden kurtuluşunun 104. yıl dönümü kutlanıyor...</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">Q8mHg-w4WZU</guid>
       <pubDate>Tue, 08 Sep 2026 22:59:37 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Numan Kurtulmuş, Irak Temsilciler Meclisi Başkanı Heybet Halbusi ile toplantısı düzenliyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: PİŞMAN DEĞİLİM DEDİ! Çalıştığı şirketten 122 milyon lira çalan muhasebe müdürü şoke etti!</title>
-      <link>https://www.youtube.com/watch?v=oc7ZMLTWleM</link>
-      <guid isPermaLink="false">oc7ZMLTWleM</guid>
-      <pubDate>Tue, 08 Sep 2026 22:45:31 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: PİŞMAN DEĞİLİM DEDİ! Çalıştığı şirketten 122 milyon lira çalan muhasebe müdürü şoke etti!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İRAN'DAN ABD'YE ŞOK MİSİLLEME! Ortadoğu Cehenneme Dönecek! Trump Çok Öfkelenecek</title>
-      <link>https://www.youtube.com/watch?v=AUJs_2LQBlY</link>
-      <guid isPermaLink="false">AUJs_2LQBlY</guid>
-      <pubDate>Tue, 08 Sep 2026 22:40:37 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İRAN'DAN ABD'YE ŞOK MİSİLLEME! Ortadoğu Cehenneme Dönecek! Trump Çok Öfkelenecek</description>
     </item>
   </channel>
 </rss>
