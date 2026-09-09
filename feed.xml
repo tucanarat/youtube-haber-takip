@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 11:20:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 11:25:28 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: "Üsküdar'a benzer bir senaryoyu İstanbul üzerinden tezgahlamaya çalışıyorlar" #shorts</title>
+      <link>https://www.youtube.com/shorts/5Ixz0UNNSOs</link>
+      <guid isPermaLink="false">5Ixz0UNNSOs</guid>
+      <pubDate>Wed, 09 Sep 2026 11:16:03 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: "Üsküdar'a benzer bir senaryoyu İstanbul üzerinden tezgahlamaya çalışıyorlar" #shorts</description>
+    </item>
     <item>
       <title>Halk TV: BU SÖZLER KILIÇDAROĞLU'NU YERLE BİR EDER! 'İmamoğlu' çıkışına Tezkan'dan öyle bir yorum geldi ki...</title>
       <link>https://www.youtube.com/watch?v=zQehV1xdhZ4</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">-NZUKU-DnKY</guid>
       <pubDate>Wed, 09 Sep 2026 08:33:27 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Kemal Kılıçdaroğlu CHP’nin 103. kuruluş yıldönümü için Anıtkabirdeydi #shorts</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: İzmir'in düşman işgalinden kurtuluşunun 104. yıl dönümü çoşkuyla kutlanıyor</title>
-      <link>https://www.youtube.com/shorts/9WrU7UMhGF8</link>
-      <guid isPermaLink="false">9WrU7UMhGF8</guid>
-      <pubDate>Wed, 09 Sep 2026 08:31:18 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: İzmir'in düşman işgalinden kurtuluşunun 104. yıl dönümü çoşkuyla kutlanıyor</description>
     </item>
   </channel>
 </rss>
