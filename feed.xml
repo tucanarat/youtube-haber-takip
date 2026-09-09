@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 07:20:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 07:25:27 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: İzmir'in düşman işgalinden kurtuluşunun 104. yıl dönümü kutlanıyor</title>
+      <link>https://www.youtube.com/watch?v=CgwC6axhUCk</link>
+      <guid isPermaLink="false">CgwC6axhUCk</guid>
+      <pubDate>Wed, 09 Sep 2026 07:22:49 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: İzmir'in düşman işgalinden kurtuluşunun 104. yıl dönümü kutlanıyor</description>
+    </item>
     <item>
       <title>Halk TV: ADANA'DA DEHŞET GÖRÜNTÜLERİ! Orman yangını iki ilçeye kadar ulaştı, binlerce kişi tahliye edildi!</title>
       <link>https://www.youtube.com/watch?v=VV0Y1IUd-vE</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">4A-lxjPKJNw</guid>
       <pubDate>Tue, 08 Sep 2026 22:00:30 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Can Coşkun ile Gündem Masası</description>
-    </item>
-    <item>
-      <title>Halk TV: 7 yıl sonra tahliye oldu! Selçuk Mızraklı, Diyarbakır’da ilk mesajını verdi!</title>
-      <link>https://www.youtube.com/watch?v=0Jl2EYdsJDI</link>
-      <guid isPermaLink="false">0Jl2EYdsJDI</guid>
-      <pubDate>Tue, 08 Sep 2026 22:00:22 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: 7 yıl sonra tahliye oldu! Selçuk Mızraklı, Diyarbakır’da ilk mesajını verdi!</description>
     </item>
   </channel>
 </rss>
