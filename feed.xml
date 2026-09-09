@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 13:10:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 13:15:36 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: #CANLI İBB Davasında 78. gün! “Müge Anlı programına döndü”</title>
+      <link>https://www.youtube.com/watch?v=qQgKp3iYeOw</link>
+      <guid isPermaLink="false">qQgKp3iYeOw</guid>
+      <pubDate>Wed, 09 Sep 2026 13:13:41 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI İBB Davasında 78. gün! “Müge Anlı programına döndü”</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | İrem Sansak ile Haber Masası</title>
       <link>https://www.youtube.com/watch?v=D1Ny5gUvlrg</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">DkhwpLwI2OA</guid>
       <pubDate>Wed, 09 Sep 2026 09:56:45 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Parti Grup Başkanvekili Gökhan Günaydın, TBMM'de Açıklama Yaptı (9 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI YENİ Parti Grup Başkanvekili Gökhan Günaydın, TBMM'de açıklama yapıyor</title>
-      <link>https://www.youtube.com/watch?v=w7knbLFPYvU</link>
-      <guid isPermaLink="false">w7knbLFPYvU</guid>
-      <pubDate>Wed, 09 Sep 2026 09:56:43 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti Grup Başkanvekili Gökhan Günaydın, TBMM'de açıklama yapıyor</description>
     </item>
   </channel>
 </rss>
