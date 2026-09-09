@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 12:50:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 12:55:28 +0000</lastBuildDate>
     <item>
       <title>Halk TV: Butlan CHP'si Genel Başkanı Kemal Kılıçdaroğlu Konuştu (9 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=yOi1EwTFSSc</link>
       <guid isPermaLink="false">yOi1EwTFSSc</guid>
       <pubDate>Wed, 09 Sep 2026 12:47:32 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Butlan CHP'si Genel Başkanı Kemal Kılıçdaroğlu Konuştu (9 Eylül 2026)</description>
+    </item>
+    <item>
+      <title>Halk TV: ÜSKÜDAR'DAN SON SIRA İBB'DE Mİ? YENİ Partili Gül Çiftci AKP'nin sarsıcı planını bir bir anlattı!</title>
+      <link>https://www.youtube.com/watch?v=Og1UjNJX-3g</link>
+      <guid isPermaLink="false">Og1UjNJX-3g</guid>
+      <pubDate>Wed, 09 Sep 2026 12:45:22 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ÜSKÜDAR'DAN SON SIRA İBB'DE Mİ? YENİ Partili Gül Çiftci AKP'nin sarsıcı planını bir bir anlattı!</description>
     </item>
     <item>
       <title>Cumhuriyet: Ezgi Apartmanı'nda üç evladını kaybetti... Anne Göksu: Yaşamaya devam edebilmem için bir sebep verin</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">PKZjlcecrHg</guid>
       <pubDate>Wed, 09 Sep 2026 09:42:19 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Onur Öncü'den Kemal Kılıçdaroğlu'na Akit Tepkisi!</description>
-    </item>
-    <item>
-      <title>Halk TV: 'Vanlı Kara Haydar'dan sonra 'Vanlı Ali Haydar' da gözaltında!</title>
-      <link>https://www.youtube.com/shorts/c4wGftFdDiE</link>
-      <guid isPermaLink="false">c4wGftFdDiE</guid>
-      <pubDate>Wed, 09 Sep 2026 09:32:09 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: 'Vanlı Kara Haydar'dan sonra 'Vanlı Ali Haydar' da gözaltında!</description>
     </item>
   </channel>
 </rss>
