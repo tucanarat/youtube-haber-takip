@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 18:30:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 18:35:28 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: İzmir'in düşman işgalinden kurtuluşunun 104. yıl dönümü kutlanıyor</title>
+      <link>https://www.youtube.com/watch?v=xB2FVEeI9Sk</link>
+      <guid isPermaLink="false">xB2FVEeI9Sk</guid>
+      <pubDate>Wed, 09 Sep 2026 18:22:47 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: İzmir'in düşman işgalinden kurtuluşunun 104. yıl dönümü kutlanıyor</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: 4 Şüpheli Ölüm! O Dosyalar Raftan İndi! Gündem Olacak Enver Altaylı Gerçekleri! Özlem Gürses Anlattı</title>
+      <link>https://www.youtube.com/watch?v=4L3QWhoBrRQ</link>
+      <guid isPermaLink="false">4L3QWhoBrRQ</guid>
+      <pubDate>Wed, 09 Sep 2026 18:20:29 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: 4 Şüpheli Ölüm! O Dosyalar Raftan İndi! Gündem Olacak Enver Altaylı Gerçekleri! Özlem Gürses Anlattı</description>
+    </item>
     <item>
       <title>Halk TV: YENİ PARTİ'NİN YENİ ROTASI BELLİ OLDU! Özel'in bir sonraki durağı Doğu Anadolu! İşte son durum!</title>
       <link>https://www.youtube.com/watch?v=FocoGC4YnPw</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">ojwcrywIDbg</guid>
       <pubDate>Wed, 09 Sep 2026 15:12:26 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: 🔴 İBB DAVASINA DAMGA VURAN 'YAPAY ZEKA' DETAYI</description>
-    </item>
-    <item>
-      <title>Halk TV: "ÜSKÜDAR'DA DEVLET KARŞIMIZDAYDI" Tarık Balyalı sarsıcı bilgileri Halk TV YouTube'a açıkladı!</title>
-      <link>https://www.youtube.com/watch?v=jBSPtJPc62I</link>
-      <guid isPermaLink="false">jBSPtJPc62I</guid>
-      <pubDate>Wed, 09 Sep 2026 15:05:10 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: "ÜSKÜDAR'DA DEVLET KARŞIMIZDAYDI" Tarık Balyalı sarsıcı bilgileri Halk TV YouTube'a açıkladı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Selçuk Mızraklı ile Demirtaş'ın annesi arasında yürek burkan diyalog: "Sen niye tek geldin!"</title>
-      <link>https://www.youtube.com/shorts/NzZsmG3oWlg</link>
-      <guid isPermaLink="false">NzZsmG3oWlg</guid>
-      <pubDate>Wed, 09 Sep 2026 15:02:19 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Selçuk Mızraklı ile Demirtaş'ın annesi arasında yürek burkan diyalog: "Sen niye tek geldin!"</description>
     </item>
   </channel>
 </rss>
