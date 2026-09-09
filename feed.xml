@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 17:35:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 17:40:36 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI  Ülkü Çoban ile Manşet Ötesi (10.09.26)</title>
+      <link>https://www.youtube.com/watch?v=S99nY2bGSQg</link>
+      <guid isPermaLink="false">S99nY2bGSQg</guid>
+      <pubDate>Wed, 09 Sep 2026 17:32:16 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI  Ülkü Çoban ile Manşet Ötesi (10.09.26)</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #CANLI Onur Öncü ile Sabah Pusulası (10.09.26)</title>
+      <link>https://www.youtube.com/watch?v=hRpt-3_J43k</link>
+      <guid isPermaLink="false">hRpt-3_J43k</guid>
+      <pubDate>Wed, 09 Sep 2026 17:31:02 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Onur Öncü ile Sabah Pusulası (10.09.26)</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: CHP'nin 103. Kuruluş Yıldönümü Resepsiyonu #Canlı</title>
       <link>https://www.youtube.com/watch?v=Ho4guIr1My4</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">Tr0kd0OprGk</guid>
       <pubDate>Wed, 09 Sep 2026 14:40:14 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Balkanlar'da Tehlikeli Oyun! Türkiye ve Avrupa Ayağa Kalktı! Bosna Kasabı'na Skandal Tören</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Zeynel Lüle ile Ankara Günlüğü | Konuk: Umut Akdoğan (09.09.2026)</title>
-      <link>https://www.youtube.com/watch?v=1ReMKstxf2w</link>
-      <guid isPermaLink="false">1ReMKstxf2w</guid>
-      <pubDate>Wed, 09 Sep 2026 14:39:18 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Zeynel Lüle ile Ankara Günlüğü | Konuk: Umut Akdoğan (09.09.2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: Almanya bu olayı konuşuyor: Yer altı dünyasının kilit 2 ismi otoparkta infaz edildi!</title>
-      <link>https://www.youtube.com/watch?v=JuLqRVNtXXI</link>
-      <guid isPermaLink="false">JuLqRVNtXXI</guid>
-      <pubDate>Wed, 09 Sep 2026 14:35:13 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Almanya bu olayı konuşuyor: Yer altı dünyasının kilit 2 ismi otoparkta infaz edildi!</description>
     </item>
   </channel>
 </rss>
