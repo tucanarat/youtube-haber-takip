@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 22:05:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 22:10:37 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: İran ve ABD arasındaki gerilim tırmanıyor! Hürmüz’de ticari gemilerin bekleyişi kamerada! #shorts</title>
+      <link>https://www.youtube.com/shorts/GTP2i9JrRUI</link>
+      <guid isPermaLink="false">GTP2i9JrRUI</guid>
+      <pubDate>Wed, 09 Sep 2026 22:07:16 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İran ve ABD arasındaki gerilim tırmanıyor! Hürmüz’de ticari gemilerin bekleyişi kamerada! #shorts</description>
+    </item>
     <item>
       <title>Halk TV: Kürşad Oğuz ile Rota (9 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=imVoZsrrK6k</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">OMp812aj6RA</guid>
       <pubDate>Wed, 09 Sep 2026 17:15:22 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Üsküdar Belediyesi AKP'ye geçti, Özgür Çelik'e soruşturma başlatıldı! Taylan'dan çok sert yorum...</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | CHP'nin 103. Kuruluş Yıldönümü sebebiyle 9 Eylül Resepsiyonu düzenleniyor!</title>
-      <link>https://www.youtube.com/watch?v=LtXhC9AvYt4</link>
-      <guid isPermaLink="false">LtXhC9AvYt4</guid>
-      <pubDate>Wed, 09 Sep 2026 17:09:15 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | CHP'nin 103. Kuruluş Yıldönümü sebebiyle 9 Eylül Resepsiyonu düzenleniyor!</description>
     </item>
   </channel>
 </rss>
