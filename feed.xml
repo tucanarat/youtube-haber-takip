@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 17:45:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 17:45:53 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Özgür Çelik'ten Olay İddia! Üsküdar'da Olanları Bir Bir Anlattı! AKP'ye Transferlerin Perde Arkası</title>
+      <link>https://www.youtube.com/watch?v=VUMzRz3HkA0</link>
+      <guid isPermaLink="false">VUMzRz3HkA0</guid>
+      <pubDate>Wed, 09 Sep 2026 17:40:04 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Özgür Çelik'ten Olay İddia! Üsküdar'da Olanları Bir Bir Anlattı! AKP'ye Transferlerin Perde Arkası</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI  Ülkü Çoban ile Manşet Ötesi (10.09.26)</title>
       <link>https://www.youtube.com/watch?v=S99nY2bGSQg</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">RRKgUy16PC4</guid>
       <pubDate>Wed, 09 Sep 2026 14:42:45 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: İBB davasında dikkat çeken detay! Etkin pişmanlıkçıların ifadeleri yapay zeka ile mi yazıldı?</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Balkanlar'da Tehlikeli Oyun! Türkiye ve Avrupa Ayağa Kalktı! Bosna Kasabı'na Skandal Tören</title>
-      <link>https://www.youtube.com/watch?v=Tr0kd0OprGk</link>
-      <guid isPermaLink="false">Tr0kd0OprGk</guid>
-      <pubDate>Wed, 09 Sep 2026 14:40:14 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Balkanlar'da Tehlikeli Oyun! Türkiye ve Avrupa Ayağa Kalktı! Bosna Kasabı'na Skandal Tören</description>
     </item>
   </channel>
 </rss>
