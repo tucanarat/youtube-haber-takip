@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 11:35:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 11:40:36 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Aksaray’da çocuk oyununun acı sonu: 2 yaşındaki minik çakmakla oynarken evi yaktı</title>
+      <link>https://www.youtube.com/shorts/uC-1kW-X6sQ</link>
+      <guid isPermaLink="false">uC-1kW-X6sQ</guid>
+      <pubDate>Wed, 09 Sep 2026 11:37:08 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Aksaray’da çocuk oyununun acı sonu: 2 yaşındaki minik çakmakla oynarken evi yaktı</description>
+    </item>
     <item>
       <title>Cumhuriyet: #CANLI İBB Davasında 78. gün! “Müge Anlı programına döndü”</title>
       <link>https://www.youtube.com/watch?v=7KCbWAwNOhk</link>
@@ -27,6 +34,13 @@
       <guid isPermaLink="false">cPGxKOtQ0cA</guid>
       <pubDate>Wed, 09 Sep 2026 11:30:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Nevzat Çiçek Netanyahu'yu Yakan Belgeleri Açıkladı! 7 EKİM'DEN 10 GÜN ÖNCE GELEN GİZLİ İSTİHBARAT!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Gökhan Günaydın'dan Kılıçdaroğlu'na Ağır Cevap!</title>
+      <link>https://www.youtube.com/shorts/kZCbNvJNZSk</link>
+      <guid isPermaLink="false">kZCbNvJNZSk</guid>
+      <pubDate>Wed, 09 Sep 2026 11:29:58 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Gökhan Günaydın'dan Kılıçdaroğlu'na Ağır Cevap!</description>
     </item>
     <item>
       <title>Cumhuriyet: Günaydın'dan Kılıçdaroğlu'na 'İmamoğlu' tepkisi! "Siyasi değilse neden 23 Mart'ta tutuklandı?"</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">qyPihuffNOU</guid>
       <pubDate>Wed, 09 Sep 2026 09:02:37 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: 9 Eylül zaferi aynı zamanda yeni bir dönemin kapılarının açılışıdır: Türkün yeniden doğuş...</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: 9 Eylül ve İzmir’e giren komutanlar - Tolga Aydoğan</title>
-      <link>https://www.youtube.com/watch?v=LniNsYWjuqw</link>
-      <guid isPermaLink="false">LniNsYWjuqw</guid>
-      <pubDate>Wed, 09 Sep 2026 09:00:33 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: 9 Eylül ve İzmir’e giren komutanlar - Tolga Aydoğan</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Erol Mütercimler’den Tarihi Erdoğan Sonrası AKP Analizi! Ankara'da Deprem! Özel, Bahçeli, İmamoğlu</title>
-      <link>https://www.youtube.com/watch?v=zsGUBnVDpUk</link>
-      <guid isPermaLink="false">zsGUBnVDpUk</guid>
-      <pubDate>Wed, 09 Sep 2026 09:00:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Erol Mütercimler’den Tarihi Erdoğan Sonrası AKP Analizi! Ankara'da Deprem! Özel, Bahçeli, İmamoğlu</description>
     </item>
   </channel>
 </rss>
