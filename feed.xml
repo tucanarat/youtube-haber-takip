@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 16:20:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 16:25:38 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SOKAKLAR KIPKIRMIZI! İzmir'in Kurtuluşu 104. yılında da sokaklarda coşkuyla kutlandı!</title>
+      <link>https://www.youtube.com/watch?v=PS_nuqJFuuc</link>
+      <guid isPermaLink="false">PS_nuqJFuuc</guid>
+      <pubDate>Wed, 09 Sep 2026 16:20:39 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SOKAKLAR KIPKIRMIZI! İzmir'in Kurtuluşu 104. yılında da sokaklarda coşkuyla kutlandı!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Üsküdar'ı Karıştıran Şok Şantaj Olayı! Özgür Çelik Anlattı! Ayhan Aydın'dan Çarpıcı Açıklama</title>
+      <link>https://www.youtube.com/watch?v=f0J70gCmIFg</link>
+      <guid isPermaLink="false">f0J70gCmIFg</guid>
+      <pubDate>Wed, 09 Sep 2026 16:20:13 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Üsküdar'ı Karıştıran Şok Şantaj Olayı! Özgür Çelik Anlattı! Ayhan Aydın'dan Çarpıcı Açıklama</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: ÖZGÜR ÇELİK'TEN ÇARPICI AÇIKLAMALAR! Tehdit Soruşturmasına Tarihi Cevap</title>
       <link>https://www.youtube.com/watch?v=MqhNqALMRbo</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">PH8bSbbebMU</guid>
       <pubDate>Wed, 09 Sep 2026 13:30:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Türkiye Ekonomisi Nasıl Toparlanır? Daron Acemoğlu Sözcü'ye Açıkladı! "TÜRKİYE PATLAMA YAPABİLİR!"</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Üsküdar Belediyesi AKP'ye geçti! Gündeme damga vuran sokak röportajı: Seçime güven kaldı mı?</title>
-      <link>https://www.youtube.com/watch?v=8Fj39qEdyDw</link>
-      <guid isPermaLink="false">8Fj39qEdyDw</guid>
-      <pubDate>Wed, 09 Sep 2026 13:28:25 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Üsküdar Belediyesi AKP'ye geçti! Gündeme damga vuran sokak röportajı: Seçime güven kaldı mı?</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Üsküdar Belediyesi'nin AKP'ye geçmesine sevinen yurttaştan garip tepki!</title>
-      <link>https://www.youtube.com/shorts/bFEUk4UZ83g</link>
-      <guid isPermaLink="false">bFEUk4UZ83g</guid>
-      <pubDate>Wed, 09 Sep 2026 13:27:32 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Üsküdar Belediyesi'nin AKP'ye geçmesine sevinen yurttaştan garip tepki!</description>
     </item>
   </channel>
 </rss>
