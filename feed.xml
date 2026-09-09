@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 22:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 22:25:27 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Gizli Mektup Ortaya Çıktı! "BENİ BURADA ÖLDÜRECEKLER!" Kaşif Kozinoğlu Ölümünde Giz Sandığı Açılıyor</title>
+      <link>https://www.youtube.com/watch?v=MlwdJhZoOXg</link>
+      <guid isPermaLink="false">MlwdJhZoOXg</guid>
+      <pubDate>Wed, 09 Sep 2026 22:20:35 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Gizli Mektup Ortaya Çıktı! "BENİ BURADA ÖLDÜRECEKLER!" Kaşif Kozinoğlu Ölümünde Giz Sandığı Açılıyor</description>
+    </item>
+    <item>
+      <title>Halk TV: Ukrayna’dan Rusya’ya İHA saldırısı! Soçi limanının vurulduğu bildirildi!</title>
+      <link>https://www.youtube.com/watch?v=cJY4BXYK8SU</link>
+      <guid isPermaLink="false">cJY4BXYK8SU</guid>
+      <pubDate>Wed, 09 Sep 2026 22:15:01 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Ukrayna’dan Rusya’ya İHA saldırısı! Soçi limanının vurulduğu bildirildi!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Özlem Gürses ile Sözcü Ana Haber</title>
       <link>https://www.youtube.com/watch?v=Z2h59BVqOuE</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">yGr_r66Cmmk</guid>
       <pubDate>Wed, 09 Sep 2026 17:48:50 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "SEÇİMSİZLEŞTİRİLEN TÜRKİYE'NİN İLK ADIMI" İnan Demirel ile Gündemdekiler | Konuk: Nurcan Gökdemir</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! Cumhurbaşkanı Erdoğan, Ankara Büyükşehir Belediye Başkanı Mansur Yavaş ile görüştü!</title>
-      <link>https://www.youtube.com/watch?v=jTuJMIg3fRM</link>
-      <guid isPermaLink="false">jTuJMIg3fRM</guid>
-      <pubDate>Wed, 09 Sep 2026 17:46:31 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! Cumhurbaşkanı Erdoğan, Ankara Büyükşehir Belediye Başkanı Mansur Yavaş ile görüştü!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Kayyum Gürsel Tekin CHP'nin cumhurbaşkanı adayını anlattı! Murat Taylan'dan Tekin'e sert tepki!</title>
-      <link>https://www.youtube.com/watch?v=hT5QK6_TU_s</link>
-      <guid isPermaLink="false">hT5QK6_TU_s</guid>
-      <pubDate>Wed, 09 Sep 2026 17:45:01 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Kayyum Gürsel Tekin CHP'nin cumhurbaşkanı adayını anlattı! Murat Taylan'dan Tekin'e sert tepki!</description>
     </item>
   </channel>
 </rss>
