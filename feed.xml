@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 20:45:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 20:50:37 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: İzmir'in düşman işgalinden kurtuluşunun 104. yıl dönümü kutlanıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=dQaae28tRgU</link>
+      <guid isPermaLink="false">dQaae28tRgU</guid>
+      <pubDate>Wed, 09 Sep 2026 20:45:29 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: İzmir'in düşman işgalinden kurtuluşunun 104. yıl dönümü kutlanıyor #Canlı</description>
+    </item>
+    <item>
+      <title>Halk TV: MANSUR YAVAŞ'I ZORA SOKACAK SÖZLER! Afşin Hatipoğlu: Erdoğan ile verdiği fotoğraf masum değil!</title>
+      <link>https://www.youtube.com/watch?v=89AUK1F3UTE</link>
+      <guid isPermaLink="false">89AUK1F3UTE</guid>
+      <pubDate>Wed, 09 Sep 2026 20:45:15 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: MANSUR YAVAŞ'I ZORA SOKACAK SÖZLER! Afşin Hatipoğlu: Erdoğan ile verdiği fotoğraf masum değil!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Mansur Yavaş Erdoğan Görüşmesi Ankara'yı Salladı! Murat Ağırel Anlattı! Kulisleri Sarsan Hamle</title>
       <link>https://www.youtube.com/watch?v=H7KzaJVYIOw</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">-aL6RnqxVHE</guid>
       <pubDate>Wed, 09 Sep 2026 16:30:34 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "AKP'Yİ CESARETLENDİREN KİM?" Murat Taylan'dan çok kritik ÜSKÜDAR BELEDİYESİ ve SİNEM DEDETAŞ yorumu</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Özgür Çelik, hakkında başlatılan soruşturmaya ilişkin açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=3HEMQs_AzcM</link>
-      <guid isPermaLink="false">3HEMQs_AzcM</guid>
-      <pubDate>Wed, 09 Sep 2026 16:28:46 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Özgür Çelik, hakkında başlatılan soruşturmaya ilişkin açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: SOKAKLAR KIPKIRMIZI! İzmir'in Kurtuluşu 104. yılında da sokaklarda coşkuyla kutlandı!</title>
-      <link>https://www.youtube.com/watch?v=PS_nuqJFuuc</link>
-      <guid isPermaLink="false">PS_nuqJFuuc</guid>
-      <pubDate>Wed, 09 Sep 2026 16:20:39 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SOKAKLAR KIPKIRMIZI! İzmir'in Kurtuluşu 104. yılında da sokaklarda coşkuyla kutlandı!</description>
     </item>
   </channel>
 </rss>
