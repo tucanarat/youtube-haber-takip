@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 19:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 19:20:31 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: ÖZGÜR ÇELİK İÇİN SORUŞTURMA BAŞLATILDI! Çelik'in ifadeye çağrılmasını Murat Taylan yorumladı...</title>
       <link>https://www.youtube.com/watch?v=3fO4UnIMdp4</link>
       <guid isPermaLink="false">3fO4UnIMdp4</guid>
       <pubDate>Thu, 10 Sep 2026 19:00:20 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: ÖZGÜR ÇELİK İÇİN SORUŞTURMA BAŞLATILDI! Çelik'in ifadeye çağrılmasını Murat Taylan yorumladı...</description>
+    </item>
+    <item>
+      <title>Halk TV: ÖZEL'E SEVGİ SELİ! "Kaz satıp bir otobüs de biz alacağız!" Ardahan'lı kadının sözleri gündem oldu!</title>
+      <link>https://www.youtube.com/watch?v=3yzJi5UJD_A</link>
+      <guid isPermaLink="false">3yzJi5UJD_A</guid>
+      <pubDate>Thu, 10 Sep 2026 19:00:11 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ÖZEL'E SEVGİ SELİ! "Kaz satıp bir otobüs de biz alacağız!" Ardahan'lı kadının sözleri gündem oldu!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: ERDOĞAN MANSUR YAVAŞ ZİRVESİNİN PERDE ARKASI! Özgür Çelik'ten Dengeleri Alt Üst Edecek Çıkış</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">L-WaDUd17IA</guid>
       <pubDate>Thu, 10 Sep 2026 15:21:48 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Atlas’ın annesinden yürek yakan sözler! “Atlas’ın adaleti sağlanmadı!”</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Cem Küçük Davasında Para Trafiği Ortaya Çıktı! İsmail Çanak ve Tahir Sarıkaya'nın Olay İfadeleri</title>
-      <link>https://www.youtube.com/watch?v=HB5i_lA9Bh4</link>
-      <guid isPermaLink="false">HB5i_lA9Bh4</guid>
-      <pubDate>Thu, 10 Sep 2026 15:20:21 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Cem Küçük Davasında Para Trafiği Ortaya Çıktı! İsmail Çanak ve Tahir Sarıkaya'nın Olay İfadeleri</description>
     </item>
   </channel>
 </rss>
