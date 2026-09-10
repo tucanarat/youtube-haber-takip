@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 11:45:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 11:50:36 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Mazotta KDV yükü artıyor! Gökhan Günaydın rakamları tek tek açıkladı</title>
+      <link>https://www.youtube.com/shorts/JCZUPfqV1B0</link>
+      <guid isPermaLink="false">JCZUPfqV1B0</guid>
+      <pubDate>Thu, 10 Sep 2026 11:41:07 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Mazotta KDV yükü artıyor! Gökhan Günaydın rakamları tek tek açıkladı</description>
+    </item>
     <item>
       <title>Tele2 Haber: "Hangi Koltuk Hırsı Bunu Size Yaptırıyor?" Dilek İmamoğlu'ndan Çok Sert Üsküdar Tepkisi!</title>
       <link>https://www.youtube.com/watch?v=6j1qvdgzNnw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">oi4Zn4y9DGo</guid>
       <pubDate>Thu, 10 Sep 2026 09:03:41 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İBB Başkan Vekili Nuri Aslan Açıklamalarda Bulundu (10 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: DGD Üyesi Mehmet Şimşek Yaşadığı İşkenceyi Anlattı!</title>
-      <link>https://www.youtube.com/shorts/9VuGoGb9188</link>
-      <guid isPermaLink="false">9VuGoGb9188</guid>
-      <pubDate>Thu, 10 Sep 2026 09:02:54 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: DGD Üyesi Mehmet Şimşek Yaşadığı İşkenceyi Anlattı!</description>
     </item>
   </channel>
 </rss>
