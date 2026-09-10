@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 10:25:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 10:30:52 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Barış Terkoğlu Bombayı Patlattı! Erdoğan'ın Yavaş Planı! FETÖ'nün MİT Kumpası ve Kozinoğlu Cinayet</title>
+      <link>https://www.youtube.com/watch?v=ApAJZ8lAkv4</link>
+      <guid isPermaLink="false">ApAJZ8lAkv4</guid>
+      <pubDate>Thu, 10 Sep 2026 10:30:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Barış Terkoğlu Bombayı Patlattı! Erdoğan'ın Yavaş Planı! FETÖ'nün MİT Kumpası ve Kozinoğlu Cinayet</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Mehmet Akif Ersoy’un davası | Veyis Ateş İstanbul Adliyesi'nde...</title>
+      <link>https://www.youtube.com/shorts/RhSGHIKY4a0</link>
+      <guid isPermaLink="false">RhSGHIKY4a0</guid>
+      <pubDate>Thu, 10 Sep 2026 10:26:49 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Mehmet Akif Ersoy’un davası | Veyis Ateş İstanbul Adliyesi'nde...</description>
+    </item>
     <item>
       <title>Cumhuriyet: Suat Özçağdaş, mahkeme salonundan çıkarıldı: Akın Gürlek'ten bir şey beklemiyorum</title>
       <link>https://www.youtube.com/shorts/slqlHgLGE34</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">cRNNJcM0fIs</guid>
       <pubDate>Thu, 10 Sep 2026 07:26:32 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Dizlerinde ağrı, yüreğinde tutku: ‘Ayder'in Nazmiye ablası’ dağ maratonuna hazırlanıyor</description>
-    </item>
-    <item>
-      <title>Halk TV: İLK KEZ HAKİM KARŞISINDA! Mehmet Akif Ersoy davasında duruşma başlıyor! İşte Çağlayan'da son durum!</title>
-      <link>https://www.youtube.com/watch?v=mBYw-hP8uow</link>
-      <guid isPermaLink="false">mBYw-hP8uow</guid>
-      <pubDate>Thu, 10 Sep 2026 07:25:39 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İLK KEZ HAKİM KARŞISINDA! Mehmet Akif Ersoy davasında duruşma başlıyor! İşte Çağlayan'da son durum!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Ayşe Tokyaz davasında karar: Cemil Koç’a ağırlaştırılmış müebbet verildi</title>
-      <link>https://www.youtube.com/shorts/mLORzabwffU</link>
-      <guid isPermaLink="false">mLORzabwffU</guid>
-      <pubDate>Thu, 10 Sep 2026 07:23:47 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Ayşe Tokyaz davasında karar: Cemil Koç’a ağırlaştırılmış müebbet verildi</description>
     </item>
   </channel>
 </rss>
