@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 17:19:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 17:20:33 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Barış Terkoğlu Mansur Yavaş'ın Gizli Adaylık Planını Deşifre Etti! İmamoğlu Çıkışı!</title>
+      <link>https://www.youtube.com/watch?v=L-pU6i5NcY8</link>
+      <guid isPermaLink="false">L-pU6i5NcY8</guid>
+      <pubDate>Thu, 10 Sep 2026 17:19:41 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Barış Terkoğlu Mansur Yavaş'ın Gizli Adaylık Planını Deşifre Etti! İmamoğlu Çıkışı!</description>
+    </item>
     <item>
       <title>Halk TV: Mekke Savunma Anlaşması’nda ilk sınav! Pakistan’dan İran’a kritik uyarı!</title>
       <link>https://www.youtube.com/watch?v=LbnBfM4tJho</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">DT-TbffrPcM</guid>
       <pubDate>Thu, 10 Sep 2026 14:04:15 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Ardahan’da bir yurttaş Özgür Özel'e dert yandı: Başkanım, bu yukarıdakiler bizi görmüyor mu?</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: "KİRALIK ALTIN" YALANI ÇÖKTÜ! Emrullah Erdinç, Vanlı Kara Haydar ve Çağla Öz Dosyasını Açtı</title>
-      <link>https://www.youtube.com/watch?v=eswO-olGXYM</link>
-      <guid isPermaLink="false">eswO-olGXYM</guid>
-      <pubDate>Thu, 10 Sep 2026 14:00:33 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: "KİRALIK ALTIN" YALANI ÇÖKTÜ! Emrullah Erdinç, Vanlı Kara Haydar ve Çağla Öz Dosyasını Açtı</description>
     </item>
   </channel>
 </rss>
