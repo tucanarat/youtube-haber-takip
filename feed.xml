@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 11:05:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 11:10:34 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Mansur Yavaş AKP İddialarını Reddetti! "Biz Yalanlamaktan Bıktık Siz Yalan Söylemekten Bıkmadınız!"</title>
+      <link>https://www.youtube.com/watch?v=FGFJH7bQVkY</link>
+      <guid isPermaLink="false">FGFJH7bQVkY</guid>
+      <pubDate>Thu, 10 Sep 2026 11:07:35 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Mansur Yavaş AKP İddialarını Reddetti! "Biz Yalanlamaktan Bıktık Siz Yalan Söylemekten Bıkmadınız!"</description>
+    </item>
     <item>
       <title>Cumhuriyet: Gümüşlük’ten...-Zeynep Oral</title>
       <link>https://www.youtube.com/watch?v=lL8o4Y8Osr8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Nvwvi6NTLxE</guid>
       <pubDate>Thu, 10 Sep 2026 08:00:16 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Ayşe Tokyaz'ın kardeşinin sözleri yürekleri yaktı: "Bunların kini geçmeyecek!"</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İsmail Saymaz Mansur Yavaş Kulisini Patlattı! Erdoğan Görüşmesinin Perde Arkası! Ankara Alev Alacak</title>
-      <link>https://www.youtube.com/watch?v=RybK7TXm_rI</link>
-      <guid isPermaLink="false">RybK7TXm_rI</guid>
-      <pubDate>Thu, 10 Sep 2026 08:00:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İsmail Saymaz Mansur Yavaş Kulisini Patlattı! Erdoğan Görüşmesinin Perde Arkası! Ankara Alev Alacak</description>
     </item>
   </channel>
 </rss>
