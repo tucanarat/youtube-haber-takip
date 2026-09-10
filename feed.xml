@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 13:30:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 13:35:29 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Dün gece gözaltına alınan Çağlı Öz, 'Vanlı Kara Haydar'dan önce bir başkası ile evlenmiş!</title>
+      <link>https://www.youtube.com/watch?v=MF3oEUfPhuU</link>
+      <guid isPermaLink="false">MF3oEUfPhuU</guid>
+      <pubDate>Thu, 10 Sep 2026 13:30:10 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Dün gece gözaltına alınan Çağlı Öz, 'Vanlı Kara Haydar'dan önce bir başkası ile evlenmiş!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Avrupa'yı Putin Korkusu Saldı! NATO 200 Kilometrelik Çelik Duvar Çekti! Kuzeyde Savaş Hazırlığı</title>
+      <link>https://www.youtube.com/watch?v=3rtBkTJSesg</link>
+      <guid isPermaLink="false">3rtBkTJSesg</guid>
+      <pubDate>Thu, 10 Sep 2026 13:20:22 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Avrupa'yı Putin Korkusu Saldı! NATO 200 Kilometrelik Çelik Duvar Çekti! Kuzeyde Savaş Hazırlığı</description>
+    </item>
     <item>
       <title>Tele2 Haber: "Bu Milleti Aptal Sanıyorlar Ama Her Şeyin Farkında ve Arkadayız!" Ardahan'da Özgür Özel İzdihamı!</title>
       <link>https://www.youtube.com/watch?v=bMyXka_U1ps</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">um4e8NnzfWc</guid>
       <pubDate>Thu, 10 Sep 2026 11:31:38 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Kebap kokusuna bile hasret kaldılar! Kadirli’de vatandaşlardan et fiyatlarına tepki!</description>
-    </item>
-    <item>
-      <title>Halk TV: ÖZGÜR ÇELİK GERİ ADIM ATMIYOR! Ayhan Aydın'ın tehdit edildiği iddiasının arkanda durdu! Şok sözler!</title>
-      <link>https://www.youtube.com/watch?v=pKsdDKg4sDU</link>
-      <guid isPermaLink="false">pKsdDKg4sDU</guid>
-      <pubDate>Thu, 10 Sep 2026 11:30:29 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ÖZGÜR ÇELİK GERİ ADIM ATMIYOR! Ayhan Aydın'ın tehdit edildiği iddiasının arkanda durdu! Şok sözler!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Murat Ağırel'den Tarihi Uyarı! Ankara'yı Sallayan Mansur Yavaş Kulisi! Beştepe'nin Planı İfşa Oldu</title>
-      <link>https://www.youtube.com/watch?v=-GsP6A6-Fek</link>
-      <guid isPermaLink="false">-GsP6A6-Fek</guid>
-      <pubDate>Thu, 10 Sep 2026 11:30:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Murat Ağırel'den Tarihi Uyarı! Ankara'yı Sallayan Mansur Yavaş Kulisi! Beştepe'nin Planı İfşa Oldu</description>
     </item>
   </channel>
 </rss>
