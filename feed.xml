@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 10:10:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 10:15:35 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: #CANLI YENİ Parti Grup Başkanvekili Gökhan Günaydın, TBMM'de açıklama yapıyor</title>
       <link>https://www.youtube.com/watch?v=mYwWdI5frM8</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">38zIvMiFoH0</guid>
       <pubDate>Thu, 10 Sep 2026 10:03:49 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Parti Grup Başkanvekili Gökhan Günaydın, TBMM'de Açıklama Yaptı (10 Eylül 2026)</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Kaşif Kozinoğlu'nu Kim Susturdu? Ersan Barkın'dan Çarpıcı FETÖ ve Enver Altaylı Gerçeği!</title>
+      <link>https://www.youtube.com/watch?v=2mYBIIoa_uY</link>
+      <guid isPermaLink="false">2mYBIIoa_uY</guid>
+      <pubDate>Thu, 10 Sep 2026 10:00:27 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Kaşif Kozinoğlu'nu Kim Susturdu? Ersan Barkın'dan Çarpıcı FETÖ ve Enver Altaylı Gerçeği!</description>
     </item>
     <item>
       <title>Halk TV: Ebru Baki ile Para Siyaset | İbrahim Kahveci - Mehmet Tezkan (10 Eylül 2026)</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">qvl8kM5bf0Y</guid>
       <pubDate>Thu, 10 Sep 2026 07:10:56 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Ezgi Apartmanı Davası... Üç Çocuğunu Kaybeden Nurgül Göksu: "Çocuklarımın Adaleti Sağlansın!"</description>
-    </item>
-    <item>
-      <title>Halk TV: "SAVCI İFADEYİ YAZDI, ÖNÜME KOYDU, BEN DE İMZALADIM!" İBB davasında şok sözler! Her detayı şoke eder</title>
-      <link>https://www.youtube.com/watch?v=2EL22jAxv4I</link>
-      <guid isPermaLink="false">2EL22jAxv4I</guid>
-      <pubDate>Thu, 10 Sep 2026 07:08:36 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: "SAVCI İFADEYİ YAZDI, ÖNÜME KOYDU, BEN DE İMZALADIM!" İBB davasında şok sözler! Her detayı şoke eder</description>
     </item>
   </channel>
 </rss>
