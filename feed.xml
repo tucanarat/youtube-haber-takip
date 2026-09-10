@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 16:15:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 16:20:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: O TEYZENİN SÖZLERİ YÜREĞE DOKUNDU! Özgür Özel Ardahan'ın Çamlıçatak Köyü'nde kadınlarla buluştu!</title>
+      <link>https://www.youtube.com/watch?v=D_hzDwdhV_M</link>
+      <guid isPermaLink="false">D_hzDwdhV_M</guid>
+      <pubDate>Thu, 10 Sep 2026 16:15:00 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: O TEYZENİN SÖZLERİ YÜREĞE DOKUNDU! Özgür Özel Ardahan'ın Çamlıçatak Köyü'nde kadınlarla buluştu!</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Özgür Çelik, YENİ Parti Ataşehir İlçe Başkanlığının açılışını gerçekleştiriyor</title>
       <link>https://www.youtube.com/watch?v=OtsmrNK0d5E</link>
@@ -29,11 +36,11 @@
       <description>Halk TV kanalından yeni video: Ardahan'dan YENİ Parti Lideri Özgür Özel'e sevgi seli! O anlar kamerada! #shorts</description>
     </item>
     <item>
-      <title>Halk TV: Okul kantin fiyatlarına bu yıl yapılan sınırlı artışın nedenini oda başkanı açıkladı!</title>
+      <title>Halk TV: Okul kantin fiyatlarına yapılan sınırlı artışın nedenini oda başkanı Halk TV YouTube'a açıkladı!</title>
       <link>https://www.youtube.com/watch?v=fn6rZ4MCPCQ</link>
       <guid isPermaLink="false">fn6rZ4MCPCQ</guid>
       <pubDate>Thu, 10 Sep 2026 16:00:26 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Okul kantin fiyatlarına bu yıl yapılan sınırlı artışın nedenini oda başkanı açıkladı!</description>
+      <description>Halk TV kanalından yeni video: Okul kantin fiyatlarına yapılan sınırlı artışın nedenini oda başkanı Halk TV YouTube'a açıkladı!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Özgür Özel Sessizliğini Bozdu! Kılıçdaroğlu'na Olay Gönderme! CHP'de İhraç Krizi</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">hiPG47Wqq8w</guid>
       <pubDate>Thu, 10 Sep 2026 13:19:27 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI Özgür Özel'e Ardahan'da yoğun ilgi... Esnaf ziyaretinde adım atamadı...</description>
-    </item>
-    <item>
-      <title>Halk TV: İrem Sansak ile Haber Masası (10 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=zy84ygPYX9M</link>
-      <guid isPermaLink="false">zy84ygPYX9M</guid>
-      <pubDate>Thu, 10 Sep 2026 13:17:13 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İrem Sansak ile Haber Masası (10 Eylül 2026)</description>
     </item>
   </channel>
 </rss>
