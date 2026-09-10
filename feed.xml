@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 00:50:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 00:55:28 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: CHP'den “Geçmişin Değerlendirilmesi ve Gelecek Vizyonunun Tespiti’ toplantısı #Canlı</title>
+      <link>https://www.youtube.com/watch?v=CaC60hH5Wx4</link>
+      <guid isPermaLink="false">CaC60hH5Wx4</guid>
+      <pubDate>Thu, 10 Sep 2026 00:53:27 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: CHP'den “Geçmişin Değerlendirilmesi ve Gelecek Vizyonunun Tespiti’ toplantısı #Canlı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Devletin Zirvesinde Casus Yazılım! Bakanların Telefonları Dinleniyor! Büyük Güvenlik Açığı</title>
       <link>https://www.youtube.com/watch?v=h_KRyQy9k30</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">xB2FVEeI9Sk</guid>
       <pubDate>Wed, 09 Sep 2026 18:22:47 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: İzmir'in düşman işgalinden kurtuluşunun 104. yıl dönümü kutlanıyor</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: 4 Şüpheli Ölüm! O Dosyalar Raftan İndi! Gündem Olacak Enver Altaylı Gerçekleri! Özlem Gürses Anlattı</title>
-      <link>https://www.youtube.com/watch?v=4L3QWhoBrRQ</link>
-      <guid isPermaLink="false">4L3QWhoBrRQ</guid>
-      <pubDate>Wed, 09 Sep 2026 18:20:29 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: 4 Şüpheli Ölüm! O Dosyalar Raftan İndi! Gündem Olacak Enver Altaylı Gerçekleri! Özlem Gürses Anlattı</description>
     </item>
   </channel>
 </rss>
