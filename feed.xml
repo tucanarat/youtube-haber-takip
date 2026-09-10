@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 08:45:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 08:50:35 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: CEZAEVİNDE İŞKENCE İDDİALARI | SIRADA İBB Mİ VAR? |Onur Öncü ile Sabah Pusulası</title>
       <link>https://www.youtube.com/watch?v=hRpt-3_J43k</link>
       <guid isPermaLink="false">hRpt-3_J43k</guid>
       <pubDate>Thu, 10 Sep 2026 08:43:58 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: CEZAEVİNDE İŞKENCE İDDİALARI | SIRADA İBB Mİ VAR? |Onur Öncü ile Sabah Pusulası</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | İBB Başkan Vekili Nuri Aslan Açıklama Yapıyor!</title>
+      <link>https://www.youtube.com/watch?v=oi4Zn4y9DGo</link>
+      <guid isPermaLink="false">oi4Zn4y9DGo</guid>
+      <pubDate>Thu, 10 Sep 2026 08:41:42 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | İBB Başkan Vekili Nuri Aslan Açıklama Yapıyor!</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: DİSK Genel Başkanı Arzu Çerkezoğlu, Çalışma ve Sosyal Güvenlik Bakanlığı önünde açıklama yapıyor</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">rnGvZdfRK4E</guid>
       <pubDate>Thu, 10 Sep 2026 01:27:59 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI | MUSTAFA BALBAY CHP HAKKINDA NEYİ KASTETTİ? | Zeynel Lüle ve Faruk Bildirici ile Medyamorfoz</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: CHP'den “Geçmişin Değerlendirilmesi ve Gelecek Vizyonunun Tespiti’ toplantısı #Canlı</title>
-      <link>https://www.youtube.com/watch?v=CaC60hH5Wx4</link>
-      <guid isPermaLink="false">CaC60hH5Wx4</guid>
-      <pubDate>Thu, 10 Sep 2026 00:53:27 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP'den “Geçmişin Değerlendirilmesi ve Gelecek Vizyonunun Tespiti’ toplantısı #Canlı</description>
     </item>
   </channel>
 </rss>
