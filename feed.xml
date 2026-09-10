@@ -6,13 +6,34 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 14:15:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 14:20:35 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: 'Vanlı Kara Haydar' tutuklandı; Çağla Öz dün gece gözaltına alındı! Hesaplar mercek altında...</title>
+      <link>https://www.youtube.com/watch?v=p3NaW8c5KdU</link>
+      <guid isPermaLink="false">p3NaW8c5KdU</guid>
+      <pubDate>Thu, 10 Sep 2026 14:15:35 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: 'Vanlı Kara Haydar' tutuklandı; Çağla Öz dün gece gözaltına alındı! Hesaplar mercek altında...</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Ümit Özdağ’dan Mansur Yavaş Yorumu! "Erdoğan Neden Görüşmek İstedi?" #shorts</title>
+      <link>https://www.youtube.com/shorts/GiR4t85StGU</link>
+      <guid isPermaLink="false">GiR4t85StGU</guid>
+      <pubDate>Thu, 10 Sep 2026 14:15:02 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Ümit Özdağ’dan Mansur Yavaş Yorumu! "Erdoğan Neden Görüşmek İstedi?" #shorts</description>
+    </item>
     <item>
       <title>Halk TV: YENİ Parti Genel Başkanı Özgür Özel, Kongre Caddesi'nde Esnafı Ziyaret Etti (10 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=fleFsCyx6PI</link>
       <guid isPermaLink="false">fleFsCyx6PI</guid>
       <pubDate>Thu, 10 Sep 2026 14:10:20 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Kongre Caddesi'nde Esnafı Ziyaret Etti (10 Eylül 2026)</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Serap Belovacıklı ile Haber Saati | 10 Eylül</title>
+      <link>https://www.youtube.com/watch?v=nwCcwYhUv9k</link>
+      <guid isPermaLink="false">nwCcwYhUv9k</guid>
+      <pubDate>Thu, 10 Sep 2026 14:04:27 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Serap Belovacıklı ile Haber Saati | 10 Eylül</description>
     </item>
     <item>
       <title>Halk TV: Ardahan’da bir yurttaş Özgür Özel'e dert yandı: Başkanım, bu yukarıdakiler bizi görmüyor mu?</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">9RPENX2WRMw</guid>
       <pubDate>Thu, 10 Sep 2026 12:00:15 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Erdoğan'ın Gizli Mansur Yavaş Planı! Beştepe'deki Görüşmenin Perde Arkası Ankara'yı Sallar</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti Genel Başkanı Özgür Özel, Çamlıçatak Köyünde Kadınlarla Bir Araya Geldi</title>
-      <link>https://www.youtube.com/watch?v=NSbqF1kKiME</link>
-      <guid isPermaLink="false">NSbqF1kKiME</guid>
-      <pubDate>Thu, 10 Sep 2026 11:59:47 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Çamlıçatak Köyünde Kadınlarla Bir Araya Geldi</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI rtmp://abone.canliyayin.ankahaber.net/feed2_2/live</title>
-      <link>https://www.youtube.com/watch?v=5gCJQKfVAf8</link>
-      <guid isPermaLink="false">5gCJQKfVAf8</guid>
-      <pubDate>Thu, 10 Sep 2026 11:59:19 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI rtmp://abone.canliyayin.ankahaber.net/feed2_2/live</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: 🔴 ÖZGÜR ÖZEL'E ARDAHAN'DA OKUNMUŞ SU SÜRPRİZİ</title>
-      <link>https://www.youtube.com/shorts/XBNGl7mW2oI</link>
-      <guid isPermaLink="false">XBNGl7mW2oI</guid>
-      <pubDate>Thu, 10 Sep 2026 11:58:58 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: 🔴 ÖZGÜR ÖZEL'E ARDAHAN'DA OKUNMUŞ SU SÜRPRİZİ</description>
     </item>
   </channel>
 </rss>
