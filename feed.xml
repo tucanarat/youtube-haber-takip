@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 12:55:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 13:00:58 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Gizem Çetin ile Parantez</title>
+      <link>https://www.youtube.com/watch?v=yQ1CnLQTgOk</link>
+      <guid isPermaLink="false">yQ1CnLQTgOk</guid>
+      <pubDate>Thu, 10 Sep 2026 12:56:14 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Gizem Çetin ile Parantez</description>
+    </item>
+    <item>
+      <title>Halk TV: Konya'da emekli, Mahmut Tanal'a dert yandı! "Bu düzen de böyle gitmez!"</title>
+      <link>https://www.youtube.com/shorts/6VxjSR1Uhio</link>
+      <guid isPermaLink="false">6VxjSR1Uhio</guid>
+      <pubDate>Thu, 10 Sep 2026 12:51:18 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Konya'da emekli, Mahmut Tanal'a dert yandı! "Bu düzen de böyle gitmez!"</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Özgür Özel, Ardahan Çamlıçatak'ta yaşlı bir kadının "okuduğu" suyu içti #shorts</title>
       <link>https://www.youtube.com/shorts/dmlBwjsoN60</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">lL8o4Y8Osr8</guid>
       <pubDate>Thu, 10 Sep 2026 11:03:30 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Gümüşlük’ten...-Zeynep Oral</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Bay Kemal, yine gündemini yarattı!-Bedri Baykam</title>
-      <link>https://www.youtube.com/watch?v=RPml_z1pNS0</link>
-      <guid isPermaLink="false">RPml_z1pNS0</guid>
-      <pubDate>Thu, 10 Sep 2026 11:03:28 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Bay Kemal, yine gündemini yarattı!-Bedri Baykam</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Almanya 1926-2026!-Mustafa Balbay</title>
-      <link>https://www.youtube.com/watch?v=Yo6H-tg_H00</link>
-      <guid isPermaLink="false">Yo6H-tg_H00</guid>
-      <pubDate>Thu, 10 Sep 2026 11:03:03 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Almanya 1926-2026!-Mustafa Balbay</description>
     </item>
   </channel>
 </rss>
