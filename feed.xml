@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 17:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 18:01:03 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Senem Toluay Ilgaz ile Öncesi Sonrası Gece | Barış Terkoğlu &amp; Timur Soykan |  10 Eylül</title>
+      <link>https://www.youtube.com/watch?v=RLf_aR794Lw</link>
+      <guid isPermaLink="false">RLf_aR794Lw</guid>
+      <pubDate>Thu, 10 Sep 2026 17:56:10 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Senem Toluay Ilgaz ile Öncesi Sonrası Gece | Barış Terkoğlu &amp; Timur Soykan |  10 Eylül</description>
+    </item>
     <item>
       <title>Halk TV: Ardahan’da Özgür Özel’e yoğun ilgi! Kadınlarla buluşmasında dikkat çeken sözler</title>
       <link>https://www.youtube.com/watch?v=bFDVWVm04dk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">OBzVYNQ64lg</guid>
       <pubDate>Thu, 10 Sep 2026 14:24:23 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Kongre Caddesi'nde esnafı ziyaret ediyor / Ardahan #Canlı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Mansur Yavaş - Erdoğan Görüşmesindeki Bilinmeyenler! İktidarın Gizli Ajandası Ortaya Çıktı</title>
-      <link>https://www.youtube.com/watch?v=LRcywMGT86w</link>
-      <guid isPermaLink="false">LRcywMGT86w</guid>
-      <pubDate>Thu, 10 Sep 2026 14:20:13 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Mansur Yavaş - Erdoğan Görüşmesindeki Bilinmeyenler! İktidarın Gizli Ajandası Ortaya Çıktı</description>
     </item>
   </channel>
 </rss>
