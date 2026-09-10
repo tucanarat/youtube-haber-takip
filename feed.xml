@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 14:55:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 15:00:56 +0000</lastBuildDate>
     <item>
-      <title>SÖZCÜ TV: #CANLI Damla Doğan Tuncel ile 1 Saat</title>
+      <title>Halk TV: #CANLI | Ece Üner ile Halk Ana Haber | #faturası</title>
+      <link>https://www.youtube.com/watch?v=Z-mrkgOFgDs</link>
+      <guid isPermaLink="false">Z-mrkgOFgDs</guid>
+      <pubDate>Thu, 10 Sep 2026 14:58:35 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Ece Üner ile Halk Ana Haber | #faturası</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Damla Doğan Tuncel ile 1 Saat | 10 Eylül</title>
       <link>https://www.youtube.com/watch?v=Nf0PLKPH7M4</link>
       <guid isPermaLink="false">Nf0PLKPH7M4</guid>
       <pubDate>Thu, 10 Sep 2026 14:54:50 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: #CANLI Damla Doğan Tuncel ile 1 Saat</description>
+      <description>SÖZCÜ TV kanalından yeni video: Damla Doğan Tuncel ile 1 Saat | 10 Eylül</description>
     </item>
     <item>
       <title>Halk TV: FETÖ firarisi S.D., gizli bölmede yakalandı! 7 yıl 6 ay hapis cezasıyla aranıyordu!</title>
@@ -260,11 +267,11 @@
       <description>Halk TV kanalından yeni video: OĞUZ DEMİR BOMBAYI PATLATTI! Asgari ücrete yapılacak zammı açıkladı! Kulisler bununla çalkalanacak!</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | Gizem Çetin ile Parantez</title>
+      <title>Halk TV: Gizem Çetin ile Parantez (10 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=yQ1CnLQTgOk</link>
       <guid isPermaLink="false">yQ1CnLQTgOk</guid>
       <pubDate>Thu, 10 Sep 2026 12:56:14 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Gizem Çetin ile Parantez</description>
+      <description>Halk TV kanalından yeni video: Gizem Çetin ile Parantez (10 Eylül 2026)</description>
     </item>
     <item>
       <title>Halk TV: Konya'da emekli, Mahmut Tanal'a dert yandı! "Bu düzen de böyle gitmez!"</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">S99nY2bGSQg</guid>
       <pubDate>Thu, 10 Sep 2026 12:17:35 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: İmamoğlu’na şimdi de çay yasağı! I Ankara’da siyaset alev alev! | Ülkü Çoban ile Manşet Ötesi</description>
-    </item>
-    <item>
-      <title>Halk TV: "Biz diyoruz göreve gelirseniz eğer, önde adamı olanları değil, arkada kalanları kayırın"</title>
-      <link>https://www.youtube.com/shorts/1vh2-OEQPPE</link>
-      <guid isPermaLink="false">1vh2-OEQPPE</guid>
-      <pubDate>Thu, 10 Sep 2026 12:16:09 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: "Biz diyoruz göreve gelirseniz eğer, önde adamı olanları değil, arkada kalanları kayırın"</description>
     </item>
   </channel>
 </rss>
