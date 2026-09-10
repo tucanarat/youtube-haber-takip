@@ -6,7 +6,35 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 21:55:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 22:00:51 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Kemal Kılıçdaroğlu'ndan '6 OKUN AĞIRLIĞI' paylaşımı! Yaşananları Engin Solakoğlu yorumladı...</title>
+      <link>https://www.youtube.com/watch?v=5m-8t-NivxQ</link>
+      <guid isPermaLink="false">5m-8t-NivxQ</guid>
+      <pubDate>Thu, 10 Sep 2026 22:00:09 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Kemal Kılıçdaroğlu'ndan '6 OKUN AĞIRLIĞI' paylaşımı! Yaşananları Engin Solakoğlu yorumladı...</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Can Coşkun ile Gündem Masası</title>
+      <link>https://www.youtube.com/watch?v=qHsac-J_qQk</link>
+      <guid isPermaLink="false">qHsac-J_qQk</guid>
+      <pubDate>Thu, 10 Sep 2026 21:59:05 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Can Coşkun ile Gündem Masası</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İsmail Küçükkaya ile Günaydın Türkiyem</title>
+      <link>https://www.youtube.com/watch?v=n80WvZmPP48</link>
+      <guid isPermaLink="false">n80WvZmPP48</guid>
+      <pubDate>Thu, 10 Sep 2026 21:58:35 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya ile Günaydın Türkiyem</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Merve Ekinci ile Uyanma Vakti</title>
+      <link>https://www.youtube.com/watch?v=_gO9Zosh6RM</link>
+      <guid isPermaLink="false">_gO9Zosh6RM</guid>
+      <pubDate>Thu, 10 Sep 2026 21:58:05 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Merve Ekinci ile Uyanma Vakti</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Mansur Yavaş Erdoğan Zirvesinin Şifreleri! "Denge Siyaseti" Hamlesi! CHP Teyakkuzda</title>
       <link>https://www.youtube.com/watch?v=il8polIYeiA</link>
@@ -328,34 +356,6 @@
       <guid isPermaLink="false">xSwXdI9beE4</guid>
       <pubDate>Thu, 10 Sep 2026 18:00:34 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: KAYYUM ATANAN TELE 1 EKRANLARINDA YAYIN YOK! Murat Taylan yaşananları değerlendirdi...</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Mansur Yavaş Beştepe'de Melih Gökçek Adliyede! Erdoğan'ın Yeni Seçim Planı! Barış Terkoğlu Anlattı</title>
-      <link>https://www.youtube.com/watch?v=B2NCshn5JTA</link>
-      <guid isPermaLink="false">B2NCshn5JTA</guid>
-      <pubDate>Thu, 10 Sep 2026 18:00:31 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Mansur Yavaş Beştepe'de Melih Gökçek Adliyede! Erdoğan'ın Yeni Seçim Planı! Barış Terkoğlu Anlattı</description>
-    </item>
-    <item>
-      <title>Halk TV: Ümit Özdağ’dan iktidara zehir zemberek sözler! “Millete sorulmadı ama milli birlik süreci deniyor!”</title>
-      <link>https://www.youtube.com/watch?v=CxHCyb83YQM</link>
-      <guid isPermaLink="false">CxHCyb83YQM</guid>
-      <pubDate>Thu, 10 Sep 2026 18:00:31 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ümit Özdağ’dan iktidara zehir zemberek sözler! “Millete sorulmadı ama milli birlik süreci deniyor!”</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel Ardahan’da! Ardahanlılardan Özgür Özel’e coşkulu karşılama! #shorts</title>
-      <link>https://www.youtube.com/shorts/7UiUkMub89I</link>
-      <guid isPermaLink="false">7UiUkMub89I</guid>
-      <pubDate>Thu, 10 Sep 2026 18:00:29 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel Ardahan’da! Ardahanlılardan Özgür Özel’e coşkulu karşılama! #shorts</description>
-    </item>
-    <item>
-      <title>Halk TV: AKP SEÇİMSİZ BELEDİYE ALMAYA DEVAM EDİYOR! Muhalefetin kalesi İzmir'de ilk fire verildi!</title>
-      <link>https://www.youtube.com/watch?v=Bfun9DjLCa0</link>
-      <guid isPermaLink="false">Bfun9DjLCa0</guid>
-      <pubDate>Thu, 10 Sep 2026 18:00:09 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: AKP SEÇİMSİZ BELEDİYE ALMAYA DEVAM EDİYOR! Muhalefetin kalesi İzmir'de ilk fire verildi!</description>
     </item>
   </channel>
 </rss>
