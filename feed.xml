@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 08:50:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 08:55:29 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Arzu Çerkezoğlu, Çalışma ve Sosyal Güvenlik Bakanlığı önünde açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=2E9DTt8_3yk</link>
+      <guid isPermaLink="false">2E9DTt8_3yk</guid>
+      <pubDate>Thu, 10 Sep 2026 08:49:49 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Arzu Çerkezoğlu, Çalışma ve Sosyal Güvenlik Bakanlığı önünde açıklama yapıyor #Canlı</description>
+    </item>
     <item>
       <title>Tele2 Haber: CEZAEVİNDE İŞKENCE İDDİALARI | SIRADA İBB Mİ VAR? |Onur Öncü ile Sabah Pusulası</title>
       <link>https://www.youtube.com/watch?v=hRpt-3_J43k</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">kRPTqYprLno</guid>
       <pubDate>Thu, 10 Sep 2026 04:01:55 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Süheyla Demir ile Günaydın Türkiye (10 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI | MUSTAFA BALBAY CHP HAKKINDA NEYİ KASTETTİ? | Zeynel Lüle ve Faruk Bildirici ile Medyamorfoz</title>
-      <link>https://www.youtube.com/watch?v=rnGvZdfRK4E</link>
-      <guid isPermaLink="false">rnGvZdfRK4E</guid>
-      <pubDate>Thu, 10 Sep 2026 01:27:59 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI | MUSTAFA BALBAY CHP HAKKINDA NEYİ KASTETTİ? | Zeynel Lüle ve Faruk Bildirici ile Medyamorfoz</description>
     </item>
   </channel>
 </rss>
