@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 21:35:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 21:40:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SON DAKİKA! Uyuşturucu baronu İslam Yakut İstanbul'da yakalandı!</title>
+      <link>https://www.youtube.com/watch?v=BBXjCjp4R3s</link>
+      <guid isPermaLink="false">BBXjCjp4R3s</guid>
+      <pubDate>Thu, 10 Sep 2026 21:31:13 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! Uyuşturucu baronu İslam Yakut İstanbul'da yakalandı!</description>
+    </item>
     <item>
       <title>Tele2 Haber: "SİLİVRİ'DE ÇAY YASAĞI DA GELDİ!" Engin Solmaztürk'ten çok kritik yargılama süreci yorumu...</title>
       <link>https://www.youtube.com/watch?v=IuIqvF0xoVY</link>
@@ -20,6 +27,20 @@
       <guid isPermaLink="false">2E9DTt8_3yk</guid>
       <pubDate>Thu, 10 Sep 2026 21:25:41 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Arzu Çerkezoğlu, Çalışma ve Sosyal Güvenlik Bakanlığı önünde açıklama yapıyor #Canlı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: 15 Yıllık Sır Çözülüyor! FETÖ Kumpası ve Bekletilen Ambulans! Kaşif Kozinoğlu Dosyası Yeniden Açıldı</title>
+      <link>https://www.youtube.com/watch?v=8o6XQ5FrFW4</link>
+      <guid isPermaLink="false">8o6XQ5FrFW4</guid>
+      <pubDate>Thu, 10 Sep 2026 21:20:36 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: 15 Yıllık Sır Çözülüyor! FETÖ Kumpası ve Bekletilen Ambulans! Kaşif Kozinoğlu Dosyası Yeniden Açıldı</description>
+    </item>
+    <item>
+      <title>Halk TV: AÇTI AĞZINI YUMDU GÖZÜNÜ! Gizem Özmen'in bu sözleri AKP'yi sallar! "Sandıkla değişeceksiniz!"</title>
+      <link>https://www.youtube.com/watch?v=YIDWIX92P4U</link>
+      <guid isPermaLink="false">YIDWIX92P4U</guid>
+      <pubDate>Thu, 10 Sep 2026 21:20:21 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: AÇTI AĞZINI YUMDU GÖZÜNÜ! Gizem Özmen'in bu sözleri AKP'yi sallar! "Sandıkla değişeceksiniz!"</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Nuri Aslan, İSKİ Kağıthane-Bahçelievler-Sefaköy İçme Suyu Tüneli açılış töreninde konuşuyor #Canlı</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">RLf_aR794Lw</guid>
       <pubDate>Thu, 10 Sep 2026 17:56:10 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Senem Toluay Ilgaz ile Öncesi Sonrası Gece | Barış Terkoğlu &amp; Timur Soykan |  10 Eylül</description>
-    </item>
-    <item>
-      <title>Halk TV: Ardahan’da Özgür Özel’e yoğun ilgi! Kadınlarla buluşmasında dikkat çeken sözler</title>
-      <link>https://www.youtube.com/watch?v=bFDVWVm04dk</link>
-      <guid isPermaLink="false">bFDVWVm04dk</guid>
-      <pubDate>Thu, 10 Sep 2026 17:45:10 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ardahan’da Özgür Özel’e yoğun ilgi! Kadınlarla buluşmasında dikkat çeken sözler</description>
-    </item>
-    <item>
-      <title>Halk TV: Sarıyer’de oyuncu Melisa Döngel’i trafikte silahla tehdit eden sürücü tutuklandı! #shorts</title>
-      <link>https://www.youtube.com/shorts/10O88mlhDSk</link>
-      <guid isPermaLink="false">10O88mlhDSk</guid>
-      <pubDate>Thu, 10 Sep 2026 17:44:01 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Sarıyer’de oyuncu Melisa Döngel’i trafikte silahla tehdit eden sürücü tutuklandı! #shorts</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: 'Denge Olamaz' Timur Soykan Beştepe'deki Zirveyi Anlattı! Olay Mansur Yavaş ve Erdoğan Sözleri</title>
-      <link>https://www.youtube.com/watch?v=1QmqCSOIDpQ</link>
-      <guid isPermaLink="false">1QmqCSOIDpQ</guid>
-      <pubDate>Thu, 10 Sep 2026 17:40:20 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: 'Denge Olamaz' Timur Soykan Beştepe'deki Zirveyi Anlattı! Olay Mansur Yavaş ve Erdoğan Sözleri</description>
     </item>
   </channel>
 </rss>
