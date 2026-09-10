@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 14:20:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 14:25:30 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: #CANLI İBB Davasında 79. gün! “Ben söylemedim savcı yazdı”</title>
+      <link>https://www.youtube.com/watch?v=S-2tN0dmQO4</link>
+      <guid isPermaLink="false">S-2tN0dmQO4</guid>
+      <pubDate>Thu, 10 Sep 2026 14:16:02 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI İBB Davasında 79. gün! “Ben söylemedim savcı yazdı”</description>
+    </item>
     <item>
       <title>Halk TV: 'Vanlı Kara Haydar' tutuklandı; Çağla Öz dün gece gözaltına alındı! Hesaplar mercek altında...</title>
       <link>https://www.youtube.com/watch?v=p3NaW8c5KdU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">iqDsRg_dhRU</guid>
       <pubDate>Thu, 10 Sep 2026 12:00:18 +0000</pubDate>
       <description>Halk TV kanalından yeni video: MANSUR YAVAŞ AKP'YE Mİ GEÇİYOR? Sertaç Eş'ten Ankara kulislerini sallayan iddia için çarpıcı sözler!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Erdoğan'ın Gizli Mansur Yavaş Planı! Beştepe'deki Görüşmenin Perde Arkası Ankara'yı Sallar</title>
-      <link>https://www.youtube.com/watch?v=9RPENX2WRMw</link>
-      <guid isPermaLink="false">9RPENX2WRMw</guid>
-      <pubDate>Thu, 10 Sep 2026 12:00:15 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Erdoğan'ın Gizli Mansur Yavaş Planı! Beştepe'deki Görüşmenin Perde Arkası Ankara'yı Sallar</description>
     </item>
   </channel>
 </rss>
