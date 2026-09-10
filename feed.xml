@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 01:25:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 01:30:42 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI | MUSTAFA BALBAY CHP HAKKINDA NEYİ KASTETTİ? | Zeynel Lüle ve Faruk Bildirici ile Medyamorfoz</title>
+      <link>https://www.youtube.com/watch?v=rnGvZdfRK4E</link>
+      <guid isPermaLink="false">rnGvZdfRK4E</guid>
+      <pubDate>Thu, 10 Sep 2026 01:27:59 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI | MUSTAFA BALBAY CHP HAKKINDA NEYİ KASTETTİ? | Zeynel Lüle ve Faruk Bildirici ile Medyamorfoz</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: CHP'den “Geçmişin Değerlendirilmesi ve Gelecek Vizyonunun Tespiti’ toplantısı #Canlı</title>
       <link>https://www.youtube.com/watch?v=CaC60hH5Wx4</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">G1-ZX7PSRdE</guid>
       <pubDate>Wed, 09 Sep 2026 18:30:34 +0000</pubDate>
       <description>Halk TV kanalından yeni video: O SÖZLERİ DUYGULANDIRDI! Selçuk Mızraklı'nın tahliye sonrası ilk durağı o ismin mezarı oldu!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: İzmir'in düşman işgalinden kurtuluşunun 104. yıl dönümü kutlanıyor</title>
-      <link>https://www.youtube.com/watch?v=xB2FVEeI9Sk</link>
-      <guid isPermaLink="false">xB2FVEeI9Sk</guid>
-      <pubDate>Wed, 09 Sep 2026 18:22:47 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: İzmir'in düşman işgalinden kurtuluşunun 104. yıl dönümü kutlanıyor</description>
     </item>
   </channel>
 </rss>
