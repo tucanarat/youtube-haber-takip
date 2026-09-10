@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 09:30:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 09:35:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SON DAKİKA! İBB DAVASINDA GERGİNLİK! Suat Özçağdaş'a hakimden engel! Mahkeme salonu boşaltılıyor!</title>
+      <link>https://www.youtube.com/watch?v=sizGfXhkCxk</link>
+      <guid isPermaLink="false">sizGfXhkCxk</guid>
+      <pubDate>Thu, 10 Sep 2026 09:30:38 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! İBB DAVASINDA GERGİNLİK! Suat Özçağdaş'a hakimden engel! Mahkeme salonu boşaltılıyor!</description>
+    </item>
     <item>
       <title>Halk TV: İBB davasında duruşma salonuna alınmayan Suat Özçağdaş'tan açıklama!</title>
       <link>https://www.youtube.com/shorts/f7pVijhYh1c</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">VRqUV71O9Gg</guid>
       <pubDate>Thu, 10 Sep 2026 05:56:40 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Ezgi Apartmanı'nda yakınlarını kaybedenler Kahramanmaraş Adliyesi önünde açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Barış Terkoğlu Bombayı Patlattı! Erdoğan'ın Yavaş Planı! FETÖ'nün MİT Kumpası ve Kozinoğlu Cinayet</title>
-      <link>https://www.youtube.com/watch?v=ApAJZ8lAkv4</link>
-      <guid isPermaLink="false">ApAJZ8lAkv4</guid>
-      <pubDate>Thu, 10 Sep 2026 05:49:57 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Barış Terkoğlu Bombayı Patlattı! Erdoğan'ın Yavaş Planı! FETÖ'nün MİT Kumpası ve Kozinoğlu Cinayet</description>
     </item>
   </channel>
 </rss>
