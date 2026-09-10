@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 21:10:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 21:16:10 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: Nuri Aslan, İSKİ Kağıthane-Bahçelievler-Sefaköy İçme Suyu Tüneli açılış töreninde konuşuyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=qDlSBDN3XuY</link>
@@ -34,6 +34,13 @@
       <guid isPermaLink="false">O1oxg5zX5_U</guid>
       <pubDate>Thu, 10 Sep 2026 21:00:05 +0000</pubDate>
       <description>Halk TV kanalından yeni video: HÜRMÜZ BOĞAZI'NDA BİTMEYEN BEKLEYİŞ! İran - ABD çatışmaları sebebiyle ticari gemiler boğazda kaldı!</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: Zafer Partisi Genel Başkanı Ümit Özdağ basın toplantısı düzenliyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=nztBQ76fkdI</link>
+      <guid isPermaLink="false">nztBQ76fkdI</guid>
+      <pubDate>Thu, 10 Sep 2026 20:58:57 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Zafer Partisi Genel Başkanı Ümit Özdağ basın toplantısı düzenliyor #Canlı</description>
     </item>
     <item>
       <title>Halk TV: YENİ Partili Umut Akdoğan açıkladı: 230 bin liralık telefonun 120 bini vergi! #shorts</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">zgpLby6Ehm8</guid>
       <pubDate>Thu, 10 Sep 2026 17:30:13 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Özgür Özel, emekli imama 'SERT MUHALEFET' için "KUTUPLAŞMA' yanıtı verdi! Murat Taylan yorumladı...</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Barış Terkoğlu Mansur Yavaş'ın Gizli Adaylık Planını Deşifre Etti! İmamoğlu Çıkışı!</title>
-      <link>https://www.youtube.com/watch?v=L-pU6i5NcY8</link>
-      <guid isPermaLink="false">L-pU6i5NcY8</guid>
-      <pubDate>Thu, 10 Sep 2026 17:19:41 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Barış Terkoğlu Mansur Yavaş'ın Gizli Adaylık Planını Deşifre Etti! İmamoğlu Çıkışı!</description>
     </item>
   </channel>
 </rss>
