@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 09:25:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 09:30:45 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: İBB davasında duruşma salonuna alınmayan Suat Özçağdaş'tan açıklama!</title>
+      <link>https://www.youtube.com/shorts/f7pVijhYh1c</link>
+      <guid isPermaLink="false">f7pVijhYh1c</guid>
+      <pubDate>Thu, 10 Sep 2026 09:21:03 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İBB davasında duruşma salonuna alınmayan Suat Özçağdaş'tan açıklama!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Daron Acemoğlu Acı Reçeteyi Sundu! Ekonomik Krizin Aşılması Türkiye'de Çok Zor!" #shorts</title>
+      <link>https://www.youtube.com/shorts/NQSKE-kYcuk</link>
+      <guid isPermaLink="false">NQSKE-kYcuk</guid>
+      <pubDate>Thu, 10 Sep 2026 09:15:23 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Daron Acemoğlu Acı Reçeteyi Sundu! Ekonomik Krizin Aşılması Türkiye'de Çok Zor!" #shorts</description>
+    </item>
     <item>
       <title>Halk TV: İBB Başkan Vekili Nuri Aslan Açıklamalarda Bulundu (10 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=oi4Zn4y9DGo</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">ApAJZ8lAkv4</guid>
       <pubDate>Thu, 10 Sep 2026 05:49:57 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Barış Terkoğlu Bombayı Patlattı! Erdoğan'ın Yavaş Planı! FETÖ'nün MİT Kumpası ve Kozinoğlu Cinayet</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Murat Ağırel'den Tarihi Uyarı! Ankara'yı Sallayan Mansur Yavaş Kulisi! Beştepe'nin Planı İfşa Oldu</title>
-      <link>https://www.youtube.com/watch?v=-GsP6A6-Fek</link>
-      <guid isPermaLink="false">-GsP6A6-Fek</guid>
-      <pubDate>Thu, 10 Sep 2026 05:47:37 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Murat Ağırel'den Tarihi Uyarı! Ankara'yı Sallayan Mansur Yavaş Kulisi! Beştepe'nin Planı İfşa Oldu</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İsmail Küçükkaya ile Günaydın Türkiyem | 10 Eylül | İlk Bölüm</title>
-      <link>https://www.youtube.com/watch?v=v_97sML7lFc</link>
-      <guid isPermaLink="false">v_97sML7lFc</guid>
-      <pubDate>Thu, 10 Sep 2026 05:31:59 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya ile Günaydın Türkiyem | 10 Eylül | İlk Bölüm</description>
     </item>
   </channel>
 </rss>
