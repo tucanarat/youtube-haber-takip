@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 16:10:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 16:15:33 +0000</lastBuildDate>
     <item>
       <title>Halk TV: #CANLI | Özgür Çelik, YENİ Parti Ataşehir İlçe Başkanlığının açılışını gerçekleştiriyor</title>
       <link>https://www.youtube.com/watch?v=OtsmrNK0d5E</link>
@@ -34,6 +34,13 @@
       <guid isPermaLink="false">fn6rZ4MCPCQ</guid>
       <pubDate>Thu, 10 Sep 2026 16:00:26 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Okul kantin fiyatlarına bu yıl yapılan sınırlı artışın nedenini oda başkanı açıkladı!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Özgür Özel Sessizliğini Bozdu! Kılıçdaroğlu'na Olay Gönderme! CHP'de İhraç Krizi</title>
+      <link>https://www.youtube.com/watch?v=BfU4n7aG9oA</link>
+      <guid isPermaLink="false">BfU4n7aG9oA</guid>
+      <pubDate>Thu, 10 Sep 2026 16:00:07 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Özgür Özel Sessizliğini Bozdu! Kılıçdaroğlu'na Olay Gönderme! CHP'de İhraç Krizi</description>
     </item>
     <item>
       <title>Halk TV: Yeni Parti’den Ardahan’da dikkat çeken mesaj! “Arkada kalanlar öne gelecek!” #shorts</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">zy84ygPYX9M</guid>
       <pubDate>Thu, 10 Sep 2026 13:17:13 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İrem Sansak ile Haber Masası (10 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Kongre Caddesi'nde esnafı ziyaret ediyor</title>
-      <link>https://www.youtube.com/watch?v=ai_JKNUh0YU</link>
-      <guid isPermaLink="false">ai_JKNUh0YU</guid>
-      <pubDate>Thu, 10 Sep 2026 13:17:07 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Kongre Caddesi'nde esnafı ziyaret ediyor</description>
     </item>
   </channel>
 </rss>
