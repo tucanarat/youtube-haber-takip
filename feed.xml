@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 20:20:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 20:25:29 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: 'Kimseye Menfaat Makam Teklif Etmedik' Özgür Çelik'ten Sert Cevap! Çarpıcı Ahmet Başbaydar Sözleri</title>
+      <link>https://www.youtube.com/watch?v=mD8BkeHyp9s</link>
+      <guid isPermaLink="false">mD8BkeHyp9s</guid>
+      <pubDate>Thu, 10 Sep 2026 20:20:11 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: 'Kimseye Menfaat Makam Teklif Etmedik' Özgür Çelik'ten Sert Cevap! Çarpıcı Ahmet Başbaydar Sözleri</description>
+    </item>
     <item>
       <title>Halk TV: Fenerbahçe’de Roma maçı sonrası hareketlilik! Fenerbahçeli futbolcular stadyumdan ayrıldı!</title>
       <link>https://www.youtube.com/shorts/SQmQY4OBtqU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">8wum8SJU-ns</guid>
       <pubDate>Thu, 10 Sep 2026 16:20:26 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Trump Savaşın Biteceği Tarihi Açıkladı! Hürmüz İçin Kritik Süreç! Özlem Gürses'ten Olay Yorum</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: MANSUR YAVAŞ ERDOĞAN İLE GÖRÜŞTÜ! Murat Taylan 6 yıl sonra gelen görüşmeyi yorumladı...</title>
-      <link>https://www.youtube.com/watch?v=50E4NUwkLGA</link>
-      <guid isPermaLink="false">50E4NUwkLGA</guid>
-      <pubDate>Thu, 10 Sep 2026 16:15:36 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: MANSUR YAVAŞ ERDOĞAN İLE GÖRÜŞTÜ! Murat Taylan 6 yıl sonra gelen görüşmeyi yorumladı...</description>
     </item>
   </channel>
 </rss>
