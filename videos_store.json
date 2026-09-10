@@ -39369,7 +39369,7 @@
   },
   "l99o-_MMgkI": {
     "id": "l99o-_MMgkI",
-    "title": "Can Coşkun ile Gündem Masası",
+    "title": "#CANLI Can Coşkun ile Gündem Masası",
     "link": "https://www.youtube.com/watch?v=l99o-_MMgkI",
     "published": "2026-09-09T22:10:20+00:00",
     "published_ts": 1788991820,
@@ -39465,10 +39465,10 @@
   },
   "BzsNjN7D5xA": {
     "id": "BzsNjN7D5xA",
-    "title": "#CANLI İsmail Küçükkaya ile Günaydın Türkiyem",
+    "title": "İsmail Küçükkaya ile Günaydın Türkiyem | 10 Eylül",
     "link": "https://www.youtube.com/watch?v=BzsNjN7D5xA",
-    "published": "2026-09-10T05:29:27+00:00",
-    "published_ts": 1789018167,
+    "published": "2026-09-10T08:00:50+00:00",
+    "published_ts": 1789027250,
     "channel_name": "SÖZCÜ TV"
   },
   "7qsAgTkdl6Y": {
@@ -39683,8 +39683,8 @@
     "id": "RybK7TXm_rI",
     "title": "İsmail Saymaz Mansur Yavaş Kulisini Patlattı! Erdoğan Görüşmesinin Perde Arkası! Ankara Alev Alacak",
     "link": "https://www.youtube.com/watch?v=RybK7TXm_rI",
-    "published": "2026-09-10T05:41:34+00:00",
-    "published_ts": 1789018894,
+    "published": "2026-09-10T08:00:06+00:00",
+    "published_ts": 1789027206,
     "channel_name": "SÖZCÜ TV"
   },
   "qU9As2MEhuk": {
@@ -39734,5 +39734,29 @@
     "published": "2026-09-10T07:56:41+00:00",
     "published_ts": 1789027001,
     "channel_name": "ANKA Haber Ajansı"
+  },
+  "oZwkXWGzlHY": {
+    "id": "oZwkXWGzlHY",
+    "title": "Osmaniyeli yurttaşın isyanı gündem oldu! \"BURNUMA PAMUK TIKIYORUM ET KOKUSU ALMAMAK İÇİN\"",
+    "link": "https://www.youtube.com/shorts/oZwkXWGzlHY",
+    "published": "2026-09-10T07:59:27+00:00",
+    "published_ts": 1789027167,
+    "channel_name": "Cumhuriyet"
+  },
+  "Je63Z1E0374": {
+    "id": "Je63Z1E0374",
+    "title": "AYŞE TOKYAZ CİNAYETİNDE KARAR ÇIKTI! Kardeşinin sözleri yürekleri yaktı! Bu isyanı herkes dinlemeli!",
+    "link": "https://www.youtube.com/watch?v=Je63Z1E0374",
+    "published": "2026-09-10T08:00:16+00:00",
+    "published_ts": 1789027216,
+    "channel_name": "Halk TV"
+  },
+  "Nvwvi6NTLxE": {
+    "id": "Nvwvi6NTLxE",
+    "title": "Ayşe Tokyaz'ın kardeşinin sözleri yürekleri yaktı: \"Bunların kini geçmeyecek!\"",
+    "link": "https://www.youtube.com/shorts/Nvwvi6NTLxE",
+    "published": "2026-09-10T08:00:16+00:00",
+    "published_ts": 1789027216,
+    "channel_name": "Halk TV"
   }
 }
