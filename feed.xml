@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 17:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 17:19:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Mekke Savunma Anlaşması’nda ilk sınav! Pakistan’dan İran’a kritik uyarı!</title>
+      <link>https://www.youtube.com/watch?v=LbnBfM4tJho</link>
+      <guid isPermaLink="false">LbnBfM4tJho</guid>
+      <pubDate>Thu, 10 Sep 2026 17:15:22 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Mekke Savunma Anlaşması’nda ilk sınav! Pakistan’dan İran’a kritik uyarı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: "En Son Ben Gördüm" Kozinoğlu'nu Hücresinde Son Gören Doktor 15 Yıl Sonra İlk Kez Konuştu!</title>
       <link>https://www.youtube.com/watch?v=3wkmggtPQvw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">eswO-olGXYM</guid>
       <pubDate>Thu, 10 Sep 2026 14:00:33 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: "KİRALIK ALTIN" YALANI ÇÖKTÜ! Emrullah Erdinç, Vanlı Kara Haydar ve Çağla Öz Dosyasını Açtı</description>
-    </item>
-    <item>
-      <title>Halk TV: "SEN NİYE TEK GELDİN!" Selçuk Mızraklı'nın Demirtaş'ın annesini ziyaretine bu diyalog damga vurdu!</title>
-      <link>https://www.youtube.com/watch?v=T0onielcVjU</link>
-      <guid isPermaLink="false">T0onielcVjU</guid>
-      <pubDate>Thu, 10 Sep 2026 14:00:07 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: "SEN NİYE TEK GELDİN!" Selçuk Mızraklı'nın Demirtaş'ın annesini ziyaretine bu diyalog damga vurdu!</description>
     </item>
   </channel>
 </rss>
