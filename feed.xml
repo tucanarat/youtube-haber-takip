@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 16:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 17:00:53 +0000</lastBuildDate>
     <item>
-      <title>SÖZCÜ TV: Özlem Gürses ile Sözcü Ana Haber  | 10 Eylül</title>
-      <link>https://www.youtube.com/watch?v=Z2h59BVqOuE</link>
-      <guid isPermaLink="false">Z2h59BVqOuE</guid>
-      <pubDate>Thu, 10 Sep 2026 16:54:09 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses ile Sözcü Ana Haber  | 10 Eylül</description>
+      <title>Tele2 Haber: #CANLI Murat Taylan ile Haber-Yorum (10.09.2026)</title>
+      <link>https://www.youtube.com/watch?v=x7f32r10xTA</link>
+      <guid isPermaLink="false">x7f32r10xTA</guid>
+      <pubDate>Thu, 10 Sep 2026 16:59:06 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Murat Taylan ile Haber-Yorum (10.09.2026)</description>
+    </item>
+    <item>
+      <title>Halk TV: Ece Üner ile Halk Ana Haber | #faturası (10 Eylül 2026)</title>
+      <link>https://www.youtube.com/watch?v=Z-mrkgOFgDs</link>
+      <guid isPermaLink="false">Z-mrkgOFgDs</guid>
+      <pubDate>Thu, 10 Sep 2026 16:58:51 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Ece Üner ile Halk Ana Haber | #faturası (10 Eylül 2026)</description>
     </item>
     <item>
       <title>Tele2 Haber: Onur Alp Yılmaz'dan Türkiye'de yaşananlar ile ilgili kritik tespit! Murat Taylan yorumladı...</title>
@@ -209,13 +216,6 @@
       <guid isPermaLink="false">pKD8U_ulYRs</guid>
       <pubDate>Thu, 10 Sep 2026 15:00:04 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Yavaş Erdoğan Görüşmesinin Perde Arkası | İsmail Saymaz, Barış Terkoğlu, Murat Ağırel, Saygı Öztürk</description>
-    </item>
-    <item>
-      <title>Halk TV: Ece Üner ile Halk Ana Haber | #faturası (10 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=Z-mrkgOFgDs</link>
-      <guid isPermaLink="false">Z-mrkgOFgDs</guid>
-      <pubDate>Thu, 10 Sep 2026 14:58:35 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ece Üner ile Halk Ana Haber | #faturası (10 Eylül 2026)</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Damla Doğan Tuncel ile 1 Saat | 10 Eylül</title>
