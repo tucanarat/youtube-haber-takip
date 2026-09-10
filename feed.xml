@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 18:25:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 18:30:49 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Barış Terkoğlu Siyasetteki Transferleri Analiz Etti! CHP'deki Depremi Tek Tek Anlattı!</title>
+      <link>https://www.youtube.com/watch?v=1sLQBbjqhRA</link>
+      <guid isPermaLink="false">1sLQBbjqhRA</guid>
+      <pubDate>Thu, 10 Sep 2026 18:20:35 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Barış Terkoğlu Siyasetteki Transferleri Analiz Etti! CHP'deki Depremi Tek Tek Anlattı!</description>
+    </item>
     <item>
       <title>Tele2 Haber: KAYYUM ATANAN TELE 1 EKRANLARINDA YAYIN YOK! Murat Taylan yaşananları değerlendirdi...</title>
       <link>https://www.youtube.com/watch?v=xSwXdI9beE4</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">cz-9cZZa-T8</guid>
       <pubDate>Thu, 10 Sep 2026 14:45:34 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Sarallar'ın Sedat Şahin'e roketatarlı suikast planı engellendi! Ele geçirilen silahlar şoke etti!</description>
-    </item>
-    <item>
-      <title>Halk TV: Küçük çocuğun Özgür Özel’e söylediği sözler yürek ısıttı: Onlar yolun sonunda, biz yolun başındayız!</title>
-      <link>https://www.youtube.com/shorts/FSnHQnlqNs4</link>
-      <guid isPermaLink="false">FSnHQnlqNs4</guid>
-      <pubDate>Thu, 10 Sep 2026 14:40:53 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Küçük çocuğun Özgür Özel’e söylediği sözler yürek ısıttı: Onlar yolun sonunda, biz yolun başındayız!</description>
     </item>
   </channel>
 </rss>
