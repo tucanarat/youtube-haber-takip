@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 10:45:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 10:50:38 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: AKIN GÜRLEK BOMBAYI PATLATTI! İBB davasında ek iddianame geliyor! Tüm seyri değiştirecek gelişme!</title>
+      <link>https://www.youtube.com/watch?v=uO9FhGO1xJY</link>
+      <guid isPermaLink="false">uO9FhGO1xJY</guid>
+      <pubDate>Thu, 10 Sep 2026 10:45:40 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: AKIN GÜRLEK BOMBAYI PATLATTI! İBB davasında ek iddianame geliyor! Tüm seyri değiştirecek gelişme!</description>
+    </item>
     <item>
       <title>Halk TV: ANKARA BU SÖZLERİ KONUŞUYOR! Mansur Yavaş'tan 'Erdoğan ile görüşme' için YENİ Parti ve CHP'ye mesaj!</title>
       <link>https://www.youtube.com/watch?v=Q2zltE8a5FQ</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">qzqc3JK4xgc</guid>
       <pubDate>Thu, 10 Sep 2026 07:33:33 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Üsküdar'da meclis üyelerine tehdit iddiası: YENİ Parti suç duyurusunda bulundu</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Kartal’da yangın alarmı: Mahalleli sokağa döküldü, market kullanılamaz hale geldi</title>
-      <link>https://www.youtube.com/shorts/jAhotwYSNsM</link>
-      <guid isPermaLink="false">jAhotwYSNsM</guid>
-      <pubDate>Thu, 10 Sep 2026 07:31:09 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Kartal’da yangın alarmı: Mahalleli sokağa döküldü, market kullanılamaz hale geldi</description>
     </item>
   </channel>
 </rss>
