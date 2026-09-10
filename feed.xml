@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 15:30:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 15:35:30 +0000</lastBuildDate>
     <item>
       <title>Cumhuriyet: İmamoğlu ve İBB tutukluları maç izleyemeyecek!</title>
       <link>https://www.youtube.com/shorts/79Hk_4lroto</link>
@@ -22,6 +22,13 @@
       <description>Cumhuriyet kanalından yeni video: #CANLI İBB Davasında 79. gün! “Ben söylemedim savcı yazdı”</description>
     </item>
     <item>
+      <title>Tele2 Haber: EMEKLİ İMAM İLE ÖZGÜR ÖZEL ARASINDA YILIN DİYALOGU!</title>
+      <link>https://www.youtube.com/shorts/bi2vSF5tq_Q</link>
+      <guid isPermaLink="false">bi2vSF5tq_Q</guid>
+      <pubDate>Thu, 10 Sep 2026 15:23:51 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: EMEKLİ İMAM İLE ÖZGÜR ÖZEL ARASINDA YILIN DİYALOGU!</description>
+    </item>
+    <item>
       <title>Cumhuriyet: Silivri'ye çay yasağı geldi</title>
       <link>https://www.youtube.com/shorts/dAJCJELtQBA</link>
       <guid isPermaLink="false">dAJCJELtQBA</guid>
@@ -34,6 +41,13 @@
       <guid isPermaLink="false">L-WaDUd17IA</guid>
       <pubDate>Thu, 10 Sep 2026 15:21:48 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Atlas’ın annesinden yürek yakan sözler! “Atlas’ın adaleti sağlanmadı!”</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Cem Küçük Davasında Para Trafiği Ortaya Çıktı! İsmail Çanak ve Tahir Sarıkaya'nın Olay İfadeleri</title>
+      <link>https://www.youtube.com/watch?v=HB5i_lA9Bh4</link>
+      <guid isPermaLink="false">HB5i_lA9Bh4</guid>
+      <pubDate>Thu, 10 Sep 2026 15:20:21 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Cem Küçük Davasında Para Trafiği Ortaya Çıktı! İsmail Çanak ve Tahir Sarıkaya'nın Olay İfadeleri</description>
     </item>
     <item>
       <title>Halk TV: ŞOK ÇIKIŞ! Akın Gürlek'in İBB davası için 'ek iddianame' sözlerine Yaşar Aydın'dan çarpıcı sözler!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">dmlBwjsoN60</guid>
       <pubDate>Thu, 10 Sep 2026 12:46:55 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Özgür Özel, Ardahan Çamlıçatak'ta yaşlı bir kadının "okuduğu" suyu içti #shorts</description>
-    </item>
-    <item>
-      <title>Halk TV: O TOPLANTIDA ORTAYA ÇIKTI! AKP'nin aday bile çıkarmadığı Foça'nın belediye başkanı resmen AKP'de!</title>
-      <link>https://www.youtube.com/watch?v=tNbQa1YnhDA</link>
-      <guid isPermaLink="false">tNbQa1YnhDA</guid>
-      <pubDate>Thu, 10 Sep 2026 12:45:11 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: O TOPLANTIDA ORTAYA ÇIKTI! AKP'nin aday bile çıkarmadığı Foça'nın belediye başkanı resmen AKP'de!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Ardahan'da pazar yerini ziyaret ediyor</title>
-      <link>https://www.youtube.com/watch?v=U5IhQPaZYnM</link>
-      <guid isPermaLink="false">U5IhQPaZYnM</guid>
-      <pubDate>Thu, 10 Sep 2026 12:35:37 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Ardahan'da pazar yerini ziyaret ediyor</description>
     </item>
   </channel>
 </rss>
