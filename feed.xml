@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 12:15:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 12:20:35 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: İmamoğlu’na şimdi de çay yasağı! I Ankara’da siyaset alev alev! | Ülkü Çoban ile Manşet Ötesi</title>
+      <link>https://www.youtube.com/watch?v=S99nY2bGSQg</link>
+      <guid isPermaLink="false">S99nY2bGSQg</guid>
+      <pubDate>Thu, 10 Sep 2026 12:17:35 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: İmamoğlu’na şimdi de çay yasağı! I Ankara’da siyaset alev alev! | Ülkü Çoban ile Manşet Ötesi</description>
+    </item>
     <item>
       <title>Cumhuriyet: 286 yıl hapsi istenen Mehmet Akif Ersoy hakim karşısında: Kapalı duruşma kararından geri dönüldü</title>
       <link>https://www.youtube.com/shorts/PvMTBSiqcHE</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">38zIvMiFoH0</guid>
       <pubDate>Thu, 10 Sep 2026 10:03:49 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Parti Grup Başkanvekili Gökhan Günaydın, TBMM'de Açıklama Yaptı (10 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Kaşif Kozinoğlu'nu Kim Susturdu? Ersan Barkın'dan Çarpıcı FETÖ ve Enver Altaylı Gerçeği!</title>
-      <link>https://www.youtube.com/watch?v=2mYBIIoa_uY</link>
-      <guid isPermaLink="false">2mYBIIoa_uY</guid>
-      <pubDate>Thu, 10 Sep 2026 10:00:27 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Kaşif Kozinoğlu'nu Kim Susturdu? Ersan Barkın'dan Çarpıcı FETÖ ve Enver Altaylı Gerçeği!</description>
     </item>
   </channel>
 </rss>
