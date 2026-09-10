@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 18:50:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 18:55:24 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: #CANLI Zeynel Lüle ile Ankara Günlüğü | Konuk: Yavuz Selim Demirağ (11.09.26)</title>
       <link>https://www.youtube.com/watch?v=l_t3aDzv7-0</link>
       <guid isPermaLink="false">l_t3aDzv7-0</guid>
       <pubDate>Thu, 10 Sep 2026 18:41:14 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Zeynel Lüle ile Ankara Günlüğü | Konuk: Yavuz Selim Demirağ (11.09.26)</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Timur Soykan Herkesi Uyardı! 'Ya Oylarınızla Gelen İktidar Ya Da Bir Saray Saltanatı'</title>
+      <link>https://www.youtube.com/watch?v=oCs_BZaObD4</link>
+      <guid isPermaLink="false">oCs_BZaObD4</guid>
+      <pubDate>Thu, 10 Sep 2026 18:40:17 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Timur Soykan Herkesi Uyardı! 'Ya Oylarınızla Gelen İktidar Ya Da Bir Saray Saltanatı'</description>
     </item>
     <item>
       <title>Tele2 Haber: #CANLI Zeynel Lüle ile Ankara Günlüğü | Konuk: Eski AKP Milletvekili Hüseyin Kocabıyık (11.09.26)</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">yQ1CnLQTgOk</guid>
       <pubDate>Thu, 10 Sep 2026 15:03:20 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Gizem Çetin ile Parantez (10 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: İBB davasında 79. gün! Gündeme damga vuracak 'şablon ifade' skandalı!</title>
-      <link>https://www.youtube.com/watch?v=G4qaT7JEfUA</link>
-      <guid isPermaLink="false">G4qaT7JEfUA</guid>
-      <pubDate>Thu, 10 Sep 2026 15:01:41 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: İBB davasında 79. gün! Gündeme damga vuracak 'şablon ifade' skandalı!</description>
     </item>
   </channel>
 </rss>
