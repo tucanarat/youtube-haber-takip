@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 17:05:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 17:10:31 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: "En Son Ben Gördüm" Kozinoğlu'nu Hücresinde Son Gören Doktor 15 Yıl Sonra İlk Kez Konuştu!</title>
+      <link>https://www.youtube.com/watch?v=3wkmggtPQvw</link>
+      <guid isPermaLink="false">3wkmggtPQvw</guid>
+      <pubDate>Thu, 10 Sep 2026 17:00:34 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: "En Son Ben Gördüm" Kozinoğlu'nu Hücresinde Son Gören Doktor 15 Yıl Sonra İlk Kez Konuştu!</description>
+    </item>
+    <item>
+      <title>Halk TV: Tutuklanan ‘Kara Haydar’ın Çağla Öz’e yönelik istismar dosyasında dehşete düşüren detaylar!</title>
+      <link>https://www.youtube.com/watch?v=nIf8rGlOIVw</link>
+      <guid isPermaLink="false">nIf8rGlOIVw</guid>
+      <pubDate>Thu, 10 Sep 2026 17:00:01 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Tutuklanan ‘Kara Haydar’ın Çağla Öz’e yönelik istismar dosyasında dehşete düşüren detaylar!</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI Murat Taylan ile Haber-Yorum (10.09.2026)</title>
       <link>https://www.youtube.com/watch?v=x7f32r10xTA</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">T0onielcVjU</guid>
       <pubDate>Thu, 10 Sep 2026 14:00:07 +0000</pubDate>
       <description>Halk TV kanalından yeni video: "SEN NİYE TEK GELDİN!" Selçuk Mızraklı'nın Demirtaş'ın annesini ziyaretine bu diyalog damga vurdu!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Yeni Parti Lideri Özgür Özel'den Ardahan'da Kritik Açıklamalar!</title>
-      <link>https://www.youtube.com/watch?v=Z_zT6Htg_-Y</link>
-      <guid isPermaLink="false">Z_zT6Htg_-Y</guid>
-      <pubDate>Thu, 10 Sep 2026 13:58:41 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Yeni Parti Lideri Özgür Özel'den Ardahan'da Kritik Açıklamalar!</description>
-    </item>
-    <item>
-      <title>Halk TV: Mehmet Akif Ersoy İlk Kez Hakim Karşısında: Çok Çarpıcı 'Uyuşturucu' İtirafı Geldi!</title>
-      <link>https://www.youtube.com/watch?v=Z4DA3B2sE4M</link>
-      <guid isPermaLink="false">Z4DA3B2sE4M</guid>
-      <pubDate>Thu, 10 Sep 2026 13:56:22 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Mehmet Akif Ersoy İlk Kez Hakim Karşısında: Çok Çarpıcı 'Uyuşturucu' İtirafı Geldi!</description>
     </item>
   </channel>
 </rss>
