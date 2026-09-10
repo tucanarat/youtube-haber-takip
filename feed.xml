@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 19:30:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 19:35:29 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: "20 SENE ÇALIŞTIK EMEKLİ BİLE OLAMADIK!" Ücretli öğretmenler MEB önünde iktidara seslendi...</title>
+      <link>https://www.youtube.com/watch?v=n1JA9rTzEV4</link>
+      <guid isPermaLink="false">n1JA9rTzEV4</guid>
+      <pubDate>Thu, 10 Sep 2026 19:30:22 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "20 SENE ÇALIŞTIK EMEKLİ BİLE OLAMADIK!" Ücretli öğretmenler MEB önünde iktidara seslendi...</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI Güller, Kalaycıoğlu, Solmaztürk, Solakoğlu ile Türkiye'nin Yönü (10.09.2026)</title>
       <link>https://www.youtube.com/watch?v=hZxO7X7Z3PQ</link>
@@ -20,6 +27,13 @@
       <guid isPermaLink="false">fGRVaPypRRA</guid>
       <pubDate>Thu, 10 Sep 2026 19:20:33 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Timur Soykan Anlattı! Sedat Şahin'e Suikast İddiası! Sarallar'ın Cephaneliği! Bahçeli'nin Mesajı</description>
+    </item>
+    <item>
+      <title>Halk TV: TEPKİSİ SERT OLDU! Yavaş'tan o fotoğrafa flaş açıklama! Erdoğan - Yavaş görüşmesi ne anlama geliyor?</title>
+      <link>https://www.youtube.com/watch?v=0YcnYbJzwag</link>
+      <guid isPermaLink="false">0YcnYbJzwag</guid>
+      <pubDate>Thu, 10 Sep 2026 19:20:15 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: TEPKİSİ SERT OLDU! Yavaş'tan o fotoğrafa flaş açıklama! Erdoğan - Yavaş görüşmesi ne anlama geliyor?</description>
     </item>
     <item>
       <title>Tele2 Haber: ÖZGÜR ÇELİK İÇİN SORUŞTURMA BAŞLATILDI! Çelik'in ifadeye çağrılmasını Murat Taylan yorumladı...</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">79Hk_4lroto</guid>
       <pubDate>Thu, 10 Sep 2026 15:28:25 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: İmamoğlu ve İBB tutukluları maç izleyemeyecek!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: #CANLI İBB Davasında 79. gün! “Ben söylemedim savcı yazdı”</title>
-      <link>https://www.youtube.com/watch?v=S-2tN0dmQO4</link>
-      <guid isPermaLink="false">S-2tN0dmQO4</guid>
-      <pubDate>Thu, 10 Sep 2026 15:24:22 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI İBB Davasında 79. gün! “Ben söylemedim savcı yazdı”</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: EMEKLİ İMAM İLE ÖZGÜR ÖZEL ARASINDA YILIN DİYALOGU!</title>
-      <link>https://www.youtube.com/shorts/bi2vSF5tq_Q</link>
-      <guid isPermaLink="false">bi2vSF5tq_Q</guid>
-      <pubDate>Thu, 10 Sep 2026 15:23:51 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: EMEKLİ İMAM İLE ÖZGÜR ÖZEL ARASINDA YILIN DİYALOGU!</description>
     </item>
   </channel>
 </rss>
