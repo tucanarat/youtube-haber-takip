@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 16:40:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 16:45:31 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Özlem Gürses'ten Mansur Yavaş Erdoğan Görüşmesinin Şifreleri! Ankara Kulisleri Alev Alev</title>
+      <link>https://www.youtube.com/watch?v=vTNZ3aCuy5E</link>
+      <guid isPermaLink="false">vTNZ3aCuy5E</guid>
+      <pubDate>Thu, 10 Sep 2026 16:40:05 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses'ten Mansur Yavaş Erdoğan Görüşmesinin Şifreleri! Ankara Kulisleri Alev Alev</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Gökmen Karadağ ile Açıkça</title>
+      <link>https://www.youtube.com/watch?v=zyTfVITQm2k</link>
+      <guid isPermaLink="false">zyTfVITQm2k</guid>
+      <pubDate>Thu, 10 Sep 2026 16:36:49 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Gökmen Karadağ ile Açıkça</description>
+    </item>
     <item>
       <title>Halk TV: TOGG ile anlaşma iddiası! Çerçioğlu’nun eşinin şirketi gündemde!</title>
       <link>https://www.youtube.com/watch?v=TFbCF9qsUXs</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">C42d3JKrMdY</guid>
       <pubDate>Thu, 10 Sep 2026 13:40:21 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Emekli İmam ile Özgür Özel Arasında Yılın Diyalogu!  Özel'den "Yumuşak Muhalefet" Cevabı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Mehmet Akif Ersoy'un Ofisinden Gizli Kamera Çıktı! Davada Akılalmaz İddialar! 'Midem Bulandı'</title>
-      <link>https://www.youtube.com/watch?v=HgHjOompYa0</link>
-      <guid isPermaLink="false">HgHjOompYa0</guid>
-      <pubDate>Thu, 10 Sep 2026 13:40:07 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Mehmet Akif Ersoy'un Ofisinden Gizli Kamera Çıktı! Davada Akılalmaz İddialar! 'Midem Bulandı'</description>
-    </item>
-    <item>
-      <title>Halk TV: Dün gece gözaltına alınan Çağla Öz, 'Vanlı Kara Haydar'dan önce bir başkası ile evlenmiş!</title>
-      <link>https://www.youtube.com/watch?v=MF3oEUfPhuU</link>
-      <guid isPermaLink="false">MF3oEUfPhuU</guid>
-      <pubDate>Thu, 10 Sep 2026 13:30:10 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Dün gece gözaltına alınan Çağla Öz, 'Vanlı Kara Haydar'dan önce bir başkası ile evlenmiş!</description>
     </item>
   </channel>
 </rss>
