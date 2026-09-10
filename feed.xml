@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 13:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 13:45:30 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Mehmet Akif Ersoy'un Ofisinden Gizli Kamera Çıktı! Davada Akılalmaz İddialar! 'Midem Bulandı'</title>
+      <link>https://www.youtube.com/watch?v=HgHjOompYa0</link>
+      <guid isPermaLink="false">HgHjOompYa0</guid>
+      <pubDate>Thu, 10 Sep 2026 13:40:07 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Mehmet Akif Ersoy'un Ofisinden Gizli Kamera Çıktı! Davada Akılalmaz İddialar! 'Midem Bulandı'</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Yeni Parti Lideri Özgür Özel'den Ardahan'da Kritik Açıklamalar!</title>
+      <link>https://www.youtube.com/watch?v=Z_zT6Htg_-Y</link>
+      <guid isPermaLink="false">Z_zT6Htg_-Y</guid>
+      <pubDate>Thu, 10 Sep 2026 13:38:40 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Yeni Parti Lideri Özgür Özel'den Ardahan'da Kritik Açıklamalar!</description>
+    </item>
     <item>
       <title>Halk TV: Dün gece gözaltına alınan Çağla Öz, 'Vanlı Kara Haydar'dan önce bir başkası ile evlenmiş!</title>
       <link>https://www.youtube.com/watch?v=MF3oEUfPhuU</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">hGk6P8JsHis</guid>
       <pubDate>Thu, 10 Sep 2026 11:34:15 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Özgür Özel Kars'ta alkışlarla karşılandı</description>
-    </item>
-    <item>
-      <title>Halk TV: Aile Dayanışma Ağı, 44. Buluşmasını Silivri’de Gerçekleştiriliyor</title>
-      <link>https://www.youtube.com/watch?v=CIz7effv3B0</link>
-      <guid isPermaLink="false">CIz7effv3B0</guid>
-      <pubDate>Thu, 10 Sep 2026 11:33:15 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Aile Dayanışma Ağı, 44. Buluşmasını Silivri’de Gerçekleştiriliyor</description>
-    </item>
-    <item>
-      <title>Halk TV: Kebap kokusuna bile hasret kaldılar! Kadirli’de vatandaşlardan et fiyatlarına tepki!</title>
-      <link>https://www.youtube.com/shorts/um4e8NnzfWc</link>
-      <guid isPermaLink="false">um4e8NnzfWc</guid>
-      <pubDate>Thu, 10 Sep 2026 11:31:38 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Kebap kokusuna bile hasret kaldılar! Kadirli’de vatandaşlardan et fiyatlarına tepki!</description>
     </item>
   </channel>
 </rss>
