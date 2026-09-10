@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 19:45:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 19:50:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Memleketi Güneysu’da konuştu: Erdoğan’dan çok çarpıcı ‘seçim’ mesajı geldi!</title>
+      <link>https://www.youtube.com/watch?v=OVS5KFjnKzk</link>
+      <guid isPermaLink="false">OVS5KFjnKzk</guid>
+      <pubDate>Thu, 10 Sep 2026 19:43:18 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Memleketi Güneysu’da konuştu: Erdoğan’dan çok çarpıcı ‘seçim’ mesajı geldi!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Özgür Çelik'ten Ayhan Aydın'a Cevap Verdi! Canlı Yayında Çarpıcı İtiraf! 'Biz bakarız Çocuğunuza..."</title>
+      <link>https://www.youtube.com/watch?v=EGSUxsbvCL0</link>
+      <guid isPermaLink="false">EGSUxsbvCL0</guid>
+      <pubDate>Thu, 10 Sep 2026 19:40:37 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Özgür Çelik'ten Ayhan Aydın'a Cevap Verdi! Canlı Yayında Çarpıcı İtiraf! 'Biz bakarız Çocuğunuza..."</description>
+    </item>
     <item>
       <title>Tele2 Haber: "20 SENE ÇALIŞTIK EMEKLİ BİLE OLAMADIK!" Ücretli öğretmenler MEB önünde iktidara seslendi...</title>
       <link>https://www.youtube.com/watch?v=n1JA9rTzEV4</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">GApcShds68I</guid>
       <pubDate>Thu, 10 Sep 2026 15:45:05 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Yeni Parti’den Ardahan’da dikkat çeken mesaj! “Arkada kalanlar öne gelecek!” #shorts</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Özlem Gürses Mehmet Akif Ersoy'a Ateş Püskürdü! İlk Kez Hakim Karşısına Çıktı! Veyis Ateş Çıkmazı</title>
-      <link>https://www.youtube.com/watch?v=6vSQIwEoGks</link>
-      <guid isPermaLink="false">6vSQIwEoGks</guid>
-      <pubDate>Thu, 10 Sep 2026 15:40:33 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses Mehmet Akif Ersoy'a Ateş Püskürdü! İlk Kez Hakim Karşısına Çıktı! Veyis Ateş Çıkmazı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: İmamoğlu ve İBB tutukluları maç izleyemeyecek!</title>
-      <link>https://www.youtube.com/shorts/79Hk_4lroto</link>
-      <guid isPermaLink="false">79Hk_4lroto</guid>
-      <pubDate>Thu, 10 Sep 2026 15:28:25 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: İmamoğlu ve İBB tutukluları maç izleyemeyecek!</description>
     </item>
   </channel>
 </rss>
