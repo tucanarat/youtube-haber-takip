@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 22:50:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 22:55:27 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: CÜBBELİ'YE SERT TEPKİ GÖSTERDİ! Mehmet Emin Ekmen: Bunun bir adım ötesi tekfirciliktir!</title>
+      <link>https://www.youtube.com/watch?v=WC--cl2m9DU</link>
+      <guid isPermaLink="false">WC--cl2m9DU</guid>
+      <pubDate>Thu, 10 Sep 2026 22:50:32 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: CÜBBELİ'YE SERT TEPKİ GÖSTERDİ! Mehmet Emin Ekmen: Bunun bir adım ötesi tekfirciliktir!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: SEÇİMİ KAZANIRSA KESENİN AĞZINI AÇACAK! Trump'tan Rüşvet Gibi Vaat</title>
       <link>https://www.youtube.com/watch?v=qlDb_mN9itU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">3fO4UnIMdp4</guid>
       <pubDate>Thu, 10 Sep 2026 19:00:20 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: ÖZGÜR ÇELİK İÇİN SORUŞTURMA BAŞLATILDI! Çelik'in ifadeye çağrılmasını Murat Taylan yorumladı...</description>
-    </item>
-    <item>
-      <title>Halk TV: ÖZEL'E SEVGİ SELİ! "Kaz satıp bir otobüs de biz alacağız!" Ardahan'lı kadının sözleri gündem oldu!</title>
-      <link>https://www.youtube.com/watch?v=3yzJi5UJD_A</link>
-      <guid isPermaLink="false">3yzJi5UJD_A</guid>
-      <pubDate>Thu, 10 Sep 2026 19:00:11 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ÖZEL'E SEVGİ SELİ! "Kaz satıp bir otobüs de biz alacağız!" Ardahan'lı kadının sözleri gündem oldu!</description>
     </item>
   </channel>
 </rss>
