@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 16:35:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 16:40:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: TOGG ile anlaşma iddiası! Çerçioğlu’nun eşinin şirketi gündemde!</title>
+      <link>https://www.youtube.com/watch?v=TFbCF9qsUXs</link>
+      <guid isPermaLink="false">TFbCF9qsUXs</guid>
+      <pubDate>Thu, 10 Sep 2026 16:30:26 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: TOGG ile anlaşma iddiası! Çerçioğlu’nun eşinin şirketi gündemde!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Trump Savaşın Biteceği Tarihi Açıkladı! Hürmüz İçin Kritik Süreç! Özlem Gürses'ten Olay Yorum</title>
       <link>https://www.youtube.com/watch?v=8wum8SJU-ns</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">MF3oEUfPhuU</guid>
       <pubDate>Thu, 10 Sep 2026 13:30:10 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Dün gece gözaltına alınan Çağla Öz, 'Vanlı Kara Haydar'dan önce bir başkası ile evlenmiş!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Avrupa'yı Putin Korkusu Saldı! NATO 200 Kilometrelik Çelik Duvar Çekti! Kuzeyde Savaş Hazırlığı</title>
-      <link>https://www.youtube.com/watch?v=3rtBkTJSesg</link>
-      <guid isPermaLink="false">3rtBkTJSesg</guid>
-      <pubDate>Thu, 10 Sep 2026 13:20:22 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Avrupa'yı Putin Korkusu Saldı! NATO 200 Kilometrelik Çelik Duvar Çekti! Kuzeyde Savaş Hazırlığı</description>
     </item>
   </channel>
 </rss>
