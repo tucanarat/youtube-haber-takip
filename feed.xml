@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 17:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 17:05:23 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: #CANLI Murat Taylan ile Haber-Yorum (10.09.2026)</title>
       <link>https://www.youtube.com/watch?v=x7f32r10xTA</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">Z-mrkgOFgDs</guid>
       <pubDate>Thu, 10 Sep 2026 16:58:51 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Ece Üner ile Halk Ana Haber | #faturası (10 Eylül 2026)</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Özlem Gürses ile Sözcü Ana Haber  | 10 Eylül</title>
+      <link>https://www.youtube.com/watch?v=Z2h59BVqOuE</link>
+      <guid isPermaLink="false">Z2h59BVqOuE</guid>
+      <pubDate>Thu, 10 Sep 2026 16:54:09 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses ile Sözcü Ana Haber  | 10 Eylül</description>
     </item>
     <item>
       <title>Tele2 Haber: Onur Alp Yılmaz'dan Türkiye'de yaşananlar ile ilgili kritik tespit! Murat Taylan yorumladı...</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Z4DA3B2sE4M</guid>
       <pubDate>Thu, 10 Sep 2026 13:56:22 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Mehmet Akif Ersoy İlk Kez Hakim Karşısında: Çok Çarpıcı 'Uyuşturucu' İtirafı Geldi!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: CHP Sözcüsü Müslim Sarı MYK gündemiyle ilgili açıklama yapıyor / Ankara #Canlı</title>
-      <link>https://www.youtube.com/watch?v=l-L8ylRv6vw</link>
-      <guid isPermaLink="false">l-L8ylRv6vw</guid>
-      <pubDate>Thu, 10 Sep 2026 13:55:21 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP Sözcüsü Müslim Sarı MYK gündemiyle ilgili açıklama yapıyor / Ankara #Canlı</description>
     </item>
   </channel>
 </rss>
