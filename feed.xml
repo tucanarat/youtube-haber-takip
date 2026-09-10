@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 21:45:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 21:50:34 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Mansur Yavaş Erdoğan Zirvesinin Şifreleri! "Denge Siyaseti" Hamlesi! CHP Teyakkuzda</title>
+      <link>https://www.youtube.com/watch?v=il8polIYeiA</link>
+      <guid isPermaLink="false">il8polIYeiA</guid>
+      <pubDate>Thu, 10 Sep 2026 21:40:38 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Mansur Yavaş Erdoğan Zirvesinin Şifreleri! "Denge Siyaseti" Hamlesi! CHP Teyakkuzda</description>
+    </item>
     <item>
       <title>Halk TV: SON DAKİKA! Uyuşturucu baronu İslam Yakut İstanbul'da yakalandı!</title>
       <link>https://www.youtube.com/watch?v=BBXjCjp4R3s</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Bfun9DjLCa0</guid>
       <pubDate>Thu, 10 Sep 2026 18:00:09 +0000</pubDate>
       <description>Halk TV kanalından yeni video: AKP SEÇİMSİZ BELEDİYE ALMAYA DEVAM EDİYOR! Muhalefetin kalesi İzmir'de ilk fire verildi!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Senem Toluay Ilgaz ile Öncesi Sonrası Gece | Barış Terkoğlu &amp; Timur Soykan |  10 Eylül</title>
-      <link>https://www.youtube.com/watch?v=RLf_aR794Lw</link>
-      <guid isPermaLink="false">RLf_aR794Lw</guid>
-      <pubDate>Thu, 10 Sep 2026 17:56:10 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Senem Toluay Ilgaz ile Öncesi Sonrası Gece | Barış Terkoğlu &amp; Timur Soykan |  10 Eylül</description>
     </item>
   </channel>
 </rss>
