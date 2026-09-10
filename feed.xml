@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 21:30:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 21:35:25 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: "SİLİVRİ'DE ÇAY YASAĞI DA GELDİ!" Engin Solmaztürk'ten çok kritik yargılama süreci yorumu...</title>
+      <link>https://www.youtube.com/watch?v=IuIqvF0xoVY</link>
+      <guid isPermaLink="false">IuIqvF0xoVY</guid>
+      <pubDate>Thu, 10 Sep 2026 21:30:32 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "SİLİVRİ'DE ÇAY YASAĞI DA GELDİ!" Engin Solmaztürk'ten çok kritik yargılama süreci yorumu...</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Arzu Çerkezoğlu, Çalışma ve Sosyal Güvenlik Bakanlığı önünde açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=2E9DTt8_3yk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">1QmqCSOIDpQ</guid>
       <pubDate>Thu, 10 Sep 2026 17:40:20 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: 'Denge Olamaz' Timur Soykan Beştepe'deki Zirveyi Anlattı! Olay Mansur Yavaş ve Erdoğan Sözleri</description>
-    </item>
-    <item>
-      <title>Halk TV: YÜREK DAYANMAZ! Atlas Çağlayan'ın annesi oğlunun mezarı başında konuştu! "Mağdur taraf korunmadı!"</title>
-      <link>https://www.youtube.com/watch?v=UPpqyxF86xM</link>
-      <guid isPermaLink="false">UPpqyxF86xM</guid>
-      <pubDate>Thu, 10 Sep 2026 17:30:31 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YÜREK DAYANMAZ! Atlas Çağlayan'ın annesi oğlunun mezarı başında konuştu! "Mağdur taraf korunmadı!"</description>
     </item>
   </channel>
 </rss>
