@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 10:15:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 10:20:45 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI Güller, Kalaycıoğlu, Solmaztürk, Solakoğlu ile Türkiye'nin Yönü (03.09.2026)</title>
+      <link>https://www.youtube.com/watch?v=hZxO7X7Z3PQ</link>
+      <guid isPermaLink="false">hZxO7X7Z3PQ</guid>
+      <pubDate>Thu, 10 Sep 2026 10:10:42 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Güller, Kalaycıoğlu, Solmaztürk, Solakoğlu ile Türkiye'nin Yönü (03.09.2026)</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI YENİ Parti Grup Başkanvekili Gökhan Günaydın, TBMM'de açıklama yapıyor</title>
       <link>https://www.youtube.com/watch?v=mYwWdI5frM8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">0wHCktSmN_8</guid>
       <pubDate>Thu, 10 Sep 2026 07:19:33 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: 🔴 ÖĞRETMENLER BAHÇEDEKİ KAMELYAYI YENİ OKULA BÖYLE TAŞIDI</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Ezgi Apartmanı Davası... Üç Çocuğunu Kaybeden Nurgül Göksu: "Çocuklarımın Adaleti Sağlansın!"</title>
-      <link>https://www.youtube.com/shorts/qvl8kM5bf0Y</link>
-      <guid isPermaLink="false">qvl8kM5bf0Y</guid>
-      <pubDate>Thu, 10 Sep 2026 07:10:56 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Ezgi Apartmanı Davası... Üç Çocuğunu Kaybeden Nurgül Göksu: "Çocuklarımın Adaleti Sağlansın!"</description>
     </item>
   </channel>
 </rss>
