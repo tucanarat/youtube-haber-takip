@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 00:29:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 00:30:42 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Devletin Zirvesinde Casus Yazılım! Bakanların Telefonları Dinleniyor! Büyük Güvenlik Açığı</title>
+      <link>https://www.youtube.com/watch?v=h_KRyQy9k30</link>
+      <guid isPermaLink="false">h_KRyQy9k30</guid>
+      <pubDate>Thu, 10 Sep 2026 00:20:00 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Devletin Zirvesinde Casus Yazılım! Bakanların Telefonları Dinleniyor! Büyük Güvenlik Açığı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: 45 Kilo Altın ve Kara Para Şüphesi! İkinci Dilan Polat Vakası mı? Vanlı Kara Haydar'ın Sırrı Ne?</title>
       <link>https://www.youtube.com/watch?v=x5wC_AhlstQ</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">4L3QWhoBrRQ</guid>
       <pubDate>Wed, 09 Sep 2026 18:20:29 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: 4 Şüpheli Ölüm! O Dosyalar Raftan İndi! Gündem Olacak Enver Altaylı Gerçekleri! Özlem Gürses Anlattı</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ PARTİ'NİN YENİ ROTASI BELLİ OLDU! Özel'in bir sonraki durağı Doğu Anadolu! İşte son durum!</title>
-      <link>https://www.youtube.com/watch?v=FocoGC4YnPw</link>
-      <guid isPermaLink="false">FocoGC4YnPw</guid>
-      <pubDate>Wed, 09 Sep 2026 18:15:33 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ PARTİ'NİN YENİ ROTASI BELLİ OLDU! Özel'in bir sonraki durağı Doğu Anadolu! İşte son durum!</description>
     </item>
   </channel>
 </rss>
