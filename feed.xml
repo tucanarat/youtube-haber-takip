@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 14:30:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 14:35:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: KAYIP MEKTUBU HABER YAPMIŞTI! Kaşif Kozinoğlu soruşturmasında gazeteci Selahattin Günday gözaltında!</title>
+      <link>https://www.youtube.com/watch?v=MiL8ZEafTqc</link>
+      <guid isPermaLink="false">MiL8ZEafTqc</guid>
+      <pubDate>Thu, 10 Sep 2026 14:30:30 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KAYIP MEKTUBU HABER YAPMIŞTI! Kaşif Kozinoğlu soruşturmasında gazeteci Selahattin Günday gözaltında!</description>
+    </item>
+    <item>
+      <title>Halk TV: Özgür Özel’den çiftçiye destek sözü: Tulumbanın suyunu dolduracağız!</title>
+      <link>https://www.youtube.com/shorts/PvSvJWcUOAo</link>
+      <guid isPermaLink="false">PvSvJWcUOAo</guid>
+      <pubDate>Thu, 10 Sep 2026 14:29:07 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Özgür Özel’den çiftçiye destek sözü: Tulumbanın suyunu dolduracağız!</description>
+    </item>
+    <item>
+      <title>Halk TV: Kimi okunmuş su ikram etti, kimi içini döktü! Ardahanlı teyzelerden Özgür Özel'e büyük ilgi!</title>
+      <link>https://www.youtube.com/shorts/46Ejts_jewQ</link>
+      <guid isPermaLink="false">46Ejts_jewQ</guid>
+      <pubDate>Thu, 10 Sep 2026 14:27:08 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Kimi okunmuş su ikram etti, kimi içini döktü! Ardahanlı teyzelerden Özgür Özel'e büyük ilgi!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Kongre Caddesi'nde esnafı ziyaret ediyor / Ardahan #Canlı</title>
       <link>https://www.youtube.com/watch?v=OBzVYNQ64lg</link>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">Qog7qJ4Ug3U</guid>
       <pubDate>Thu, 10 Sep 2026 12:04:22 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Suat Özçağdaş Duruşma Salonundan Çıkarıldı, Karara Tepki Gösterdi! "Böyle Bir Yetkin Yok!"</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel Ardahan’da Çamlıçatak köyünün kadınlarıyla buluştu! Taleplerini tek tek dinledi!</title>
-      <link>https://www.youtube.com/shorts/VlgfXHQ5TIc</link>
-      <guid isPermaLink="false">VlgfXHQ5TIc</guid>
-      <pubDate>Thu, 10 Sep 2026 12:03:41 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel Ardahan’da Çamlıçatak köyünün kadınlarıyla buluştu! Taleplerini tek tek dinledi!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: İBB Davası'nda 79.gün... Aile Dayanışma Ağı Silivri'de</title>
-      <link>https://www.youtube.com/watch?v=sKYaUDATulg</link>
-      <guid isPermaLink="false">sKYaUDATulg</guid>
-      <pubDate>Thu, 10 Sep 2026 12:02:52 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: İBB Davası'nda 79.gün... Aile Dayanışma Ağı Silivri'de</description>
-    </item>
-    <item>
-      <title>Halk TV: Ardahanlı kadınlardan Özgür Özel'e okunmuş su ikramı!</title>
-      <link>https://www.youtube.com/shorts/SsURKSqwnQA</link>
-      <guid isPermaLink="false">SsURKSqwnQA</guid>
-      <pubDate>Thu, 10 Sep 2026 12:02:30 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ardahanlı kadınlardan Özgür Özel'e okunmuş su ikramı!</description>
     </item>
   </channel>
 </rss>
