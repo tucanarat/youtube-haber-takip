@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 22:45:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 22:50:32 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: SEÇİMİ KAZANIRSA KESENİN AĞZINI AÇACAK! Trump'tan Rüşvet Gibi Vaat</title>
+      <link>https://www.youtube.com/watch?v=qlDb_mN9itU</link>
+      <guid isPermaLink="false">qlDb_mN9itU</guid>
+      <pubDate>Thu, 10 Sep 2026 22:40:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: SEÇİMİ KAZANIRSA KESENİN AĞZINI AÇACAK! Trump'tan Rüşvet Gibi Vaat</description>
+    </item>
     <item>
       <title>Tele2 Haber: İstanbul Boğazı'ndaki köprüler ve otoyollar özelleştiriliyor! Engin Solakoğlu'nda kritik yorum...</title>
       <link>https://www.youtube.com/watch?v=gzeaJKOdXbY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">3yzJi5UJD_A</guid>
       <pubDate>Thu, 10 Sep 2026 19:00:11 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ÖZEL'E SEVGİ SELİ! "Kaz satıp bir otobüs de biz alacağız!" Ardahan'lı kadının sözleri gündem oldu!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: ERDOĞAN MANSUR YAVAŞ ZİRVESİNİN PERDE ARKASI! Özgür Çelik'ten Dengeleri Alt Üst Edecek Çıkış</title>
-      <link>https://www.youtube.com/watch?v=L0RXBXtKP4w</link>
-      <guid isPermaLink="false">L0RXBXtKP4w</guid>
-      <pubDate>Thu, 10 Sep 2026 19:00:03 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: ERDOĞAN MANSUR YAVAŞ ZİRVESİNİN PERDE ARKASI! Özgür Çelik'ten Dengeleri Alt Üst Edecek Çıkış</description>
     </item>
   </channel>
 </rss>
