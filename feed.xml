@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 15:45:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 15:50:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Yeni Parti’den Ardahan’da dikkat çeken mesaj! “Arkada kalanlar öne gelecek!” #shorts</title>
+      <link>https://www.youtube.com/shorts/GApcShds68I</link>
+      <guid isPermaLink="false">GApcShds68I</guid>
+      <pubDate>Thu, 10 Sep 2026 15:45:05 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Yeni Parti’den Ardahan’da dikkat çeken mesaj! “Arkada kalanlar öne gelecek!” #shorts</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Özlem Gürses Mehmet Akif Ersoy'a Ateş Püskürdü! İlk Kez Hakim Karşısına Çıktı! Veyis Ateş Çıkmazı</title>
       <link>https://www.youtube.com/watch?v=6vSQIwEoGks</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">0rYqHBwf5b0</guid>
       <pubDate>Thu, 10 Sep 2026 13:00:03 +0000</pubDate>
       <description>Halk TV kanalından yeni video: OĞUZ DEMİR BOMBAYI PATLATTI! Asgari ücrete yapılacak zammı açıkladı! Kulisler bununla çalkalanacak!</description>
-    </item>
-    <item>
-      <title>Halk TV: Konya'da emekli, Mahmut Tanal'a dert yandı! "Bu düzen de böyle gitmez!"</title>
-      <link>https://www.youtube.com/shorts/6VxjSR1Uhio</link>
-      <guid isPermaLink="false">6VxjSR1Uhio</guid>
-      <pubDate>Thu, 10 Sep 2026 12:51:18 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Konya'da emekli, Mahmut Tanal'a dert yandı! "Bu düzen de böyle gitmez!"</description>
     </item>
   </channel>
 </rss>
