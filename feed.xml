@@ -6,13 +6,34 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 11:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 12:00:57 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: YENİ Parti Genel Başkanı Özgür Özel, Çamlıçatak Köyünde Kadınlarla Bir Araya Geldi</title>
+      <link>https://www.youtube.com/watch?v=NSbqF1kKiME</link>
+      <guid isPermaLink="false">NSbqF1kKiME</guid>
+      <pubDate>Thu, 10 Sep 2026 11:59:47 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Çamlıçatak Köyünde Kadınlarla Bir Araya Geldi</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #CANLI rtmp://abone.canliyayin.ankahaber.net/feed2_2/live</title>
+      <link>https://www.youtube.com/watch?v=5gCJQKfVAf8</link>
+      <guid isPermaLink="false">5gCJQKfVAf8</guid>
+      <pubDate>Thu, 10 Sep 2026 11:59:19 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI rtmp://abone.canliyayin.ankahaber.net/feed2_2/live</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Senem Toluay Ilgaz ile Öncesi Sonrası Gece - Özgür Çelik</title>
       <link>https://www.youtube.com/watch?v=n8MyzUcltM0</link>
       <guid isPermaLink="false">n8MyzUcltM0</guid>
       <pubDate>Thu, 10 Sep 2026 11:48:12 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Senem Toluay Ilgaz ile Öncesi Sonrası Gece - Özgür Çelik</description>
+    </item>
+    <item>
+      <title>Halk TV: Rabia Naz dosyasında kritik gelişmeler: Baba Şaban Vatan, Halk TV YouTube'a tek tek anlattı!</title>
+      <link>https://www.youtube.com/watch?v=tFmT6VDDGtY</link>
+      <guid isPermaLink="false">tFmT6VDDGtY</guid>
+      <pubDate>Thu, 10 Sep 2026 11:45:39 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Rabia Naz dosyasında kritik gelişmeler: Baba Şaban Vatan, Halk TV YouTube'a tek tek anlattı!</description>
     </item>
     <item>
       <title>Halk TV: Mazotta KDV yükü artıyor! Gökhan Günaydın rakamları tek tek açıkladı</title>
@@ -48,13 +69,6 @@
       <guid isPermaLink="false">CIz7effv3B0</guid>
       <pubDate>Thu, 10 Sep 2026 11:33:15 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Aile Dayanışma Ağı, 44. Buluşmasını Silivri’de Gerçekleştiriliyor</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Çamlıçatak Köyünde Kadınlarla Bir Araya Geldi</title>
-      <link>https://www.youtube.com/watch?v=NSbqF1kKiME</link>
-      <guid isPermaLink="false">NSbqF1kKiME</guid>
-      <pubDate>Thu, 10 Sep 2026 11:32:46 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Çamlıçatak Köyünde Kadınlarla Bir Araya Geldi</description>
     </item>
     <item>
       <title>Halk TV: Kebap kokusuna bile hasret kaldılar! Kadirli’de vatandaşlardan et fiyatlarına tepki!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">raNtaBr2y0s</guid>
       <pubDate>Thu, 10 Sep 2026 09:30:03 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Mansur Yavaş Suskunluğunu Bozdu! Erdoğan'la Görüşmesini Anlattı! Yer Yerinden Oynayacak</description>
-    </item>
-    <item>
-      <title>Halk TV: İBB davasında duruşma salonuna alınmayan Suat Özçağdaş'tan açıklama!</title>
-      <link>https://www.youtube.com/shorts/f7pVijhYh1c</link>
-      <guid isPermaLink="false">f7pVijhYh1c</guid>
-      <pubDate>Thu, 10 Sep 2026 09:21:03 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İBB davasında duruşma salonuna alınmayan Suat Özçağdaş'tan açıklama!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Daron Acemoğlu Acı Reçeteyi Sundu! Ekonomik Krizin Aşılması Türkiye'de Çok Zor!" #shorts</title>
-      <link>https://www.youtube.com/shorts/NQSKE-kYcuk</link>
-      <guid isPermaLink="false">NQSKE-kYcuk</guid>
-      <pubDate>Thu, 10 Sep 2026 09:15:23 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Daron Acemoğlu Acı Reçeteyi Sundu! Ekonomik Krizin Aşılması Türkiye'de Çok Zor!" #shorts</description>
     </item>
   </channel>
 </rss>

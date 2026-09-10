@@ -40169,10 +40169,10 @@
   },
   "NSbqF1kKiME": {
     "id": "NSbqF1kKiME",
-    "title": "#CANLI | YENİ Parti Genel Başkanı Özgür Özel, Çamlıçatak Köyünde Kadınlarla Bir Araya Geldi",
+    "title": "YENİ Parti Genel Başkanı Özgür Özel, Çamlıçatak Köyünde Kadınlarla Bir Araya Geldi",
     "link": "https://www.youtube.com/watch?v=NSbqF1kKiME",
-    "published": "2026-09-10T11:32:46+00:00",
-    "published_ts": 1789039966,
+    "published": "2026-09-10T11:59:47+00:00",
+    "published_ts": 1789041587,
     "channel_name": "Halk TV"
   },
   "um4e8NnzfWc": {
@@ -40246,5 +40246,21 @@
     "published": "2026-09-10T11:48:12+00:00",
     "published_ts": 1789040892,
     "channel_name": "SÖZCÜ TV"
+  },
+  "tFmT6VDDGtY": {
+    "id": "tFmT6VDDGtY",
+    "title": "Rabia Naz dosyasında kritik gelişmeler: Baba Şaban Vatan, Halk TV YouTube'a tek tek anlattı!",
+    "link": "https://www.youtube.com/watch?v=tFmT6VDDGtY",
+    "published": "2026-09-10T11:45:39+00:00",
+    "published_ts": 1789040739,
+    "channel_name": "Halk TV"
+  },
+  "5gCJQKfVAf8": {
+    "id": "5gCJQKfVAf8",
+    "title": "#CANLI rtmp://abone.canliyayin.ankahaber.net/feed2_2/live",
+    "link": "https://www.youtube.com/watch?v=5gCJQKfVAf8",
+    "published": "2026-09-10T11:59:19+00:00",
+    "published_ts": 1789041559,
+    "channel_name": "Tele2 Haber"
   }
 }
