@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 14:50:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 14:55:24 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: #CANLI Damla Doğan Tuncel ile 1 Saat</title>
+      <link>https://www.youtube.com/watch?v=Nf0PLKPH7M4</link>
+      <guid isPermaLink="false">Nf0PLKPH7M4</guid>
+      <pubDate>Thu, 10 Sep 2026 14:54:50 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: #CANLI Damla Doğan Tuncel ile 1 Saat</description>
+    </item>
+    <item>
+      <title>Halk TV: FETÖ firarisi S.D., gizli bölmede yakalandı! 7 yıl 6 ay hapis cezasıyla aranıyordu!</title>
+      <link>https://www.youtube.com/shorts/o5thovcTOIg</link>
+      <guid isPermaLink="false">o5thovcTOIg</guid>
+      <pubDate>Thu, 10 Sep 2026 14:54:23 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: FETÖ firarisi S.D., gizli bölmede yakalandı! 7 yıl 6 ay hapis cezasıyla aranıyordu!</description>
+    </item>
     <item>
       <title>Halk TV: Sarallar'ın Sedat Şahin'e roketatarlı suikast planı engellendi! Ele geçirilen silahlar şoke etti!</title>
       <link>https://www.youtube.com/watch?v=cz-9cZZa-T8</link>
@@ -20,6 +34,13 @@
       <guid isPermaLink="false">FSnHQnlqNs4</guid>
       <pubDate>Thu, 10 Sep 2026 14:40:53 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Küçük çocuğun Özgür Özel’e söylediği sözler yürek ısıttı: Onlar yolun sonunda, biz yolun başındayız!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İsrail'den Türkiye'ye Şok Atama! Soykırım Destekçisi İsme Onay! Barçın Yinanç Şifreleri Çözdü</title>
+      <link>https://www.youtube.com/watch?v=gQ8DxzPIPI0</link>
+      <guid isPermaLink="false">gQ8DxzPIPI0</guid>
+      <pubDate>Thu, 10 Sep 2026 14:40:39 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İsrail'den Türkiye'ye Şok Atama! Soykırım Destekçisi İsme Onay! Barçın Yinanç Şifreleri Çözdü</description>
     </item>
     <item>
       <title>Halk TV: KAYIP MEKTUBU HABER YAPMIŞTI! Kaşif Kozinoğlu soruşturmasında gazeteci Selahattin Günday gözaltında!</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">1vh2-OEQPPE</guid>
       <pubDate>Thu, 10 Sep 2026 12:16:09 +0000</pubDate>
       <description>Halk TV kanalından yeni video: "Biz diyoruz göreve gelirseniz eğer, önde adamı olanları değil, arkada kalanları kayırın"</description>
-    </item>
-    <item>
-      <title>Halk TV: İSTANBUL MALTEPE'DE SİLAHLI ÇATIŞMA! Özel harekat polisleri sevk edildi! Ölü ve yaralılar var!</title>
-      <link>https://www.youtube.com/watch?v=RN7cq2pG4GE</link>
-      <guid isPermaLink="false">RN7cq2pG4GE</guid>
-      <pubDate>Thu, 10 Sep 2026 12:15:00 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İSTANBUL MALTEPE'DE SİLAHLI ÇATIŞMA! Özel harekat polisleri sevk edildi! Ölü ve yaralılar var!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: 286 yıl hapsi istenen Mehmet Akif Ersoy hakim karşısında: Kapalı duruşma kararından geri dönüldü</title>
-      <link>https://www.youtube.com/shorts/PvMTBSiqcHE</link>
-      <guid isPermaLink="false">PvMTBSiqcHE</guid>
-      <pubDate>Thu, 10 Sep 2026 12:12:40 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: 286 yıl hapsi istenen Mehmet Akif Ersoy hakim karşısında: Kapalı duruşma kararından geri dönüldü</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel Ardahan Çamlıçataklı hanımların sofrasını görünce dayanamadı!</title>
-      <link>https://www.youtube.com/shorts/2mP4LvVQRU0</link>
-      <guid isPermaLink="false">2mP4LvVQRU0</guid>
-      <pubDate>Thu, 10 Sep 2026 12:09:15 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel Ardahan Çamlıçataklı hanımların sofrasını görünce dayanamadı!</description>
     </item>
   </channel>
 </rss>
