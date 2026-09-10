@@ -6,21 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 08:00:57 +0000</lastBuildDate>
-    <item>
-      <title>SÖZCÜ TV: İsmail Küçükkaya ile Günaydın Türkiyem | 10 Eylül</title>
-      <link>https://www.youtube.com/watch?v=BzsNjN7D5xA</link>
-      <guid isPermaLink="false">BzsNjN7D5xA</guid>
-      <pubDate>Thu, 10 Sep 2026 08:00:50 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya ile Günaydın Türkiyem | 10 Eylül</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İsmail Saymaz Mansur Yavaş Kulisini Patlattı! Erdoğan Görüşmesinin Perde Arkası! Ankara Alev Alacak</title>
-      <link>https://www.youtube.com/watch?v=RybK7TXm_rI</link>
-      <guid isPermaLink="false">RybK7TXm_rI</guid>
-      <pubDate>Thu, 10 Sep 2026 08:00:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İsmail Saymaz Mansur Yavaş Kulisini Patlattı! Erdoğan Görüşmesinin Perde Arkası! Ankara Alev Alacak</description>
-    </item>
+    <lastBuildDate>Thu, 10 Sep 2026 08:05:33 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: Nuri Aslan, İSKİ Kağıthane-Bahçelievler-Sefaköy İçme Suyu Tüneli açılış töreninde konuşuyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=qDlSBDN3XuY</link>
@@ -218,11 +204,25 @@
       <description>ANKA Haber Ajansı kanalından yeni video: Ezgi Apartmanı'nda yakınlarını kaybedenler Kahramanmaraş Adliyesi önünde açıklama yapıyor #Canlı</description>
     </item>
     <item>
+      <title>SÖZCÜ TV: İsmail Saymaz Mansur Yavaş Kulisini Patlattı! Erdoğan Görüşmesinin Perde Arkası! Ankara Alev Alacak</title>
+      <link>https://www.youtube.com/watch?v=RybK7TXm_rI</link>
+      <guid isPermaLink="false">RybK7TXm_rI</guid>
+      <pubDate>Thu, 10 Sep 2026 05:41:34 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İsmail Saymaz Mansur Yavaş Kulisini Patlattı! Erdoğan Görüşmesinin Perde Arkası! Ankara Alev Alacak</description>
+    </item>
+    <item>
       <title>SÖZCÜ TV: İsmail Küçükkaya ile Günaydın Türkiyem | 10 Eylül | İlk Bölüm</title>
       <link>https://www.youtube.com/watch?v=v_97sML7lFc</link>
       <guid isPermaLink="false">v_97sML7lFc</guid>
       <pubDate>Thu, 10 Sep 2026 05:31:59 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya ile Günaydın Türkiyem | 10 Eylül | İlk Bölüm</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: #CANLI İsmail Küçükkaya ile Günaydın Türkiyem</title>
+      <link>https://www.youtube.com/watch?v=BzsNjN7D5xA</link>
+      <guid isPermaLink="false">BzsNjN7D5xA</guid>
+      <pubDate>Thu, 10 Sep 2026 05:29:27 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: #CANLI İsmail Küçükkaya ile Günaydın Türkiyem</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: CHP'nin 103. Kuruluş Yıldönümü sebebiyle 9 Eylül Resepsiyonu düzenleniyor #Canlı</title>
