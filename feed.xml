@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 07:10:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 07:15:36 +0000</lastBuildDate>
     <item>
       <title>Halk TV: "SAVCI İFADEYİ YAZDI, ÖNÜME KOYDU, BEN DE İMZALADIM!" İBB davasında şok sözler! Her detayı şoke eder</title>
       <link>https://www.youtube.com/watch?v=2EL22jAxv4I</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">zLIh6nR0eLk</guid>
       <pubDate>Thu, 10 Sep 2026 07:00:45 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Deniz Bayramoğlu ile Gün Doğarken | #eşitmiyiz (10 Eylül 2026)</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: CHP'de Mansur Yavaş Bilmecesi! Kılıçdaroğlu'ndan Beklenmedik Sözler! Sözcü'ye Anlattı</title>
+      <link>https://www.youtube.com/watch?v=VKs5v-WRkws</link>
+      <guid isPermaLink="false">VKs5v-WRkws</guid>
+      <pubDate>Thu, 10 Sep 2026 07:00:01 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: CHP'de Mansur Yavaş Bilmecesi! Kılıçdaroğlu'ndan Beklenmedik Sözler! Sözcü'ye Anlattı</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | Ebru Baki ile Para Siyaset | İbrahim Kahveci - Mehmet Tezkan</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">C4Rj75ynPQ4</guid>
       <pubDate>Wed, 09 Sep 2026 21:00:17 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: SEÇER, KARALAR, AKIN! Kılıçdaroğlu'nun Yanında Yer Alan Belediye Başkanları... Gökdemir yorumladı...</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: İzmir'in düşman işgalinden kurtuluşunun 104. yıl dönümü kutlanıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=dQaae28tRgU</link>
-      <guid isPermaLink="false">dQaae28tRgU</guid>
-      <pubDate>Wed, 09 Sep 2026 20:45:29 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: İzmir'in düşman işgalinden kurtuluşunun 104. yıl dönümü kutlanıyor #Canlı</description>
     </item>
   </channel>
 </rss>
