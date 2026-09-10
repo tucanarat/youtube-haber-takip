@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 15:40:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 15:45:30 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Özlem Gürses Mehmet Akif Ersoy'a Ateş Püskürdü! İlk Kez Hakim Karşısına Çıktı! Veyis Ateş Çıkmazı</title>
+      <link>https://www.youtube.com/watch?v=6vSQIwEoGks</link>
+      <guid isPermaLink="false">6vSQIwEoGks</guid>
+      <pubDate>Thu, 10 Sep 2026 15:40:33 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses Mehmet Akif Ersoy'a Ateş Püskürdü! İlk Kez Hakim Karşısına Çıktı! Veyis Ateş Çıkmazı</description>
+    </item>
     <item>
       <title>Cumhuriyet: İmamoğlu ve İBB tutukluları maç izleyemeyecek!</title>
       <link>https://www.youtube.com/shorts/79Hk_4lroto</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">6VxjSR1Uhio</guid>
       <pubDate>Thu, 10 Sep 2026 12:51:18 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Konya'da emekli, Mahmut Tanal'a dert yandı! "Bu düzen de böyle gitmez!"</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Özgür Özel, Ardahan Çamlıçatak'ta yaşlı bir kadının "okuduğu" suyu içti #shorts</title>
-      <link>https://www.youtube.com/shorts/dmlBwjsoN60</link>
-      <guid isPermaLink="false">dmlBwjsoN60</guid>
-      <pubDate>Thu, 10 Sep 2026 12:46:55 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Özgür Özel, Ardahan Çamlıçatak'ta yaşlı bir kadının "okuduğu" suyu içti #shorts</description>
     </item>
   </channel>
 </rss>
