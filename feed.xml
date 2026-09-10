@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 08:55:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 09:00:55 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: Arzu Çerkezoğlu, Çalışma ve Sosyal Güvenlik Bakanlığı önünde açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=2E9DTt8_3yk</link>
       <guid isPermaLink="false">2E9DTt8_3yk</guid>
       <pubDate>Thu, 10 Sep 2026 08:49:49 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Arzu Çerkezoğlu, Çalışma ve Sosyal Güvenlik Bakanlığı önünde açıklama yapıyor #Canlı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Adana’da 3 Gündür Süren Kabus Gibi Orman Yangını! #shorts</title>
+      <link>https://www.youtube.com/shorts/-7WToNrh6tM</link>
+      <guid isPermaLink="false">-7WToNrh6tM</guid>
+      <pubDate>Thu, 10 Sep 2026 08:45:27 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Adana’da 3 Gündür Süren Kabus Gibi Orman Yangını! #shorts</description>
     </item>
     <item>
       <title>Tele2 Haber: CEZAEVİNDE İŞKENCE İDDİALARI | SIRADA İBB Mİ VAR? |Onur Öncü ile Sabah Pusulası</title>
@@ -309,6 +316,13 @@
       <description>SÖZCÜ TV kanalından yeni video: Barış Terkoğlu Bombayı Patlattı! Erdoğan'ın Yavaş Planı! FETÖ'nün MİT Kumpası ve Kozinoğlu Cinayet</description>
     </item>
     <item>
+      <title>SÖZCÜ TV: Murat Ağırel'den Tarihi Uyarı! Ankara'yı Sallayan Mansur Yavaş Kulisi! Beştepe'nin Planı İfşa Oldu</title>
+      <link>https://www.youtube.com/watch?v=-GsP6A6-Fek</link>
+      <guid isPermaLink="false">-GsP6A6-Fek</guid>
+      <pubDate>Thu, 10 Sep 2026 05:47:37 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Murat Ağırel'den Tarihi Uyarı! Ankara'yı Sallayan Mansur Yavaş Kulisi! Beştepe'nin Planı İfşa Oldu</description>
+    </item>
+    <item>
       <title>SÖZCÜ TV: İsmail Küçükkaya ile Günaydın Türkiyem | 10 Eylül | İlk Bölüm</title>
       <link>https://www.youtube.com/watch?v=v_97sML7lFc</link>
       <guid isPermaLink="false">v_97sML7lFc</guid>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">RLf_aR794Lw</guid>
       <pubDate>Thu, 10 Sep 2026 05:22:26 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Senem Toluay Ilgaz ile Öncesi Sonrası Gece - Timur Soykan</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Merve Ekinci ile Uyanma Vakti | 10 Eylül</title>
-      <link>https://www.youtube.com/watch?v=gOzqz_c9QTQ</link>
-      <guid isPermaLink="false">gOzqz_c9QTQ</guid>
-      <pubDate>Thu, 10 Sep 2026 04:57:29 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Merve Ekinci ile Uyanma Vakti | 10 Eylül</description>
-    </item>
-    <item>
-      <title>Halk TV: Süheyla Demir ile Günaydın Türkiye (10 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=kRPTqYprLno</link>
-      <guid isPermaLink="false">kRPTqYprLno</guid>
-      <pubDate>Thu, 10 Sep 2026 04:01:55 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Süheyla Demir ile Günaydın Türkiye (10 Eylül 2026)</description>
     </item>
   </channel>
 </rss>
