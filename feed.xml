@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 21:25:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 21:30:42 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Arzu Çerkezoğlu, Çalışma ve Sosyal Güvenlik Bakanlığı önünde açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=2E9DTt8_3yk</link>
+      <guid isPermaLink="false">2E9DTt8_3yk</guid>
+      <pubDate>Thu, 10 Sep 2026 21:25:41 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Arzu Çerkezoğlu, Çalışma ve Sosyal Güvenlik Bakanlığı önünde açıklama yapıyor #Canlı</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Nuri Aslan, İSKİ Kağıthane-Bahçelievler-Sefaköy İçme Suyu Tüneli açılış töreninde konuşuyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=qDlSBDN3XuY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">UPpqyxF86xM</guid>
       <pubDate>Thu, 10 Sep 2026 17:30:31 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YÜREK DAYANMAZ! Atlas Çağlayan'ın annesi oğlunun mezarı başında konuştu! "Mağdur taraf korunmadı!"</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Özgür Özel, emekli imama 'SERT MUHALEFET' için "KUTUPLAŞMA' yanıtı verdi! Murat Taylan yorumladı...</title>
-      <link>https://www.youtube.com/watch?v=zgpLby6Ehm8</link>
-      <guid isPermaLink="false">zgpLby6Ehm8</guid>
-      <pubDate>Thu, 10 Sep 2026 17:30:13 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Özgür Özel, emekli imama 'SERT MUHALEFET' için "KUTUPLAŞMA' yanıtı verdi! Murat Taylan yorumladı...</description>
     </item>
   </channel>
 </rss>
