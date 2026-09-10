@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 18:40:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 18:45:28 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI Zeynel Lüle ile Ankara Günlüğü | Konuk: Yavuz Selim Demirağ (11.09.26)</title>
+      <link>https://www.youtube.com/watch?v=l_t3aDzv7-0</link>
+      <guid isPermaLink="false">l_t3aDzv7-0</guid>
+      <pubDate>Thu, 10 Sep 2026 18:41:14 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Zeynel Lüle ile Ankara Günlüğü | Konuk: Yavuz Selim Demirağ (11.09.26)</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #CANLI Zeynel Lüle ile Ankara Günlüğü | Konuk: Eski AKP Milletvekili Hüseyin Kocabıyık (11.09.26)</title>
+      <link>https://www.youtube.com/watch?v=BzesNdxUtds</link>
+      <guid isPermaLink="false">BzesNdxUtds</guid>
+      <pubDate>Thu, 10 Sep 2026 18:38:17 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Zeynel Lüle ile Ankara Günlüğü | Konuk: Eski AKP Milletvekili Hüseyin Kocabıyık (11.09.26)</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI Ülkü Çoban ile Manşet Ötesi (11.09.26)</title>
       <link>https://www.youtube.com/watch?v=X3_oFWxEU1Q</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">G4qaT7JEfUA</guid>
       <pubDate>Thu, 10 Sep 2026 15:01:41 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: İBB davasında 79. gün! Gündeme damga vuracak 'şablon ifade' skandalı!</description>
-    </item>
-    <item>
-      <title>Halk TV: FİLİPİNLER AÇIKLARINDA DENİZDE CAN PAZARI! Yolcu feribotundaki yangında 5 kişi hayatını kaybetti!</title>
-      <link>https://www.youtube.com/watch?v=weWwdi2Ylzw</link>
-      <guid isPermaLink="false">weWwdi2Ylzw</guid>
-      <pubDate>Thu, 10 Sep 2026 15:00:20 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: FİLİPİNLER AÇIKLARINDA DENİZDE CAN PAZARI! Yolcu feribotundaki yangında 5 kişi hayatını kaybetti!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Yavaş Erdoğan Görüşmesinin Perde Arkası | İsmail Saymaz, Barış Terkoğlu, Murat Ağırel, Saygı Öztürk</title>
-      <link>https://www.youtube.com/watch?v=pKD8U_ulYRs</link>
-      <guid isPermaLink="false">pKD8U_ulYRs</guid>
-      <pubDate>Thu, 10 Sep 2026 15:00:04 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Yavaş Erdoğan Görüşmesinin Perde Arkası | İsmail Saymaz, Barış Terkoğlu, Murat Ağırel, Saygı Öztürk</description>
     </item>
   </channel>
 </rss>
