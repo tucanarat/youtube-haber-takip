@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 10:20:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 10:25:31 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Suat Özçağdaş, mahkeme salonundan çıkarıldı: Akın Gürlek'ten bir şey beklemiyorum</title>
+      <link>https://www.youtube.com/shorts/slqlHgLGE34</link>
+      <guid isPermaLink="false">slqlHgLGE34</guid>
+      <pubDate>Thu, 10 Sep 2026 10:22:57 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Suat Özçağdaş, mahkeme salonundan çıkarıldı: Akın Gürlek'ten bir şey beklemiyorum</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI Güller, Kalaycıoğlu, Solmaztürk, Solakoğlu ile Türkiye'nin Yönü (03.09.2026)</title>
       <link>https://www.youtube.com/watch?v=hZxO7X7Z3PQ</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">mLORzabwffU</guid>
       <pubDate>Thu, 10 Sep 2026 07:23:47 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Ayşe Tokyaz davasında karar: Cemil Koç’a ağırlaştırılmış müebbet verildi</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: 🔴 ÖĞRETMENLER BAHÇEDEKİ KAMELYAYI YENİ OKULA BÖYLE TAŞIDI</title>
-      <link>https://www.youtube.com/shorts/0wHCktSmN_8</link>
-      <guid isPermaLink="false">0wHCktSmN_8</guid>
-      <pubDate>Thu, 10 Sep 2026 07:19:33 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: 🔴 ÖĞRETMENLER BAHÇEDEKİ KAMELYAYI YENİ OKULA BÖYLE TAŞIDI</description>
     </item>
   </channel>
 </rss>
