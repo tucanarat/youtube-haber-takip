@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 07:20:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 07:25:29 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Ezgi Apartmanı Davası... Üç Çocuğunu Kaybeden Nurgül Göksu: "Çocuklarımın Adaleti Sağlansın!"</title>
+      <link>https://www.youtube.com/shorts/qvl8kM5bf0Y</link>
+      <guid isPermaLink="false">qvl8kM5bf0Y</guid>
+      <pubDate>Thu, 10 Sep 2026 07:10:56 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Ezgi Apartmanı Davası... Üç Çocuğunu Kaybeden Nurgül Göksu: "Çocuklarımın Adaleti Sağlansın!"</description>
+    </item>
     <item>
       <title>Halk TV: "SAVCI İFADEYİ YAZDI, ÖNÜME KOYDU, BEN DE İMZALADIM!" İBB davasında şok sözler! Her detayı şoke eder</title>
       <link>https://www.youtube.com/watch?v=2EL22jAxv4I</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ZiR0EJe0Vwc</guid>
       <pubDate>Wed, 09 Sep 2026 21:00:20 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Barış Terkoğlu'ndan Gündem Olacak Mansur Yavaş Analizi! Beştepe'de Erdoğan İle Beklenmedik Zirve</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: SEÇER, KARALAR, AKIN! Kılıçdaroğlu'nun Yanında Yer Alan Belediye Başkanları... Gökdemir yorumladı...</title>
-      <link>https://www.youtube.com/watch?v=C4Rj75ynPQ4</link>
-      <guid isPermaLink="false">C4Rj75ynPQ4</guid>
-      <pubDate>Wed, 09 Sep 2026 21:00:17 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: SEÇER, KARALAR, AKIN! Kılıçdaroğlu'nun Yanında Yer Alan Belediye Başkanları... Gökdemir yorumladı...</description>
     </item>
   </channel>
 </rss>
