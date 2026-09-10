@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 11:25:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 11:30:44 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: #CANLI İBB Davasında 79. gün! Suat Özçağdaş salondan çıkarıldı!</title>
+      <link>https://www.youtube.com/watch?v=UC2p2JWNRxw</link>
+      <guid isPermaLink="false">UC2p2JWNRxw</guid>
+      <pubDate>Thu, 10 Sep 2026 11:28:49 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI İBB Davasında 79. gün! Suat Özçağdaş salondan çıkarıldı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: SON DAKİKA Merkez Bankası'ndan Yeni Faiz Kararı! Dolar, Euro, Borsa ve Altında Son Durum</title>
       <link>https://www.youtube.com/watch?v=Tg-qYN_wtWk</link>
@@ -27,6 +34,13 @@
       <guid isPermaLink="false">CIz7effv3B0</guid>
       <pubDate>Thu, 10 Sep 2026 11:19:24 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | Aile Dayanışma Ağı, 44. buluşmasını Silivri’de gerçekleştiriyor</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #CANLI Aile Dayanışma Ağı, 44. buluşmasını Silivri’de gerçekleştiriyor</title>
+      <link>https://www.youtube.com/watch?v=GScV0jffjAw</link>
+      <guid isPermaLink="false">GScV0jffjAw</guid>
+      <pubDate>Thu, 10 Sep 2026 11:19:16 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Aile Dayanışma Ağı, 44. buluşmasını Silivri’de gerçekleştiriyor</description>
     </item>
     <item>
       <title>Halk TV: SON DAKİKA! Piyasalar nefesini tutmuştu! Merkez Bankası merakla beklenen faiz kararını açıkladı!</title>
@@ -232,13 +246,6 @@
       <description>ANKA Haber Ajansı kanalından yeni video: Aile Dayanışma Ağı, 44. buluşmasını Silivri’de gerçekleştiriyor #Canlı</description>
     </item>
     <item>
-      <title>Cumhuriyet: #CANLI İBB Davasında 79. gün! Suat Özçağdaş salondan çıkarıldı!</title>
-      <link>https://www.youtube.com/watch?v=UC2p2JWNRxw</link>
-      <guid isPermaLink="false">UC2p2JWNRxw</guid>
-      <pubDate>Thu, 10 Sep 2026 09:38:34 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI İBB Davasında 79. gün! Suat Özçağdaş salondan çıkarıldı!</description>
-    </item>
-    <item>
       <title>Cumhuriyet: #CANLI YENİ Parti Grup Başkanvekili Gökhan Günaydın’dan Meclis’te flaş açıklamalar</title>
       <link>https://www.youtube.com/watch?v=9QR91ZXThgg</link>
       <guid isPermaLink="false">9QR91ZXThgg</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">U1CVxymLdAE</guid>
       <pubDate>Thu, 10 Sep 2026 08:33:20 +0000</pubDate>
       <description>Halk TV kanalından yeni video: TAŞ ÜSTÜNDE TAŞ KALMAYACAK! Mansur Yavaş'tan Erdoğan görüşmesi sonrası ilk sözler! Her şeyi anlattı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Erdoğan'dan Mansur Yavaş'a Teklif mi Geldi? İsmail Küçükkaya'dan Bomba Analiz!</title>
-      <link>https://www.youtube.com/watch?v=ZJbzj5Vp1Hw</link>
-      <guid isPermaLink="false">ZJbzj5Vp1Hw</guid>
-      <pubDate>Thu, 10 Sep 2026 08:30:31 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Erdoğan'dan Mansur Yavaş'a Teklif mi Geldi? İsmail Küçükkaya'dan Bomba Analiz!</description>
     </item>
   </channel>
 </rss>
