@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 11:50:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 11:55:26 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Senem Toluay Ilgaz ile Öncesi Sonrası Gece - Özgür Çelik</title>
+      <link>https://www.youtube.com/watch?v=n8MyzUcltM0</link>
+      <guid isPermaLink="false">n8MyzUcltM0</guid>
+      <pubDate>Thu, 10 Sep 2026 11:48:12 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Senem Toluay Ilgaz ile Öncesi Sonrası Gece - Özgür Çelik</description>
+    </item>
     <item>
       <title>Halk TV: Mazotta KDV yükü artıyor! Gökhan Günaydın rakamları tek tek açıkladı</title>
       <link>https://www.youtube.com/shorts/JCZUPfqV1B0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">NQSKE-kYcuk</guid>
       <pubDate>Thu, 10 Sep 2026 09:15:23 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Daron Acemoğlu Acı Reçeteyi Sundu! Ekonomik Krizin Aşılması Türkiye'de Çok Zor!" #shorts</description>
-    </item>
-    <item>
-      <title>Halk TV: İBB Başkan Vekili Nuri Aslan Açıklamalarda Bulundu (10 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=oi4Zn4y9DGo</link>
-      <guid isPermaLink="false">oi4Zn4y9DGo</guid>
-      <pubDate>Thu, 10 Sep 2026 09:03:41 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İBB Başkan Vekili Nuri Aslan Açıklamalarda Bulundu (10 Eylül 2026)</description>
     </item>
   </channel>
 </rss>
