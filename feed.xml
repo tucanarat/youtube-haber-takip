@@ -6,13 +6,34 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 10:35:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 10:40:33 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Faik Bey Caddesi'nde esnafı ziyaret ediyor</title>
+      <link>https://www.youtube.com/watch?v=YsrBWWvxt-U</link>
+      <guid isPermaLink="false">YsrBWWvxt-U</guid>
+      <pubDate>Fri, 11 Sep 2026 10:35:48 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Faik Bey Caddesi'nde esnafı ziyaret ediyor</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Ekrem İmamoğlu'nun avukatı Kemal Polat Silivri'de açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=39wfUypKyfw</link>
       <guid isPermaLink="false">39wfUypKyfw</guid>
       <pubDate>Fri, 11 Sep 2026 10:31:20 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Ekrem İmamoğlu'nun avukatı Kemal Polat Silivri'de açıklama yapıyor #Canlı</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #SonDakika EKREM İMAMOĞLU'NA HAPİS CEZASI ve SİYASİ YASAK KARARI VERİLDİ</title>
+      <link>https://www.youtube.com/watch?v=lWQjfEBmyAE</link>
+      <guid isPermaLink="false">lWQjfEBmyAE</guid>
+      <pubDate>Fri, 11 Sep 2026 10:31:18 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #SonDakika EKREM İMAMOĞLU'NA HAPİS CEZASI ve SİYASİ YASAK KARARI VERİLDİ</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #CANL IEkrem İmamoğlu'nun avukatı Kemal Polat Silivri'de açıklama yapıyor</title>
+      <link>https://www.youtube.com/watch?v=ZCVgCjqGc-U</link>
+      <guid isPermaLink="false">ZCVgCjqGc-U</guid>
+      <pubDate>Fri, 11 Sep 2026 10:31:09 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANL IEkrem İmamoğlu'nun avukatı Kemal Polat Silivri'de açıklama yapıyor</description>
     </item>
     <item>
       <title>Tele2 Haber: Kars'ta Özgür Özel İzdihamı! "Biz Düşelim Sen Düşme!"</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">vTyEqe3iohw</guid>
       <pubDate>Fri, 11 Sep 2026 07:55:28 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SUUDİLERİ FELÇ EDECEK SALDIRI! İran'ın desteklediği Husiler, petrol tesislerini böyle havaya uçurdu!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: İmamoğlu’na açılan hakaret davasında ikinci duruşma: Dilek İmamoğlu Silivri’de</title>
-      <link>https://www.youtube.com/shorts/IjiNs11HnRg</link>
-      <guid isPermaLink="false">IjiNs11HnRg</guid>
-      <pubDate>Fri, 11 Sep 2026 07:53:12 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: İmamoğlu’na açılan hakaret davasında ikinci duruşma: Dilek İmamoğlu Silivri’de</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Edirne’de ayçiçeğinde bereket yılı: Kurak geçen 2 yılın ardından çiftçinin yüzü güldü</title>
-      <link>https://www.youtube.com/shorts/aiRyPTTVyFk</link>
-      <guid isPermaLink="false">aiRyPTTVyFk</guid>
-      <pubDate>Fri, 11 Sep 2026 07:50:35 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Edirne’de ayçiçeğinde bereket yılı: Kurak geçen 2 yılın ardından çiftçinin yüzü güldü</description>
-    </item>
-    <item>
-      <title>Halk TV: “Bu 50 dedi, bu 60, 55’e anlaşın”</title>
-      <link>https://www.youtube.com/shorts/bcy9nh37ZLQ</link>
-      <guid isPermaLink="false">bcy9nh37ZLQ</guid>
-      <pubDate>Fri, 11 Sep 2026 07:49:26 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: “Bu 50 dedi, bu 60, 55’e anlaşın”</description>
     </item>
   </channel>
 </rss>
