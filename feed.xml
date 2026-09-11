@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 15:01:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 15:05:29 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Müsavat Dervişoğlu'ndan Bomba İddia! MİT Başkanı İle Ne Konuştu? "Öcalan'a Yeni Ev Yapıldı!"</title>
+      <link>https://www.youtube.com/watch?v=QlOGCOPFXjo</link>
+      <guid isPermaLink="false">QlOGCOPFXjo</guid>
+      <pubDate>Fri, 11 Sep 2026 15:00:29 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Müsavat Dervişoğlu'ndan Bomba İddia! MİT Başkanı İle Ne Konuştu? "Öcalan'a Yeni Ev Yapıldı!"</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Melih Gökçek 'Sadece Emekli Maaşım Var' demişti! Yavuz Selim Demirbağ'dan çok kritik yorum...</title>
+      <link>https://www.youtube.com/watch?v=_Tfghp7chhE</link>
+      <guid isPermaLink="false">_Tfghp7chhE</guid>
+      <pubDate>Fri, 11 Sep 2026 15:00:29 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Melih Gökçek 'Sadece Emekli Maaşım Var' demişti! Yavuz Selim Demirbağ'dan çok kritik yorum...</description>
+    </item>
     <item>
       <title>Halk TV: Gizem Çetin ile Parantez (11 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=HZH9cjEILq4</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">1yQT5riAiWY</guid>
       <pubDate>Fri, 11 Sep 2026 11:45:21 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Bahçeli'nin Danışmanı Mansur Yavaş'ı Yazdı... "AKP'ye Geçerse Kimse Şok Geçirmesin!"</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel Cumhurbaşkanı Erdoğan’a seslendi: Milletin umudu olan seçim atlatılmaz!</title>
-      <link>https://www.youtube.com/shorts/i8dRcMYlZiE</link>
-      <guid isPermaLink="false">i8dRcMYlZiE</guid>
-      <pubDate>Fri, 11 Sep 2026 11:45:05 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel Cumhurbaşkanı Erdoğan’a seslendi: Milletin umudu olan seçim atlatılmaz!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: İki ilçeyi bağlayan köprüde korkutan manzara: Tabliyeler arasında 20 santimlik açıklık oluştu</title>
-      <link>https://www.youtube.com/shorts/0p9RfFRQb1I</link>
-      <guid isPermaLink="false">0p9RfFRQb1I</guid>
-      <pubDate>Fri, 11 Sep 2026 11:42:36 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: İki ilçeyi bağlayan köprüde korkutan manzara: Tabliyeler arasında 20 santimlik açıklık oluştu</description>
     </item>
   </channel>
 </rss>
