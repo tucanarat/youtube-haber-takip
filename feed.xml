@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 13:40:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 13:45:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: İSYANINI DUYAN TARIM BAKANI ARKASINA BAKMADAN KAÇMIŞTI! O ismin dertleri Özgür Özel'e sel oldu aktı!</title>
+      <link>https://www.youtube.com/watch?v=e1uWC93xZbQ</link>
+      <guid isPermaLink="false">e1uWC93xZbQ</guid>
+      <pubDate>Fri, 11 Sep 2026 13:40:09 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İSYANINI DUYAN TARIM BAKANI ARKASINA BAKMADAN KAÇMIŞTI! O ismin dertleri Özgür Özel'e sel oldu aktı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: "VEYİS ATEŞ BANA İFTİRA ATTI!" Mehmet Akif Ersoy'dan Mahkemede Olay Sözler! İtiraflar Peş Peşe Geldi</title>
       <link>https://www.youtube.com/watch?v=zLjRBdudoq0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">lWQjfEBmyAE</guid>
       <pubDate>Fri, 11 Sep 2026 10:31:18 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #SonDakika EKREM İMAMOĞLU'NA HAPİS CEZASI ve SİYASİ YASAK KARARI VERİLDİ</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI IEkrem İmamoğlu'nun avukatı Kemal Polat Silivri'de açıklama yapıyor</title>
-      <link>https://www.youtube.com/watch?v=ZCVgCjqGc-U</link>
-      <guid isPermaLink="false">ZCVgCjqGc-U</guid>
-      <pubDate>Fri, 11 Sep 2026 10:31:09 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI IEkrem İmamoğlu'nun avukatı Kemal Polat Silivri'de açıklama yapıyor</description>
     </item>
   </channel>
 </rss>
