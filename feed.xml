@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 02:45:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 02:50:28 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: #CANLI Özgür Özel'e Ardahan'da yoğun ilgi... Esnaf ziyaretinde adım atamadı...</title>
+      <link>https://www.youtube.com/watch?v=hiPG47Wqq8w</link>
+      <guid isPermaLink="false">hiPG47Wqq8w</guid>
+      <pubDate>Fri, 11 Sep 2026 02:27:28 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI Özgür Özel'e Ardahan'da yoğun ilgi... Esnaf ziyaretinde adım atamadı...</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Kongre Caddesi'nde esnafı ziyaret ediyor</title>
       <link>https://www.youtube.com/watch?v=ai_JKNUh0YU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">NyWA7qTYEEU</guid>
       <pubDate>Thu, 10 Sep 2026 19:52:21 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: KESK, 2027-2029 OVP ile köprü ve otoyol özelleştirmelerine ilişkin açıklama yapıyor/ Ankara #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: Memleketi Güneysu’da konuştu: Erdoğan’dan çok çarpıcı ‘seçim’ mesajı geldi!</title>
-      <link>https://www.youtube.com/watch?v=OVS5KFjnKzk</link>
-      <guid isPermaLink="false">OVS5KFjnKzk</guid>
-      <pubDate>Thu, 10 Sep 2026 19:43:18 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Memleketi Güneysu’da konuştu: Erdoğan’dan çok çarpıcı ‘seçim’ mesajı geldi!</description>
     </item>
   </channel>
 </rss>
