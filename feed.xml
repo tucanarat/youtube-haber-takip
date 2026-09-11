@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 08:25:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 08:30:50 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ÜMİT ÖZDAĞ'DAN SARSICI ÇIKIŞ! Süreç için 'gizli pazarlık' iddiası Ankara'da dengeleri altüst edecek!</title>
+      <link>https://www.youtube.com/watch?v=VvsqY_ihqzw</link>
+      <guid isPermaLink="false">VvsqY_ihqzw</guid>
+      <pubDate>Fri, 11 Sep 2026 08:25:14 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ÜMİT ÖZDAĞ'DAN SARSICI ÇIKIŞ! Süreç için 'gizli pazarlık' iddiası Ankara'da dengeleri altüst edecek!</description>
+    </item>
     <item>
       <title>Halk TV: Melih Gökçek'in İfadesi Ortaya Çıktı: Gelin Gökçek, Alman Yıldızın AVM'sini Almak İstemiş!</title>
       <link>https://www.youtube.com/watch?v=d5VbRruwIdA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">_xp2uaHrdHk</guid>
       <pubDate>Fri, 11 Sep 2026 06:30:27 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İran'ın Yeraltındaki Gizli Füze Üssü! Netanyahu ve Trump'ı Korkutan İddia! Mücteba Düğmeye Bastı</description>
-    </item>
-    <item>
-      <title>Halk TV: TÜRK FUTBOLUNDA TARİHİ İMZA! Turgutluspor'un yeni teknik direktörü 22 yaşındaki Zeynep Mestan oldu!</title>
-      <link>https://www.youtube.com/watch?v=_2N50qGR4ZI</link>
-      <guid isPermaLink="false">_2N50qGR4ZI</guid>
-      <pubDate>Fri, 11 Sep 2026 06:17:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: TÜRK FUTBOLUNDA TARİHİ İMZA! Turgutluspor'un yeni teknik direktörü 22 yaşındaki Zeynep Mestan oldu!</description>
     </item>
   </channel>
 </rss>
