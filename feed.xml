@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 07:20:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 07:25:27 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Okul alışverişinde zorlanan veliler dertli: Okul masrafı 10 bin lirayı geçiyor</title>
+      <link>https://www.youtube.com/watch?v=A8rHUsKrL3M</link>
+      <guid isPermaLink="false">A8rHUsKrL3M</guid>
+      <pubDate>Fri, 11 Sep 2026 07:24:46 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Okul alışverişinde zorlanan veliler dertli: Okul masrafı 10 bin lirayı geçiyor</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Kentsel dönüşüm yıkımında büyük sürpriz: Avcılar’da binanın duvarından 25 kilo bal çıktı</title>
+      <link>https://www.youtube.com/shorts/SZDNQllTKMk</link>
+      <guid isPermaLink="false">SZDNQllTKMk</guid>
+      <pubDate>Fri, 11 Sep 2026 07:22:58 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Kentsel dönüşüm yıkımında büyük sürpriz: Avcılar’da binanın duvarından 25 kilo bal çıktı</description>
+    </item>
     <item>
       <title>Cumhuriyet: Özgür Çelik ifade vermek üzere Çağlayan Adliyesi’ne geldi</title>
       <link>https://www.youtube.com/shorts/hFCfSpFI0Zo</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">il8polIYeiA</guid>
       <pubDate>Thu, 10 Sep 2026 21:40:38 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Mansur Yavaş Erdoğan Zirvesinin Şifreleri! "Denge Siyaseti" Hamlesi! CHP Teyakkuzda</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! Uyuşturucu baronu İslam Yakut İstanbul'da yakalandı!</title>
-      <link>https://www.youtube.com/watch?v=BBXjCjp4R3s</link>
-      <guid isPermaLink="false">BBXjCjp4R3s</guid>
-      <pubDate>Thu, 10 Sep 2026 21:31:13 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! Uyuşturucu baronu İslam Yakut İstanbul'da yakalandı!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "SİLİVRİ'DE ÇAY YASAĞI DA GELDİ!" Engin Solmaztürk'ten çok kritik yargılama süreci yorumu...</title>
-      <link>https://www.youtube.com/watch?v=IuIqvF0xoVY</link>
-      <guid isPermaLink="false">IuIqvF0xoVY</guid>
-      <pubDate>Thu, 10 Sep 2026 21:30:32 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "SİLİVRİ'DE ÇAY YASAĞI DA GELDİ!" Engin Solmaztürk'ten çok kritik yargılama süreci yorumu...</description>
     </item>
   </channel>
 </rss>
