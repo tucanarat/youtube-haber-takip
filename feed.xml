@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 19:55:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 20:00:50 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Serap Belovacıklı ile Aklın Yolu | 11 Eylül</title>
+      <link>https://www.youtube.com/watch?v=gqBkPpECABQ</link>
+      <guid isPermaLink="false">gqBkPpECABQ</guid>
+      <pubDate>Fri, 11 Sep 2026 19:59:43 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Serap Belovacıklı ile Aklın Yolu | 11 Eylül</description>
+    </item>
+    <item>
+      <title>Halk TV: Saniye Bora Fıçı, Foça'da nasıl sokağa çıkacak? Ayşen Şahin: Ekranda gülmek kadar kolay olmayacak!</title>
+      <link>https://www.youtube.com/watch?v=XKHn8fDphIo</link>
+      <guid isPermaLink="false">XKHn8fDphIo</guid>
+      <pubDate>Fri, 11 Sep 2026 19:45:01 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Saniye Bora Fıçı, Foça'da nasıl sokağa çıkacak? Ayşen Şahin: Ekranda gülmek kadar kolay olmayacak!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: 50 BİN KİŞİNİN KATİLİNE SARAYCIK! Turhan Çömez Canlı Yayında Açtı Ağzını Yumdu Gözünü</title>
       <link>https://www.youtube.com/watch?v=wfaaXbRWNjU</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">6XTWejEENUQ</guid>
       <pubDate>Fri, 11 Sep 2026 14:41:48 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Cumhurbaşkanı Erdoğan, AK Parti Rize Genişletilmiş İl Danışma Meclis Toplantısı’nda konuşuyor #Canlı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: AKP Seçime Girmeden Belediye Kazandı! İsmail Küçükkaya'dan İktidara Zehir Zemberek Sözler</title>
-      <link>https://www.youtube.com/watch?v=mXnsnETxN5M</link>
-      <guid isPermaLink="false">mXnsnETxN5M</guid>
-      <pubDate>Fri, 11 Sep 2026 14:40:37 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: AKP Seçime Girmeden Belediye Kazandı! İsmail Küçükkaya'dan İktidara Zehir Zemberek Sözler</description>
-    </item>
-    <item>
-      <title>Halk TV: İMAMOĞLU ARTIK SİYASİ YASAKLI! Mahkemenin kararı sonrası çılgına döndü, salondan zor çıkarıldı!</title>
-      <link>https://www.youtube.com/watch?v=3k7fj1voahE</link>
-      <guid isPermaLink="false">3k7fj1voahE</guid>
-      <pubDate>Fri, 11 Sep 2026 14:40:12 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İMAMOĞLU ARTIK SİYASİ YASAKLI! Mahkemenin kararı sonrası çılgına döndü, salondan zor çıkarıldı!</description>
     </item>
   </channel>
 </rss>
