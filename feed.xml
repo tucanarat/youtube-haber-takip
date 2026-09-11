@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 16:35:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 16:40:31 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: İmamoğlu'nun yargılandığı 'TUZLA DAVASI'nda karar! Murat Taylan yorumladı...</title>
+      <link>https://www.youtube.com/watch?v=tjsI_C5c50I</link>
+      <guid isPermaLink="false">tjsI_C5c50I</guid>
+      <pubDate>Fri, 11 Sep 2026 16:30:31 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: İmamoğlu'nun yargılandığı 'TUZLA DAVASI'nda karar! Murat Taylan yorumladı...</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Bilge Yurtdagülen ile Söz Sende</title>
       <link>https://www.youtube.com/watch?v=xCKql07DTNs</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">I9LHdkgMVL8</guid>
       <pubDate>Fri, 11 Sep 2026 13:07:08 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Batan gemide kaybolan Mehmet’in kardeşi Ahmet Bayhan: Kaptan, ‘su alıyor’ uyarılarını dinlememiş!</description>
-    </item>
-    <item>
-      <title>Halk TV: İrem Sansak ile Haber Masası (11 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=c8BkMjIPF8k</link>
-      <guid isPermaLink="false">c8BkMjIPF8k</guid>
-      <pubDate>Fri, 11 Sep 2026 13:03:25 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İrem Sansak ile Haber Masası (11 Eylül 2026)</description>
     </item>
   </channel>
 </rss>
