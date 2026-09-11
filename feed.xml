@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 12:10:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 12:15:40 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ANKARA BU GÜNDEMLE ISINIYOR! Özgür Özel'den Erdoğan'ın 'seçim' sözlerini pişman edecek çıkış!</title>
+      <link>https://www.youtube.com/watch?v=5f-eKTnTtJ8</link>
+      <guid isPermaLink="false">5f-eKTnTtJ8</guid>
+      <pubDate>Fri, 11 Sep 2026 12:10:01 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ANKARA BU GÜNDEMLE ISINIYOR! Özgür Özel'den Erdoğan'ın 'seçim' sözlerini pişman edecek çıkış!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İsmail Küçükkaya'dan Bomba Erdoğan - Mansur Yavaş Görüşmesi Yorumu! O Soru Ankara'yı Salladı</title>
       <link>https://www.youtube.com/watch?v=rajC1Jlr0fI</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">uc_gq1mAFVc</guid>
       <pubDate>Fri, 11 Sep 2026 09:30:19 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: ERDOĞAN-YAVAŞ GÖRÜŞMESİNİN PERDE ARKASI! Müsavat Dervişoğlu İlk Kez İsmail Küçükkaya'ya Anlattı</description>
-    </item>
-    <item>
-      <title>Halk TV: BAHÇELİ BUNLARI SÖYLEMİŞ! Ahmet Özer görüşmenin detaylarını anlattı! Meğer neler konuşulmuş neler!</title>
-      <link>https://www.youtube.com/watch?v=TSTnDQxpGYQ</link>
-      <guid isPermaLink="false">TSTnDQxpGYQ</guid>
-      <pubDate>Fri, 11 Sep 2026 09:21:00 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BAHÇELİ BUNLARI SÖYLEMİŞ! Ahmet Özer görüşmenin detaylarını anlattı! Meğer neler konuşulmuş neler!</description>
     </item>
   </channel>
 </rss>
