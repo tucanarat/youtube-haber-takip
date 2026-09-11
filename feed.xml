@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 22:10:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 22:15:30 +0000</lastBuildDate>
     <item>
-      <title>Halk TV: Bilge Yurtdagülen ile Söz Sende (11 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=xCKql07DTNs</link>
-      <guid isPermaLink="false">xCKql07DTNs</guid>
-      <pubDate>Fri, 11 Sep 2026 22:04:49 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Bilge Yurtdagülen ile Söz Sende (11 Eylül 2026)</description>
+      <title>SÖZCÜ TV: HUSİLERDEN TARİHİ DARBE! Dünya Ticaretinin Şah Damarını Kestiler! Nevzat Çiçek'ten Dinleyin</title>
+      <link>https://www.youtube.com/watch?v=23TYOWGPIGo</link>
+      <guid isPermaLink="false">23TYOWGPIGo</guid>
+      <pubDate>Fri, 11 Sep 2026 22:10:34 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: HUSİLERDEN TARİHİ DARBE! Dünya Ticaretinin Şah Damarını Kestiler! Nevzat Çiçek'ten Dinleyin</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Pınar Erbaş ile Gecenin Sözü | 11 Eylül</title>
+      <link>https://www.youtube.com/watch?v=E9V9SZjohe0</link>
+      <guid isPermaLink="false">E9V9SZjohe0</guid>
+      <pubDate>Fri, 11 Sep 2026 22:05:25 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Pınar Erbaş ile Gecenin Sözü | 11 Eylül</description>
     </item>
     <item>
       <title>Tele2 Haber: ERDOĞAN PARKEYE ÇIKTI BASKETBOL OYNADI! MURAT TAYLAN'DAN GÜLÜMSETEN BENZETME...</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">N5o4v4yvDyw</guid>
       <pubDate>Fri, 11 Sep 2026 16:40:01 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Kaşif Kozinoğlu'nun Sır Ölümü Aydınlanıyor! Hasan Atilla Uğur'dan Yıllar Sonra Gelen İtiraf!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: İmamoğlu'nun yargılandığı 'TUZLA DAVASI'nda karar! Murat Taylan yorumladı...</title>
-      <link>https://www.youtube.com/watch?v=tjsI_C5c50I</link>
-      <guid isPermaLink="false">tjsI_C5c50I</guid>
-      <pubDate>Fri, 11 Sep 2026 16:30:31 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: İmamoğlu'nun yargılandığı 'TUZLA DAVASI'nda karar! Murat Taylan yorumladı...</description>
     </item>
   </channel>
 </rss>
