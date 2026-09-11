@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 13:55:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 14:00:58 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ÖZGÜR ÖZEL ADIM ATAMADI! Vatandaş etrafını sardı, coşku sokaklara sığmadı! Kars'ta izdiham yaşandı!</title>
+      <link>https://www.youtube.com/watch?v=bwl7FjOAEv4</link>
+      <guid isPermaLink="false">bwl7FjOAEv4</guid>
+      <pubDate>Fri, 11 Sep 2026 13:55:00 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ÖZGÜR ÖZEL ADIM ATAMADI! Vatandaş etrafını sardı, coşku sokaklara sığmadı! Kars'ta izdiham yaşandı!</description>
+    </item>
+    <item>
+      <title>Halk TV: Özgür Özel'i şaşırtan anlar! Yurttaş mikrofonuyla yaklaşınca öyle bir tepki verdi ki!</title>
+      <link>https://www.youtube.com/shorts/iGlbyFdTq9o</link>
+      <guid isPermaLink="false">iGlbyFdTq9o</guid>
+      <pubDate>Fri, 11 Sep 2026 13:54:38 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Özgür Özel'i şaşırtan anlar! Yurttaş mikrofonuyla yaklaşınca öyle bir tepki verdi ki!</description>
+    </item>
     <item>
       <title>Cumhuriyet: Sarıyer’de korku dolu anlar: Seyir halindeki otomobil motor kısmından alev alev yandı</title>
       <link>https://www.youtube.com/shorts/jDcyNcLxeeo</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">2nZi9t75UMM</guid>
       <pubDate>Fri, 11 Sep 2026 10:35:51 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SON DAKİKA! YARGI TARİHİNDE İLK! İmamoğlu, daha önce 2 kez beraat ettiği davadan hapis cezası aldı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Ekrem İmamoğlu'nun Cezası Belli Oldu! 'Hakaret' Davasından Karar Çıktı!</title>
-      <link>https://www.youtube.com/watch?v=7d1f0qk0CEo</link>
-      <guid isPermaLink="false">7d1f0qk0CEo</guid>
-      <pubDate>Fri, 11 Sep 2026 10:31:47 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Ekrem İmamoğlu'nun Cezası Belli Oldu! 'Hakaret' Davasından Karar Çıktı!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Ekrem İmamoğlu'nun avukatı Kemal Polat Silivri'de açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=39wfUypKyfw</link>
-      <guid isPermaLink="false">39wfUypKyfw</guid>
-      <pubDate>Fri, 11 Sep 2026 10:31:20 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Ekrem İmamoğlu'nun avukatı Kemal Polat Silivri'de açıklama yapıyor #Canlı</description>
     </item>
   </channel>
 </rss>
