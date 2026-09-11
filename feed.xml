@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 08:45:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 08:51:07 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: #CANLI Özgür Çelik, İstanbul Adliyesi önünde açıklama yapıyor</title>
+      <link>https://www.youtube.com/watch?v=lEtCBG9rgTM</link>
+      <guid isPermaLink="false">lEtCBG9rgTM</guid>
+      <pubDate>Fri, 11 Sep 2026 08:47:09 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI Özgür Çelik, İstanbul Adliyesi önünde açıklama yapıyor</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti İstanbul İl Başkanı Özgür Çelik, İstanbul Adliyesi önünde açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=yhzE4mj3Rf8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">x0K5DhxYbqI</guid>
       <pubDate>Fri, 11 Sep 2026 06:39:29 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Bahçelievler'de CHP’li 3 meclis üyesi AKP'ye geçti!</description>
-    </item>
-    <item>
-      <title>Halk TV: Kayıp yakını sinir krizi geçirdi! Ezgi Apartmanı davasında tepki çeken karar</title>
-      <link>https://www.youtube.com/shorts/BXxDps8KZC8</link>
-      <guid isPermaLink="false">BXxDps8KZC8</guid>
-      <pubDate>Fri, 11 Sep 2026 06:38:51 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Kayıp yakını sinir krizi geçirdi! Ezgi Apartmanı davasında tepki çeken karar</description>
     </item>
   </channel>
 </rss>
