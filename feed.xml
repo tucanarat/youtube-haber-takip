@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 22:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 22:20:31 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: HUSİLERDEN TARİHİ DARBE! Dünya Ticaretinin Şah Damarını Kestiler! Nevzat Çiçek'ten Dinleyin</title>
       <link>https://www.youtube.com/watch?v=23TYOWGPIGo</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">E9V9SZjohe0</guid>
       <pubDate>Fri, 11 Sep 2026 22:05:25 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Pınar Erbaş ile Gecenin Sözü | 11 Eylül</description>
+    </item>
+    <item>
+      <title>Halk TV: Bilge Yurtdagülen ile Söz Sende (11 Eylül 2026)</title>
+      <link>https://www.youtube.com/watch?v=xCKql07DTNs</link>
+      <guid isPermaLink="false">xCKql07DTNs</guid>
+      <pubDate>Fri, 11 Sep 2026 22:04:49 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Bilge Yurtdagülen ile Söz Sende (11 Eylül 2026)</description>
     </item>
     <item>
       <title>Tele2 Haber: ERDOĞAN PARKEYE ÇIKTI BASKETBOL OYNADI! MURAT TAYLAN'DAN GÜLÜMSETEN BENZETME...</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">5cwdaPSNIkw</guid>
       <pubDate>Fri, 11 Sep 2026 16:53:21 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses ile Sözcü Ana Haber 11 Eylül</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Kaşif Kozinoğlu'nun Sır Ölümü Aydınlanıyor! Hasan Atilla Uğur'dan Yıllar Sonra Gelen İtiraf!</title>
-      <link>https://www.youtube.com/watch?v=N5o4v4yvDyw</link>
-      <guid isPermaLink="false">N5o4v4yvDyw</guid>
-      <pubDate>Fri, 11 Sep 2026 16:40:01 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Kaşif Kozinoğlu'nun Sır Ölümü Aydınlanıyor! Hasan Atilla Uğur'dan Yıllar Sonra Gelen İtiraf!</description>
     </item>
   </channel>
 </rss>
