@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 07:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 07:45:32 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: "Bir daha asla dönmemek kaydıyla...": İsmail Kartal’dan olay yaratan istifa kararı</title>
+      <link>https://www.youtube.com/shorts/pQFlvm09O7c</link>
+      <guid isPermaLink="false">pQFlvm09O7c</guid>
+      <pubDate>Fri, 11 Sep 2026 07:42:11 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: "Bir daha asla dönmemek kaydıyla...": İsmail Kartal’dan olay yaratan istifa kararı</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Esnaf müşteri bulamıyor veli bütçeyi yetiştiremiyor: Okul masrafı 10 bini aştı</title>
+      <link>https://www.youtube.com/shorts/L4T0KbUIk9A</link>
+      <guid isPermaLink="false">L4T0KbUIk9A</guid>
+      <pubDate>Fri, 11 Sep 2026 07:40:04 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Esnaf müşteri bulamıyor veli bütçeyi yetiştiremiyor: Okul masrafı 10 bini aştı</description>
+    </item>
     <item>
       <title>Cumhuriyet: Ezgi Apartmanı davasında yakınlarını kaybedenlerden karara tepki</title>
       <link>https://www.youtube.com/watch?v=ouoDy663iAY</link>
@@ -34,6 +48,13 @@
       <guid isPermaLink="false">UllEk0XLN1I</guid>
       <pubDate>Fri, 11 Sep 2026 07:31:13 +0000</pubDate>
       <description>Halk TV kanalından yeni video: AKP'li Dündar Ziya Gültekin, Üsküdar'da seçim kazanmış gibi 'sahaya' indi!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Müsavat Dervişoğlu'ndan Bomba Mansur Yavaş Açıklaması! Adaylığını Destekleyecekler mi?</title>
+      <link>https://www.youtube.com/watch?v=lLZL5-oUCrY</link>
+      <guid isPermaLink="false">lLZL5-oUCrY</guid>
+      <pubDate>Fri, 11 Sep 2026 07:30:11 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Müsavat Dervişoğlu'ndan Bomba Mansur Yavaş Açıklaması! Adaylığını Destekleyecekler mi?</description>
     </item>
     <item>
       <title>Tele2 Haber: Bu Kadarına Pes! AKP Seçime Girmeden Foça'yı Aldı... "Hangi Yüzle Foça'ya Geleceksin!"</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">ivnPi2W2cBM</guid>
       <pubDate>Thu, 10 Sep 2026 22:26:01 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Ezgi Apartmanı davası sonrası aileler ve avukatlar açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Gizli Faiz İndirimi mi Geliyor? Dolar, Enflasyon ve Kredileri Ne Bekliyor? AKP'nin Planı İfşa Oldu</title>
-      <link>https://www.youtube.com/watch?v=2fVYmYgixbc</link>
-      <guid isPermaLink="false">2fVYmYgixbc</guid>
-      <pubDate>Thu, 10 Sep 2026 22:20:11 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Gizli Faiz İndirimi mi Geliyor? Dolar, Enflasyon ve Kredileri Ne Bekliyor? AKP'nin Planı İfşa Oldu</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: #CANLI YENİ Parti Grup Başkanvekili Gökhan Günaydın’dan Meclis’te flaş açıklamalar</title>
-      <link>https://www.youtube.com/watch?v=9QR91ZXThgg</link>
-      <guid isPermaLink="false">9QR91ZXThgg</guid>
-      <pubDate>Thu, 10 Sep 2026 22:15:37 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI YENİ Parti Grup Başkanvekili Gökhan Günaydın’dan Meclis’te flaş açıklamalar</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: YENİ Parti Grup Başkanvekili Gökhan Günaydın, TBMM'de açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=Z8A5KuOjlpI</link>
-      <guid isPermaLink="false">Z8A5KuOjlpI</guid>
-      <pubDate>Thu, 10 Sep 2026 22:09:06 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Grup Başkanvekili Gökhan Günaydın, TBMM'de açıklama yapıyor #Canlı</description>
     </item>
   </channel>
 </rss>
