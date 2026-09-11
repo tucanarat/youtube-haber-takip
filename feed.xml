@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 18:10:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 18:15:32 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI Namık Koçak ve Hüsnü Mahalli ile Forum (11.09.26)</title>
+      <link>https://www.youtube.com/watch?v=c0tqHRA-asQ</link>
+      <guid isPermaLink="false">c0tqHRA-asQ</guid>
+      <pubDate>Fri, 11 Sep 2026 18:10:52 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Namık Koçak ve Hüsnü Mahalli ile Forum (11.09.26)</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Murat Ağırel İsyan Etti: Gazilere 3 Kuruş Zam, Öcalan'a Özel Ev! Türkiye Bu Sözleri Konuşacak!</title>
+      <link>https://www.youtube.com/watch?v=aaPE6fNF5Sk</link>
+      <guid isPermaLink="false">aaPE6fNF5Sk</guid>
+      <pubDate>Fri, 11 Sep 2026 18:10:08 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Murat Ağırel İsyan Etti: Gazilere 3 Kuruş Zam, Öcalan'a Özel Ev! Türkiye Bu Sözleri Konuşacak!</description>
+    </item>
     <item>
       <title>Tele2 Haber: KIZILDENİZ'DE ALARM! Husiler stratejik Moha Linanını ele geçirdi! Murat Taylan'dan çok kritik soru!</title>
       <link>https://www.youtube.com/watch?v=0Y-wezCIemE</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">85xEvOqtUlY</guid>
       <pubDate>Fri, 11 Sep 2026 14:11:48 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Velilerde Okul Alışverişi Telaşı #shorts</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! FENERBAHÇE'DE 'İSTİFA' BİLMECESİ SONA ERDİ! İsmail Kartal ile yolar resmen ayrıldı!</title>
-      <link>https://www.youtube.com/watch?v=z27FgiuanM4</link>
-      <guid isPermaLink="false">z27FgiuanM4</guid>
-      <pubDate>Fri, 11 Sep 2026 14:10:08 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! FENERBAHÇE'DE 'İSTİFA' BİLMECESİ SONA ERDİ! İsmail Kartal ile yolar resmen ayrıldı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Şehit Bülent Aydın Karakolu personelinin bulunduğu askeri araç devrildi! 1 asker şehit oldu!</title>
-      <link>https://www.youtube.com/shorts/qwTF4uC0U2M</link>
-      <guid isPermaLink="false">qwTF4uC0U2M</guid>
-      <pubDate>Fri, 11 Sep 2026 14:09:24 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Şehit Bülent Aydın Karakolu personelinin bulunduğu askeri araç devrildi! 1 asker şehit oldu!</description>
     </item>
   </channel>
 </rss>
