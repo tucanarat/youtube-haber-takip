@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 12:55:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 13:00:54 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Gizem Çetin ile Parantez</title>
+      <link>https://www.youtube.com/watch?v=HZH9cjEILq4</link>
+      <guid isPermaLink="false">HZH9cjEILq4</guid>
+      <pubDate>Fri, 11 Sep 2026 12:53:14 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Gizem Çetin ile Parantez</description>
+    </item>
+    <item>
+      <title>Halk TV: AKP'ye topuklayan Foça Belediye Başkanı'nı ağabeyi bile sildi! O sözlerle kardeşine ateş püskürdü!</title>
+      <link>https://www.youtube.com/watch?v=am5m48iIQXo</link>
+      <guid isPermaLink="false">am5m48iIQXo</guid>
+      <pubDate>Fri, 11 Sep 2026 12:52:41 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: AKP'ye topuklayan Foça Belediye Başkanı'nı ağabeyi bile sildi! O sözlerle kardeşine ateş püskürdü!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Ankara Gölbaşı'nda başlayan orman yangınına müdahale ediliyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=AO_b_CJ7nds</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">c8BkMjIPF8k</guid>
       <pubDate>Fri, 11 Sep 2026 09:52:17 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İrem Sansak ile Haber Masası (11 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Özgür Özel sosyal demokratlara seslendi: “Beklentimiz ortak ilkelerimizi kararlılıkla savunmaları”</title>
-      <link>https://www.youtube.com/shorts/C7Bf4Jsxt2U</link>
-      <guid isPermaLink="false">C7Bf4Jsxt2U</guid>
-      <pubDate>Fri, 11 Sep 2026 09:51:38 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Özgür Özel sosyal demokratlara seslendi: “Beklentimiz ortak ilkelerimizi kararlılıkla savunmaları”</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Girne faciasında zanlılar yeniden mahkemeye çıkarıldı. Acılı aile feryat etti.</title>
-      <link>https://www.youtube.com/shorts/vgn7Hgcj4zs</link>
-      <guid isPermaLink="false">vgn7Hgcj4zs</guid>
-      <pubDate>Fri, 11 Sep 2026 09:42:38 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Girne faciasında zanlılar yeniden mahkemeye çıkarıldı. Acılı aile feryat etti.</description>
     </item>
   </channel>
 </rss>
