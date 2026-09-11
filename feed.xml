@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 23:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 23:05:30 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Faik Bey Caddesi'nde esnafı ziyaret ediyor</title>
+      <link>https://www.youtube.com/watch?v=xe7I94voi18</link>
+      <guid isPermaLink="false">xe7I94voi18</guid>
+      <pubDate>Fri, 11 Sep 2026 23:00:33 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Faik Bey Caddesi'nde esnafı ziyaret ediyor</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Benzin 80 Lirayı Aşacak: Akaryakıtta Zam Fırtınası Kapıda! Uzman İsim Türkiye'yi Uyardı</title>
       <link>https://www.youtube.com/watch?v=q_coLbF7yaQ</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">6ZQ97TNP4Z0</guid>
       <pubDate>Fri, 11 Sep 2026 17:00:28 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: PENTAGON VURDU, İRAN YERALTINA İNDİ! Trump'ın Uykularını Kaçıran Balistik Füzeler!</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Ece Üner ile Halk Ana Haber | #şikayetimvar</title>
-      <link>https://www.youtube.com/watch?v=ktJa2EtLVAU</link>
-      <guid isPermaLink="false">ktJa2EtLVAU</guid>
-      <pubDate>Fri, 11 Sep 2026 17:00:14 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Ece Üner ile Halk Ana Haber | #şikayetimvar</description>
     </item>
   </channel>
 </rss>
