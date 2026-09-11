@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 07:10:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 07:15:32 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Foça Belediye Başkanı Fıçı'nın AKP'ye katılmasına yurttaşlardan tepki: ''Oylarımızı sattı''</title>
+      <link>https://www.youtube.com/shorts/i5dI40GkI-k</link>
+      <guid isPermaLink="false">i5dI40GkI-k</guid>
+      <pubDate>Fri, 11 Sep 2026 07:10:54 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Foça Belediye Başkanı Fıçı'nın AKP'ye katılmasına yurttaşlardan tepki: ''Oylarımızı sattı''</description>
+    </item>
     <item>
       <title>Halk TV: 35 kişinin öldüğü Ezgi Apartmanı davasında karar sonrası ailelerin avukatı Ahmet Çabukel isyan etti!</title>
       <link>https://www.youtube.com/shorts/7k85QEkP9jQ</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">8o6XQ5FrFW4</guid>
       <pubDate>Thu, 10 Sep 2026 21:20:36 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: 15 Yıllık Sır Çözülüyor! FETÖ Kumpası ve Bekletilen Ambulans! Kaşif Kozinoğlu Dosyası Yeniden Açıldı</description>
-    </item>
-    <item>
-      <title>Halk TV: AÇTI AĞZINI YUMDU GÖZÜNÜ! Gizem Özmen'in bu sözleri AKP'yi sallar! "Sandıkla değişeceksiniz!"</title>
-      <link>https://www.youtube.com/watch?v=YIDWIX92P4U</link>
-      <guid isPermaLink="false">YIDWIX92P4U</guid>
-      <pubDate>Thu, 10 Sep 2026 21:20:21 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: AÇTI AĞZINI YUMDU GÖZÜNÜ! Gizem Özmen'in bu sözleri AKP'yi sallar! "Sandıkla değişeceksiniz!"</description>
     </item>
   </channel>
 </rss>
