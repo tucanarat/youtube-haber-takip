@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 07:30:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 07:35:28 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: Bu Kadarına Pes! AKP Seçime Girmeden Foça'yı Aldı... "Hangi Yüzle Foça'ya Geleceksin!"</title>
       <link>https://www.youtube.com/watch?v=BvhEy6ZhsJA</link>
       <guid isPermaLink="false">BvhEy6ZhsJA</guid>
       <pubDate>Fri, 11 Sep 2026 07:28:37 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Bu Kadarına Pes! AKP Seçime Girmeden Foça'yı Aldı... "Hangi Yüzle Foça'ya Geleceksin!"</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Akdeniz’in derinliklerinde tarih fışkırıyor: 'Antalya'nın su altında binlerce yıllık tarih yatıyor'</title>
+      <link>https://www.youtube.com/shorts/p1jD5fCu_Fo</link>
+      <guid isPermaLink="false">p1jD5fCu_Fo</guid>
+      <pubDate>Fri, 11 Sep 2026 07:28:36 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Akdeniz’in derinliklerinde tarih fışkırıyor: 'Antalya'nın su altında binlerce yıllık tarih yatıyor'</description>
     </item>
     <item>
       <title>Halk TV: SİYASETTE DENGELER DEĞİŞİYOR! Erdoğan memleketi Rize'de seçim startını verdi! İşte o çarpıcı sözler!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">5m-8t-NivxQ</guid>
       <pubDate>Thu, 10 Sep 2026 22:00:09 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Kemal Kılıçdaroğlu'ndan '6 OKUN AĞIRLIĞI' paylaşımı! Yaşananları Engin Solakoğlu yorumladı...</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Özlem Gürses ile Sözcü Ana Haber</title>
-      <link>https://www.youtube.com/watch?v=5cwdaPSNIkw</link>
-      <guid isPermaLink="false">5cwdaPSNIkw</guid>
-      <pubDate>Thu, 10 Sep 2026 22:00:01 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses ile Sözcü Ana Haber</description>
     </item>
   </channel>
 </rss>
