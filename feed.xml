@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 08:10:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 08:15:31 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: CHP Grup Başkanı Faik Öztrak TBMM'de açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=eO4yztmk8eg</link>
+      <guid isPermaLink="false">eO4yztmk8eg</guid>
+      <pubDate>Fri, 11 Sep 2026 08:10:30 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: CHP Grup Başkanı Faik Öztrak TBMM'de açıklama yapıyor #Canlı</description>
+    </item>
     <item>
       <title>Cumhuriyet: #CANLI İBB Davasında 79. gün! “Ben söylemedim savcı yazdı”</title>
       <link>https://www.youtube.com/watch?v=9rEV5r8hnyk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ovYnK1KhahU</guid>
       <pubDate>Fri, 11 Sep 2026 05:19:10 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, hayvan pazarını ziyaret ediyor / Kars #Canlı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Merve Ekinci ile Uyanma Vakti | 11 Eylül</title>
-      <link>https://www.youtube.com/watch?v=_gO9Zosh6RM</link>
-      <guid isPermaLink="false">_gO9Zosh6RM</guid>
-      <pubDate>Fri, 11 Sep 2026 04:57:38 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Merve Ekinci ile Uyanma Vakti | 11 Eylül</description>
     </item>
   </channel>
 </rss>
