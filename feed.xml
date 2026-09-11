@@ -6,13 +6,34 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 10:40:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 10:45:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Kars’ta Özgür Özel’e samimi uyarı: Biz düşelim sen düşme!</title>
+      <link>https://www.youtube.com/shorts/SsE6QlH4_DU</link>
+      <guid isPermaLink="false">SsE6QlH4_DU</guid>
+      <pubDate>Fri, 11 Sep 2026 10:43:16 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Kars’ta Özgür Özel’e samimi uyarı: Biz düşelim sen düşme!</description>
+    </item>
+    <item>
+      <title>Halk TV: SON DAKİKA! YARGI TARİHİNDE İLK! İmamoğlu, daha önce 2 kez beraat ettiği davadan hapis cezası aldı!</title>
+      <link>https://www.youtube.com/watch?v=2nZi9t75UMM</link>
+      <guid isPermaLink="false">2nZi9t75UMM</guid>
+      <pubDate>Fri, 11 Sep 2026 10:35:51 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! YARGI TARİHİNDE İLK! İmamoğlu, daha önce 2 kez beraat ettiği davadan hapis cezası aldı!</description>
+    </item>
     <item>
       <title>Cumhuriyet: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Faik Bey Caddesi'nde esnafı ziyaret ediyor</title>
       <link>https://www.youtube.com/watch?v=YsrBWWvxt-U</link>
       <guid isPermaLink="false">YsrBWWvxt-U</guid>
       <pubDate>Fri, 11 Sep 2026 10:35:48 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Faik Bey Caddesi'nde esnafı ziyaret ediyor</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Ekrem İmamoğlu'nun Cezası Belli Oldu! 'Hakaret' Davasından Karar Çıktı!</title>
+      <link>https://www.youtube.com/watch?v=7d1f0qk0CEo</link>
+      <guid isPermaLink="false">7d1f0qk0CEo</guid>
+      <pubDate>Fri, 11 Sep 2026 10:31:47 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Ekrem İmamoğlu'nun Cezası Belli Oldu! 'Hakaret' Davasından Karar Çıktı!</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Ekrem İmamoğlu'nun avukatı Kemal Polat Silivri'de açıklama yapıyor #Canlı</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">LwHThnWB7wk</guid>
       <pubDate>Fri, 11 Sep 2026 08:00:49 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Kırklareli'de tarih ve kültür buluşması: 116. Pehlivanköy Pavli Panayırı ziyaretçilerini ağırlıyor</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Archie Brown maç sonrası röportajında İsmail Kartal'ın istifa ettiğini öğrendi</title>
-      <link>https://www.youtube.com/shorts/uFV342gzclg</link>
-      <guid isPermaLink="false">uFV342gzclg</guid>
-      <pubDate>Fri, 11 Sep 2026 08:00:44 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Archie Brown maç sonrası röportajında İsmail Kartal'ın istifa ettiğini öğrendi</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Erdoğan Adeta Erken Seçim Startını Verdi! İsmail Küçükkaya Tarih Verdi! 'Erdoğan Riske Girmez'</title>
-      <link>https://www.youtube.com/watch?v=UQ8oZ4jAgVk</link>
-      <guid isPermaLink="false">UQ8oZ4jAgVk</guid>
-      <pubDate>Fri, 11 Sep 2026 08:00:22 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Erdoğan Adeta Erken Seçim Startını Verdi! İsmail Küçükkaya Tarih Verdi! 'Erdoğan Riske Girmez'</description>
-    </item>
-    <item>
-      <title>Halk TV: SUUDİLERİ FELÇ EDECEK SALDIRI! İran'ın desteklediği Husiler, petrol tesislerini böyle havaya uçurdu!</title>
-      <link>https://www.youtube.com/watch?v=vTyEqe3iohw</link>
-      <guid isPermaLink="false">vTyEqe3iohw</guid>
-      <pubDate>Fri, 11 Sep 2026 07:55:28 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SUUDİLERİ FELÇ EDECEK SALDIRI! İran'ın desteklediği Husiler, petrol tesislerini böyle havaya uçurdu!</description>
     </item>
   </channel>
 </rss>
