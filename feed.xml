@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 11:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 11:05:28 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: #CANLI İmamoğlu 5 günde 5 kez hakim karşısında! 2 kez beraat ettiği davada ceza verildi!</title>
+      <link>https://www.youtube.com/watch?v=9rEV5r8hnyk</link>
+      <guid isPermaLink="false">9rEV5r8hnyk</guid>
+      <pubDate>Fri, 11 Sep 2026 11:04:15 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI İmamoğlu 5 günde 5 kez hakim karşısında! 2 kez beraat ettiği davada ceza verildi!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Barış Terkoğlu Tek Tek Deşifre Etti! 15 Yıl Sonra Gelen FETÖ İtirafı ve Bomba Kozinoğlu Gerçekleri</title>
+      <link>https://www.youtube.com/watch?v=UR5pFRebzDU</link>
+      <guid isPermaLink="false">UR5pFRebzDU</guid>
+      <pubDate>Fri, 11 Sep 2026 11:00:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Barış Terkoğlu Tek Tek Deşifre Etti! 15 Yıl Sonra Gelen FETÖ İtirafı ve Bomba Kozinoğlu Gerçekleri</description>
+    </item>
     <item>
       <title>Halk TV: YENİ Parti Genel Başkanı Özgür Özel, Faik Bey Caddesi'nde Esnafı Ziyaret Etti</title>
       <link>https://www.youtube.com/watch?v=SXC_6Y-vIsc</link>
@@ -27,6 +41,13 @@
       <guid isPermaLink="false">e0x7oPkz0Tk</guid>
       <pubDate>Fri, 11 Sep 2026 10:51:06 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Cumhurbaşkanı Erdoğan, yapımı tamamlanan yatırımların toplu açılış töreninde konuşuyor / Rize #Canlı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Yeni Parti Lideri Özgür Özel Kars'ta Kritik Açıklamalarda Bulunuyor! Erdoğan'a Seçim Yanıtı</title>
+      <link>https://www.youtube.com/watch?v=5Bm6wSgk4g0</link>
+      <guid isPermaLink="false">5Bm6wSgk4g0</guid>
+      <pubDate>Fri, 11 Sep 2026 10:49:32 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Yeni Parti Lideri Özgür Özel Kars'ta Kritik Açıklamalarda Bulunuyor! Erdoğan'a Seçim Yanıtı</description>
     </item>
     <item>
       <title>Halk TV: Karslı teyzeden Özgür Özel'e duygulandıran sözler: Sen yağmurda ıslanırken ben ağladım!</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">is9ITEU5hMc</guid>
       <pubDate>Fri, 11 Sep 2026 08:10:37 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BİR KEZ DAHA HAKİM KARŞISINDA! İmamoğlu, 2 kez beraat ettiği 'hakaret' davasında savunma yapıyor!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: CHP Grup Başkanı Faik Öztrak TBMM'de açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=eO4yztmk8eg</link>
-      <guid isPermaLink="false">eO4yztmk8eg</guid>
-      <pubDate>Fri, 11 Sep 2026 08:10:30 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP Grup Başkanı Faik Öztrak TBMM'de açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "KOLON KESENLERİ NASIL SERBEST BIRAKIRSINIZ!" Ezgi Apartmanı Davası'nda Karar Açıklandı!</title>
-      <link>https://www.youtube.com/watch?v=spmNJLQEXPk</link>
-      <guid isPermaLink="false">spmNJLQEXPk</guid>
-      <pubDate>Fri, 11 Sep 2026 08:03:53 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "KOLON KESENLERİ NASIL SERBEST BIRAKIRSINIZ!" Ezgi Apartmanı Davası'nda Karar Açıklandı!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: #CANLI İmamoğlu 5 günde 5 kez hakim karşısında! 2 kez beraat ettiği davada ceza verildi!</title>
-      <link>https://www.youtube.com/watch?v=9rEV5r8hnyk</link>
-      <guid isPermaLink="false">9rEV5r8hnyk</guid>
-      <pubDate>Fri, 11 Sep 2026 08:03:51 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI İmamoğlu 5 günde 5 kez hakim karşısında! 2 kez beraat ettiği davada ceza verildi!</description>
     </item>
   </channel>
 </rss>
