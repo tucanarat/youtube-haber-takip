@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 20:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 20:10:34 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: Sıra Ekrem İmamoğlu'nda mı? Murat Ağırel'den Çarpıcı Üsküdar ve İBB Çıkışı!</title>
       <link>https://www.youtube.com/watch?v=nB-T4VhneUg</link>
       <guid isPermaLink="false">nB-T4VhneUg</guid>
       <pubDate>Fri, 11 Sep 2026 20:00:33 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Sıra Ekrem İmamoğlu'nda mı? Murat Ağırel'den Çarpıcı Üsküdar ve İBB Çıkışı!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: "UMARIM BÜGÜNLERİ ARAMAYIZ!" Hüsnü Mahalli'den çok kritik İKTİDAR uyarısı...</title>
+      <link>https://www.youtube.com/watch?v=2mkmlZFUczs</link>
+      <guid isPermaLink="false">2mkmlZFUczs</guid>
+      <pubDate>Fri, 11 Sep 2026 20:00:30 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "UMARIM BÜGÜNLERİ ARAMAYIZ!" Hüsnü Mahalli'den çok kritik İKTİDAR uyarısı...</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Serap Belovacıklı ile Aklın Yolu | 11 Eylül</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">I678G6J2iOg</guid>
       <pubDate>Fri, 11 Sep 2026 14:58:01 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Damla Doğan Tuncel ile 1 Saat | 11 Eylül</description>
-    </item>
-    <item>
-      <title>Halk TV: DENİZOLGUN'U SON GÖREN KİŞİYDİ! Çiftliğin seyisi için kırmızı bülten kararı! Sis perdesi aralanıyor!</title>
-      <link>https://www.youtube.com/watch?v=rQj6UDYTPj4</link>
-      <guid isPermaLink="false">rQj6UDYTPj4</guid>
-      <pubDate>Fri, 11 Sep 2026 14:55:16 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: DENİZOLGUN'U SON GÖREN KİŞİYDİ! Çiftliğin seyisi için kırmızı bülten kararı! Sis perdesi aralanıyor!</description>
     </item>
   </channel>
 </rss>
