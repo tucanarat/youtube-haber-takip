@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 14:00:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 14:05:27 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Can Coşkun ile Gündem Masası | 11 Eylül</title>
+      <link>https://www.youtube.com/watch?v=qHsac-J_qQk</link>
+      <guid isPermaLink="false">qHsac-J_qQk</guid>
+      <pubDate>Fri, 11 Sep 2026 14:05:09 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Can Coşkun ile Gündem Masası | 11 Eylül</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Barış Terkoğlu ve Timur Soykan Tüm Dosyaları Açtı! Erdoğan-Yavaş, Kozinoğlu, Sarallar ve Şahinler</title>
+      <link>https://www.youtube.com/watch?v=lNycxJ8eIS0</link>
+      <guid isPermaLink="false">lNycxJ8eIS0</guid>
+      <pubDate>Fri, 11 Sep 2026 14:00:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Barış Terkoğlu ve Timur Soykan Tüm Dosyaları Açtı! Erdoğan-Yavaş, Kozinoğlu, Sarallar ve Şahinler</description>
+    </item>
     <item>
       <title>Halk TV: ÖZGÜR ÖZEL ADIM ATAMADI! Vatandaş etrafını sardı, coşku sokaklara sığmadı! Kars'ta izdiham yaşandı!</title>
       <link>https://www.youtube.com/watch?v=bwl7FjOAEv4</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">OU1YuOYLh0M</guid>
       <pubDate>Fri, 11 Sep 2026 10:46:20 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Eğitim Sen, Milli Eğitim Bakanlığı önünde açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: Kars’ta Özgür Özel’e samimi uyarı: Biz düşelim sen düşme!</title>
-      <link>https://www.youtube.com/shorts/SsE6QlH4_DU</link>
-      <guid isPermaLink="false">SsE6QlH4_DU</guid>
-      <pubDate>Fri, 11 Sep 2026 10:43:16 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Kars’ta Özgür Özel’e samimi uyarı: Biz düşelim sen düşme!</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! YARGI TARİHİNDE İLK! İmamoğlu, daha önce 2 kez beraat ettiği davadan hapis cezası aldı!</title>
-      <link>https://www.youtube.com/watch?v=2nZi9t75UMM</link>
-      <guid isPermaLink="false">2nZi9t75UMM</guid>
-      <pubDate>Fri, 11 Sep 2026 10:35:51 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! YARGI TARİHİNDE İLK! İmamoğlu, daha önce 2 kez beraat ettiği davadan hapis cezası aldı!</description>
     </item>
   </channel>
 </rss>
