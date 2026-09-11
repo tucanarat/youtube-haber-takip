@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 00:05:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 00:10:30 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Çamlıçatak köyünde kadınlarla bir araya geldi</title>
+      <link>https://www.youtube.com/watch?v=p4VOQlGJUxc</link>
+      <guid isPermaLink="false">p4VOQlGJUxc</guid>
+      <pubDate>Thu, 10 Sep 2026 23:59:07 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Çamlıçatak köyünde kadınlarla bir araya geldi</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #CANLI Aile Dayanışma Ağı, 44. buluşmasını Silivri’de gerçekleştiriyor</title>
+      <link>https://www.youtube.com/watch?v=GScV0jffjAw</link>
+      <guid isPermaLink="false">GScV0jffjAw</guid>
+      <pubDate>Thu, 10 Sep 2026 23:56:04 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Aile Dayanışma Ağı, 44. buluşmasını Silivri’de gerçekleştiriyor</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Aile Dayanışma Ağı, 44. buluşmasını Silivri’de gerçekleştiriyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=qXHTDIM-yzU</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">hZxO7X7Z3PQ</guid>
       <pubDate>Thu, 10 Sep 2026 19:28:01 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Güller, Kalaycıoğlu, Solmaztürk, Solakoğlu ile Türkiye'nin Yönü (10.09.2026)</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Timur Soykan Anlattı! Sedat Şahin'e Suikast İddiası! Sarallar'ın Cephaneliği! Bahçeli'nin Mesajı</title>
-      <link>https://www.youtube.com/watch?v=fGRVaPypRRA</link>
-      <guid isPermaLink="false">fGRVaPypRRA</guid>
-      <pubDate>Thu, 10 Sep 2026 19:20:33 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Timur Soykan Anlattı! Sedat Şahin'e Suikast İddiası! Sarallar'ın Cephaneliği! Bahçeli'nin Mesajı</description>
-    </item>
-    <item>
-      <title>Halk TV: TEPKİSİ SERT OLDU! Yavaş'tan o fotoğrafa flaş açıklama! Erdoğan - Yavaş görüşmesi ne anlama geliyor?</title>
-      <link>https://www.youtube.com/watch?v=0YcnYbJzwag</link>
-      <guid isPermaLink="false">0YcnYbJzwag</guid>
-      <pubDate>Thu, 10 Sep 2026 19:20:15 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: TEPKİSİ SERT OLDU! Yavaş'tan o fotoğrafa flaş açıklama! Erdoğan - Yavaş görüşmesi ne anlama geliyor?</description>
     </item>
   </channel>
 </rss>
