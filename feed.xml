@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 11:20:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 11:25:27 +0000</lastBuildDate>
     <item>
       <title>Cumhuriyet: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Faik Bey Caddesi'nde esnafı ziyaret ediyor</title>
       <link>https://www.youtube.com/watch?v=YsrBWWvxt-U</link>
@@ -27,6 +27,13 @@
       <guid isPermaLink="false">utCAdiQ9Lsk</guid>
       <pubDate>Fri, 11 Sep 2026 11:10:50 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: 'Tuzla davası'nda karar: İki kez beraat ettiği davada 2 yıl 1 ay hapis cezası!</description>
+    </item>
+    <item>
+      <title>Halk TV: ÖZGÜR ÇELİK İFADE VERDİ! Üsküdar'da çevrilen dolapları tek tek anlattı! Çağlayan bu sözlerle inledi!</title>
+      <link>https://www.youtube.com/watch?v=J81E1I_QQAg</link>
+      <guid isPermaLink="false">J81E1I_QQAg</guid>
+      <pubDate>Fri, 11 Sep 2026 11:10:05 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ÖZGÜR ÇELİK İFADE VERDİ! Üsküdar'da çevrilen dolapları tek tek anlattı! Çağlayan bu sözlerle inledi!</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Faik Bey Caddesi'nde esnafı ziyaret ediyor #Canlı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">dKia2cImqbk</guid>
       <pubDate>Fri, 11 Sep 2026 08:30:20 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Müsavat Dervişoğlu'ndan Korkutan Erdoğan Sonrası Uyarısı! Anketlerde Ankara'yı Sallayan Sonuç</description>
-    </item>
-    <item>
-      <title>Halk TV: ÜMİT ÖZDAĞ'DAN SARSICI ÇIKIŞ! Süreç için 'gizli pazarlık' iddiası Ankara'da dengeleri altüst edecek!</title>
-      <link>https://www.youtube.com/watch?v=VvsqY_ihqzw</link>
-      <guid isPermaLink="false">VvsqY_ihqzw</guid>
-      <pubDate>Fri, 11 Sep 2026 08:25:14 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ÜMİT ÖZDAĞ'DAN SARSICI ÇIKIŞ! Süreç için 'gizli pazarlık' iddiası Ankara'da dengeleri altüst edecek!</description>
     </item>
   </channel>
 </rss>
