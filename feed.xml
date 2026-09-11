@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 02:00:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 02:05:24 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Kongre Caddesi'nde esnafı ziyaret ediyor</title>
+      <link>https://www.youtube.com/watch?v=ai_JKNUh0YU</link>
+      <guid isPermaLink="false">ai_JKNUh0YU</guid>
+      <pubDate>Fri, 11 Sep 2026 02:04:45 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Kongre Caddesi'nde esnafı ziyaret ediyor</description>
+    </item>
     <item>
       <title>Cumhuriyet: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Ardahan'da pazar yerini ziyaret ediyor</title>
       <link>https://www.youtube.com/watch?v=U5IhQPaZYnM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">OVS5KFjnKzk</guid>
       <pubDate>Thu, 10 Sep 2026 19:43:18 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Memleketi Güneysu’da konuştu: Erdoğan’dan çok çarpıcı ‘seçim’ mesajı geldi!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Özgür Çelik'ten Ayhan Aydın'a Cevap Verdi! Canlı Yayında Çarpıcı İtiraf! 'Biz bakarız Çocuğunuza..."</title>
-      <link>https://www.youtube.com/watch?v=EGSUxsbvCL0</link>
-      <guid isPermaLink="false">EGSUxsbvCL0</guid>
-      <pubDate>Thu, 10 Sep 2026 19:40:37 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Özgür Çelik'ten Ayhan Aydın'a Cevap Verdi! Canlı Yayında Çarpıcı İtiraf! 'Biz bakarız Çocuğunuza..."</description>
     </item>
   </channel>
 </rss>
