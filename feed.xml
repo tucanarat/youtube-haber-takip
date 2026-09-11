@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 20:55:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 21:00:54 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: CHP Grup Başkanı Faik Öztrak TBMM'de açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=eO4yztmk8eg</link>
+      <guid isPermaLink="false">eO4yztmk8eg</guid>
+      <pubDate>Fri, 11 Sep 2026 20:59:05 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: CHP Grup Başkanı Faik Öztrak TBMM'de açıklama yapıyor #Canlı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: GÖKÇEK DOSYASI PATLADI: Murat Ağırel Almanya'daki Gizli Serveti Belgeleriyle İfşa Etti!</title>
       <link>https://www.youtube.com/watch?v=Csonbd_PqLQ</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">5Uhnwm0ypf8</guid>
       <pubDate>Fri, 11 Sep 2026 15:30:05 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: İç siyasette dengeleri değiştirecek hamle nereden gelir? Yavuz Selim Demirağ yorumladı...</description>
-    </item>
-    <item>
-      <title>Halk TV: DUYUNCA ŞOKE OLACAKSINIZ! Ertan Aksoy, Erdoğan'ın 'seçim' planını ifşa etti! Meğer Erdoğan...</title>
-      <link>https://www.youtube.com/watch?v=g8WS7BIpZYk</link>
-      <guid isPermaLink="false">g8WS7BIpZYk</guid>
-      <pubDate>Fri, 11 Sep 2026 15:10:19 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: DUYUNCA ŞOKE OLACAKSINIZ! Ertan Aksoy, Erdoğan'ın 'seçim' planını ifşa etti! Meğer Erdoğan...</description>
     </item>
   </channel>
 </rss>
