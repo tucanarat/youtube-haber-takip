@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 07:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 07:10:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: 35 kişinin öldüğü Ezgi Apartmanı davasında karar sonrası ailelerin avukatı Ahmet Çabukel isyan etti!</title>
+      <link>https://www.youtube.com/shorts/7k85QEkP9jQ</link>
+      <guid isPermaLink="false">7k85QEkP9jQ</guid>
+      <pubDate>Fri, 11 Sep 2026 07:07:47 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: 35 kişinin öldüğü Ezgi Apartmanı davasında karar sonrası ailelerin avukatı Ahmet Çabukel isyan etti!</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI Namık Koçak ve Hüsnü Mahalli ile Forum (11.09.26)</title>
       <link>https://www.youtube.com/watch?v=c0tqHRA-asQ</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">YIDWIX92P4U</guid>
       <pubDate>Thu, 10 Sep 2026 21:20:21 +0000</pubDate>
       <description>Halk TV kanalından yeni video: AÇTI AĞZINI YUMDU GÖZÜNÜ! Gizem Özmen'in bu sözleri AKP'yi sallar! "Sandıkla değişeceksiniz!"</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Nuri Aslan, İSKİ Kağıthane-Bahçelievler-Sefaköy İçme Suyu Tüneli açılış töreninde konuşuyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=qDlSBDN3XuY</link>
-      <guid isPermaLink="false">qDlSBDN3XuY</guid>
-      <pubDate>Thu, 10 Sep 2026 21:01:11 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Nuri Aslan, İSKİ Kağıthane-Bahçelievler-Sefaköy İçme Suyu Tüneli açılış töreninde konuşuyor #Canlı</description>
     </item>
   </channel>
 </rss>
