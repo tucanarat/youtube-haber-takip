@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 14:10:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 14:15:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SON DAKİKA! FENERBAHÇE'DE 'İSTİFA' BİLMECESİ SONA ERDİ! İsmail Kartal dönemi resmen sona erdi!</title>
+      <link>https://www.youtube.com/watch?v=z27FgiuanM4</link>
+      <guid isPermaLink="false">z27FgiuanM4</guid>
+      <pubDate>Fri, 11 Sep 2026 14:10:08 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! FENERBAHÇE'DE 'İSTİFA' BİLMECESİ SONA ERDİ! İsmail Kartal dönemi resmen sona erdi!</description>
+    </item>
+    <item>
+      <title>Halk TV: Şehit Bülent Aydın Karakolu personelinin bulunduğu askeri araç devrildi! 1 asker şehit oldu!</title>
+      <link>https://www.youtube.com/shorts/qwTF4uC0U2M</link>
+      <guid isPermaLink="false">qwTF4uC0U2M</guid>
+      <pubDate>Fri, 11 Sep 2026 14:09:24 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Şehit Bülent Aydın Karakolu personelinin bulunduğu askeri araç devrildi! 1 asker şehit oldu!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Can Coşkun ile Gündem Masası | 11 Eylül</title>
       <link>https://www.youtube.com/watch?v=qHsac-J_qQk</link>
@@ -20,6 +34,13 @@
       <guid isPermaLink="false">hFDvS-4jEJA</guid>
       <pubDate>Fri, 11 Sep 2026 14:03:55 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Dışişleri Bakanı Hakan Fidan’a Diyarbakır’da yoğun ilgi</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Kayseri’de gece saatlerinde yangın paniği: Mahallenin kıraathanesi alev alev yandı</title>
+      <link>https://www.youtube.com/shorts/IacDOmBBBWY</link>
+      <guid isPermaLink="false">IacDOmBBBWY</guid>
+      <pubDate>Fri, 11 Sep 2026 14:01:49 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Kayseri’de gece saatlerinde yangın paniği: Mahallenin kıraathanesi alev alev yandı</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Özgür Özel pazarlığı bitirdi #shorts</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">QEeMYb2-VQg</guid>
       <pubDate>Fri, 11 Sep 2026 10:55:36 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İMAMOĞLU ZORLA SALONDAN GÖTÜRÜLDÜ! 'Siyasi soykırım' sözleri tarihe geçer! Taş üstünde taş bırakmadı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "BU KARAR YOK HÜKMÜNDEDİR!" Ekrem İmamoğlu'ndan Hapis ve Siyasi Yasak Kararına Tepki!</title>
-      <link>https://www.youtube.com/watch?v=JAqaTh1P6Dg</link>
-      <guid isPermaLink="false">JAqaTh1P6Dg</guid>
-      <pubDate>Fri, 11 Sep 2026 10:52:48 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "BU KARAR YOK HÜKMÜNDEDİR!" Ekrem İmamoğlu'ndan Hapis ve Siyasi Yasak Kararına Tepki!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Cumhurbaşkanı Erdoğan, yapımı tamamlanan yatırımların toplu açılış töreninde konuşuyor / Rize #Canlı</title>
-      <link>https://www.youtube.com/watch?v=e0x7oPkz0Tk</link>
-      <guid isPermaLink="false">e0x7oPkz0Tk</guid>
-      <pubDate>Fri, 11 Sep 2026 10:51:06 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Cumhurbaşkanı Erdoğan, yapımı tamamlanan yatırımların toplu açılış töreninde konuşuyor / Rize #Canlı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Yeni Parti Lideri Özgür Özel Kars'ta Kritik Açıklamalarda Bulunuyor! Erdoğan'a Seçim Yanıtı</title>
-      <link>https://www.youtube.com/watch?v=5Bm6wSgk4g0</link>
-      <guid isPermaLink="false">5Bm6wSgk4g0</guid>
-      <pubDate>Fri, 11 Sep 2026 10:49:32 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Yeni Parti Lideri Özgür Özel Kars'ta Kritik Açıklamalarda Bulunuyor! Erdoğan'a Seçim Yanıtı</description>
     </item>
   </channel>
 </rss>
