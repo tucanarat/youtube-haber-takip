@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 12:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 12:05:28 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ÖZGÜR ÖZEL'E KARS'TA GÖRÜLMEMİŞ İLGİ! Binler meydanlara sel oldu aktı! İzdihamdan yine yürüyemedi!</title>
+      <link>https://www.youtube.com/watch?v=aTerj-tjn8A</link>
+      <guid isPermaLink="false">aTerj-tjn8A</guid>
+      <pubDate>Fri, 11 Sep 2026 11:55:06 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ÖZGÜR ÖZEL'E KARS'TA GÖRÜLMEMİŞ İLGİ! Binler meydanlara sel oldu aktı! İzdihamdan yine yürüyemedi!</description>
+    </item>
     <item>
       <title>Cumhuriyet: Gölbaşı’nda korkutan yangın: Ormanlık alanda çıkan alevlere müdahale başlatıldı</title>
       <link>https://www.youtube.com/shorts/NN99ciOVdl4</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">u6_9nRnAn2k</guid>
       <pubDate>Fri, 11 Sep 2026 09:15:21 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Özgür Çelik AKP'ye geçen Üsküdar Belediyesi meclis üyesi Ayhan Aydın'ın iddialarına yanıt verdi</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Çelik: YENİ Parti Türkiye'nin iktidar partisidir!</title>
-      <link>https://www.youtube.com/shorts/nSHSJD5YxW0</link>
-      <guid isPermaLink="false">nSHSJD5YxW0</guid>
-      <pubDate>Fri, 11 Sep 2026 09:15:21 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Çelik: YENİ Parti Türkiye'nin iktidar partisidir!</description>
     </item>
   </channel>
 </rss>
