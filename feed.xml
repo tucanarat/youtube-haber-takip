@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 18:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 18:40:36 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Fikri Sağlar Anlattı! AKP'ye Soğuk Duş! İşte Erdoğan'ın Uykularını Kaçıran Seçim Senaryosu</title>
+      <link>https://www.youtube.com/watch?v=km2J3p6ooyA</link>
+      <guid isPermaLink="false">km2J3p6ooyA</guid>
+      <pubDate>Fri, 11 Sep 2026 18:30:23 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Fikri Sağlar Anlattı! AKP'ye Soğuk Duş! İşte Erdoğan'ın Uykularını Kaçıran Seçim Senaryosu</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Özgür Özel'den Erdoğan'a 'SEÇİMİ ATLATMA' yanıtı! Murat Taylan'dan CHP ve iktidar yorumu...</title>
+      <link>https://www.youtube.com/watch?v=cj2gOpPPfSQ</link>
+      <guid isPermaLink="false">cj2gOpPPfSQ</guid>
+      <pubDate>Fri, 11 Sep 2026 18:30:12 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Özgür Özel'den Erdoğan'a 'SEÇİMİ ATLATMA' yanıtı! Murat Taylan'dan CHP ve iktidar yorumu...</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI Namık Koçak ve Hüsnü Mahalli ile Forum (11.09.26)</title>
       <link>https://www.youtube.com/watch?v=c0tqHRA-asQ</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">GkQIrDsTC1I</guid>
       <pubDate>Fri, 11 Sep 2026 14:16:05 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İsmail Kartal'ın İstifası Kabul Edildi! Fenerbahçe'de Yeni Hoca Kim? Conte, Aykut Kocaman İddiaları</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: CHP Grup Başkanı Faik Öztrak’tan OVP eleştrisi</title>
-      <link>https://www.youtube.com/shorts/ccw9q_wzsks</link>
-      <guid isPermaLink="false">ccw9q_wzsks</guid>
-      <pubDate>Fri, 11 Sep 2026 14:14:48 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP Grup Başkanı Faik Öztrak’tan OVP eleştrisi</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Velilerde Okul Alışverişi Telaşı #shorts</title>
-      <link>https://www.youtube.com/shorts/85xEvOqtUlY</link>
-      <guid isPermaLink="false">85xEvOqtUlY</guid>
-      <pubDate>Fri, 11 Sep 2026 14:11:48 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Velilerde Okul Alışverişi Telaşı #shorts</description>
     </item>
   </channel>
 </rss>
