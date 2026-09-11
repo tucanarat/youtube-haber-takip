@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 14:30:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 14:35:25 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: "AKP HAREKET EDEN ÖLÜLER TOPLULUĞU HALİNE GELMİŞ" Kocabıyık'tan Çok Sert Üsküdar Yorumu!</title>
+      <link>https://www.youtube.com/watch?v=X0BO6JVZn10</link>
+      <guid isPermaLink="false">X0BO6JVZn10</guid>
+      <pubDate>Fri, 11 Sep 2026 14:30:13 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "AKP HAREKET EDEN ÖLÜLER TOPLULUĞU HALİNE GELMİŞ" Kocabıyık'tan Çok Sert Üsküdar Yorumu!</description>
+    </item>
     <item>
       <title>Halk TV: TÜRKİYE ONU KONUŞUYOR! İlk kadın futbol teknik direktörü Zeynep Mestan, başına gelenleri anlattı!</title>
       <link>https://www.youtube.com/watch?v=yTATk-aahoU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">YsrBWWvxt-U</guid>
       <pubDate>Fri, 11 Sep 2026 11:13:00 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Faik Bey Caddesi'nde esnafı ziyaret ediyor</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: İmamoğlu Kılıçdaroğlu'na Ateş Püskürdü! "Ben Toplumun Vicdanına Hapsolmuş Siyasi Bir Beden Değilim!"</title>
-      <link>https://www.youtube.com/watch?v=7_p6_NpKSyA</link>
-      <guid isPermaLink="false">7_p6_NpKSyA</guid>
-      <pubDate>Fri, 11 Sep 2026 11:12:29 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: İmamoğlu Kılıçdaroğlu'na Ateş Püskürdü! "Ben Toplumun Vicdanına Hapsolmuş Siyasi Bir Beden Değilim!"</description>
     </item>
   </channel>
 </rss>
