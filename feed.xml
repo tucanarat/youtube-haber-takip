@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 10:10:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 10:15:35 +0000</lastBuildDate>
     <item>
       <title>Cumhuriyet: Girne Gemi Faciasında yaşanan son gelişmeleri Onur Evrensel KKTC’den aktardı</title>
       <link>https://www.youtube.com/shorts/x7VwGuNoBmM</link>
@@ -34,6 +34,13 @@
       <guid isPermaLink="false">SXC_6Y-vIsc</guid>
       <pubDate>Fri, 11 Sep 2026 10:00:58 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Faik Bey Caddesi'nde Esnafı Ziyaret Ediyor</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Ekrem İmamoğlu'ndan Kılıçdaroğlu'na Zehir Zemberek Sözler! "ALLAH BU DURUMA DÜŞÜRMESİN"</title>
+      <link>https://www.youtube.com/watch?v=LlLPqaFdajs</link>
+      <guid isPermaLink="false">LlLPqaFdajs</guid>
+      <pubDate>Fri, 11 Sep 2026 10:00:19 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Ekrem İmamoğlu'ndan Kılıçdaroğlu'na Zehir Zemberek Sözler! "ALLAH BU DURUMA DÜŞÜRMESİN"</description>
     </item>
     <item>
       <title>Tele2 Haber: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Faik Bey Caddesi'nde esnafı ziyaret ediyor</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">pQFlvm09O7c</guid>
       <pubDate>Fri, 11 Sep 2026 07:42:11 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: "Bir daha asla dönmemek kaydıyla...": İsmail Kartal’dan olay yaratan istifa kararı</description>
-    </item>
-    <item>
-      <title>Halk TV: FENERBAHÇE'DE 'İSTİFA' DEPREMİ! İsmail Kartal görevinden ayrıldı, başkan Aziz Yıldırım kabul etmedi!</title>
-      <link>https://www.youtube.com/watch?v=Yv8jZLLrHdo</link>
-      <guid isPermaLink="false">Yv8jZLLrHdo</guid>
-      <pubDate>Fri, 11 Sep 2026 07:40:10 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: FENERBAHÇE'DE 'İSTİFA' DEPREMİ! İsmail Kartal görevinden ayrıldı, başkan Aziz Yıldırım kabul etmedi!</description>
     </item>
   </channel>
 </rss>
