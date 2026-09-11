@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 21:10:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 21:15:33 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: GİZLİ SERVETİ İFŞA OLDU! Turhan Çömez'den Belgelerle Parsel Parsel Melih Gökçek Dosyası</title>
+      <link>https://www.youtube.com/watch?v=KnJZqnqljVU</link>
+      <guid isPermaLink="false">KnJZqnqljVU</guid>
+      <pubDate>Fri, 11 Sep 2026 21:00:21 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: GİZLİ SERVETİ İFŞA OLDU! Turhan Çömez'den Belgelerle Parsel Parsel Melih Gökçek Dosyası</description>
+    </item>
+    <item>
+      <title>Halk TV: ERDOĞAN RESMEN İTİRAF ETTİ! Dalkuç: "Muhalefet yapısı gereği iktidar karşıtı olmak zorundadır!"</title>
+      <link>https://www.youtube.com/watch?v=ytXuwEx7vik</link>
+      <guid isPermaLink="false">ytXuwEx7vik</guid>
+      <pubDate>Fri, 11 Sep 2026 21:00:17 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ERDOĞAN RESMEN İTİRAF ETTİ! Dalkuç: "Muhalefet yapısı gereği iktidar karşıtı olmak zorundadır!"</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: CHP Grup Başkanı Faik Öztrak TBMM'de açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=eO4yztmk8eg</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">_tbMsGhnYMM</guid>
       <pubDate>Fri, 11 Sep 2026 15:38:51 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Ekrem İmamoğlu'na Siyasi Yasak! Hapis Cezası Belli Oldu! Mahkeme Kararını Verdi</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Özgür Özel'in Dili Sürçtü Müsavat Dervişoğlu'ndan Yanıt Gecikmedi! Siyasette Güldüren Gönderme</title>
-      <link>https://www.youtube.com/watch?v=K-EeMOmfRX4</link>
-      <guid isPermaLink="false">K-EeMOmfRX4</guid>
-      <pubDate>Fri, 11 Sep 2026 15:30:11 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Özgür Özel'in Dili Sürçtü Müsavat Dervişoğlu'ndan Yanıt Gecikmedi! Siyasette Güldüren Gönderme</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: İç siyasette dengeleri değiştirecek hamle nereden gelir? Yavuz Selim Demirağ yorumladı...</title>
-      <link>https://www.youtube.com/watch?v=5Uhnwm0ypf8</link>
-      <guid isPermaLink="false">5Uhnwm0ypf8</guid>
-      <pubDate>Fri, 11 Sep 2026 15:30:05 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: İç siyasette dengeleri değiştirecek hamle nereden gelir? Yavuz Selim Demirağ yorumladı...</description>
     </item>
   </channel>
 </rss>
