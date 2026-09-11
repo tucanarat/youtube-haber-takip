@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 22:00:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 22:05:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Bilge Yurtdagülen ile Söz Sende (11 Eylül 2026)</title>
+      <link>https://www.youtube.com/watch?v=xCKql07DTNs</link>
+      <guid isPermaLink="false">xCKql07DTNs</guid>
+      <pubDate>Fri, 11 Sep 2026 22:04:49 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Bilge Yurtdagülen ile Söz Sende (11 Eylül 2026)</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: ERDOĞAN PARKEYE ÇIKTI BASKETBOL OYNADI! MURAT TAYLAN'DAN GÜLÜMSETEN BENZETME...</title>
+      <link>https://www.youtube.com/shorts/5hK9NQJQrWY</link>
+      <guid isPermaLink="false">5hK9NQJQrWY</guid>
+      <pubDate>Fri, 11 Sep 2026 21:59:32 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: ERDOĞAN PARKEYE ÇIKTI BASKETBOL OYNADI! MURAT TAYLAN'DAN GÜLÜMSETEN BENZETME...</description>
+    </item>
     <item>
       <title>Halk TV: Saadet Partisi’nden Erdoğan’a dikkat çeken gönderme: “Katlanılamayan iktidar!” #shorts</title>
       <link>https://www.youtube.com/shorts/0AzRE6heZ_k</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">tjsI_C5c50I</guid>
       <pubDate>Fri, 11 Sep 2026 16:30:31 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: İmamoğlu'nun yargılandığı 'TUZLA DAVASI'nda karar! Murat Taylan yorumladı...</description>
-    </item>
-    <item>
-      <title>Halk TV: Bilge Yurtdagülen ile Söz Sende (11 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=xCKql07DTNs</link>
-      <guid isPermaLink="false">xCKql07DTNs</guid>
-      <pubDate>Fri, 11 Sep 2026 16:26:48 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Bilge Yurtdagülen ile Söz Sende (11 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: Ceren Damar cinayetinde inanılmaz karar! Avukat Vahit Bıçak'ın cezasının ertelenme sebebi şoke etti!</title>
-      <link>https://www.youtube.com/watch?v=0vSSG1a8aHs</link>
-      <guid isPermaLink="false">0vSSG1a8aHs</guid>
-      <pubDate>Fri, 11 Sep 2026 16:20:09 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ceren Damar cinayetinde inanılmaz karar! Avukat Vahit Bıçak'ın cezasının ertelenme sebebi şoke etti!</description>
     </item>
   </channel>
 </rss>
