@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 19:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 19:30:48 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: AĞIR KONUŞTU! Siyaset bilimci Burak Cop: "Uzak olmayan bir gelecekte halk, notunu verecek!"</title>
+      <link>https://www.youtube.com/watch?v=9qacZ8EuURs</link>
+      <guid isPermaLink="false">9qacZ8EuURs</guid>
+      <pubDate>Fri, 11 Sep 2026 19:15:39 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: AĞIR KONUŞTU! Siyaset bilimci Burak Cop: "Uzak olmayan bir gelecekte halk, notunu verecek!"</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: UĞUR POYRAZ'DAN ÇOK SERT ÇIKIŞ: "O Villaya Benim Vergilerimden Harcayanlara Haram Olsun!"</title>
       <link>https://www.youtube.com/watch?v=VfINP8r-VxU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">yTATk-aahoU</guid>
       <pubDate>Fri, 11 Sep 2026 14:25:01 +0000</pubDate>
       <description>Halk TV kanalından yeni video: TÜRKİYE ONU KONUŞUYOR! İlk kadın futbol teknik direktörü Zeynep Mestan, başına gelenleri anlattı!</description>
-    </item>
-    <item>
-      <title>Halk TV: “Özgür Özel’e yapılan haksızlığa dayanamadım” dedi, aldığı evi YENİ Parti’ye bağışladı!</title>
-      <link>https://www.youtube.com/shorts/UkMZACdDQmY</link>
-      <guid isPermaLink="false">UkMZACdDQmY</guid>
-      <pubDate>Fri, 11 Sep 2026 14:22:23 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: “Özgür Özel’e yapılan haksızlığa dayanamadım” dedi, aldığı evi YENİ Parti’ye bağışladı!</description>
     </item>
   </channel>
 </rss>
