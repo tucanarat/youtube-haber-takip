@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 09:40:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 09:45:49 +0000</lastBuildDate>
     <item>
       <title>Halk TV: 'SAVCI TEHDİDİ' İDDİASI ÜLKE GÜNDEMİNE OTURDU! Özgür Çelik İfade İçin Çağlayan Adliyesi'nde</title>
       <link>https://www.youtube.com/watch?v=sSzJk3r3MYY</link>
       <guid isPermaLink="false">sSzJk3r3MYY</guid>
       <pubDate>Fri, 11 Sep 2026 09:37:42 +0000</pubDate>
       <description>Halk TV kanalından yeni video: 'SAVCI TEHDİDİ' İDDİASI ÜLKE GÜNDEMİNE OTURDU! Özgür Çelik İfade İçin Çağlayan Adliyesi'nde</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: ERDOĞAN-YAVAŞ GÖRÜŞMESİNİN PERDE ARKASI! Müsavat Dervişoğlu İlk Kez İsmail Küçükkaya'ya Anlattı</title>
+      <link>https://www.youtube.com/watch?v=uc_gq1mAFVc</link>
+      <guid isPermaLink="false">uc_gq1mAFVc</guid>
+      <pubDate>Fri, 11 Sep 2026 09:30:19 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: ERDOĞAN-YAVAŞ GÖRÜŞMESİNİN PERDE ARKASI! Müsavat Dervişoğlu İlk Kez İsmail Küçükkaya'ya Anlattı</description>
     </item>
     <item>
       <title>Halk TV: BAHÇELİ BUNLARI SÖYLEMİŞ! Ahmet Özer görüşmenin detaylarını anlattı! Meğer neler konuşulmuş neler!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">63H2JQdaEtI</guid>
       <pubDate>Fri, 11 Sep 2026 07:21:02 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Çelik Üsküdar soruşturmasında ifade vermek için adliyede!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Özgür Çelik ifade vermek üzere Çağlayan Adliyesi’ne geldi</title>
-      <link>https://www.youtube.com/shorts/hFCfSpFI0Zo</link>
-      <guid isPermaLink="false">hFCfSpFI0Zo</guid>
-      <pubDate>Fri, 11 Sep 2026 07:18:48 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Özgür Çelik ifade vermek üzere Çağlayan Adliyesi’ne geldi</description>
     </item>
   </channel>
 </rss>
