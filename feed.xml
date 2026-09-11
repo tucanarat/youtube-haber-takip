@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 23:55:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 00:00:52 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Aile Dayanışma Ağı, 44. buluşmasını Silivri’de gerçekleştiriyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=qXHTDIM-yzU</link>
+      <guid isPermaLink="false">qXHTDIM-yzU</guid>
+      <pubDate>Thu, 10 Sep 2026 23:56:03 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Aile Dayanışma Ağı, 44. buluşmasını Silivri’de gerçekleştiriyor #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: CÜBBELİ'YE SERT TEPKİ GÖSTERDİ! Mehmet Emin Ekmen: Bunun bir adım ötesi tekfirciliktir!</title>
       <link>https://www.youtube.com/watch?v=WC--cl2m9DU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">0YcnYbJzwag</guid>
       <pubDate>Thu, 10 Sep 2026 19:20:15 +0000</pubDate>
       <description>Halk TV kanalından yeni video: TEPKİSİ SERT OLDU! Yavaş'tan o fotoğrafa flaş açıklama! Erdoğan - Yavaş görüşmesi ne anlama geliyor?</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: ÖZGÜR ÇELİK İÇİN SORUŞTURMA BAŞLATILDI! Çelik'in ifadeye çağrılmasını Murat Taylan yorumladı...</title>
-      <link>https://www.youtube.com/watch?v=3fO4UnIMdp4</link>
-      <guid isPermaLink="false">3fO4UnIMdp4</guid>
-      <pubDate>Thu, 10 Sep 2026 19:00:20 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: ÖZGÜR ÇELİK İÇİN SORUŞTURMA BAŞLATILDI! Çelik'in ifadeye çağrılmasını Murat Taylan yorumladı...</description>
     </item>
   </channel>
 </rss>
