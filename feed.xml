@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 10:15:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 10:20:34 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Kars'ta Özgür Özel İzdihamı! "Biz Düşelim Sen Düşme!"</title>
+      <link>https://www.youtube.com/watch?v=KGQvKzCjg2w</link>
+      <guid isPermaLink="false">KGQvKzCjg2w</guid>
+      <pubDate>Fri, 11 Sep 2026 10:19:23 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Kars'ta Özgür Özel İzdihamı! "Biz Düşelim Sen Düşme!"</description>
+    </item>
     <item>
       <title>Cumhuriyet: Girne Gemi Faciasında yaşanan son gelişmeleri Onur Evrensel KKTC’den aktardı</title>
       <link>https://www.youtube.com/shorts/x7VwGuNoBmM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Gy8cHF-eRe8</guid>
       <pubDate>Fri, 11 Sep 2026 07:45:14 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Bülent Tezcan'dan pazar ziyareti: 10 liralık maydanoz kredi kartıyla, havuç taneyle alınıyor!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: "Bir daha asla dönmemek kaydıyla...": İsmail Kartal’dan olay yaratan istifa kararı</title>
-      <link>https://www.youtube.com/shorts/pQFlvm09O7c</link>
-      <guid isPermaLink="false">pQFlvm09O7c</guid>
-      <pubDate>Fri, 11 Sep 2026 07:42:11 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: "Bir daha asla dönmemek kaydıyla...": İsmail Kartal’dan olay yaratan istifa kararı</description>
     </item>
   </channel>
 </rss>
