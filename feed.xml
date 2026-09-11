@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 16:05:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 16:10:33 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: Türk Milliyetciliği Ve Sağ Siyaset Nereye Evriliyor? Yavuz Selim Demirağ yorumladı...</title>
       <link>https://www.youtube.com/watch?v=W4hazxpVTmo</link>
       <guid isPermaLink="false">W4hazxpVTmo</guid>
       <pubDate>Fri, 11 Sep 2026 16:00:37 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Türk Milliyetciliği Ve Sağ Siyaset Nereye Evriliyor? Yavuz Selim Demirağ yorumladı...</description>
+    </item>
+    <item>
+      <title>Halk TV: İNANILMAZ SÖZLER! Trump'tan sandıkta hile çağrısı! Seçmenini 'hile yapmaya' yemin ettirdi!</title>
+      <link>https://www.youtube.com/watch?v=jNv6bWJ2K7U</link>
+      <guid isPermaLink="false">jNv6bWJ2K7U</guid>
+      <pubDate>Fri, 11 Sep 2026 16:00:25 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İNANILMAZ SÖZLER! Trump'tan sandıkta hile çağrısı! Seçmenini 'hile yapmaya' yemin ettirdi!</description>
     </item>
     <item>
       <title>Halk TV: Cumhurbaşkanı Erdoğan, AKP Rize Genişletilmiş İl Danışma Meclis Toplantısı’nda konuştu.</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">tSP__Wsu6wA</guid>
       <pubDate>Fri, 11 Sep 2026 12:30:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: ÖZGÜR ÇELİK BÜTÜN İSİMLERİ İFŞA ETTİ! AKP'nin Teklif ve Tehditleri! Pazarlıklar Ortaya Çıktı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Ezgi Apartmanı davasında skandal karar tepkisi: "8 yıl ceza, sanıkları ödüllendirmektir!"</title>
-      <link>https://www.youtube.com/shorts/LxOKs-AOx6U</link>
-      <guid isPermaLink="false">LxOKs-AOx6U</guid>
-      <pubDate>Fri, 11 Sep 2026 12:14:15 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Ezgi Apartmanı davasında skandal karar tepkisi: "8 yıl ceza, sanıkları ödüllendirmektir!"</description>
     </item>
   </channel>
 </rss>
