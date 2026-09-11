@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 12:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 12:30:49 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Ankara Gölbaşı'nda başlayan orman yangınına müdahale ediliyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=AO_b_CJ7nds</link>
+      <guid isPermaLink="false">AO_b_CJ7nds</guid>
+      <pubDate>Fri, 11 Sep 2026 12:21:43 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Ankara Gölbaşı'nda başlayan orman yangınına müdahale ediliyor #Canlı</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Ezgi Apartmanı davasında skandal karar tepkisi: "8 yıl ceza, sanıkları ödüllendirmektir!"</title>
+      <link>https://www.youtube.com/shorts/LxOKs-AOx6U</link>
+      <guid isPermaLink="false">LxOKs-AOx6U</guid>
+      <pubDate>Fri, 11 Sep 2026 12:14:15 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Ezgi Apartmanı davasında skandal karar tepkisi: "8 yıl ceza, sanıkları ödüllendirmektir!"</description>
+    </item>
     <item>
       <title>Halk TV: ANKARA BU GÜNDEMLE ISINIYOR! Özgür Özel'den Erdoğan'ın 'seçim' sözlerini pişman edecek çıkış!</title>
       <link>https://www.youtube.com/watch?v=5f-eKTnTtJ8</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">jPjSNxnyRoU</guid>
       <pubDate>Fri, 11 Sep 2026 09:38:14 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BU AÇIKLAMA GÜNDEMİ SARSACAK! Bahçeli, Özgür Özel'in dokunulmazlığı hakkında konuştu! İşte o sözler!</description>
-    </item>
-    <item>
-      <title>Halk TV: 'SAVCI TEHDİDİ' İDDİASI ÜLKE GÜNDEMİNE OTURDU! Özgür Çelik İfade İçin Çağlayan Adliyesi'nde</title>
-      <link>https://www.youtube.com/watch?v=sSzJk3r3MYY</link>
-      <guid isPermaLink="false">sSzJk3r3MYY</guid>
-      <pubDate>Fri, 11 Sep 2026 09:37:42 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: 'SAVCI TEHDİDİ' İDDİASI ÜLKE GÜNDEMİNE OTURDU! Özgür Çelik İfade İçin Çağlayan Adliyesi'nde</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: ERDOĞAN-YAVAŞ GÖRÜŞMESİNİN PERDE ARKASI! Müsavat Dervişoğlu İlk Kez İsmail Küçükkaya'ya Anlattı</title>
-      <link>https://www.youtube.com/watch?v=uc_gq1mAFVc</link>
-      <guid isPermaLink="false">uc_gq1mAFVc</guid>
-      <pubDate>Fri, 11 Sep 2026 09:30:19 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: ERDOĞAN-YAVAŞ GÖRÜŞMESİNİN PERDE ARKASI! Müsavat Dervişoğlu İlk Kez İsmail Küçükkaya'ya Anlattı</description>
     </item>
   </channel>
 </rss>
