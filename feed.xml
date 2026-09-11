@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 13:45:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 13:50:38 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Sarıyer’de korku dolu anlar: Seyir halindeki otomobil motor kısmından alev alev yandı</title>
+      <link>https://www.youtube.com/shorts/jDcyNcLxeeo</link>
+      <guid isPermaLink="false">jDcyNcLxeeo</guid>
+      <pubDate>Fri, 11 Sep 2026 13:45:50 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Sarıyer’de korku dolu anlar: Seyir halindeki otomobil motor kısmından alev alev yandı</description>
+    </item>
     <item>
       <title>Halk TV: İSYANINI DUYAN TARIM BAKANI ARKASINA BAKMADAN KAÇMIŞTI! O ismin dertleri Özgür Özel'e sel oldu aktı!</title>
       <link>https://www.youtube.com/watch?v=e1uWC93xZbQ</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">39wfUypKyfw</guid>
       <pubDate>Fri, 11 Sep 2026 10:31:20 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Ekrem İmamoğlu'nun avukatı Kemal Polat Silivri'de açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #SonDakika EKREM İMAMOĞLU'NA HAPİS CEZASI ve SİYASİ YASAK KARARI VERİLDİ</title>
-      <link>https://www.youtube.com/watch?v=lWQjfEBmyAE</link>
-      <guid isPermaLink="false">lWQjfEBmyAE</guid>
-      <pubDate>Fri, 11 Sep 2026 10:31:18 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #SonDakika EKREM İMAMOĞLU'NA HAPİS CEZASI ve SİYASİ YASAK KARARI VERİLDİ</description>
     </item>
   </channel>
 </rss>
