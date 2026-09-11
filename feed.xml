@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 16:50:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 16:55:26 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: #CANLI Özlem Gürses ile Sözcü Ana Haber</title>
+      <link>https://www.youtube.com/watch?v=5cwdaPSNIkw</link>
+      <guid isPermaLink="false">5cwdaPSNIkw</guid>
+      <pubDate>Fri, 11 Sep 2026 16:53:21 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: #CANLI Özlem Gürses ile Sözcü Ana Haber</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Kaşif Kozinoğlu'nun Sır Ölümü Aydınlanıyor! Hasan Atilla Uğur'dan Yıllar Sonra Gelen İtiraf!</title>
+      <link>https://www.youtube.com/watch?v=N5o4v4yvDyw</link>
+      <guid isPermaLink="false">N5o4v4yvDyw</guid>
+      <pubDate>Fri, 11 Sep 2026 16:40:01 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Kaşif Kozinoğlu'nun Sır Ölümü Aydınlanıyor! Hasan Atilla Uğur'dan Yıllar Sonra Gelen İtiraf!</description>
+    </item>
     <item>
       <title>Tele2 Haber: İmamoğlu'nun yargılandığı 'TUZLA DAVASI'nda karar! Murat Taylan yorumladı...</title>
       <link>https://www.youtube.com/watch?v=tjsI_C5c50I</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">2cWikgPgn4Y</guid>
       <pubDate>Fri, 11 Sep 2026 13:10:22 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ÖZGÜR ÖZEL BİR DOKUNDU BİN AH İŞİTTİ! Kars'ta hayvan üreticisi 'küpe krizi'nden böyle dert yandı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Şap hastalığı besiciyi bezdirdi, Özgür Özel’e dert yandı!</title>
-      <link>https://www.youtube.com/shorts/ygy2KcS4oyQ</link>
-      <guid isPermaLink="false">ygy2KcS4oyQ</guid>
-      <pubDate>Fri, 11 Sep 2026 13:07:17 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Şap hastalığı besiciyi bezdirdi, Özgür Özel’e dert yandı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Batan gemide kaybolan Mehmet’in kardeşi Ahmet Bayhan: Kaptan, ‘su alıyor’ uyarılarını dinlememiş!</title>
-      <link>https://www.youtube.com/shorts/I9LHdkgMVL8</link>
-      <guid isPermaLink="false">I9LHdkgMVL8</guid>
-      <pubDate>Fri, 11 Sep 2026 13:07:08 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Batan gemide kaybolan Mehmet’in kardeşi Ahmet Bayhan: Kaptan, ‘su alıyor’ uyarılarını dinlememiş!</description>
     </item>
   </channel>
 </rss>
