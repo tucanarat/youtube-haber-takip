@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 21:40:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 21:45:32 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: İSMAİL KARTAL GERÇEĞİ: Ayhan Şensoy Fenerbahçe'deki 3 Saatlik Kritik Görüşmeyi Anlatıyor!</title>
+      <link>https://www.youtube.com/watch?v=_B-fw07vPoQ</link>
+      <guid isPermaLink="false">_B-fw07vPoQ</guid>
+      <pubDate>Fri, 11 Sep 2026 21:40:09 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İSMAİL KARTAL GERÇEĞİ: Ayhan Şensoy Fenerbahçe'deki 3 Saatlik Kritik Görüşmeyi Anlatıyor!</description>
+    </item>
     <item>
       <title>Halk TV: ÜSKÜDAR'DA NE 'SEVGİ' VAR NE DE 'SELİ'! Seçimle gelmiş gibi boy gösterisi yaptı! O flaş görüntüler!</title>
       <link>https://www.youtube.com/watch?v=p0MGKQamgvw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">W4hazxpVTmo</guid>
       <pubDate>Fri, 11 Sep 2026 16:00:37 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Türk Milliyetciliği Ve Sağ Siyaset Nereye Evriliyor? Yavuz Selim Demirağ yorumladı...</description>
-    </item>
-    <item>
-      <title>Halk TV: İNANILMAZ SÖZLER! Trump'tan sandıkta hile çağrısı! Seçmenini 'hile yapmaya' yemin ettirdi!</title>
-      <link>https://www.youtube.com/watch?v=jNv6bWJ2K7U</link>
-      <guid isPermaLink="false">jNv6bWJ2K7U</guid>
-      <pubDate>Fri, 11 Sep 2026 16:00:25 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İNANILMAZ SÖZLER! Trump'tan sandıkta hile çağrısı! Seçmenini 'hile yapmaya' yemin ettirdi!</description>
     </item>
   </channel>
 </rss>
