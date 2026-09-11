@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 22:20:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 22:25:25 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: HÜSNÜ MAHALLİ'DEN DİKKAT ÇEKEN MELİH GÖKÇEK VE SAKIZ YORUMU!</title>
+      <link>https://www.youtube.com/shorts/3YV_QB13De0</link>
+      <guid isPermaLink="false">3YV_QB13De0</guid>
+      <pubDate>Fri, 11 Sep 2026 22:11:04 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: HÜSNÜ MAHALLİ'DEN DİKKAT ÇEKEN MELİH GÖKÇEK VE SAKIZ YORUMU!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: HUSİLERDEN TARİHİ DARBE! Dünya Ticaretinin Şah Damarını Kestiler! Nevzat Çiçek'ten Dinleyin</title>
       <link>https://www.youtube.com/watch?v=23TYOWGPIGo</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">GetrHr349Xs</guid>
       <pubDate>Fri, 11 Sep 2026 17:00:13 +0000</pubDate>
       <description>Halk TV kanalından yeni video: "Sınır dışı hamlesi için silahlara ihtiyacımız olacak!" Almanya'da aşırı sağdan gelen şok açıklama!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Özlem Gürses ile Sözcü Ana Haber 11 Eylül</title>
-      <link>https://www.youtube.com/watch?v=5cwdaPSNIkw</link>
-      <guid isPermaLink="false">5cwdaPSNIkw</guid>
-      <pubDate>Fri, 11 Sep 2026 16:53:21 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses ile Sözcü Ana Haber 11 Eylül</description>
     </item>
   </channel>
 </rss>
