@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 13:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 13:25:36 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: AKP'den İhraç Edilen Kocabıyık'tan İBB Davası Tepkisi! "İnsanlara İşkence ve Eziyet Ediyorsunuz!"</title>
       <link>https://www.youtube.com/watch?v=81ajs-m7xXs</link>
@@ -41,6 +41,13 @@
       <guid isPermaLink="false">c8BkMjIPF8k</guid>
       <pubDate>Fri, 11 Sep 2026 13:03:25 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İrem Sansak ile Haber Masası (11 Eylül 2026)</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: "Erdoğan Seçimi Tehlike Olarak Görüyor!" Dervişoğlu'ndan Olay Açıklama! AKP'yi Bekleyen Büyük Tuzak</title>
+      <link>https://www.youtube.com/watch?v=AgQ576Aq54o</link>
+      <guid isPermaLink="false">AgQ576Aq54o</guid>
+      <pubDate>Fri, 11 Sep 2026 13:00:33 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: "Erdoğan Seçimi Tehlike Olarak Görüyor!" Dervişoğlu'ndan Olay Açıklama! AKP'yi Bekleyen Büyük Tuzak</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | Gizem Çetin ile Parantez</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">2reu2hisE-s</guid>
       <pubDate>Fri, 11 Sep 2026 10:01:18 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Çelik Üsküdar soruşturmasında ifade verdi: Sıra bize gelince dava, parti değiştirene makam!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Ekrem İmamoğlu'ndan Kılıçdaroğlu'na Zehir Zemberek Sözler! "ALLAH BU DURUMA DÜŞÜRMESİN"</title>
-      <link>https://www.youtube.com/watch?v=LlLPqaFdajs</link>
-      <guid isPermaLink="false">LlLPqaFdajs</guid>
-      <pubDate>Fri, 11 Sep 2026 10:00:19 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Ekrem İmamoğlu'ndan Kılıçdaroğlu'na Zehir Zemberek Sözler! "ALLAH BU DURUMA DÜŞÜRMESİN"</description>
     </item>
   </channel>
 </rss>
