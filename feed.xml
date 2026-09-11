@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 16:25:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 16:30:44 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: AKP'nin Ekrem İmamoğlu Planı İfşa Oldu! Özlem Gürses İBB Oyununu Deşifre Etti</title>
+      <link>https://www.youtube.com/watch?v=sHEHesYqFAg</link>
+      <guid isPermaLink="false">sHEHesYqFAg</guid>
+      <pubDate>Fri, 11 Sep 2026 16:20:07 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: AKP'nin Ekrem İmamoğlu Planı İfşa Oldu! Özlem Gürses İBB Oyununu Deşifre Etti</description>
+    </item>
     <item>
       <title>Tele2 Haber: Türk Milliyetciliği Ve Sağ Siyaset Nereye Evriliyor? Yavuz Selim Demirağ yorumladı...</title>
       <link>https://www.youtube.com/watch?v=W4hazxpVTmo</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">am5m48iIQXo</guid>
       <pubDate>Fri, 11 Sep 2026 12:52:41 +0000</pubDate>
       <description>Halk TV kanalından yeni video: AKP'ye topuklayan Foça Belediye Başkanı'nı ağabeyi bile sildi! O sözlerle kardeşine ateş püskürdü!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Ankara Gölbaşı'nda başlayan orman yangınına müdahale ediliyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=AO_b_CJ7nds</link>
-      <guid isPermaLink="false">AO_b_CJ7nds</guid>
-      <pubDate>Fri, 11 Sep 2026 12:34:14 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Ankara Gölbaşı'nda başlayan orman yangınına müdahale ediliyor #Canlı</description>
     </item>
   </channel>
 </rss>
