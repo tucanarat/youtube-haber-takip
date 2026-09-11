@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 13:10:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 13:15:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ÖZGÜR ÖZEL BİR DOKUNDU BİN AH İŞİTTİ! Kars'ta hayvan üreticisi 'küpe krizi'nden böyle dert yandı!</title>
+      <link>https://www.youtube.com/watch?v=2cWikgPgn4Y</link>
+      <guid isPermaLink="false">2cWikgPgn4Y</guid>
+      <pubDate>Fri, 11 Sep 2026 13:10:22 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ÖZGÜR ÖZEL BİR DOKUNDU BİN AH İŞİTTİ! Kars'ta hayvan üreticisi 'küpe krizi'nden böyle dert yandı!</description>
+    </item>
+    <item>
+      <title>Halk TV: Şap hastalığı besiciyi bezdirdi, Özgür Özel’e dert yandı!</title>
+      <link>https://www.youtube.com/shorts/ygy2KcS4oyQ</link>
+      <guid isPermaLink="false">ygy2KcS4oyQ</guid>
+      <pubDate>Fri, 11 Sep 2026 13:07:17 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Şap hastalığı besiciyi bezdirdi, Özgür Özel’e dert yandı!</description>
+    </item>
     <item>
       <title>Halk TV: Batan gemide kaybolan Mehmet’in kardeşi Ahmet Bayhan: Kaptan, ‘su alıyor’ uyarılarını dinlememiş!</title>
       <link>https://www.youtube.com/shorts/I9LHdkgMVL8</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">xe7I94voi18</guid>
       <pubDate>Fri, 11 Sep 2026 09:59:46 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Faik Bey Caddesi'nde esnafı ziyaret ediyor</description>
-    </item>
-    <item>
-      <title>Halk TV: Ebru Baki ile Para Siyaset | İbrahim Kahveci - Mehmet Tezkan (11 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=OtsmrNK0d5E</link>
-      <guid isPermaLink="false">OtsmrNK0d5E</guid>
-      <pubDate>Fri, 11 Sep 2026 09:59:35 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ebru Baki ile Para Siyaset | İbrahim Kahveci - Mehmet Tezkan (11 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: Ahmet Özer'den tahliye edilen Selçuk Mızraklı'ya ziyaret! 'İmamoğlu ve 'Demirtaş' sözleri olay olur!</title>
-      <link>https://www.youtube.com/watch?v=0aTc0y4Legg</link>
-      <guid isPermaLink="false">0aTc0y4Legg</guid>
-      <pubDate>Fri, 11 Sep 2026 09:59:02 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ahmet Özer'den tahliye edilen Selçuk Mızraklı'ya ziyaret! 'İmamoğlu ve 'Demirtaş' sözleri olay olur!</description>
     </item>
   </channel>
 </rss>
