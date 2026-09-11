@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 20:00:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 20:05:26 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Sıra Ekrem İmamoğlu'nda mı? Murat Ağırel'den Çarpıcı Üsküdar ve İBB Çıkışı!</title>
+      <link>https://www.youtube.com/watch?v=nB-T4VhneUg</link>
+      <guid isPermaLink="false">nB-T4VhneUg</guid>
+      <pubDate>Fri, 11 Sep 2026 20:00:33 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Sıra Ekrem İmamoğlu'nda mı? Murat Ağırel'den Çarpıcı Üsküdar ve İBB Çıkışı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Serap Belovacıklı ile Aklın Yolu | 11 Eylül</title>
       <link>https://www.youtube.com/watch?v=gqBkPpECABQ</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">rQj6UDYTPj4</guid>
       <pubDate>Fri, 11 Sep 2026 14:55:16 +0000</pubDate>
       <description>Halk TV kanalından yeni video: DENİZOLGUN'U SON GÖREN KİŞİYDİ! Çiftliğin seyisi için kırmızı bülten kararı! Sis perdesi aralanıyor!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Cumhurbaşkanı Erdoğan, AK Parti Rize Genişletilmiş İl Danışma Meclis Toplantısı’nda konuşuyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=6XTWejEENUQ</link>
-      <guid isPermaLink="false">6XTWejEENUQ</guid>
-      <pubDate>Fri, 11 Sep 2026 14:41:48 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Cumhurbaşkanı Erdoğan, AK Parti Rize Genişletilmiş İl Danışma Meclis Toplantısı’nda konuşuyor #Canlı</description>
     </item>
   </channel>
 </rss>
