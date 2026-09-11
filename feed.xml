@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 09:35:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 09:40:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: 'SAVCI TEHDİDİ' İDDİASI ÜLKE GÜNDEMİNE OTURDU! Özgür Çelik İfade İçin Çağlayan Adliyesi'nde</title>
+      <link>https://www.youtube.com/watch?v=sSzJk3r3MYY</link>
+      <guid isPermaLink="false">sSzJk3r3MYY</guid>
+      <pubDate>Fri, 11 Sep 2026 09:37:42 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: 'SAVCI TEHDİDİ' İDDİASI ÜLKE GÜNDEMİNE OTURDU! Özgür Çelik İfade İçin Çağlayan Adliyesi'nde</description>
+    </item>
     <item>
       <title>Halk TV: BAHÇELİ BUNLARI SÖYLEMİŞ! Ahmet Özer görüşmenin detaylarını anlattı! Meğer neler konuşulmuş neler!</title>
       <link>https://www.youtube.com/watch?v=TSTnDQxpGYQ</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">hFCfSpFI0Zo</guid>
       <pubDate>Fri, 11 Sep 2026 07:18:48 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Özgür Çelik ifade vermek üzere Çağlayan Adliyesi’ne geldi</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Foça Belediye Başkanı Fıçı'nın AKP'ye katılmasına yurttaşlardan tepki: ''Oylarımızı sattı''</title>
-      <link>https://www.youtube.com/shorts/i5dI40GkI-k</link>
-      <guid isPermaLink="false">i5dI40GkI-k</guid>
-      <pubDate>Fri, 11 Sep 2026 07:10:54 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Foça Belediye Başkanı Fıçı'nın AKP'ye katılmasına yurttaşlardan tepki: ''Oylarımızı sattı''</description>
     </item>
   </channel>
 </rss>
