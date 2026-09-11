@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 21:30:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 21:35:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ÜSKÜDAR'DA NE 'SEVGİ' VAR NE DE 'SELİ'! Seçimle gelmiş gibi boy gösterisi yaptı! O flaş görüntüler!</title>
+      <link>https://www.youtube.com/watch?v=p0MGKQamgvw</link>
+      <guid isPermaLink="false">p0MGKQamgvw</guid>
+      <pubDate>Fri, 11 Sep 2026 21:30:27 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ÜSKÜDAR'DA NE 'SEVGİ' VAR NE DE 'SELİ'! Seçimle gelmiş gibi boy gösterisi yaptı! O flaş görüntüler!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Ekrem İmamoğlu'na Hapis Cezası Şoku! İBB'ye Kayyum mu Atanacak? AKP'nin Planı İfşa Oldu!</title>
       <link>https://www.youtube.com/watch?v=JhIQljwDSIg</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">jNv6bWJ2K7U</guid>
       <pubDate>Fri, 11 Sep 2026 16:00:25 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İNANILMAZ SÖZLER! Trump'tan sandıkta hile çağrısı! Seçmenini 'hile yapmaya' yemin ettirdi!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: ERDOĞAN'DAN ERKEN SEÇİM MESAJI! Ankara Kulisleri Yangın Yeri! Özgür Özel Düğmeye Bastı</title>
-      <link>https://www.youtube.com/watch?v=VCDM91lhc1c</link>
-      <guid isPermaLink="false">VCDM91lhc1c</guid>
-      <pubDate>Fri, 11 Sep 2026 16:00:22 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: ERDOĞAN'DAN ERKEN SEÇİM MESAJI! Ankara Kulisleri Yangın Yeri! Özgür Özel Düğmeye Bastı</description>
     </item>
   </channel>
 </rss>
