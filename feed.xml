@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 08:51:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 08:55:27 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI YENİ Parti İstanbul İl Başkanı Özgür Çelik, İstanbul Adliyesi önünde açıklama yapıyor</title>
+      <link>https://www.youtube.com/watch?v=k-bipsZkDr4</link>
+      <guid isPermaLink="false">k-bipsZkDr4</guid>
+      <pubDate>Fri, 11 Sep 2026 08:47:26 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti İstanbul İl Başkanı Özgür Çelik, İstanbul Adliyesi önünde açıklama yapıyor</description>
+    </item>
     <item>
       <title>Cumhuriyet: #CANLI Özgür Çelik, İstanbul Adliyesi önünde açıklama yapıyor</title>
       <link>https://www.youtube.com/watch?v=lEtCBG9rgTM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">qVGICX621TA</guid>
       <pubDate>Fri, 11 Sep 2026 06:46:55 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Ezgi Apartmanı davasında binanın kolonlarını kesenler tahliye edildi! Acılı anne sinir krizi geçirdi</description>
-    </item>
-    <item>
-      <title>Halk TV: Bahçelievler'de CHP’li 3 meclis üyesi AKP'ye geçti!</title>
-      <link>https://www.youtube.com/shorts/x0K5DhxYbqI</link>
-      <guid isPermaLink="false">x0K5DhxYbqI</guid>
-      <pubDate>Fri, 11 Sep 2026 06:39:29 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Bahçelievler'de CHP’li 3 meclis üyesi AKP'ye geçti!</description>
     </item>
   </channel>
 </rss>
