@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 16:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 17:00:57 +0000</lastBuildDate>
     <item>
-      <title>SÖZCÜ TV: #CANLI Özlem Gürses ile Sözcü Ana Haber</title>
+      <title>Halk TV: #CANLI | Ece Üner ile Halk Ana Haber | #şikayetimvar</title>
+      <link>https://www.youtube.com/watch?v=ktJa2EtLVAU</link>
+      <guid isPermaLink="false">ktJa2EtLVAU</guid>
+      <pubDate>Fri, 11 Sep 2026 17:00:14 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Ece Üner ile Halk Ana Haber | #şikayetimvar</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Özlem Gürses ile Sözcü Ana Haber 11 Eylül</title>
       <link>https://www.youtube.com/watch?v=5cwdaPSNIkw</link>
       <guid isPermaLink="false">5cwdaPSNIkw</guid>
       <pubDate>Fri, 11 Sep 2026 16:53:21 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: #CANLI Özlem Gürses ile Sözcü Ana Haber</description>
+      <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses ile Sözcü Ana Haber 11 Eylül</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Kaşif Kozinoğlu'nun Sır Ölümü Aydınlanıyor! Hasan Atilla Uğur'dan Yıllar Sonra Gelen İtiraf!</title>
@@ -132,13 +139,6 @@
       <guid isPermaLink="false">I678G6J2iOg</guid>
       <pubDate>Fri, 11 Sep 2026 14:58:01 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Damla Doğan Tuncel ile 1 Saat | 11 Eylül</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Ece Üner ile Halk Ana Haber | #şikayetimvar</title>
-      <link>https://www.youtube.com/watch?v=ktJa2EtLVAU</link>
-      <guid isPermaLink="false">ktJa2EtLVAU</guid>
-      <pubDate>Fri, 11 Sep 2026 14:55:50 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Ece Üner ile Halk Ana Haber | #şikayetimvar</description>
     </item>
     <item>
       <title>Halk TV: DENİZOLGUN'U SON GÖREN KİŞİYDİ! Çiftliğin seyisi için kırmızı bülten kararı! Sis perdesi aralanıyor!</title>
