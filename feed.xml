@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 15:15:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 15:20:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: DUYUNCA ŞOKE OLACAKSINIZ! Ertan Aksoy, Erdoğan'ın 'seçim' planını ifşa etti! Meğer Erdoğan...</title>
+      <link>https://www.youtube.com/watch?v=g8WS7BIpZYk</link>
+      <guid isPermaLink="false">g8WS7BIpZYk</guid>
+      <pubDate>Fri, 11 Sep 2026 15:10:19 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: DUYUNCA ŞOKE OLACAKSINIZ! Ertan Aksoy, Erdoğan'ın 'seçim' planını ifşa etti! Meğer Erdoğan...</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Müsavat Dervişoğlu'ndan Bomba İddia! MİT Başkanı İle Ne Konuştu? "Öcalan'a Yeni Ev Yapıldı!"</title>
       <link>https://www.youtube.com/watch?v=QlOGCOPFXjo</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">X3_oFWxEU1Q</guid>
       <pubDate>Fri, 11 Sep 2026 11:49:42 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: SON DAKİKA! İMAMOĞLU'NA HAPİS VE SİYASİ YASAK KARARI! | Ülkü Çoban ile Manşet Ötesi</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Bahçeli'nin Danışmanı Mansur Yavaş'ı Yazdı... "AKP'ye Geçerse Kimse Şok Geçirmesin!"</title>
-      <link>https://www.youtube.com/watch?v=1yQT5riAiWY</link>
-      <guid isPermaLink="false">1yQT5riAiWY</guid>
-      <pubDate>Fri, 11 Sep 2026 11:45:21 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Bahçeli'nin Danışmanı Mansur Yavaş'ı Yazdı... "AKP'ye Geçerse Kimse Şok Geçirmesin!"</description>
     </item>
   </channel>
 </rss>
