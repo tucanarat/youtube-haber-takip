@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 13:25:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 13:29:40 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: "KÖTÜLÜĞÜN SIRADANLAŞMASI..." | Zeynel Lüle ile Ankara Günlüğü</title>
+      <link>https://www.youtube.com/watch?v=BzesNdxUtds</link>
+      <guid isPermaLink="false">BzesNdxUtds</guid>
+      <pubDate>Fri, 11 Sep 2026 13:26:58 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "KÖTÜLÜĞÜN SIRADANLAŞMASI..." | Zeynel Lüle ile Ankara Günlüğü</description>
+    </item>
+    <item>
+      <title>Halk TV: KARS'TA GÜLÜMSETEN ANLAR! Özgür Özel devreye girdi, pazarlık böyle sona erdi! İşte o görüntüler!</title>
+      <link>https://www.youtube.com/watch?v=3QumAFjM-gg</link>
+      <guid isPermaLink="false">3QumAFjM-gg</guid>
+      <pubDate>Fri, 11 Sep 2026 13:25:27 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KARS'TA GÜLÜMSETEN ANLAR! Özgür Özel devreye girdi, pazarlık böyle sona erdi! İşte o görüntüler!</description>
+    </item>
     <item>
       <title>Tele2 Haber: AKP'den İhraç Edilen Kocabıyık'tan İBB Davası Tepkisi! "İnsanlara İşkence ve Eziyet Ediyorsunuz!"</title>
       <link>https://www.youtube.com/watch?v=81ajs-m7xXs</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">x7VwGuNoBmM</guid>
       <pubDate>Fri, 11 Sep 2026 10:07:46 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Girne Gemi Faciasında yaşanan son gelişmeleri Onur Evrensel KKTC’den aktardı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Faik Bey Caddesi'nde esnafı ziyaret ediyor</title>
-      <link>https://www.youtube.com/watch?v=jfJ5MRvA3gE</link>
-      <guid isPermaLink="false">jfJ5MRvA3gE</guid>
-      <pubDate>Fri, 11 Sep 2026 10:03:31 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI YENİ Parti Genel Başkanı Özgür Özel, Faik Bey Caddesi'nde esnafı ziyaret ediyor</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Çelik Üsküdar soruşturmasında ifade verdi: Sıra bize gelince dava, parti değiştirene makam!</title>
-      <link>https://www.youtube.com/shorts/2reu2hisE-s</link>
-      <guid isPermaLink="false">2reu2hisE-s</guid>
-      <pubDate>Fri, 11 Sep 2026 10:01:18 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Çelik Üsküdar soruşturmasında ifade verdi: Sıra bize gelince dava, parti değiştirene makam!</description>
     </item>
   </channel>
 </rss>
