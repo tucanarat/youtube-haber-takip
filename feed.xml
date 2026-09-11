@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 13:30:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 13:35:28 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: "VEYİS ATEŞ BANA İFTİRA ATTI!" Mehmet Akif Ersoy'dan Mahkemede Olay Sözler! İtiraflar Peş Peşe Geldi</title>
+      <link>https://www.youtube.com/watch?v=zLjRBdudoq0</link>
+      <guid isPermaLink="false">zLjRBdudoq0</guid>
+      <pubDate>Fri, 11 Sep 2026 13:30:38 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: "VEYİS ATEŞ BANA İFTİRA ATTI!" Mehmet Akif Ersoy'dan Mahkemede Olay Sözler! İtiraflar Peş Peşe Geldi</description>
+    </item>
     <item>
       <title>Tele2 Haber: "KÖTÜLÜĞÜN SIRADANLAŞMASI..." | Zeynel Lüle ile Ankara Günlüğü</title>
       <link>https://www.youtube.com/watch?v=BzesNdxUtds</link>
       <guid isPermaLink="false">BzesNdxUtds</guid>
       <pubDate>Fri, 11 Sep 2026 13:26:58 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "KÖTÜLÜĞÜN SIRADANLAŞMASI..." | Zeynel Lüle ile Ankara Günlüğü</description>
+    </item>
+    <item>
+      <title>Halk TV: ‘Küpe’ krizi besiciyi çıkmaza soktu! "Kulağında olacak deyip 230 bin lira ceza kesiyorlar!"</title>
+      <link>https://www.youtube.com/shorts/gvCudfamBZg</link>
+      <guid isPermaLink="false">gvCudfamBZg</guid>
+      <pubDate>Fri, 11 Sep 2026 13:26:06 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ‘Küpe’ krizi besiciyi çıkmaza soktu! "Kulağında olacak deyip 230 bin lira ceza kesiyorlar!"</description>
     </item>
     <item>
       <title>Halk TV: KARS'TA GÜLÜMSETEN ANLAR! Özgür Özel devreye girdi, pazarlık böyle sona erdi! İşte o görüntüler!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">ZCVgCjqGc-U</guid>
       <pubDate>Fri, 11 Sep 2026 10:31:09 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI IEkrem İmamoğlu'nun avukatı Kemal Polat Silivri'de açıklama yapıyor</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Kars'ta Özgür Özel İzdihamı! "Biz Düşelim Sen Düşme!"</title>
-      <link>https://www.youtube.com/watch?v=KGQvKzCjg2w</link>
-      <guid isPermaLink="false">KGQvKzCjg2w</guid>
-      <pubDate>Fri, 11 Sep 2026 10:19:23 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Kars'ta Özgür Özel İzdihamı! "Biz Düşelim Sen Düşme!"</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Girne Gemi Faciasında yaşanan son gelişmeleri Onur Evrensel KKTC’den aktardı</title>
-      <link>https://www.youtube.com/shorts/x7VwGuNoBmM</link>
-      <guid isPermaLink="false">x7VwGuNoBmM</guid>
-      <pubDate>Fri, 11 Sep 2026 10:07:46 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Girne Gemi Faciasında yaşanan son gelişmeleri Onur Evrensel KKTC’den aktardı</description>
     </item>
   </channel>
 </rss>
