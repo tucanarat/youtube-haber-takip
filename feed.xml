@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 09:20:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 09:25:29 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: BAHÇELİ BUNLARI SÖYLEMİŞ! Ahmet Özer görüşmenin detaylarını anlattı! Meğer neler konuşulmuş neler!</title>
+      <link>https://www.youtube.com/watch?v=TSTnDQxpGYQ</link>
+      <guid isPermaLink="false">TSTnDQxpGYQ</guid>
+      <pubDate>Fri, 11 Sep 2026 09:21:00 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BAHÇELİ BUNLARI SÖYLEMİŞ! Ahmet Özer görüşmenin detaylarını anlattı! Meğer neler konuşulmuş neler!</description>
+    </item>
     <item>
       <title>Cumhuriyet: Özgür Çelik AKP'ye geçen Üsküdar Belediyesi meclis üyesi Ayhan Aydın'ın iddialarına yanıt verdi</title>
       <link>https://www.youtube.com/shorts/u6_9nRnAn2k</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">i5dI40GkI-k</guid>
       <pubDate>Fri, 11 Sep 2026 07:10:54 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Foça Belediye Başkanı Fıçı'nın AKP'ye katılmasına yurttaşlardan tepki: ''Oylarımızı sattı''</description>
-    </item>
-    <item>
-      <title>Halk TV: 35 kişinin öldüğü Ezgi Apartmanı davasında karar sonrası ailelerin avukatı Ahmet Çabukel isyan etti!</title>
-      <link>https://www.youtube.com/shorts/7k85QEkP9jQ</link>
-      <guid isPermaLink="false">7k85QEkP9jQ</guid>
-      <pubDate>Fri, 11 Sep 2026 07:07:47 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: 35 kişinin öldüğü Ezgi Apartmanı davasında karar sonrası ailelerin avukatı Ahmet Çabukel isyan etti!</description>
     </item>
   </channel>
 </rss>
