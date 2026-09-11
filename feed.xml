@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 21:25:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 21:30:43 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Ekrem İmamoğlu'na Hapis Cezası Şoku! İBB'ye Kayyum mu Atanacak? AKP'nin Planı İfşa Oldu!</title>
+      <link>https://www.youtube.com/watch?v=JhIQljwDSIg</link>
+      <guid isPermaLink="false">JhIQljwDSIg</guid>
+      <pubDate>Fri, 11 Sep 2026 21:20:24 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Ekrem İmamoğlu'na Hapis Cezası Şoku! İBB'ye Kayyum mu Atanacak? AKP'nin Planı İfşa Oldu!</description>
+    </item>
+    <item>
+      <title>Halk TV: Cumhurbaşkanı Erdoğan, 'muhalefetin ne dediğiyle ilgilenmediğini' açıkladı! İşte o açıklama!</title>
+      <link>https://www.youtube.com/watch?v=tBZJNPcE070</link>
+      <guid isPermaLink="false">tBZJNPcE070</guid>
+      <pubDate>Fri, 11 Sep 2026 21:15:34 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Cumhurbaşkanı Erdoğan, 'muhalefetin ne dediğiyle ilgilenmediğini' açıkladı! İşte o açıklama!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: GİZLİ SERVETİ İFŞA OLDU! Turhan Çömez'den Belgelerle Parsel Parsel Melih Gökçek Dosyası</title>
       <link>https://www.youtube.com/watch?v=KnJZqnqljVU</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">VCDM91lhc1c</guid>
       <pubDate>Fri, 11 Sep 2026 16:00:22 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: ERDOĞAN'DAN ERKEN SEÇİM MESAJI! Ankara Kulisleri Yangın Yeri! Özgür Özel Düğmeye Bastı</description>
-    </item>
-    <item>
-      <title>Halk TV: Cumhurbaşkanı Erdoğan, AKP Rize Genişletilmiş İl Danışma Meclis Toplantısı’nda konuştu.</title>
-      <link>https://www.youtube.com/watch?v=_Vkb8IBPr0Q</link>
-      <guid isPermaLink="false">_Vkb8IBPr0Q</guid>
-      <pubDate>Fri, 11 Sep 2026 15:51:03 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Cumhurbaşkanı Erdoğan, AKP Rize Genişletilmiş İl Danışma Meclis Toplantısı’nda konuştu.</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Ekrem İmamoğlu'na Siyasi Yasak! Hapis Cezası Belli Oldu! Mahkeme Kararını Verdi</title>
-      <link>https://www.youtube.com/watch?v=_tbMsGhnYMM</link>
-      <guid isPermaLink="false">_tbMsGhnYMM</guid>
-      <pubDate>Fri, 11 Sep 2026 15:38:51 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Ekrem İmamoğlu'na Siyasi Yasak! Hapis Cezası Belli Oldu! Mahkeme Kararını Verdi</description>
     </item>
   </channel>
 </rss>
