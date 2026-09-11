@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 07:45:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 07:50:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Bülent Tezcan'dan pazar ziyareti: 10 liralık maydanoz kredi kartıyla, havuç taneyle alınıyor!</title>
+      <link>https://www.youtube.com/shorts/Gy8cHF-eRe8</link>
+      <guid isPermaLink="false">Gy8cHF-eRe8</guid>
+      <pubDate>Fri, 11 Sep 2026 07:45:14 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Bülent Tezcan'dan pazar ziyareti: 10 liralık maydanoz kredi kartıyla, havuç taneyle alınıyor!</description>
+    </item>
     <item>
       <title>Cumhuriyet: "Bir daha asla dönmemek kaydıyla...": İsmail Kartal’dan olay yaratan istifa kararı</title>
       <link>https://www.youtube.com/shorts/pQFlvm09O7c</link>
       <guid isPermaLink="false">pQFlvm09O7c</guid>
       <pubDate>Fri, 11 Sep 2026 07:42:11 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: "Bir daha asla dönmemek kaydıyla...": İsmail Kartal’dan olay yaratan istifa kararı</description>
+    </item>
+    <item>
+      <title>Halk TV: FENERBAHÇE'DE 'İSTİFA' DEPREMİ! İsmail Kartal görevinden ayrıldı, başkan Aziz Yıldırım kabul etmedi!</title>
+      <link>https://www.youtube.com/watch?v=Yv8jZLLrHdo</link>
+      <guid isPermaLink="false">Yv8jZLLrHdo</guid>
+      <pubDate>Fri, 11 Sep 2026 07:40:10 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: FENERBAHÇE'DE 'İSTİFA' DEPREMİ! İsmail Kartal görevinden ayrıldı, başkan Aziz Yıldırım kabul etmedi!</description>
     </item>
     <item>
       <title>Cumhuriyet: Esnaf müşteri bulamıyor veli bütçeyi yetiştiremiyor: Okul masrafı 10 bini aştı</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">qlDb_mN9itU</guid>
       <pubDate>Thu, 10 Sep 2026 22:40:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: SEÇİMİ KAZANIRSA KESENİN AĞZINI AÇACAK! Trump'tan Rüşvet Gibi Vaat</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: İstanbul Boğazı'ndaki köprüler ve otoyollar özelleştiriliyor! Engin Solakoğlu'nda kritik yorum...</title>
-      <link>https://www.youtube.com/watch?v=gzeaJKOdXbY</link>
-      <guid isPermaLink="false">gzeaJKOdXbY</guid>
-      <pubDate>Thu, 10 Sep 2026 22:30:10 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: İstanbul Boğazı'ndaki köprüler ve otoyollar özelleştiriliyor! Engin Solakoğlu'nda kritik yorum...</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Ezgi Apartmanı davası sonrası aileler ve avukatlar açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=ivnPi2W2cBM</link>
-      <guid isPermaLink="false">ivnPi2W2cBM</guid>
-      <pubDate>Thu, 10 Sep 2026 22:26:01 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Ezgi Apartmanı davası sonrası aileler ve avukatlar açıklama yapıyor #Canlı</description>
     </item>
   </channel>
 </rss>
