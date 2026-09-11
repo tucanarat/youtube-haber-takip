@@ -6,13 +6,34 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 15:35:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 15:40:32 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Ekrem İmamoğlu'na Siyasi Yasak! Hapis Cezası Belli Oldu! Mahkeme Kararını Verdi</title>
+      <link>https://www.youtube.com/watch?v=_tbMsGhnYMM</link>
+      <guid isPermaLink="false">_tbMsGhnYMM</guid>
+      <pubDate>Fri, 11 Sep 2026 15:38:51 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Ekrem İmamoğlu'na Siyasi Yasak! Hapis Cezası Belli Oldu! Mahkeme Kararını Verdi</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Özgür Özel'in Dili Sürçtü Müsavat Dervişoğlu'ndan Yanıt Gecikmedi! Siyasette Güldüren Gönderme</title>
+      <link>https://www.youtube.com/watch?v=K-EeMOmfRX4</link>
+      <guid isPermaLink="false">K-EeMOmfRX4</guid>
+      <pubDate>Fri, 11 Sep 2026 15:30:11 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Özgür Özel'in Dili Sürçtü Müsavat Dervişoğlu'ndan Yanıt Gecikmedi! Siyasette Güldüren Gönderme</description>
+    </item>
     <item>
       <title>Tele2 Haber: İç siyasette dengeleri değiştirecek hamle nereden gelir? Yavuz Selim Demirağ yorumladı...</title>
       <link>https://www.youtube.com/watch?v=5Uhnwm0ypf8</link>
       <guid isPermaLink="false">5Uhnwm0ypf8</guid>
       <pubDate>Fri, 11 Sep 2026 15:30:05 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: İç siyasette dengeleri değiştirecek hamle nereden gelir? Yavuz Selim Demirağ yorumladı...</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Cumhurbaşkanı Erdoğan, AKP Rize Genişletilmiş İl Danışma Meclis Toplantısı’nda konuşuyor!</title>
+      <link>https://www.youtube.com/watch?v=_Vkb8IBPr0Q</link>
+      <guid isPermaLink="false">_Vkb8IBPr0Q</guid>
+      <pubDate>Fri, 11 Sep 2026 15:29:04 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Cumhurbaşkanı Erdoğan, AKP Rize Genişletilmiş İl Danışma Meclis Toplantısı’nda konuşuyor!</description>
     </item>
     <item>
       <title>Halk TV: DUYUNCA ŞOKE OLACAKSINIZ! Ertan Aksoy, Erdoğan'ın 'seçim' planını ifşa etti! Meğer Erdoğan...</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">5f-eKTnTtJ8</guid>
       <pubDate>Fri, 11 Sep 2026 12:10:01 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ANKARA BU GÜNDEMLE ISINIYOR! Özgür Özel'den Erdoğan'ın 'seçim' sözlerini pişman edecek çıkış!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İsmail Küçükkaya'dan Bomba Erdoğan - Mansur Yavaş Görüşmesi Yorumu! O Soru Ankara'yı Salladı</title>
-      <link>https://www.youtube.com/watch?v=rajC1Jlr0fI</link>
-      <guid isPermaLink="false">rajC1Jlr0fI</guid>
-      <pubDate>Fri, 11 Sep 2026 12:00:30 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya'dan Bomba Erdoğan - Mansur Yavaş Görüşmesi Yorumu! O Soru Ankara'yı Salladı</description>
-    </item>
-    <item>
-      <title>Halk TV: ÖZGÜR ÖZEL'E KARS'TA GÖRÜLMEMİŞ İLGİ! Binler meydanlara sel oldu aktı! İzdihamdan yine yürüyemedi!</title>
-      <link>https://www.youtube.com/watch?v=aTerj-tjn8A</link>
-      <guid isPermaLink="false">aTerj-tjn8A</guid>
-      <pubDate>Fri, 11 Sep 2026 11:55:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ÖZGÜR ÖZEL'E KARS'TA GÖRÜLMEMİŞ İLGİ! Binler meydanlara sel oldu aktı! İzdihamdan yine yürüyemedi!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Gölbaşı’nda korkutan yangın: Ormanlık alanda çıkan alevlere müdahale başlatıldı</title>
-      <link>https://www.youtube.com/shorts/NN99ciOVdl4</link>
-      <guid isPermaLink="false">NN99ciOVdl4</guid>
-      <pubDate>Fri, 11 Sep 2026 11:50:18 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Gölbaşı’nda korkutan yangın: Ormanlık alanda çıkan alevlere müdahale başlatıldı</description>
     </item>
   </channel>
 </rss>
