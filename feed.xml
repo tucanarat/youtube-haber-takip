@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 19:30:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 19:35:29 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Melih Gökçek ifade vermeye sakız çiğneyerek gelmişti! Hüsnü Mahalli'den dikkat çeken uyarı...</title>
+      <link>https://www.youtube.com/watch?v=m06FAj1zx3Q</link>
+      <guid isPermaLink="false">m06FAj1zx3Q</guid>
+      <pubDate>Fri, 11 Sep 2026 19:30:05 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Melih Gökçek ifade vermeye sakız çiğneyerek gelmişti! Hüsnü Mahalli'den dikkat çeken uyarı...</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: CANLI YAYINDA "ANA DİL" GERGİNLİĞİ! Uğur Poyraz ve Fikri Sağlar Birbirine Girdi</title>
+      <link>https://www.youtube.com/watch?v=Jc3EKlmZgQk</link>
+      <guid isPermaLink="false">Jc3EKlmZgQk</guid>
+      <pubDate>Fri, 11 Sep 2026 19:20:20 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: CANLI YAYINDA "ANA DİL" GERGİNLİĞİ! Uğur Poyraz ve Fikri Sağlar Birbirine Girdi</description>
+    </item>
     <item>
       <title>Halk TV: AĞIR KONUŞTU! Siyaset bilimci Burak Cop: "Uzak olmayan bir gelecekte halk, notunu verecek!"</title>
       <link>https://www.youtube.com/watch?v=9qacZ8EuURs</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">cJeeXH_GI80</guid>
       <pubDate>Fri, 11 Sep 2026 14:36:27 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Kars'ta yurttaşlar Özgür Özel'e sarılmak için birbiriyle yarıştı!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "AKP HAREKET EDEN ÖLÜLER TOPLULUĞU HALİNE GELMİŞ" Kocabıyık'tan Çok Sert Üsküdar Yorumu!</title>
-      <link>https://www.youtube.com/watch?v=X0BO6JVZn10</link>
-      <guid isPermaLink="false">X0BO6JVZn10</guid>
-      <pubDate>Fri, 11 Sep 2026 14:30:13 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "AKP HAREKET EDEN ÖLÜLER TOPLULUĞU HALİNE GELMİŞ" Kocabıyık'tan Çok Sert Üsküdar Yorumu!</description>
-    </item>
-    <item>
-      <title>Halk TV: TÜRKİYE ONU KONUŞUYOR! İlk kadın futbol teknik direktörü Zeynep Mestan, başına gelenleri anlattı!</title>
-      <link>https://www.youtube.com/watch?v=yTATk-aahoU</link>
-      <guid isPermaLink="false">yTATk-aahoU</guid>
-      <pubDate>Fri, 11 Sep 2026 14:25:01 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: TÜRKİYE ONU KONUŞUYOR! İlk kadın futbol teknik direktörü Zeynep Mestan, başına gelenleri anlattı!</description>
     </item>
   </channel>
 </rss>
