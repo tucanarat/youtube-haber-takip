@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 17:40:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 17:45:35 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: MANSUR YAVAŞ YENİ PARTİYE Mİ GEÇİYOR? Çarpıcı Anket Sonuçları! Kılıçdaroğlu Bunu Beklemiyordu</title>
+      <link>https://www.youtube.com/watch?v=0pg7SPjjHnY</link>
+      <guid isPermaLink="false">0pg7SPjjHnY</guid>
+      <pubDate>Fri, 11 Sep 2026 17:40:25 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: MANSUR YAVAŞ YENİ PARTİYE Mİ GEÇİYOR? Çarpıcı Anket Sonuçları! Kılıçdaroğlu Bunu Beklemiyordu</description>
+    </item>
     <item>
       <title>Halk TV: Özgür Özel’den, Erdoğan’a dikkat çeken ‘seçim’ göndermesi! #shorts</title>
       <link>https://www.youtube.com/shorts/Qpc5ky8apfA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">IacDOmBBBWY</guid>
       <pubDate>Fri, 11 Sep 2026 14:01:49 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Kayseri’de gece saatlerinde yangın paniği: Mahallenin kıraathanesi alev alev yandı</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Özgür Özel pazarlığı bitirdi #shorts</title>
-      <link>https://www.youtube.com/shorts/1GU3EF3Jzt0</link>
-      <guid isPermaLink="false">1GU3EF3Jzt0</guid>
-      <pubDate>Fri, 11 Sep 2026 14:00:58 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Özgür Özel pazarlığı bitirdi #shorts</description>
     </item>
   </channel>
 </rss>
