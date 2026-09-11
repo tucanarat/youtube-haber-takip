@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 18:50:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 18:55:27 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ERDOĞAN'A SERT ELEŞTİRİ! İyi Parti milletvekili Selçuk Türkoğlu açtı ağzını yumdu gözünü!</title>
+      <link>https://www.youtube.com/watch?v=rdhlL6ngHNo</link>
+      <guid isPermaLink="false">rdhlL6ngHNo</guid>
+      <pubDate>Fri, 11 Sep 2026 18:50:10 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ERDOĞAN'A SERT ELEŞTİRİ! İyi Parti milletvekili Selçuk Türkoğlu açtı ağzını yumdu gözünü!</description>
+    </item>
     <item>
       <title>Halk TV: YANGINDAN KAÇABİLMEK İÇİN ATLADILAR! Markette çıkan yangın üst katlara sıçradı! İşte dehşet anları!</title>
       <link>https://www.youtube.com/watch?v=y8L8YKpskrs</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">H5NuHemKTF0</guid>
       <pubDate>Fri, 11 Sep 2026 14:19:49 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Özgür Çelik’ten Sert Çıkış: Bayrampaşa, Tuzla, Çekmeköy neden araştırılmıyor?</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Özgür Özel’den Erdoğan’a sandık çağrısı: "Milletin umudu olan seçim atlatılmaz"</title>
-      <link>https://www.youtube.com/watch?v=iwd1zQSr5Ek</link>
-      <guid isPermaLink="false">iwd1zQSr5Ek</guid>
-      <pubDate>Fri, 11 Sep 2026 14:18:29 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Özgür Özel’den Erdoğan’a sandık çağrısı: "Milletin umudu olan seçim atlatılmaz"</description>
     </item>
   </channel>
 </rss>
