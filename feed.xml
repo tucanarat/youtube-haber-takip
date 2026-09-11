@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 20:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 20:45:30 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: Erdoğan parkeye çıktı basketbol oynadı! Murat Taylan'dan güldüren benzetme...</title>
       <link>https://www.youtube.com/watch?v=fIstuVmrTJc</link>
       <guid isPermaLink="false">fIstuVmrTJc</guid>
       <pubDate>Fri, 11 Sep 2026 20:30:22 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Erdoğan parkeye çıktı basketbol oynadı! Murat Taylan'dan güldüren benzetme...</description>
+    </item>
+    <item>
+      <title>Halk TV: AKP'NİN ASIL AMACINI TEK TEK ANLATTI! Gazeteci Küçükşahin: Demokrasi yeniden katlediliyor!</title>
+      <link>https://www.youtube.com/watch?v=ikhFJygdom0</link>
+      <guid isPermaLink="false">ikhFJygdom0</guid>
+      <pubDate>Fri, 11 Sep 2026 20:30:18 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: AKP'NİN ASIL AMACINI TEK TEK ANLATTI! Gazeteci Küçükşahin: Demokrasi yeniden katlediliyor!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Seyit Torun Ekrem İmamoğlu'na Verilen Siyasi Yasak Kararını Yerden Yere Vurdu! AKP'ye Ateş Püskürdü</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">QlOGCOPFXjo</guid>
       <pubDate>Fri, 11 Sep 2026 15:00:29 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Müsavat Dervişoğlu'ndan Bomba İddia! MİT Başkanı İle Ne Konuştu? "Öcalan'a Yeni Ev Yapıldı!"</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Melih Gökçek 'Sadece Emekli Maaşım Var' demişti! Yavuz Selim Demirbağ'dan çok kritik yorum...</title>
-      <link>https://www.youtube.com/watch?v=_Tfghp7chhE</link>
-      <guid isPermaLink="false">_Tfghp7chhE</guid>
-      <pubDate>Fri, 11 Sep 2026 15:00:29 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Melih Gökçek 'Sadece Emekli Maaşım Var' demişti! Yavuz Selim Demirbağ'dan çok kritik yorum...</description>
     </item>
   </channel>
 </rss>
