@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 09:45:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 09:50:31 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Girne faciasında zanlılar yeniden mahkemeye çıkarıldı. Acılı aile feryat etti.</title>
+      <link>https://www.youtube.com/shorts/vgn7Hgcj4zs</link>
+      <guid isPermaLink="false">vgn7Hgcj4zs</guid>
+      <pubDate>Fri, 11 Sep 2026 09:42:38 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Girne faciasında zanlılar yeniden mahkemeye çıkarıldı. Acılı aile feryat etti.</description>
+    </item>
+    <item>
+      <title>Halk TV: BU AÇIKLAMA GÜNDEMİ SARSACAK! Bahçeli, Özgür Özel'in dokunulmazlığı hakkında konuştu! İşte o sözler!</title>
+      <link>https://www.youtube.com/watch?v=jPjSNxnyRoU</link>
+      <guid isPermaLink="false">jPjSNxnyRoU</guid>
+      <pubDate>Fri, 11 Sep 2026 09:38:14 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BU AÇIKLAMA GÜNDEMİ SARSACAK! Bahçeli, Özgür Özel'in dokunulmazlığı hakkında konuştu! İşte o sözler!</description>
+    </item>
     <item>
       <title>Halk TV: 'SAVCI TEHDİDİ' İDDİASI ÜLKE GÜNDEMİNE OTURDU! Özgür Çelik İfade İçin Çağlayan Adliyesi'nde</title>
       <link>https://www.youtube.com/watch?v=sSzJk3r3MYY</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">vc6esc5XZXs</guid>
       <pubDate>Fri, 11 Sep 2026 07:23:36 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Ezgi Apartmanı’ndan sağ kurtulmuştu! Karar sonrası isyan etti: Ben bugün öldüm!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Kentsel dönüşüm yıkımında büyük sürpriz: Avcılar’da binanın duvarından 25 kilo bal çıktı</title>
-      <link>https://www.youtube.com/shorts/SZDNQllTKMk</link>
-      <guid isPermaLink="false">SZDNQllTKMk</guid>
-      <pubDate>Fri, 11 Sep 2026 07:22:58 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Kentsel dönüşüm yıkımında büyük sürpriz: Avcılar’da binanın duvarından 25 kilo bal çıktı</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Çelik Üsküdar soruşturmasında ifade vermek için adliyede!</title>
-      <link>https://www.youtube.com/shorts/63H2JQdaEtI</link>
-      <guid isPermaLink="false">63H2JQdaEtI</guid>
-      <pubDate>Fri, 11 Sep 2026 07:21:02 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Çelik Üsküdar soruşturmasında ifade vermek için adliyede!</description>
     </item>
   </channel>
 </rss>
