@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 09:50:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 09:55:28 +0000</lastBuildDate>
     <item>
       <title>Cumhuriyet: Girne faciasında zanlılar yeniden mahkemeye çıkarıldı. Acılı aile feryat etti.</title>
       <link>https://www.youtube.com/shorts/vgn7Hgcj4zs</link>
@@ -27,6 +27,13 @@
       <guid isPermaLink="false">sSzJk3r3MYY</guid>
       <pubDate>Fri, 11 Sep 2026 09:37:42 +0000</pubDate>
       <description>Halk TV kanalından yeni video: 'SAVCI TEHDİDİ' İDDİASI ÜLKE GÜNDEMİNE OTURDU! Özgür Çelik İfade İçin Çağlayan Adliyesi'nde</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: YENİ Parti Genel Başkanı Özgür Özel, Faik Bey Caddesi'nde esnafı ziyaret ediyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=F0nobBzz62A</link>
+      <guid isPermaLink="false">F0nobBzz62A</guid>
+      <pubDate>Fri, 11 Sep 2026 09:36:41 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Genel Başkanı Özgür Özel, Faik Bey Caddesi'nde esnafı ziyaret ediyor #Canlı</description>
     </item>
     <item>
       <title>SÖZCÜ TV: ERDOĞAN-YAVAŞ GÖRÜŞMESİNİN PERDE ARKASI! Müsavat Dervişoğlu İlk Kez İsmail Küçükkaya'ya Anlattı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">A8rHUsKrL3M</guid>
       <pubDate>Fri, 11 Sep 2026 07:24:46 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Okul alışverişinde zorlanan veliler dertli: Okul masrafı 10 bin lirayı geçiyor</description>
-    </item>
-    <item>
-      <title>Halk TV: Ezgi Apartmanı’ndan sağ kurtulmuştu! Karar sonrası isyan etti: Ben bugün öldüm!</title>
-      <link>https://www.youtube.com/shorts/vc6esc5XZXs</link>
-      <guid isPermaLink="false">vc6esc5XZXs</guid>
-      <pubDate>Fri, 11 Sep 2026 07:23:36 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ezgi Apartmanı’ndan sağ kurtulmuştu! Karar sonrası isyan etti: Ben bugün öldüm!</description>
     </item>
   </channel>
 </rss>
