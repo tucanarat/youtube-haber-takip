@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 20:50:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 20:55:27 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: GÖKÇEK DOSYASI PATLADI: Murat Ağırel Almanya'daki Gizli Serveti Belgeleriyle İfşa Etti!</title>
+      <link>https://www.youtube.com/watch?v=Csonbd_PqLQ</link>
+      <guid isPermaLink="false">Csonbd_PqLQ</guid>
+      <pubDate>Fri, 11 Sep 2026 20:40:07 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: GÖKÇEK DOSYASI PATLADI: Murat Ağırel Almanya'daki Gizli Serveti Belgeleriyle İfşa Etti!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Erdoğan parkeye çıktı basketbol oynadı! Murat Taylan'dan güldüren benzetme...</title>
       <link>https://www.youtube.com/watch?v=fIstuVmrTJc</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">g8WS7BIpZYk</guid>
       <pubDate>Fri, 11 Sep 2026 15:10:19 +0000</pubDate>
       <description>Halk TV kanalından yeni video: DUYUNCA ŞOKE OLACAKSINIZ! Ertan Aksoy, Erdoğan'ın 'seçim' planını ifşa etti! Meğer Erdoğan...</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Müsavat Dervişoğlu'ndan Bomba İddia! MİT Başkanı İle Ne Konuştu? "Öcalan'a Yeni Ev Yapıldı!"</title>
-      <link>https://www.youtube.com/watch?v=QlOGCOPFXjo</link>
-      <guid isPermaLink="false">QlOGCOPFXjo</guid>
-      <pubDate>Fri, 11 Sep 2026 15:00:29 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Müsavat Dervişoğlu'ndan Bomba İddia! MİT Başkanı İle Ne Konuştu? "Öcalan'a Yeni Ev Yapıldı!"</description>
     </item>
   </channel>
 </rss>
