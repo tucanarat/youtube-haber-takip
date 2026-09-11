@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 11:40:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 11:45:33 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: İki ilçeyi bağlayan köprüde korkutan manzara: Tabliyeler arasında 20 santimlik açıklık oluştu</title>
+      <link>https://www.youtube.com/shorts/0p9RfFRQb1I</link>
+      <guid isPermaLink="false">0p9RfFRQb1I</guid>
+      <pubDate>Fri, 11 Sep 2026 11:42:36 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: İki ilçeyi bağlayan köprüde korkutan manzara: Tabliyeler arasında 20 santimlik açıklık oluştu</description>
+    </item>
     <item>
       <title>Cumhuriyet: Bakırköy’de yangın paniği: Ağaçlık bölgede çıkan yangına ekipler müdahale ediyor</title>
       <link>https://www.youtube.com/shorts/QXb84zpk_iE</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">tRjsFTIRgQQ</guid>
       <pubDate>Fri, 11 Sep 2026 09:03:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Parti İstanbul İl Başkanı Özgür Çelik, İstanbul Adliyesi Önünde Açıklama Yaptı</description>
-    </item>
-    <item>
-      <title>Halk TV: SANKİ SANDIKTA KAZANMIŞ GİBİ! AKP'ye geçen Üsküdar'da başkan vekili sokağa çıkıp esnafı ziyaret etti</title>
-      <link>https://www.youtube.com/watch?v=w94JnnB3V0E</link>
-      <guid isPermaLink="false">w94JnnB3V0E</guid>
-      <pubDate>Fri, 11 Sep 2026 09:02:27 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SANKİ SANDIKTA KAZANMIŞ GİBİ! AKP'ye geçen Üsküdar'da başkan vekili sokağa çıkıp esnafı ziyaret etti</description>
     </item>
   </channel>
 </rss>
