@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 16:35:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 16:40:29 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: AİHM KARARI SONRASI YENİ HAMLE! Osman Kavala yeniden yargılama talep etti!</title>
+      <link>https://www.youtube.com/watch?v=yL7yd9gxgN0</link>
+      <guid isPermaLink="false">yL7yd9gxgN0</guid>
+      <pubDate>Sat, 12 Sep 2026 16:31:08 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: AİHM KARARI SONRASI YENİ HAMLE! Osman Kavala yeniden yargılama talep etti!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Sinem Dedetaş, cezaevinden gönderdiği mektupla Üsküdar'da yurttaşlara seslendi!</title>
       <link>https://www.youtube.com/watch?v=JkZawVkbJLA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">94VAtru9iWo</guid>
       <pubDate>Sat, 12 Sep 2026 11:15:19 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Burak Tatari ile Masada Ne Var?</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: #CANLI Ekrem Açıkel İle Hafta Sonu Ana Haber</title>
-      <link>https://www.youtube.com/watch?v=EBxTVEU-L4c</link>
-      <guid isPermaLink="false">EBxTVEU-L4c</guid>
-      <pubDate>Sat, 12 Sep 2026 11:11:04 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: #CANLI Ekrem Açıkel İle Hafta Sonu Ana Haber</description>
     </item>
   </channel>
 </rss>
