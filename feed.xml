@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 03:35:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 03:40:30 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: ERDOĞAN SONRASI AKP'Yİ NE BEKLİYOR? Zeynel Lüle ile Ankara Günlüğü | Konuk: Yavuz Selim Demirağ</title>
+      <link>https://www.youtube.com/watch?v=l_t3aDzv7-0</link>
+      <guid isPermaLink="false">l_t3aDzv7-0</guid>
+      <pubDate>Sat, 12 Sep 2026 02:25:36 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: ERDOĞAN SONRASI AKP'Yİ NE BEKLİYOR? Zeynel Lüle ile Ankara Günlüğü | Konuk: Yavuz Selim Demirağ</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Cumhurbaşkanı Erdoğan, yapımı tamamlanan yatırımların toplu açılış töreninde konuşuyor / Rize #Canlı</title>
       <link>https://www.youtube.com/watch?v=e0x7oPkz0Tk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">jog2lAznOBY</guid>
       <pubDate>Fri, 11 Sep 2026 17:20:36 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Ekrem İmamoğlu'ndan Kemal Kılıçdaroğlu'na Zehir Zemberek Yanıt! ANKARA KULİSLERİ ALEV ALEV</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel’den Erdoğan’a emekli tepkisi! “Emekli 23 bin lirayla açlığı atlatamıyor!” #shorts</title>
-      <link>https://www.youtube.com/shorts/L8CchkQF8kM</link>
-      <guid isPermaLink="false">L8CchkQF8kM</guid>
-      <pubDate>Fri, 11 Sep 2026 17:14:54 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel’den Erdoğan’a emekli tepkisi! “Emekli 23 bin lirayla açlığı atlatamıyor!” #shorts</description>
     </item>
   </channel>
 </rss>
