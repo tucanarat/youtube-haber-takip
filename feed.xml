@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 15:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 15:05:23 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Melih Gökçek soruşturmasında şok detay! Turhan Çömez, Ankara kulislerini sallayan iddiaları açıkladı</title>
+      <link>https://www.youtube.com/watch?v=JKxC1-cX8Xo</link>
+      <guid isPermaLink="false">JKxC1-cX8Xo</guid>
+      <pubDate>Sat, 12 Sep 2026 15:00:23 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Melih Gökçek soruşturmasında şok detay! Turhan Çömez, Ankara kulislerini sallayan iddiaları açıkladı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: 'Husiler Suudi Arabistan'ı Dize Getirdi' Ortadoğu Yine Alev Alev! Naim Babüroğlu Tehlikeyi Anlattı</title>
+      <link>https://www.youtube.com/watch?v=IP1HcrEcmZ8</link>
+      <guid isPermaLink="false">IP1HcrEcmZ8</guid>
+      <pubDate>Sat, 12 Sep 2026 15:00:18 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: 'Husiler Suudi Arabistan'ı Dize Getirdi' Ortadoğu Yine Alev Alev! Naim Babüroğlu Tehlikeyi Anlattı</description>
+    </item>
     <item>
       <title>Halk TV: Işın Eliçin ile Sınırsız (12 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=rFHBAvLSHHY</link>
@@ -20,6 +34,13 @@
       <guid isPermaLink="false">vXAbvKkvytg</guid>
       <pubDate>Sat, 12 Sep 2026 14:56:29 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Merve Ekinci İle Haber Bülteni | 12 Eylül</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Sinem Fıstıkoğlu ile Hafta Sonu Ana Haber</title>
+      <link>https://www.youtube.com/watch?v=eUQNuUIwjMU</link>
+      <guid isPermaLink="false">eUQNuUIwjMU</guid>
+      <pubDate>Sat, 12 Sep 2026 14:51:26 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Sinem Fıstıkoğlu ile Hafta Sonu Ana Haber</description>
     </item>
     <item>
       <title>SÖZCÜ TV: ERDOĞAN - YAVAŞ GÖRÜŞMESİNDE BOMBA KULİS! 2027'de Seçim Planı! Barış Terkoğlu Anlattı</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">yjT4lGYOv6Q</guid>
       <pubDate>Sat, 12 Sep 2026 10:12:58 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Mansur Yavaş'tan net mesaj: “Ayrılıkta azap vardır, birlikte rahmet vardır”</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Lady Chatterley ve Arzu Kapitalizmi - Yalın Gündüz</title>
-      <link>https://www.youtube.com/watch?v=SOlA1EZx4qU</link>
-      <guid isPermaLink="false">SOlA1EZx4qU</guid>
-      <pubDate>Sat, 12 Sep 2026 10:03:02 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Lady Chatterley ve Arzu Kapitalizmi - Yalın Gündüz</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: MHK’ye ‘5’ gol! - Gülengül Altınsay</title>
-      <link>https://www.youtube.com/watch?v=nrFTFU75Mdg</link>
-      <guid isPermaLink="false">nrFTFU75Mdg</guid>
-      <pubDate>Sat, 12 Sep 2026 10:03:00 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: MHK’ye ‘5’ gol! - Gülengül Altınsay</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: İsrail’in ‘üç güvenlik halkası’ hedefi - Mehmet Ali Güller</title>
-      <link>https://www.youtube.com/watch?v=g1bRPGUdOiw</link>
-      <guid isPermaLink="false">g1bRPGUdOiw</guid>
-      <pubDate>Sat, 12 Sep 2026 10:02:59 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: İsrail’in ‘üç güvenlik halkası’ hedefi - Mehmet Ali Güller</description>
     </item>
   </channel>
 </rss>
