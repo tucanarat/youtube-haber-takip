@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 11:10:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 11:15:29 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Erdoğan'ın Mansur Yavaş Hamlesi! O Fotoğrafın Arkasındaki Plan! Timur Soykan'dan Olay Sözler</title>
+      <link>https://www.youtube.com/watch?v=opfBjqYEBEU</link>
+      <guid isPermaLink="false">opfBjqYEBEU</guid>
+      <pubDate>Sat, 12 Sep 2026 11:00:22 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Erdoğan'ın Mansur Yavaş Hamlesi! O Fotoğrafın Arkasındaki Plan! Timur Soykan'dan Olay Sözler</description>
+    </item>
     <item>
       <title>Halk TV: DERVİŞOĞLU ÇILGINA DÖNDÜ! Bahçeli'nin 'Öcalan'a ev yapıldı' açıklamasına resmen ateş püskürdü!</title>
       <link>https://www.youtube.com/watch?v=viISq9okhvA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">AdG7KAv2ty4</guid>
       <pubDate>Sat, 12 Sep 2026 07:47:21 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BU SÖZLER ÇOK CAN YAKAR! Kılıçdaroğlu'nun o çıkışı İmamoğlu'nu çıldırttı! Silivri'yi böyle inletti!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Eski MİT görevlisi Kaşif Kozinoğlu'nun mezarı bugün açılacak</title>
-      <link>https://www.youtube.com/shorts/EuchEVM9xCA</link>
-      <guid isPermaLink="false">EuchEVM9xCA</guid>
-      <pubDate>Sat, 12 Sep 2026 07:40:37 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Eski MİT görevlisi Kaşif Kozinoğlu'nun mezarı bugün açılacak</description>
     </item>
   </channel>
 </rss>
