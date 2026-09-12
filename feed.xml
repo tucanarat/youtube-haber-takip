@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 17:05:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 17:10:30 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Ekrem Açıkel İle Hafta Sonu Ana Haber 12 Eylül</title>
+      <link>https://www.youtube.com/watch?v=EBxTVEU-L4c</link>
+      <guid isPermaLink="false">EBxTVEU-L4c</guid>
+      <pubDate>Sat, 12 Sep 2026 17:06:30 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Ekrem Açıkel İle Hafta Sonu Ana Haber 12 Eylül</description>
+    </item>
     <item>
       <title>Tele2 Haber: "EY ERDOĞAN DUYUYOR MUSUN?" Özgür Özel, Üsküdar'da binlerce kişiyi göstererek Erdoğan'a seslendi!</title>
       <link>https://www.youtube.com/watch?v=2cKX3iVp0Mk</link>
       <guid isPermaLink="false">2cKX3iVp0Mk</guid>
       <pubDate>Sat, 12 Sep 2026 17:00:37 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "EY ERDOĞAN DUYUYOR MUSUN?" Özgür Özel, Üsküdar'da binlerce kişiyi göstererek Erdoğan'a seslendi!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Mansur Yavaş - Erdoğan Görüşmesinin Perde Arkası! Murat Ağırel Türkiye'yi Sarsacak</title>
+      <link>https://www.youtube.com/watch?v=0GPr4S1zlXs</link>
+      <guid isPermaLink="false">0GPr4S1zlXs</guid>
+      <pubDate>Sat, 12 Sep 2026 17:00:18 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Mansur Yavaş - Erdoğan Görüşmesinin Perde Arkası! Murat Ağırel Türkiye'yi Sarsacak</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | Gökmen Karadağ ile Açıkça</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">s3V20Xp0Hpk</guid>
       <pubDate>Sat, 12 Sep 2026 11:54:01 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Boşanmak istediği erkek tarafından vurulan kadın, iki bacağını kaybetti</description>
-    </item>
-    <item>
-      <title>Halk TV: ERDOĞAN 'SEÇİM' DÜĞMESİNE BASTI! Bu planı duyunca şoke olacaksınız! Mustafa Balbay o adımı ifşa etti</title>
-      <link>https://www.youtube.com/watch?v=VVkqtTVdSO8</link>
-      <guid isPermaLink="false">VVkqtTVdSO8</guid>
-      <pubDate>Sat, 12 Sep 2026 11:53:04 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ERDOĞAN 'SEÇİM' DÜĞMESİNE BASTI! Bu planı duyunca şoke olacaksınız! Mustafa Balbay o adımı ifşa etti</description>
-    </item>
-    <item>
-      <title>Halk TV: Çiftin düğün takıları Muradiye’de bir evin odunluğundan çıktı! Ev sahibi gözaltında!</title>
-      <link>https://www.youtube.com/shorts/-NwO5DAMbYM</link>
-      <guid isPermaLink="false">-NwO5DAMbYM</guid>
-      <pubDate>Sat, 12 Sep 2026 11:43:22 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Çiftin düğün takıları Muradiye’de bir evin odunluğundan çıktı! Ev sahibi gözaltında!</description>
     </item>
   </channel>
 </rss>
