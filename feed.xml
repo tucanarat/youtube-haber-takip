@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 10:40:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 10:45:31 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: 'AKP'YE GEÇENLER SAKİNLEŞTİRİCİ KULLANIYOR' Özgür Çelik'ten Siyaseti Sallayacak İddia!</title>
+      <link>https://www.youtube.com/watch?v=sF277CD91bA</link>
+      <guid isPermaLink="false">sF277CD91bA</guid>
+      <pubDate>Sat, 12 Sep 2026 10:30:19 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: 'AKP'YE GEÇENLER SAKİNLEŞTİRİCİ KULLANIYOR' Özgür Çelik'ten Siyaseti Sallayacak İddia!</description>
+    </item>
     <item>
       <title>Tele2 Haber: "Öcalan için İmralı'da villa hazırlandı" iddiası çıkmıştı! Özdemir İnce'den kritik yorum...</title>
       <link>https://www.youtube.com/watch?v=RUOHASyV6CM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">HFozGhe5TuU</guid>
       <pubDate>Sat, 12 Sep 2026 07:28:42 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: YENİ Partili Karadeniz Cevdet Yılmaz’a sordu: Sinop’un köylerine uğrayacak mısınız?</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Atakum Belediyesi işçilerinin açlık grevi dördüncü gününde</title>
-      <link>https://www.youtube.com/shorts/p_rTHaebVnU</link>
-      <guid isPermaLink="false">p_rTHaebVnU</guid>
-      <pubDate>Sat, 12 Sep 2026 07:24:47 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Atakum Belediyesi işçilerinin açlık grevi dördüncü gününde</description>
     </item>
   </channel>
 </rss>
