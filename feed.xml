@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 21:30:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 21:35:23 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Gürsel Tekin, partisine katılanlar için düzenlenen rozet takma töreninde konuşuyor</title>
+      <link>https://www.youtube.com/watch?v=eoYTTSOYGc4</link>
+      <guid isPermaLink="false">eoYTTSOYGc4</guid>
+      <pubDate>Sat, 12 Sep 2026 21:31:56 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Gürsel Tekin, partisine katılanlar için düzenlenen rozet takma töreninde konuşuyor</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: Ankara Kent Konseyi'nin 7. Olağan Genel Kurulu / Ankara #Canlı</title>
+      <link>https://www.youtube.com/watch?v=HaV4LqM-Z5g</link>
+      <guid isPermaLink="false">HaV4LqM-Z5g</guid>
+      <pubDate>Sat, 12 Sep 2026 21:21:13 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Ankara Kent Konseyi'nin 7. Olağan Genel Kurulu / Ankara #Canlı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: ÖCALAN'A İMRALI'DA VİLLA MI YAPILIYOR? Yeni Anayasa İçin Gizli Pazarlık İddiası!</title>
       <link>https://www.youtube.com/watch?v=NcbFveZLl7I</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">_-mVkA_kiz0</guid>
       <pubDate>Sat, 12 Sep 2026 16:13:42 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ABB Başkanı Mansur Yavaş’ın siyasi rotası seçmene soruldu! İşte o anketin sonuçları!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Husiler Babülmendep'i Ele Geçirdi, Petrol Fiyatları Uçtu! İran Cehennemi Yaşattı</title>
-      <link>https://www.youtube.com/watch?v=CIb1JjcgBwQ</link>
-      <guid isPermaLink="false">CIb1JjcgBwQ</guid>
-      <pubDate>Sat, 12 Sep 2026 16:00:16 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Husiler Babülmendep'i Ele Geçirdi, Petrol Fiyatları Uçtu! İran Cehennemi Yaşattı</description>
-    </item>
-    <item>
-      <title>Halk TV: Müsavat Dervişoğlu’ndan olay olacak sözler! “Devlete karşı statü pazarlığı yapılıyor!”</title>
-      <link>https://www.youtube.com/watch?v=DyMSrajF6g4</link>
-      <guid isPermaLink="false">DyMSrajF6g4</guid>
-      <pubDate>Sat, 12 Sep 2026 15:40:28 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Müsavat Dervişoğlu’ndan olay olacak sözler! “Devlete karşı statü pazarlığı yapılıyor!”</description>
     </item>
   </channel>
 </rss>
