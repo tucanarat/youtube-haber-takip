@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 08:35:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 08:40:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Silivri Cezaevi'nde yaşımını yitiren eski  MİT görevlisi Kaşif Kozinoğlu’nun mezarı açılıyor</title>
+      <link>https://www.youtube.com/shorts/yLaxmd_vfcc</link>
+      <guid isPermaLink="false">yLaxmd_vfcc</guid>
+      <pubDate>Sat, 12 Sep 2026 08:32:12 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Silivri Cezaevi'nde yaşımını yitiren eski  MİT görevlisi Kaşif Kozinoğlu’nun mezarı açılıyor</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Murat Ağırel Dosya Dosya Anlattı! Melih Gökçek'in Milyonları! İmralı İsyanı ve İmamoğlu Davası</title>
       <link>https://www.youtube.com/watch?v=QU_V6PbsoB4</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">p0MGKQamgvw</guid>
       <pubDate>Fri, 11 Sep 2026 21:30:27 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ÜSKÜDAR'DA NE 'SEVGİ' VAR NE DE 'SELİ'! Seçimle gelmiş gibi boy gösterisi yaptı! O flaş görüntüler!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Ekrem İmamoğlu'na Hapis Cezası Şoku! İBB'ye Kayyum mu Atanacak? AKP'nin Planı İfşa Oldu!</title>
-      <link>https://www.youtube.com/watch?v=JhIQljwDSIg</link>
-      <guid isPermaLink="false">JhIQljwDSIg</guid>
-      <pubDate>Fri, 11 Sep 2026 21:20:24 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Ekrem İmamoğlu'na Hapis Cezası Şoku! İBB'ye Kayyum mu Atanacak? AKP'nin Planı İfşa Oldu!</description>
     </item>
   </channel>
 </rss>
