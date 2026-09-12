@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 20:40:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 20:50:30 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: Burak Tatari ile Masada Ne Var? 12 Eylül</title>
       <link>https://www.youtube.com/watch?v=94VAtru9iWo</link>
@@ -27,6 +27,13 @@
       <guid isPermaLink="false">EbmgMUZ2wYM</guid>
       <pubDate>Sat, 12 Sep 2026 20:30:18 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Üsküdar Meydanı’nda “Tayyip istifa!” sloganları yeri göğü inletti! O anlar kameraya böyle yansıdı!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: "Bebek Katili Kabul Etmemiş!" Selçuk Türkoğlu'ndan AKP'ye Salvolar! İYİ Parti Düğmeye Bastı</title>
+      <link>https://www.youtube.com/watch?v=b4DUXrVh3gc</link>
+      <guid isPermaLink="false">b4DUXrVh3gc</guid>
+      <pubDate>Sat, 12 Sep 2026 20:30:12 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: "Bebek Katili Kabul Etmemiş!" Selçuk Türkoğlu'ndan AKP'ye Salvolar! İYİ Parti Düğmeye Bastı</description>
     </item>
     <item>
       <title>Halk TV: Tarihi kalabalık Üsküdar’ı doldurdu! “Üsküdar milletindir, karar milletindir!” #shorts</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">5cUGvxWzr1M</guid>
       <pubDate>Sat, 12 Sep 2026 15:15:16 +0000</pubDate>
       <description>Halk TV kanalından yeni video: "YAŞARKEN ÖLDÜRDÜLER BİZİ!" EYT dışında kalan milyonların isyan Ankara'yı sallar! Şoke edecek sözler</description>
-    </item>
-    <item>
-      <title>Halk TV: Melih Gökçek soruşturmasında şok detay! Turhan Çömez, Ankara kulislerini sallayan iddiaları açıkladı</title>
-      <link>https://www.youtube.com/watch?v=JKxC1-cX8Xo</link>
-      <guid isPermaLink="false">JKxC1-cX8Xo</guid>
-      <pubDate>Sat, 12 Sep 2026 15:00:23 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Melih Gökçek soruşturmasında şok detay! Turhan Çömez, Ankara kulislerini sallayan iddiaları açıkladı</description>
     </item>
   </channel>
 </rss>
