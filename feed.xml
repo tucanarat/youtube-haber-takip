@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 03:55:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 04:00:51 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Cumhurbaşkanı Erdoğan, AK Parti Rize Genişletilmiş İl Danışma Meclis Toplantısı’nda konuşuyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=6XTWejEENUQ</link>
+      <guid isPermaLink="false">6XTWejEENUQ</guid>
+      <pubDate>Sat, 12 Sep 2026 03:45:12 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Cumhurbaşkanı Erdoğan, AK Parti Rize Genişletilmiş İl Danışma Meclis Toplantısı’nda konuşuyor #Canlı</description>
+    </item>
     <item>
       <title>Tele2 Haber: ERDOĞAN SONRASI AKP'Yİ NE BEKLİYOR? Zeynel Lüle ile Ankara Günlüğü | Konuk: Yavuz Selim Demirağ</title>
       <link>https://www.youtube.com/watch?v=l_t3aDzv7-0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">0NNLocY7dQE</guid>
       <pubDate>Fri, 11 Sep 2026 17:30:21 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: 'Ezgi Apartmanı' kararı sonrası yakınlarını kaybedenler isyan etti! Murat Taylan'dan sert tepki...</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Ekrem İmamoğlu'ndan Kemal Kılıçdaroğlu'na Zehir Zemberek Yanıt! ANKARA KULİSLERİ ALEV ALEV</title>
-      <link>https://www.youtube.com/watch?v=jog2lAznOBY</link>
-      <guid isPermaLink="false">jog2lAznOBY</guid>
-      <pubDate>Fri, 11 Sep 2026 17:20:36 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Ekrem İmamoğlu'ndan Kemal Kılıçdaroğlu'na Zehir Zemberek Yanıt! ANKARA KULİSLERİ ALEV ALEV</description>
     </item>
   </channel>
 </rss>
