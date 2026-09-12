@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 17:45:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 17:50:11 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: #CANLI YENİ Parti'den Üsküdar İskele Meydanı'nda "Karar Milletindir, Üsküdar Milletindir" buluşması</title>
       <link>https://www.youtube.com/watch?v=AoE0sspmHus</link>
@@ -15,32 +15,11 @@
       <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti'den Üsküdar İskele Meydanı'nda "Karar Milletindir, Üsküdar Milletindir" buluşması</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | Sinem Fıstıkoğlu ile Hafta Sonu Ana Haber</title>
-      <link>https://www.youtube.com/watch?v=eUQNuUIwjMU</link>
-      <guid isPermaLink="false">eUQNuUIwjMU</guid>
-      <pubDate>Sat, 12 Sep 2026 17:44:51 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Sinem Fıstıkoğlu ile Hafta Sonu Ana Haber</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Üsküdar İskele Meydanı’nda konuşuyor!</title>
-      <link>https://www.youtube.com/watch?v=37CFTB8rEcM</link>
-      <guid isPermaLink="false">37CFTB8rEcM</guid>
-      <pubDate>Sat, 12 Sep 2026 17:42:08 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Üsküdar İskele Meydanı’nda konuşuyor!</description>
-    </item>
-    <item>
       <title>SÖZCÜ TV: Yeni Parti Lideri Özgür Özel'den Üsküdar'da Tarihi Miting</title>
       <link>https://www.youtube.com/watch?v=DVya1dtCML4</link>
       <guid isPermaLink="false">DVya1dtCML4</guid>
       <pubDate>Sat, 12 Sep 2026 17:41:43 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Yeni Parti Lideri Özgür Özel'den Üsküdar'da Tarihi Miting</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | YENİ Parti'den Üsküdar Meydanı'nda "Karar Milletindir, Üsküdar Milletindir" buluşması</title>
-      <link>https://www.youtube.com/watch?v=aSM6Xjkhl4U</link>
-      <guid isPermaLink="false">aSM6Xjkhl4U</guid>
-      <pubDate>Sat, 12 Sep 2026 17:40:37 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti'den Üsküdar Meydanı'nda "Karar Milletindir, Üsküdar Milletindir" buluşması</description>
     </item>
     <item>
       <title>SÖZCÜ TV: İRAN ABD'NİN GİZLİ SİLAHINI ELE GEÇİRDİ! Nevzat Çiçek Anlattı! Trump ve Pentagon'a Ağır Darbe</title>
@@ -155,6 +134,20 @@
       <description>Halk TV kanalından yeni video: ABB Başkanı Mansur Yavaş’ın siyasi rotası seçmene soruldu! İşte o anketin sonuçları!</description>
     </item>
     <item>
+      <title>Halk TV: #CANLI | YENİ Parti'den Üsküdar Meydanı'nda "Karar Milletindir, Üsküdar Milletindir" buluşması</title>
+      <link>https://www.youtube.com/watch?v=aSM6Xjkhl4U</link>
+      <guid isPermaLink="false">aSM6Xjkhl4U</guid>
+      <pubDate>Sat, 12 Sep 2026 16:06:12 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti'den Üsküdar Meydanı'nda "Karar Milletindir, Üsküdar Milletindir" buluşması</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Üsküdar İskele Meydanı’nda konuşuyor!</title>
+      <link>https://www.youtube.com/watch?v=37CFTB8rEcM</link>
+      <guid isPermaLink="false">37CFTB8rEcM</guid>
+      <pubDate>Sat, 12 Sep 2026 16:01:08 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti Genel Başkanı Özgür Özel, Üsküdar İskele Meydanı’nda konuşuyor!</description>
+    </item>
+    <item>
       <title>SÖZCÜ TV: Husiler Babülmendep'i Ele Geçirdi, Petrol Fiyatları Uçtu! İran Cehennemi Yaşattı</title>
       <link>https://www.youtube.com/watch?v=CIb1JjcgBwQ</link>
       <guid isPermaLink="false">CIb1JjcgBwQ</guid>
@@ -216,6 +209,13 @@
       <guid isPermaLink="false">vXAbvKkvytg</guid>
       <pubDate>Sat, 12 Sep 2026 14:56:29 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Merve Ekinci İle Haber Bülteni | 12 Eylül</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Sinem Fıstıkoğlu ile Hafta Sonu Ana Haber</title>
+      <link>https://www.youtube.com/watch?v=eUQNuUIwjMU</link>
+      <guid isPermaLink="false">eUQNuUIwjMU</guid>
+      <pubDate>Sat, 12 Sep 2026 14:51:26 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Sinem Fıstıkoğlu ile Hafta Sonu Ana Haber</description>
     </item>
     <item>
       <title>SÖZCÜ TV: ERDOĞAN - YAVAŞ GÖRÜŞMESİNDE BOMBA KULİS! 2027'de Seçim Planı! Barış Terkoğlu Anlattı</title>
