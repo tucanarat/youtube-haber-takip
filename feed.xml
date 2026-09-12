@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 17:25:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 17:30:45 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: ÖZGÜR ÇELİK İFŞA ETTİ! AKP'nin Üsküdar Oyununu Bir Bir Anlattı! Hedef İmamoğlu ve İBB mi?</title>
+      <link>https://www.youtube.com/watch?v=15gtRZkBDP0</link>
+      <guid isPermaLink="false">15gtRZkBDP0</guid>
+      <pubDate>Sat, 12 Sep 2026 17:20:36 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: ÖZGÜR ÇELİK İFŞA ETTİ! AKP'nin Üsküdar Oyununu Bir Bir Anlattı! Hedef İmamoğlu ve İBB mi?</description>
+    </item>
+    <item>
+      <title>Halk TV: YENİ PARTİ'DEN TARİHİ MESAJ! Üsküdar mitinginde Özgür Özel rüzgarı!</title>
+      <link>https://www.youtube.com/watch?v=aDjpjz45DL0</link>
+      <guid isPermaLink="false">aDjpjz45DL0</guid>
+      <pubDate>Sat, 12 Sep 2026 17:18:48 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YENİ PARTİ'DEN TARİHİ MESAJ! Üsküdar mitinginde Özgür Özel rüzgarı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Ekrem Açıkel İle Hafta Sonu Ana Haber 12 Eylül</title>
       <link>https://www.youtube.com/watch?v=EBxTVEU-L4c</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">tZGAuDh5VhQ</guid>
       <pubDate>Sat, 12 Sep 2026 12:10:18 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ÖCALAN'IN VİLLASI HAZIRMIŞ! İmralı'dan bomba bilgiler sızdı! Mustafa Balbay'dan dikkat çeken yorum!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: 'İSRAİL'İ BÜYÜK BİR DEPREM BEKLİYOR' Netanyahu Böyle Uyarılmış! Nevzat Çiçek Anlattı</title>
-      <link>https://www.youtube.com/watch?v=wQlXwfgR2DE</link>
-      <guid isPermaLink="false">wQlXwfgR2DE</guid>
-      <pubDate>Sat, 12 Sep 2026 12:00:07 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: 'İSRAİL'İ BÜYÜK BİR DEPREM BEKLİYOR' Netanyahu Böyle Uyarılmış! Nevzat Çiçek Anlattı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Boşanmak istediği erkek tarafından vurulan kadın, iki bacağını kaybetti</title>
-      <link>https://www.youtube.com/shorts/s3V20Xp0Hpk</link>
-      <guid isPermaLink="false">s3V20Xp0Hpk</guid>
-      <pubDate>Sat, 12 Sep 2026 11:54:01 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Boşanmak istediği erkek tarafından vurulan kadın, iki bacağını kaybetti</description>
     </item>
   </channel>
 </rss>
