@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 14:10:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 14:15:32 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: İsrail ve Türkiye Savaşır mı? Erol Mütercimler Ezber Bozan Gerçeği Açıkladı! Uyardı</title>
       <link>https://www.youtube.com/watch?v=0iWDWNKYJOY</link>
       <guid isPermaLink="false">0iWDWNKYJOY</guid>
       <pubDate>Sat, 12 Sep 2026 14:00:27 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İsrail ve Türkiye Savaşır mı? Erol Mütercimler Ezber Bozan Gerçeği Açıkladı! Uyardı</description>
+    </item>
+    <item>
+      <title>Halk TV: MİLYONLARCA İNSANIN GÖZÜ BU RAKAMDA! Özgür Erdursun 2027 yılı asgari ücreti için net rakam verdi!</title>
+      <link>https://www.youtube.com/watch?v=q67LjaYOoyY</link>
+      <guid isPermaLink="false">q67LjaYOoyY</guid>
+      <pubDate>Sat, 12 Sep 2026 14:00:08 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: MİLYONLARCA İNSANIN GÖZÜ BU RAKAMDA! Özgür Erdursun 2027 yılı asgari ücreti için net rakam verdi!</description>
     </item>
     <item>
       <title>Cumhuriyet: 'Kiraladık' demişti... Vanlı Kara Haydar'ın altınları odunluktan çıktı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">FPzqLZRhYLE</guid>
       <pubDate>Sat, 12 Sep 2026 10:02:58 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: İlkesiz siyasette hacıyatmazlar - Eren Aysan</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: İBB davasında yer alan firma mahkeme salonunun betonunu döktü! - Murat Ağırel</title>
-      <link>https://www.youtube.com/watch?v=6-vPhuouyIQ</link>
-      <guid isPermaLink="false">6-vPhuouyIQ</guid>
-      <pubDate>Sat, 12 Sep 2026 10:02:56 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: İBB davasında yer alan firma mahkeme salonunun betonunu döktü! - Murat Ağırel</description>
     </item>
   </channel>
 </rss>
