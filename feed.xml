@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 07:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 07:05:28 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: FETÖ Cinayeti mi? Barış Terkoğlu Kaşif Kozinoğlu Soruşturmasının Arkasındaki Gerçekleri Anlattı</title>
+      <link>https://www.youtube.com/watch?v=2YAJZr6GLQM</link>
+      <guid isPermaLink="false">2YAJZr6GLQM</guid>
+      <pubDate>Sat, 12 Sep 2026 07:00:25 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: FETÖ Cinayeti mi? Barış Terkoğlu Kaşif Kozinoğlu Soruşturmasının Arkasındaki Gerçekleri Anlattı</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Ankara Kent Konseyi'nin 7. Olağan Genel Kurulu / Ankara #Canlı</title>
       <link>https://www.youtube.com/watch?v=HaV4LqM-Z5g</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">y8L8YKpskrs</guid>
       <pubDate>Fri, 11 Sep 2026 18:30:32 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YANGINDAN KAÇABİLMEK İÇİN ATLADILAR! Markette çıkan yangın üst katlara sıçradı! İşte dehşet anları!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Fikri Sağlar Anlattı! AKP'ye Soğuk Duş! İşte Erdoğan'ın Uykularını Kaçıran Seçim Senaryosu</title>
-      <link>https://www.youtube.com/watch?v=km2J3p6ooyA</link>
-      <guid isPermaLink="false">km2J3p6ooyA</guid>
-      <pubDate>Fri, 11 Sep 2026 18:30:23 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Fikri Sağlar Anlattı! AKP'ye Soğuk Duş! İşte Erdoğan'ın Uykularını Kaçıran Seçim Senaryosu</description>
     </item>
   </channel>
 </rss>
