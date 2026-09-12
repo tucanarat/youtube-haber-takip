@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 16:05:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 16:10:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | YENİ Parti’den Üsküdar Meydanı’nda büyük buluşma!</title>
+      <link>https://www.youtube.com/watch?v=aSM6Xjkhl4U</link>
+      <guid isPermaLink="false">aSM6Xjkhl4U</guid>
+      <pubDate>Sat, 12 Sep 2026 16:06:12 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti’den Üsküdar Meydanı’nda büyük buluşma!</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | YENİ Parti'den Üsküdar Meydanı'nda "Karar Milletindir, Üsküdar Milletindir" buluşması</title>
+      <link>https://www.youtube.com/watch?v=37CFTB8rEcM</link>
+      <guid isPermaLink="false">37CFTB8rEcM</guid>
+      <pubDate>Sat, 12 Sep 2026 16:01:08 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti'den Üsküdar Meydanı'nda "Karar Milletindir, Üsküdar Milletindir" buluşması</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Husiler Babülmendep'i Ele Geçirdi, Petrol Fiyatları Uçtu! İran Cehennemi Yaşattı</title>
       <link>https://www.youtube.com/watch?v=CIb1JjcgBwQ</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">Z4e9ZuNDxEU</guid>
       <pubDate>Sat, 12 Sep 2026 10:45:31 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: İstanbul Boğaz Müzesi açılışı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: 'AKP'YE GEÇENLER SAKİNLEŞTİRİCİ KULLANIYOR' Özgür Çelik'ten Siyaseti Sallayacak İddia!</title>
-      <link>https://www.youtube.com/watch?v=sF277CD91bA</link>
-      <guid isPermaLink="false">sF277CD91bA</guid>
-      <pubDate>Sat, 12 Sep 2026 10:30:19 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: 'AKP'YE GEÇENLER SAKİNLEŞTİRİCİ KULLANIYOR' Özgür Çelik'ten Siyaseti Sallayacak İddia!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "Öcalan için İmralı'da villa hazırlandı" iddiası çıkmıştı! Özdemir İnce'den kritik yorum...</title>
-      <link>https://www.youtube.com/watch?v=RUOHASyV6CM</link>
-      <guid isPermaLink="false">RUOHASyV6CM</guid>
-      <pubDate>Sat, 12 Sep 2026 10:30:07 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "Öcalan için İmralı'da villa hazırlandı" iddiası çıkmıştı! Özdemir İnce'den kritik yorum...</description>
     </item>
   </channel>
 </rss>
