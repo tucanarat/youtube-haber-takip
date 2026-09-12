@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 11:55:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 12:00:53 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: 'İSRAİL'İ BÜYÜK BİR DEPREM BEKLİYOR' Netanyahu Böyle Uyarılmış! Nevzat Çiçek Anlattı</title>
+      <link>https://www.youtube.com/watch?v=wQlXwfgR2DE</link>
+      <guid isPermaLink="false">wQlXwfgR2DE</guid>
+      <pubDate>Sat, 12 Sep 2026 12:00:07 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: 'İSRAİL'İ BÜYÜK BİR DEPREM BEKLİYOR' Netanyahu Böyle Uyarılmış! Nevzat Çiçek Anlattı</description>
+    </item>
     <item>
       <title>Cumhuriyet: Boşanmak istediği erkek tarafından vurulan kadın, iki bacağını kaybetti</title>
       <link>https://www.youtube.com/shorts/s3V20Xp0Hpk</link>
       <guid isPermaLink="false">s3V20Xp0Hpk</guid>
       <pubDate>Sat, 12 Sep 2026 11:54:01 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Boşanmak istediği erkek tarafından vurulan kadın, iki bacağını kaybetti</description>
+    </item>
+    <item>
+      <title>Halk TV: ERDOĞAN 'SEÇİM' DÜĞMESİNE BASTI! Bu planı duyunca şoke olacaksınız! Mustafa Balbay o adımı ifşa etti</title>
+      <link>https://www.youtube.com/watch?v=VVkqtTVdSO8</link>
+      <guid isPermaLink="false">VVkqtTVdSO8</guid>
+      <pubDate>Sat, 12 Sep 2026 11:53:04 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ERDOĞAN 'SEÇİM' DÜĞMESİNE BASTI! Bu planı duyunca şoke olacaksınız! Mustafa Balbay o adımı ifşa etti</description>
     </item>
     <item>
       <title>Halk TV: Çiftin düğün takıları Muradiye’de bir evin odunluğundan çıktı! Ev sahibi gözaltında!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">xDdJ5VP40NA</guid>
       <pubDate>Sat, 12 Sep 2026 08:23:15 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ÖZGÜR ÖZEL ŞOKE OLDU! Eski imam öyle bir dert yandı ki... Yılın diyaloğu olarak tarihe geçecek!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Gençlik: Dün ve bugün - Öner Yağcı</title>
-      <link>https://www.youtube.com/watch?v=-zJ2xaecnUs</link>
-      <guid isPermaLink="false">-zJ2xaecnUs</guid>
-      <pubDate>Sat, 12 Sep 2026 08:13:42 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Gençlik: Dün ve bugün - Öner Yağcı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Demokratik Cumhuriyet Kurma Masalı - Işık Kansu</title>
-      <link>https://www.youtube.com/watch?v=YAcRswv-RzM</link>
-      <guid isPermaLink="false">YAcRswv-RzM</guid>
-      <pubDate>Sat, 12 Sep 2026 08:13:40 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Demokratik Cumhuriyet Kurma Masalı - Işık Kansu</description>
     </item>
   </channel>
 </rss>
