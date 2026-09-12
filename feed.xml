@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 15:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 16:00:54 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI YENİ Parti'den Üsküdar İskele Meydanı'nda "Karar Milletindir, Üsküdar Milletindir" buluşması</title>
+      <link>https://www.youtube.com/watch?v=AoE0sspmHus</link>
+      <guid isPermaLink="false">AoE0sspmHus</guid>
+      <pubDate>Sat, 12 Sep 2026 15:58:20 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti'den Üsküdar İskele Meydanı'nda "Karar Milletindir, Üsküdar Milletindir" buluşması</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: YENİ Parti'den Üsküdar İskele Meydanı'nda "Karar Milletindir, Üsküdar Milletindir" buluşması #Canlı</title>
+      <link>https://www.youtube.com/watch?v=jNkgEg0oYq4</link>
+      <guid isPermaLink="false">jNkgEg0oYq4</guid>
+      <pubDate>Sat, 12 Sep 2026 15:55:33 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti'den Üsküdar İskele Meydanı'nda "Karar Milletindir, Üsküdar Milletindir" buluşması #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: Müsavat Dervişoğlu’ndan olay olacak sözler! “Devlete karşı statü pazarlığı yapılıyor!”</title>
       <link>https://www.youtube.com/watch?v=DyMSrajF6g4</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">wx7x0pAYaVw</guid>
       <pubDate>Sat, 12 Sep 2026 10:29:41 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Ankara Kent Konseyi Başkanı seçilen Halil İbrahim Yılmaz açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: Mansur Yavaş: Yaptığımız görüşmenin nasıl speküle edildiğini görüyoruz</title>
-      <link>https://www.youtube.com/shorts/VPTanoTiqcs</link>
-      <guid isPermaLink="false">VPTanoTiqcs</guid>
-      <pubDate>Sat, 12 Sep 2026 10:21:43 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Mansur Yavaş: Yaptığımız görüşmenin nasıl speküle edildiğini görüyoruz</description>
-    </item>
-    <item>
-      <title>Halk TV: BAHÇELİ'DEN ŞOK AÇIKLAMALAR! Öcalan'a İmralı'da iki katlı ev yapılmış! Bu ayrıntılar herkesi sarsar!</title>
-      <link>https://www.youtube.com/watch?v=N7zuV6MQ-vo</link>
-      <guid isPermaLink="false">N7zuV6MQ-vo</guid>
-      <pubDate>Sat, 12 Sep 2026 10:20:31 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BAHÇELİ'DEN ŞOK AÇIKLAMALAR! Öcalan'a İmralı'da iki katlı ev yapılmış! Bu ayrıntılar herkesi sarsar!</description>
     </item>
   </channel>
 </rss>
