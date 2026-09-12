@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 08:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 08:05:23 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: İBB Başkan Vekili Nuri Aslan, Çatalca'da sığır süt yemi dağıtım programında konuşuyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=FK6hoVoLysc</link>
+      <guid isPermaLink="false">FK6hoVoLysc</guid>
+      <pubDate>Sat, 12 Sep 2026 07:52:58 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: İBB Başkan Vekili Nuri Aslan, Çatalca'da sığır süt yemi dağıtım programında konuşuyor #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: Eski MİT Görevlisi Kaşif Kozinoğlu'na Kocatepe Mezarlığı'nda Feth-i Kabir İşlemi Yapılıyor</title>
       <link>https://www.youtube.com/watch?v=bU_xLbaMvOs</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">nB-T4VhneUg</guid>
       <pubDate>Fri, 11 Sep 2026 20:00:33 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Sıra Ekrem İmamoğlu'nda mı? Murat Ağırel'den Çarpıcı Üsküdar ve İBB Çıkışı!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "UMARIM BÜGÜNLERİ ARAMAYIZ!" Hüsnü Mahalli'den çok kritik İKTİDAR uyarısı...</title>
-      <link>https://www.youtube.com/watch?v=2mkmlZFUczs</link>
-      <guid isPermaLink="false">2mkmlZFUczs</guid>
-      <pubDate>Fri, 11 Sep 2026 20:00:30 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "UMARIM BÜGÜNLERİ ARAMAYIZ!" Hüsnü Mahalli'den çok kritik İKTİDAR uyarısı...</description>
     </item>
   </channel>
 </rss>
