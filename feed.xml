@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 14:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 15:00:53 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Işın Eliçin ile Sınırsız (12 Eylül 2026)</title>
+      <link>https://www.youtube.com/watch?v=rFHBAvLSHHY</link>
+      <guid isPermaLink="false">rFHBAvLSHHY</guid>
+      <pubDate>Sat, 12 Sep 2026 14:58:17 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Işın Eliçin ile Sınırsız (12 Eylül 2026)</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Merve Ekinci İle Haber Bülteni | 12 Eylül</title>
+      <link>https://www.youtube.com/watch?v=vXAbvKkvytg</link>
+      <guid isPermaLink="false">vXAbvKkvytg</guid>
+      <pubDate>Sat, 12 Sep 2026 14:56:29 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Merve Ekinci İle Haber Bülteni | 12 Eylül</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: ERDOĞAN - YAVAŞ GÖRÜŞMESİNDE BOMBA KULİS! 2027'de Seçim Planı! Barış Terkoğlu Anlattı</title>
       <link>https://www.youtube.com/watch?v=7cJVtqXxeyo</link>
@@ -48,13 +62,6 @@
       <guid isPermaLink="false">9EZxV1DqbI4</guid>
       <pubDate>Sat, 12 Sep 2026 13:40:03 +0000</pubDate>
       <description>Halk TV kanalından yeni video: EMEKLİYE SEYYANEN ZAM O TARİHTE GELİYOR! Özgür Erdursun tek tek açıkladı! İşte çarpıcı detaylar!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: #CANLI Merve Ekinci İle Haber Bülteni</title>
-      <link>https://www.youtube.com/watch?v=vXAbvKkvytg</link>
-      <guid isPermaLink="false">vXAbvKkvytg</guid>
-      <pubDate>Sat, 12 Sep 2026 13:39:39 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: #CANLI Merve Ekinci İle Haber Bülteni</description>
     </item>
     <item>
       <title>SÖZCÜ TV: AKP'de Çatlak Büyüyor! Köprü Otoyol Özelleştirmesi AKP'yi Böldü! İsmail Saymaz Açıkladı</title>
@@ -104,13 +111,6 @@
       <guid isPermaLink="false">mOBmIy3ZdFw</guid>
       <pubDate>Sat, 12 Sep 2026 12:58:31 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Gülşah Ekinci ile Öğle Haberleri (12 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Işın Eliçin ile Sınırsız</title>
-      <link>https://www.youtube.com/watch?v=rFHBAvLSHHY</link>
-      <guid isPermaLink="false">rFHBAvLSHHY</guid>
-      <pubDate>Sat, 12 Sep 2026 12:49:44 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Işın Eliçin ile Sınırsız</description>
     </item>
     <item>
       <title>Halk TV: SARAY'DAKİ GÖRÜŞME ANKARA'YI SALLAMIŞTI! Mansur Yavaş, Erdoğan ile ne konuştuğunu tek tek açıkladı!</title>
@@ -253,11 +253,11 @@
       <description>SÖZCÜ TV kanalından yeni video: Burak Tatari ile Masada Ne Var?</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: Ekrem Açıkel İle Hafta Sonu Ana Haber</title>
+      <title>SÖZCÜ TV: #CANLI Ekrem Açıkel İle Hafta Sonu Ana Haber</title>
       <link>https://www.youtube.com/watch?v=EBxTVEU-L4c</link>
       <guid isPermaLink="false">EBxTVEU-L4c</guid>
       <pubDate>Sat, 12 Sep 2026 11:11:04 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Ekrem Açıkel İle Hafta Sonu Ana Haber</description>
+      <description>SÖZCÜ TV kanalından yeni video: #CANLI Ekrem Açıkel İle Hafta Sonu Ana Haber</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Erdoğan'ın Mansur Yavaş Hamlesi! O Fotoğrafın Arkasındaki Plan! Timur Soykan'dan Olay Sözler</title>
