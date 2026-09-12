@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 20:35:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 20:40:45 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Burak Tatari ile Masada Ne Var? 12 Eylül</title>
+      <link>https://www.youtube.com/watch?v=94VAtru9iWo</link>
+      <guid isPermaLink="false">94VAtru9iWo</guid>
+      <pubDate>Sat, 12 Sep 2026 20:36:57 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Burak Tatari ile Masada Ne Var? 12 Eylül</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: İBB Başkan Vekili Nuri Aslan, Çatalca'da sığır süt yemi dağıtım programında konuşuyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=FK6hoVoLysc</link>
+      <guid isPermaLink="false">FK6hoVoLysc</guid>
+      <pubDate>Sat, 12 Sep 2026 20:33:26 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: İBB Başkan Vekili Nuri Aslan, Çatalca'da sığır süt yemi dağıtım programında konuşuyor #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: Üsküdar Meydanı’nda “Tayyip istifa!” sloganları yeri göğü inletti! O anlar kameraya böyle yansıdı!</title>
       <link>https://www.youtube.com/watch?v=EbmgMUZ2wYM</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">JKxC1-cX8Xo</guid>
       <pubDate>Sat, 12 Sep 2026 15:00:23 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Melih Gökçek soruşturmasında şok detay! Turhan Çömez, Ankara kulislerini sallayan iddiaları açıkladı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: 'Husiler Suudi Arabistan'ı Dize Getirdi' Ortadoğu Yine Alev Alev! Naim Babüroğlu Tehlikeyi Anlattı</title>
-      <link>https://www.youtube.com/watch?v=IP1HcrEcmZ8</link>
-      <guid isPermaLink="false">IP1HcrEcmZ8</guid>
-      <pubDate>Sat, 12 Sep 2026 15:00:18 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: 'Husiler Suudi Arabistan'ı Dize Getirdi' Ortadoğu Yine Alev Alev! Naim Babüroğlu Tehlikeyi Anlattı</description>
-    </item>
-    <item>
-      <title>Halk TV: Işın Eliçin ile Sınırsız (12 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=rFHBAvLSHHY</link>
-      <guid isPermaLink="false">rFHBAvLSHHY</guid>
-      <pubDate>Sat, 12 Sep 2026 14:58:17 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Işın Eliçin ile Sınırsız (12 Eylül 2026)</description>
     </item>
   </channel>
 </rss>
