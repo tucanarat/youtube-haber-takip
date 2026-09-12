@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 23:58:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 00:00:56 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Cumhurbaşkanı Erdoğan, yapımı tamamlanan yatırımların toplu açılış töreninde konuşuyor / Rize #Canlı</title>
+      <link>https://www.youtube.com/watch?v=e0x7oPkz0Tk</link>
+      <guid isPermaLink="false">e0x7oPkz0Tk</guid>
+      <pubDate>Fri, 11 Sep 2026 23:59:31 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Cumhurbaşkanı Erdoğan, yapımı tamamlanan yatırımların toplu açılış töreninde konuşuyor / Rize #Canlı</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Eğitim Sen, Milli Eğitim Bakanlığı önünde açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=OU1YuOYLh0M</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">L8CchkQF8kM</guid>
       <pubDate>Fri, 11 Sep 2026 17:14:54 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Özel’den Erdoğan’a emekli tepkisi! “Emekli 23 bin lirayla açlığı atlatamıyor!” #shorts</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Namık Koçak - Hüsnü Mahalli ile Forum (13.09.26)</title>
-      <link>https://www.youtube.com/watch?v=70TVR2ci-1k</link>
-      <guid isPermaLink="false">70TVR2ci-1k</guid>
-      <pubDate>Fri, 11 Sep 2026 17:12:45 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Namık Koçak - Hüsnü Mahalli ile Forum (13.09.26)</description>
     </item>
   </channel>
 </rss>
