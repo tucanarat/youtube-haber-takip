@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 17:30:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 17:35:27 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: "BAK NE YAPMIŞSIN!" Özgür Özel, İstanbul Valisi Davut Gül'e sert çıktı!</title>
+      <link>https://www.youtube.com/watch?v=KE91LrbD1Oc</link>
+      <guid isPermaLink="false">KE91LrbD1Oc</guid>
+      <pubDate>Sat, 12 Sep 2026 17:30:30 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "BAK NE YAPMIŞSIN!" Özgür Özel, İstanbul Valisi Davut Gül'e sert çıktı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: ÖZGÜR ÇELİK İFŞA ETTİ! AKP'nin Üsküdar Oyununu Bir Bir Anlattı! Hedef İmamoğlu ve İBB mi?</title>
       <link>https://www.youtube.com/watch?v=15gtRZkBDP0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">1JPKf9fGH-s</guid>
       <pubDate>Sat, 12 Sep 2026 12:11:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Şanlıurfa’da aranan cinayet şüphelisi duvarın içindeki gizli bölmede yakalandı!</description>
-    </item>
-    <item>
-      <title>Halk TV: ÖCALAN'IN VİLLASI HAZIRMIŞ! İmralı'dan bomba bilgiler sızdı! Mustafa Balbay'dan dikkat çeken yorum!</title>
-      <link>https://www.youtube.com/watch?v=tZGAuDh5VhQ</link>
-      <guid isPermaLink="false">tZGAuDh5VhQ</guid>
-      <pubDate>Sat, 12 Sep 2026 12:10:18 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ÖCALAN'IN VİLLASI HAZIRMIŞ! İmralı'dan bomba bilgiler sızdı! Mustafa Balbay'dan dikkat çeken yorum!</description>
     </item>
   </channel>
 </rss>
