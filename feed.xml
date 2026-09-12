@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 23:10:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 23:15:27 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: İstanbul Boğaz Müzesi açılışı</title>
+      <link>https://www.youtube.com/watch?v=Z4e9ZuNDxEU</link>
+      <guid isPermaLink="false">Z4e9ZuNDxEU</guid>
+      <pubDate>Sat, 12 Sep 2026 23:13:48 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: İstanbul Boğaz Müzesi açılışı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Ekrem Açıkel İle Hafta Sonu Ana Haber</title>
       <link>https://www.youtube.com/watch?v=pNUfzgfJQsY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">15gtRZkBDP0</guid>
       <pubDate>Sat, 12 Sep 2026 17:20:36 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: ÖZGÜR ÇELİK İFŞA ETTİ! AKP'nin Üsküdar Oyununu Bir Bir Anlattı! Hedef İmamoğlu ve İBB mi?</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ PARTİ'DEN TARİHİ MESAJ! Üsküdar mitinginde Özgür Özel rüzgarı!</title>
-      <link>https://www.youtube.com/watch?v=aDjpjz45DL0</link>
-      <guid isPermaLink="false">aDjpjz45DL0</guid>
-      <pubDate>Sat, 12 Sep 2026 17:18:48 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ PARTİ'DEN TARİHİ MESAJ! Üsküdar mitinginde Özgür Özel rüzgarı!</description>
     </item>
   </channel>
 </rss>
