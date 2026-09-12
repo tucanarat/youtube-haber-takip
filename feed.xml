@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 22:00:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 22:05:25 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Miçotakis'in Meis Ziyaretinin Perde Arkası: Türkiye'ye Karşı Yeni İttifak mı Kuruluyor?</title>
+      <link>https://www.youtube.com/watch?v=FBNZbEXXXr8</link>
+      <guid isPermaLink="false">FBNZbEXXXr8</guid>
+      <pubDate>Sat, 12 Sep 2026 22:00:05 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Miçotakis'in Meis Ziyaretinin Perde Arkası: Türkiye'ye Karşı Yeni İttifak mı Kuruluyor?</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Nagihan Turhan ile S Raporu 12 Eylül</title>
       <link>https://www.youtube.com/watch?v=ylbED7Aq1Qw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">WuJ0NR75dOM</guid>
       <pubDate>Sat, 12 Sep 2026 16:45:46 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Parti mitinginde büyük coşku! Üsküdar’da on binler tek ses oldu!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: ABD VE SUUDİ ARABİSTAN ARASINDA HUSİ KRİZİ: Prens Selman İstedi, Trump Reddetti!</title>
-      <link>https://www.youtube.com/watch?v=JP8LRiIYNdk</link>
-      <guid isPermaLink="false">JP8LRiIYNdk</guid>
-      <pubDate>Sat, 12 Sep 2026 16:40:37 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: ABD VE SUUDİ ARABİSTAN ARASINDA HUSİ KRİZİ: Prens Selman İstedi, Trump Reddetti!</description>
     </item>
   </channel>
 </rss>
