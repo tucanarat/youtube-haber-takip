@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 20:10:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 20:15:28 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: İBB'ye Kayyum mu Atanacak? Deniz Yavuzyılmaz Uyardı! Özgür Özel Harekete Geçiyor!</title>
+      <link>https://www.youtube.com/watch?v=a8NrfK_dJ9g</link>
+      <guid isPermaLink="false">a8NrfK_dJ9g</guid>
+      <pubDate>Sat, 12 Sep 2026 20:10:39 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İBB'ye Kayyum mu Atanacak? Deniz Yavuzyılmaz Uyardı! Özgür Özel Harekete Geçiyor!</description>
+    </item>
     <item>
       <title>Halk TV: “Ahmet Davutoğlu’nun arkasındayız” diyen Bülent Arınç, Melih Gökçek’i yerin dibine soktu!</title>
       <link>https://www.youtube.com/watch?v=qnbQN5ajUGc</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">0iWDWNKYJOY</guid>
       <pubDate>Sat, 12 Sep 2026 14:00:27 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İsrail ve Türkiye Savaşır mı? Erol Mütercimler Ezber Bozan Gerçeği Açıkladı! Uyardı</description>
-    </item>
-    <item>
-      <title>Halk TV: MİLYONLARCA İNSANIN GÖZÜ BU RAKAMDA! Özgür Erdursun 2027 yılı asgari ücreti için net rakam verdi!</title>
-      <link>https://www.youtube.com/watch?v=q67LjaYOoyY</link>
-      <guid isPermaLink="false">q67LjaYOoyY</guid>
-      <pubDate>Sat, 12 Sep 2026 14:00:08 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: MİLYONLARCA İNSANIN GÖZÜ BU RAKAMDA! Özgür Erdursun 2027 yılı asgari ücreti için net rakam verdi!</description>
     </item>
   </channel>
 </rss>
