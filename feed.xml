@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 10:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 10:25:27 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Mansur Yavaş: Yaptığımız görüşmenin nasıl speküle edildiğini görüyoruz</title>
+      <link>https://www.youtube.com/shorts/VPTanoTiqcs</link>
+      <guid isPermaLink="false">VPTanoTiqcs</guid>
+      <pubDate>Sat, 12 Sep 2026 10:21:43 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Mansur Yavaş: Yaptığımız görüşmenin nasıl speküle edildiğini görüyoruz</description>
+    </item>
+    <item>
+      <title>Halk TV: BAHÇELİ'DEN ŞOK AÇIKLAMALAR! Öcalan'a İmralı'da iki katlı ev yapılmış! Bu ayrıntılar herkesi sarsar!</title>
+      <link>https://www.youtube.com/watch?v=N7zuV6MQ-vo</link>
+      <guid isPermaLink="false">N7zuV6MQ-vo</guid>
+      <pubDate>Sat, 12 Sep 2026 10:20:31 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BAHÇELİ'DEN ŞOK AÇIKLAMALAR! Öcalan'a İmralı'da iki katlı ev yapılmış! Bu ayrıntılar herkesi sarsar!</description>
+    </item>
     <item>
       <title>Cumhuriyet: Mansur Yavaş'tan yeni açıklama: 'Bu ülkeyi yönetenlerle görüşmeyeceksek...'</title>
       <link>https://www.youtube.com/watch?v=BylLKKsRIIo</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">zAI3ZcYu3n4</guid>
       <pubDate>Sat, 12 Sep 2026 07:17:50 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Nergis kokuları arasında bir Ege rüyası: Karaburun | İki Bavul Bir Mikrofon</description>
-    </item>
-    <item>
-      <title>Halk TV: ERDOĞAN DAHA ÖNCE BÖYLESİNİ DUYMADI! 'Seçim' sözlerine Dervişoğlu'ndan flaş çıkış! Ankara alev aldı!</title>
-      <link>https://www.youtube.com/watch?v=8fDFmpik1WU</link>
-      <guid isPermaLink="false">8fDFmpik1WU</guid>
-      <pubDate>Sat, 12 Sep 2026 07:13:16 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ERDOĞAN DAHA ÖNCE BÖYLESİNİ DUYMADI! 'Seçim' sözlerine Dervişoğlu'ndan flaş çıkış! Ankara alev aldı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Bursa'da bir kadın ters yönde yakalandı, ortalığı birbirine kattı! Polise saldırdı, kameraya tükürdü</title>
-      <link>https://www.youtube.com/shorts/We2BTwh9LNM</link>
-      <guid isPermaLink="false">We2BTwh9LNM</guid>
-      <pubDate>Sat, 12 Sep 2026 07:03:15 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Bursa'da bir kadın ters yönde yakalandı, ortalığı birbirine kattı! Polise saldırdı, kameraya tükürdü</description>
     </item>
   </channel>
 </rss>
