@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 19:05:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 19:10:31 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti'den Üsküdar İskele Meydanı'nda "Karar Milletindir, Üsküdar Milletindir" buluşması #Canlı</title>
       <link>https://www.youtube.com/watch?v=jNkgEg0oYq4</link>
       <guid isPermaLink="false">jNkgEg0oYq4</guid>
       <pubDate>Sat, 12 Sep 2026 19:01:53 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti'den Üsküdar İskele Meydanı'nda "Karar Milletindir, Üsküdar Milletindir" buluşması #Canlı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Özgür Özel Üsküdar'da Yaşananları İfşa Etti! AKP'ye Neler Söyledi Neler</title>
+      <link>https://www.youtube.com/watch?v=jI93vc1NG1k</link>
+      <guid isPermaLink="false">jI93vc1NG1k</guid>
+      <pubDate>Sat, 12 Sep 2026 19:00:28 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Özgür Özel Üsküdar'da Yaşananları İfşa Etti! AKP'ye Neler Söyledi Neler</description>
     </item>
     <item>
       <title>Halk TV: Özgür Özel’den Üsküdar’da meydan okuyan sözler! "Biz o sandığa varırız, o seçimi alırız!”</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">DuSG3ln3HNA</guid>
       <pubDate>Sat, 12 Sep 2026 13:26:33 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Ezgi Apartmanı kararına Adalet Bakanlığı önünde tepki</description>
-    </item>
-    <item>
-      <title>Halk TV: İran destekli Husiler, Suudileri kalbinden vurdu! Petrol tesislerini yerle bir ettiler! Dünya şokta!</title>
-      <link>https://www.youtube.com/watch?v=Gx7N2C9Q3SA</link>
-      <guid isPermaLink="false">Gx7N2C9Q3SA</guid>
-      <pubDate>Sat, 12 Sep 2026 13:25:04 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İran destekli Husiler, Suudileri kalbinden vurdu! Petrol tesislerini yerle bir ettiler! Dünya şokta!</description>
     </item>
   </channel>
 </rss>
