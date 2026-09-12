@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 05:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 05:30:41 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: Cumhurbaşkanı Erdoğan, AK Parti Rize Genişletilmiş İl Danışma Meclis Toplantısı’nda konuşuyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=6XTWejEENUQ</link>
@@ -174,6 +174,13 @@
       <guid isPermaLink="false">eO4yztmk8eg</guid>
       <pubDate>Fri, 11 Sep 2026 20:59:05 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: CHP Grup Başkanı Faik Öztrak TBMM'de açıklama yapıyor #Canlı</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Gökhan Kayış ile Hafta Sonu Sabah | #birdahaasla</title>
+      <link>https://www.youtube.com/watch?v=zQ1Sd3W6Ji4</link>
+      <guid isPermaLink="false">zQ1Sd3W6Ji4</guid>
+      <pubDate>Fri, 11 Sep 2026 20:49:16 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Gökhan Kayış ile Hafta Sonu Sabah | #birdahaasla</description>
     </item>
     <item>
       <title>SÖZCÜ TV: GÖKÇEK DOSYASI PATLADI: Murat Ağırel Almanya'daki Gizli Serveti Belgeleriyle İfşa Etti!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Qpc5ky8apfA</guid>
       <pubDate>Fri, 11 Sep 2026 17:30:32 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Özel’den, Erdoğan’a dikkat çeken ‘seçim’ göndermesi! #shorts</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: 'Ezgi Apartmanı' kararı sonrası yakınlarını kaybedenler isyan etti! Murat Taylan'dan sert tepki...</title>
-      <link>https://www.youtube.com/watch?v=0NNLocY7dQE</link>
-      <guid isPermaLink="false">0NNLocY7dQE</guid>
-      <pubDate>Fri, 11 Sep 2026 17:30:21 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: 'Ezgi Apartmanı' kararı sonrası yakınlarını kaybedenler isyan etti! Murat Taylan'dan sert tepki...</description>
     </item>
   </channel>
 </rss>
