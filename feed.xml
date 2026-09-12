@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 12:55:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 13:00:55 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Gülşah Ekinci ile Öğle Haberleri (12 Eylül 2026)</title>
+      <link>https://www.youtube.com/watch?v=mOBmIy3ZdFw</link>
+      <guid isPermaLink="false">mOBmIy3ZdFw</guid>
+      <pubDate>Sat, 12 Sep 2026 12:58:31 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Gülşah Ekinci ile Öğle Haberleri (12 Eylül 2026)</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Işın Eliçin ile Sınırsız</title>
       <link>https://www.youtube.com/watch?v=rFHBAvLSHHY</link>
@@ -307,13 +314,6 @@
       <guid isPermaLink="false">zNZ_jOMBXgg</guid>
       <pubDate>Sat, 12 Sep 2026 09:55:29 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Mansur Yavaş: Ayrılıkta azap vardır, birlikte rahmet vardır</description>
-    </item>
-    <item>
-      <title>Halk TV: Gülşah Ekinci ile Öğle Haberleri (12 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=mOBmIy3ZdFw</link>
-      <guid isPermaLink="false">mOBmIy3ZdFw</guid>
-      <pubDate>Sat, 12 Sep 2026 09:54:36 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Gülşah Ekinci ile Öğle Haberleri (12 Eylül 2026)</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Mansur Yavaş Cumhurbaşkanı Erdoğan’la yaptığı görüşmeye ilişkin konuştu</title>
