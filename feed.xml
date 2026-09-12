@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 11:50:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 11:55:23 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Boşanmak istediği erkek tarafından vurulan kadın, iki bacağını kaybetti</title>
+      <link>https://www.youtube.com/shorts/s3V20Xp0Hpk</link>
+      <guid isPermaLink="false">s3V20Xp0Hpk</guid>
+      <pubDate>Sat, 12 Sep 2026 11:54:01 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Boşanmak istediği erkek tarafından vurulan kadın, iki bacağını kaybetti</description>
+    </item>
     <item>
       <title>Halk TV: Çiftin düğün takıları Muradiye’de bir evin odunluğundan çıktı! Ev sahibi gözaltında!</title>
       <link>https://www.youtube.com/shorts/-NwO5DAMbYM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">YAcRswv-RzM</guid>
       <pubDate>Sat, 12 Sep 2026 08:13:40 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Demokratik Cumhuriyet Kurma Masalı - Işık Kansu</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Bugün 12 Eylül! - Mustafa Balbay</title>
-      <link>https://www.youtube.com/watch?v=7RfctE_QFx4</link>
-      <guid isPermaLink="false">7RfctE_QFx4</guid>
-      <pubDate>Sat, 12 Sep 2026 08:13:38 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Bugün 12 Eylül! - Mustafa Balbay</description>
     </item>
   </channel>
 </rss>
