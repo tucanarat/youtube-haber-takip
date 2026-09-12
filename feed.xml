@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 18:35:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 18:40:33 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: "EŞLEŞTİRİN BAKALIM KİMLERLE NEREDE?" Özgür Özel, Üsküdar'da yapılanları tek tek anlattı!</title>
+      <link>https://www.youtube.com/watch?v=LqzXGk_cn80</link>
+      <guid isPermaLink="false">LqzXGk_cn80</guid>
+      <pubDate>Sat, 12 Sep 2026 18:30:02 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "EŞLEŞTİRİN BAKALIM KİMLERLE NEREDE?" Özgür Özel, Üsküdar'da yapılanları tek tek anlattı!</description>
+    </item>
     <item>
       <title>Tele2 Haber: ÖZGÜR ÖZEL ÜSKÜDAR'DA ERDOĞAN'A MEYDAN OKUDU!</title>
       <link>https://www.youtube.com/shorts/-baaENlXGFg</link>
       <guid isPermaLink="false">-baaENlXGFg</guid>
       <pubDate>Sat, 12 Sep 2026 18:20:37 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: ÖZGÜR ÖZEL ÜSKÜDAR'DA ERDOĞAN'A MEYDAN OKUDU!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: ÖZGÜR ÖZEL'DEN ERDOĞAN'A KALESİNDE SERT SÖZLER: "Bu Mu Senin Demokratlığın!"</title>
+      <link>https://www.youtube.com/watch?v=Zz7eRITIsX4</link>
+      <guid isPermaLink="false">Zz7eRITIsX4</guid>
+      <pubDate>Sat, 12 Sep 2026 18:20:34 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: ÖZGÜR ÖZEL'DEN ERDOĞAN'A KALESİNDE SERT SÖZLER: "Bu Mu Senin Demokratlığın!"</description>
     </item>
     <item>
       <title>Halk TV: Özgür Özel’den AKP il başkanlarına sert uyarı! “Gün gelecek, devran değişecek!”</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">ff0cnkfGPxA</guid>
       <pubDate>Sat, 12 Sep 2026 13:00:04 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Erdoğan Seçim Sinyalini Böyle Verdi! O Videodaki Gizli Mesaj! Uzman İsim Anlattı</description>
-    </item>
-    <item>
-      <title>Halk TV: Gülşah Ekinci ile Öğle Haberleri (12 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=mOBmIy3ZdFw</link>
-      <guid isPermaLink="false">mOBmIy3ZdFw</guid>
-      <pubDate>Sat, 12 Sep 2026 12:58:31 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Gülşah Ekinci ile Öğle Haberleri (12 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: SARAY'DAKİ GÖRÜŞME ANKARA'YI SALLAMIŞTI! Mansur Yavaş, Erdoğan ile ne konuştuğunu tek tek açıkladı!</title>
-      <link>https://www.youtube.com/watch?v=4iUdPHn4EIU</link>
-      <guid isPermaLink="false">4iUdPHn4EIU</guid>
-      <pubDate>Sat, 12 Sep 2026 12:40:03 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SARAY'DAKİ GÖRÜŞME ANKARA'YI SALLAMIŞTI! Mansur Yavaş, Erdoğan ile ne konuştuğunu tek tek açıkladı!</description>
     </item>
   </channel>
 </rss>
