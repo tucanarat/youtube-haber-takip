@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 13:35:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 13:40:29 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Ezgi Apartmanı kararına Adalet Bakanlığı önünde tepki</title>
+      <link>https://www.youtube.com/shorts/DuSG3ln3HNA</link>
+      <guid isPermaLink="false">DuSG3ln3HNA</guid>
+      <pubDate>Sat, 12 Sep 2026 13:26:33 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Ezgi Apartmanı kararına Adalet Bakanlığı önünde tepki</description>
+    </item>
     <item>
       <title>Halk TV: İran destekli Husiler, Suudileri kalbinden vurdu! Petrol tesislerini yerle bir ettiler! Dünya şokta!</title>
       <link>https://www.youtube.com/watch?v=Gx7N2C9Q3SA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Lon29erSMwM</guid>
       <pubDate>Sat, 12 Sep 2026 09:51:56 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Mansur Yavaş Cumhurbaşkanı Erdoğan’la yaptığı görüşmeye ilişkin konuştu</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Simge Fıstıkoğlu ile İyi ki Hafta Sonu</title>
-      <link>https://www.youtube.com/watch?v=DxOkZo6MEyQ</link>
-      <guid isPermaLink="false">DxOkZo6MEyQ</guid>
-      <pubDate>Sat, 12 Sep 2026 09:50:58 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Simge Fıstıkoğlu ile İyi ki Hafta Sonu</description>
     </item>
   </channel>
 </rss>
