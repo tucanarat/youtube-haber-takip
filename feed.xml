@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 09:35:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 09:40:34 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI Namık Koçak, Özdemir İnce ve Recai Aksu ile Forum (12.09.26)</title>
+      <link>https://www.youtube.com/watch?v=xWA9ib9JRGQ</link>
+      <guid isPermaLink="false">xWA9ib9JRGQ</guid>
+      <pubDate>Sat, 12 Sep 2026 09:38:08 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Namık Koçak, Özdemir İnce ve Recai Aksu ile Forum (12.09.26)</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İmralı'da Özel Villa İddiası! Turhan Çömez Ateş Püskürdü! Melih Gökçek'e Salvolar</title>
       <link>https://www.youtube.com/watch?v=HK-BRji3ZCI</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">0GsYBSWRjgc</guid>
       <pubDate>Fri, 11 Sep 2026 22:55:58 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Simge Fıstıkoğlu İle İyi ki Hafta Sonu</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Ceylin Çağatay İle Sabah Kahvesi</title>
-      <link>https://www.youtube.com/watch?v=iiQ77_y8r3c</link>
-      <guid isPermaLink="false">iiQ77_y8r3c</guid>
-      <pubDate>Fri, 11 Sep 2026 22:54:57 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Ceylin Çağatay İle Sabah Kahvesi</description>
     </item>
   </channel>
 </rss>
