@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 11:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 11:25:25 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: İMAMOĞLU'NA CEZA BU YÜZDEN VERİLMİŞ! Mustafa Balbay perde arkasındaki skandalı anlattı! Şok detaylar</title>
+      <link>https://www.youtube.com/watch?v=JF9bI94xGkU</link>
+      <guid isPermaLink="false">JF9bI94xGkU</guid>
+      <pubDate>Sat, 12 Sep 2026 11:23:01 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İMAMOĞLU'NA CEZA BU YÜZDEN VERİLMİŞ! Mustafa Balbay perde arkasındaki skandalı anlattı! Şok detaylar</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Erdoğan'ın Mansur Yavaş Hamlesi! O Fotoğrafın Arkasındaki Plan! Timur Soykan'dan Olay Sözler</title>
       <link>https://www.youtube.com/watch?v=opfBjqYEBEU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">bU_xLbaMvOs</guid>
       <pubDate>Sat, 12 Sep 2026 07:52:52 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Eski MİT Görevlisi Kaşif Kozinoğlu'na Kocatepe Mezarlığı'nda Feth-i Kabir İşlemi Yapılıyor</description>
-    </item>
-    <item>
-      <title>Halk TV: BU SÖZLER ÇOK CAN YAKAR! Kılıçdaroğlu'nun o çıkışı İmamoğlu'nu çıldırttı! Silivri'yi böyle inletti!</title>
-      <link>https://www.youtube.com/watch?v=AdG7KAv2ty4</link>
-      <guid isPermaLink="false">AdG7KAv2ty4</guid>
-      <pubDate>Sat, 12 Sep 2026 07:47:21 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BU SÖZLER ÇOK CAN YAKAR! Kılıçdaroğlu'nun o çıkışı İmamoğlu'nu çıldırttı! Silivri'yi böyle inletti!</description>
     </item>
   </channel>
 </rss>
