@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 13:45:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 13:50:37 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Merve Ekinci İle Haber Bülteni | 12 Eylül</title>
+      <link>https://www.youtube.com/watch?v=2yEr-47NPRs</link>
+      <guid isPermaLink="false">2yEr-47NPRs</guid>
+      <pubDate>Sat, 12 Sep 2026 13:46:36 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Merve Ekinci İle Haber Bülteni | 12 Eylül</description>
+    </item>
+    <item>
+      <title>Halk TV: EMEKLİYE SEYYANEN ZAM O TARİHTE GELİYOR! Özgür Erdursun tek tek açıkladı! İşte çarpıcı detaylar!</title>
+      <link>https://www.youtube.com/watch?v=9EZxV1DqbI4</link>
+      <guid isPermaLink="false">9EZxV1DqbI4</guid>
+      <pubDate>Sat, 12 Sep 2026 13:40:03 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: EMEKLİYE SEYYANEN ZAM O TARİHTE GELİYOR! Özgür Erdursun tek tek açıkladı! İşte çarpıcı detaylar!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: #CANLI Merve Ekinci İle Haber Bülteni</title>
       <link>https://www.youtube.com/watch?v=vXAbvKkvytg</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">cO28lj_YKfM</guid>
       <pubDate>Sat, 12 Sep 2026 10:00:39 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Günah tarihte mi? - Oktay Ekşi</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: 'Türkiye Batmaz Ama Sürünebilir' Şeref Oğuz OVP'yi Yerden Yere Vurdu! Yanlış Hesapları Sıraladı</title>
-      <link>https://www.youtube.com/watch?v=jK8BJ9XhZhs</link>
-      <guid isPermaLink="false">jK8BJ9XhZhs</guid>
-      <pubDate>Sat, 12 Sep 2026 10:00:18 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: 'Türkiye Batmaz Ama Sürünebilir' Şeref Oğuz OVP'yi Yerden Yere Vurdu! Yanlış Hesapları Sıraladı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Mansur Yavaş'tan Erdoğan görüşmesi açıklaması: "Nasıl speküle edildiğini görüyoruz"</title>
-      <link>https://www.youtube.com/shorts/6L5qoeDLNB8</link>
-      <guid isPermaLink="false">6L5qoeDLNB8</guid>
-      <pubDate>Sat, 12 Sep 2026 09:55:50 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Mansur Yavaş'tan Erdoğan görüşmesi açıklaması: "Nasıl speküle edildiğini görüyoruz"</description>
     </item>
   </channel>
 </rss>
