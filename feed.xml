@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 10:05:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 10:10:31 +0000</lastBuildDate>
     <item>
       <title>Cumhuriyet: MHK’ye ‘5’ gol! - Gülengül Altınsay</title>
       <link>https://www.youtube.com/watch?v=nrFTFU75Mdg</link>
@@ -48,6 +48,13 @@
       <guid isPermaLink="false">cO28lj_YKfM</guid>
       <pubDate>Sat, 12 Sep 2026 10:00:39 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Günah tarihte mi? - Oktay Ekşi</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: 'Türkiye Batmaz Ama Sürünebilir' Şeref Oğuz OVP'yi Yerden Yere Vurdu! Yanlış Hesapları Sıraladı</title>
+      <link>https://www.youtube.com/watch?v=jK8BJ9XhZhs</link>
+      <guid isPermaLink="false">jK8BJ9XhZhs</guid>
+      <pubDate>Sat, 12 Sep 2026 10:00:18 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: 'Türkiye Batmaz Ama Sürünebilir' Şeref Oğuz OVP'yi Yerden Yere Vurdu! Yanlış Hesapları Sıraladı</description>
     </item>
     <item>
       <title>Cumhuriyet: Mansur Yavaş'tan Erdoğan görüşmesi açıklaması: "Nasıl speküle edildiğini görüyoruz"</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">zQ1Sd3W6Ji4</guid>
       <pubDate>Sat, 12 Sep 2026 06:56:42 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Gökhan Kayış ile Hafta Sonu Sabah | #birdahaasla (12 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: OLAY YERİ İNCELEME EKİBİ MEZARLIĞA GİRDİ! Eski MİT görevlisi Kaşif Kozinoğlu'nun mezarı açılıyor!</title>
-      <link>https://www.youtube.com/watch?v=hSGDDFNP6eo</link>
-      <guid isPermaLink="false">hSGDDFNP6eo</guid>
-      <pubDate>Sat, 12 Sep 2026 06:56:31 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: OLAY YERİ İNCELEME EKİBİ MEZARLIĞA GİRDİ! Eski MİT görevlisi Kaşif Kozinoğlu'nun mezarı açılıyor!</description>
     </item>
   </channel>
 </rss>
