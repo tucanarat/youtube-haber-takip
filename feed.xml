@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 21:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 22:00:51 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Nagihan Turhan ile S Raporu 12 Eylül</title>
+      <link>https://www.youtube.com/watch?v=ylbED7Aq1Qw</link>
+      <guid isPermaLink="false">ylbED7Aq1Qw</guid>
+      <pubDate>Sat, 12 Sep 2026 21:58:03 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Nagihan Turhan ile S Raporu 12 Eylül</description>
+    </item>
+    <item>
+      <title>Halk TV: Gökmen Karadağ ile Açıkça (12 Eylül 2026)</title>
+      <link>https://www.youtube.com/watch?v=XIW7M7_31Jc</link>
+      <guid isPermaLink="false">XIW7M7_31Jc</guid>
+      <pubDate>Sat, 12 Sep 2026 21:57:58 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Gökmen Karadağ ile Açıkça (12 Eylül 2026)</description>
+    </item>
     <item>
       <title>Halk TV: Gerede’de korkutan yangın 4 saat sonra kontrol altında! Soğutma çalışmaları sürüyor! #shorts</title>
       <link>https://www.youtube.com/shorts/PeB5aYaTwG4</link>
@@ -274,13 +288,6 @@
       <description>SÖZCÜ TV kanalından yeni video: İRAN ABD'NİN GİZLİ SİLAHINI ELE GEÇİRDİ! Nevzat Çiçek Anlattı! Trump ve Pentagon'a Ağır Darbe</description>
     </item>
     <item>
-      <title>Halk TV: Gökmen Karadağ ile Açıkça (12 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=XIW7M7_31Jc</link>
-      <guid isPermaLink="false">XIW7M7_31Jc</guid>
-      <pubDate>Sat, 12 Sep 2026 17:38:16 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Gökmen Karadağ ile Açıkça (12 Eylül 2026)</description>
-    </item>
-    <item>
       <title>Halk TV: Özgür Özel'den Üsküdar’da tarihi rest! “Bu milletin darbecilerle görecek hesabı var!”</title>
       <link>https://www.youtube.com/watch?v=Cnlo5SO8Py0</link>
       <guid isPermaLink="false">Cnlo5SO8Py0</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">JP8LRiIYNdk</guid>
       <pubDate>Sat, 12 Sep 2026 16:40:37 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: ABD VE SUUDİ ARABİSTAN ARASINDA HUSİ KRİZİ: Prens Selman İstedi, Trump Reddetti!</description>
-    </item>
-    <item>
-      <title>Halk TV: AİHM KARARI SONRASI YENİ HAMLE! Osman Kavala yeniden yargılama talep etti!</title>
-      <link>https://www.youtube.com/watch?v=yL7yd9gxgN0</link>
-      <guid isPermaLink="false">yL7yd9gxgN0</guid>
-      <pubDate>Sat, 12 Sep 2026 16:31:08 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: AİHM KARARI SONRASI YENİ HAMLE! Osman Kavala yeniden yargılama talep etti!</description>
     </item>
   </channel>
 </rss>
