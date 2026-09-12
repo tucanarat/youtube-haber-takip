@@ -6,13 +6,34 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 09:50:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 09:55:24 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Mansur Yavaş Cumhurbaşkanı Erdoğan’la yaptığı görüşmeye ilişkin konuştu</title>
+      <link>https://www.youtube.com/shorts/Lon29erSMwM</link>
+      <guid isPermaLink="false">Lon29erSMwM</guid>
+      <pubDate>Sat, 12 Sep 2026 09:51:56 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Mansur Yavaş Cumhurbaşkanı Erdoğan’la yaptığı görüşmeye ilişkin konuştu</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Simge Fıstıkoğlu ile İyi ki Hafta Sonu</title>
+      <link>https://www.youtube.com/watch?v=DxOkZo6MEyQ</link>
+      <guid isPermaLink="false">DxOkZo6MEyQ</guid>
+      <pubDate>Sat, 12 Sep 2026 09:50:58 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Simge Fıstıkoğlu ile İyi ki Hafta Sonu</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI Namık Koçak, Özdemir İnce ve Recai Aksu ile Forum (12.09.26)</title>
       <link>https://www.youtube.com/watch?v=xWA9ib9JRGQ</link>
       <guid isPermaLink="false">xWA9ib9JRGQ</guid>
       <pubDate>Sat, 12 Sep 2026 09:38:08 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Namık Koçak, Özdemir İnce ve Recai Aksu ile Forum (12.09.26)</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Gökçek soruşturmasında 'DÜĞÜN TAKILARI' gündem olmuştu! Özdemir İnce'den dikkat çeken yorum...</title>
+      <link>https://www.youtube.com/watch?v=JBge4viv9ik</link>
+      <guid isPermaLink="false">JBge4viv9ik</guid>
+      <pubDate>Sat, 12 Sep 2026 09:30:36 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Gökçek soruşturmasında 'DÜĞÜN TAKILARI' gündem olmuştu! Özdemir İnce'den dikkat çeken yorum...</description>
     </item>
     <item>
       <title>SÖZCÜ TV: İmralı'da Özel Villa İddiası! Turhan Çömez Ateş Püskürdü! Melih Gökçek'e Salvolar</title>
@@ -281,13 +302,6 @@
       <description>Halk TV kanalından yeni video: Benzin 82 lirayı aştı! Isparta’da vatandaşlardan zam tepkisi</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: Simge Fıstıkoğlu ile İyi ki Hafta Sonu</title>
-      <link>https://www.youtube.com/watch?v=DxOkZo6MEyQ</link>
-      <guid isPermaLink="false">DxOkZo6MEyQ</guid>
-      <pubDate>Sat, 12 Sep 2026 06:36:17 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Simge Fıstıkoğlu ile İyi ki Hafta Sonu</description>
-    </item>
-    <item>
       <title>SÖZCÜ TV: Diyabet İlaçları Ömrü Uzatır mı? Zombi Hücrelerle Savaşan Diyabet İlaçları | Dr. Ayşegül Çoruhlu</title>
       <link>https://www.youtube.com/watch?v=zXuCIYslqLc</link>
       <guid isPermaLink="false">zXuCIYslqLc</guid>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">VxJp_DpQ_0E</guid>
       <pubDate>Fri, 11 Sep 2026 22:57:24 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Ekrem Açıkel İle Hafta Sonu Ana Haber</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Gülinay Selçuk İle Haber Bülteni</title>
-      <link>https://www.youtube.com/watch?v=D1CaUkL7yOY</link>
-      <guid isPermaLink="false">D1CaUkL7yOY</guid>
-      <pubDate>Fri, 11 Sep 2026 22:56:40 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Gülinay Selçuk İle Haber Bülteni</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Simge Fıstıkoğlu İle İyi ki Hafta Sonu</title>
-      <link>https://www.youtube.com/watch?v=0GsYBSWRjgc</link>
-      <guid isPermaLink="false">0GsYBSWRjgc</guid>
-      <pubDate>Fri, 11 Sep 2026 22:55:58 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Simge Fıstıkoğlu İle İyi ki Hafta Sonu</description>
     </item>
   </channel>
 </rss>
