@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 07:55:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 08:00:53 +0000</lastBuildDate>
     <item>
       <title>Halk TV: Eski MİT Görevlisi Kaşif Kozinoğlu'na Kocatepe Mezarlığı'nda Feth-i Kabir İşlemi Yapılıyor</title>
       <link>https://www.youtube.com/watch?v=bU_xLbaMvOs</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">AdG7KAv2ty4</guid>
       <pubDate>Sat, 12 Sep 2026 07:47:21 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BU SÖZLER ÇOK CAN YAKAR! Kılıçdaroğlu'nun o çıkışı İmamoğlu'nu çıldırttı! Silivri'yi böyle inletti!</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Eski MİT görevlisi Kaşif Kozinoğlu'nun mezarı bugün açılacak</title>
+      <link>https://www.youtube.com/shorts/EuchEVM9xCA</link>
+      <guid isPermaLink="false">EuchEVM9xCA</guid>
+      <pubDate>Sat, 12 Sep 2026 07:40:37 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Eski MİT görevlisi Kaşif Kozinoğlu'nun mezarı bugün açılacak</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Altında Sert Yükseliş! ABD Verisi Geldi Altın Fiyatları Tırmanışa Geçti! Gram Altın Ne Kadar Oldu?</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">2mkmlZFUczs</guid>
       <pubDate>Fri, 11 Sep 2026 20:00:30 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "UMARIM BÜGÜNLERİ ARAMAYIZ!" Hüsnü Mahalli'den çok kritik İKTİDAR uyarısı...</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Serap Belovacıklı ile Aklın Yolu | 11 Eylül</title>
-      <link>https://www.youtube.com/watch?v=gqBkPpECABQ</link>
-      <guid isPermaLink="false">gqBkPpECABQ</guid>
-      <pubDate>Fri, 11 Sep 2026 19:59:43 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Serap Belovacıklı ile Aklın Yolu | 11 Eylül</description>
     </item>
   </channel>
 </rss>
