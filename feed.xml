@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 10:15:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 10:20:33 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Mansur Yavaş'tan yeni açıklama: 'Bu ülkeyi yönetenlerle görüşmeyeceksek...'</title>
+      <link>https://www.youtube.com/watch?v=BylLKKsRIIo</link>
+      <guid isPermaLink="false">BylLKKsRIIo</guid>
+      <pubDate>Sat, 12 Sep 2026 10:17:52 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Mansur Yavaş'tan yeni açıklama: 'Bu ülkeyi yönetenlerle görüşmeyeceksek...'</description>
+    </item>
     <item>
       <title>Halk TV: Eski MİT Görevlisi Kaşif Kozinoğlu'na Kocatepe Mezarlığı'nda Feth-i Kabir İşlemi Yapılıyor</title>
       <link>https://www.youtube.com/watch?v=p-LBCHe4RS4</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">We2BTwh9LNM</guid>
       <pubDate>Sat, 12 Sep 2026 07:03:15 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Bursa'da bir kadın ters yönde yakalandı, ortalığı birbirine kattı! Polise saldırdı, kameraya tükürdü</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: FETÖ Cinayeti mi? Barış Terkoğlu Kaşif Kozinoğlu Soruşturmasının Arkasındaki Gerçekleri Anlattı</title>
-      <link>https://www.youtube.com/watch?v=2YAJZr6GLQM</link>
-      <guid isPermaLink="false">2YAJZr6GLQM</guid>
-      <pubDate>Sat, 12 Sep 2026 07:00:25 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: FETÖ Cinayeti mi? Barış Terkoğlu Kaşif Kozinoğlu Soruşturmasının Arkasındaki Gerçekleri Anlattı</description>
     </item>
   </channel>
 </rss>
