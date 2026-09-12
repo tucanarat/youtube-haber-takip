@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 10:35:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 10:40:36 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: "Öcalan için İmralı'da villa hazırlandı" iddiası çıkmıştı! Özdemir İnce'den kritik yorum...</title>
+      <link>https://www.youtube.com/watch?v=RUOHASyV6CM</link>
+      <guid isPermaLink="false">RUOHASyV6CM</guid>
+      <pubDate>Sat, 12 Sep 2026 10:30:07 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "Öcalan için İmralı'da villa hazırlandı" iddiası çıkmıştı! Özdemir İnce'den kritik yorum...</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Ankara Kent Konseyi Başkanı seçilen Halil İbrahim Yılmaz açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=wx7x0pAYaVw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">p_rTHaebVnU</guid>
       <pubDate>Sat, 12 Sep 2026 07:24:47 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Atakum Belediyesi işçilerinin açlık grevi dördüncü gününde</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Benzine gelen zam pompaya yansıdı... "Benzine artık paramız yetmiyor"</title>
-      <link>https://www.youtube.com/watch?v=zvPTxmtH0Ek</link>
-      <guid isPermaLink="false">zvPTxmtH0Ek</guid>
-      <pubDate>Sat, 12 Sep 2026 07:18:06 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Benzine gelen zam pompaya yansıdı... "Benzine artık paramız yetmiyor"</description>
     </item>
   </channel>
 </rss>
