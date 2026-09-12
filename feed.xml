@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 11:35:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 11:40:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: MANSUR YAVAŞ SESSİZLİĞİNİ BOZDU! CHP'den ayrılıp YENİ Parti'ye geçeceği iddialarına bomba sözler!</title>
+      <link>https://www.youtube.com/watch?v=8-XH743KRuI</link>
+      <guid isPermaLink="false">8-XH743KRuI</guid>
+      <pubDate>Sat, 12 Sep 2026 11:38:14 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: MANSUR YAVAŞ SESSİZLİĞİNİ BOZDU! CHP'den ayrılıp YENİ Parti'ye geçeceği iddialarına bomba sözler!</description>
+    </item>
+    <item>
+      <title>Halk TV: YENİ Partili Aşkın Genç'ten akaryakıt zammına tepki: Vatandaşlarımız ilk seçimde gereğini yapacak!</title>
+      <link>https://www.youtube.com/shorts/Md9P1wBL-68</link>
+      <guid isPermaLink="false">Md9P1wBL-68</guid>
+      <pubDate>Sat, 12 Sep 2026 11:31:18 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YENİ Partili Aşkın Genç'ten akaryakıt zammına tepki: Vatandaşlarımız ilk seçimde gereğini yapacak!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Kaşif Kozinoğlu'nun Mezarı Açıldı! 15 Yıllık Sır Aydınlanacak! Adli Tıp Uzmanı Delilleri Anlattı</title>
       <link>https://www.youtube.com/watch?v=LammdJ88wno</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">ud5GPn-FfR8</guid>
       <pubDate>Sat, 12 Sep 2026 08:13:32 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Bak güzellikle ver yoksa... - Miyase İlknur</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Yılların emeği saniyelere bağlandı: KPSS'ye son dakikada yetişen adayların heyecan dolu anları</title>
-      <link>https://www.youtube.com/shorts/wQ5fV4O5h4o</link>
-      <guid isPermaLink="false">wQ5fV4O5h4o</guid>
-      <pubDate>Sat, 12 Sep 2026 08:04:21 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Yılların emeği saniyelere bağlandı: KPSS'ye son dakikada yetişen adayların heyecan dolu anları</description>
-    </item>
-    <item>
-      <title>Halk TV: ÖZGÜR ÖZEL DÜĞMEYE BASTI! YENİ Parti için o hamle tozu dumana katacak! Ankara'da yer yerinden oynar!</title>
-      <link>https://www.youtube.com/watch?v=rrz97Cc1-zo</link>
-      <guid isPermaLink="false">rrz97Cc1-zo</guid>
-      <pubDate>Sat, 12 Sep 2026 08:03:40 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ÖZGÜR ÖZEL DÜĞMEYE BASTI! YENİ Parti için o hamle tozu dumana katacak! Ankara'da yer yerinden oynar!</description>
     </item>
   </channel>
 </rss>
