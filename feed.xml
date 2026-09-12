@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 11:40:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 11:45:28 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Çiftin düğün takıları Muradiye’de bir evin odunluğundan çıktı! Ev sahibi gözaltında!</title>
+      <link>https://www.youtube.com/shorts/-NwO5DAMbYM</link>
+      <guid isPermaLink="false">-NwO5DAMbYM</guid>
+      <pubDate>Sat, 12 Sep 2026 11:43:22 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Çiftin düğün takıları Muradiye’de bir evin odunluğundan çıktı! Ev sahibi gözaltında!</description>
+    </item>
     <item>
       <title>Halk TV: MANSUR YAVAŞ SESSİZLİĞİNİ BOZDU! CHP'den ayrılıp YENİ Parti'ye geçeceği iddialarına bomba sözler!</title>
       <link>https://www.youtube.com/watch?v=8-XH743KRuI</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">7RfctE_QFx4</guid>
       <pubDate>Sat, 12 Sep 2026 08:13:38 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Bugün 12 Eylül! - Mustafa Balbay</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Bak güzellikle ver yoksa... - Miyase İlknur</title>
-      <link>https://www.youtube.com/watch?v=ud5GPn-FfR8</link>
-      <guid isPermaLink="false">ud5GPn-FfR8</guid>
-      <pubDate>Sat, 12 Sep 2026 08:13:32 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Bak güzellikle ver yoksa... - Miyase İlknur</description>
     </item>
   </channel>
 </rss>
