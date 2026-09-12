@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 19:20:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 19:30:44 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: “İKTİDAR ÜÇ ÇÖKÜŞÜ BİRDEN YAŞIYOR!” Özgür Özel’den iktidara zehir zemberek sözler!</title>
+      <link>https://www.youtube.com/watch?v=60WFIsigD40</link>
+      <guid isPermaLink="false">60WFIsigD40</guid>
+      <pubDate>Sat, 12 Sep 2026 19:10:32 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: “İKTİDAR ÜÇ ÇÖKÜŞÜ BİRDEN YAŞIYOR!” Özgür Özel’den iktidara zehir zemberek sözler!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti'den Üsküdar İskele Meydanı'nda "Karar Milletindir, Üsküdar Milletindir" buluşması #Canlı</title>
       <link>https://www.youtube.com/watch?v=jNkgEg0oYq4</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">rqrjGJDP90M</guid>
       <pubDate>Sat, 12 Sep 2026 13:30:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: AKP'de Çatlak Büyüyor! Köprü Otoyol Özelleştirmesi AKP'yi Böldü! İsmail Saymaz Açıkladı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Ezgi Apartmanı kararına Adalet Bakanlığı önünde tepki</title>
-      <link>https://www.youtube.com/shorts/DuSG3ln3HNA</link>
-      <guid isPermaLink="false">DuSG3ln3HNA</guid>
-      <pubDate>Sat, 12 Sep 2026 13:26:33 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Ezgi Apartmanı kararına Adalet Bakanlığı önünde tepki</description>
     </item>
   </channel>
 </rss>
