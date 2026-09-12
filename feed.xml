@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 10:25:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 10:30:46 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Ankara Kent Konseyi Başkanı seçilen Halil İbrahim Yılmaz açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=wx7x0pAYaVw</link>
+      <guid isPermaLink="false">wx7x0pAYaVw</guid>
+      <pubDate>Sat, 12 Sep 2026 10:29:41 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Ankara Kent Konseyi Başkanı seçilen Halil İbrahim Yılmaz açıklama yapıyor #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: Mansur Yavaş: Yaptığımız görüşmenin nasıl speküle edildiğini görüyoruz</title>
       <link>https://www.youtube.com/shorts/VPTanoTiqcs</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">zvPTxmtH0Ek</guid>
       <pubDate>Sat, 12 Sep 2026 07:18:06 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Benzine gelen zam pompaya yansıdı... "Benzine artık paramız yetmiyor"</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Nergis kokuları arasında bir Ege rüyası: Karaburun | İki Bavul Bir Mikrofon</title>
-      <link>https://www.youtube.com/watch?v=zAI3ZcYu3n4</link>
-      <guid isPermaLink="false">zAI3ZcYu3n4</guid>
-      <pubDate>Sat, 12 Sep 2026 07:17:50 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Nergis kokuları arasında bir Ege rüyası: Karaburun | İki Bavul Bir Mikrofon</description>
     </item>
   </channel>
 </rss>
