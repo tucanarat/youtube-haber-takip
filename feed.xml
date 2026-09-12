@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 08:25:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 08:30:49 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Murat Ağırel Dosya Dosya Anlattı! Melih Gökçek'in Milyonları! İmralı İsyanı ve İmamoğlu Davası</title>
+      <link>https://www.youtube.com/watch?v=QU_V6PbsoB4</link>
+      <guid isPermaLink="false">QU_V6PbsoB4</guid>
+      <pubDate>Sat, 12 Sep 2026 08:30:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Murat Ağırel Dosya Dosya Anlattı! Melih Gökçek'in Milyonları! İmralı İsyanı ve İmamoğlu Davası</description>
+    </item>
+    <item>
+      <title>Halk TV: ÖZGÜR ÖZEL ŞOKE OLDU! Eski imam öyle bir dert yandı ki... Yılın diyaloğu olarak tarihe geçecek!</title>
+      <link>https://www.youtube.com/watch?v=xDdJ5VP40NA</link>
+      <guid isPermaLink="false">xDdJ5VP40NA</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:15 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ÖZGÜR ÖZEL ŞOKE OLDU! Eski imam öyle bir dert yandı ki... Yılın diyaloğu olarak tarihe geçecek!</description>
+    </item>
     <item>
       <title>Cumhuriyet: Gençlik: Dün ve bugün - Öner Yağcı</title>
       <link>https://www.youtube.com/watch?v=-zJ2xaecnUs</link>
@@ -204,13 +218,6 @@
       <description>SÖZCÜ TV kanalından yeni video: Burak Tatari ile Masada Ne Var?</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: Murat Ağırel Dosya Dosya Anlattı! Melih Gökçek'in Milyonları! İmralı İsyanı ve İmamoğlu Davası</title>
-      <link>https://www.youtube.com/watch?v=QU_V6PbsoB4</link>
-      <guid isPermaLink="false">QU_V6PbsoB4</guid>
-      <pubDate>Sat, 12 Sep 2026 06:15:53 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Murat Ağırel Dosya Dosya Anlattı! Melih Gökçek'in Milyonları! İmralı İsyanı ve İmamoğlu Davası</description>
-    </item>
-    <item>
       <title>ANKA Haber Ajansı: Cumhurbaşkanı Erdoğan, AK Parti Rize Genişletilmiş İl Danışma Meclis Toplantısı’nda konuşuyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=6XTWejEENUQ</link>
       <guid isPermaLink="false">6XTWejEENUQ</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">JhIQljwDSIg</guid>
       <pubDate>Fri, 11 Sep 2026 21:20:24 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Ekrem İmamoğlu'na Hapis Cezası Şoku! İBB'ye Kayyum mu Atanacak? AKP'nin Planı İfşa Oldu!</description>
-    </item>
-    <item>
-      <title>Halk TV: Cumhurbaşkanı Erdoğan, 'muhalefetin ne dediğiyle ilgilenmediğini' açıkladı! İşte o açıklama!</title>
-      <link>https://www.youtube.com/watch?v=tBZJNPcE070</link>
-      <guid isPermaLink="false">tBZJNPcE070</guid>
-      <pubDate>Fri, 11 Sep 2026 21:15:34 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Cumhurbaşkanı Erdoğan, 'muhalefetin ne dediğiyle ilgilenmediğini' açıkladı! İşte o açıklama!</description>
     </item>
   </channel>
 </rss>
