@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 08:10:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 08:15:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ÖZGÜR ÖZEL DÜĞMEYE BASTI! YENİ Parti için o hamle tozu dumana katacak! Ankara'da yer yerinden oynar!</title>
+      <link>https://www.youtube.com/watch?v=rrz97Cc1-zo</link>
+      <guid isPermaLink="false">rrz97Cc1-zo</guid>
+      <pubDate>Sat, 12 Sep 2026 08:03:40 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ÖZGÜR ÖZEL DÜĞMEYE BASTI! YENİ Parti için o hamle tozu dumana katacak! Ankara'da yer yerinden oynar!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: "İSİM YAZMAKTAN ACİZLER" Erol Mütercimler Çileden Çıktı! CHP'ye Tarihi Uyarı</title>
+      <link>https://www.youtube.com/watch?v=L_iiR8gS5es</link>
+      <guid isPermaLink="false">L_iiR8gS5es</guid>
+      <pubDate>Sat, 12 Sep 2026 08:00:09 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: "İSİM YAZMAKTAN ACİZLER" Erol Mütercimler Çileden Çıktı! CHP'ye Tarihi Uyarı</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: İBB Başkan Vekili Nuri Aslan, Çatalca'da sığır süt yemi dağıtım programında konuşuyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=FK6hoVoLysc</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">ikhFJygdom0</guid>
       <pubDate>Fri, 11 Sep 2026 20:30:18 +0000</pubDate>
       <description>Halk TV kanalından yeni video: AKP'NİN ASIL AMACINI TEK TEK ANLATTI! Gazeteci Küçükşahin: Demokrasi yeniden katlediliyor!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Seyit Torun Ekrem İmamoğlu'na Verilen Siyasi Yasak Kararını Yerden Yere Vurdu! AKP'ye Ateş Püskürdü</title>
-      <link>https://www.youtube.com/watch?v=GbMx5ac9xDQ</link>
-      <guid isPermaLink="false">GbMx5ac9xDQ</guid>
-      <pubDate>Fri, 11 Sep 2026 20:20:04 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Seyit Torun Ekrem İmamoğlu'na Verilen Siyasi Yasak Kararını Yerden Yere Vurdu! AKP'ye Ateş Püskürdü</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Sıra Ekrem İmamoğlu'nda mı? Murat Ağırel'den Çarpıcı Üsküdar ve İBB Çıkışı!</title>
-      <link>https://www.youtube.com/watch?v=nB-T4VhneUg</link>
-      <guid isPermaLink="false">nB-T4VhneUg</guid>
-      <pubDate>Fri, 11 Sep 2026 20:00:33 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Sıra Ekrem İmamoğlu'nda mı? Murat Ağırel'den Çarpıcı Üsküdar ve İBB Çıkışı!</description>
     </item>
   </channel>
 </rss>
