@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 09:00:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 09:05:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Mansur Yavaş, Ankara Kent Konseyi'nin 7. Olağan Genel Kurulu'nda Konuştu (12 Eylül 2026)</title>
+      <link>https://www.youtube.com/watch?v=lhl2bYyL5Sc</link>
+      <guid isPermaLink="false">lhl2bYyL5Sc</guid>
+      <pubDate>Sat, 12 Sep 2026 09:02:28 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Mansur Yavaş, Ankara Kent Konseyi'nin 7. Olağan Genel Kurulu'nda Konuştu (12 Eylül 2026)</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İSMAİL SAYMAZ KULİSLERİ SALLADI! Erdoğan'ın Erken Seçim ve Mansur Yavaş Planı!</title>
+      <link>https://www.youtube.com/watch?v=rt9tqW8g6-U</link>
+      <guid isPermaLink="false">rt9tqW8g6-U</guid>
+      <pubDate>Sat, 12 Sep 2026 09:00:17 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İSMAİL SAYMAZ KULİSLERİ SALLADI! Erdoğan'ın Erken Seçim ve Mansur Yavaş Planı!</description>
+    </item>
     <item>
       <title>Halk TV: İÇİNİZ PARÇALANACAK! Ezgi Apartmanı davasında bina kolonlarını kesenlere tahliye! Anne kriz geçirdi!</title>
       <link>https://www.youtube.com/watch?v=0asCr2ScFYc</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">0AzRE6heZ_k</guid>
       <pubDate>Fri, 11 Sep 2026 21:53:47 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Saadet Partisi’nden Erdoğan’a dikkat çeken gönderme: “Katlanılamayan iktidar!” #shorts</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: 'EZGİ APARTMANI' KARARI SONRASI MURAT TAYLAN'DAN ÇOK SERT TEPKİ!</title>
-      <link>https://www.youtube.com/shorts/g93ekuZ8Ulk</link>
-      <guid isPermaLink="false">g93ekuZ8Ulk</guid>
-      <pubDate>Fri, 11 Sep 2026 21:51:55 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: 'EZGİ APARTMANI' KARARI SONRASI MURAT TAYLAN'DAN ÇOK SERT TEPKİ!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İSMAİL KARTAL GERÇEĞİ: Ayhan Şensoy Fenerbahçe'deki 3 Saatlik Kritik Görüşmeyi Anlatıyor!</title>
-      <link>https://www.youtube.com/watch?v=_B-fw07vPoQ</link>
-      <guid isPermaLink="false">_B-fw07vPoQ</guid>
-      <pubDate>Fri, 11 Sep 2026 21:40:09 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İSMAİL KARTAL GERÇEĞİ: Ayhan Şensoy Fenerbahçe'deki 3 Saatlik Kritik Görüşmeyi Anlatıyor!</description>
     </item>
   </channel>
 </rss>
