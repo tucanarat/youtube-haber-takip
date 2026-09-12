@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 18:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 18:05:26 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Melih Gökçek'in Gizli Serveti! 180 Milyon Euro İddiasını Barış Terkoğlu Bir Bir Anlattı</title>
+      <link>https://www.youtube.com/watch?v=ISwHpOvUqpQ</link>
+      <guid isPermaLink="false">ISwHpOvUqpQ</guid>
+      <pubDate>Sat, 12 Sep 2026 18:00:29 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Melih Gökçek'in Gizli Serveti! 180 Milyon Euro İddiasını Barış Terkoğlu Bir Bir Anlattı</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Ekrem İmamoğlu Üsküdar'dan iktidara seslendi!</title>
+      <link>https://www.youtube.com/watch?v=i4FdmBQJCYw</link>
+      <guid isPermaLink="false">i4FdmBQJCYw</guid>
+      <pubDate>Sat, 12 Sep 2026 18:00:26 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Ekrem İmamoğlu Üsküdar'dan iktidara seslendi!</description>
+    </item>
     <item>
       <title>Tele2 Haber: "EY ERDOĞAN DUYUYOR MUSUN?" Özgür Özel, Üsküdar'da binlerce kişiyi göstererek Erdoğan'a seslendi!</title>
       <link>https://www.youtube.com/shorts/-n06hBCFBas</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">mBBwXbvTJ3U</guid>
       <pubDate>Sat, 12 Sep 2026 12:30:42 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Palandöken’de hortum paniği! Yola doğru böyle ilerledi!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: 'AKP Kazanamadığını CHP'nin Elinden Alıyor' Murat Ağırel İsyan Etti! Neler Anlattı Neler</title>
-      <link>https://www.youtube.com/watch?v=I31sLNIhezw</link>
-      <guid isPermaLink="false">I31sLNIhezw</guid>
-      <pubDate>Sat, 12 Sep 2026 12:30:13 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: 'AKP Kazanamadığını CHP'nin Elinden Alıyor' Murat Ağırel İsyan Etti! Neler Anlattı Neler</description>
-    </item>
-    <item>
-      <title>Halk TV: Muğla'da yaşayan 43 yaşındaki Hatice K., boşanmak istediği için vuruldu, iki bacağını kaybetti!</title>
-      <link>https://www.youtube.com/shorts/vNts8UbBGSQ</link>
-      <guid isPermaLink="false">vNts8UbBGSQ</guid>
-      <pubDate>Sat, 12 Sep 2026 12:28:02 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Muğla'da yaşayan 43 yaşındaki Hatice K., boşanmak istediği için vuruldu, iki bacağını kaybetti!</description>
     </item>
   </channel>
 </rss>
