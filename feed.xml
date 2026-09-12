@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 19:30:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 19:35:23 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: ÖZGÜR ÖZEL'DEN ERDOĞAN'A REST: "O Seçimden Kaçamayacaksın!"</title>
+      <link>https://www.youtube.com/watch?v=vZyfkJDIAjU</link>
+      <guid isPermaLink="false">vZyfkJDIAjU</guid>
+      <pubDate>Sat, 12 Sep 2026 19:20:21 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: ÖZGÜR ÖZEL'DEN ERDOĞAN'A REST: "O Seçimden Kaçamayacaksın!"</description>
+    </item>
     <item>
       <title>Halk TV: “İKTİDAR ÜÇ ÇÖKÜŞÜ BİRDEN YAŞIYOR!” Özgür Özel’den iktidara zehir zemberek sözler!</title>
       <link>https://www.youtube.com/watch?v=60WFIsigD40</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">9EZxV1DqbI4</guid>
       <pubDate>Sat, 12 Sep 2026 13:40:03 +0000</pubDate>
       <description>Halk TV kanalından yeni video: EMEKLİYE SEYYANEN ZAM O TARİHTE GELİYOR! Özgür Erdursun tek tek açıkladı! İşte çarpıcı detaylar!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: AKP'de Çatlak Büyüyor! Köprü Otoyol Özelleştirmesi AKP'yi Böldü! İsmail Saymaz Açıkladı</title>
-      <link>https://www.youtube.com/watch?v=rqrjGJDP90M</link>
-      <guid isPermaLink="false">rqrjGJDP90M</guid>
-      <pubDate>Sat, 12 Sep 2026 13:30:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: AKP'de Çatlak Büyüyor! Köprü Otoyol Özelleştirmesi AKP'yi Böldü! İsmail Saymaz Açıkladı</description>
     </item>
   </channel>
 </rss>
