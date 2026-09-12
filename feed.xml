@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 13:40:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 13:45:28 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: #CANLI Merve Ekinci İle Haber Bülteni</title>
+      <link>https://www.youtube.com/watch?v=vXAbvKkvytg</link>
+      <guid isPermaLink="false">vXAbvKkvytg</guid>
+      <pubDate>Sat, 12 Sep 2026 13:39:39 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: #CANLI Merve Ekinci İle Haber Bülteni</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: AKP'de Çatlak Büyüyor! Köprü Otoyol Özelleştirmesi AKP'yi Böldü! İsmail Saymaz Açıkladı</title>
+      <link>https://www.youtube.com/watch?v=rqrjGJDP90M</link>
+      <guid isPermaLink="false">rqrjGJDP90M</guid>
+      <pubDate>Sat, 12 Sep 2026 13:30:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: AKP'de Çatlak Büyüyor! Köprü Otoyol Özelleştirmesi AKP'yi Böldü! İsmail Saymaz Açıkladı</description>
+    </item>
     <item>
       <title>Cumhuriyet: Ezgi Apartmanı kararına Adalet Bakanlığı önünde tepki</title>
       <link>https://www.youtube.com/shorts/DuSG3ln3HNA</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">6L5qoeDLNB8</guid>
       <pubDate>Sat, 12 Sep 2026 09:55:50 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Mansur Yavaş'tan Erdoğan görüşmesi açıklaması: "Nasıl speküle edildiğini görüyoruz"</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Mansur Yavaş: Ayrılıkta azap vardır, birlikte rahmet vardır</title>
-      <link>https://www.youtube.com/shorts/zNZ_jOMBXgg</link>
-      <guid isPermaLink="false">zNZ_jOMBXgg</guid>
-      <pubDate>Sat, 12 Sep 2026 09:55:29 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Mansur Yavaş: Ayrılıkta azap vardır, birlikte rahmet vardır</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Mansur Yavaş Cumhurbaşkanı Erdoğan’la yaptığı görüşmeye ilişkin konuştu</title>
-      <link>https://www.youtube.com/shorts/Lon29erSMwM</link>
-      <guid isPermaLink="false">Lon29erSMwM</guid>
-      <pubDate>Sat, 12 Sep 2026 09:51:56 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Mansur Yavaş Cumhurbaşkanı Erdoğan’la yaptığı görüşmeye ilişkin konuştu</description>
     </item>
   </channel>
 </rss>
