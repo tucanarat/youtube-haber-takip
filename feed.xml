@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 07:30:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 07:35:25 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Altında Sert Yükseliş! ABD Verisi Geldi Altın Fiyatları Tırmanışa Geçti! Gram Altın Ne Kadar Oldu?</title>
+      <link>https://www.youtube.com/watch?v=6Rm4N4WhT6c</link>
+      <guid isPermaLink="false">6Rm4N4WhT6c</guid>
+      <pubDate>Sat, 12 Sep 2026 07:30:23 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Altında Sert Yükseliş! ABD Verisi Geldi Altın Fiyatları Tırmanışa Geçti! Gram Altın Ne Kadar Oldu?</description>
+    </item>
     <item>
       <title>Cumhuriyet: YENİ Partili Karadeniz Cevdet Yılmaz’a sordu: Sinop’un köylerine uğrayacak mısınız?</title>
       <link>https://www.youtube.com/watch?v=HFozGhe5TuU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">wfaaXbRWNjU</guid>
       <pubDate>Fri, 11 Sep 2026 19:40:02 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: 50 BİN KİŞİNİN KATİLİNE SARAYCIK! Turhan Çömez Canlı Yayında Açtı Ağzını Yumdu Gözünü</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Melih Gökçek ifade vermeye sakız çiğneyerek gelmişti! Hüsnü Mahalli'den dikkat çeken uyarı...</title>
-      <link>https://www.youtube.com/watch?v=m06FAj1zx3Q</link>
-      <guid isPermaLink="false">m06FAj1zx3Q</guid>
-      <pubDate>Fri, 11 Sep 2026 19:30:05 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Melih Gökçek ifade vermeye sakız çiğneyerek gelmişti! Hüsnü Mahalli'den dikkat çeken uyarı...</description>
     </item>
   </channel>
 </rss>
