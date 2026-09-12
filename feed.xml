@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 08:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 09:00:54 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: İÇİNİZ PARÇALANACAK! Ezgi Apartmanı davasında bina kolonlarını kesenlere tahliye! Anne kriz geçirdi!</title>
+      <link>https://www.youtube.com/watch?v=0asCr2ScFYc</link>
+      <guid isPermaLink="false">0asCr2ScFYc</guid>
+      <pubDate>Sat, 12 Sep 2026 08:40:32 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İÇİNİZ PARÇALANACAK! Ezgi Apartmanı davasında bina kolonlarını kesenlere tahliye! Anne kriz geçirdi!</description>
+    </item>
     <item>
       <title>Halk TV: Silivri Cezaevi'nde yaşımını yitiren eski  MİT görevlisi Kaşif Kozinoğlu’nun mezarı açılıyor</title>
       <link>https://www.youtube.com/shorts/yLaxmd_vfcc</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">_B-fw07vPoQ</guid>
       <pubDate>Fri, 11 Sep 2026 21:40:09 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İSMAİL KARTAL GERÇEĞİ: Ayhan Şensoy Fenerbahçe'deki 3 Saatlik Kritik Görüşmeyi Anlatıyor!</description>
-    </item>
-    <item>
-      <title>Halk TV: ÜSKÜDAR'DA NE 'SEVGİ' VAR NE DE 'SELİ'! Seçimle gelmiş gibi boy gösterisi yaptı! O flaş görüntüler!</title>
-      <link>https://www.youtube.com/watch?v=p0MGKQamgvw</link>
-      <guid isPermaLink="false">p0MGKQamgvw</guid>
-      <pubDate>Fri, 11 Sep 2026 21:30:27 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ÜSKÜDAR'DA NE 'SEVGİ' VAR NE DE 'SELİ'! Seçimle gelmiş gibi boy gösterisi yaptı! O flaş görüntüler!</description>
     </item>
   </channel>
 </rss>
