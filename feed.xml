@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 18:20:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 18:25:26 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: ÖZGÜR ÖZEL ÜSKÜDAR'DA ERDOĞAN'A MEYDAN OKUDU!</title>
+      <link>https://www.youtube.com/shorts/-baaENlXGFg</link>
+      <guid isPermaLink="false">-baaENlXGFg</guid>
+      <pubDate>Sat, 12 Sep 2026 18:20:37 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: ÖZGÜR ÖZEL ÜSKÜDAR'DA ERDOĞAN'A MEYDAN OKUDU!</description>
+    </item>
+    <item>
+      <title>Halk TV: Özgür Özel’den AKP il başkanlarına sert uyarı! “Gün gelecek, devran değişecek!”</title>
+      <link>https://www.youtube.com/watch?v=vbYHCV5Kv-U</link>
+      <guid isPermaLink="false">vbYHCV5Kv-U</guid>
+      <pubDate>Sat, 12 Sep 2026 18:10:09 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Özgür Özel’den AKP il başkanlarına sert uyarı! “Gün gelecek, devran değişecek!”</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Melih Gökçek'in Gizli Serveti! 180 Milyon Euro İddiasını Barış Terkoğlu Bir Bir Anlattı</title>
       <link>https://www.youtube.com/watch?v=ISwHpOvUqpQ</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">4iUdPHn4EIU</guid>
       <pubDate>Sat, 12 Sep 2026 12:40:03 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SARAY'DAKİ GÖRÜŞME ANKARA'YI SALLAMIŞTI! Mansur Yavaş, Erdoğan ile ne konuştuğunu tek tek açıkladı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Ezgi Apartmanı davasında çarpıcı sözler! Adalet Bakanlığı önündeki tepki devam ediyor</title>
-      <link>https://www.youtube.com/shorts/8KW3VICNrf4</link>
-      <guid isPermaLink="false">8KW3VICNrf4</guid>
-      <pubDate>Sat, 12 Sep 2026 12:38:11 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ezgi Apartmanı davasında çarpıcı sözler! Adalet Bakanlığı önündeki tepki devam ediyor</description>
-    </item>
-    <item>
-      <title>Halk TV: Palandöken’de hortum paniği! Yola doğru böyle ilerledi!</title>
-      <link>https://www.youtube.com/shorts/mBBwXbvTJ3U</link>
-      <guid isPermaLink="false">mBBwXbvTJ3U</guid>
-      <pubDate>Sat, 12 Sep 2026 12:30:42 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Palandöken’de hortum paniği! Yola doğru böyle ilerledi!</description>
     </item>
   </channel>
 </rss>
