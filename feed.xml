@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 18:40:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 18:45:29 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: “ÜSKÜDAR MİLLETİN KALESİDİR!” Özgür Özel’den Üsküdar’da iktidara tarihi mesaj!</title>
+      <link>https://www.youtube.com/watch?v=ujHBW5kFHTw</link>
+      <guid isPermaLink="false">ujHBW5kFHTw</guid>
+      <pubDate>Sat, 12 Sep 2026 18:30:33 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: “ÜSKÜDAR MİLLETİN KALESİDİR!” Özgür Özel’den Üsküdar’da iktidara tarihi mesaj!</description>
+    </item>
     <item>
       <title>Tele2 Haber: "EŞLEŞTİRİN BAKALIM KİMLERLE NEREDE?" Özgür Özel, Üsküdar'da yapılanları tek tek anlattı!</title>
       <link>https://www.youtube.com/watch?v=LqzXGk_cn80</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">y5ZDA0y9Vjk</guid>
       <pubDate>Sat, 12 Sep 2026 13:00:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İMAMOĞLU'NA 2 KEZ BERAAT ETTİĞİ DAVADAN HAPİS CEZASI! İbrahim Uslu'nun sözleri büyük ses getirecek!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Erdoğan Seçim Sinyalini Böyle Verdi! O Videodaki Gizli Mesaj! Uzman İsim Anlattı</title>
-      <link>https://www.youtube.com/watch?v=ff0cnkfGPxA</link>
-      <guid isPermaLink="false">ff0cnkfGPxA</guid>
-      <pubDate>Sat, 12 Sep 2026 13:00:04 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Erdoğan Seçim Sinyalini Böyle Verdi! O Videodaki Gizli Mesaj! Uzman İsim Anlattı</description>
     </item>
   </channel>
 </rss>
