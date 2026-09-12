@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 18:50:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 18:55:28 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Özgür Özel’den Üsküdar’da meydan okuyan sözler! "Biz o sandığa varırız, o seçimi alırız!”</title>
+      <link>https://www.youtube.com/watch?v=sTfvWx3pRh0</link>
+      <guid isPermaLink="false">sTfvWx3pRh0</guid>
+      <pubDate>Sat, 12 Sep 2026 18:50:17 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Özgür Özel’den Üsküdar’da meydan okuyan sözler! "Biz o sandığa varırız, o seçimi alırız!”</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Özgür Özel'den İktidara ve Valiye Çok Sert Sözler: "Devran Dönecek, Hesap Vereceksiniz!"</title>
+      <link>https://www.youtube.com/watch?v=qjma4ZAUJmU</link>
+      <guid isPermaLink="false">qjma4ZAUJmU</guid>
+      <pubDate>Sat, 12 Sep 2026 18:40:13 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Özgür Özel'den İktidara ve Valiye Çok Sert Sözler: "Devran Dönecek, Hesap Vereceksiniz!"</description>
+    </item>
     <item>
       <title>Halk TV: “ÜSKÜDAR MİLLETİN KALESİDİR!” Özgür Özel’den Üsküdar’da iktidara tarihi mesaj!</title>
       <link>https://www.youtube.com/watch?v=ujHBW5kFHTw</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">Gx7N2C9Q3SA</guid>
       <pubDate>Sat, 12 Sep 2026 13:25:04 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İran destekli Husiler, Suudileri kalbinden vurdu! Petrol tesislerini yerle bir ettiler! Dünya şokta!</description>
-    </item>
-    <item>
-      <title>Halk TV: Vanlı Kara Haydar'ın düğün takılarının odunlukta bulunduğu anlar ortaya çıktı!</title>
-      <link>https://www.youtube.com/shorts/9ciyWECKzu0</link>
-      <guid isPermaLink="false">9ciyWECKzu0</guid>
-      <pubDate>Sat, 12 Sep 2026 13:24:36 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Vanlı Kara Haydar'ın düğün takılarının odunlukta bulunduğu anlar ortaya çıktı!</description>
-    </item>
-    <item>
-      <title>Halk TV: İMAMOĞLU'NA 2 KEZ BERAAT ETTİĞİ DAVADAN HAPİS CEZASI! İbrahim Uslu'nun sözleri büyük ses getirecek!</title>
-      <link>https://www.youtube.com/watch?v=y5ZDA0y9Vjk</link>
-      <guid isPermaLink="false">y5ZDA0y9Vjk</guid>
-      <pubDate>Sat, 12 Sep 2026 13:00:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İMAMOĞLU'NA 2 KEZ BERAAT ETTİĞİ DAVADAN HAPİS CEZASI! İbrahim Uslu'nun sözleri büyük ses getirecek!</description>
     </item>
   </channel>
 </rss>
