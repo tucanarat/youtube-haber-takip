@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 16:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 16:20:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ABB Başkanı Mansur Yavaş’ın siyasi rotası seçmene soruldu! İşte o anketin sonuçları!</title>
+      <link>https://www.youtube.com/watch?v=_-mVkA_kiz0</link>
+      <guid isPermaLink="false">_-mVkA_kiz0</guid>
+      <pubDate>Sat, 12 Sep 2026 16:13:42 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ABB Başkanı Mansur Yavaş’ın siyasi rotası seçmene soruldu! İşte o anketin sonuçları!</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | YENİ Parti’den Üsküdar Meydanı’nda büyük buluşma!</title>
       <link>https://www.youtube.com/watch?v=aSM6Xjkhl4U</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">viISq9okhvA</guid>
       <pubDate>Sat, 12 Sep 2026 10:50:28 +0000</pubDate>
       <description>Halk TV kanalından yeni video: DERVİŞOĞLU ÇILGINA DÖNDÜ! Bahçeli'nin 'Öcalan'a ev yapıldı' açıklamasına resmen ateş püskürdü!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: İstanbul Boğaz Müzesi açılışı</title>
-      <link>https://www.youtube.com/watch?v=Z4e9ZuNDxEU</link>
-      <guid isPermaLink="false">Z4e9ZuNDxEU</guid>
-      <pubDate>Sat, 12 Sep 2026 10:45:31 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: İstanbul Boğaz Müzesi açılışı</description>
     </item>
   </channel>
 </rss>
