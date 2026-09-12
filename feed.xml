@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 15:20:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 15:25:25 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: "YAŞARKEN ÖLDÜRDÜLER BİZİ!" EYT dışında kalan milyonların isyan Ankara'yı sallar! Şoke edecek sözler</title>
+      <link>https://www.youtube.com/watch?v=5cUGvxWzr1M</link>
+      <guid isPermaLink="false">5cUGvxWzr1M</guid>
+      <pubDate>Sat, 12 Sep 2026 15:15:16 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: "YAŞARKEN ÖLDÜRDÜLER BİZİ!" EYT dışında kalan milyonların isyan Ankara'yı sallar! Şoke edecek sözler</description>
+    </item>
     <item>
       <title>Halk TV: Melih Gökçek soruşturmasında şok detay! Turhan Çömez, Ankara kulislerini sallayan iddiaları açıkladı</title>
       <link>https://www.youtube.com/watch?v=JKxC1-cX8Xo</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">p-LBCHe4RS4</guid>
       <pubDate>Sat, 12 Sep 2026 10:14:47 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Eski MİT Görevlisi Kaşif Kozinoğlu'na Kocatepe Mezarlığı'nda Feth-i Kabir İşlemi Yapılıyor</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Mansur Yavaş'tan net mesaj: “Ayrılıkta azap vardır, birlikte rahmet vardır”</title>
-      <link>https://www.youtube.com/shorts/yjT4lGYOv6Q</link>
-      <guid isPermaLink="false">yjT4lGYOv6Q</guid>
-      <pubDate>Sat, 12 Sep 2026 10:12:58 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Mansur Yavaş'tan net mesaj: “Ayrılıkta azap vardır, birlikte rahmet vardır”</description>
     </item>
   </channel>
 </rss>
