@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 12:40:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 12:45:29 +0000</lastBuildDate>
     <item>
       <title>Halk TV: Palandöken’de hortum paniği! Yola doğru böyle ilerledi!</title>
       <link>https://www.youtube.com/shorts/mBBwXbvTJ3U</link>
       <guid isPermaLink="false">mBBwXbvTJ3U</guid>
       <pubDate>Sat, 12 Sep 2026 12:30:42 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Palandöken’de hortum paniği! Yola doğru böyle ilerledi!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: 'AKP Kazanamadığını CHP'nin Elinden Alıyor' Murat Ağırel İsyan Etti! Neler Anlattı Neler</title>
+      <link>https://www.youtube.com/watch?v=I31sLNIhezw</link>
+      <guid isPermaLink="false">I31sLNIhezw</guid>
+      <pubDate>Sat, 12 Sep 2026 12:30:13 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: 'AKP Kazanamadığını CHP'nin Elinden Alıyor' Murat Ağırel İsyan Etti! Neler Anlattı Neler</description>
     </item>
     <item>
       <title>Halk TV: Muğla'da yaşayan 43 yaşındaki Hatice K., boşanmak istediği için vuruldu, iki bacağını kaybetti!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">AvJkUSzG7NI</guid>
       <pubDate>Sat, 12 Sep 2026 09:13:13 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Mansur Yavaş soruları yanıtlıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: CHP İstanbul İl Başkanı Gürsel Tekin, Rozet Takma Töreninde Konuştu</title>
-      <link>https://www.youtube.com/watch?v=etLxVjcmd0Y</link>
-      <guid isPermaLink="false">etLxVjcmd0Y</guid>
-      <pubDate>Sat, 12 Sep 2026 09:12:07 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: CHP İstanbul İl Başkanı Gürsel Tekin, Rozet Takma Töreninde Konuştu</description>
     </item>
   </channel>
 </rss>
