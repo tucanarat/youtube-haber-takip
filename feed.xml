@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 07:35:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 07:40:33 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: Altında Sert Yükseliş! ABD Verisi Geldi Altın Fiyatları Tırmanışa Geçti! Gram Altın Ne Kadar Oldu?</title>
       <link>https://www.youtube.com/watch?v=6Rm4N4WhT6c</link>
@@ -27,6 +27,13 @@
       <guid isPermaLink="false">p_rTHaebVnU</guid>
       <pubDate>Sat, 12 Sep 2026 07:24:47 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Atakum Belediyesi işçilerinin açlık grevi dördüncü gününde</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Eski MİT Görevlisi Kaşif Kozinoğlu'na Kocatepe Mezarlığı'nda Feth-i Kabir İşlemi Yapılıyor</title>
+      <link>https://www.youtube.com/watch?v=bU_xLbaMvOs</link>
+      <guid isPermaLink="false">bU_xLbaMvOs</guid>
+      <pubDate>Sat, 12 Sep 2026 07:23:06 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Eski MİT Görevlisi Kaşif Kozinoğlu'na Kocatepe Mezarlığı'nda Feth-i Kabir İşlemi Yapılıyor</description>
     </item>
     <item>
       <title>Cumhuriyet: Benzine gelen zam pompaya yansıdı... "Benzine artık paramız yetmiyor"</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">XKHn8fDphIo</guid>
       <pubDate>Fri, 11 Sep 2026 19:45:01 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Saniye Bora Fıçı, Foça'da nasıl sokağa çıkacak? Ayşen Şahin: Ekranda gülmek kadar kolay olmayacak!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: 50 BİN KİŞİNİN KATİLİNE SARAYCIK! Turhan Çömez Canlı Yayında Açtı Ağzını Yumdu Gözünü</title>
-      <link>https://www.youtube.com/watch?v=wfaaXbRWNjU</link>
-      <guid isPermaLink="false">wfaaXbRWNjU</guid>
-      <pubDate>Fri, 11 Sep 2026 19:40:02 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: 50 BİN KİŞİNİN KATİLİNE SARAYCIK! Turhan Çömez Canlı Yayında Açtı Ağzını Yumdu Gözünü</description>
     </item>
   </channel>
 </rss>
