@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 09:05:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 09:10:53 +0000</lastBuildDate>
     <item>
       <title>Halk TV: Mansur Yavaş, Ankara Kent Konseyi'nin 7. Olağan Genel Kurulu'nda Konuştu (12 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=lhl2bYyL5Sc</link>
@@ -20,6 +20,20 @@
       <guid isPermaLink="false">rt9tqW8g6-U</guid>
       <pubDate>Sat, 12 Sep 2026 09:00:17 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İSMAİL SAYMAZ KULİSLERİ SALLADI! Erdoğan'ın Erken Seçim ve Mansur Yavaş Planı!</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: Mansur Yavaş soruları yanıtlıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=AvJkUSzG7NI</link>
+      <guid isPermaLink="false">AvJkUSzG7NI</guid>
+      <pubDate>Sat, 12 Sep 2026 08:51:32 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Mansur Yavaş soruları yanıtlıyor #Canlı</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: Gürsel Tekin, partisine katılanlar için düzenlenen rozet takma töreninde konuşuyor</title>
+      <link>https://www.youtube.com/watch?v=eoYTTSOYGc4</link>
+      <guid isPermaLink="false">eoYTTSOYGc4</guid>
+      <pubDate>Sat, 12 Sep 2026 08:49:45 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Gürsel Tekin, partisine katılanlar için düzenlenen rozet takma töreninde konuşuyor</description>
     </item>
     <item>
       <title>Halk TV: İÇİNİZ PARÇALANACAK! Ezgi Apartmanı davasında bina kolonlarını kesenlere tahliye! Anne kriz geçirdi!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">xCKql07DTNs</guid>
       <pubDate>Fri, 11 Sep 2026 22:04:49 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Bilge Yurtdagülen ile Söz Sende (11 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: ERDOĞAN PARKEYE ÇIKTI BASKETBOL OYNADI! MURAT TAYLAN'DAN GÜLÜMSETEN BENZETME...</title>
-      <link>https://www.youtube.com/shorts/5hK9NQJQrWY</link>
-      <guid isPermaLink="false">5hK9NQJQrWY</guid>
-      <pubDate>Fri, 11 Sep 2026 21:59:32 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: ERDOĞAN PARKEYE ÇIKTI BASKETBOL OYNADI! MURAT TAYLAN'DAN GÜLÜMSETEN BENZETME...</description>
-    </item>
-    <item>
-      <title>Halk TV: Saadet Partisi’nden Erdoğan’a dikkat çeken gönderme: “Katlanılamayan iktidar!” #shorts</title>
-      <link>https://www.youtube.com/shorts/0AzRE6heZ_k</link>
-      <guid isPermaLink="false">0AzRE6heZ_k</guid>
-      <pubDate>Fri, 11 Sep 2026 21:53:47 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Saadet Partisi’nden Erdoğan’a dikkat çeken gönderme: “Katlanılamayan iktidar!” #shorts</description>
     </item>
   </channel>
 </rss>
