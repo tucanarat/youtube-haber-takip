@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 19:35:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 19:40:30 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: “AYRILIKTA AZAP, BİRLİKTE RAHMET VARDIR!” Üsküdar’da Özgür Özel’den birlik ve beraberlik mesajı!</title>
+      <link>https://www.youtube.com/watch?v=Ry2-C_SnRDk</link>
+      <guid isPermaLink="false">Ry2-C_SnRDk</guid>
+      <pubDate>Sat, 12 Sep 2026 19:30:39 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: “AYRILIKTA AZAP, BİRLİKTE RAHMET VARDIR!” Üsküdar’da Özgür Özel’den birlik ve beraberlik mesajı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: ÖZGÜR ÖZEL'DEN ERDOĞAN'A REST: "O Seçimden Kaçamayacaksın!"</title>
       <link>https://www.youtube.com/watch?v=vZyfkJDIAjU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">2yEr-47NPRs</guid>
       <pubDate>Sat, 12 Sep 2026 13:46:36 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Merve Ekinci İle Haber Bülteni | 12 Eylül</description>
-    </item>
-    <item>
-      <title>Halk TV: EMEKLİYE SEYYANEN ZAM O TARİHTE GELİYOR! Özgür Erdursun tek tek açıkladı! İşte çarpıcı detaylar!</title>
-      <link>https://www.youtube.com/watch?v=9EZxV1DqbI4</link>
-      <guid isPermaLink="false">9EZxV1DqbI4</guid>
-      <pubDate>Sat, 12 Sep 2026 13:40:03 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: EMEKLİYE SEYYANEN ZAM O TARİHTE GELİYOR! Özgür Erdursun tek tek açıkladı! İşte çarpıcı detaylar!</description>
     </item>
   </channel>
 </rss>
