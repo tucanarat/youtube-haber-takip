@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 13:00:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 13:06:02 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: İMAMOĞLU'NA 2 KEZ BERAAT ETTİĞİ DAVADAN HAPİS CEZASI! İbrahim Uslu'nun sözleri büyük ses getirecek!</title>
+      <link>https://www.youtube.com/watch?v=y5ZDA0y9Vjk</link>
+      <guid isPermaLink="false">y5ZDA0y9Vjk</guid>
+      <pubDate>Sat, 12 Sep 2026 13:00:06 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İMAMOĞLU'NA 2 KEZ BERAAT ETTİĞİ DAVADAN HAPİS CEZASI! İbrahim Uslu'nun sözleri büyük ses getirecek!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Erdoğan Seçim Sinyalini Böyle Verdi! O Videodaki Gizli Mesaj! Uzman İsim Anlattı</title>
+      <link>https://www.youtube.com/watch?v=ff0cnkfGPxA</link>
+      <guid isPermaLink="false">ff0cnkfGPxA</guid>
+      <pubDate>Sat, 12 Sep 2026 13:00:04 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Erdoğan Seçim Sinyalini Böyle Verdi! O Videodaki Gizli Mesaj! Uzman İsim Anlattı</description>
+    </item>
     <item>
       <title>Halk TV: Gülşah Ekinci ile Öğle Haberleri (12 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=mOBmIy3ZdFw</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">xWA9ib9JRGQ</guid>
       <pubDate>Sat, 12 Sep 2026 09:38:08 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Namık Koçak, Özdemir İnce ve Recai Aksu ile Forum (12.09.26)</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Gökçek soruşturmasında 'DÜĞÜN TAKILARI' gündem olmuştu! Özdemir İnce'den dikkat çeken yorum...</title>
-      <link>https://www.youtube.com/watch?v=JBge4viv9ik</link>
-      <guid isPermaLink="false">JBge4viv9ik</guid>
-      <pubDate>Sat, 12 Sep 2026 09:30:36 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Gökçek soruşturmasında 'DÜĞÜN TAKILARI' gündem olmuştu! Özdemir İnce'den dikkat çeken yorum...</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İmralı'da Özel Villa İddiası! Turhan Çömez Ateş Püskürdü! Melih Gökçek'e Salvolar</title>
-      <link>https://www.youtube.com/watch?v=HK-BRji3ZCI</link>
-      <guid isPermaLink="false">HK-BRji3ZCI</guid>
-      <pubDate>Sat, 12 Sep 2026 09:30:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İmralı'da Özel Villa İddiası! Turhan Çömez Ateş Püskürdü! Melih Gökçek'e Salvolar</description>
     </item>
   </channel>
 </rss>
