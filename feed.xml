@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 14:25:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 14:30:44 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: ERDOĞAN - YAVAŞ GÖRÜŞMESİNDE BOMBA KULİS! 2027'de Seçim Planı! Barış Terkoğlu Anlattı</title>
+      <link>https://www.youtube.com/watch?v=7cJVtqXxeyo</link>
+      <guid isPermaLink="false">7cJVtqXxeyo</guid>
+      <pubDate>Sat, 12 Sep 2026 14:30:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: ERDOĞAN - YAVAŞ GÖRÜŞMESİNDE BOMBA KULİS! 2027'de Seçim Planı! Barış Terkoğlu Anlattı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İsrail ve Türkiye Savaşır mı? Erol Mütercimler Ezber Bozan Gerçeği Açıkladı! Uyardı</title>
       <link>https://www.youtube.com/watch?v=0iWDWNKYJOY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">g1bRPGUdOiw</guid>
       <pubDate>Sat, 12 Sep 2026 10:02:59 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: İsrail’in ‘üç güvenlik halkası’ hedefi - Mehmet Ali Güller</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: İlkesiz siyasette hacıyatmazlar - Eren Aysan</title>
-      <link>https://www.youtube.com/watch?v=FPzqLZRhYLE</link>
-      <guid isPermaLink="false">FPzqLZRhYLE</guid>
-      <pubDate>Sat, 12 Sep 2026 10:02:58 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: İlkesiz siyasette hacıyatmazlar - Eren Aysan</description>
     </item>
   </channel>
 </rss>
