@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 20:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 21:00:51 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: ÖCALAN'A İMRALI'DA VİLLA MI VERİLECEK? Uzman İsim Çarpıcı Gerçekleri Açıkladı</title>
+      <link>https://www.youtube.com/watch?v=iEuueJJmqhU</link>
+      <guid isPermaLink="false">iEuueJJmqhU</guid>
+      <pubDate>Sat, 12 Sep 2026 20:50:13 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: ÖCALAN'A İMRALI'DA VİLLA MI VERİLECEK? Uzman İsim Çarpıcı Gerçekleri Açıkladı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Burak Tatari ile Masada Ne Var? 12 Eylül</title>
       <link>https://www.youtube.com/watch?v=94VAtru9iWo</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">kKYXoDlttqg</guid>
       <pubDate>Sat, 12 Sep 2026 15:30:23 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: MİÇOTAKİS'TEN KÜSTAH HAREKET! 2 Km Yakına Geldi! Naim Babüroğlu'ndan Sert Tepki</description>
-    </item>
-    <item>
-      <title>Halk TV: "YAŞARKEN ÖLDÜRDÜLER BİZİ!" EYT dışında kalan milyonların isyan Ankara'yı sallar! Şoke edecek sözler</title>
-      <link>https://www.youtube.com/watch?v=5cUGvxWzr1M</link>
-      <guid isPermaLink="false">5cUGvxWzr1M</guid>
-      <pubDate>Sat, 12 Sep 2026 15:15:16 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: "YAŞARKEN ÖLDÜRDÜLER BİZİ!" EYT dışında kalan milyonların isyan Ankara'yı sallar! Şoke edecek sözler</description>
     </item>
   </channel>
 </rss>
