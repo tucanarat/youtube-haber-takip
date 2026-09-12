@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 12 Sep 2026 16:30:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 16:35:23 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Sinem Dedetaş, cezaevinden gönderdiği mektupla Üsküdar'da yurttaşlara seslendi!</title>
+      <link>https://www.youtube.com/watch?v=JkZawVkbJLA</link>
+      <guid isPermaLink="false">JkZawVkbJLA</guid>
+      <pubDate>Sat, 12 Sep 2026 16:30:14 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Sinem Dedetaş, cezaevinden gönderdiği mektupla Üsküdar'da yurttaşlara seslendi!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: BÜLENT ARINÇ'TAN MELİH GÖKÇEK'E OLAY SÖZLER! 'Utanarak İzledim!'</title>
       <link>https://www.youtube.com/watch?v=Bv1qK-Qb3U0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">EBxTVEU-L4c</guid>
       <pubDate>Sat, 12 Sep 2026 11:11:04 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: #CANLI Ekrem Açıkel İle Hafta Sonu Ana Haber</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Erdoğan'ın Mansur Yavaş Hamlesi! O Fotoğrafın Arkasındaki Plan! Timur Soykan'dan Olay Sözler</title>
-      <link>https://www.youtube.com/watch?v=opfBjqYEBEU</link>
-      <guid isPermaLink="false">opfBjqYEBEU</guid>
-      <pubDate>Sat, 12 Sep 2026 11:00:22 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Erdoğan'ın Mansur Yavaş Hamlesi! O Fotoğrafın Arkasındaki Plan! Timur Soykan'dan Olay Sözler</description>
     </item>
   </channel>
 </rss>
