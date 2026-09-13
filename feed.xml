@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 13 Sep 2026 12:15:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 12:20:32 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Maltepe'de ormanlık alanda korkutan yangın: Alevler Kenan Evren Kışlası'na sıçradı</title>
+      <link>https://www.youtube.com/shorts/t3gOgl40_5Y</link>
+      <guid isPermaLink="false">t3gOgl40_5Y</guid>
+      <pubDate>Sun, 13 Sep 2026 12:12:06 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Maltepe'de ormanlık alanda korkutan yangın: Alevler Kenan Evren Kışlası'na sıçradı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: 'Taraf Olmayan Bertaraf Olur!' Mansur Yavaş'ın Yerine Özgür Özel mi? Timur Soykan'dan Adaylık Çıkışı</title>
       <link>https://www.youtube.com/watch?v=XAalqWndPA8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">XlprUHRYgdc</guid>
       <pubDate>Sun, 13 Sep 2026 07:43:49 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Girne'de batan geminin yeni görüntüleri ortaya çıktı</description>
-    </item>
-    <item>
-      <title>Halk TV: BAHÇELİ, AKIN GÜRLEK’İ YALANLADI! Öcalan'a yapılan evi ilk kez tarif etti! Yer yerinden oynayacak!</title>
-      <link>https://www.youtube.com/watch?v=I-s5yAOtrfk</link>
-      <guid isPermaLink="false">I-s5yAOtrfk</guid>
-      <pubDate>Sun, 13 Sep 2026 07:40:36 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BAHÇELİ, AKIN GÜRLEK’İ YALANLADI! Öcalan'a yapılan evi ilk kez tarif etti! Yer yerinden oynayacak!</description>
     </item>
   </channel>
 </rss>
