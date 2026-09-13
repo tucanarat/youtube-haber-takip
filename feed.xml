@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 13 Sep 2026 09:17:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 09:35:41 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Tuğaltay cinayetinde SKANDAL gelişme! “Ağzına baskı uygulayarak, cinsel saldırıya geçmiş”</title>
+      <link>https://www.youtube.com/watch?v=p_eSizgCnmQ</link>
+      <guid isPermaLink="false">p_eSizgCnmQ</guid>
+      <pubDate>Sun, 13 Sep 2026 09:10:06 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Tuğaltay cinayetinde SKANDAL gelişme! “Ağzına baskı uygulayarak, cinsel saldırıya geçmiş”</description>
+    </item>
     <item>
       <title>Cumhuriyet: "BAKIYORUM KİMSE VERMİYOR, BEN DE ALAMIYORUM" Semt pazarında emeklinin yürek burkan isyanı!</title>
       <link>https://www.youtube.com/shorts/vD_lpZwQbH0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">HaV4LqM-Z5g</guid>
       <pubDate>Sat, 12 Sep 2026 21:21:13 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Ankara Kent Konseyi'nin 7. Olağan Genel Kurulu / Ankara #Canlı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: ÖCALAN'A İMRALI'DA VİLLA MI YAPILIYOR? Yeni Anayasa İçin Gizli Pazarlık İddiası!</title>
-      <link>https://www.youtube.com/watch?v=NcbFveZLl7I</link>
-      <guid isPermaLink="false">NcbFveZLl7I</guid>
-      <pubDate>Sat, 12 Sep 2026 21:20:16 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: ÖCALAN'A İMRALI'DA VİLLA MI YAPILIYOR? Yeni Anayasa İçin Gizli Pazarlık İddiası!</description>
     </item>
   </channel>
 </rss>
