@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 13 Sep 2026 19:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 19:10:40 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: Senem Toluay Ilgaz ile Öncesi Sonrası Gece - Timur Soykan | 13 Eylül</title>
       <link>https://www.youtube.com/watch?v=zvsy5p6CaNM</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">T1zj7dsDaCY</guid>
       <pubDate>Sun, 13 Sep 2026 19:00:27 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Gizli FETÖ-CIA Bağlantısı İfşa Oldu! Muhsin Yazıcıoğlu'nun Sır Görüşmesi! Selçuk Özdağ Anlattı</description>
+    </item>
+    <item>
+      <title>Halk TV: MAHKEMEDEN KARAR ÇIKTI! Oğuzhan Uğur'un tutukluluğu devam edecek!</title>
+      <link>https://www.youtube.com/watch?v=O_4nysIZrfk</link>
+      <guid isPermaLink="false">O_4nysIZrfk</guid>
+      <pubDate>Sun, 13 Sep 2026 19:00:19 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: MAHKEMEDEN KARAR ÇIKTI! Oğuzhan Uğur'un tutukluluğu devam edecek!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Timur Soykan Sinirlendi! Selahattin Günday Dosyasındaki Akılalmaz Gerçekler! Kaşif Kozinoğlu Dosyası</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">NbSD58Z5dT8</guid>
       <pubDate>Sun, 13 Sep 2026 12:20:11 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BU SES KAYDI SARAY'I FENA KARIŞTIRDI! Krizin ardından AKP'li başkan istifa etti! İnfial yaratacak!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Cumhurbaşkanı Recep Tayyip Erdoğan, Samsun Şehir Hastanesi Açılış Töreni'nde konuşuyor / #Canlı</title>
-      <link>https://www.youtube.com/watch?v=Krhmre_c-ak</link>
-      <guid isPermaLink="false">Krhmre_c-ak</guid>
-      <pubDate>Sun, 13 Sep 2026 12:16:40 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Cumhurbaşkanı Recep Tayyip Erdoğan, Samsun Şehir Hastanesi Açılış Töreni'nde konuşuyor / #Canlı</description>
     </item>
   </channel>
 </rss>
