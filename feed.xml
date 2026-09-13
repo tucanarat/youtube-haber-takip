@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 13 Sep 2026 07:50:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 07:55:26 +0000</lastBuildDate>
     <item>
       <title>Cumhuriyet: Girne'de batan geminin yeni görüntüleri ortaya çıktı</title>
       <link>https://www.youtube.com/shorts/XlprUHRYgdc</link>
       <guid isPermaLink="false">XlprUHRYgdc</guid>
       <pubDate>Sun, 13 Sep 2026 07:43:49 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Girne'de batan geminin yeni görüntüleri ortaya çıktı</description>
+    </item>
+    <item>
+      <title>Halk TV: BAHÇELİ, AKIN GÜRLEK’İ YALANLADI! Öcalan'a yapılan evi ilk kez tarif etti! Yer yerinden oynayacak!</title>
+      <link>https://www.youtube.com/watch?v=I-s5yAOtrfk</link>
+      <guid isPermaLink="false">I-s5yAOtrfk</guid>
+      <pubDate>Sun, 13 Sep 2026 07:40:36 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BAHÇELİ, AKIN GÜRLEK’İ YALANLADI! Öcalan'a yapılan evi ilk kez tarif etti! Yer yerinden oynayacak!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Ahbap Davasında Haluk Levent ve Oğuzhan Uğur Detayı! MASAK Raporu Sonrası Kararı Belli Oldu</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">sTfvWx3pRh0</guid>
       <pubDate>Sat, 12 Sep 2026 18:50:17 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Özgür Özel’den Üsküdar’da meydan okuyan sözler! "Biz o sandığa varırız, o seçimi alırız!”</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Özgür Özel'den İktidara ve Valiye Çok Sert Sözler: "Devran Dönecek, Hesap Vereceksiniz!"</title>
-      <link>https://www.youtube.com/watch?v=qjma4ZAUJmU</link>
-      <guid isPermaLink="false">qjma4ZAUJmU</guid>
-      <pubDate>Sat, 12 Sep 2026 18:40:13 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Özgür Özel'den İktidara ve Valiye Çok Sert Sözler: "Devran Dönecek, Hesap Vereceksiniz!"</description>
     </item>
   </channel>
 </rss>
