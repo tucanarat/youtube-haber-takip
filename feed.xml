@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 13 Sep 2026 18:10:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 18:15:32 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: Timur Soykan'dan Çarpıcı Kaşif Kozinoğlu Gerçekleri! Kurtlar Vadisi, Derin Devlet, FETÖ...</title>
       <link>https://www.youtube.com/watch?v=jzEDImud19s</link>
       <guid isPermaLink="false">jzEDImud19s</guid>
       <pubDate>Sun, 13 Sep 2026 18:00:01 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Timur Soykan'dan Çarpıcı Kaşif Kozinoğlu Gerçekleri! Kurtlar Vadisi, Derin Devlet, FETÖ...</description>
+    </item>
+    <item>
+      <title>Halk TV: SON DAKİKA! Eyüpsultan'da bariye çarpan otobüs alev alev yandı! Ölü ve yaralılar var!</title>
+      <link>https://www.youtube.com/watch?v=oYrr31YcqKU</link>
+      <guid isPermaLink="false">oYrr31YcqKU</guid>
+      <pubDate>Sun, 13 Sep 2026 17:58:59 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! Eyüpsultan'da bariye çarpan otobüs alev alev yandı! Ölü ve yaralılar var!</description>
     </item>
     <item>
       <title>Halk TV: PİSTİ BİR KAÇ KEZ PAS GEÇTİ: Tunus'a giden THY uçağındaki korku dolu anlar kayda böyle girdi!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">kLB95fY9RJw</guid>
       <pubDate>Sun, 13 Sep 2026 11:22:24 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Partili Utku Çakırözer’den, NATO tutukluları, gazeteci Oya Arslan ve İlksen Özalper’e ziyaret!</description>
-    </item>
-    <item>
-      <title>Halk TV: ERDOĞAN'I AYAĞA KALDIRAN START! Özgür Özel seçim senaryosunu duyurdu! Saray'ın hesabı artık tutmaz!</title>
-      <link>https://www.youtube.com/watch?v=NtfWIHIWyyY</link>
-      <guid isPermaLink="false">NtfWIHIWyyY</guid>
-      <pubDate>Sun, 13 Sep 2026 11:20:25 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ERDOĞAN'I AYAĞA KALDIRAN START! Özgür Özel seçim senaryosunu duyurdu! Saray'ın hesabı artık tutmaz!</description>
     </item>
   </channel>
 </rss>
