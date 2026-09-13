@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 13 Sep 2026 16:10:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 16:15:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Ünlü isimler nikah şahidi olmuştu... Avukat Emek Emre uyuşturucu operasyonunda gözaltına alındı!</title>
+      <link>https://www.youtube.com/shorts/uVIWRL24nAk</link>
+      <guid isPermaLink="false">uVIWRL24nAk</guid>
+      <pubDate>Sun, 13 Sep 2026 16:10:23 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Ünlü isimler nikah şahidi olmuştu... Avukat Emek Emre uyuşturucu operasyonunda gözaltına alındı!</description>
+    </item>
     <item>
       <title>Halk TV: ERDOĞAN ÇAĞIRMIŞTI! Acar Ünlü cevabını verdi! Marmaris Belediye Başkanı CHP'den YENİ Parti'ye geçti!</title>
       <link>https://www.youtube.com/watch?v=3d4fCPF8uh0</link>
       <guid isPermaLink="false">3d4fCPF8uh0</guid>
       <pubDate>Sun, 13 Sep 2026 16:00:29 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ERDOĞAN ÇAĞIRMIŞTI! Acar Ünlü cevabını verdi! Marmaris Belediye Başkanı CHP'den YENİ Parti'ye geçti!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Bülent Arınç'ın Melih Gökçek Dosyası! Kılıçdaroğlu'ndan İmamoğlu Çıkışı! Barış Terkoğlu Analiz Etti</title>
+      <link>https://www.youtube.com/watch?v=Hj0LPsgSu18</link>
+      <guid isPermaLink="false">Hj0LPsgSu18</guid>
+      <pubDate>Sun, 13 Sep 2026 16:00:19 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Bülent Arınç'ın Melih Gökçek Dosyası! Kılıçdaroğlu'ndan İmamoğlu Çıkışı! Barış Terkoğlu Analiz Etti</description>
     </item>
     <item>
       <title>SÖZCÜ TV: İstanbul'da 10 Bin TL'ye Kiralık Ev! Kiralık Konut Kampanyası: Hangi İlçelerde, Şartlar Neler?</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">7cMGpdSB2Io</guid>
       <pubDate>Sun, 13 Sep 2026 10:11:04 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Valla billa İmralı’ya villa-Ahmet Tan</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Ülkemiz şiddetle işgal edilirken-Işıl Özgentürk</title>
-      <link>https://www.youtube.com/watch?v=AP-FhWRKbeo</link>
-      <guid isPermaLink="false">AP-FhWRKbeo</guid>
-      <pubDate>Sun, 13 Sep 2026 10:10:55 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Ülkemiz şiddetle işgal edilirken-Işıl Özgentürk</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Utanç duygusu-Zeynep Oral</title>
-      <link>https://www.youtube.com/watch?v=OZ2HNOaPHoM</link>
-      <guid isPermaLink="false">OZ2HNOaPHoM</guid>
-      <pubDate>Sun, 13 Sep 2026 10:10:53 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Utanç duygusu-Zeynep Oral</description>
     </item>
   </channel>
 </rss>
