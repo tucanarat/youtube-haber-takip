@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 13 Sep 2026 13:55:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 14:00:55 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: GÖR DE İNANMA! "Kiralık" demişlerdi, Kara Haydar'ın milyonluk düğün altınları odunlukta çıktı! Pes!</title>
+      <link>https://www.youtube.com/watch?v=l43FlpBft9Y</link>
+      <guid isPermaLink="false">l43FlpBft9Y</guid>
+      <pubDate>Sun, 13 Sep 2026 13:45:24 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: GÖR DE İNANMA! "Kiralık" demişlerdi, Kara Haydar'ın milyonluk düğün altınları odunlukta çıktı! Pes!</description>
+    </item>
     <item>
       <title>Halk TV: Cumhurbaşkanı Recep Tayyip Erdoğan Samsun Şehir Hastanesi Açılış Töreni'nde Konuştu! (13 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=nAoxncebpUA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">oFj_VlFqJMU</guid>
       <pubDate>Sun, 13 Sep 2026 08:38:47 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "YOL VE KÜLLİYE HARİÇ BİR ŞEY YAPMIYORSUN!" Hüsnü Mahalli'den AKP'ye Sert Dış Politika Eleştirisi!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Altın Düşecek mi? Eylül ve Ekim Ayında Bizi Neler Bekliyor? Hande Kazanova ve Öner Döşer Anlatıyor</title>
-      <link>https://www.youtube.com/watch?v=ybkVoei-Feg</link>
-      <guid isPermaLink="false">ybkVoei-Feg</guid>
-      <pubDate>Sun, 13 Sep 2026 08:38:40 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Altın Düşecek mi? Eylül ve Ekim Ayında Bizi Neler Bekliyor? Hande Kazanova ve Öner Döşer Anlatıyor</description>
     </item>
   </channel>
 </rss>
