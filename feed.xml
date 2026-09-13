@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 13 Sep 2026 15:15:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 15:20:29 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Ankara Kızılcahamam’da alevler yükseliyor! Yangına havadan ve karadan müdahale sürüyor</title>
+      <link>https://www.youtube.com/shorts/E_A9NyEqZzA</link>
+      <guid isPermaLink="false">E_A9NyEqZzA</guid>
+      <pubDate>Sun, 13 Sep 2026 15:12:17 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Ankara Kızılcahamam’da alevler yükseliyor! Yangına havadan ve karadan müdahale sürüyor</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Kaşif Kozinoğlu Dosyasındaki Bilinmeyenler! Hüseyin Ersöz Gizli Gerçekleri Anlattı!</title>
+      <link>https://www.youtube.com/watch?v=P58ydVeL4fw</link>
+      <guid isPermaLink="false">P58ydVeL4fw</guid>
+      <pubDate>Sun, 13 Sep 2026 15:00:21 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Kaşif Kozinoğlu Dosyasındaki Bilinmeyenler! Hüseyin Ersöz Gizli Gerçekleri Anlattı!</description>
+    </item>
     <item>
       <title>Halk TV: Mekke Antlaşması Türkiye'yi zora sokabilir! Turhan Çömez, 600 bin kaçak Afgan için uyardı!</title>
       <link>https://www.youtube.com/watch?v=baWPXk961eg</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">PyjQBD2Juk8</guid>
       <pubDate>Sun, 13 Sep 2026 10:03:51 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Kemalpaşa pazarında hayat pahalılığı: "Geziyorum, izliyorum ama bir şey alamıyorum” diye konuştu!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: 'Yapay Zeka İnsanları Öldürecek!' Anthropic Araştırmacısı Jacob Coxon'dan Korkunç İtiraf!</title>
-      <link>https://www.youtube.com/watch?v=9CBsHuV_DG0</link>
-      <guid isPermaLink="false">9CBsHuV_DG0</guid>
-      <pubDate>Sun, 13 Sep 2026 10:00:35 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: 'Yapay Zeka İnsanları Öldürecek!' Anthropic Araştırmacısı Jacob Coxon'dan Korkunç İtiraf!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Simge Fıstıkoğlu İle İyi ki Hafta Sonu | 13 Eylül</title>
-      <link>https://www.youtube.com/watch?v=z6HSV9SR1xA</link>
-      <guid isPermaLink="false">z6HSV9SR1xA</guid>
-      <pubDate>Sun, 13 Sep 2026 09:49:43 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Simge Fıstıkoğlu İle İyi ki Hafta Sonu | 13 Eylül</description>
     </item>
   </channel>
 </rss>
