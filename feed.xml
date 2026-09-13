@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 13 Sep 2026 21:40:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 21:45:29 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SARAYDAN ARINÇ'A ŞOKE EDEN TEPKİ! O düğündeki konuşmasına kan kustu! Oktay Saral'ın flaş açıklaması!</title>
+      <link>https://www.youtube.com/watch?v=cpC6Yz-Z6oo</link>
+      <guid isPermaLink="false">cpC6Yz-Z6oo</guid>
+      <pubDate>Sun, 13 Sep 2026 21:40:18 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SARAYDAN ARINÇ'A ŞOKE EDEN TEPKİ! O düğündeki konuşmasına kan kustu! Oktay Saral'ın flaş açıklaması!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Mustafa Balbay’dan Olay Kulis! Mansur Yavaş Aday mı Olacak? "Cumhurbaşkanlığını İstiyor Ama..."</title>
       <link>https://www.youtube.com/watch?v=Pz_5ctSZt6s</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">gNQJdXs1EwM</guid>
       <pubDate>Sun, 13 Sep 2026 14:15:18 +0000</pubDate>
       <description>Halk TV kanalından yeni video: "Artık saflar netleşmiştir" diyen YENİ Parti Lideri Özel'den 'Üsküdar' paylaşımı!</description>
-    </item>
-    <item>
-      <title>Halk TV: ERDOĞAN İÇİN ALARM ZİLLERİ ÇALIYOR! Emeklilerin feryadı meydana sığmadı! Demediklerini bırakmadılar!</title>
-      <link>https://www.youtube.com/watch?v=zJq1hLoThFw</link>
-      <guid isPermaLink="false">zJq1hLoThFw</guid>
-      <pubDate>Sun, 13 Sep 2026 14:00:21 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ERDOĞAN İÇİN ALARM ZİLLERİ ÇALIYOR! Emeklilerin feryadı meydana sığmadı! Demediklerini bırakmadılar!</description>
     </item>
   </channel>
 </rss>
