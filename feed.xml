@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 13 Sep 2026 18:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 19:00:52 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Senem Toluay Ilgaz ile Öncesi Sonrası Gece - Timur Soykan | 13 Eylül</title>
+      <link>https://www.youtube.com/watch?v=zvsy5p6CaNM</link>
+      <guid isPermaLink="false">zvsy5p6CaNM</guid>
+      <pubDate>Sun, 13 Sep 2026 19:00:36 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Senem Toluay Ilgaz ile Öncesi Sonrası Gece - Timur Soykan | 13 Eylül</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Timur Soykan Sinirlendi! Selahattin Günday Dosyasındaki Akılalmaz Gerçekler! Kaşif Kozinoğlu Dosyası</title>
       <link>https://www.youtube.com/watch?v=NEdW_ENPUUM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">t3gOgl40_5Y</guid>
       <pubDate>Sun, 13 Sep 2026 12:12:06 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Maltepe'de ormanlık alanda korkutan yangın: Alevler Kenan Evren Kışlası'na sıçradı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: 'Taraf Olmayan Bertaraf Olur!' Mansur Yavaş'ın Yerine Özgür Özel mi? Timur Soykan'dan Adaylık Çıkışı</title>
-      <link>https://www.youtube.com/watch?v=XAalqWndPA8</link>
-      <guid isPermaLink="false">XAalqWndPA8</guid>
-      <pubDate>Sun, 13 Sep 2026 12:00:36 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: 'Taraf Olmayan Bertaraf Olur!' Mansur Yavaş'ın Yerine Özgür Özel mi? Timur Soykan'dan Adaylık Çıkışı</description>
     </item>
   </channel>
 </rss>
