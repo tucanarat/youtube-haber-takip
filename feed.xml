@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 13 Sep 2026 12:05:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 12:10:33 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: 'Taraf Olmayan Bertaraf Olur!' Mansur Yavaş'ın Yerine Özgür Özel mi? Timur Soykan'dan Adaylık Çıkışı</title>
+      <link>https://www.youtube.com/watch?v=XAalqWndPA8</link>
+      <guid isPermaLink="false">XAalqWndPA8</guid>
+      <pubDate>Sun, 13 Sep 2026 12:00:36 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: 'Taraf Olmayan Bertaraf Olur!' Mansur Yavaş'ın Yerine Özgür Özel mi? Timur Soykan'dan Adaylık Çıkışı</description>
+    </item>
     <item>
       <title>Halk TV: SARAY'DA YER YERİNDEN OYNAR! AKP'li vekil "Vali beni tehdit ediyor" dedi, koruma istedi! Şok detay!</title>
       <link>https://www.youtube.com/watch?v=HIrYwcIECzI</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">XI5D5m9e1YE</guid>
       <pubDate>Sun, 13 Sep 2026 07:30:25 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Ahbap Davasında Haluk Levent ve Oğuzhan Uğur Detayı! MASAK Raporu Sonrası Kararı Belli Oldu</description>
-    </item>
-    <item>
-      <title>Halk TV: AKP KENDİ KENDİNİ PATLATTI! Özgür Özel, Türkiye'yi ayaklandıracak büyük oyunu açıkladı! Olay sözler!</title>
-      <link>https://www.youtube.com/watch?v=IhcPPG9qasU</link>
-      <guid isPermaLink="false">IhcPPG9qasU</guid>
-      <pubDate>Sun, 13 Sep 2026 07:20:08 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: AKP KENDİ KENDİNİ PATLATTI! Özgür Özel, Türkiye'yi ayaklandıracak büyük oyunu açıkladı! Olay sözler!</description>
     </item>
   </channel>
 </rss>
