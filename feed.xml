@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 13 Sep 2026 07:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 08:00:53 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI Onur Öncü ile Sabah Pusulası (14.09.2026)</title>
+      <link>https://www.youtube.com/watch?v=enNi8cOjbHA</link>
+      <guid isPermaLink="false">enNi8cOjbHA</guid>
+      <pubDate>Sun, 13 Sep 2026 07:56:00 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Onur Öncü ile Sabah Pusulası (14.09.2026)</description>
+    </item>
     <item>
       <title>Cumhuriyet: Girne'de batan geminin yeni görüntüleri ortaya çıktı</title>
       <link>https://www.youtube.com/shorts/XlprUHRYgdc</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">jI93vc1NG1k</guid>
       <pubDate>Sat, 12 Sep 2026 19:00:28 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Özgür Özel Üsküdar'da Yaşananları İfşa Etti! AKP'ye Neler Söyledi Neler</description>
-    </item>
-    <item>
-      <title>Halk TV: Özgür Özel’den Üsküdar’da meydan okuyan sözler! "Biz o sandığa varırız, o seçimi alırız!”</title>
-      <link>https://www.youtube.com/watch?v=sTfvWx3pRh0</link>
-      <guid isPermaLink="false">sTfvWx3pRh0</guid>
-      <pubDate>Sat, 12 Sep 2026 18:50:17 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Özgür Özel’den Üsküdar’da meydan okuyan sözler! "Biz o sandığa varırız, o seçimi alırız!”</description>
     </item>
   </channel>
 </rss>
