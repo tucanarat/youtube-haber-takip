@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 13 Sep 2026 12:55:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 13:00:54 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Gülşah Ekinci ile Öğle Haberleri (13 Eylül 2026)</title>
+      <link>https://www.youtube.com/watch?v=aP98PUwsgSU</link>
+      <guid isPermaLink="false">aP98PUwsgSU</guid>
+      <pubDate>Sun, 13 Sep 2026 12:58:03 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Gülşah Ekinci ile Öğle Haberleri (13 Eylül 2026)</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Işın Eliçin ile Sınırsız</title>
+      <link>https://www.youtube.com/watch?v=fjusAwvE1mM</link>
+      <guid isPermaLink="false">fjusAwvE1mM</guid>
+      <pubDate>Sun, 13 Sep 2026 12:53:57 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Işın Eliçin ile Sınırsız</description>
+    </item>
+    <item>
+      <title>Halk TV: GERÇEĞE ADIM ADIM! Gülistan Doku soruşturmasında nefes kesen operasyon! O isimler de yakalandı!</title>
+      <link>https://www.youtube.com/watch?v=hW1fEn0EjII</link>
+      <guid isPermaLink="false">hW1fEn0EjII</guid>
+      <pubDate>Sun, 13 Sep 2026 12:40:09 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: GERÇEĞE ADIM ADIM! Gülistan Doku soruşturmasında nefes kesen operasyon! O isimler de yakalandı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Filenin Sultanları'na Şort Sansürü! Fatih Ergenekon İsyan Etti! 'Bu Zihniyet Dine Zarar Veriyor'</title>
       <link>https://www.youtube.com/watch?v=t7IG0D93kKI</link>
@@ -211,13 +232,6 @@
       <description>SÖZCÜ TV kanalından yeni video: 'Yapay Zeka İnsanları Öldürecek!' Anthropic Araştırmacısı Jacob Coxon'dan Korkunç İtiraf!</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | Gülşah Ekinci ile Öğle Haberleri</title>
-      <link>https://www.youtube.com/watch?v=aP98PUwsgSU</link>
-      <guid isPermaLink="false">aP98PUwsgSU</guid>
-      <pubDate>Sun, 13 Sep 2026 09:56:14 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Gülşah Ekinci ile Öğle Haberleri</description>
-    </item>
-    <item>
       <title>SÖZCÜ TV: Simge Fıstıkoğlu İle İyi ki Hafta Sonu | 13 Eylül</title>
       <link>https://www.youtube.com/watch?v=z6HSV9SR1xA</link>
       <guid isPermaLink="false">z6HSV9SR1xA</guid>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">Qb627NvUiMc</guid>
       <pubDate>Sun, 13 Sep 2026 08:16:05 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Sinem Dedetaş’tan Üsküdar’daki sürece 'Siyasi hesap' tepkisi! "Siyasi hesapların gölgesinde miydi?"</description>
-    </item>
-    <item>
-      <title>Halk TV: Sinem Dedetaş’tan sert mesaj: Sandıkta kazanamayanlar halkın iradesini gölgelemek istiyor!</title>
-      <link>https://www.youtube.com/shorts/19_Ae8cyhWo</link>
-      <guid isPermaLink="false">19_Ae8cyhWo</guid>
-      <pubDate>Sun, 13 Sep 2026 08:02:43 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Sinem Dedetaş’tan sert mesaj: Sandıkta kazanamayanlar halkın iradesini gölgelemek istiyor!</description>
-    </item>
-    <item>
-      <title>Halk TV: MELİH GÖKÇEK AKLINI KAÇIRACAK! Bülent Arınç'ın bu sözleri ortalığı yakıp yıkar! Yerin dibine soktu!</title>
-      <link>https://www.youtube.com/watch?v=zbSjJT9iSro</link>
-      <guid isPermaLink="false">zbSjJT9iSro</guid>
-      <pubDate>Sun, 13 Sep 2026 08:00:29 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: MELİH GÖKÇEK AKLINI KAÇIRACAK! Bülent Arınç'ın bu sözleri ortalığı yakıp yıkar! Yerin dibine soktu!</description>
     </item>
   </channel>
 </rss>

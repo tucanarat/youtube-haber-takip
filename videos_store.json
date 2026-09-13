@@ -44785,10 +44785,10 @@
   },
   "aP98PUwsgSU": {
     "id": "aP98PUwsgSU",
-    "title": "#CANLI | Gülşah Ekinci ile Öğle Haberleri",
+    "title": "Gülşah Ekinci ile Öğle Haberleri (13 Eylül 2026)",
     "link": "https://www.youtube.com/watch?v=aP98PUwsgSU",
-    "published": "2026-09-13T09:56:14+00:00",
-    "published_ts": 1789293374,
+    "published": "2026-09-13T12:58:03+00:00",
+    "published_ts": 1789304283,
     "channel_name": "Halk TV"
   },
   "cTA_hMkFUBo": {
@@ -44950,5 +44950,21 @@
     "published": "2026-09-13T12:30:38+00:00",
     "published_ts": 1789302638,
     "channel_name": "SÖZCÜ TV"
+  },
+  "fjusAwvE1mM": {
+    "id": "fjusAwvE1mM",
+    "title": "#CANLI | Işın Eliçin ile Sınırsız",
+    "link": "https://www.youtube.com/watch?v=fjusAwvE1mM",
+    "published": "2026-09-13T12:53:57+00:00",
+    "published_ts": 1789304037,
+    "channel_name": "Halk TV"
+  },
+  "hW1fEn0EjII": {
+    "id": "hW1fEn0EjII",
+    "title": "GERÇEĞE ADIM ADIM! Gülistan Doku soruşturmasında nefes kesen operasyon! O isimler de yakalandı!",
+    "link": "https://www.youtube.com/watch?v=hW1fEn0EjII",
+    "published": "2026-09-13T12:40:09+00:00",
+    "published_ts": 1789303209,
+    "channel_name": "Halk TV"
   }
 }
