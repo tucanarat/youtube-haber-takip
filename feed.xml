@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 13 Sep 2026 07:40:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 07:45:30 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Girne'de batan geminin yeni görüntüleri ortaya çıktı</title>
+      <link>https://www.youtube.com/shorts/XlprUHRYgdc</link>
+      <guid isPermaLink="false">XlprUHRYgdc</guid>
+      <pubDate>Sun, 13 Sep 2026 07:43:49 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Girne'de batan geminin yeni görüntüleri ortaya çıktı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Ahbap Davasında Haluk Levent ve Oğuzhan Uğur Detayı! MASAK Raporu Sonrası Kararı Belli Oldu</title>
       <link>https://www.youtube.com/watch?v=XI5D5m9e1YE</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">qjma4ZAUJmU</guid>
       <pubDate>Sat, 12 Sep 2026 18:40:13 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Özgür Özel'den İktidara ve Valiye Çok Sert Sözler: "Devran Dönecek, Hesap Vereceksiniz!"</description>
-    </item>
-    <item>
-      <title>Halk TV: “ÜSKÜDAR MİLLETİN KALESİDİR!” Özgür Özel’den Üsküdar’da iktidara tarihi mesaj!</title>
-      <link>https://www.youtube.com/watch?v=ujHBW5kFHTw</link>
-      <guid isPermaLink="false">ujHBW5kFHTw</guid>
-      <pubDate>Sat, 12 Sep 2026 18:30:33 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: “ÜSKÜDAR MİLLETİN KALESİDİR!” Özgür Özel’den Üsküdar’da iktidara tarihi mesaj!</description>
     </item>
   </channel>
 </rss>
