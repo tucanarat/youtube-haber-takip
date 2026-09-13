@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 13 Sep 2026 08:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 08:05:28 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Sinem Dedetaş’tan sert mesaj: Sandıkta kazanamayanlar halkın iradesini gölgelemek istiyor!</title>
+      <link>https://www.youtube.com/shorts/19_Ae8cyhWo</link>
+      <guid isPermaLink="false">19_Ae8cyhWo</guid>
+      <pubDate>Sun, 13 Sep 2026 08:02:43 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Sinem Dedetaş’tan sert mesaj: Sandıkta kazanamayanlar halkın iradesini gölgelemek istiyor!</description>
+    </item>
+    <item>
+      <title>Halk TV: MELİH GÖKÇEK AKLINI KAÇIRACAK! Bülent Arınç'ın bu sözleri ortalığı yakıp yıkar! Yerin dibine soktu!</title>
+      <link>https://www.youtube.com/watch?v=zbSjJT9iSro</link>
+      <guid isPermaLink="false">zbSjJT9iSro</guid>
+      <pubDate>Sun, 13 Sep 2026 08:00:29 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: MELİH GÖKÇEK AKLINI KAÇIRACAK! Bülent Arınç'ın bu sözleri ortalığı yakıp yıkar! Yerin dibine soktu!</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI Onur Öncü ile Sabah Pusulası (14.09.2026)</title>
       <link>https://www.youtube.com/watch?v=enNi8cOjbHA</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">60WFIsigD40</guid>
       <pubDate>Sat, 12 Sep 2026 19:10:32 +0000</pubDate>
       <description>Halk TV kanalından yeni video: “İKTİDAR ÜÇ ÇÖKÜŞÜ BİRDEN YAŞIYOR!” Özgür Özel’den iktidara zehir zemberek sözler!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: YENİ Parti'den Üsküdar İskele Meydanı'nda "Karar Milletindir, Üsküdar Milletindir" buluşması #Canlı</title>
-      <link>https://www.youtube.com/watch?v=jNkgEg0oYq4</link>
-      <guid isPermaLink="false">jNkgEg0oYq4</guid>
-      <pubDate>Sat, 12 Sep 2026 19:01:53 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti'den Üsküdar İskele Meydanı'nda "Karar Milletindir, Üsküdar Milletindir" buluşması #Canlı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Özgür Özel Üsküdar'da Yaşananları İfşa Etti! AKP'ye Neler Söyledi Neler</title>
-      <link>https://www.youtube.com/watch?v=jI93vc1NG1k</link>
-      <guid isPermaLink="false">jI93vc1NG1k</guid>
-      <pubDate>Sat, 12 Sep 2026 19:00:28 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Özgür Özel Üsküdar'da Yaşananları İfşa Etti! AKP'ye Neler Söyledi Neler</description>
     </item>
   </channel>
 </rss>
