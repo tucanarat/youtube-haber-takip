@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 13 Sep 2026 16:45:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 16:50:31 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Siyasette Sakız Polemiği! Bülent Arınç'tan Gökçek'e Zehir Zemberek Sözler! Ankara Birbirine Girdi</title>
+      <link>https://www.youtube.com/watch?v=-33hy_a_kzM</link>
+      <guid isPermaLink="false">-33hy_a_kzM</guid>
+      <pubDate>Sun, 13 Sep 2026 16:40:21 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Siyasette Sakız Polemiği! Bülent Arınç'tan Gökçek'e Zehir Zemberek Sözler! Ankara Birbirine Girdi</description>
+    </item>
     <item>
       <title>Halk TV: Açıkladığı veriler çok tartışılıyor... TÜİK şimdi de büyük bir yolsuzluk iddiası ile çalkalanıyor!</title>
       <link>https://www.youtube.com/watch?v=k53O9y1k4dQ</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">AZwWPbXbM-Y</guid>
       <pubDate>Sun, 13 Sep 2026 10:20:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: AKP KENDİ KURDUĞU TUZAĞA DÜŞTÜ! Tuba Torun ağızları açık bırakacak skandalı açıkladı! Meğer o ay...</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Yeni nesil Nazizmin hayaleti-Nilgün Cerrahoğlu</title>
-      <link>https://www.youtube.com/watch?v=ficYRpv_lLc</link>
-      <guid isPermaLink="false">ficYRpv_lLc</guid>
-      <pubDate>Sun, 13 Sep 2026 10:11:36 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Yeni nesil Nazizmin hayaleti-Nilgün Cerrahoğlu</description>
     </item>
   </channel>
 </rss>
