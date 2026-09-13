@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 13 Sep 2026 22:30:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 22:35:26 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Timur Soykan Sarallar'ın Cephaneliğini Anlattı! Bahçeli'nin Mesajı! Suikast İddialarını Aydınlattı</title>
+      <link>https://www.youtube.com/watch?v=vfZyQQykA_8</link>
+      <guid isPermaLink="false">vfZyQQykA_8</guid>
+      <pubDate>Sun, 13 Sep 2026 22:30:30 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Timur Soykan Sarallar'ın Cephaneliğini Anlattı! Bahçeli'nin Mesajı! Suikast İddialarını Aydınlattı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Selçuk Özdağ'dan Bülent Arınç, Sedat Peker Çıkışı! Çarpıcı Melih Gökçek Sözleri! Murat Ağırel Detayı</title>
       <link>https://www.youtube.com/watch?v=MrsCJV4PFo0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">dIa08AaXoJo</guid>
       <pubDate>Sun, 13 Sep 2026 15:20:00 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ANKARA'DA KABUS DOLU DAKİKALAR! Alevler saniyeler içinde her yeri yuttu! Müdahale devam ediyor!</description>
-    </item>
-    <item>
-      <title>Halk TV: Ankara Kızılcahamam’da alevler yükseliyor! Yangına havadan ve karadan müdahale sürüyor</title>
-      <link>https://www.youtube.com/shorts/E_A9NyEqZzA</link>
-      <guid isPermaLink="false">E_A9NyEqZzA</guid>
-      <pubDate>Sun, 13 Sep 2026 15:12:17 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ankara Kızılcahamam’da alevler yükseliyor! Yangına havadan ve karadan müdahale sürüyor</description>
     </item>
   </channel>
 </rss>
