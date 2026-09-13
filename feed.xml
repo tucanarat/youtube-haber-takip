@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 13 Sep 2026 10:00:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 10:05:26 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: 'Yapay Zeka İnsanları Öldürecek!' Anthropic Araştırmacısı Jacob Coxon'dan Korkunç İtiraf!</title>
+      <link>https://www.youtube.com/watch?v=9CBsHuV_DG0</link>
+      <guid isPermaLink="false">9CBsHuV_DG0</guid>
+      <pubDate>Sun, 13 Sep 2026 10:00:35 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: 'Yapay Zeka İnsanları Öldürecek!' Anthropic Araştırmacısı Jacob Coxon'dan Korkunç İtiraf!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Simge Fıstıkoğlu İle İyi ki Hafta Sonu | 13 Eylül</title>
       <link>https://www.youtube.com/watch?v=z6HSV9SR1xA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">PeB5aYaTwG4</guid>
       <pubDate>Sat, 12 Sep 2026 21:42:04 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Gerede’de korkutan yangın 4 saat sonra kontrol altında! Soğutma çalışmaları sürüyor! #shorts</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Ege'de Sular Isınıyor! Türkiye'ye Karşı "Aşil Kalkanı" Planı! Miçotakis'ten Küstah Hareket!</title>
-      <link>https://www.youtube.com/watch?v=O-4IYYv7RH8</link>
-      <guid isPermaLink="false">O-4IYYv7RH8</guid>
-      <pubDate>Sat, 12 Sep 2026 21:40:29 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Ege'de Sular Isınıyor! Türkiye'ye Karşı "Aşil Kalkanı" Planı! Miçotakis'ten Küstah Hareket!</description>
     </item>
   </channel>
 </rss>
