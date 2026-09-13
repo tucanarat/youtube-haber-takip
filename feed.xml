@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 13 Sep 2026 20:10:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 20:15:30 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: 7 ŞUBAT MİT KRİZİ VE KAŞİF KOZİNOĞLU! FETÖ'cü Savcılar Böyle Kaçmış! Timur Soykan Anlattı</title>
       <link>https://www.youtube.com/watch?v=W0sFWdWEDMY</link>
       <guid isPermaLink="false">W0sFWdWEDMY</guid>
       <pubDate>Sun, 13 Sep 2026 20:00:26 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: 7 ŞUBAT MİT KRİZİ VE KAŞİF KOZİNOĞLU! FETÖ'cü Savcılar Böyle Kaçmış! Timur Soykan Anlattı</description>
+    </item>
+    <item>
+      <title>Halk TV: MANSUR YAVAŞ BUNDAN SONRA NE YAPACAK? Tartışmaların odağında ilk kez konuştu! İşte detaylar!</title>
+      <link>https://www.youtube.com/watch?v=V9mI64Fg2e8</link>
+      <guid isPermaLink="false">V9mI64Fg2e8</guid>
+      <pubDate>Sun, 13 Sep 2026 20:00:09 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: MANSUR YAVAŞ BUNDAN SONRA NE YAPACAK? Tartışmaların odağında ilk kez konuştu! İşte detaylar!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Bülent Arınç ve Melih Gökçek Polemiği Tırmanıyor! Gökçek'ten Erdoğan Hamlesi! Selçuk Özdağ Anlattı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">a7xB4ROyNko</guid>
       <pubDate>Sun, 13 Sep 2026 13:00:32 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Serhat Kılıç’ın son vasiyetiydi! “En büyük aşkım” dediği annesinin yanına defnedildi!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Netanyahu'ya Ağır Darbe! 7 EKİM'DEN 10 GÜN ÖNCE GELEN GİZLİ İSTİHBARAT! Nevzat Çiçek Açıkladı</title>
-      <link>https://www.youtube.com/watch?v=KIGR_0WnBqE</link>
-      <guid isPermaLink="false">KIGR_0WnBqE</guid>
-      <pubDate>Sun, 13 Sep 2026 13:00:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Netanyahu'ya Ağır Darbe! 7 EKİM'DEN 10 GÜN ÖNCE GELEN GİZLİ İSTİHBARAT! Nevzat Çiçek Açıkladı</description>
     </item>
   </channel>
 </rss>
