@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 13 Sep 2026 21:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 21:05:25 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Yavaş'a sert tepki! Bahadır Özgür: 30 yıllık gazeteciyim, görüşmeyi neden kulis olarak öğreniyorum?</title>
+      <link>https://www.youtube.com/watch?v=B1vrmp4sTtQ</link>
+      <guid isPermaLink="false">B1vrmp4sTtQ</guid>
+      <pubDate>Sun, 13 Sep 2026 20:55:27 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Yavaş'a sert tepki! Bahadır Özgür: 30 yıllık gazeteciyim, görüşmeyi neden kulis olarak öğreniyorum?</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Bülent Arınç Melih Gökçek Kavgası Büyüyor! Ankara Siyasetinin Karanlık Dosyaları Açılıyor</title>
       <link>https://www.youtube.com/watch?v=eLSdY3ulGhc</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">nAoxncebpUA</guid>
       <pubDate>Sun, 13 Sep 2026 13:38:35 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Cumhurbaşkanı Recep Tayyip Erdoğan Samsun Şehir Hastanesi Açılış Töreni'nde Konuştu! (13 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Korkulan Oldu! 'YAPAY ZEKA BİYOLOJİK SİLAH GELİŞTİRİYOR!' Anthropic Yaklaşan Tehlikeyi Açıkladı!</title>
-      <link>https://www.youtube.com/watch?v=6LORkLzMxNQ</link>
-      <guid isPermaLink="false">6LORkLzMxNQ</guid>
-      <pubDate>Sun, 13 Sep 2026 13:30:16 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Korkulan Oldu! 'YAPAY ZEKA BİYOLOJİK SİLAH GELİŞTİRİYOR!' Anthropic Yaklaşan Tehlikeyi Açıkladı!</description>
     </item>
   </channel>
 </rss>
