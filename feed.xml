@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 13 Sep 2026 17:05:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 17:10:31 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Mansur Yavaş Erdoğan Zirvesinin Perde Arkası! İsmail Saymaz'dan Olay Analiz! Ankara Karıştı</title>
+      <link>https://www.youtube.com/watch?v=KGo8B93poqQ</link>
+      <guid isPermaLink="false">KGo8B93poqQ</guid>
+      <pubDate>Sun, 13 Sep 2026 17:00:31 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Mansur Yavaş Erdoğan Zirvesinin Perde Arkası! İsmail Saymaz'dan Olay Analiz! Ankara Karıştı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Ekrem Açıkel İle Hafta Sonu Ana Haber | 13 Eylül</title>
+      <link>https://www.youtube.com/watch?v=pNUfzgfJQsY</link>
+      <guid isPermaLink="false">pNUfzgfJQsY</guid>
+      <pubDate>Sun, 13 Sep 2026 16:59:40 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Ekrem Açıkel İle Hafta Sonu Ana Haber | 13 Eylül</description>
+    </item>
     <item>
       <title>Halk TV: Sinem Fıstıkoğlu ile Hafta Sonu Ana Haber (13 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=4KVKapDAh1M</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">31KgbH5h99s</guid>
       <pubDate>Sun, 13 Sep 2026 10:30:37 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "İp Atıyordu 'Kurucu Önder' Dedi!" Hüsnü Mahalli'den Bahçeli'ye Öcalan Tepkisi!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: 'Biz bakarız Çocuğuna' Özgür Çelik'ten Ayhan Aydın'a Yanıt! AKP'nin Gizli Pazarlıkları ve Tehditleri</title>
-      <link>https://www.youtube.com/watch?v=DwSdZQ3ucD0</link>
-      <guid isPermaLink="false">DwSdZQ3ucD0</guid>
-      <pubDate>Sun, 13 Sep 2026 10:30:03 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: 'Biz bakarız Çocuğuna' Özgür Çelik'ten Ayhan Aydın'a Yanıt! AKP'nin Gizli Pazarlıkları ve Tehditleri</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Vanlı Kara Haydar'ın gözaltına alınan eşi Çağla Öz, Van'a götürüldü</title>
-      <link>https://www.youtube.com/shorts/IjmJ8wS3hg0</link>
-      <guid isPermaLink="false">IjmJ8wS3hg0</guid>
-      <pubDate>Sun, 13 Sep 2026 10:26:58 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Vanlı Kara Haydar'ın gözaltına alınan eşi Çağla Öz, Van'a götürüldü</description>
     </item>
   </channel>
 </rss>
