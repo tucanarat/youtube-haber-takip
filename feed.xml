@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 13 Sep 2026 19:35:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 19:40:32 +0000</lastBuildDate>
     <item>
       <title>Halk TV: TOKİ bu kez 'ev sahibi' olacak... Kiralık konut projesi ile ilgili şartlar tek tek açıklandı!</title>
       <link>https://www.youtube.com/watch?v=CrxEoC6q_1I</link>
       <guid isPermaLink="false">CrxEoC6q_1I</guid>
       <pubDate>Sun, 13 Sep 2026 19:30:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: TOKİ bu kez 'ev sahibi' olacak... Kiralık konut projesi ile ilgili şartlar tek tek açıklandı!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Mustafa Balbay'dan Olay Zekeriya Öz İtirafı! Kaşif Kozinoğlu Uğur Mumcu ve Muhsin Yazıcıoğlu</title>
+      <link>https://www.youtube.com/watch?v=kx34o85tJXY</link>
+      <guid isPermaLink="false">kx34o85tJXY</guid>
+      <pubDate>Sun, 13 Sep 2026 19:20:07 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Mustafa Balbay'dan Olay Zekeriya Öz İtirafı! Kaşif Kozinoğlu Uğur Mumcu ve Muhsin Yazıcıoğlu</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Senem Toluay Ilgaz ile Öncesi Sonrası Gece - Timur Soykan | 13 Eylül</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">hW1fEn0EjII</guid>
       <pubDate>Sun, 13 Sep 2026 12:40:09 +0000</pubDate>
       <description>Halk TV kanalından yeni video: GERÇEĞE ADIM ADIM! Gülistan Doku soruşturmasında nefes kesen operasyon! O isimler de yakalandı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Filenin Sultanları'na Şort Sansürü! Fatih Ergenekon İsyan Etti! 'Bu Zihniyet Dine Zarar Veriyor'</title>
-      <link>https://www.youtube.com/watch?v=t7IG0D93kKI</link>
-      <guid isPermaLink="false">t7IG0D93kKI</guid>
-      <pubDate>Sun, 13 Sep 2026 12:30:38 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Filenin Sultanları'na Şort Sansürü! Fatih Ergenekon İsyan Etti! 'Bu Zihniyet Dine Zarar Veriyor'</description>
     </item>
   </channel>
 </rss>
