@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 15:15:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 15:20:34 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: "YASAL OLUR AMA MEŞRU OLMAZ!" Kadir Atalay'dan AKP'li Ali İhsan Yavuz'a "Erken Seçim" Cevabı!</title>
+      <link>https://www.youtube.com/watch?v=bSR8vRjfw2c</link>
+      <guid isPermaLink="false">bSR8vRjfw2c</guid>
+      <pubDate>Mon, 14 Sep 2026 15:15:27 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "YASAL OLUR AMA MEŞRU OLMAZ!" Kadir Atalay'dan AKP'li Ali İhsan Yavuz'a "Erken Seçim" Cevabı!</description>
+    </item>
     <item>
       <title>Halk TV: ÖZEL GİTTİ, BUTLANCILAR ŞİMDİ FERAGAT ETTİ! Murat Emir'den tokat gibi sözler! Kaçacak delik aratır!</title>
       <link>https://www.youtube.com/watch?v=5kWVhlsYy0A</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">AHNi1eTkYh8</guid>
       <pubDate>Mon, 14 Sep 2026 12:20:06 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Doğruyu söylemenin cesaret olduğu zamanlar - Jale Özgentürk</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Erdoğan’ın “Öcalan” sözleri Saray’ın sitesinde unutulmuş! I Mansur Yavaş ne yapacak? | Manşet Ötesi</title>
-      <link>https://www.youtube.com/watch?v=YGEISBQhMnc</link>
-      <guid isPermaLink="false">YGEISBQhMnc</guid>
-      <pubDate>Mon, 14 Sep 2026 12:18:52 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Erdoğan’ın “Öcalan” sözleri Saray’ın sitesinde unutulmuş! I Mansur Yavaş ne yapacak? | Manşet Ötesi</description>
     </item>
   </channel>
 </rss>
