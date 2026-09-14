@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 19:30:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 19:35:29 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: "Zülfü Livaneli'den komple vazgeçin" Murat Taylan Yeni Parti'ye 2 şarkı önerisini yorumladı</title>
+      <link>https://www.youtube.com/watch?v=EAUGB6eR7DQ</link>
+      <guid isPermaLink="false">EAUGB6eR7DQ</guid>
+      <pubDate>Mon, 14 Sep 2026 19:30:37 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "Zülfü Livaneli'den komple vazgeçin" Murat Taylan Yeni Parti'ye 2 şarkı önerisini yorumladı</description>
+    </item>
     <item>
       <title>Halk TV: MİNİBÜSTE KREDİ KARTI! Yurttaş, artan ulaşım ücretleri ile kredi kartıyla baş etmeye çalışıyor!</title>
       <link>https://www.youtube.com/watch?v=MuU816p6u2E</link>
       <guid isPermaLink="false">MuU816p6u2E</guid>
       <pubDate>Mon, 14 Sep 2026 19:30:04 +0000</pubDate>
       <description>Halk TV kanalından yeni video: MİNİBÜSTE KREDİ KARTI! Yurttaş, artan ulaşım ücretleri ile kredi kartıyla baş etmeye çalışıyor!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: "Tuhaf Paralellikler Var" İsmail Saymaz'dan Çarpıcı Kaşif Kozinoğlu Çıkışı! Kurtlar Vadisi Detayı</title>
+      <link>https://www.youtube.com/watch?v=b6f_2NGZeak</link>
+      <guid isPermaLink="false">b6f_2NGZeak</guid>
+      <pubDate>Mon, 14 Sep 2026 19:20:23 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: "Tuhaf Paralellikler Var" İsmail Saymaz'dan Çarpıcı Kaşif Kozinoğlu Çıkışı! Kurtlar Vadisi Detayı</description>
     </item>
     <item>
       <title>Halk TV: KURTLAR VADİSİ BOMBASI! Senaristler ifade verdi! Kozinoğlu dosyasında sır perdeleri aralanacak mı?</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">kYIwEDLrC3Q</guid>
       <pubDate>Mon, 14 Sep 2026 16:15:00 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "ÜSTÜNE VAZİFE GİBİ..." Murat Emir'den İstanbul Valisi Gül'e çok sert tepki!</description>
-    </item>
-    <item>
-      <title>Halk TV: YARGITAY UYARDI İDDİASI GÜNDEMİ SARSTI! YENİ Parti'ye yeni isim mi gelecek? Ankara çalkalanıyor!</title>
-      <link>https://www.youtube.com/watch?v=INl_ulN3QcE</link>
-      <guid isPermaLink="false">INl_ulN3QcE</guid>
-      <pubDate>Mon, 14 Sep 2026 16:00:35 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YARGITAY UYARDI İDDİASI GÜNDEMİ SARSTI! YENİ Parti'ye yeni isim mi gelecek? Ankara çalkalanıyor!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: GİZLİ HAT KOPTU! İsrail Türkiye'nin Kırmızı Çizgisini Aştı! Nevzat Çiçek'ten Bomba Kulisler</title>
-      <link>https://www.youtube.com/watch?v=iyrnpXAeYHA</link>
-      <guid isPermaLink="false">iyrnpXAeYHA</guid>
-      <pubDate>Mon, 14 Sep 2026 16:00:32 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: GİZLİ HAT KOPTU! İsrail Türkiye'nin Kırmızı Çizgisini Aştı! Nevzat Çiçek'ten Bomba Kulisler</description>
     </item>
   </channel>
 </rss>
