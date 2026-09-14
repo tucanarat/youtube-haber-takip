@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 23:30:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 23:35:27 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Londra'ya Tarihi Ayrılık Şoku! Trump Düğmeye Bastı! Birleşik Krallık Parçalanıyor</title>
+      <link>https://www.youtube.com/watch?v=YgnMqXJzA2E</link>
+      <guid isPermaLink="false">YgnMqXJzA2E</guid>
+      <pubDate>Mon, 14 Sep 2026 23:30:15 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Londra'ya Tarihi Ayrılık Şoku! Trump Düğmeye Bastı! Birleşik Krallık Parçalanıyor</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Yapay Zekanın Gizlenen Karanlık Yüzü! Psikopat AI Laboratuvardan Kaçtı! Büyük Tehlike Kapımızda</title>
       <link>https://www.youtube.com/watch?v=4qBIuN3K_5w</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">q-o9IQ-Rlxw</guid>
       <pubDate>Mon, 14 Sep 2026 18:30:33 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Mansur Yavaş Erdoğan'la niye görüştü? Ersin Eroğlu gelen eleştirileri yorumladı</description>
-    </item>
-    <item>
-      <title>Halk TV: Şaşalı düğün sonrası kabarık sicili ortaya dökülen ‘Kara Haydar’ tarihi eser kaçakçılığına karışmış!</title>
-      <link>https://www.youtube.com/watch?v=G827k-xJDxk</link>
-      <guid isPermaLink="false">G827k-xJDxk</guid>
-      <pubDate>Mon, 14 Sep 2026 18:30:31 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Şaşalı düğün sonrası kabarık sicili ortaya dökülen ‘Kara Haydar’ tarihi eser kaçakçılığına karışmış!</description>
     </item>
   </channel>
 </rss>
