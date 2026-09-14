@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 15:05:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 15:10:36 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Damla Doğan Tuncel ile 1 Saat | 14 Eylül</title>
+      <link>https://www.youtube.com/watch?v=nvqSb6XBGgw</link>
+      <guid isPermaLink="false">nvqSb6XBGgw</guid>
+      <pubDate>Mon, 14 Sep 2026 15:01:10 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Damla Doğan Tuncel ile 1 Saat | 14 Eylül</description>
+    </item>
     <item>
       <title>Halk TV: 20 yıllık emeği ile aldığı evi YENİ Parti'ye bağışlamıştı: Meryem Yücel Halk TV YouTube'a konuştu!</title>
       <link>https://www.youtube.com/watch?v=43DfalOHlM0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">YGEISBQhMnc</guid>
       <pubDate>Mon, 14 Sep 2026 12:18:52 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Erdoğan’ın “Öcalan” sözleri Saray’ın sitesinde unutulmuş! I Mansur Yavaş ne yapacak? | Manşet Ötesi</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Mustafa Balbay ile Ankara kulisleri: Seçim için o tarihi işaret etti! "Sonbahar sonu..."</title>
-      <link>https://www.youtube.com/watch?v=KmUxqHg2HIM</link>
-      <guid isPermaLink="false">KmUxqHg2HIM</guid>
-      <pubDate>Mon, 14 Sep 2026 12:18:51 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Mustafa Balbay ile Ankara kulisleri: Seçim için o tarihi işaret etti! "Sonbahar sonu..."</description>
     </item>
   </channel>
 </rss>
