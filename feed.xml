@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 07:50:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 07:55:28 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Barış Terkoğlu İsmail Küçükkaya'ya Neler Anlattı Neler! Ankara'dan Son Dakika Kulisleri</title>
+      <link>https://www.youtube.com/watch?v=h9n5SRNuTa0</link>
+      <guid isPermaLink="false">h9n5SRNuTa0</guid>
+      <pubDate>Mon, 14 Sep 2026 07:52:43 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Barış Terkoğlu İsmail Küçükkaya'ya Neler Anlattı Neler! Ankara'dan Son Dakika Kulisleri</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Ekrem Açıkel ile Hafta Başı</title>
       <link>https://www.youtube.com/watch?v=fpb1VopqVPk</link>
@@ -148,13 +155,6 @@
       <description>ANKA Haber Ajansı kanalından yeni video: Mansur Yavaş, Hacı Çelebi Döndü Beker Anadolu Lisesi açılışında konuşuyor #Canlı</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: CANLI | Barış Terkoğlu İsmail Küçükkaya'ya Ankara'daki Son Kulisleri Anlatıyor</title>
-      <link>https://www.youtube.com/watch?v=h9n5SRNuTa0</link>
-      <guid isPermaLink="false">h9n5SRNuTa0</guid>
-      <pubDate>Mon, 14 Sep 2026 06:00:48 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: CANLI | Barış Terkoğlu İsmail Küçükkaya'ya Ankara'daki Son Kulisleri Anlatıyor</description>
-    </item>
-    <item>
       <title>SÖZCÜ TV: Altında Tarihi Seviye! Ons ve Gram Altında Kritik Tarih Belli Oldu! Uzman İsimden Altın Analizi</title>
       <link>https://www.youtube.com/watch?v=c9gAlqpxnBs</link>
       <guid isPermaLink="false">c9gAlqpxnBs</guid>
@@ -281,11 +281,11 @@
       <description>SÖZCÜ TV kanalından yeni video: Can Coşkun ile Gündem Masası</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: #CANLI İsmail Küçükkaya ile Günaydın Türkiyem</title>
+      <title>SÖZCÜ TV: İsmail Küçükkaya ile Günaydın Türkiyem | 14 Eylül</title>
       <link>https://www.youtube.com/watch?v=GFoqi4Ba_64</link>
       <guid isPermaLink="false">GFoqi4Ba_64</guid>
       <pubDate>Sun, 13 Sep 2026 22:06:01 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: #CANLI İsmail Küçükkaya ile Günaydın Türkiyem</description>
+      <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya ile Günaydın Türkiyem | 14 Eylül</description>
     </item>
     <item>
       <title>Halk TV: Bilge Yurtdagülen ile Söz Sende (13 Eylül 2026)</title>
