@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 22:01:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 22:05:26 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: YENİ Parti İstanbul Milletvekili Suat Özçağdaş, TBMM'de basın toplantısı yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=TjwfL5bCj2o</link>
+      <guid isPermaLink="false">TjwfL5bCj2o</guid>
+      <pubDate>Mon, 14 Sep 2026 22:05:11 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti İstanbul Milletvekili Suat Özçağdaş, TBMM'de basın toplantısı yapıyor #Canlı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Pınar Erbaş ile Gecenin Sözü | 14 Eylül</title>
+      <link>https://www.youtube.com/watch?v=FIorV91Djxc</link>
+      <guid isPermaLink="false">FIorV91Djxc</guid>
+      <pubDate>Mon, 14 Sep 2026 22:03:44 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Pınar Erbaş ile Gecenin Sözü | 14 Eylül</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Gökmen Karadağ ile Açıkça</title>
+      <link>https://www.youtube.com/watch?v=RlQAkBLoQGM</link>
+      <guid isPermaLink="false">RlQAkBLoQGM</guid>
+      <pubDate>Mon, 14 Sep 2026 22:01:34 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Gökmen Karadağ ile Açıkça</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Afşin Hatipoğlu Anlatıyor! YENİ Parti'ye Yargıtay'dan İsim Vetosu! Mansur Yavaş Adaylık Kulisleri</title>
       <link>https://www.youtube.com/watch?v=xnIguJZEVCc</link>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">3ZuwAp3Rq-E</guid>
       <pubDate>Mon, 14 Sep 2026 17:32:59 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Onur Öncü ile Sabah Pusulası (15.09.26)</description>
-    </item>
-    <item>
-      <title>Halk TV: Bir çok kentte eylemler var... Benzin zammıyla başlayan isyan dalgası yer yer çatışmaya dönüştü!</title>
-      <link>https://www.youtube.com/watch?v=4ZkZShkmvH4</link>
-      <guid isPermaLink="false">4ZkZShkmvH4</guid>
-      <pubDate>Mon, 14 Sep 2026 17:30:14 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Bir çok kentte eylemler var... Benzin zammıyla başlayan isyan dalgası yer yer çatışmaya dönüştü!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Kaşif Kozinoğlu soruşturmasında gazeteci Günday neden tutuklandı? Murat Taylan irdeliyor...</title>
-      <link>https://www.youtube.com/watch?v=QYNGeJi-yIk</link>
-      <guid isPermaLink="false">QYNGeJi-yIk</guid>
-      <pubDate>Mon, 14 Sep 2026 17:30:10 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Kaşif Kozinoğlu soruşturmasında gazeteci Günday neden tutuklandı? Murat Taylan irdeliyor...</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Yargıtay'dan Yeni Parti'ye İsim Vetosu! İsmail Saymaz İlk Defa Açıkladı! "Bu İsmi Kullanamazsınız"</title>
-      <link>https://www.youtube.com/watch?v=gGibtpslV5g</link>
-      <guid isPermaLink="false">gGibtpslV5g</guid>
-      <pubDate>Mon, 14 Sep 2026 17:20:07 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Yargıtay'dan Yeni Parti'ye İsim Vetosu! İsmail Saymaz İlk Defa Açıkladı! "Bu İsmi Kullanamazsınız"</description>
     </item>
   </channel>
 </rss>
