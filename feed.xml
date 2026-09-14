@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 14:55:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 15:01:39 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Damla Doğan Tuncel ile 1 Saat | 14 Eylül</title>
+      <link>https://www.youtube.com/watch?v=nvqSb6XBGgw</link>
+      <guid isPermaLink="false">nvqSb6XBGgw</guid>
+      <pubDate>Mon, 14 Sep 2026 15:01:10 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Damla Doğan Tuncel ile 1 Saat | 14 Eylül</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: KURTLAR VADİSİ'NDE KOZİNOĞLU SIRRI! AKP'de Gökçek ve Arınç Kavgası! | Timur Soykan &amp; Mustafa Balbay</title>
+      <link>https://www.youtube.com/watch?v=bHndZ-zMSMo</link>
+      <guid isPermaLink="false">bHndZ-zMSMo</guid>
+      <pubDate>Mon, 14 Sep 2026 15:00:00 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: KURTLAR VADİSİ'NDE KOZİNOĞLU SIRRI! AKP'de Gökçek ve Arınç Kavgası! | Timur Soykan &amp; Mustafa Balbay</description>
+    </item>
     <item>
       <title>Halk TV: Gizem Çetin ile Parantez (14 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=SXP4Le7YKko</link>
@@ -20,6 +34,13 @@
       <guid isPermaLink="false">KVP1NmyOLbM</guid>
       <pubDate>Mon, 14 Sep 2026 14:45:15 +0000</pubDate>
       <description>Halk TV kanalından yeni video: 'BUTLAN' DAVASINDA ANKARA'YI SALLAYAN GELİŞME! CHP temyiz başvurusunu geri çekti! İşte detaylar!</description>
+    </item>
+    <item>
+      <title>Halk TV: ÖZEL GİTTİ, BUTLANCILAR ŞİMDİ FERAGAT ETTİ! Murat Emir'den tokat gibi sözler! Kaçacak delik aratır!</title>
+      <link>https://www.youtube.com/watch?v=5kWVhlsYy0A</link>
+      <guid isPermaLink="false">5kWVhlsYy0A</guid>
+      <pubDate>Mon, 14 Sep 2026 14:44:12 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ÖZEL GİTTİ, BUTLANCILAR ŞİMDİ FERAGAT ETTİ! Murat Emir'den tokat gibi sözler! Kaçacak delik aratır!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: ANKARA KULİSLERİ YANIYOR! Erdoğan'ın Seçim Tarihi Deşifre Oldu! CHP'den Kurultay Hamlesi!</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">KmUxqHg2HIM</guid>
       <pubDate>Mon, 14 Sep 2026 12:18:51 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Mustafa Balbay ile Ankara kulisleri: Seçim için o tarihi işaret etti! "Sonbahar sonu..."</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Cumhurbaşkanı Erdoğan, eğitim yılı ve ve eğitim yatırımlarının açılışında konuşuyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=cnqvWrtqfDA</link>
-      <guid isPermaLink="false">cnqvWrtqfDA</guid>
-      <pubDate>Mon, 14 Sep 2026 12:17:46 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Cumhurbaşkanı Erdoğan, eğitim yılı ve ve eğitim yatırımlarının açılışında konuşuyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: DEHŞET BÖYLE GELDİ! 2 kişinin hayatını kaybettiği faciada görgü tanığı konuştu! Kanınız donacak!</title>
-      <link>https://www.youtube.com/watch?v=BuoAO-8lFh8</link>
-      <guid isPermaLink="false">BuoAO-8lFh8</guid>
-      <pubDate>Mon, 14 Sep 2026 12:15:30 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: DEHŞET BÖYLE GELDİ! 2 kişinin hayatını kaybettiği faciada görgü tanığı konuştu! Kanınız donacak!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI İBB Başkanvekili Nuri Aslan, İBB Meclisi Eylül ayı ilk oturumunu yönetiyor</title>
-      <link>https://www.youtube.com/watch?v=Km4-PAViooA</link>
-      <guid isPermaLink="false">Km4-PAViooA</guid>
-      <pubDate>Mon, 14 Sep 2026 12:12:15 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI İBB Başkanvekili Nuri Aslan, İBB Meclisi Eylül ayı ilk oturumunu yönetiyor</description>
     </item>
   </channel>
 </rss>
