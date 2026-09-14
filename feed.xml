@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 08:55:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 09:00:57 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Eğitim İş Sendikası üyeleri, Milli Eğitim Bakanlığı önünde basın açıklaması yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=VKrbPV2snzY</link>
+      <guid isPermaLink="false">VKrbPV2snzY</guid>
+      <pubDate>Mon, 14 Sep 2026 08:59:43 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Eğitim İş Sendikası üyeleri, Milli Eğitim Bakanlığı önünde basın açıklaması yapıyor #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: Ekrem İmamoğlu'nun da aralarında olduğu 51’i tutuklu 414 sanıklı İBB Davası’nın 80’inci günü başladı</title>
       <link>https://www.youtube.com/shorts/n93Fq7hbWdk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">zF8TVFUIZ88</guid>
       <pubDate>Sun, 13 Sep 2026 22:07:16 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Senem Toluay Ilgaz ile Öncesi Sonrası</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: #CANLI Can Coşkun ile Gündem Masası</title>
-      <link>https://www.youtube.com/watch?v=TObhYeEFlbM</link>
-      <guid isPermaLink="false">TObhYeEFlbM</guid>
-      <pubDate>Sun, 13 Sep 2026 22:06:31 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: #CANLI Can Coşkun ile Gündem Masası</description>
     </item>
   </channel>
 </rss>
