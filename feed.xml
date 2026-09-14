@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 15:50:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 15:55:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ORTALIK İYİCE KIZIŞTI! Fatih Belediye Başkanı’ndan Arınç’a bomba sözler! Sessizliğini fena bozdu!</title>
+      <link>https://www.youtube.com/watch?v=M2Y2W4-TYKE</link>
+      <guid isPermaLink="false">M2Y2W4-TYKE</guid>
+      <pubDate>Mon, 14 Sep 2026 15:45:18 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ORTALIK İYİCE KIZIŞTI! Fatih Belediye Başkanı’ndan Arınç’a bomba sözler! Sessizliğini fena bozdu!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Motorine Dev Zam! Özlem Gürses Şişedeki 50 Tl'lik Mazot ile Acı Tabloyu Anlattı! Çarpıcı Hesap</title>
       <link>https://www.youtube.com/watch?v=WAgngOFBROM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">uJbePbH5Pko</guid>
       <pubDate>Mon, 14 Sep 2026 12:20:38 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Tiyatro ve danışıklı dövüş meselesi - Mehmet Ali Güller</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Şükran Soner’in ardından... - Ayşe Emel Mesci</title>
-      <link>https://www.youtube.com/watch?v=YhpioJfgc_A</link>
-      <guid isPermaLink="false">YhpioJfgc_A</guid>
-      <pubDate>Mon, 14 Sep 2026 12:20:35 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Şükran Soner’in ardından... - Ayşe Emel Mesci</description>
     </item>
   </channel>
 </rss>
