@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 12:40:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 12:45:36 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: O PARANIN KAYNAĞI NE? İsmail Saymaz Gökçeklerin Sırrını Çözdü! "Bu AVM'yi Alacak Gücü Yok"</title>
       <link>https://www.youtube.com/watch?v=sOW4zdP4Bf8</link>
       <guid isPermaLink="false">sOW4zdP4Bf8</guid>
       <pubDate>Mon, 14 Sep 2026 12:30:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: O PARANIN KAYNAĞI NE? İsmail Saymaz Gökçeklerin Sırrını Çözdü! "Bu AVM'yi Alacak Gücü Yok"</description>
+    </item>
+    <item>
+      <title>Halk TV: TÜRKİYE 'KOZİNOĞLU' SORUŞTURMASINI KONUŞUYOR! Kurtlar Vadisi senaristleri ifade vermek için adliyede</title>
+      <link>https://www.youtube.com/watch?v=x7NSj49T8f8</link>
+      <guid isPermaLink="false">x7NSj49T8f8</guid>
+      <pubDate>Mon, 14 Sep 2026 12:30:00 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: TÜRKİYE 'KOZİNOĞLU' SORUŞTURMASINI KONUŞUYOR! Kurtlar Vadisi senaristleri ifade vermek için adliyede</description>
     </item>
     <item>
       <title>Cumhuriyet: Yıpratan 3 puan - Ebru Kılıçoğlu</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">TObhYeEFlbM</guid>
       <pubDate>Mon, 14 Sep 2026 10:23:45 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Can Coşkun ile Gündem Masası | 14 Eylül</description>
-    </item>
-    <item>
-      <title>Halk TV: KILIÇDAROĞLU'NA GENEL MERKEZ DAR GELECEK! Süleyman Bülbül'den ortalığı yıkacak çıkış! Yok böylesi!</title>
-      <link>https://www.youtube.com/watch?v=1iMxTlpPnaU</link>
-      <guid isPermaLink="false">1iMxTlpPnaU</guid>
-      <pubDate>Mon, 14 Sep 2026 10:15:34 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KILIÇDAROĞLU'NA GENEL MERKEZ DAR GELECEK! Süleyman Bülbül'den ortalığı yıkacak çıkış! Yok böylesi!</description>
     </item>
   </channel>
 </rss>
