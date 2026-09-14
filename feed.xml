@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 08:00:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 08:05:27 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: İsmail Küçükkaya ile Günaydın Türkiyem | 14 Eylül</title>
+      <link>https://www.youtube.com/watch?v=GFoqi4Ba_64</link>
+      <guid isPermaLink="false">GFoqi4Ba_64</guid>
+      <pubDate>Mon, 14 Sep 2026 08:03:26 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya ile Günaydın Türkiyem | 14 Eylül</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Timur Soykan Eski Defterleri Açtı İsyan Etti | Zekeriya Öz, Melih Gökçek, Kaşif Kozinoğlu, FETÖ</title>
       <link>https://www.youtube.com/watch?v=RWV8_Gp1ZC8</link>
@@ -274,18 +281,11 @@
       <description>SÖZCÜ TV kanalından yeni video: Senem Toluay Ilgaz ile Öncesi Sonrası</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: Can Coşkun ile Gündem Masası</title>
+      <title>SÖZCÜ TV: #CANLI Can Coşkun ile Gündem Masası</title>
       <link>https://www.youtube.com/watch?v=TObhYeEFlbM</link>
       <guid isPermaLink="false">TObhYeEFlbM</guid>
       <pubDate>Sun, 13 Sep 2026 22:06:31 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Can Coşkun ile Gündem Masası</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İsmail Küçükkaya ile Günaydın Türkiyem | 14 Eylül</title>
-      <link>https://www.youtube.com/watch?v=GFoqi4Ba_64</link>
-      <guid isPermaLink="false">GFoqi4Ba_64</guid>
-      <pubDate>Sun, 13 Sep 2026 22:06:01 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya ile Günaydın Türkiyem | 14 Eylül</description>
+      <description>SÖZCÜ TV kanalından yeni video: #CANLI Can Coşkun ile Gündem Masası</description>
     </item>
     <item>
       <title>Halk TV: Bilge Yurtdagülen ile Söz Sende (13 Eylül 2026)</title>
