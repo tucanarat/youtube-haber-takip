@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 08:05:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 08:10:39 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: İsmail Küçükkaya ile Günaydın Türkiyem | 14 Eylül</title>
       <link>https://www.youtube.com/watch?v=GFoqi4Ba_64</link>
@@ -90,6 +90,13 @@
       <guid isPermaLink="false">gxgbURpsFfI</guid>
       <pubDate>Mon, 14 Sep 2026 07:21:39 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Yeni eğitim öğretim yılı başladı: İstanbul'da trafik yoğunluğu görüldü</description>
+    </item>
+    <item>
+      <title>Halk TV: KILIÇDAROĞLU’NU ÖYLE BİR YERDEN VURDU Kİ! Özgür Özel’in sözleri butlanı fena karıştırır! Kabus olur!</title>
+      <link>https://www.youtube.com/watch?v=kLIye6Y0nZU</link>
+      <guid isPermaLink="false">kLIye6Y0nZU</guid>
+      <pubDate>Mon, 14 Sep 2026 07:21:35 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KILIÇDAROĞLU’NU ÖYLE BİR YERDEN VURDU Kİ! Özgür Özel’in sözleri butlanı fena karıştırır! Kabus olur!</description>
     </item>
     <item>
       <title>Cumhuriyet: Osmaniye'de yer fıstığı üreticisi isyanda: Tüccar 3 yıl önceki fiyattan ağzını açıyor</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">eLSdY3ulGhc</guid>
       <pubDate>Sun, 13 Sep 2026 20:50:36 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Bülent Arınç Melih Gökçek Kavgası Büyüyor! Ankara Siyasetinin Karanlık Dosyaları Açılıyor</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Galatasaray-Kocaelispor Maç Sonu | Maç Varsa Erman Hoca Var | Erman Toroğlu | 13 Eylül</title>
-      <link>https://www.youtube.com/watch?v=qGPzpAh4s-s</link>
-      <guid isPermaLink="false">qGPzpAh4s-s</guid>
-      <pubDate>Sun, 13 Sep 2026 20:28:50 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Galatasaray-Kocaelispor Maç Sonu | Maç Varsa Erman Hoca Var | Erman Toroğlu | 13 Eylül</description>
     </item>
   </channel>
 </rss>
