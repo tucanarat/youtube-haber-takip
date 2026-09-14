@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 13:00:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 13:05:27 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Özgür Çelik İsim İsim Açıkladı! Hangi Başkanlar Tehdit Edildi? AKP'ye Erken Seçim Resti</title>
+      <link>https://www.youtube.com/watch?v=YjqkV5bJlQY</link>
+      <guid isPermaLink="false">YjqkV5bJlQY</guid>
+      <pubDate>Mon, 14 Sep 2026 13:00:33 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Özgür Çelik İsim İsim Açıkladı! Hangi Başkanlar Tehdit Edildi? AKP'ye Erken Seçim Resti</description>
+    </item>
+    <item>
+      <title>Halk TV: İrem Sansak ile Haber Masası (14 Eylül 2026)</title>
+      <link>https://www.youtube.com/watch?v=GAXElL8TUOY</link>
+      <guid isPermaLink="false">GAXElL8TUOY</guid>
+      <pubDate>Mon, 14 Sep 2026 12:59:37 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İrem Sansak ile Haber Masası (14 Eylül 2026)</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Gizem Çetin ile Parantez</title>
       <link>https://www.youtube.com/watch?v=SXP4Le7YKko</link>
@@ -281,6 +295,13 @@
       <description>Halk TV kanalından yeni video: Beyoğlu Belediye Başkanı İnan Güney, İBB davasının görüldüğü Silivri’de</description>
     </item>
     <item>
+      <title>Halk TV: BÜYÜK RİSK ALTINDA OLABİLİRSİNİZ! Pusula Yatırım'da neler oluyor? Uzman isimden korkutan senaryo!</title>
+      <link>https://www.youtube.com/watch?v=7Wucka3KOCQ</link>
+      <guid isPermaLink="false">7Wucka3KOCQ</guid>
+      <pubDate>Mon, 14 Sep 2026 11:05:31 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BÜYÜK RİSK ALTINDA OLABİLİRSİNİZ! Pusula Yatırım'da neler oluyor? Uzman isimden korkutan senaryo!</description>
+    </item>
+    <item>
       <title>Halk TV: Köye dönüş yaptı, çiftçiliğe başladı ama destek alamadı! “Bu destekler nereye gidiyor?”</title>
       <link>https://www.youtube.com/shorts/wWFJF1gG7pg</link>
       <guid isPermaLink="false">wWFJF1gG7pg</guid>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">Z0YkofoR-qQ</guid>
       <pubDate>Mon, 14 Sep 2026 10:45:00 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SUUDİ ARABİSTAN CEHENNEMİ YAŞIYOR! Her yer ateşe verildi, sirenler susmuyor! Görüntüler korkunç!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Adalet Peşinde Aileleri Platformu, Adalet Bakanlığı önünde açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=vKRVboBWGf8</link>
-      <guid isPermaLink="false">vKRVboBWGf8</guid>
-      <pubDate>Mon, 14 Sep 2026 10:44:54 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Adalet Peşinde Aileleri Platformu, Adalet Bakanlığı önünde açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: İYİ Parti Sözcüsü Buğra Kavuncu açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=T0PUayrqsqc</link>
-      <guid isPermaLink="false">T0PUayrqsqc</guid>
-      <pubDate>Mon, 14 Sep 2026 10:39:34 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: İYİ Parti Sözcüsü Buğra Kavuncu açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "BU SEÇİMİ ATLATAMAYACAK!" Özgür Özel'den Erdoğan'a Çarpıcı Seçim Cevabı!</title>
-      <link>https://www.youtube.com/watch?v=_ru5WKlG3Yk</link>
-      <guid isPermaLink="false">_ru5WKlG3Yk</guid>
-      <pubDate>Mon, 14 Sep 2026 10:38:54 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "BU SEÇİMİ ATLATAMAYACAK!" Özgür Özel'den Erdoğan'a Çarpıcı Seçim Cevabı!</description>
     </item>
   </channel>
 </rss>
