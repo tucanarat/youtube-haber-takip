@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 18:15:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 18:20:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: DÜNYA BU DİPLOMATI KONUŞUYOR! Hindistan’daki zirvede beklenmedik anlar kameraya böyle yansıdı!</title>
+      <link>https://www.youtube.com/watch?v=XTTd6AD26UY</link>
+      <guid isPermaLink="false">XTTd6AD26UY</guid>
+      <pubDate>Mon, 14 Sep 2026 18:15:15 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: DÜNYA BU DİPLOMATI KONUŞUYOR! Hindistan’daki zirvede beklenmedik anlar kameraya böyle yansıdı!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Mansur Yavaş-Erdoğan görüşmesinin yankıları | Hilmi Hacaloğlu ve Ersin Eroğlu ile Kayıt Dışı</title>
       <link>https://www.youtube.com/watch?v=qJbC9z1a6Ok</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">KVP1NmyOLbM</guid>
       <pubDate>Mon, 14 Sep 2026 14:45:15 +0000</pubDate>
       <description>Halk TV kanalından yeni video: 'BUTLAN' DAVASINDA ANKARA'YI SALLAYAN GELİŞME! CHP temyiz başvurusunu geri çekti! İşte detaylar!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: ANKARA KULİSLERİ YANIYOR! Erdoğan'ın Seçim Tarihi Deşifre Oldu! CHP'den Kurultay Hamlesi!</title>
-      <link>https://www.youtube.com/watch?v=5tgBfytXZ2g</link>
-      <guid isPermaLink="false">5tgBfytXZ2g</guid>
-      <pubDate>Mon, 14 Sep 2026 14:40:36 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: ANKARA KULİSLERİ YANIYOR! Erdoğan'ın Seçim Tarihi Deşifre Oldu! CHP'den Kurultay Hamlesi!</description>
     </item>
   </channel>
 </rss>
