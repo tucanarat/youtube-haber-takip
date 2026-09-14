@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 18:35:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 18:40:31 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Mansur Yavaş Erdoğan'la niye görüştü? Ersin Eroğlu gelen eleştirileri yorumladı</title>
+      <link>https://www.youtube.com/watch?v=q-o9IQ-Rlxw</link>
+      <guid isPermaLink="false">q-o9IQ-Rlxw</guid>
+      <pubDate>Mon, 14 Sep 2026 18:30:33 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Mansur Yavaş Erdoğan'la niye görüştü? Ersin Eroğlu gelen eleştirileri yorumladı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: 14 Yaşındaki Işıl'ın Ölümünde Kan Donduran Detay! Şoför Kadındı Erkek Çıktı! Siyasi Müdahale İddiası</title>
       <link>https://www.youtube.com/watch?v=-xz6KHlEAtc</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">43DfalOHlM0</guid>
       <pubDate>Mon, 14 Sep 2026 15:00:29 +0000</pubDate>
       <description>Halk TV kanalından yeni video: 20 yıllık emeği ile aldığı evi YENİ Parti'ye bağışlamıştı: Meryem Yücel Halk TV YouTube'a konuştu!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: KURTLAR VADİSİ'NDE KOZİNOĞLU SIRRI! AKP'de Gökçek ve Arınç Kavgası! | Timur Soykan &amp; Mustafa Balbay</title>
-      <link>https://www.youtube.com/watch?v=bHndZ-zMSMo</link>
-      <guid isPermaLink="false">bHndZ-zMSMo</guid>
-      <pubDate>Mon, 14 Sep 2026 15:00:00 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: KURTLAR VADİSİ'NDE KOZİNOĞLU SIRRI! AKP'de Gökçek ve Arınç Kavgası! | Timur Soykan &amp; Mustafa Balbay</description>
     </item>
   </channel>
 </rss>
