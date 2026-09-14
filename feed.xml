@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 08:30:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 08:35:28 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: İMAMOĞLU'NA 'SİYASİ YASAK' PLANI İFŞA OLDU! Ali Mahir Başarır resmen ateş püskürdü! Stüdyo inledi!</title>
+      <link>https://www.youtube.com/watch?v=l3MVrNstfMI</link>
+      <guid isPermaLink="false">l3MVrNstfMI</guid>
+      <pubDate>Mon, 14 Sep 2026 08:30:27 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İMAMOĞLU'NA 'SİYASİ YASAK' PLANI İFŞA OLDU! Ali Mahir Başarır resmen ateş püskürdü! Stüdyo inledi!</description>
+    </item>
     <item>
       <title>Halk TV: Vanlı Kara Haydar'ın fenomen eşi Çağla Öz adliyeye sevk edildi!</title>
       <link>https://www.youtube.com/shorts/45m5hNhFovM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">cpC6Yz-Z6oo</guid>
       <pubDate>Sun, 13 Sep 2026 21:40:18 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SARAY'DAN ARINÇ'A ŞOKE EDEN TEPKİ! O düğündeki konuşmasına kan kustu! Oktay Saral'ın flaş açıklaması</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Mustafa Balbay’dan Olay Kulis! Mansur Yavaş Aday mı Olacak? "Cumhurbaşkanlığını İstiyor Ama..."</title>
-      <link>https://www.youtube.com/watch?v=Pz_5ctSZt6s</link>
-      <guid isPermaLink="false">Pz_5ctSZt6s</guid>
-      <pubDate>Sun, 13 Sep 2026 21:30:34 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Mustafa Balbay’dan Olay Kulis! Mansur Yavaş Aday mı Olacak? "Cumhurbaşkanlığını İstiyor Ama..."</description>
     </item>
   </channel>
 </rss>
