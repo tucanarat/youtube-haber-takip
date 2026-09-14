@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 14:05:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 14:10:51 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Serap Belovacıklı ile Haber Saati | 14 Eylül</title>
+      <link>https://www.youtube.com/watch?v=9-hDPz_2BhA</link>
+      <guid isPermaLink="false">9-hDPz_2BhA</guid>
+      <pubDate>Mon, 14 Sep 2026 14:10:30 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Serap Belovacıklı ile Haber Saati | 14 Eylül</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İsrail'in Nefes Borusu Kesilecek! İran, Rusya ve Çin Ne Planlıyor? Nevzat Çiçek Haritada Anlattı</title>
+      <link>https://www.youtube.com/watch?v=NjyoOnr1luk</link>
+      <guid isPermaLink="false">NjyoOnr1luk</guid>
+      <pubDate>Mon, 14 Sep 2026 14:00:30 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İsrail'in Nefes Borusu Kesilecek! İran, Rusya ve Çin Ne Planlıyor? Nevzat Çiçek Haritada Anlattı</description>
+    </item>
     <item>
       <title>Halk TV: İBRAHİM KAHVECİ ÇİLEDEN ÇIKTI! 'Öcalan'a ev' tartışmasında açtı ağzını yumdu gözünü! Olay sözler!</title>
       <link>https://www.youtube.com/watch?v=_VR9xIhipDQ</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">NiNUaZVyJ5A</guid>
       <pubDate>Mon, 14 Sep 2026 11:42:44 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Kurtlar Vadisi senaristleri, Kozinoğlu soruşturmasında ifade vermek üzere Silivri Adliyesi’nde!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Milyonlarca öğrenci için ders zili bugün çaldı… 2026-2027 eğitim-öğretim yılı nasıl geçecek?</title>
-      <link>https://www.youtube.com/watch?v=Qy3606gCDSo</link>
-      <guid isPermaLink="false">Qy3606gCDSo</guid>
-      <pubDate>Mon, 14 Sep 2026 11:40:28 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Milyonlarca öğrenci için ders zili bugün çaldı… 2026-2027 eğitim-öğretim yılı nasıl geçecek?</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Zülfü Livaneli'den Enver Aysever'e Sert Tepki! "HUZUR VER KARDEŞİM' İlk Kez Sözcü TV'ye Konuştu!</title>
-      <link>https://www.youtube.com/watch?v=iyq9_9rDQ3o</link>
-      <guid isPermaLink="false">iyq9_9rDQ3o</guid>
-      <pubDate>Mon, 14 Sep 2026 11:40:16 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Zülfü Livaneli'den Enver Aysever'e Sert Tepki! "HUZUR VER KARDEŞİM' İlk Kez Sözcü TV'ye Konuştu!</description>
     </item>
   </channel>
 </rss>
