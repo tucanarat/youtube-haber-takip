@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 07:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 07:25:26 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Birinci sınıfa başlayan yeğenini okula atla götürdü!</title>
+      <link>https://www.youtube.com/shorts/ZM90nKBlkRU</link>
+      <guid isPermaLink="false">ZM90nKBlkRU</guid>
+      <pubDate>Mon, 14 Sep 2026 07:23:45 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Birinci sınıfa başlayan yeğenini okula atla götürdü!</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Yeni eğitim öğretim yılı başladı: İstanbul'da trafik yoğunluğu görüldü</title>
+      <link>https://www.youtube.com/shorts/gxgbURpsFfI</link>
+      <guid isPermaLink="false">gxgbURpsFfI</guid>
+      <pubDate>Mon, 14 Sep 2026 07:21:39 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Yeni eğitim öğretim yılı başladı: İstanbul'da trafik yoğunluğu görüldü</description>
+    </item>
     <item>
       <title>Cumhuriyet: Osmaniye'de yer fıstığı üreticisi isyanda: Tüccar 3 yıl önceki fiyattan ağzını açıyor</title>
       <link>https://www.youtube.com/shorts/VDIGkki7HYk</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">CrxEoC6q_1I</guid>
       <pubDate>Sun, 13 Sep 2026 19:30:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: TOKİ bu kez 'ev sahibi' olacak... Kiralık konut projesi ile ilgili şartlar tek tek açıklandı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Mustafa Balbay'dan Olay Zekeriya Öz İtirafı! Kaşif Kozinoğlu Uğur Mumcu ve Muhsin Yazıcıoğlu</title>
-      <link>https://www.youtube.com/watch?v=kx34o85tJXY</link>
-      <guid isPermaLink="false">kx34o85tJXY</guid>
-      <pubDate>Sun, 13 Sep 2026 19:20:07 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Mustafa Balbay'dan Olay Zekeriya Öz İtirafı! Kaşif Kozinoğlu Uğur Mumcu ve Muhsin Yazıcıoğlu</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Senem Toluay Ilgaz ile Öncesi Sonrası Gece - Timur Soykan | 13 Eylül</title>
-      <link>https://www.youtube.com/watch?v=zvsy5p6CaNM</link>
-      <guid isPermaLink="false">zvsy5p6CaNM</guid>
-      <pubDate>Sun, 13 Sep 2026 19:00:36 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Senem Toluay Ilgaz ile Öncesi Sonrası Gece - Timur Soykan | 13 Eylül</description>
     </item>
   </channel>
 </rss>
