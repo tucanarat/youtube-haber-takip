@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 21:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 21:20:34 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: DİSK Genel Başkanı Arzu Çerkezoğlu, Milli Eğitim Bakanlığı önünde basın açıklaması yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=JDY605mvMiE</link>
+      <guid isPermaLink="false">JDY605mvMiE</guid>
+      <pubDate>Mon, 14 Sep 2026 21:18:56 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: DİSK Genel Başkanı Arzu Çerkezoğlu, Milli Eğitim Bakanlığı önünde basın açıklaması yapıyor #Canlı</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: CHP Grup Başkanvekili Sevda Erdan Kılıç, TBMM'de basın toplantısı düzenliyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=w6hpcUf-0xk</link>
+      <guid isPermaLink="false">w6hpcUf-0xk</guid>
+      <pubDate>Mon, 14 Sep 2026 21:14:48 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: CHP Grup Başkanvekili Sevda Erdan Kılıç, TBMM'de basın toplantısı düzenliyor #Canlı</description>
+    </item>
     <item>
       <title>Tele2 Haber: İzmir'de 'Ailem Güvende' operasyonuna protesto: Polis biber gazıyla müdahale etti!</title>
       <link>https://www.youtube.com/watch?v=EJr4AFtmm-I</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">k8Xpdo1yTk4</guid>
       <pubDate>Mon, 14 Sep 2026 16:59:08 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Emekli yurttaştan yürek yakan sözler!</description>
-    </item>
-    <item>
-      <title>Halk TV: Ece Üner ile Halk Ana Haber | #pahalı (14 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=MvBTzqqrS3c</link>
-      <guid isPermaLink="false">MvBTzqqrS3c</guid>
-      <pubDate>Mon, 14 Sep 2026 16:57:51 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ece Üner ile Halk Ana Haber | #pahalı (14 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Özlem Gürses ile Sözcü Ana Haber | 14 Eylül</title>
-      <link>https://www.youtube.com/watch?v=5SD1cWq7oSU</link>
-      <guid isPermaLink="false">5SD1cWq7oSU</guid>
-      <pubDate>Mon, 14 Sep 2026 16:54:00 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses ile Sözcü Ana Haber | 14 Eylül</description>
     </item>
   </channel>
 </rss>
