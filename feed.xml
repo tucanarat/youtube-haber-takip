@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 18:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 18:10:33 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: Mansur Yavaş-Erdoğan görüşmesinin yankıları | Hilmi Hacaloğlu ve Ersin Eroğlu ile Kayıt Dışı</title>
       <link>https://www.youtube.com/watch?v=qJbC9z1a6Ok</link>
       <guid isPermaLink="false">qJbC9z1a6Ok</guid>
       <pubDate>Mon, 14 Sep 2026 18:02:04 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Mansur Yavaş-Erdoğan görüşmesinin yankıları | Hilmi Hacaloğlu ve Ersin Eroğlu ile Kayıt Dışı</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Bilal Erdoğan ile Sakızcı Memo arasında dikkat çeken Selahattin Demirtaş diyaloğu!</title>
+      <link>https://www.youtube.com/watch?v=w2e7K9GtWOQ</link>
+      <guid isPermaLink="false">w2e7K9GtWOQ</guid>
+      <pubDate>Mon, 14 Sep 2026 18:00:36 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Bilal Erdoğan ile Sakızcı Memo arasında dikkat çeken Selahattin Demirtaş diyaloğu!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Yargıtay'dan Özgür Özel'e Olay Tebligat! 'Planlarımız Hazır Diyordu' İsmail Saymaz Tek Tek Anlattı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">5tgBfytXZ2g</guid>
       <pubDate>Mon, 14 Sep 2026 14:40:36 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: ANKARA KULİSLERİ YANIYOR! Erdoğan'ın Seçim Tarihi Deşifre Oldu! CHP'den Kurultay Hamlesi!</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Partili Umut Akdoğan'dan öğrencilere ücretsiz sıcak yemek çağrısı: Bütçenin %1'i yeter!</title>
-      <link>https://www.youtube.com/shorts/d0IuXETb85I</link>
-      <guid isPermaLink="false">d0IuXETb85I</guid>
-      <pubDate>Mon, 14 Sep 2026 14:39:16 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Partili Umut Akdoğan'dan öğrencilere ücretsiz sıcak yemek çağrısı: Bütçenin %1'i yeter!</description>
     </item>
   </channel>
 </rss>
