@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 12:55:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 13:00:57 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Gizem Çetin ile Parantez</title>
+      <link>https://www.youtube.com/watch?v=SXP4Le7YKko</link>
+      <guid isPermaLink="false">SXP4Le7YKko</guid>
+      <pubDate>Mon, 14 Sep 2026 12:46:58 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Gizem Çetin ile Parantez</description>
+    </item>
+    <item>
+      <title>Halk TV: BERHAN ŞİMŞEK'İ BİTİRECEK İFŞA! Darbettiği eski sevgilisinin anlattıkları midenizi bulandıracak!</title>
+      <link>https://www.youtube.com/watch?v=uUncoWdubQI</link>
+      <guid isPermaLink="false">uUncoWdubQI</guid>
+      <pubDate>Mon, 14 Sep 2026 12:45:29 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BERHAN ŞİMŞEK'İ BİTİRECEK İFŞA! Darbettiği eski sevgilisinin anlattıkları midenizi bulandıracak!</description>
+    </item>
     <item>
       <title>Tele2 Haber: "Cumhurbaşkanlığı Seçimini Kazanması Güçlü İhtimal!" Kadir Atalay'dan Kritik Mansur Yavaş İddiası!</title>
       <link>https://www.youtube.com/watch?v=LYY8RmwKAtY</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">_ru5WKlG3Yk</guid>
       <pubDate>Mon, 14 Sep 2026 10:38:54 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "BU SEÇİMİ ATLATAMAYACAK!" Özgür Özel'den Erdoğan'a Çarpıcı Seçim Cevabı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: CHP'den Kurultay Hamlesi! Butlan Davasında Sürpriz Karar! Temyiz Başvurusu Geri Çekildi</title>
-      <link>https://www.youtube.com/watch?v=UrMtv7luRNk</link>
-      <guid isPermaLink="false">UrMtv7luRNk</guid>
-      <pubDate>Mon, 14 Sep 2026 10:36:09 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: CHP'den Kurultay Hamlesi! Butlan Davasında Sürpriz Karar! Temyiz Başvurusu Geri Çekildi</description>
-    </item>
-    <item>
-      <title>Halk TV: SIKI DURUN! İktidar medyasının 'Yavaş' hamlesinin arkasından neler çıktı neler! Barış Övgün anlattı!</title>
-      <link>https://www.youtube.com/watch?v=MEdJo8bP0I8</link>
-      <guid isPermaLink="false">MEdJo8bP0I8</guid>
-      <pubDate>Mon, 14 Sep 2026 10:30:38 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SIKI DURUN! İktidar medyasının 'Yavaş' hamlesinin arkasından neler çıktı neler! Barış Övgün anlattı!</description>
     </item>
   </channel>
 </rss>
