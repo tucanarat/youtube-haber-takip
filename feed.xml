@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 08:50:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 08:55:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Ekrem İmamoğlu'nun da aralarında olduğu 51’i tutuklu 414 sanıklı İBB Davası’nın 80’inci günü başladı</title>
+      <link>https://www.youtube.com/shorts/n93Fq7hbWdk</link>
+      <guid isPermaLink="false">n93Fq7hbWdk</guid>
+      <pubDate>Mon, 14 Sep 2026 08:49:05 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Ekrem İmamoğlu'nun da aralarında olduğu 51’i tutuklu 414 sanıklı İBB Davası’nın 80’inci günü başladı</description>
+    </item>
     <item>
       <title>Halk TV: KILIÇDAROĞLU’NU ÖYLE BİR YERDEN VURDU Kİ! Özgür Özel’in sözleri butlanı fena karıştırır! Kabus olur!</title>
       <link>https://www.youtube.com/watch?v=kLIye6Y0nZU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">TObhYeEFlbM</guid>
       <pubDate>Sun, 13 Sep 2026 22:06:31 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: #CANLI Can Coşkun ile Gündem Masası</description>
-    </item>
-    <item>
-      <title>Halk TV: Bilge Yurtdagülen ile Söz Sende (13 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=lSagH0HFNSw</link>
-      <guid isPermaLink="false">lSagH0HFNSw</guid>
-      <pubDate>Sun, 13 Sep 2026 22:03:41 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Bilge Yurtdagülen ile Söz Sende (13 Eylül 2026)</description>
     </item>
   </channel>
 </rss>
