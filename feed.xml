@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 21:10:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 21:15:30 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: İzmir'de 'Ailem Güvende' operasyonuna protesto: Polis biber gazıyla müdahale etti!</title>
       <link>https://www.youtube.com/watch?v=EJr4AFtmm-I</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">QBE7x1eAFJI</guid>
       <pubDate>Mon, 14 Sep 2026 21:00:20 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Volkan Gültekin'den Siyaseti Sallayacak Mansur Yavaş Kulisi! Ankara'da Kartlar Yeninden Dağıtılıyor</description>
+    </item>
+    <item>
+      <title>Halk TV: OLAY SÖZLER! Prof. Dr. Günçavdı: Birinci parti olmanın yolu çocukların karnını doyurmaktan geçer!</title>
+      <link>https://www.youtube.com/watch?v=ln7WPp2pSZ4</link>
+      <guid isPermaLink="false">ln7WPp2pSZ4</guid>
+      <pubDate>Mon, 14 Sep 2026 21:00:20 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: OLAY SÖZLER! Prof. Dr. Günçavdı: Birinci parti olmanın yolu çocukların karnını doyurmaktan geçer!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Yunanistan Adalarda Ateşle Oynuyor! Özlem Gürses Haritada Anlattı! Miçotakis'ten Meis Adası Hamlesi</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">5SD1cWq7oSU</guid>
       <pubDate>Mon, 14 Sep 2026 16:54:00 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses ile Sözcü Ana Haber | 14 Eylül</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: YENİ Parti Bağcılar İlçe Başkanlığı açılışı / İstanbul #Canlı</title>
-      <link>https://www.youtube.com/watch?v=K-zMS7q9o-w</link>
-      <guid isPermaLink="false">K-zMS7q9o-w</guid>
-      <pubDate>Mon, 14 Sep 2026 16:47:29 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Bağcılar İlçe Başkanlığı açılışı / İstanbul #Canlı</description>
     </item>
   </channel>
 </rss>
