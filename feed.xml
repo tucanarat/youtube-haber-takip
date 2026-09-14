@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 09:00:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 09:05:25 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: YENİ Parti İstanbul Milletvekili Suat Özçağdaş, TBMM'de basın toplantısı yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=TjwfL5bCj2o</link>
+      <guid isPermaLink="false">TjwfL5bCj2o</guid>
+      <pubDate>Mon, 14 Sep 2026 09:03:16 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti İstanbul Milletvekili Suat Özçağdaş, TBMM'de basın toplantısı yapıyor #Canlı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Mustafa Balbay'dan Bomba Ankara ve Mansur Yavaş Kulisleri: "Adaylığı İstiyor Ama Çırpınmıyor!"</title>
+      <link>https://www.youtube.com/watch?v=SaDDhKiFnHs</link>
+      <guid isPermaLink="false">SaDDhKiFnHs</guid>
+      <pubDate>Mon, 14 Sep 2026 09:00:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Mustafa Balbay'dan Bomba Ankara ve Mansur Yavaş Kulisleri: "Adaylığı İstiyor Ama Çırpınmıyor!"</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Eğitim İş Sendikası üyeleri, Milli Eğitim Bakanlığı önünde basın açıklaması yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=VKrbPV2snzY</link>
@@ -295,13 +309,6 @@
       <description>Halk TV kanalından yeni video: Gökhan Kayış ile Günaydın Türkiye (14 Eylül 2026)</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: Mustafa Balbay'dan Bomba Ankara ve Mansur Yavaş Kulisleri: "Adaylığı İstiyor Ama Çırpınmıyor!"</title>
-      <link>https://www.youtube.com/watch?v=SaDDhKiFnHs</link>
-      <guid isPermaLink="false">SaDDhKiFnHs</guid>
-      <pubDate>Mon, 14 Sep 2026 03:33:52 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Mustafa Balbay'dan Bomba Ankara ve Mansur Yavaş Kulisleri: "Adaylığı İstiyor Ama Çırpınmıyor!"</description>
-    </item>
-    <item>
       <title>ANKA Haber Ajansı: Cumhurbaşkanı Recep Tayyip Erdoğan, Samsun Şehir Hastanesi Açılış Töreni'nde konuşuyor / #Canlı</title>
       <link>https://www.youtube.com/watch?v=Krhmre_c-ak</link>
       <guid isPermaLink="false">Krhmre_c-ak</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">9-hDPz_2BhA</guid>
       <pubDate>Sun, 13 Sep 2026 22:07:52 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Serap Belovacıklı ile Haber Saati</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Senem Toluay Ilgaz ile Öncesi Sonrası</title>
-      <link>https://www.youtube.com/watch?v=zF8TVFUIZ88</link>
-      <guid isPermaLink="false">zF8TVFUIZ88</guid>
-      <pubDate>Sun, 13 Sep 2026 22:07:16 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Senem Toluay Ilgaz ile Öncesi Sonrası</description>
     </item>
   </channel>
 </rss>
