@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 03:55:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 04:00:53 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: Cumhurbaşkanı Recep Tayyip Erdoğan, Samsun Şehir Hastanesi Açılış Töreni'nde konuşuyor / #Canlı</title>
       <link>https://www.youtube.com/watch?v=Krhmre_c-ak</link>
@@ -99,11 +99,18 @@
       <description>SÖZCÜ TV kanalından yeni video: Nagihan Turhan ile S Raporu | 13 Eylül</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | Gökhan Kayış ile Günaydın Türkiye</title>
+      <title>Halk TV: #CANLI | Deniz Bayramoğlu ile Gün Doğarken | #</title>
+      <link>https://www.youtube.com/watch?v=QOr1r1rWgjI</link>
+      <guid isPermaLink="false">QOr1r1rWgjI</guid>
+      <pubDate>Sun, 13 Sep 2026 21:52:33 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Deniz Bayramoğlu ile Gün Doğarken | #</description>
+    </item>
+    <item>
+      <title>Halk TV: Gökhan Kayış ile Günaydın Türkiye (14 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=7UHODQTq1XE</link>
       <guid isPermaLink="false">7UHODQTq1XE</guid>
       <pubDate>Sun, 13 Sep 2026 21:51:08 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Gökhan Kayış ile Günaydın Türkiye</description>
+      <description>Halk TV kanalından yeni video: Gökhan Kayış ile Günaydın Türkiye (14 Eylül 2026)</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Mansur Yavaş'ın Adaylık Planını Timur Soykan Anlattı! "Zorla Aday Yapamazsınız!" Kılıçdaroğlu Çıkışı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">3d4fCPF8uh0</guid>
       <pubDate>Sun, 13 Sep 2026 16:00:29 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ERDOĞAN ÇAĞIRMIŞTI! Acar Ünlü cevabını verdi! Marmaris Belediye Başkanı CHP'den YENİ Parti'ye geçti!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Bülent Arınç'ın Melih Gökçek Dosyası! Kılıçdaroğlu'ndan İmamoğlu Çıkışı! Barış Terkoğlu Analiz Etti</title>
-      <link>https://www.youtube.com/watch?v=Hj0LPsgSu18</link>
-      <guid isPermaLink="false">Hj0LPsgSu18</guid>
-      <pubDate>Sun, 13 Sep 2026 16:00:19 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Bülent Arınç'ın Melih Gökçek Dosyası! Kılıçdaroğlu'ndan İmamoğlu Çıkışı! Barış Terkoğlu Analiz Etti</description>
     </item>
   </channel>
 </rss>
