@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 17:10:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 17:15:32 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Butlan CHP'sinden 'kurultay' kararı! Kozinoğlu soruşturmasında gelişme| Murat Taylan ile Haber-Yorum</title>
+      <link>https://www.youtube.com/watch?v=pWpZEnHe-aQ</link>
+      <guid isPermaLink="false">pWpZEnHe-aQ</guid>
+      <pubDate>Mon, 14 Sep 2026 17:13:30 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Butlan CHP'sinden 'kurultay' kararı! Kozinoğlu soruşturmasında gelişme| Murat Taylan ile Haber-Yorum</description>
+    </item>
     <item>
       <title>Halk TV: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (14 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=6uGRFHnG2xE</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">CwDx9sDVr6M</guid>
       <pubDate>Mon, 14 Sep 2026 13:48:47 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: EMEP Tunceli İl Başkanı Tekin: "Ücretsiz yemek lütuf değil, kamusal bir haktır"</description>
-    </item>
-    <item>
-      <title>Halk TV: ANKARA'DA TANSİYON ZİRVE YAPTI! Bülent Arınç'ın sözlerine Melih Gökçek'ten zehir zemberek açıklama!</title>
-      <link>https://www.youtube.com/watch?v=QQznOcSmQU8</link>
-      <guid isPermaLink="false">QQznOcSmQU8</guid>
-      <pubDate>Mon, 14 Sep 2026 13:45:15 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ANKARA'DA TANSİYON ZİRVE YAPTI! Bülent Arınç'ın sözlerine Melih Gökçek'ten zehir zemberek açıklama!</description>
     </item>
   </channel>
 </rss>
