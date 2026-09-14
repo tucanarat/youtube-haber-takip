@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 11:50:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 11:55:25 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Cumhurbaşkanı Erdoğan, eğitim yılı ve ve eğitim yatırımlarının açılışında konuşuyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=dS8F6_TFDtA</link>
+      <guid isPermaLink="false">dS8F6_TFDtA</guid>
+      <pubDate>Mon, 14 Sep 2026 11:50:50 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Cumhurbaşkanı Erdoğan, eğitim yılı ve ve eğitim yatırımlarının açılışında konuşuyor #Canlı</description>
+    </item>
     <item>
       <title>Tele2 Haber: "ERDOĞAN'IN AMACI NE?"  Erdoğan Öcalan Sözleri Saray'ın Sitesinde Unutulmuş...</title>
       <link>https://www.youtube.com/watch?v=l-5Tlm9bHJ8</link>
@@ -48,6 +55,13 @@
       <guid isPermaLink="false">_VR9xIhipDQ</guid>
       <pubDate>Mon, 14 Sep 2026 11:34:04 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İBRAHİM KAHVECİ ÇİLEDEN ÇIKTI! 'Öcalan'a ev' tartışmasında açtı ağzını yumdu gözünü! Olay sözler!</description>
+    </item>
+    <item>
+      <title>Halk TV: YER YERİNDEN OYNADI! MHP'li isim 'süreç' karşıtı partilere ateş püskürdü! DEM Parti'ye şok sözler!</title>
+      <link>https://www.youtube.com/watch?v=nCU0cRjj_Ls</link>
+      <guid isPermaLink="false">nCU0cRjj_Ls</guid>
+      <pubDate>Mon, 14 Sep 2026 11:30:11 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YER YERİNDEN OYNADI! MHP'li isim 'süreç' karşıtı partilere ateş püskürdü! DEM Parti'ye şok sözler!</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: CHP Genel Başkanı Kemal Kılıçdaroğlu açıklama yapıyor #Canlı</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">VKrbPV2snzY</guid>
       <pubDate>Mon, 14 Sep 2026 08:59:43 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Eğitim İş Sendikası üyeleri, Milli Eğitim Bakanlığı önünde basın açıklaması yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Pınar Erbaş ile Gecenin Sözü</title>
-      <link>https://www.youtube.com/watch?v=FIorV91Djxc</link>
-      <guid isPermaLink="false">FIorV91Djxc</guid>
-      <pubDate>Mon, 14 Sep 2026 08:59:07 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Pınar Erbaş ile Gecenin Sözü</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Gaziantep FK - Fenerbahçe Maç Sonu | Maç Varsa Erman Hoca Var | Erman Toroğlu</title>
-      <link>https://www.youtube.com/watch?v=Q0MdL2C4r1I</link>
-      <guid isPermaLink="false">Q0MdL2C4r1I</guid>
-      <pubDate>Mon, 14 Sep 2026 08:57:41 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Gaziantep FK - Fenerbahçe Maç Sonu | Maç Varsa Erman Hoca Var | Erman Toroğlu</description>
     </item>
   </channel>
 </rss>
