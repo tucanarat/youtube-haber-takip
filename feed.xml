@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 10:25:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 10:30:44 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI Adalet Peşinde Aileleri Platformu, Adalet Bakanlığı Önünde Açıklama Yapıyor</title>
+      <link>https://www.youtube.com/watch?v=6YcWfKokBgk</link>
+      <guid isPermaLink="false">6YcWfKokBgk</guid>
+      <pubDate>Mon, 14 Sep 2026 10:28:25 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Adalet Peşinde Aileleri Platformu, Adalet Bakanlığı Önünde Açıklama Yapıyor</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | YENİ Parti İstanbul Milletvekili Suat Özçağdaş, TBMM'de Basın Toplantısı Yapıyor!</title>
       <link>https://www.youtube.com/watch?v=L6UGJ9yJkRQ</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">gxgbURpsFfI</guid>
       <pubDate>Mon, 14 Sep 2026 07:21:39 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Yeni eğitim öğretim yılı başladı: İstanbul'da trafik yoğunluğu görüldü</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Osmaniye'de yer fıstığı üreticisi isyanda: Tüccar 3 yıl önceki fiyattan ağzını açıyor</title>
-      <link>https://www.youtube.com/shorts/VDIGkki7HYk</link>
-      <guid isPermaLink="false">VDIGkki7HYk</guid>
-      <pubDate>Mon, 14 Sep 2026 07:08:46 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Osmaniye'de yer fıstığı üreticisi isyanda: Tüccar 3 yıl önceki fiyattan ağzını açıyor</description>
     </item>
   </channel>
 </rss>
