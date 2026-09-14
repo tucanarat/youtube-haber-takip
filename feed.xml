@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 22:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 22:45:32 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Akaryakıtta Zam Yağmuru! Mehmet Şimşek Köşeye Sıkıştı! Motorin 100 Liraya Dayandı</title>
+      <link>https://www.youtube.com/watch?v=EFyPcDIL16s</link>
+      <guid isPermaLink="false">EFyPcDIL16s</guid>
+      <pubDate>Mon, 14 Sep 2026 22:40:01 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Akaryakıtta Zam Yağmuru! Mehmet Şimşek Köşeye Sıkıştı! Motorin 100 Liraya Dayandı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Eski MİT'çi Kaşif Kozinoğlu'nun Şüpheli Ölümü! Silivri’deki Sır Dolu Anlar! Kurtlar Vadisi İtirafı</title>
       <link>https://www.youtube.com/watch?v=vqfQQaAQkQM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">v5ZwEOVix-s</guid>
       <pubDate>Mon, 14 Sep 2026 17:45:20 +0000</pubDate>
       <description>Halk TV kanalından yeni video: TOKİ KİRALARINA ŞOK OLACAKSINIZ! Konut kirasını kim, nasıl karşılayacak? İşte detaylar!</description>
-    </item>
-    <item>
-      <title>Halk TV: KOZİNOĞLU'NUN AVUKATINA KAN DONDURAN E-POSTA! Öyle şeyler yazılmış ki! Detaylar tüyler ürpertecek!</title>
-      <link>https://www.youtube.com/watch?v=McPi0OCrWUo</link>
-      <guid isPermaLink="false">McPi0OCrWUo</guid>
-      <pubDate>Mon, 14 Sep 2026 17:45:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KOZİNOĞLU'NUN AVUKATINA KAN DONDURAN E-POSTA! Öyle şeyler yazılmış ki! Detaylar tüyler ürpertecek!</description>
     </item>
   </channel>
 </rss>
