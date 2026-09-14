@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 18:40:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 18:45:31 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: Mansur Yavaş Erdoğan'la niye görüştü? Ersin Eroğlu gelen eleştirileri yorumladı</title>
       <link>https://www.youtube.com/watch?v=q-o9IQ-Rlxw</link>
       <guid isPermaLink="false">q-o9IQ-Rlxw</guid>
       <pubDate>Mon, 14 Sep 2026 18:30:33 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Mansur Yavaş Erdoğan'la niye görüştü? Ersin Eroğlu gelen eleştirileri yorumladı</description>
+    </item>
+    <item>
+      <title>Halk TV: Şaşalı düğün sonrası sivil kabarık çıkan ‘Kara Haydar’ tarihi eser kaçakçılığına da karışmış!</title>
+      <link>https://www.youtube.com/watch?v=G827k-xJDxk</link>
+      <guid isPermaLink="false">G827k-xJDxk</guid>
+      <pubDate>Mon, 14 Sep 2026 18:30:31 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Şaşalı düğün sonrası sivil kabarık çıkan ‘Kara Haydar’ tarihi eser kaçakçılığına da karışmış!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: 14 Yaşındaki Işıl'ın Ölümünde Kan Donduran Detay! Şoför Kadındı Erkek Çıktı! Siyasi Müdahale İddiası</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">nvqSb6XBGgw</guid>
       <pubDate>Mon, 14 Sep 2026 15:01:10 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Damla Doğan Tuncel ile 1 Saat | 14 Eylül</description>
-    </item>
-    <item>
-      <title>Halk TV: 20 yıllık emeği ile aldığı evi YENİ Parti'ye bağışlamıştı: Meryem Yücel Halk TV YouTube'a konuştu!</title>
-      <link>https://www.youtube.com/watch?v=43DfalOHlM0</link>
-      <guid isPermaLink="false">43DfalOHlM0</guid>
-      <pubDate>Mon, 14 Sep 2026 15:00:29 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: 20 yıllık emeği ile aldığı evi YENİ Parti'ye bağışlamıştı: Meryem Yücel Halk TV YouTube'a konuştu!</description>
     </item>
   </channel>
 </rss>
