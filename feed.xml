@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 10:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 10:25:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | YENİ Parti İstanbul Milletvekili Suat Özçağdaş, TBMM'de Basın Toplantısı Yapıyor!</title>
+      <link>https://www.youtube.com/watch?v=L6UGJ9yJkRQ</link>
+      <guid isPermaLink="false">L6UGJ9yJkRQ</guid>
+      <pubDate>Mon, 14 Sep 2026 10:24:22 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti İstanbul Milletvekili Suat Özçağdaş, TBMM'de Basın Toplantısı Yapıyor!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Can Coşkun ile Gündem Masası | 14 Eylül</title>
+      <link>https://www.youtube.com/watch?v=TObhYeEFlbM</link>
+      <guid isPermaLink="false">TObhYeEFlbM</guid>
+      <pubDate>Mon, 14 Sep 2026 10:23:45 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Can Coşkun ile Gündem Masası | 14 Eylül</description>
+    </item>
+    <item>
+      <title>Halk TV: KILIÇDAROĞLU'NA GENEL MERKEZ DAR GELECEK! Süleyman Bülbül'den ortalığı yıkacak çıkış! Yok böylesi!</title>
+      <link>https://www.youtube.com/watch?v=1iMxTlpPnaU</link>
+      <guid isPermaLink="false">1iMxTlpPnaU</guid>
+      <pubDate>Mon, 14 Sep 2026 10:15:34 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KILIÇDAROĞLU'NA GENEL MERKEZ DAR GELECEK! Süleyman Bülbül'den ortalığı yıkacak çıkış! Yok böylesi!</description>
+    </item>
     <item>
       <title>Cumhuriyet: Mansur Yavaş spekülasyonları üzerine - Orhan Bursalı</title>
       <link>https://www.youtube.com/watch?v=zlxnTMNlBI0</link>
@@ -90,13 +111,6 @@
       <guid isPermaLink="false">8Ndg7CzGsB8</guid>
       <pubDate>Mon, 14 Sep 2026 09:30:08 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İmralı'daki Haine Villa! Ankara'da Hareketli Saatler! Bahçeli'nin Planını Barış Terkoğlu Anlattı</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | YENİ Parti İstanbul Milletvekili Suat Özçağdaş, TBMM'de Basın Toplantısı Yapıyor!</title>
-      <link>https://www.youtube.com/watch?v=L6UGJ9yJkRQ</link>
-      <guid isPermaLink="false">L6UGJ9yJkRQ</guid>
-      <pubDate>Mon, 14 Sep 2026 09:27:43 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti İstanbul Milletvekili Suat Özçağdaş, TBMM'de Basın Toplantısı Yapıyor!</description>
     </item>
     <item>
       <title>Tele2 Haber: #CANLI YENİ Parti İstanbul Milletvekili Suat Özçağdaş, TBMM'de basın toplantısı yapıyor</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">VDIGkki7HYk</guid>
       <pubDate>Mon, 14 Sep 2026 07:08:46 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Osmaniye'de yer fıstığı üreticisi isyanda: Tüccar 3 yıl önceki fiyattan ağzını açıyor</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Namık Koçak'tan Erdoğan'a Kenan Evren Tepkisi!</title>
-      <link>https://www.youtube.com/shorts/1_3sARSvB88</link>
-      <guid isPermaLink="false">1_3sARSvB88</guid>
-      <pubDate>Mon, 14 Sep 2026 07:07:20 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Namık Koçak'tan Erdoğan'a Kenan Evren Tepkisi!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Barış Terkoğlu AKP'deki Güç Savaşını Anlattı! AKP'de Çatlak! Külliye Bu Sözleri Konuşacak</title>
-      <link>https://www.youtube.com/watch?v=dfQzPJAa6lo</link>
-      <guid isPermaLink="false">dfQzPJAa6lo</guid>
-      <pubDate>Mon, 14 Sep 2026 07:01:30 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Barış Terkoğlu AKP'deki Güç Savaşını Anlattı! AKP'de Çatlak! Külliye Bu Sözleri Konuşacak</description>
     </item>
   </channel>
 </rss>
