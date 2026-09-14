@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 14:40:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 14:46:36 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: ANKARA KULİSLERİ YANIYOR! Erdoğan'ın Seçim Tarihi Deşifre Oldu! CHP'den Kurultay Hamlesi!</title>
+      <link>https://www.youtube.com/watch?v=5tgBfytXZ2g</link>
+      <guid isPermaLink="false">5tgBfytXZ2g</guid>
+      <pubDate>Mon, 14 Sep 2026 14:40:36 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: ANKARA KULİSLERİ YANIYOR! Erdoğan'ın Seçim Tarihi Deşifre Oldu! CHP'den Kurultay Hamlesi!</description>
+    </item>
+    <item>
+      <title>Halk TV: YENİ Partili Umut Akdoğan'dan öğrencilere ücretsiz sıcak yemek çağrısı: Bütçenin %1'i yeter!</title>
+      <link>https://www.youtube.com/shorts/d0IuXETb85I</link>
+      <guid isPermaLink="false">d0IuXETb85I</guid>
+      <pubDate>Mon, 14 Sep 2026 14:39:16 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YENİ Partili Umut Akdoğan'dan öğrencilere ücretsiz sıcak yemek çağrısı: Bütçenin %1'i yeter!</description>
+    </item>
     <item>
       <title>Halk TV: BÜYÜK RİSK ALTINDA OLABİLİRSİNİZ! Pusula Yatırım'da neler oluyor? Uzman isimden korkutan senaryo!</title>
       <link>https://www.youtube.com/watch?v=7Wucka3KOCQ</link>
@@ -41,6 +55,13 @@
       <guid isPermaLink="false">9-hDPz_2BhA</guid>
       <pubDate>Mon, 14 Sep 2026 14:10:30 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Serap Belovacıklı ile Haber Saati | 14 Eylül</description>
+    </item>
+    <item>
+      <title>Halk TV: SIR PERDESİ ARALANIYOR! Kozinoğlu'nun ceset bütünlüğü bu yüzden bozulmamış! Halis Dokgöz anlattı!</title>
+      <link>https://www.youtube.com/watch?v=qYj7qpGIyoE</link>
+      <guid isPermaLink="false">qYj7qpGIyoE</guid>
+      <pubDate>Mon, 14 Sep 2026 14:05:45 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SIR PERDESİ ARALANIYOR! Kozinoğlu'nun ceset bütünlüğü bu yüzden bozulmamış! Halis Dokgöz anlattı!</description>
     </item>
     <item>
       <title>Cumhuriyet: Adana’da okulun ilk gününde renkli görüntüler: Minik öğrencilere davul zurnalı karşılama!</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">HJleoY-fEKY</guid>
       <pubDate>Mon, 14 Sep 2026 12:07:57 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Kaşif Kozinoğlu soruşturması... 'Kurtlar Vadisi'nin senaristleri ifadeye çağrıldı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Netanyahu Burnumuzun Dibine Silahını Soktu! İsmail Küçükkaya Atina'nın Tehlikeli Planını Anlattı</title>
-      <link>https://www.youtube.com/watch?v=AgO5Uduxc0o</link>
-      <guid isPermaLink="false">AgO5Uduxc0o</guid>
-      <pubDate>Mon, 14 Sep 2026 12:00:16 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Netanyahu Burnumuzun Dibine Silahını Soktu! İsmail Küçükkaya Atina'nın Tehlikeli Planını Anlattı</description>
-    </item>
-    <item>
-      <title>Halk TV: SANİYE SANİYE KAYDEDİLDİ! İş insanı Hamdi Akın'a ait jet Libya'da cayır cayır yandı! İşte o anlar!</title>
-      <link>https://www.youtube.com/watch?v=cnoKXEUby5c</link>
-      <guid isPermaLink="false">cnoKXEUby5c</guid>
-      <pubDate>Mon, 14 Sep 2026 12:00:11 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SANİYE SANİYE KAYDEDİLDİ! İş insanı Hamdi Akın'a ait jet Libya'da cayır cayır yandı! İşte o anlar!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Suat Özçağdaş, iktidara seslendi! Milli Eğitim Bakanı Yusuf Tekin'e '6 Temmuz’ eleştirisi...</title>
-      <link>https://www.youtube.com/watch?v=3P8S3-2lnW0</link>
-      <guid isPermaLink="false">3P8S3-2lnW0</guid>
-      <pubDate>Mon, 14 Sep 2026 12:00:07 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Suat Özçağdaş, iktidara seslendi! Milli Eğitim Bakanı Yusuf Tekin'e '6 Temmuz’ eleştirisi...</description>
     </item>
   </channel>
 </rss>
