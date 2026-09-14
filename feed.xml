@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 10:10:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 10:15:34 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Mansur Yavaş spekülasyonları üzerine - Orhan Bursalı</title>
+      <link>https://www.youtube.com/watch?v=zlxnTMNlBI0</link>
+      <guid isPermaLink="false">zlxnTMNlBI0</guid>
+      <pubDate>Mon, 14 Sep 2026 10:01:42 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Mansur Yavaş spekülasyonları üzerine - Orhan Bursalı</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: 11 Eylüller ve 12 Eylüller’i aşmak - Deniz Tansi</title>
+      <link>https://www.youtube.com/watch?v=Qw5mHjuikVI</link>
+      <guid isPermaLink="false">Qw5mHjuikVI</guid>
+      <pubDate>Mon, 14 Sep 2026 10:01:40 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: 11 Eylüller ve 12 Eylüller’i aşmak - Deniz Tansi</description>
+    </item>
     <item>
       <title>Halk TV: DAVUTOĞLU'NUN OĞLUNUN NİKAHINDA SOĞUK RÜZGARLAR! Özgür Özel ile Kılıçdaroğlu selamlaşıp tokalaşmadı!</title>
       <link>https://www.youtube.com/watch?v=qoYMPDQ3Op0</link>
@@ -20,6 +34,13 @@
       <guid isPermaLink="false">zYugmvO580k</guid>
       <pubDate>Mon, 14 Sep 2026 10:00:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İsmail Saymaz'dan Çarpıcı AKP Analizi! "İktidarda Kimsenin Dokunulmazlığı Kalmadı!"</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: Adalet Peşinde Aileleri Platformu, Adalet Bakanlığı önünde açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=vKRVboBWGf8</link>
+      <guid isPermaLink="false">vKRVboBWGf8</guid>
+      <pubDate>Mon, 14 Sep 2026 09:59:53 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Adalet Peşinde Aileleri Platformu, Adalet Bakanlığı önünde açıklama yapıyor #Canlı</description>
     </item>
     <item>
       <title>Halk TV: Ebru Baki ile Para Siyaset | İbrahim Kahveci - Yaşar Aydın (14 Eylül 2026)</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">dfQzPJAa6lo</guid>
       <pubDate>Mon, 14 Sep 2026 07:01:30 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Barış Terkoğlu AKP'deki Güç Savaşını Anlattı! AKP'de Çatlak! Külliye Bu Sözleri Konuşacak</description>
-    </item>
-    <item>
-      <title>Halk TV: GERÇEKLERİ TOKAT GİBİ YÜZE ÇARPTI! Ali Mahir Başarır öğretmenlerin yaşadığı zor durumu böyle anlattı</title>
-      <link>https://www.youtube.com/watch?v=bgftKO5ysso</link>
-      <guid isPermaLink="false">bgftKO5ysso</guid>
-      <pubDate>Mon, 14 Sep 2026 07:00:18 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: GERÇEKLERİ TOKAT GİBİ YÜZE ÇARPTI! Ali Mahir Başarır öğretmenlerin yaşadığı zor durumu böyle anlattı</description>
-    </item>
-    <item>
-      <title>Halk TV: Deniz Bayramoğlu ile Gün Doğarken | #hayalimdi (14 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=QOr1r1rWgjI</link>
-      <guid isPermaLink="false">QOr1r1rWgjI</guid>
-      <pubDate>Mon, 14 Sep 2026 06:58:26 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Deniz Bayramoğlu ile Gün Doğarken | #hayalimdi (14 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti Grup Başkanvekili Ali Mahir Başarır Halk TV'de! Gündemi Sarsacak Açıklamalar!</title>
-      <link>https://www.youtube.com/watch?v=heE9yTrLl9A</link>
-      <guid isPermaLink="false">heE9yTrLl9A</guid>
-      <pubDate>Mon, 14 Sep 2026 06:56:21 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti Grup Başkanvekili Ali Mahir Başarır Halk TV'de! Gündemi Sarsacak Açıklamalar!</description>
     </item>
   </channel>
 </rss>
