@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 11:15:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 11:20:33 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: "Cumhurbaşkanlığı Adaylığı İçin Mutabakat İsteyecektir!" Atalay'dan Çarpıcı Mansur Yavaş Çıkışı!</title>
+      <link>https://www.youtube.com/watch?v=x7A6d1x2Iuc</link>
+      <guid isPermaLink="false">x7A6d1x2Iuc</guid>
+      <pubDate>Mon, 14 Sep 2026 11:19:48 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "Cumhurbaşkanlığı Adaylığı İçin Mutabakat İsteyecektir!" Atalay'dan Çarpıcı Mansur Yavaş Çıkışı!</description>
+    </item>
     <item>
       <title>Halk TV: Beyoğlu Belediye Başkanı İnan Güney, İBB davasının görüldüğü Silivri’de</title>
       <link>https://www.youtube.com/shorts/EKQCRCZHLPM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">H9cGhU6sXOY</guid>
       <pubDate>Mon, 14 Sep 2026 08:15:23 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ERDOĞAN O PLANINI BÖYLE İŞLEMİŞ! Barış Övgün kritik tarihi verdi! 'Yok artık' dedirtecek detaylar!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İsmail Küçükkaya ile Günaydın Türkiyem | 14 Eylül</title>
-      <link>https://www.youtube.com/watch?v=GFoqi4Ba_64</link>
-      <guid isPermaLink="false">GFoqi4Ba_64</guid>
-      <pubDate>Mon, 14 Sep 2026 08:03:26 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya ile Günaydın Türkiyem | 14 Eylül</description>
     </item>
   </channel>
 </rss>
