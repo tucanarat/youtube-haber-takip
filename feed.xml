@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 22:10:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 22:15:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: TIR ŞOFÖRLERİ TOPLANDI! Kapıkule yakınında basına konuştular: Patronların iki dudağı arasındayız!</title>
+      <link>https://www.youtube.com/watch?v=xO_CoeHpi38</link>
+      <guid isPermaLink="false">xO_CoeHpi38</guid>
+      <pubDate>Mon, 14 Sep 2026 22:10:10 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: TIR ŞOFÖRLERİ TOPLANDI! Kapıkule yakınında basına konuştular: Patronların iki dudağı arasındayız!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti İstanbul Milletvekili Suat Özçağdaş, TBMM'de basın toplantısı yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=TjwfL5bCj2o</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">jD5M0G7DWfw</guid>
       <pubDate>Mon, 14 Sep 2026 17:40:00 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Bülent Arınç'ın 13 Dakikalık Düğün Konuşması Beştepe'yi Ayağa Kaldırdı! Gökçek Krizi Büyüyor</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Ülkü Çoban ile Manşet Ötesi (15.09.26)</title>
-      <link>https://www.youtube.com/watch?v=iTlWiJYP704</link>
-      <guid isPermaLink="false">iTlWiJYP704</guid>
-      <pubDate>Mon, 14 Sep 2026 17:34:45 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Ülkü Çoban ile Manşet Ötesi (15.09.26)</description>
     </item>
   </channel>
 </rss>
