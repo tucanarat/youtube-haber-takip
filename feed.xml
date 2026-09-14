@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 13:35:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 13:40:35 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI YENİ Parti Grup Başkanvekili Murat Emir, TBMM'de açıklama yapıyor</title>
+      <link>https://www.youtube.com/watch?v=_VhRAyJ-tvI</link>
+      <guid isPermaLink="false">_VhRAyJ-tvI</guid>
+      <pubDate>Mon, 14 Sep 2026 13:37:42 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti Grup Başkanvekili Murat Emir, TBMM'de açıklama yapıyor</description>
+    </item>
     <item>
       <title>Halk TV: İBB Meclis Üyesi Sibel Tan Çetinkaya Açıklama Yaptı! (14 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=S7iFKao_Oo0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">x7A6d1x2Iuc</guid>
       <pubDate>Mon, 14 Sep 2026 11:19:48 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "Cumhurbaşkanlığı Adaylığı İçin Mutabakat İsteyecektir!" Atalay'dan Çarpıcı Mansur Yavaş Çıkışı!</description>
-    </item>
-    <item>
-      <title>Halk TV: BU TARİHİ UNUTMAYIN! Erdoğan öyle bir tuşa basıyor ki yer yerinden oynayacak! Barış Övgün anlattı!</title>
-      <link>https://www.youtube.com/watch?v=pOAr8EeCAoc</link>
-      <guid isPermaLink="false">pOAr8EeCAoc</guid>
-      <pubDate>Mon, 14 Sep 2026 11:15:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BU TARİHİ UNUTMAYIN! Erdoğan öyle bir tuşa basıyor ki yer yerinden oynayacak! Barış Övgün anlattı!</description>
     </item>
   </channel>
 </rss>
