@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 18:50:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 18:55:27 +0000</lastBuildDate>
     <item>
       <title>Halk TV: SON ANDA KURTULDULAR! Rusya Boris Johnson'ın bulunduğu treni vurduğu! 15 dakika farkla kurtuldular!</title>
       <link>https://www.youtube.com/watch?v=wdlYSdCJQoU</link>
       <guid isPermaLink="false">wdlYSdCJQoU</guid>
       <pubDate>Mon, 14 Sep 2026 18:45:20 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SON ANDA KURTULDULAR! Rusya Boris Johnson'ın bulunduğu treni vurduğu! 15 dakika farkla kurtuldular!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Özgür Özel'in Gizli Planı! İsmail Saymaz YENİ Parti Bilinmeyenlerini Anlattı! Muhalefette İsim Krizi</title>
+      <link>https://www.youtube.com/watch?v=rpURk_16OZk</link>
+      <guid isPermaLink="false">rpURk_16OZk</guid>
+      <pubDate>Mon, 14 Sep 2026 18:40:34 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Özgür Özel'in Gizli Planı! İsmail Saymaz YENİ Parti Bilinmeyenlerini Anlattı! Muhalefette İsim Krizi</description>
     </item>
     <item>
       <title>Tele2 Haber: Mansur Yavaş Erdoğan'la niye görüştü? Ersin Eroğlu gelen eleştirileri yorumladı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">bSR8vRjfw2c</guid>
       <pubDate>Mon, 14 Sep 2026 15:15:27 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "YASAL OLUR AMA MEŞRU OLMAZ!" Kadir Atalay'dan AKP'li Ali İhsan Yavuz'a "Erken Seçim" Cevabı!</description>
-    </item>
-    <item>
-      <title>Halk TV: ÖZEL GİTTİ, BUTLANCILAR ŞİMDİ FERAGAT ETTİ! Murat Emir'den tokat gibi sözler! Kaçacak delik aratır!</title>
-      <link>https://www.youtube.com/watch?v=5kWVhlsYy0A</link>
-      <guid isPermaLink="false">5kWVhlsYy0A</guid>
-      <pubDate>Mon, 14 Sep 2026 15:15:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ÖZEL GİTTİ, BUTLANCILAR ŞİMDİ FERAGAT ETTİ! Murat Emir'den tokat gibi sözler! Kaçacak delik aratır!</description>
     </item>
   </channel>
 </rss>
