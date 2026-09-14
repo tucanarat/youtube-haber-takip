@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 20:40:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 20:45:33 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Yunanistan Adalarda Ateşle Oynuyor! Özlem Gürses Haritada Anlattı! Miçotakis'ten Meis Adası Hamlesi</title>
+      <link>https://www.youtube.com/watch?v=u6KB_muts0E</link>
+      <guid isPermaLink="false">u6KB_muts0E</guid>
+      <pubDate>Mon, 14 Sep 2026 20:40:01 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Yunanistan Adalarda Ateşle Oynuyor! Özlem Gürses Haritada Anlattı! Miçotakis'ten Meis Adası Hamlesi</description>
+    </item>
+    <item>
+      <title>Halk TV: GECEKONDULAR ALEV ALDI! Ümraniye'de korkutan yangın söndürüldü!</title>
+      <link>https://www.youtube.com/watch?v=mOUDwcR1KPQ</link>
+      <guid isPermaLink="false">mOUDwcR1KPQ</guid>
+      <pubDate>Mon, 14 Sep 2026 20:35:10 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: GECEKONDULAR ALEV ALDI! Ümraniye'de korkutan yangın söndürüldü!</description>
+    </item>
     <item>
       <title>Halk TV: Eylemler sürüyor... Şam rejimine yönelik tepkiler çığ gibi: Şara'nın posterleri ayaklar altında!</title>
       <link>https://www.youtube.com/watch?v=xjypie7GB8U</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">MJR_fdy-WrA</guid>
       <pubDate>Mon, 14 Sep 2026 16:40:36 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: 11 Aylık Büşra Bebeğe Ne Oldu? Özlem Gürses'in Boğazı Düğümlendi! Sivas'ta Kan Donduran Pazarlık</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: İBB MECLİSİ'NDE "KOCAN NEREDE?" KAVGASI! AKP'li üyeden skandal sözler...</title>
-      <link>https://www.youtube.com/shorts/-sJ7Ta-Rk2c</link>
-      <guid isPermaLink="false">-sJ7Ta-Rk2c</guid>
-      <pubDate>Mon, 14 Sep 2026 16:31:47 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: İBB MECLİSİ'NDE "KOCAN NEREDE?" KAVGASI! AKP'li üyeden skandal sözler...</description>
-    </item>
-    <item>
-      <title>Halk TV: SİYASETİ SARSACAK 'MANSUR YAVAŞ' İDDİASI! Adaylık kararını verdi mi? Yaşar Aydın'dan çarpıcı sözler!</title>
-      <link>https://www.youtube.com/watch?v=cSDOPRg7VBA</link>
-      <guid isPermaLink="false">cSDOPRg7VBA</guid>
-      <pubDate>Mon, 14 Sep 2026 16:30:07 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SİYASETİ SARSACAK 'MANSUR YAVAŞ' İDDİASI! Adaylık kararını verdi mi? Yaşar Aydın'dan çarpıcı sözler!</description>
     </item>
   </channel>
 </rss>
