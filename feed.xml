@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 07:00:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 07:05:25 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: GERÇEKLERİ TOKAT GİBİ YÜZE ÇARPTI! Ali Mahir Başarır öğretmenlerin yaşadığı zor durumu böyle anlattı</title>
+      <link>https://www.youtube.com/watch?v=bgftKO5ysso</link>
+      <guid isPermaLink="false">bgftKO5ysso</guid>
+      <pubDate>Mon, 14 Sep 2026 07:00:18 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: GERÇEKLERİ TOKAT GİBİ YÜZE ÇARPTI! Ali Mahir Başarır öğretmenlerin yaşadığı zor durumu böyle anlattı</description>
+    </item>
     <item>
       <title>Halk TV: Deniz Bayramoğlu ile Gün Doğarken | #hayalimdi (14 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=QOr1r1rWgjI</link>
@@ -55,6 +62,13 @@
       <guid isPermaLink="false">XQv5eSTeYHg</guid>
       <pubDate>Mon, 14 Sep 2026 06:29:56 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ EĞİTİM ÖĞRETİM DÖNEMİNİN İLK DERS ZİLİ ÇALDI! Öğrenciler tüm okullarda dedektörle arandı!</description>
+    </item>
+    <item>
+      <title>Halk TV: BUTLANCILARIN PAÇALARI TUTUŞACAK! Süleyman Bülbül o pazarlığı patlatınca stüdyo buz kesti! Şok eder!</title>
+      <link>https://www.youtube.com/watch?v=NY8-Gg5xrP0</link>
+      <guid isPermaLink="false">NY8-Gg5xrP0</guid>
+      <pubDate>Mon, 14 Sep 2026 06:27:53 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BUTLANCILARIN PAÇALARI TUTUŞACAK! Süleyman Bülbül o pazarlığı patlatınca stüdyo buz kesti! Şok eder!</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Mansur Yavaş, Hacı Çelebi Döndü Beker Anadolu Lisesi açılışında konuşuyor #Canlı</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">NEdW_ENPUUM</guid>
       <pubDate>Sun, 13 Sep 2026 18:40:24 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Timur Soykan Sinirlendi! Selahattin Günday Dosyasındaki Akılalmaz Gerçekler! Kaşif Kozinoğlu Dosyası</description>
-    </item>
-    <item>
-      <title>Halk TV: Olayın geçtiği tarih 2011... Bu haberin yapılmasından 15 yıl sonra Gazeteci Günday tutuklandı!</title>
-      <link>https://www.youtube.com/watch?v=NujThoiOUwM</link>
-      <guid isPermaLink="false">NujThoiOUwM</guid>
-      <pubDate>Sun, 13 Sep 2026 18:40:02 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Olayın geçtiği tarih 2011... Bu haberin yapılmasından 15 yıl sonra Gazeteci Günday tutuklandı!</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti Lideri Özgür Özel, İstanbul Valisi Davut Gül'ü AKP'ye yardım etmekle suçladı!</title>
-      <link>https://www.youtube.com/watch?v=ufyLXIi-M4w</link>
-      <guid isPermaLink="false">ufyLXIi-M4w</guid>
-      <pubDate>Sun, 13 Sep 2026 18:20:32 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti Lideri Özgür Özel, İstanbul Valisi Davut Gül'ü AKP'ye yardım etmekle suçladı!</description>
     </item>
   </channel>
 </rss>
