@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 09:05:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 09:10:36 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti İstanbul Milletvekili Suat Özçağdaş, TBMM'de basın toplantısı yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=TjwfL5bCj2o</link>
@@ -27,6 +27,20 @@
       <guid isPermaLink="false">VKrbPV2snzY</guid>
       <pubDate>Mon, 14 Sep 2026 08:59:43 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Eğitim İş Sendikası üyeleri, Milli Eğitim Bakanlığı önünde basın açıklaması yapıyor #Canlı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Pınar Erbaş ile Gecenin Sözü</title>
+      <link>https://www.youtube.com/watch?v=FIorV91Djxc</link>
+      <guid isPermaLink="false">FIorV91Djxc</guid>
+      <pubDate>Mon, 14 Sep 2026 08:59:07 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Pınar Erbaş ile Gecenin Sözü</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Gaziantep FK - Fenerbahçe Maç Sonu | Maç Varsa Erman Hoca Var | Erman Toroğlu</title>
+      <link>https://www.youtube.com/watch?v=Q0MdL2C4r1I</link>
+      <guid isPermaLink="false">Q0MdL2C4r1I</guid>
+      <pubDate>Mon, 14 Sep 2026 08:57:41 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Gaziantep FK - Fenerbahçe Maç Sonu | Maç Varsa Erman Hoca Var | Erman Toroğlu</description>
     </item>
     <item>
       <title>Halk TV: Ekrem İmamoğlu'nun da aralarında olduğu 51’i tutuklu 414 sanıklı İBB Davası’nın 80’inci günü başladı</title>
@@ -127,11 +141,11 @@
       <description>SÖZCÜ TV kanalından yeni video: Barış Terkoğlu İsmail Küçükkaya'ya Neler Anlattı Neler! Ankara'dan Son Dakika Kulisleri</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: Ekrem Açıkel ile Hafta Başı</title>
+      <title>SÖZCÜ TV: Ekrem Açıkel ile Hafta Başı | İsmail Saymaz &amp; Can Özçelik</title>
       <link>https://www.youtube.com/watch?v=fpb1VopqVPk</link>
       <guid isPermaLink="false">fpb1VopqVPk</guid>
       <pubDate>Mon, 14 Sep 2026 07:41:20 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Ekrem Açıkel ile Hafta Başı</description>
+      <description>SÖZCÜ TV kanalından yeni video: Ekrem Açıkel ile Hafta Başı | İsmail Saymaz &amp; Can Özçelik</description>
     </item>
     <item>
       <title>Tele2 Haber: Kaşif Kozinoğlu Soruşturmasında Kurtlar Vadisi Senaristleri İfade Verecek! "Kaşifoğlu" Detayı!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">5SD1cWq7oSU</guid>
       <pubDate>Sun, 13 Sep 2026 22:08:48 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses ile Sözcü Ana Haber</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Damla Doğan Tuncel ile 1 Saat</title>
-      <link>https://www.youtube.com/watch?v=nvqSb6XBGgw</link>
-      <guid isPermaLink="false">nvqSb6XBGgw</guid>
-      <pubDate>Sun, 13 Sep 2026 22:08:22 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Damla Doğan Tuncel ile 1 Saat</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Serap Belovacıklı ile Haber Saati</title>
-      <link>https://www.youtube.com/watch?v=9-hDPz_2BhA</link>
-      <guid isPermaLink="false">9-hDPz_2BhA</guid>
-      <pubDate>Sun, 13 Sep 2026 22:07:52 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Serap Belovacıklı ile Haber Saati</description>
     </item>
   </channel>
 </rss>
