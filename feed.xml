@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 03:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 03:10:33 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: Cumhurbaşkanı Recep Tayyip Erdoğan, Samsun Şehir Hastanesi Açılış Töreni'nde konuşuyor / #Canlı</title>
       <link>https://www.youtube.com/watch?v=Krhmre_c-ak</link>
@@ -97,6 +97,13 @@
       <guid isPermaLink="false">lW80S4tpCjo</guid>
       <pubDate>Sun, 13 Sep 2026 21:59:19 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Nagihan Turhan ile S Raporu | 13 Eylül</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Gökhan Kayış ile Günaydın Türkiye</title>
+      <link>https://www.youtube.com/watch?v=7UHODQTq1XE</link>
+      <guid isPermaLink="false">7UHODQTq1XE</guid>
+      <pubDate>Sun, 13 Sep 2026 21:51:08 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Gökhan Kayış ile Günaydın Türkiye</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Mansur Yavaş'ın Adaylık Planını Timur Soykan Anlattı! "Zorla Aday Yapamazsınız!" Kılıçdaroğlu Çıkışı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Hj0LPsgSu18</guid>
       <pubDate>Sun, 13 Sep 2026 16:00:19 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Bülent Arınç'ın Melih Gökçek Dosyası! Kılıçdaroğlu'ndan İmamoğlu Çıkışı! Barış Terkoğlu Analiz Etti</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İstanbul'da 10 Bin TL'ye Kiralık Ev! Kiralık Konut Kampanyası: Hangi İlçelerde, Şartlar Neler?</title>
-      <link>https://www.youtube.com/watch?v=gPoMr-6MNjw</link>
-      <guid isPermaLink="false">gPoMr-6MNjw</guid>
-      <pubDate>Sun, 13 Sep 2026 15:40:24 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İstanbul'da 10 Bin TL'ye Kiralık Ev! Kiralık Konut Kampanyası: Hangi İlçelerde, Şartlar Neler?</description>
     </item>
   </channel>
 </rss>
