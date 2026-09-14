@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 10:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 10:05:25 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: DAVUTOĞLU'NUN OĞLUNUN NİKAHINDA SOĞUK RÜZGARLAR! Özgür Özel ile Kılıçdaroğlu selamlaşıp tokalaşmadı!</title>
+      <link>https://www.youtube.com/watch?v=qoYMPDQ3Op0</link>
+      <guid isPermaLink="false">qoYMPDQ3Op0</guid>
+      <pubDate>Mon, 14 Sep 2026 10:00:24 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: DAVUTOĞLU'NUN OĞLUNUN NİKAHINDA SOĞUK RÜZGARLAR! Özgür Özel ile Kılıçdaroğlu selamlaşıp tokalaşmadı!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İsmail Saymaz'dan Çarpıcı AKP Analizi! "İktidarda Kimsenin Dokunulmazlığı Kalmadı!"</title>
+      <link>https://www.youtube.com/watch?v=zYugmvO580k</link>
+      <guid isPermaLink="false">zYugmvO580k</guid>
+      <pubDate>Mon, 14 Sep 2026 10:00:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İsmail Saymaz'dan Çarpıcı AKP Analizi! "İktidarda Kimsenin Dokunulmazlığı Kalmadı!"</description>
+    </item>
     <item>
       <title>Halk TV: Ebru Baki ile Para Siyaset | İbrahim Kahveci - Yaşar Aydın (14 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=L9UrRReYUTE</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">heE9yTrLl9A</guid>
       <pubDate>Mon, 14 Sep 2026 06:56:21 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Parti Grup Başkanvekili Ali Mahir Başarır Halk TV'de! Gündemi Sarsacak Açıklamalar!</description>
-    </item>
-    <item>
-      <title>Halk TV: İSTANBUL’DA DEHŞET ANLARI! Alev topuna dönen yolcu otobüsünde 2 kişi can verdi! Çok sayıda yaralı!</title>
-      <link>https://www.youtube.com/watch?v=wlxkIyDVbo4</link>
-      <guid isPermaLink="false">wlxkIyDVbo4</guid>
-      <pubDate>Mon, 14 Sep 2026 06:45:31 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İSTANBUL’DA DEHŞET ANLARI! Alev topuna dönen yolcu otobüsünde 2 kişi can verdi! Çok sayıda yaralı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Fatih Ergenekon'dan Gündem Yaratacak Cemaat Çıkışı! "İslam'da Tarikat Yoktur!"</title>
-      <link>https://www.youtube.com/watch?v=8xl1dZHwNII</link>
-      <guid isPermaLink="false">8xl1dZHwNII</guid>
-      <pubDate>Mon, 14 Sep 2026 06:30:36 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Fatih Ergenekon'dan Gündem Yaratacak Cemaat Çıkışı! "İslam'da Tarikat Yoktur!"</description>
     </item>
   </channel>
 </rss>
