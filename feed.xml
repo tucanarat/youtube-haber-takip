@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 18:45:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 18:50:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SON ANDA KURTULDULAR! Rusya Boris Johnson'ın bulunduğu treni vurduğu! 15 dakika farkla kurtuldular!</title>
+      <link>https://www.youtube.com/watch?v=wdlYSdCJQoU</link>
+      <guid isPermaLink="false">wdlYSdCJQoU</guid>
+      <pubDate>Mon, 14 Sep 2026 18:45:20 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON ANDA KURTULDULAR! Rusya Boris Johnson'ın bulunduğu treni vurduğu! 15 dakika farkla kurtuldular!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Mansur Yavaş Erdoğan'la niye görüştü? Ersin Eroğlu gelen eleştirileri yorumladı</title>
       <link>https://www.youtube.com/watch?v=q-o9IQ-Rlxw</link>
@@ -15,11 +22,11 @@
       <description>Tele2 Haber kanalından yeni video: Mansur Yavaş Erdoğan'la niye görüştü? Ersin Eroğlu gelen eleştirileri yorumladı</description>
     </item>
     <item>
-      <title>Halk TV: Şaşalı düğün sonrası sivil kabarık çıkan ‘Kara Haydar’ tarihi eser kaçakçılığına da karışmış!</title>
+      <title>Halk TV: Şaşalı düğün sonrası kabarık sicili ortaya dökülen ‘Kara Haydar’ tarihi eser kaçakçılığına karışmış!</title>
       <link>https://www.youtube.com/watch?v=G827k-xJDxk</link>
       <guid isPermaLink="false">G827k-xJDxk</guid>
       <pubDate>Mon, 14 Sep 2026 18:30:31 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Şaşalı düğün sonrası sivil kabarık çıkan ‘Kara Haydar’ tarihi eser kaçakçılığına da karışmış!</description>
+      <description>Halk TV kanalından yeni video: Şaşalı düğün sonrası kabarık sicili ortaya dökülen ‘Kara Haydar’ tarihi eser kaçakçılığına karışmış!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: 14 Yaşındaki Işıl'ın Ölümünde Kan Donduran Detay! Şoför Kadındı Erkek Çıktı! Siyasi Müdahale İddiası</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">5kWVhlsYy0A</guid>
       <pubDate>Mon, 14 Sep 2026 15:15:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ÖZEL GİTTİ, BUTLANCILAR ŞİMDİ FERAGAT ETTİ! Murat Emir'den tokat gibi sözler! Kaçacak delik aratır!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Damla Doğan Tuncel ile 1 Saat | 14 Eylül</title>
-      <link>https://www.youtube.com/watch?v=nvqSb6XBGgw</link>
-      <guid isPermaLink="false">nvqSb6XBGgw</guid>
-      <pubDate>Mon, 14 Sep 2026 15:01:10 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Damla Doğan Tuncel ile 1 Saat | 14 Eylül</description>
     </item>
   </channel>
 </rss>
