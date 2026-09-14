@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 21:30:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 21:35:24 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ÇOK KONUŞULACAK SÖZLER! MHP'nin planlarını tek tek açıkladı! Dr. Korkmaz'dan flaş açıklamalar!</title>
+      <link>https://www.youtube.com/watch?v=7zg1uHPGYr8</link>
+      <guid isPermaLink="false">7zg1uHPGYr8</guid>
+      <pubDate>Mon, 14 Sep 2026 21:25:22 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ÇOK KONUŞULACAK SÖZLER! MHP'nin planlarını tek tek açıkladı! Dr. Korkmaz'dan flaş açıklamalar!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Yeni Parti'ye Yargıtay'dan Çarpıcı Tebligat! Özgür Özel'e Beklenmedik Engel! Muhalefette İsim Krizi</title>
       <link>https://www.youtube.com/watch?v=3viWRXBzWcc</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">47JnMd8VS10</guid>
       <pubDate>Mon, 14 Sep 2026 17:00:30 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Şamil Tayyar 'üst yargıdan dostlarla' görüşmesini niye sildi? Butlan CHP'sinden kurultay kararı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Kaşif Kozinoğlu'nun Sır Ölüm Dosyasında Kurtlar Vadisi Detayı! Senaristlere Olay Kozinoğlu Sorgusu</title>
-      <link>https://www.youtube.com/watch?v=jGUyhnzMxig</link>
-      <guid isPermaLink="false">jGUyhnzMxig</guid>
-      <pubDate>Mon, 14 Sep 2026 17:00:20 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Kaşif Kozinoğlu'nun Sır Ölüm Dosyasında Kurtlar Vadisi Detayı! Senaristlere Olay Kozinoğlu Sorgusu</description>
     </item>
   </channel>
 </rss>
