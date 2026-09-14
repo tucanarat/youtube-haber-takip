@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 07:35:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 07:40:34 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Kaşif Kozinoğlu Soruşturmasında Kurtlar Vadisi Senaristleri İfade Verecek! "Kaşifoğlu" Detayı!</title>
+      <link>https://www.youtube.com/watch?v=fFnxYUWTtIc</link>
+      <guid isPermaLink="false">fFnxYUWTtIc</guid>
+      <pubDate>Mon, 14 Sep 2026 07:37:20 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Kaşif Kozinoğlu Soruşturmasında Kurtlar Vadisi Senaristleri İfade Verecek! "Kaşifoğlu" Detayı!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: CHP Ankara İl Başkanlığı, Milli Eğitim Bakanlığı önünde açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=vYWQJK9xDWE</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">W0sFWdWEDMY</guid>
       <pubDate>Sun, 13 Sep 2026 20:00:26 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: 7 ŞUBAT MİT KRİZİ VE KAŞİF KOZİNOĞLU! FETÖ'cü Savcılar Böyle Kaçmış! Timur Soykan Anlattı</description>
-    </item>
-    <item>
-      <title>Halk TV: MANSUR YAVAŞ BUNDAN SONRA NE YAPACAK? Tartışmaların odağında ilk kez konuştu! İşte detaylar!</title>
-      <link>https://www.youtube.com/watch?v=V9mI64Fg2e8</link>
-      <guid isPermaLink="false">V9mI64Fg2e8</guid>
-      <pubDate>Sun, 13 Sep 2026 20:00:09 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: MANSUR YAVAŞ BUNDAN SONRA NE YAPACAK? Tartışmaların odağında ilk kez konuştu! İşte detaylar!</description>
     </item>
   </channel>
 </rss>
