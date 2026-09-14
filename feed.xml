@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 13:05:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 13:12:51 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI İBB Meclis üyesi Sibel Tan Çetinkaya açıklama yapıyor</title>
+      <link>https://www.youtube.com/watch?v=iIKJoyz9nb4</link>
+      <guid isPermaLink="false">iIKJoyz9nb4</guid>
+      <pubDate>Mon, 14 Sep 2026 13:10:47 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI İBB Meclis üyesi Sibel Tan Çetinkaya açıklama yapıyor</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Özgür Çelik İsim İsim Açıkladı! Hangi Başkanlar Tehdit Edildi? AKP'ye Erken Seçim Resti</title>
       <link>https://www.youtube.com/watch?v=YjqkV5bJlQY</link>
       <guid isPermaLink="false">YjqkV5bJlQY</guid>
       <pubDate>Mon, 14 Sep 2026 13:00:33 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Özgür Çelik İsim İsim Açıkladı! Hangi Başkanlar Tehdit Edildi? AKP'ye Erken Seçim Resti</description>
+    </item>
+    <item>
+      <title>Halk TV: ANNEDEN KAN DONDURAN İTİRAF! Sivas'ta kayıp olan 11 aylık Büşra bebek babası tarafından satılmış!</title>
+      <link>https://www.youtube.com/watch?v=KfuhHALlN4w</link>
+      <guid isPermaLink="false">KfuhHALlN4w</guid>
+      <pubDate>Mon, 14 Sep 2026 13:00:25 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ANNEDEN KAN DONDURAN İTİRAF! Sivas'ta kayıp olan 11 aylık Büşra bebek babası tarafından satılmış!</description>
     </item>
     <item>
       <title>Halk TV: İrem Sansak ile Haber Masası (14 Eylül 2026)</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">x4hu4Td1zEE</guid>
       <pubDate>Mon, 14 Sep 2026 10:46:43 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Adalet Peşinde Aileleri Platformu, Ezgi Apartmanı Kararına İlişkin Açıklama Yaptı!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Adalet Peşinde Aileleri Platformu, Adalet Bakanlığı Önünde Açıklama Yapıyor</title>
-      <link>https://www.youtube.com/watch?v=6YcWfKokBgk</link>
-      <guid isPermaLink="false">6YcWfKokBgk</guid>
-      <pubDate>Mon, 14 Sep 2026 10:45:40 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Adalet Peşinde Aileleri Platformu, Adalet Bakanlığı Önünde Açıklama Yapıyor</description>
-    </item>
-    <item>
-      <title>Halk TV: SUUDİ ARABİSTAN CEHENNEMİ YAŞIYOR! Her yer ateşe verildi, sirenler susmuyor! Görüntüler korkunç!</title>
-      <link>https://www.youtube.com/watch?v=Z0YkofoR-qQ</link>
-      <guid isPermaLink="false">Z0YkofoR-qQ</guid>
-      <pubDate>Mon, 14 Sep 2026 10:45:00 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SUUDİ ARABİSTAN CEHENNEMİ YAŞIYOR! Her yer ateşe verildi, sirenler susmuyor! Görüntüler korkunç!</description>
     </item>
   </channel>
 </rss>
