@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 02:00:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 02:05:28 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Cumhurbaşkanı Recep Tayyip Erdoğan, Samsun Şehir Hastanesi Açılış Töreni'nde konuşuyor / #Canlı</title>
+      <link>https://www.youtube.com/watch?v=Krhmre_c-ak</link>
+      <guid isPermaLink="false">Krhmre_c-ak</guid>
+      <pubDate>Mon, 14 Sep 2026 01:55:58 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Cumhurbaşkanı Recep Tayyip Erdoğan, Samsun Şehir Hastanesi Açılış Töreni'nde konuşuyor / #Canlı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Nevzat Çiçek AKP'deki Büyük Çatlağı Çıkışı! Melih Gökçek ve Davutoğlu Operasyonlarının Perde Arkası</title>
       <link>https://www.youtube.com/watch?v=6MIbEOH06rI</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">gPoMr-6MNjw</guid>
       <pubDate>Sun, 13 Sep 2026 15:40:24 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İstanbul'da 10 Bin TL'ye Kiralık Ev! Kiralık Konut Kampanyası: Hangi İlçelerde, Şartlar Neler?</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Borsa İstanbul'da Pusula Portföy Krizi! Yatırımcılar Nasıl Mağdur Edildi? Tarihi Vurgun İddiası!</title>
-      <link>https://www.youtube.com/watch?v=xxzHS4kDH_Q</link>
-      <guid isPermaLink="false">xxzHS4kDH_Q</guid>
-      <pubDate>Sun, 13 Sep 2026 15:20:04 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Borsa İstanbul'da Pusula Portföy Krizi! Yatırımcılar Nasıl Mağdur Edildi? Tarihi Vurgun İddiası!</description>
     </item>
   </channel>
 </rss>
