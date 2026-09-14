@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 19:15:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 19:20:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: KURTLAR VADİSİ BOMBASI! Senaristler ifade verdi! Kozinoğlu dosyasında sır perdeleri aralanacak mı?</title>
+      <link>https://www.youtube.com/watch?v=o40PdOzVTsw</link>
+      <guid isPermaLink="false">o40PdOzVTsw</guid>
+      <pubDate>Mon, 14 Sep 2026 19:15:03 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KURTLAR VADİSİ BOMBASI! Senaristler ifade verdi! Kozinoğlu dosyasında sır perdeleri aralanacak mı?</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Ekrem Açıkel ile Hafta Başı | İsmail Saymaz &amp; Can Özçelik | 14 Eylül</title>
       <link>https://www.youtube.com/watch?v=fpb1VopqVPk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">nr9RilM9KPg</guid>
       <pubDate>Mon, 14 Sep 2026 15:56:19 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #SONDAKİKA Ezgi Apartmanı davasında tahliyelere itiraz reddedildi! Ailelerden Akın Gürlek'e tepki!</description>
-    </item>
-    <item>
-      <title>Halk TV: ORTALIK İYİCE KIZIŞTI! Fatih Belediye Başkanı’ndan Arınç’a bomba sözler! Sessizliğini fena bozdu!</title>
-      <link>https://www.youtube.com/watch?v=M2Y2W4-TYKE</link>
-      <guid isPermaLink="false">M2Y2W4-TYKE</guid>
-      <pubDate>Mon, 14 Sep 2026 15:45:18 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ORTALIK İYİCE KIZIŞTI! Fatih Belediye Başkanı’ndan Arınç’a bomba sözler! Sessizliğini fena bozdu!</description>
     </item>
   </channel>
 </rss>
