@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 11:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 12:00:56 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Senem Toluay Ilgaz ile Öncesi Sonrası | 14 Eylül</title>
+      <link>https://www.youtube.com/watch?v=zF8TVFUIZ88</link>
+      <guid isPermaLink="false">zF8TVFUIZ88</guid>
+      <pubDate>Mon, 14 Sep 2026 11:57:24 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Senem Toluay Ilgaz ile Öncesi Sonrası | 14 Eylül</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Cumhurbaşkanı Erdoğan, eğitim yılı ve ve eğitim yatırımlarının açılışında konuşuyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=dS8F6_TFDtA</link>
@@ -34,6 +41,13 @@
       <guid isPermaLink="false">NiNUaZVyJ5A</guid>
       <pubDate>Mon, 14 Sep 2026 11:42:44 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Kurtlar Vadisi senaristleri, Kozinoğlu soruşturmasında ifade vermek üzere Silivri Adliyesi’nde!</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Milyonlarca öğrenci için ders zili bugün çaldı… 2026-2027 eğitim-öğretim yılı nasıl geçecek?</title>
+      <link>https://www.youtube.com/watch?v=Qy3606gCDSo</link>
+      <guid isPermaLink="false">Qy3606gCDSo</guid>
+      <pubDate>Mon, 14 Sep 2026 11:40:28 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Milyonlarca öğrenci için ders zili bugün çaldı… 2026-2027 eğitim-öğretim yılı nasıl geçecek?</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Zülfü Livaneli'den Enver Aysever'e Sert Tepki! "HUZUR VER KARDEŞİM' İlk Kez Sözcü TV'ye Konuştu!</title>
@@ -309,11 +323,11 @@
       <description>Halk TV kanalından yeni video: REKOR ÜSTÜNE REKOR! Ali Mahir Başarır, YENİ Parti'nin üye sayısını açıkladı! Dudak uçuklatacak!</description>
     </item>
     <item>
-      <title>Tele2 Haber: #CANLI Hilmi Hacaloğlu ve Ersin Eroğlu ile Kayıt Dışı (14.09.2026)</title>
+      <title>Tele2 Haber: Hilmi Hacaloğlu ve Ersin Eroğlu ile Kayıt Dışı (14.09.2026)</title>
       <link>https://www.youtube.com/watch?v=qJbC9z1a6Ok</link>
       <guid isPermaLink="false">qJbC9z1a6Ok</guid>
       <pubDate>Mon, 14 Sep 2026 09:04:20 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Hilmi Hacaloğlu ve Ersin Eroğlu ile Kayıt Dışı (14.09.2026)</description>
+      <description>Tele2 Haber kanalından yeni video: Hilmi Hacaloğlu ve Ersin Eroğlu ile Kayıt Dışı (14.09.2026)</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti İstanbul Milletvekili Suat Özçağdaş, TBMM'de basın toplantısı yapıyor #Canlı</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">HdcapvCQBfQ</guid>
       <pubDate>Mon, 14 Sep 2026 09:00:07 +0000</pubDate>
       <description>Halk TV kanalından yeni video: MİLYONLUK ALTINLAR ODUNLUKTAN ÇIKMIŞTI! 'Kara Haydar'ın eşi Çağla Öz adliyeye sevk edildi!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Mustafa Balbay'dan Bomba Ankara ve Mansur Yavaş Kulisleri: "Adaylığı İstiyor Ama Çırpınmıyor!"</title>
-      <link>https://www.youtube.com/watch?v=SaDDhKiFnHs</link>
-      <guid isPermaLink="false">SaDDhKiFnHs</guid>
-      <pubDate>Mon, 14 Sep 2026 09:00:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Mustafa Balbay'dan Bomba Ankara ve Mansur Yavaş Kulisleri: "Adaylığı İstiyor Ama Çırpınmıyor!"</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Eğitim İş Sendikası üyeleri, Milli Eğitim Bakanlığı önünde basın açıklaması yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=VKrbPV2snzY</link>
-      <guid isPermaLink="false">VKrbPV2snzY</guid>
-      <pubDate>Mon, 14 Sep 2026 08:59:43 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Eğitim İş Sendikası üyeleri, Milli Eğitim Bakanlığı önünde basın açıklaması yapıyor #Canlı</description>
     </item>
   </channel>
 </rss>
