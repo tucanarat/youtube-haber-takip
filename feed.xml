@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 09:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 09:25:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: REKOR ÜSTÜNE REKOR! Ali Mahir Başarır, YENİ Parti'nin üye sayısını açıkladı! Dudak uçuklatacak!</title>
+      <link>https://www.youtube.com/watch?v=13neHi0ZFZE</link>
+      <guid isPermaLink="false">13neHi0ZFZE</guid>
+      <pubDate>Mon, 14 Sep 2026 09:15:33 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: REKOR ÜSTÜNE REKOR! Ali Mahir Başarır, YENİ Parti'nin üye sayısını açıkladı! Dudak uçuklatacak!</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI Hilmi Hacaloğlu ve Ersin Eroğlu ile Kayıt Dışı (14.09.2026)</title>
       <link>https://www.youtube.com/watch?v=qJbC9z1a6Ok</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">7UHODQTq1XE</guid>
       <pubDate>Mon, 14 Sep 2026 04:01:40 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Gökhan Kayış ile Günaydın Türkiye (14 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Cumhurbaşkanı Recep Tayyip Erdoğan, Samsun Şehir Hastanesi Açılış Töreni'nde konuşuyor / #Canlı</title>
-      <link>https://www.youtube.com/watch?v=Krhmre_c-ak</link>
-      <guid isPermaLink="false">Krhmre_c-ak</guid>
-      <pubDate>Mon, 14 Sep 2026 01:55:58 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Cumhurbaşkanı Recep Tayyip Erdoğan, Samsun Şehir Hastanesi Açılış Töreni'nde konuşuyor / #Canlı</description>
     </item>
   </channel>
 </rss>
