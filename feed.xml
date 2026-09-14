@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 13:12:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 13:15:39 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: "UTANARAK İZLEDİM" Bülent Arınç Melih Gökçek'in Adliyeye Giriş Görüntülerine Tepki Gösterdi!</title>
+      <link>https://www.youtube.com/watch?v=ydtuVkU5sDc</link>
+      <guid isPermaLink="false">ydtuVkU5sDc</guid>
+      <pubDate>Mon, 14 Sep 2026 13:14:26 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "UTANARAK İZLEDİM" Bülent Arınç Melih Gökçek'in Adliyeye Giriş Görüntülerine Tepki Gösterdi!</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI İBB Meclis üyesi Sibel Tan Çetinkaya açıklama yapıyor</title>
       <link>https://www.youtube.com/watch?v=iIKJoyz9nb4</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">IXgK0cuhq-s</guid>
       <pubDate>Mon, 14 Sep 2026 10:50:36 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Ardahan’da pazar alışverişi cep yakıyor! Vatandaşlar fiyatlara tepki gösterdi</description>
-    </item>
-    <item>
-      <title>Halk TV: Adalet Peşinde Aileleri Platformu, Ezgi Apartmanı Kararına İlişkin Açıklama Yaptı!</title>
-      <link>https://www.youtube.com/watch?v=x4hu4Td1zEE</link>
-      <guid isPermaLink="false">x4hu4Td1zEE</guid>
-      <pubDate>Mon, 14 Sep 2026 10:46:43 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Adalet Peşinde Aileleri Platformu, Ezgi Apartmanı Kararına İlişkin Açıklama Yaptı!</description>
     </item>
   </channel>
 </rss>
