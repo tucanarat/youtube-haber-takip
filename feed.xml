@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 17:00:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 17:05:27 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (14 Eylül 2026)</title>
+      <link>https://www.youtube.com/watch?v=6uGRFHnG2xE</link>
+      <guid isPermaLink="false">6uGRFHnG2xE</guid>
+      <pubDate>Mon, 14 Sep 2026 17:00:39 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (14 Eylül 2026)</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Şamil Tayyar 'üst yargıdan dostlarla' görüşmesini niye sildi? Butlan CHP'sinden kurultay kararı!</title>
+      <link>https://www.youtube.com/watch?v=47JnMd8VS10</link>
+      <guid isPermaLink="false">47JnMd8VS10</guid>
+      <pubDate>Mon, 14 Sep 2026 17:00:30 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Şamil Tayyar 'üst yargıdan dostlarla' görüşmesini niye sildi? Butlan CHP'sinden kurultay kararı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Kaşif Kozinoğlu'nun Sır Ölüm Dosyasında Kurtlar Vadisi Detayı! Senaristlere Olay Kozinoğlu Sorgusu</title>
       <link>https://www.youtube.com/watch?v=jGUyhnzMxig</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">QQznOcSmQU8</guid>
       <pubDate>Mon, 14 Sep 2026 13:45:15 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ANKARA'DA TANSİYON ZİRVE YAPTI! Bülent Arınç'ın sözlerine Melih Gökçek'ten zehir zemberek açıklama!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Erdoğan, PISA 2025 verilerini eleştirenleri hedef aldı: 'Kompleksli zihniyetin hezeyanları!'</title>
-      <link>https://www.youtube.com/watch?v=tE6H0AT67yM</link>
-      <guid isPermaLink="false">tE6H0AT67yM</guid>
-      <pubDate>Mon, 14 Sep 2026 13:41:24 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Erdoğan, PISA 2025 verilerini eleştirenleri hedef aldı: 'Kompleksli zihniyetin hezeyanları!'</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "ÜSKÜDAR HALKININ VERDİĞİ YETKİ EKSİK!" Sibel Tan Çetinkaya'dan AKP Sıralarına Üsküdar Tepkisi!</title>
-      <link>https://www.youtube.com/watch?v=CNGaHbhgS6E</link>
-      <guid isPermaLink="false">CNGaHbhgS6E</guid>
-      <pubDate>Mon, 14 Sep 2026 13:40:31 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "ÜSKÜDAR HALKININ VERDİĞİ YETKİ EKSİK!" Sibel Tan Çetinkaya'dan AKP Sıralarına Üsküdar Tepkisi!</description>
     </item>
   </channel>
 </rss>
