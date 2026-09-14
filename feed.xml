@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 14:35:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 14:40:37 +0000</lastBuildDate>
     <item>
       <title>Halk TV: BÜYÜK RİSK ALTINDA OLABİLİRSİNİZ! Pusula Yatırım'da neler oluyor? Uzman isimden korkutan senaryo!</title>
       <link>https://www.youtube.com/watch?v=7Wucka3KOCQ</link>
       <guid isPermaLink="false">7Wucka3KOCQ</guid>
       <pubDate>Mon, 14 Sep 2026 14:30:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BÜYÜK RİSK ALTINDA OLABİLİRSİNİZ! Pusula Yatırım'da neler oluyor? Uzman isimden korkutan senaryo!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: "Mansur Yavaş CHP'deki Negatif Algıdan Pay Almak İstemiyor!" Mansur Yavaş Ne Yapacak?</title>
+      <link>https://www.youtube.com/watch?v=xEfMM9XHN6A</link>
+      <guid isPermaLink="false">xEfMM9XHN6A</guid>
+      <pubDate>Mon, 14 Sep 2026 14:30:01 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "Mansur Yavaş CHP'deki Negatif Algıdan Pay Almak İstemiyor!" Mansur Yavaş Ne Yapacak?</description>
     </item>
     <item>
       <title>SÖZCÜ TV: TÜRKİYE'YE KARŞI YENİ CEPHE! ABD Fransa ve İsrail! Sınırımızdaki Tehlikeyi Naim Babüroğlu Anlattı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">3P8S3-2lnW0</guid>
       <pubDate>Mon, 14 Sep 2026 12:00:07 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Suat Özçağdaş, iktidara seslendi! Milli Eğitim Bakanı Yusuf Tekin'e '6 Temmuz’ eleştirisi...</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Senem Toluay Ilgaz ile Öncesi Sonrası | 14 Eylül</title>
-      <link>https://www.youtube.com/watch?v=zF8TVFUIZ88</link>
-      <guid isPermaLink="false">zF8TVFUIZ88</guid>
-      <pubDate>Mon, 14 Sep 2026 11:57:24 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Senem Toluay Ilgaz ile Öncesi Sonrası | 14 Eylül</description>
     </item>
   </channel>
 </rss>
