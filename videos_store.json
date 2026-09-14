@@ -46585,7 +46585,7 @@
   },
   "MvBTzqqrS3c": {
     "id": "MvBTzqqrS3c",
-    "title": "#CANLI | Ece Üner ile Halk Ana Haber | #pahalı",
+    "title": "Ece Üner ile Halk Ana Haber | #pahalı (14 Eylül 2026)",
     "link": "https://www.youtube.com/watch?v=MvBTzqqrS3c",
     "published": "2026-09-14T14:39:59+00:00",
     "published_ts": 1789396799,
@@ -46766,5 +46766,21 @@
     "published": "2026-09-14T16:31:47+00:00",
     "published_ts": 1789403507,
     "channel_name": "Tele2 Haber"
+  },
+  "ga3tpeqeuNk": {
+    "id": "ga3tpeqeuNk",
+    "title": "Mehmet Fatih Tançalan'dan sonra Çağla Öz de tutuklandı: Anne Nilgün Oya ise gözaltında!",
+    "link": "https://www.youtube.com/watch?v=ga3tpeqeuNk",
+    "published": "2026-09-14T16:41:12+00:00",
+    "published_ts": 1789404072,
+    "channel_name": "Halk TV"
+  },
+  "RlQAkBLoQGM": {
+    "id": "RlQAkBLoQGM",
+    "title": "#CANLI | Gökmen Karadağ ile Açıkça",
+    "link": "https://www.youtube.com/watch?v=RlQAkBLoQGM",
+    "published": "2026-09-14T16:40:37+00:00",
+    "published_ts": 1789404037,
+    "channel_name": "Halk TV"
   }
 }

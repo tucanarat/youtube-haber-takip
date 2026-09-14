@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 16:45:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 16:50:35 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Mehmet Fatih Tançalan'dan sonra Çağla Öz de tutuklandı: Anne Nilgün Oya ise gözaltında!</title>
+      <link>https://www.youtube.com/watch?v=ga3tpeqeuNk</link>
+      <guid isPermaLink="false">ga3tpeqeuNk</guid>
+      <pubDate>Mon, 14 Sep 2026 16:41:12 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Mehmet Fatih Tançalan'dan sonra Çağla Öz de tutuklandı: Anne Nilgün Oya ise gözaltında!</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Gökmen Karadağ ile Açıkça</title>
+      <link>https://www.youtube.com/watch?v=RlQAkBLoQGM</link>
+      <guid isPermaLink="false">RlQAkBLoQGM</guid>
+      <pubDate>Mon, 14 Sep 2026 16:40:37 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Gökmen Karadağ ile Açıkça</description>
+    </item>
     <item>
       <title>Tele2 Haber: İBB MECLİSİ'NDE "KOCAN NEREDE?" KAVGASI! AKP'li üyeden skandal sözler...</title>
       <link>https://www.youtube.com/shorts/-sJ7Ta-Rk2c</link>
@@ -190,11 +204,11 @@
       <description>SÖZCÜ TV kanalından yeni video: ANKARA KULİSLERİ YANIYOR! Erdoğan'ın Seçim Tarihi Deşifre Oldu! CHP'den Kurultay Hamlesi!</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | Ece Üner ile Halk Ana Haber | #pahalı</title>
+      <title>Halk TV: Ece Üner ile Halk Ana Haber | #pahalı (14 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=MvBTzqqrS3c</link>
       <guid isPermaLink="false">MvBTzqqrS3c</guid>
       <pubDate>Mon, 14 Sep 2026 14:39:59 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Ece Üner ile Halk Ana Haber | #pahalı</description>
+      <description>Halk TV kanalından yeni video: Ece Üner ile Halk Ana Haber | #pahalı (14 Eylül 2026)</description>
     </item>
     <item>
       <title>Halk TV: YENİ Partili Umut Akdoğan'dan öğrencilere ücretsiz sıcak yemek çağrısı: Bütçenin %1'i yeter!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">XerDefqpQDA</guid>
       <pubDate>Mon, 14 Sep 2026 13:28:03 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI İBB Meclisi tartışmalarla başladı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: AKP ve MHP Arasında Bilek Güreşi! Ankara Kulislerini Sarsan Senaryoyu Barış Terkoğlu Anlatıyor</title>
-      <link>https://www.youtube.com/watch?v=U4eGeqORLIc</link>
-      <guid isPermaLink="false">U4eGeqORLIc</guid>
-      <pubDate>Mon, 14 Sep 2026 13:20:35 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: AKP ve MHP Arasında Bilek Güreşi! Ankara Kulislerini Sarsan Senaryoyu Barış Terkoğlu Anlatıyor</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: İBB Meclis üyesi Sibel Tan Çetinkaya açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=-to5m7qLJh8</link>
-      <guid isPermaLink="false">-to5m7qLJh8</guid>
-      <pubDate>Mon, 14 Sep 2026 13:19:48 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: İBB Meclis üyesi Sibel Tan Çetinkaya açıklama yapıyor #Canlı</description>
     </item>
   </channel>
 </rss>
