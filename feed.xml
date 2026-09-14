@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 22:30:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 22:35:31 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Eski MİT'çi Kaşif Kozinoğlu'nun Şüpheli Ölümü! Silivri’deki Sır Dolu Anlar! Kurtlar Vadisi İtirafı</title>
+      <link>https://www.youtube.com/watch?v=vqfQQaAQkQM</link>
+      <guid isPermaLink="false">vqfQQaAQkQM</guid>
+      <pubDate>Mon, 14 Sep 2026 22:20:29 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Eski MİT'çi Kaşif Kozinoğlu'nun Şüpheli Ölümü! Silivri’deki Sır Dolu Anlar! Kurtlar Vadisi İtirafı</description>
+    </item>
     <item>
       <title>Halk TV: TIR ŞOFÖRLERİ TOPLANDI! Kapıkule yakınında basına konuştular: Patronların iki dudağı arasındayız!</title>
       <link>https://www.youtube.com/watch?v=xO_CoeHpi38</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">McPi0OCrWUo</guid>
       <pubDate>Mon, 14 Sep 2026 17:45:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: KOZİNOĞLU'NUN AVUKATINA KAN DONDURAN E-POSTA! Öyle şeyler yazılmış ki! Detaylar tüyler ürpertecek!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Bülent Arınç'ın 13 Dakikalık Düğün Konuşması Beştepe'yi Ayağa Kaldırdı! Gökçek Krizi Büyüyor</title>
-      <link>https://www.youtube.com/watch?v=jD5M0G7DWfw</link>
-      <guid isPermaLink="false">jD5M0G7DWfw</guid>
-      <pubDate>Mon, 14 Sep 2026 17:40:00 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Bülent Arınç'ın 13 Dakikalık Düğün Konuşması Beştepe'yi Ayağa Kaldırdı! Gökçek Krizi Büyüyor</description>
     </item>
   </channel>
 </rss>
