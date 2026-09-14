@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 14:10:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 14:15:36 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: Serap Belovacıklı ile Haber Saati | 14 Eylül</title>
       <link>https://www.youtube.com/watch?v=9-hDPz_2BhA</link>
       <guid isPermaLink="false">9-hDPz_2BhA</guid>
       <pubDate>Mon, 14 Sep 2026 14:10:30 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Serap Belovacıklı ile Haber Saati | 14 Eylül</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Adana’da okulun ilk gününde renkli görüntüler: Minik öğrencilere davul zurnalı karşılama!</title>
+      <link>https://www.youtube.com/shorts/_DtxH43FuEA</link>
+      <guid isPermaLink="false">_DtxH43FuEA</guid>
+      <pubDate>Mon, 14 Sep 2026 14:02:01 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Adana’da okulun ilk gününde renkli görüntüler: Minik öğrencilere davul zurnalı karşılama!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: İsrail'in Nefes Borusu Kesilecek! İran, Rusya ve Çin Ne Planlıyor? Nevzat Çiçek Haritada Anlattı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">4VxYOQrjYBI</guid>
       <pubDate>Mon, 14 Sep 2026 11:45:17 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Binlerce insan diken üstünde! Katılımevim ve Birevim de bakın neler oluyor!</description>
-    </item>
-    <item>
-      <title>Halk TV: Kurtlar Vadisi senaristleri, Kozinoğlu soruşturmasında ifade vermek üzere Silivri Adliyesi’nde!</title>
-      <link>https://www.youtube.com/shorts/NiNUaZVyJ5A</link>
-      <guid isPermaLink="false">NiNUaZVyJ5A</guid>
-      <pubDate>Mon, 14 Sep 2026 11:42:44 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Kurtlar Vadisi senaristleri, Kozinoğlu soruşturmasında ifade vermek üzere Silivri Adliyesi’nde!</description>
     </item>
   </channel>
 </rss>
