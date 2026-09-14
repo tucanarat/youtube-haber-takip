@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 13:25:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 13:30:46 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: AKP ve MHP Arasında Bilek Güreşi! Ankara Kulislerini Sarsan Senaryoyu Barış Terkoğlu Anlatıyor</title>
+      <link>https://www.youtube.com/watch?v=U4eGeqORLIc</link>
+      <guid isPermaLink="false">U4eGeqORLIc</guid>
+      <pubDate>Mon, 14 Sep 2026 13:20:35 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: AKP ve MHP Arasında Bilek Güreşi! Ankara Kulislerini Sarsan Senaryoyu Barış Terkoğlu Anlatıyor</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: İBB Meclis üyesi Sibel Tan Çetinkaya açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=-to5m7qLJh8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">7Wucka3KOCQ</guid>
       <pubDate>Mon, 14 Sep 2026 11:05:31 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BÜYÜK RİSK ALTINDA OLABİLİRSİNİZ! Pusula Yatırım'da neler oluyor? Uzman isimden korkutan senaryo!</description>
-    </item>
-    <item>
-      <title>Halk TV: Köye dönüş yaptı, çiftçiliğe başladı ama destek alamadı! “Bu destekler nereye gidiyor?”</title>
-      <link>https://www.youtube.com/shorts/wWFJF1gG7pg</link>
-      <guid isPermaLink="false">wWFJF1gG7pg</guid>
-      <pubDate>Mon, 14 Sep 2026 11:02:11 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Köye dönüş yaptı, çiftçiliğe başladı ama destek alamadı! “Bu destekler nereye gidiyor?”</description>
     </item>
   </channel>
 </rss>
