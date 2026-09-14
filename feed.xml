@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 19:25:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 19:30:49 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: MİNİBÜSTE KREDİ KARTI! Yurttaş, artan ulaşım ücretleri ile kredi kartıyla baş etmeye çalışıyor!</title>
+      <link>https://www.youtube.com/watch?v=MuU816p6u2E</link>
+      <guid isPermaLink="false">MuU816p6u2E</guid>
+      <pubDate>Mon, 14 Sep 2026 19:30:04 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: MİNİBÜSTE KREDİ KARTI! Yurttaş, artan ulaşım ücretleri ile kredi kartıyla baş etmeye çalışıyor!</description>
+    </item>
     <item>
       <title>Halk TV: KURTLAR VADİSİ BOMBASI! Senaristler ifade verdi! Kozinoğlu dosyasında sır perdeleri aralanacak mı?</title>
       <link>https://www.youtube.com/watch?v=o40PdOzVTsw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">iyrnpXAeYHA</guid>
       <pubDate>Mon, 14 Sep 2026 16:00:32 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: GİZLİ HAT KOPTU! İsrail Türkiye'nin Kırmızı Çizgisini Aştı! Nevzat Çiçek'ten Bomba Kulisler</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #SONDAKİKA Ezgi Apartmanı davasında tahliyelere itiraz reddedildi! Ailelerden Akın Gürlek'e tepki!</title>
-      <link>https://www.youtube.com/watch?v=nr9RilM9KPg</link>
-      <guid isPermaLink="false">nr9RilM9KPg</guid>
-      <pubDate>Mon, 14 Sep 2026 15:56:19 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #SONDAKİKA Ezgi Apartmanı davasında tahliyelere itiraz reddedildi! Ailelerden Akın Gürlek'e tepki!</description>
     </item>
   </channel>
 </rss>
