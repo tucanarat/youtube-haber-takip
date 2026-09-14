@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 19:50:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 19:55:27 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: KARARSIZ SEÇMEN NASIL İKNA EDİLECEK? Gamze Taşçıer: "Kararsız seçmen, AKP'ye oy vermemekte kararlı!"</title>
+      <link>https://www.youtube.com/watch?v=NQByMteciq0</link>
+      <guid isPermaLink="false">NQByMteciq0</guid>
+      <pubDate>Mon, 14 Sep 2026 19:45:21 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KARARSIZ SEÇMEN NASIL İKNA EDİLECEK? Gamze Taşçıer: "Kararsız seçmen, AKP'ye oy vermemekte kararlı!"</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Mansur Yavaş Erdoğan Zirvesinin Sırrını İsmail Saymaz Çözdü! Gündem Olacak Kılıçdaroğlu Çıkışı</title>
       <link>https://www.youtube.com/watch?v=pWw4h2nl6y4</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">XseHkQlqwnY</guid>
       <pubDate>Mon, 14 Sep 2026 16:20:21 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: CHP'li Adalar Belediyesi'nde başkan vekili istifa etti! Murat Taylan'dan 'Üsküdar' sorusu!</description>
-    </item>
-    <item>
-      <title>Halk TV: KOĞUŞ GARDİYANI FETÖ’CÜYMÜŞ! İşte Kozinoğlu'nun öldüğü gün dakika dakika yaşananlar! Korkunç detay!</title>
-      <link>https://www.youtube.com/watch?v=EjS-GHyxuH0</link>
-      <guid isPermaLink="false">EjS-GHyxuH0</guid>
-      <pubDate>Mon, 14 Sep 2026 16:15:34 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KOĞUŞ GARDİYANI FETÖ’CÜYMÜŞ! İşte Kozinoğlu'nun öldüğü gün dakika dakika yaşananlar! Korkunç detay!</description>
     </item>
   </channel>
 </rss>
