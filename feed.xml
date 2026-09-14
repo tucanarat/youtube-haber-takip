@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 20:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 21:00:54 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: İzmir'de 'Ailem Güvende' operasyonuna protesto: Polis biber gazıyla müdahale etti!</title>
+      <link>https://www.youtube.com/watch?v=EJr4AFtmm-I</link>
+      <guid isPermaLink="false">EJr4AFtmm-I</guid>
+      <pubDate>Mon, 14 Sep 2026 21:00:21 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: İzmir'de 'Ailem Güvende' operasyonuna protesto: Polis biber gazıyla müdahale etti!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Yunanistan Adalarda Ateşle Oynuyor! Özlem Gürses Haritada Anlattı! Miçotakis'ten Meis Adası Hamlesi</title>
       <link>https://www.youtube.com/watch?v=u6KB_muts0E</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ga3tpeqeuNk</guid>
       <pubDate>Mon, 14 Sep 2026 16:41:12 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Mehmet Fatih Tançalan'dan sonra Çağla Öz de tutuklandı: Anne Nilgün Oya ise gözaltında!</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Gökmen Karadağ ile Açıkça</title>
-      <link>https://www.youtube.com/watch?v=RlQAkBLoQGM</link>
-      <guid isPermaLink="false">RlQAkBLoQGM</guid>
-      <pubDate>Mon, 14 Sep 2026 16:40:37 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Gökmen Karadağ ile Açıkça</description>
     </item>
   </channel>
 </rss>
