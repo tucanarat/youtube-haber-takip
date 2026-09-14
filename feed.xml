@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 16:50:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 16:55:27 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Özlem Gürses ile Sözcü Ana Haber | 14 Eylül</title>
+      <link>https://www.youtube.com/watch?v=5SD1cWq7oSU</link>
+      <guid isPermaLink="false">5SD1cWq7oSU</guid>
+      <pubDate>Mon, 14 Sep 2026 16:54:00 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses ile Sözcü Ana Haber | 14 Eylül</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: YENİ Parti Bağcılar İlçe Başkanlığı açılışı / İstanbul #Canlı</title>
+      <link>https://www.youtube.com/watch?v=K-zMS7q9o-w</link>
+      <guid isPermaLink="false">K-zMS7q9o-w</guid>
+      <pubDate>Mon, 14 Sep 2026 16:47:29 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Bağcılar İlçe Başkanlığı açılışı / İstanbul #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: Mehmet Fatih Tançalan'dan sonra Çağla Öz de tutuklandı: Anne Nilgün Oya ise gözaltında!</title>
       <link>https://www.youtube.com/watch?v=ga3tpeqeuNk</link>
@@ -20,6 +34,13 @@
       <guid isPermaLink="false">RlQAkBLoQGM</guid>
       <pubDate>Mon, 14 Sep 2026 16:40:37 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | Gökmen Karadağ ile Açıkça</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: 11 Aylık Büşra Bebeğe Ne Oldu? Özlem Gürses'in Boğazı Düğümlendi! Sivas'ta Kan Donduran Pazarlık</title>
+      <link>https://www.youtube.com/watch?v=MJR_fdy-WrA</link>
+      <guid isPermaLink="false">MJR_fdy-WrA</guid>
+      <pubDate>Mon, 14 Sep 2026 16:40:36 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: 11 Aylık Büşra Bebeğe Ne Oldu? Özlem Gürses'in Boğazı Düğümlendi! Sivas'ta Kan Donduran Pazarlık</description>
     </item>
     <item>
       <title>Tele2 Haber: İBB MECLİSİ'NDE "KOCAN NEREDE?" KAVGASI! AKP'li üyeden skandal sözler...</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">S7iFKao_Oo0</guid>
       <pubDate>Mon, 14 Sep 2026 13:35:23 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İBB Meclis Üyesi Sibel Tan Çetinkaya Açıklama Yaptı! (14 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: 'TEK SEÇENEK' DİYEREK YATIRIMCIYI UYARDI! Kerim Rota kritik senaryoyu çizdi! Dinlemeden geçmeyin!</title>
-      <link>https://www.youtube.com/watch?v=o2xHbhbyd2Y</link>
-      <guid isPermaLink="false">o2xHbhbyd2Y</guid>
-      <pubDate>Mon, 14 Sep 2026 13:30:16 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: 'TEK SEÇENEK' DİYEREK YATIRIMCIYI UYARDI! Kerim Rota kritik senaryoyu çizdi! Dinlemeden geçmeyin!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI İBB Meclis üyesi Sibel Tan Çetinkaya açıklama yapıyor</title>
-      <link>https://www.youtube.com/watch?v=iIKJoyz9nb4</link>
-      <guid isPermaLink="false">iIKJoyz9nb4</guid>
-      <pubDate>Mon, 14 Sep 2026 13:29:18 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI İBB Meclis üyesi Sibel Tan Çetinkaya açıklama yapıyor</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI İBB Meclisi tartışmalarla başladı</title>
-      <link>https://www.youtube.com/watch?v=XerDefqpQDA</link>
-      <guid isPermaLink="false">XerDefqpQDA</guid>
-      <pubDate>Mon, 14 Sep 2026 13:28:03 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI İBB Meclisi tartışmalarla başladı</description>
     </item>
   </channel>
 </rss>
