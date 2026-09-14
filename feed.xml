@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 08:10:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 08:15:37 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: İsmail Küçükkaya ile Günaydın Türkiyem | 14 Eylül</title>
       <link>https://www.youtube.com/watch?v=GFoqi4Ba_64</link>
       <guid isPermaLink="false">GFoqi4Ba_64</guid>
       <pubDate>Mon, 14 Sep 2026 08:03:26 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya ile Günaydın Türkiyem | 14 Eylül</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Boz, yap, bir daha yap - Güven Baykan</title>
+      <link>https://www.youtube.com/watch?v=jnHTK8FRvRQ</link>
+      <guid isPermaLink="false">jnHTK8FRvRQ</guid>
+      <pubDate>Mon, 14 Sep 2026 08:03:02 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Boz, yap, bir daha yap - Güven Baykan</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Timur Soykan Eski Defterleri Açtı İsyan Etti | Zekeriya Öz, Melih Gökçek, Kaşif Kozinoğlu, FETÖ</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">B1vrmp4sTtQ</guid>
       <pubDate>Sun, 13 Sep 2026 20:55:27 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Yavaş'a sert tepki! Bahadır Özgür: 30 yıllık gazeteciyim, görüşmeyi neden kulis olarak öğreniyorum?</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Bülent Arınç Melih Gökçek Kavgası Büyüyor! Ankara Siyasetinin Karanlık Dosyaları Açılıyor</title>
-      <link>https://www.youtube.com/watch?v=eLSdY3ulGhc</link>
-      <guid isPermaLink="false">eLSdY3ulGhc</guid>
-      <pubDate>Sun, 13 Sep 2026 20:50:36 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Bülent Arınç Melih Gökçek Kavgası Büyüyor! Ankara Siyasetinin Karanlık Dosyaları Açılıyor</description>
     </item>
   </channel>
 </rss>
