@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 13:20:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 13:25:25 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: İBB Meclis üyesi Sibel Tan Çetinkaya açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=-to5m7qLJh8</link>
       <guid isPermaLink="false">-to5m7qLJh8</guid>
       <pubDate>Mon, 14 Sep 2026 13:19:48 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: İBB Meclis üyesi Sibel Tan Çetinkaya açıklama yapıyor #Canlı</description>
+    </item>
+    <item>
+      <title>Halk TV: CUMHUR'DA TAŞLAR YERİNDEN OYNAYACAK! MHP’li Celal Adan tartışmanın fitilini ateşledi! Dönüşü yok!</title>
+      <link>https://www.youtube.com/watch?v=c8QiME8LKe4</link>
+      <guid isPermaLink="false">c8QiME8LKe4</guid>
+      <pubDate>Mon, 14 Sep 2026 13:15:42 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: CUMHUR'DA TAŞLAR YERİNDEN OYNAYACAK! MHP’li Celal Adan tartışmanın fitilini ateşledi! Dönüşü yok!</description>
     </item>
     <item>
       <title>Tele2 Haber: "UTANARAK İZLEDİM" Bülent Arınç Melih Gökçek'in Adliyeye Giriş Görüntülerine Tepki Gösterdi!</title>
@@ -27,6 +34,13 @@
       <guid isPermaLink="false">R6QSlXBXtag</guid>
       <pubDate>Mon, 14 Sep 2026 13:14:09 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Grup Başkanvekili Murat Emir, TBMM'de açıklama yapıyor #Canlı</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | İBB Meclis üyesi Sibel Tan Çetinkaya Açıklama Yapıyor!</title>
+      <link>https://www.youtube.com/watch?v=S7iFKao_Oo0</link>
+      <guid isPermaLink="false">S7iFKao_Oo0</guid>
+      <pubDate>Mon, 14 Sep 2026 13:11:00 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | İBB Meclis üyesi Sibel Tan Çetinkaya Açıklama Yapıyor!</description>
     </item>
     <item>
       <title>Tele2 Haber: #CANLI İBB Meclis üyesi Sibel Tan Çetinkaya açıklama yapıyor</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">wWFJF1gG7pg</guid>
       <pubDate>Mon, 14 Sep 2026 11:02:11 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Köye dönüş yaptı, çiftçiliğe başladı ama destek alamadı! “Bu destekler nereye gidiyor?”</description>
-    </item>
-    <item>
-      <title>Halk TV: SİLİVRİ'DE NEFESLER BU SAVUNMAYLA TUTULDU! İmamoğlu ne zaman kürsüye çıkacak? Gamze Altunay aktardı!</title>
-      <link>https://www.youtube.com/watch?v=cAThdA0xdHg</link>
-      <guid isPermaLink="false">cAThdA0xdHg</guid>
-      <pubDate>Mon, 14 Sep 2026 11:00:24 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SİLİVRİ'DE NEFESLER BU SAVUNMAYLA TUTULDU! İmamoğlu ne zaman kürsüye çıkacak? Gamze Altunay aktardı!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "HUKUKUN NERESİNE YERLEŞTİRİYORSUN?” Adalet Peşinde Aileleri Platformu, Adalet Bakanı'na seslendi!</title>
-      <link>https://www.youtube.com/watch?v=A8beKOwPfIU</link>
-      <guid isPermaLink="false">A8beKOwPfIU</guid>
-      <pubDate>Mon, 14 Sep 2026 11:00:09 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "HUKUKUN NERESİNE YERLEŞTİRİYORSUN?” Adalet Peşinde Aileleri Platformu, Adalet Bakanı'na seslendi!</description>
     </item>
   </channel>
 </rss>
