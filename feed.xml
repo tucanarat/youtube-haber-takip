@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 12:45:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 12:50:34 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: "Cumhurbaşkanlığı Seçimini Kazanması Güçlü İhtimal!" Kadir Atalay'dan Kritik Mansur Yavaş İddiası!</title>
+      <link>https://www.youtube.com/watch?v=LYY8RmwKAtY</link>
+      <guid isPermaLink="false">LYY8RmwKAtY</guid>
+      <pubDate>Mon, 14 Sep 2026 12:45:10 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "Cumhurbaşkanlığı Seçimini Kazanması Güçlü İhtimal!" Kadir Atalay'dan Kritik Mansur Yavaş İddiası!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: DÖNE KAYA, ADALET BAKANLĞI ÖNÜNDE 'ERDOĞAN FOTOĞRAFI' YASAĞINA İSYAN ETTİ!</title>
+      <link>https://www.youtube.com/shorts/U4mwxHGzYjI</link>
+      <guid isPermaLink="false">U4mwxHGzYjI</guid>
+      <pubDate>Mon, 14 Sep 2026 12:40:22 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: DÖNE KAYA, ADALET BAKANLĞI ÖNÜNDE 'ERDOĞAN FOTOĞRAFI' YASAĞINA İSYAN ETTİ!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: O PARANIN KAYNAĞI NE? İsmail Saymaz Gökçeklerin Sırrını Çözdü! "Bu AVM'yi Alacak Gücü Yok"</title>
       <link>https://www.youtube.com/watch?v=sOW4zdP4Bf8</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">MEdJo8bP0I8</guid>
       <pubDate>Mon, 14 Sep 2026 10:30:38 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SIKI DURUN! İktidar medyasının 'Yavaş' hamlesinin arkasından neler çıktı neler! Barış Övgün anlattı!</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti İstanbul Milletvekili Suat Özçağdaş, TBMM'de Basın Toplantısı Yaptı!</title>
-      <link>https://www.youtube.com/watch?v=L6UGJ9yJkRQ</link>
-      <guid isPermaLink="false">L6UGJ9yJkRQ</guid>
-      <pubDate>Mon, 14 Sep 2026 10:24:22 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti İstanbul Milletvekili Suat Özçağdaş, TBMM'de Basın Toplantısı Yaptı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Can Coşkun ile Gündem Masası | 14 Eylül</title>
-      <link>https://www.youtube.com/watch?v=TObhYeEFlbM</link>
-      <guid isPermaLink="false">TObhYeEFlbM</guid>
-      <pubDate>Mon, 14 Sep 2026 10:23:45 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Can Coşkun ile Gündem Masası | 14 Eylül</description>
     </item>
   </channel>
 </rss>
