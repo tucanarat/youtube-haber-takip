@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 09:10:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 09:15:31 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti İstanbul Milletvekili Suat Özçağdaş, TBMM'de basın toplantısı yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=TjwfL5bCj2o</link>
       <guid isPermaLink="false">TjwfL5bCj2o</guid>
       <pubDate>Mon, 14 Sep 2026 09:03:16 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti İstanbul Milletvekili Suat Özçağdaş, TBMM'de basın toplantısı yapıyor #Canlı</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Köye dönen emekli çiftçi isyan etti: Bu destekler nereye gidiyor?</title>
+      <link>https://www.youtube.com/watch?v=RCYCOMhfw18</link>
+      <guid isPermaLink="false">RCYCOMhfw18</guid>
+      <pubDate>Mon, 14 Sep 2026 09:02:28 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Köye dönen emekli çiftçi isyan etti: Bu destekler nereye gidiyor?</description>
+    </item>
+    <item>
+      <title>Halk TV: MİLYONLUK ALTINLAR ODUNLUKTAN ÇIKMIŞTI! 'Kara Haydar'ın eşi Çağla Öz adliyeye sevk edildi!</title>
+      <link>https://www.youtube.com/watch?v=HdcapvCQBfQ</link>
+      <guid isPermaLink="false">HdcapvCQBfQ</guid>
+      <pubDate>Mon, 14 Sep 2026 09:00:07 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: MİLYONLUK ALTINLAR ODUNLUKTAN ÇIKMIŞTI! 'Kara Haydar'ın eşi Çağla Öz adliyeye sevk edildi!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Mustafa Balbay'dan Bomba Ankara ve Mansur Yavaş Kulisleri: "Adaylığı İstiyor Ama Çırpınmıyor!"</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">vfZyQQykA_8</guid>
       <pubDate>Sun, 13 Sep 2026 22:30:30 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Timur Soykan Sarallar'ın Cephaneliğini Anlattı! Bahçeli'nin Mesajı! Suikast İddialarını Aydınlattı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Selçuk Özdağ'dan Bülent Arınç, Sedat Peker Çıkışı! Çarpıcı Melih Gökçek Sözleri! Murat Ağırel Detayı</title>
-      <link>https://www.youtube.com/watch?v=MrsCJV4PFo0</link>
-      <guid isPermaLink="false">MrsCJV4PFo0</guid>
-      <pubDate>Sun, 13 Sep 2026 22:10:12 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Selçuk Özdağ'dan Bülent Arınç, Sedat Peker Çıkışı! Çarpıcı Melih Gökçek Sözleri! Murat Ağırel Detayı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Özlem Gürses ile Sözcü Ana Haber</title>
-      <link>https://www.youtube.com/watch?v=5SD1cWq7oSU</link>
-      <guid isPermaLink="false">5SD1cWq7oSU</guid>
-      <pubDate>Sun, 13 Sep 2026 22:08:48 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses ile Sözcü Ana Haber</description>
     </item>
   </channel>
 </rss>
