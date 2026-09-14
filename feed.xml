@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 19:45:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 19:50:34 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Mansur Yavaş Erdoğan Zirvesinin Sırrını İsmail Saymaz Çözdü! Gündem Olacak Kılıçdaroğlu Çıkışı</title>
+      <link>https://www.youtube.com/watch?v=pWw4h2nl6y4</link>
+      <guid isPermaLink="false">pWw4h2nl6y4</guid>
+      <pubDate>Mon, 14 Sep 2026 19:40:08 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Mansur Yavaş Erdoğan Zirvesinin Sırrını İsmail Saymaz Çözdü! Gündem Olacak Kılıçdaroğlu Çıkışı</description>
+    </item>
     <item>
       <title>Tele2 Haber: "Zülfü Livaneli'den komple vazgeçin" Murat Taylan Yeni Parti'ye 2 şarkı önerisini yorumladı</title>
       <link>https://www.youtube.com/watch?v=EAUGB6eR7DQ</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">EjS-GHyxuH0</guid>
       <pubDate>Mon, 14 Sep 2026 16:15:34 +0000</pubDate>
       <description>Halk TV kanalından yeni video: KOĞUŞ GARDİYANI FETÖ’CÜYMÜŞ! İşte Kozinoğlu'nun öldüğü gün dakika dakika yaşananlar! Korkunç detay!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "ÜSTÜNE VAZİFE GİBİ..." Murat Emir'den İstanbul Valisi Gül'e çok sert tepki!</title>
-      <link>https://www.youtube.com/watch?v=kYIwEDLrC3Q</link>
-      <guid isPermaLink="false">kYIwEDLrC3Q</guid>
-      <pubDate>Mon, 14 Sep 2026 16:15:00 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "ÜSTÜNE VAZİFE GİBİ..." Murat Emir'den İstanbul Valisi Gül'e çok sert tepki!</description>
     </item>
   </channel>
 </rss>
