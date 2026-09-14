@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 15:30:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 15:35:27 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: İBB BAŞKANVEKİLİ NURİ ASLAN, AKP GRUBUNA BELEDİYE MECLİSİNDE TEŞEKKÜR ETTİ!</title>
+      <link>https://www.youtube.com/shorts/Hg2A4jxOzXQ</link>
+      <guid isPermaLink="false">Hg2A4jxOzXQ</guid>
+      <pubDate>Mon, 14 Sep 2026 15:25:59 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: İBB BAŞKANVEKİLİ NURİ ASLAN, AKP GRUBUNA BELEDİYE MECLİSİNDE TEŞEKKÜR ETTİ!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Trump'ın Büyük Kabusu! ABD'nin İran Planı Çöktü! Naim Babüroğlu Gizlenen Gerçeği Anlattı</title>
+      <link>https://www.youtube.com/watch?v=YNiI1XIWlp8</link>
+      <guid isPermaLink="false">YNiI1XIWlp8</guid>
+      <pubDate>Mon, 14 Sep 2026 15:20:03 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Trump'ın Büyük Kabusu! ABD'nin İran Planı Çöktü! Naim Babüroğlu Gizlenen Gerçeği Anlattı</description>
+    </item>
     <item>
       <title>Tele2 Haber: "YASAL OLUR AMA MEŞRU OLMAZ!" Kadir Atalay'dan AKP'li Ali İhsan Yavuz'a "Erken Seçim" Cevabı!</title>
       <link>https://www.youtube.com/watch?v=bSR8vRjfw2c</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">iX-WFlfAXCk</guid>
       <pubDate>Mon, 14 Sep 2026 12:20:15 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Millete hakaret - Örsan Öymen</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Hürmüz’den Kızıldeniz-Akdeniz’e kelebek etkisi - Mine Esen</title>
-      <link>https://www.youtube.com/watch?v=RaGzBXFTJNA</link>
-      <guid isPermaLink="false">RaGzBXFTJNA</guid>
-      <pubDate>Mon, 14 Sep 2026 12:20:09 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Hürmüz’den Kızıldeniz-Akdeniz’e kelebek etkisi - Mine Esen</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Doğruyu söylemenin cesaret olduğu zamanlar - Jale Özgentürk</title>
-      <link>https://www.youtube.com/watch?v=AHNi1eTkYh8</link>
-      <guid isPermaLink="false">AHNi1eTkYh8</guid>
-      <pubDate>Mon, 14 Sep 2026 12:20:06 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Doğruyu söylemenin cesaret olduğu zamanlar - Jale Özgentürk</description>
     </item>
   </channel>
 </rss>
