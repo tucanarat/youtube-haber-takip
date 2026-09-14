@@ -45830,5 +45830,21 @@
     "published": "2026-09-14T09:00:07+00:00",
     "published_ts": 1789376407,
     "channel_name": "Halk TV"
+  },
+  "qJbC9z1a6Ok": {
+    "id": "qJbC9z1a6Ok",
+    "title": "#CANLI Hilmi Hacaloğlu ve Ersin Eroğlu ile Kayıt Dışı (14.09.2026)",
+    "link": "https://www.youtube.com/watch?v=qJbC9z1a6Ok",
+    "published": "2026-09-14T09:04:20+00:00",
+    "published_ts": 1789376660,
+    "channel_name": "Tele2 Haber"
+  },
+  "pWpZEnHe-aQ": {
+    "id": "pWpZEnHe-aQ",
+    "title": "#CANLI Murat Taylan ile Haber-Yorum (14.09.2026)",
+    "link": "https://www.youtube.com/watch?v=pWpZEnHe-aQ",
+    "published": "2026-09-14T09:03:14+00:00",
+    "published_ts": 1789376594,
+    "channel_name": "Tele2 Haber"
   }
 }

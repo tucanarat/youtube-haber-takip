@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 09:15:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 09:20:33 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI Hilmi Hacaloğlu ve Ersin Eroğlu ile Kayıt Dışı (14.09.2026)</title>
+      <link>https://www.youtube.com/watch?v=qJbC9z1a6Ok</link>
+      <guid isPermaLink="false">qJbC9z1a6Ok</guid>
+      <pubDate>Mon, 14 Sep 2026 09:04:20 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Hilmi Hacaloğlu ve Ersin Eroğlu ile Kayıt Dışı (14.09.2026)</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti İstanbul Milletvekili Suat Özçağdaş, TBMM'de basın toplantısı yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=TjwfL5bCj2o</link>
       <guid isPermaLink="false">TjwfL5bCj2o</guid>
       <pubDate>Mon, 14 Sep 2026 09:03:16 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti İstanbul Milletvekili Suat Özçağdaş, TBMM'de basın toplantısı yapıyor #Canlı</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #CANLI Murat Taylan ile Haber-Yorum (14.09.2026)</title>
+      <link>https://www.youtube.com/watch?v=pWpZEnHe-aQ</link>
+      <guid isPermaLink="false">pWpZEnHe-aQ</guid>
+      <pubDate>Mon, 14 Sep 2026 09:03:14 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Murat Taylan ile Haber-Yorum (14.09.2026)</description>
     </item>
     <item>
       <title>Cumhuriyet: Köye dönen emekli çiftçi isyan etti: Bu destekler nereye gidiyor?</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">Krhmre_c-ak</guid>
       <pubDate>Mon, 14 Sep 2026 01:55:58 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Cumhurbaşkanı Recep Tayyip Erdoğan, Samsun Şehir Hastanesi Açılış Töreni'nde konuşuyor / #Canlı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Nevzat Çiçek'ten AKP'de Çatlak Çıkışı! Melih Gökçek - Davutoğlu Operasyonlarının Perde Arkası</title>
-      <link>https://www.youtube.com/watch?v=6MIbEOH06rI</link>
-      <guid isPermaLink="false">6MIbEOH06rI</guid>
-      <pubDate>Sun, 13 Sep 2026 23:00:22 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Nevzat Çiçek'ten AKP'de Çatlak Çıkışı! Melih Gökçek - Davutoğlu Operasyonlarının Perde Arkası</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Timur Soykan Sarallar'ın Cephaneliğini Anlattı! Bahçeli'nin Mesajı! Suikast İddialarını Aydınlattı</title>
-      <link>https://www.youtube.com/watch?v=vfZyQQykA_8</link>
-      <guid isPermaLink="false">vfZyQQykA_8</guid>
-      <pubDate>Sun, 13 Sep 2026 22:30:30 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Timur Soykan Sarallar'ın Cephaneliğini Anlattı! Bahçeli'nin Mesajı! Suikast İddialarını Aydınlattı</description>
     </item>
   </channel>
 </rss>
