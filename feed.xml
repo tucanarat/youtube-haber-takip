@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 16:10:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 16:15:32 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: "ÜSTÜNE VAZİFE GİBİ..." Murat Emir'den İstanbul Valisi Gül'e çok sert tepki!</title>
+      <link>https://www.youtube.com/watch?v=kYIwEDLrC3Q</link>
+      <guid isPermaLink="false">kYIwEDLrC3Q</guid>
+      <pubDate>Mon, 14 Sep 2026 16:15:00 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "ÜSTÜNE VAZİFE GİBİ..." Murat Emir'den İstanbul Valisi Gül'e çok sert tepki!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #CANLI İzmir'de LGBT+'lara yönelik operasyonlara karşı düzenlenen yürüyüşe polis engeli</title>
+      <link>https://www.youtube.com/watch?v=ciMN8Lw_1DI</link>
+      <guid isPermaLink="false">ciMN8Lw_1DI</guid>
+      <pubDate>Mon, 14 Sep 2026 16:13:19 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI İzmir'de LGBT+'lara yönelik operasyonlara karşı düzenlenen yürüyüşe polis engeli</description>
+    </item>
     <item>
       <title>Halk TV: YARGITAY UYARDI İDDİASI GÜNDEMİ SARSTI! YENİ Parti'ye yeni isim mi gelecek? Ankara çalkalanıyor!</title>
       <link>https://www.youtube.com/watch?v=INl_ulN3QcE</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">LYY8RmwKAtY</guid>
       <pubDate>Mon, 14 Sep 2026 12:45:10 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "Cumhurbaşkanlığı Seçimini Kazanması Güçlü İhtimal!" Kadir Atalay'dan Kritik Mansur Yavaş İddiası!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: DÖNE KAYA, ADALET BAKANLĞI ÖNÜNDE 'ERDOĞAN FOTOĞRAFI' YASAĞINA İSYAN ETTİ!</title>
-      <link>https://www.youtube.com/shorts/U4mwxHGzYjI</link>
-      <guid isPermaLink="false">U4mwxHGzYjI</guid>
-      <pubDate>Mon, 14 Sep 2026 12:40:22 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: DÖNE KAYA, ADALET BAKANLĞI ÖNÜNDE 'ERDOĞAN FOTOĞRAFI' YASAĞINA İSYAN ETTİ!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: O PARANIN KAYNAĞI NE? İsmail Saymaz Gökçeklerin Sırrını Çözdü! "Bu AVM'yi Alacak Gücü Yok"</title>
-      <link>https://www.youtube.com/watch?v=sOW4zdP4Bf8</link>
-      <guid isPermaLink="false">sOW4zdP4Bf8</guid>
-      <pubDate>Mon, 14 Sep 2026 12:30:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: O PARANIN KAYNAĞI NE? İsmail Saymaz Gökçeklerin Sırrını Çözdü! "Bu AVM'yi Alacak Gücü Yok"</description>
     </item>
   </channel>
 </rss>
