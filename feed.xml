@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 21:50:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 21:55:26 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Mansur Yavaş'tan Siyaseti Sarsacak Karar! Adaylık Planının Perde Arkası! Volkan Gültekin Anlattı</title>
+      <link>https://www.youtube.com/watch?v=2zge2hSM6u8</link>
+      <guid isPermaLink="false">2zge2hSM6u8</guid>
+      <pubDate>Mon, 14 Sep 2026 21:40:26 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Mansur Yavaş'tan Siyaseti Sarsacak Karar! Adaylık Planının Perde Arkası! Volkan Gültekin Anlattı</description>
+    </item>
     <item>
       <title>Halk TV: ÇOK KONUŞULACAK SÖZLER! MHP'nin planlarını tek tek açıkladı! Dr. Korkmaz'dan flaş açıklamalar!</title>
       <link>https://www.youtube.com/watch?v=7zg1uHPGYr8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">6uGRFHnG2xE</guid>
       <pubDate>Mon, 14 Sep 2026 17:00:39 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (14 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Şamil Tayyar 'üst yargıdan dostlarla' görüşmesini niye sildi? Butlan CHP'sinden kurultay kararı!</title>
-      <link>https://www.youtube.com/watch?v=47JnMd8VS10</link>
-      <guid isPermaLink="false">47JnMd8VS10</guid>
-      <pubDate>Mon, 14 Sep 2026 17:00:30 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Şamil Tayyar 'üst yargıdan dostlarla' görüşmesini niye sildi? Butlan CHP'sinden kurultay kararı!</description>
     </item>
   </channel>
 </rss>
