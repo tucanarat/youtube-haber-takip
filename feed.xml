@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 18:25:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 18:30:48 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Okulların açılmasıyla birlikte D-100 Karayolu’nda trafikte son durum #Canlı / İstanbul</title>
+      <link>https://www.youtube.com/watch?v=qlG5HSknUPU</link>
+      <guid isPermaLink="false">qlG5HSknUPU</guid>
+      <pubDate>Mon, 14 Sep 2026 18:20:08 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Okulların açılmasıyla birlikte D-100 Karayolu’nda trafikte son durum #Canlı / İstanbul</description>
+    </item>
     <item>
       <title>Halk TV: DÜNYA BU DİPLOMATI KONUŞUYOR! Hindistan’daki zirvede beklenmedik anlar kameraya böyle yansıdı!</title>
       <link>https://www.youtube.com/watch?v=XTTd6AD26UY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">SXP4Le7YKko</guid>
       <pubDate>Mon, 14 Sep 2026 14:53:51 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Gizem Çetin ile Parantez (14 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: 'BUTLAN' DAVASINDA ANKARA'YI SALLAYAN GELİŞME! CHP temyiz başvurusunu geri çekti! İşte detaylar!</title>
-      <link>https://www.youtube.com/watch?v=KVP1NmyOLbM</link>
-      <guid isPermaLink="false">KVP1NmyOLbM</guid>
-      <pubDate>Mon, 14 Sep 2026 14:45:15 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: 'BUTLAN' DAVASINDA ANKARA'YI SALLAYAN GELİŞME! CHP temyiz başvurusunu geri çekti! İşte detaylar!</description>
     </item>
   </channel>
 </rss>
