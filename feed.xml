@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 21:15:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:20:33 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: AKP'nin İBB Adayı Kim Olacak? Masadaki 3 Sürpriz İsim! Nevzat Çiçek Kulisleri Sarsacak</title>
       <link>https://www.youtube.com/watch?v=HSDd5AqQDzI</link>
       <guid isPermaLink="false">HSDd5AqQDzI</guid>
       <pubDate>Tue, 15 Sep 2026 21:10:03 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: AKP'nin İBB Adayı Kim Olacak? Masadaki 3 Sürpriz İsim! Nevzat Çiçek Kulisleri Sarsacak</description>
+    </item>
+    <item>
+      <title>Halk TV: Serra Karaçam perde arkasını anlattı: “Vekaleten sansür” iddiası! ABD’de medyaya lisans tehdidi!</title>
+      <link>https://www.youtube.com/watch?v=mjEDJsiHrjQ</link>
+      <guid isPermaLink="false">mjEDJsiHrjQ</guid>
+      <pubDate>Tue, 15 Sep 2026 21:10:03 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Serra Karaçam perde arkasını anlattı: “Vekaleten sansür” iddiası! ABD’de medyaya lisans tehdidi!</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Asu Kaya'dan, Adalet Peşinde Aileleri Platformu'nun Adalet Bakanlığı önündeki eylemine destek #Canlı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">-rJIewRTCvs</guid>
       <pubDate>Tue, 15 Sep 2026 16:05:36 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Bayrampaşa İlçe Başkanlığı açılışı / İstanbul #Canlı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Abdülkadir Selvi'den çok önemli Mansur Yavaş iddiası! Ülkü Çoban'dan kritik "YIPRATILMA" yorumu...</title>
-      <link>https://www.youtube.com/watch?v=mhKd6Bf-3iY</link>
-      <guid isPermaLink="false">mhKd6Bf-3iY</guid>
-      <pubDate>Tue, 15 Sep 2026 16:00:40 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Abdülkadir Selvi'den çok önemli Mansur Yavaş iddiası! Ülkü Çoban'dan kritik "YIPRATILMA" yorumu...</description>
     </item>
   </channel>
 </rss>
