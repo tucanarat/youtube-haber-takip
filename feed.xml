@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:35:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 22:40:30 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: İBB Başkan Vekili Nuri Aslan, Silivri'de Ayçiçeği Hasat Etkinliğinde konuşuyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=A4fr8sdMpxw</link>
+      <guid isPermaLink="false">A4fr8sdMpxw</guid>
+      <pubDate>Tue, 15 Sep 2026 22:35:41 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: İBB Başkan Vekili Nuri Aslan, Silivri'de Ayçiçeği Hasat Etkinliğinde konuşuyor #Canlı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Kızıldeniz'de Tehlike! Ortadoğu'da Yeni Cephe! Arap Fars Savaşı Ayak Sesleri! Nevzat Çiçek Anlattı</title>
       <link>https://www.youtube.com/watch?v=8HOkUVK9z5k</link>
       <guid isPermaLink="false">8HOkUVK9z5k</guid>
       <pubDate>Tue, 15 Sep 2026 22:30:19 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Kızıldeniz'de Tehlike! Ortadoğu'da Yeni Cephe! Arap Fars Savaşı Ayak Sesleri! Nevzat Çiçek Anlattı</description>
+    </item>
+    <item>
+      <title>Halk TV: İstanbul Havalimanı’nda film gibi operasyon! Pilot kıyafetli uyuşturucu kuryesi yakalandı!</title>
+      <link>https://www.youtube.com/watch?v=BCcqH_-w-vU</link>
+      <guid isPermaLink="false">BCcqH_-w-vU</guid>
+      <pubDate>Tue, 15 Sep 2026 22:30:08 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İstanbul Havalimanı’nda film gibi operasyon! Pilot kıyafetli uyuşturucu kuryesi yakalandı!</description>
     </item>
     <item>
       <title>Halk TV: Alevler gökyüzünü sardı! Avcılar’da TIR yangını paniğe neden oldu!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">NUUw9KOpyvw</guid>
       <pubDate>Tue, 15 Sep 2026 17:00:07 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (15 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: Ece Üner ile Halk Ana Haber | #müdahale (15 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=PJTxagUpZg0</link>
-      <guid isPermaLink="false">PJTxagUpZg0</guid>
-      <pubDate>Tue, 15 Sep 2026 16:59:49 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ece Üner ile Halk Ana Haber | #müdahale (15 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: Yeni Parti İzmir Milletvekili Gökçe Gökçen, “ailem güvende”operasyonlarının perde arkasını anlattı!</title>
-      <link>https://www.youtube.com/shorts/WZFSh2DXdUw</link>
-      <guid isPermaLink="false">WZFSh2DXdUw</guid>
-      <pubDate>Tue, 15 Sep 2026 16:58:31 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Yeni Parti İzmir Milletvekili Gökçe Gökçen, “ailem güvende”operasyonlarının perde arkasını anlattı!</description>
     </item>
   </channel>
 </rss>
