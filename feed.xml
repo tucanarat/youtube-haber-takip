@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 00:45:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 00:50:32 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Cumhurbaşkanı Erdoğan, eğitim yılı ve ve eğitim yatırımlarının açılışında konuşuyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=cnqvWrtqfDA</link>
+      <guid isPermaLink="false">cnqvWrtqfDA</guid>
+      <pubDate>Tue, 15 Sep 2026 00:40:15 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Cumhurbaşkanı Erdoğan, eğitim yılı ve ve eğitim yatırımlarının açılışında konuşuyor #Canlı</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: İBB Başkanvekili Nuri Aslan, İBB Meclisi Eylül ayı ilk oturumunu yönetiyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=fpmE4phHvXA</link>
+      <guid isPermaLink="false">fpmE4phHvXA</guid>
+      <pubDate>Tue, 15 Sep 2026 00:35:44 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: İBB Başkanvekili Nuri Aslan, İBB Meclisi Eylül ayı ilk oturumunu yönetiyor #Canlı</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Cumhurbaşkanı Erdoğan, eğitim yılı ve ve eğitim yatırımlarının açılışında konuşuyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=dS8F6_TFDtA</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">fpb1VopqVPk</guid>
       <pubDate>Mon, 14 Sep 2026 19:04:15 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Ekrem Açıkel ile Hafta Başı | İsmail Saymaz &amp; Can Özçelik | 14 Eylül</description>
-    </item>
-    <item>
-      <title>Halk TV: Kurtlar Vadisi'nin yapımcısı Raci Şaşmaz ve senaristler, bilgi sahibi sıfatı ile ifade verdi!</title>
-      <link>https://www.youtube.com/watch?v=ARLTo8SbO7Y</link>
-      <guid isPermaLink="false">ARLTo8SbO7Y</guid>
-      <pubDate>Mon, 14 Sep 2026 19:00:39 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Kurtlar Vadisi'nin yapımcısı Raci Şaşmaz ve senaristler, bilgi sahibi sıfatı ile ifade verdi!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Mansur Yavaş'ın tavrı... İmamoğlu'nun "hatası"... Bahattin Yücel anlatıyor</title>
-      <link>https://www.youtube.com/watch?v=DIWCA6AmSEU</link>
-      <guid isPermaLink="false">DIWCA6AmSEU</guid>
-      <pubDate>Mon, 14 Sep 2026 19:00:10 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Mansur Yavaş'ın tavrı... İmamoğlu'nun "hatası"... Bahattin Yücel anlatıyor</description>
     </item>
   </channel>
 </rss>
