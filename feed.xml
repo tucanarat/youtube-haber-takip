@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 13:40:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 13:45:38 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Hasan Atilla Uğur ve Kaşif Kozinoğlu Dosyası: FETÖ Derin Devlet Kurtlar Vadisi! Timur Soykan Anlattı</title>
+      <link>https://www.youtube.com/watch?v=9yN1ItKjVpw</link>
+      <guid isPermaLink="false">9yN1ItKjVpw</guid>
+      <pubDate>Tue, 15 Sep 2026 13:40:24 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Hasan Atilla Uğur ve Kaşif Kozinoğlu Dosyası: FETÖ Derin Devlet Kurtlar Vadisi! Timur Soykan Anlattı</description>
+    </item>
     <item>
       <title>Halk TV: KİLİS'TE NELER OLUYOR? AKP milletvekili Ahmet Salih Dal'ın abisi tutuklandı, il başkanı istifa etti!</title>
       <link>https://www.youtube.com/watch?v=uwMH_BcG2f0</link>
@@ -15,11 +22,11 @@
       <description>Halk TV kanalından yeni video: KİLİS'TE NELER OLUYOR? AKP milletvekili Ahmet Salih Dal'ın abisi tutuklandı, il başkanı istifa etti!</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | Yavuz Ağıralioğlu Ve Ali Babacan Ortak Açıklama Yapıyor!</title>
+      <title>Halk TV: Yavuz Ağıralioğlu Ve Ali Babacan Ortak Açıklama Yaptı (15 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=uZNLhfIQslI</link>
       <guid isPermaLink="false">uZNLhfIQslI</guid>
       <pubDate>Tue, 15 Sep 2026 13:34:39 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Yavuz Ağıralioğlu Ve Ali Babacan Ortak Açıklama Yapıyor!</description>
+      <description>Halk TV kanalından yeni video: Yavuz Ağıralioğlu Ve Ali Babacan Ortak Açıklama Yaptı (15 Eylül 2026)</description>
     </item>
     <item>
       <title>Halk TV: 'ERDOĞAN' YAZILI MEZAR TAŞINA BÖYLE YANIT VERDİ! Raci Şaşmaz'ın ifadesi ortaya çıktı! Günün bombası!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">kaUxUuvtCqc</guid>
       <pubDate>Tue, 15 Sep 2026 10:49:26 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: İki kurucu halk mavalı-Özdemir İnce</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Kirli ittifaklar ve Üsküdarlılara övgü!-Emre Kongar</title>
-      <link>https://www.youtube.com/watch?v=PeqmYHdMo0A</link>
-      <guid isPermaLink="false">PeqmYHdMo0A</guid>
-      <pubDate>Tue, 15 Sep 2026 10:49:24 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Kirli ittifaklar ve Üsküdarlılara övgü!-Emre Kongar</description>
     </item>
   </channel>
 </rss>
