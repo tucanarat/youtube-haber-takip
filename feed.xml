@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 19:40:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 19:45:33 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: Mansur Yavaş'tan Abdülkadir Selvi'ye sert yanıt! Murat Taylan'dan 'Erdoğanlı' fotoğraf yorumu!</title>
       <link>https://www.youtube.com/watch?v=Ca5habcFL4Q</link>
       <guid isPermaLink="false">Ca5habcFL4Q</guid>
       <pubDate>Tue, 15 Sep 2026 19:30:38 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Mansur Yavaş'tan Abdülkadir Selvi'ye sert yanıt! Murat Taylan'dan 'Erdoğanlı' fotoğraf yorumu!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Nevzat Çiçek Yargıtay Belgesinin Detaylarını Açıklıyor! Özgür Özel Bu Hamleyi Yapabilir</title>
+      <link>https://www.youtube.com/watch?v=S76wvd11AO8</link>
+      <guid isPermaLink="false">S76wvd11AO8</guid>
+      <pubDate>Tue, 15 Sep 2026 19:30:26 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Nevzat Çiçek Yargıtay Belgesinin Detaylarını Açıklıyor! Özgür Özel Bu Hamleyi Yapabilir</description>
     </item>
     <item>
       <title>Halk TV: Uğur Dündar’dan yıllar sonra gelen çarpıcı itiraf! “Bana bunları diyenlerin adaylaştırdığı başkan…”</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">aouJmqxB7VE</guid>
       <pubDate>Tue, 15 Sep 2026 15:00:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Mansur Yavaş Siyaseti Bırakıyor mu? İşte Özgür Özel'in Planı! İsmail Saymaz ve Can Özçelik Anlattı</description>
-    </item>
-    <item>
-      <title>Halk TV: Gizem Çetin ile Parantez  (15 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=4XcMFT8O0m8</link>
-      <guid isPermaLink="false">4XcMFT8O0m8</guid>
-      <pubDate>Tue, 15 Sep 2026 14:56:29 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Gizem Çetin ile Parantez  (15 Eylül 2026)</description>
     </item>
   </channel>
 </rss>
