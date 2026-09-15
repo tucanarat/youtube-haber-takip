@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 15:15:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 15:20:38 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: HALK TV EKRANLARINDA AÇIKLADI! Deniz Yavuzyılmaz'ın ortaya çıkardığı skandal çok can yakar!</title>
+      <link>https://www.youtube.com/watch?v=_KIYDvdNx5s</link>
+      <guid isPermaLink="false">_KIYDvdNx5s</guid>
+      <pubDate>Tue, 15 Sep 2026 15:15:10 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: HALK TV EKRANLARINDA AÇIKLADI! Deniz Yavuzyılmaz'ın ortaya çıkardığı skandal çok can yakar!</description>
+    </item>
     <item>
       <title>Halk TV: BİLAL ERDOĞAN'IN DİLİ TUTULDU! 'Demirtaş' sorusuna verdiği yanıt gündem oldu! Sosyal medya yıkıldı!</title>
       <link>https://www.youtube.com/watch?v=t6_3WUt5f9I</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">cyRYj7LqB7E</guid>
       <pubDate>Tue, 15 Sep 2026 12:05:03 +0000</pubDate>
       <description>Halk TV kanalından yeni video: 'TUĞBERK İMAMOĞLU' GEMİSİNDEN ACI HABER! Gemi kaptanının Silivri açıklarında cansız bedeni bulundu!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "Benimle Sır Olarak Gidecek!" Kozinoğlu Soruşturmasında Çarpıcı Osman Sınav Detayı!</title>
-      <link>https://www.youtube.com/watch?v=7vLx-mfPvQg</link>
-      <guid isPermaLink="false">7vLx-mfPvQg</guid>
-      <pubDate>Tue, 15 Sep 2026 12:00:19 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "Benimle Sır Olarak Gidecek!" Kozinoğlu Soruşturmasında Çarpıcı Osman Sınav Detayı!</description>
     </item>
   </channel>
 </rss>
