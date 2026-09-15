@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 07:00:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 07:05:29 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI Murat Taylan ile Haber-Yorum (15.09.2026)</title>
+      <link>https://www.youtube.com/watch?v=2lQMXQ3hdu8</link>
+      <guid isPermaLink="false">2lQMXQ3hdu8</guid>
+      <pubDate>Tue, 15 Sep 2026 07:02:19 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Murat Taylan ile Haber-Yorum (15.09.2026)</description>
+    </item>
     <item>
       <title>Halk TV: Deniz Bayramoğlu ile Gün Doğarken | #fatura (15 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=8RnO9ru1rSY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">u6KB_muts0E</guid>
       <pubDate>Mon, 14 Sep 2026 20:40:01 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Yunanistan Adalarda Ateşle Oynuyor! Özlem Gürses Haritada Anlattı! Miçotakis'ten Meis Adası Hamlesi</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Nuri Aslan, yeni eğitim öğretim yılında hayata geçirecek desteklerle ilgili açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=0H1DGqrZMxo</link>
-      <guid isPermaLink="false">0H1DGqrZMxo</guid>
-      <pubDate>Mon, 14 Sep 2026 20:38:28 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Nuri Aslan, yeni eğitim öğretim yılında hayata geçirecek desteklerle ilgili açıklama yapıyor #Canlı</description>
     </item>
   </channel>
 </rss>
