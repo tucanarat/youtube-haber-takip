@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 18:10:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 18:15:30 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: Yeni Parti'nin ismi değişecek mi? Murat Taylan Yenilik Partisi'nin oy oranını açıkladı</title>
       <link>https://www.youtube.com/watch?v=u-McZfQqF-Q</link>
       <guid isPermaLink="false">u-McZfQqF-Q</guid>
       <pubDate>Tue, 15 Sep 2026 18:00:38 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Yeni Parti'nin ismi değişecek mi? Murat Taylan Yenilik Partisi'nin oy oranını açıkladı</description>
+    </item>
+    <item>
+      <title>Halk TV: SURİYE SOKAKLARI YANIYOR! Zam protestosu büyüdükçe büyüdü! İşte dünyayı dehşete düşüren görüntüler!</title>
+      <link>https://www.youtube.com/watch?v=L5GQuX0XdZ4</link>
+      <guid isPermaLink="false">L5GQuX0XdZ4</guid>
+      <pubDate>Tue, 15 Sep 2026 18:00:36 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SURİYE SOKAKLARI YANIYOR! Zam protestosu büyüdükçe büyüdü! İşte dünyayı dehşete düşüren görüntüler!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: HEDEF RUSYA VE ÇİN! Nevzat Çiçek Trump'ın Şeytani Uzay Planını İfşa Etti</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ctfLBZFY_Nw</guid>
       <pubDate>Tue, 15 Sep 2026 13:57:10 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Serap Belovacıklı ile Haber Saati | 15 Eylül</description>
-    </item>
-    <item>
-      <title>Halk TV: 7 yıl sonra tahliye edilen Selçuk Mızraklı: Onurlu bir barış için 7 yılımı helal ediyorum!</title>
-      <link>https://www.youtube.com/shorts/_fTGzDOz4ts</link>
-      <guid isPermaLink="false">_fTGzDOz4ts</guid>
-      <pubDate>Tue, 15 Sep 2026 13:54:48 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: 7 yıl sonra tahliye edilen Selçuk Mızraklı: Onurlu bir barış için 7 yılımı helal ediyorum!</description>
     </item>
   </channel>
 </rss>
