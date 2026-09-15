@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 07:30:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 07:35:27 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Motorine gelen 6 lira 62 kuruşluk zam Osmaniye’de çiftçiyi isyan ettirdi!</title>
+      <link>https://www.youtube.com/shorts/9hOq3IpZymQ</link>
+      <guid isPermaLink="false">9hOq3IpZymQ</guid>
+      <pubDate>Tue, 15 Sep 2026 07:22:01 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Motorine gelen 6 lira 62 kuruşluk zam Osmaniye’de çiftçiyi isyan ettirdi!</description>
+    </item>
     <item>
       <title>Cumhuriyet: Çiftçiden mazot zammına tepki! "BUNUN SONU UÇURUM..."</title>
       <link>https://www.youtube.com/shorts/4p1MHcZqfwE</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">EJr4AFtmm-I</guid>
       <pubDate>Mon, 14 Sep 2026 21:00:21 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: İzmir'de 'Ailem Güvende' operasyonuna protesto: Polis biber gazıyla müdahale etti!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Volkan Gültekin'den Siyaseti Sallayacak Mansur Yavaş Kulisi! Ankara'da Kartlar Yeninden Dağıtılıyor</title>
-      <link>https://www.youtube.com/watch?v=QBE7x1eAFJI</link>
-      <guid isPermaLink="false">QBE7x1eAFJI</guid>
-      <pubDate>Mon, 14 Sep 2026 21:00:20 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Volkan Gültekin'den Siyaseti Sallayacak Mansur Yavaş Kulisi! Ankara'da Kartlar Yeninden Dağıtılıyor</description>
     </item>
   </channel>
 </rss>
