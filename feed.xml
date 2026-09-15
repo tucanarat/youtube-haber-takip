@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 15:50:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 15:55:26 +0000</lastBuildDate>
     <item>
       <title>Halk TV: Ankara'da LGBTİ+'lara Yönelik Operasyonlara Polis Müdahalesi! (15 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=y9v2trMoqx4</link>
@@ -22,6 +22,13 @@
       <description>Halk TV kanalından yeni video: BİNLERCE İNSAN DİKEN ÜSTÜNDE! Katılımevim ve Birevim'de kritik süreç başladı! Piyasalar hareketlendi</description>
     </item>
     <item>
+      <title>Tele2 Haber: #CANLI Ankara'da LGBTİ+'lara yönelik operasyonlara karşı protesto #Canlı</title>
+      <link>https://www.youtube.com/watch?v=tOFuh01MqO0</link>
+      <guid isPermaLink="false">tOFuh01MqO0</guid>
+      <pubDate>Tue, 15 Sep 2026 15:44:32 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Ankara'da LGBTİ+'lara yönelik operasyonlara karşı protesto #Canlı</description>
+    </item>
+    <item>
       <title>ANKA Haber Ajansı: Ankara'da LGBTİ+'lara yönelik operasyonlara karşı protesto #Canlı</title>
       <link>https://www.youtube.com/watch?v=UdXSAjWb0bQ</link>
       <guid isPermaLink="false">UdXSAjWb0bQ</guid>
@@ -29,18 +36,18 @@
       <description>ANKA Haber Ajansı kanalından yeni video: Ankara'da LGBTİ+'lara yönelik operasyonlara karşı protesto #Canlı</description>
     </item>
     <item>
+      <title>Halk TV: MASKELER DÜŞTÜ! ‘Ailem Güvende’ operasyonlarının asıl hedefi buymuş! Gökçe Gökçen bir bir anlattı!</title>
+      <link>https://www.youtube.com/watch?v=pSvo4G5RgZk</link>
+      <guid isPermaLink="false">pSvo4G5RgZk</guid>
+      <pubDate>Tue, 15 Sep 2026 15:35:12 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: MASKELER DÜŞTÜ! ‘Ailem Güvende’ operasyonlarının asıl hedefi buymuş! Gökçe Gökçen bir bir anlattı!</description>
+    </item>
+    <item>
       <title>ANKA Haber Ajansı: İbrahim Kaboğlu, İstanbul Barosu seçimleri öncesi açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=wCEVK5OQht0</link>
       <guid isPermaLink="false">wCEVK5OQht0</guid>
       <pubDate>Tue, 15 Sep 2026 15:34:03 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: İbrahim Kaboğlu, İstanbul Barosu seçimleri öncesi açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Ankara'da LGBTİ+'lara yönelik operasyonlara karşı protesto #Canlı</title>
-      <link>https://www.youtube.com/watch?v=tOFuh01MqO0</link>
-      <guid isPermaLink="false">tOFuh01MqO0</guid>
-      <pubDate>Tue, 15 Sep 2026 15:31:17 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Ankara'da LGBTİ+'lara yönelik operasyonlara karşı protesto #Canlı</description>
     </item>
     <item>
       <title>Halk TV: KOZİNOĞLU DOSYASINDA YENİ GELİŞME! Gazeteci Selahattin Günday "Örgüt kurma suçundan" tutuklandı!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">om4oaXQQGIY</guid>
       <pubDate>Tue, 15 Sep 2026 12:53:28 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Bob Ross'u izleyerek ressam oldu: 81 yaşındaki Şahinde Ermiş 20 yıl sonra ikinci sergisini açtı!</description>
-    </item>
-    <item>
-      <title>Halk TV: BU SÖZLER GÜNDEMİ SARSAR! Ev hapsindeki Levent Üzümcü Halk TV Youtube'a konuştu! İzlemeden geçmeyin!</title>
-      <link>https://www.youtube.com/watch?v=bICqxFdiav0</link>
-      <guid isPermaLink="false">bICqxFdiav0</guid>
-      <pubDate>Tue, 15 Sep 2026 12:50:23 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BU SÖZLER GÜNDEMİ SARSAR! Ev hapsindeki Levent Üzümcü Halk TV Youtube'a konuştu! İzlemeden geçmeyin!</description>
     </item>
   </channel>
 </rss>
