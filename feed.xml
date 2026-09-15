@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 15:20:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 15:25:29 +0000</lastBuildDate>
     <item>
       <title>Halk TV: HALK TV EKRANLARINDA AÇIKLADI! Deniz Yavuzyılmaz'ın ortaya çıkardığı skandal çok can yakar!</title>
       <link>https://www.youtube.com/watch?v=_KIYDvdNx5s</link>
@@ -55,6 +55,13 @@
       <guid isPermaLink="false">RpCOrsDS418</guid>
       <pubDate>Tue, 15 Sep 2026 14:45:36 +0000</pubDate>
       <description>Halk TV kanalından yeni video: DEHŞETE DÜŞÜREN DETAY! Büşra bebek satıldı mı, öldürüldü mü? Avukat Müjde Tozbey o ayrıntıyı anlattı</description>
+    </item>
+    <item>
+      <title>Halk TV: HALK TV O RAPORA ULAŞTI! Rojin'in konuştuğu son isim ortaya çıktı! Bomba güvenlik görevlisi detayı!</title>
+      <link>https://www.youtube.com/watch?v=7jGqQkl5tP0</link>
+      <guid isPermaLink="false">7jGqQkl5tP0</guid>
+      <pubDate>Tue, 15 Sep 2026 14:45:08 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: HALK TV O RAPORA ULAŞTI! Rojin'in konuştuğu son isim ortaya çıktı! Bomba güvenlik görevlisi detayı!</description>
     </item>
     <item>
       <title>Cumhuriyet: Rojin Kabaiş’in babası Bilal Erdoğan’dan yardım istedi: 'Ateş düştüğü yeri yakar'</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">gpZx9g9V1g0</guid>
       <pubDate>Tue, 15 Sep 2026 12:20:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: MHP'DE TAŞLAR YERİNDEN OYNAR! İbrahim Kahveci'den Bahçeli'ye fırtına kopartacak sözler! Kabus olur!</description>
-    </item>
-    <item>
-      <title>Halk TV: 'TUĞBERK İMAMOĞLU' GEMİSİNDEN ACI HABER! Gemi kaptanının Silivri açıklarında cansız bedeni bulundu!</title>
-      <link>https://www.youtube.com/watch?v=cyRYj7LqB7E</link>
-      <guid isPermaLink="false">cyRYj7LqB7E</guid>
-      <pubDate>Tue, 15 Sep 2026 12:05:03 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: 'TUĞBERK İMAMOĞLU' GEMİSİNDEN ACI HABER! Gemi kaptanının Silivri açıklarında cansız bedeni bulundu!</description>
     </item>
   </channel>
 </rss>
