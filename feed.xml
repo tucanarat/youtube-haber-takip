@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 20:00:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 20:05:26 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Özlem Gürses ile Sözcü Ana Haber | 15 Eylül</title>
+      <link>https://www.youtube.com/watch?v=LbZ8UN--v04</link>
+      <guid isPermaLink="false">LbZ8UN--v04</guid>
+      <pubDate>Tue, 15 Sep 2026 19:58:12 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses ile Sözcü Ana Haber | 15 Eylül</description>
+    </item>
     <item>
       <title>Halk TV: BİR AYDA TÜM TABLO DEĞİŞTİ! Kamuoyu araştırmalarında dikkat çeken değişikliğin sebebi ne?</title>
       <link>https://www.youtube.com/watch?v=127rqkyCSHk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">_KIYDvdNx5s</guid>
       <pubDate>Tue, 15 Sep 2026 15:15:10 +0000</pubDate>
       <description>Halk TV kanalından yeni video: HALK TV EKRANLARINDA AÇIKLADI! Deniz Yavuzyılmaz'ın ortaya çıkardığı skandal çok can yakar!</description>
-    </item>
-    <item>
-      <title>Halk TV: BİLAL ERDOĞAN'IN DİLİ TUTULDU! 'Demirtaş' sorusuna verdiği yanıt gündem oldu! Sosyal medya yıkıldı!</title>
-      <link>https://www.youtube.com/watch?v=t6_3WUt5f9I</link>
-      <guid isPermaLink="false">t6_3WUt5f9I</guid>
-      <pubDate>Tue, 15 Sep 2026 15:00:37 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BİLAL ERDOĞAN'IN DİLİ TUTULDU! 'Demirtaş' sorusuna verdiği yanıt gündem oldu! Sosyal medya yıkıldı!</description>
     </item>
   </channel>
 </rss>
