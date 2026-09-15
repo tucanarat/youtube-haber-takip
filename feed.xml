@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 10:15:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 10:20:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Bilal Erdoğan’dan Amedspor taraftarına: “ Söz ver, Galatasaray’ı yenin!”</title>
+      <link>https://www.youtube.com/shorts/LWgkhngSnAI</link>
+      <guid isPermaLink="false">LWgkhngSnAI</guid>
+      <pubDate>Tue, 15 Sep 2026 10:18:57 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Bilal Erdoğan’dan Amedspor taraftarına: “ Söz ver, Galatasaray’ı yenin!”</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İsmail Küçükkaya Bilal Erdoğan Planını Anlattı! Selahattin Demirtaş Cevabı Çok Konuşulur</title>
       <link>https://www.youtube.com/watch?v=XWnZmNESqmU</link>
       <guid isPermaLink="false">XWnZmNESqmU</guid>
       <pubDate>Tue, 15 Sep 2026 10:10:16 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya Bilal Erdoğan Planını Anlattı! Selahattin Demirtaş Cevabı Çok Konuşulur</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: İBB Başkan Vekili Nuri Aslan, Silivri'de Ayçiçeği Hasat Etkinliğinde konuşuyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=A4fr8sdMpxw</link>
+      <guid isPermaLink="false">A4fr8sdMpxw</guid>
+      <pubDate>Tue, 15 Sep 2026 10:06:17 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: İBB Başkan Vekili Nuri Aslan, Silivri'de Ayçiçeği Hasat Etkinliğinde konuşuyor #Canlı</description>
     </item>
     <item>
       <title>Halk TV: OCAK'TA ASGARİ ÜCRETLİNİN CEBİNE BU PARA GİRECEK! Özgür Erdursun kalem kalem hesapladı! Geri sayım!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">xF9Xtjo521s</guid>
       <pubDate>Tue, 15 Sep 2026 06:28:41 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Motorine rekor zam! Litre fiyatı 98 TL'ye dayandı; akaryakıt istasyonlarında zam kuyruğu</description>
-    </item>
-    <item>
-      <title>Halk TV: Motorine gelen 6,62 liralık zam sonrası Ispartalı yurttaşlar isyan etti!</title>
-      <link>https://www.youtube.com/shorts/wxGMNKUyut8</link>
-      <guid isPermaLink="false">wxGMNKUyut8</guid>
-      <pubDate>Tue, 15 Sep 2026 06:25:02 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Motorine gelen 6,62 liralık zam sonrası Ispartalı yurttaşlar isyan etti!</description>
-    </item>
-    <item>
-      <title>Halk TV: Seferihisar Belediyesi'ne 4. dalga operasyonda gözaltına alınmışlardı! 47 kişi adliyeye sevk edildi!</title>
-      <link>https://www.youtube.com/watch?v=PhLTHHoOiDM</link>
-      <guid isPermaLink="false">PhLTHHoOiDM</guid>
-      <pubDate>Tue, 15 Sep 2026 06:20:12 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Seferihisar Belediyesi'ne 4. dalga operasyonda gözaltına alınmışlardı! 47 kişi adliyeye sevk edildi!</description>
     </item>
   </channel>
 </rss>
