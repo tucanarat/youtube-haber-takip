@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 07:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 07:45:38 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: 'Selahattin Demirtaş'ı da Serbest Bırakın' Bilal Erdoğan'a Şok Sözler! Neye Uğradığını Şaşırdı</title>
+      <link>https://www.youtube.com/watch?v=cHhUu44Vcl0</link>
+      <guid isPermaLink="false">cHhUu44Vcl0</guid>
+      <pubDate>Tue, 15 Sep 2026 07:30:34 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: 'Selahattin Demirtaş'ı da Serbest Bırakın' Bilal Erdoğan'a Şok Sözler! Neye Uğradığını Şaşırdı</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: "İNSANİ DEĞİL!" İBB Davası Yargılamalarının Süresine İbrahim Kaboğlu'ndan Sert Tepki!</title>
+      <link>https://www.youtube.com/watch?v=GXAsx7taQ54</link>
+      <guid isPermaLink="false">GXAsx7taQ54</guid>
+      <pubDate>Tue, 15 Sep 2026 07:30:27 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "İNSANİ DEĞİL!" İBB Davası Yargılamalarının Süresine İbrahim Kaboğlu'ndan Sert Tepki!</description>
+    </item>
     <item>
       <title>Halk TV: Motorine gelen 6 lira 62 kuruşluk zam Osmaniye’de çiftçiyi isyan ettirdi!</title>
       <link>https://www.youtube.com/shorts/9hOq3IpZymQ</link>
@@ -97,6 +111,13 @@
       <guid isPermaLink="false">PhLTHHoOiDM</guid>
       <pubDate>Tue, 15 Sep 2026 06:20:12 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Seferihisar Belediyesi'ne 4. dalga operasyonda gözaltına alınmışlardı! 47 kişi adliyeye sevk edildi!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İsmail Saymaz'dan Bomba Kulisler! Kaşif Kozinoğlu, Mansur Yavaş, Özgür Özel ve Yeni Parti...</title>
+      <link>https://www.youtube.com/watch?v=DvtB1DyvlBI</link>
+      <guid isPermaLink="false">DvtB1DyvlBI</guid>
+      <pubDate>Tue, 15 Sep 2026 05:41:26 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İsmail Saymaz'dan Bomba Kulisler! Kaşif Kozinoğlu, Mansur Yavaş, Özgür Özel ve Yeni Parti...</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti Bağcılar İlçe Başkanlığı açılışı / İstanbul #Canlı</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">3viWRXBzWcc</guid>
       <pubDate>Mon, 14 Sep 2026 21:20:01 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Yeni Parti'ye Yargıtay'dan Çarpıcı Tebligat! Özgür Özel'e Beklenmedik Engel! Muhalefette İsim Krizi</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: DİSK Genel Başkanı Arzu Çerkezoğlu, Milli Eğitim Bakanlığı önünde basın açıklaması yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=JDY605mvMiE</link>
-      <guid isPermaLink="false">JDY605mvMiE</guid>
-      <pubDate>Mon, 14 Sep 2026 21:18:56 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: DİSK Genel Başkanı Arzu Çerkezoğlu, Milli Eğitim Bakanlığı önünde basın açıklaması yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: CHP Grup Başkanvekili Sevda Erdan Kılıç, TBMM'de basın toplantısı düzenliyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=w6hpcUf-0xk</link>
-      <guid isPermaLink="false">w6hpcUf-0xk</guid>
-      <pubDate>Mon, 14 Sep 2026 21:14:48 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP Grup Başkanvekili Sevda Erdan Kılıç, TBMM'de basın toplantısı düzenliyor #Canlı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: İzmir'de 'Ailem Güvende' operasyonuna protesto: Polis biber gazıyla müdahale etti!</title>
-      <link>https://www.youtube.com/watch?v=EJr4AFtmm-I</link>
-      <guid isPermaLink="false">EJr4AFtmm-I</guid>
-      <pubDate>Mon, 14 Sep 2026 21:00:21 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: İzmir'de 'Ailem Güvende' operasyonuna protesto: Polis biber gazıyla müdahale etti!</description>
     </item>
   </channel>
 </rss>
