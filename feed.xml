@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 13:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 13:40:40 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: KİLİS'TE NELER OLUYOR? AKP milletvekili Ahmet Salih Dal'ın abisi tutuklandı, il başkanı istifa etti!</title>
+      <link>https://www.youtube.com/watch?v=uwMH_BcG2f0</link>
+      <guid isPermaLink="false">uwMH_BcG2f0</guid>
+      <pubDate>Tue, 15 Sep 2026 13:35:19 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KİLİS'TE NELER OLUYOR? AKP milletvekili Ahmet Salih Dal'ın abisi tutuklandı, il başkanı istifa etti!</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Yavuz Ağıralioğlu Ve Ali Babacan Ortak Açıklama Yapıyor!</title>
       <link>https://www.youtube.com/watch?v=uZNLhfIQslI</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">PeqmYHdMo0A</guid>
       <pubDate>Tue, 15 Sep 2026 10:49:24 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Kirli ittifaklar ve Üsküdarlılara övgü!-Emre Kongar</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Boşuna döndün-Hilmi Türkay</title>
-      <link>https://www.youtube.com/watch?v=G83wz2U0byU</link>
-      <guid isPermaLink="false">G83wz2U0byU</guid>
-      <pubDate>Tue, 15 Sep 2026 10:49:23 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Boşuna döndün-Hilmi Türkay</description>
     </item>
   </channel>
 </rss>
