@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 07:10:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 07:15:36 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Çiftçiden mazot zammına tepki! "BUNUN SONU UÇURUM..."</title>
+      <link>https://www.youtube.com/shorts/4p1MHcZqfwE</link>
+      <guid isPermaLink="false">4p1MHcZqfwE</guid>
+      <pubDate>Tue, 15 Sep 2026 07:03:37 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Çiftçiden mazot zammına tepki! "BUNUN SONU UÇURUM..."</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI Murat Taylan ile Haber-Yorum (15.09.2026)</title>
       <link>https://www.youtube.com/watch?v=2lQMXQ3hdu8</link>
       <guid isPermaLink="false">2lQMXQ3hdu8</guid>
       <pubDate>Tue, 15 Sep 2026 07:02:19 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Murat Taylan ile Haber-Yorum (15.09.2026)</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: "HESAPLAŞACAĞIZ!" Bülent Arınç'tan Zehir Zemberek Melih Gökçek Yanıtı! Erdoğan Yanıtı Olay Olur</title>
+      <link>https://www.youtube.com/watch?v=JF87X0YNing</link>
+      <guid isPermaLink="false">JF87X0YNing</guid>
+      <pubDate>Tue, 15 Sep 2026 07:00:21 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: "HESAPLAŞACAĞIZ!" Bülent Arınç'tan Zehir Zemberek Melih Gökçek Yanıtı! Erdoğan Yanıtı Olay Olur</description>
     </item>
     <item>
       <title>Halk TV: Deniz Bayramoğlu ile Gün Doğarken | #fatura (15 Eylül 2026)</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">QBE7x1eAFJI</guid>
       <pubDate>Mon, 14 Sep 2026 21:00:20 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Volkan Gültekin'den Siyaseti Sallayacak Mansur Yavaş Kulisi! Ankara'da Kartlar Yeninden Dağıtılıyor</description>
-    </item>
-    <item>
-      <title>Halk TV: OLAY SÖZLER! Prof. Dr. Günçavdı: Birinci parti olmanın yolu çocukların karnını doyurmaktan geçer!</title>
-      <link>https://www.youtube.com/watch?v=ln7WPp2pSZ4</link>
-      <guid isPermaLink="false">ln7WPp2pSZ4</guid>
-      <pubDate>Mon, 14 Sep 2026 21:00:20 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: OLAY SÖZLER! Prof. Dr. Günçavdı: Birinci parti olmanın yolu çocukların karnını doyurmaktan geçer!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Yunanistan Adalarda Ateşle Oynuyor! Özlem Gürses Haritada Anlattı! Miçotakis'ten Meis Adası Hamlesi</title>
-      <link>https://www.youtube.com/watch?v=u6KB_muts0E</link>
-      <guid isPermaLink="false">u6KB_muts0E</guid>
-      <pubDate>Mon, 14 Sep 2026 20:40:01 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Yunanistan Adalarda Ateşle Oynuyor! Özlem Gürses Haritada Anlattı! Miçotakis'ten Meis Adası Hamlesi</description>
     </item>
   </channel>
 </rss>
