@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 16:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 17:00:55 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Ece Üner ile Halk Ana Haber | #müdahale (15 Eylül 2026)</title>
+      <link>https://www.youtube.com/watch?v=PJTxagUpZg0</link>
+      <guid isPermaLink="false">PJTxagUpZg0</guid>
+      <pubDate>Tue, 15 Sep 2026 16:59:49 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Ece Üner ile Halk Ana Haber | #müdahale (15 Eylül 2026)</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Sinem Fıstıkoğlu ile Sansürsüz</title>
+      <link>https://www.youtube.com/watch?v=-ZvNfJuf52k</link>
+      <guid isPermaLink="false">-ZvNfJuf52k</guid>
+      <pubDate>Tue, 15 Sep 2026 16:52:23 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Sinem Fıstıkoğlu ile Sansürsüz</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Kaşif Kozinoğlu Sır Perdesi Aralandı! Raci Şaşmaz'dan Olay İfadeler! Kurtlar Vadisi, FETÖ...</title>
       <link>https://www.youtube.com/watch?v=Q9LtUS1np7s</link>
@@ -20,6 +34,13 @@
       <guid isPermaLink="false">cJNYRhi9F78</guid>
       <pubDate>Tue, 15 Sep 2026 16:47:09 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Parti Bayrampaşa İlçe Başkanlığı Açılışı!</description>
+    </item>
+    <item>
+      <title>Halk TV: HER DETAY TÜYLER ÜRPERTİYOR! Kozinoğlu dosyasını bir de Ece Üner’den dinleyin! Bu tabloya iyi bakın!</title>
+      <link>https://www.youtube.com/watch?v=TLwg_X2U39k</link>
+      <guid isPermaLink="false">TLwg_X2U39k</guid>
+      <pubDate>Tue, 15 Sep 2026 16:45:02 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: HER DETAY TÜYLER ÜRPERTİYOR! Kozinoğlu dosyasını bir de Ece Üner’den dinleyin! Bu tabloya iyi bakın!</description>
     </item>
     <item>
       <title>Halk TV: HALK TV O RAPORA ULAŞTI! Rojin'in konuştuğu son isim ortaya çıktı! Bomba güvenlik görevlisi detayı!</title>
@@ -253,13 +274,6 @@
       <description>Halk TV kanalından yeni video: İÇİNİZ PARÇALANACAK! Üsküdar tutuklusu Amine Cansu Çelik'e kızı 'teyze' demiş! Sözün bittiği yer!</description>
     </item>
     <item>
-      <title>Halk TV: Ece Üner ile Halk Ana Haber | #müdahale (15 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=PJTxagUpZg0</link>
-      <guid isPermaLink="false">PJTxagUpZg0</guid>
-      <pubDate>Tue, 15 Sep 2026 13:58:15 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ece Üner ile Halk Ana Haber | #müdahale (15 Eylül 2026)</description>
-    </item>
-    <item>
       <title>SÖZCÜ TV: Serap Belovacıklı ile Haber Saati | 15 Eylül</title>
       <link>https://www.youtube.com/watch?v=ctfLBZFY_Nw</link>
       <guid isPermaLink="false">ctfLBZFY_Nw</guid>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">GGrYRY6ohWw</guid>
       <pubDate>Tue, 15 Sep 2026 13:07:06 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI YENİ Parti Sözcüsü Zeynel Emre'den flaş açıklamalar</description>
-    </item>
-    <item>
-      <title>Halk TV: Malatya'da rezerv alan konutlarında teslim krizi! Kira desteği de kesildi!</title>
-      <link>https://www.youtube.com/shorts/9f-Q4aUUFy8</link>
-      <guid isPermaLink="false">9f-Q4aUUFy8</guid>
-      <pubDate>Tue, 15 Sep 2026 13:06:05 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Malatya'da rezerv alan konutlarında teslim krizi! Kira desteği de kesildi!</description>
-    </item>
-    <item>
-      <title>Halk TV: SARAY'DA IŞIKLAR SÖNMEZ! Sibel Tan Çetinkaya'nın sözlerinin yankısı büyük olacak! Meclis buz kesti!</title>
-      <link>https://www.youtube.com/watch?v=UdSTkGBHN9Y</link>
-      <guid isPermaLink="false">UdSTkGBHN9Y</guid>
-      <pubDate>Tue, 15 Sep 2026 13:05:22 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SARAY'DA IŞIKLAR SÖNMEZ! Sibel Tan Çetinkaya'nın sözlerinin yankısı büyük olacak! Meclis buz kesti!</description>
     </item>
   </channel>
 </rss>
