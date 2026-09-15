@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 14:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 14:10:43 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: İBB Meclisi'ndeki "Kocan Nerede" Tartışmasına Çoban Ateş Püskürdü! "Kadının Yapması Daha Acayip!"</title>
+      <link>https://www.youtube.com/watch?v=vngH4IPsQ6w</link>
+      <guid isPermaLink="false">vngH4IPsQ6w</guid>
+      <pubDate>Tue, 15 Sep 2026 14:00:37 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: İBB Meclisi'ndeki "Kocan Nerede" Tartışmasına Çoban Ateş Püskürdü! "Kadının Yapması Daha Acayip!"</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: CHP KULİSLERİ KAYNIYOR! "Partiyi Boşalttılar!" Temyiz Krizinin Perde Arkası</title>
       <link>https://www.youtube.com/watch?v=AlhSEJ8cn48</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">uoWKxVVA38c</guid>
       <pubDate>Tue, 15 Sep 2026 11:11:19 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Sinoplu emeklilerden çarpıcı isyan: "30 yıl prim ödedik, aldığımız para 23 bin lira!"</description>
-    </item>
-    <item>
-      <title>Halk TV: FIRTINA KOPTU KOPACAK! Özgür Özel koltukları titretecek adımı attı! MYK'da neler konuşulacak neler!</title>
-      <link>https://www.youtube.com/watch?v=ahtDaNkj1Vc</link>
-      <guid isPermaLink="false">ahtDaNkj1Vc</guid>
-      <pubDate>Tue, 15 Sep 2026 11:05:11 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: FIRTINA KOPTU KOPACAK! Özgür Özel koltukları titretecek adımı attı! MYK'da neler konuşulacak neler!</description>
     </item>
   </channel>
 </rss>
