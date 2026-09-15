@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 08:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 08:40:34 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Beş şehir!-Mustafa Balbay</title>
+      <link>https://www.youtube.com/watch?v=tYBseULjmIk</link>
+      <guid isPermaLink="false">tYBseULjmIk</guid>
+      <pubDate>Tue, 15 Sep 2026 08:39:37 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Beş şehir!-Mustafa Balbay</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İktidarda Ortalık Karıştı! Vali AKP'li Vekili Tehdit Etti İddiası! Saygı Öztürk Belge Belge Anlattı</title>
       <link>https://www.youtube.com/watch?v=gwYPPV9bT2s</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">TjwfL5bCj2o</guid>
       <pubDate>Mon, 14 Sep 2026 22:05:11 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti İstanbul Milletvekili Suat Özçağdaş, TBMM'de basın toplantısı yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Pınar Erbaş ile Gecenin Sözü | 14 Eylül</title>
-      <link>https://www.youtube.com/watch?v=FIorV91Djxc</link>
-      <guid isPermaLink="false">FIorV91Djxc</guid>
-      <pubDate>Mon, 14 Sep 2026 22:03:44 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Pınar Erbaş ile Gecenin Sözü | 14 Eylül</description>
     </item>
   </channel>
 </rss>
