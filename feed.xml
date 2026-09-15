@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 10:30:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 10:35:25 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: ‘LGBTİ+ operasyonu’ protestosu! Avukat Kardelen Başak Altınsoy Çağlayan Adliyesi önünden aktardı</title>
+      <link>https://www.youtube.com/shorts/TTIDqLknohg</link>
+      <guid isPermaLink="false">TTIDqLknohg</guid>
+      <pubDate>Tue, 15 Sep 2026 10:32:54 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: ‘LGBTİ+ operasyonu’ protestosu! Avukat Kardelen Başak Altınsoy Çağlayan Adliyesi önünden aktardı</description>
+    </item>
     <item>
       <title>Tele2 Haber: "İnsanları örgütlendikleri için gözaltına alamazsınız. Bu hukuksuzluktan vazgeçin."</title>
       <link>https://www.youtube.com/shorts/VHGp1DLnSz4</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">bxgMsv9Q2dw</guid>
       <pubDate>Tue, 15 Sep 2026 06:43:57 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Silivri'yi ağlatan ayrılık! Amine Cansu Çelik 11 gün sonra kızını gördü: Çocuğu 'teyze' dedi...</description>
-    </item>
-    <item>
-      <title>Halk TV: AKP'DE SULAR DURULMUYOR! Arınç'ın Melih Gökçek'e yönelik sözlerine Erdoğan'ın danışmanı öfke kustu!</title>
-      <link>https://www.youtube.com/watch?v=i9_ni-E90mA</link>
-      <guid isPermaLink="false">i9_ni-E90mA</guid>
-      <pubDate>Tue, 15 Sep 2026 06:35:25 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: AKP'DE SULAR DURULMUYOR! Arınç'ın Melih Gökçek'e yönelik sözlerine Erdoğan'ın danışmanı öfke kustu!</description>
     </item>
   </channel>
 </rss>
