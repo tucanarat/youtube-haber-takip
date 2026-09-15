@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 08:30:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 08:35:26 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: İktidarda Ortalık Karıştı! Vali AKP'li Vekili Tehdit Etti İddiası! Saygı Öztürk Belge Belge Anlattı</title>
+      <link>https://www.youtube.com/watch?v=gwYPPV9bT2s</link>
+      <guid isPermaLink="false">gwYPPV9bT2s</guid>
+      <pubDate>Tue, 15 Sep 2026 08:30:29 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İktidarda Ortalık Karıştı! Vali AKP'li Vekili Tehdit Etti İddiası! Saygı Öztürk Belge Belge Anlattı</description>
+    </item>
     <item>
       <title>Cumhuriyet: Silivri'de geç saatlere kadar süren duruşmalara İbrahim Kaboğlu'ndan tepki: İnsani değil...</title>
       <link>https://www.youtube.com/watch?v=YofJXLIvseo</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">FIorV91Djxc</guid>
       <pubDate>Mon, 14 Sep 2026 22:03:44 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Pınar Erbaş ile Gecenin Sözü | 14 Eylül</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Eğitim İş Sendikası üyeleri, Milli Eğitim Bakanlığı önünde basın açıklaması yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=VKrbPV2snzY</link>
-      <guid isPermaLink="false">VKrbPV2snzY</guid>
-      <pubDate>Mon, 14 Sep 2026 22:02:06 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Eğitim İş Sendikası üyeleri, Milli Eğitim Bakanlığı önünde basın açıklaması yapıyor #Canlı</description>
     </item>
   </channel>
 </rss>
