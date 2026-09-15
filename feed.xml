@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 00:15:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 00:20:30 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Cumhurbaşkanı Erdoğan, eğitim yılı ve ve eğitim yatırımlarının açılışında konuşuyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=dS8F6_TFDtA</link>
+      <guid isPermaLink="false">dS8F6_TFDtA</guid>
+      <pubDate>Tue, 15 Sep 2026 00:15:40 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Cumhurbaşkanı Erdoğan, eğitim yılı ve ve eğitim yatırımlarının açılışında konuşuyor #Canlı</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: CHP Genel Başkanı Kemal Kılıçdaroğlu açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=l2b4i6h7NxY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">IR1SgDXenn4</guid>
       <pubDate>Mon, 14 Sep 2026 19:00:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İsmail Saymaz'dan Çarpıcı Mansur Yavaş Kulisi! Beştepe Zirvesinin Perde Arkası! Melih Gökçek Çıkışı</description>
-    </item>
-    <item>
-      <title>Halk TV: Sibel Tan Çetinkaya’dan İBB Meclisi’nde dikkat çeken sözler! #shorts</title>
-      <link>https://www.youtube.com/shorts/q0rIBRThc4A</link>
-      <guid isPermaLink="false">q0rIBRThc4A</guid>
-      <pubDate>Mon, 14 Sep 2026 18:55:35 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Sibel Tan Çetinkaya’dan İBB Meclisi’nde dikkat çeken sözler! #shorts</description>
     </item>
   </channel>
 </rss>
