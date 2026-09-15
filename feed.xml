@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 10:35:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 10:40:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Gemi faciasında SKANDAL DETAY! Bayhan ailesinin avukatı anlattı! "Sakın binmeyin!"</title>
+      <link>https://www.youtube.com/watch?v=DHDcQzHtIeU</link>
+      <guid isPermaLink="false">DHDcQzHtIeU</guid>
+      <pubDate>Tue, 15 Sep 2026 10:35:01 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Gemi faciasında SKANDAL DETAY! Bayhan ailesinin avukatı anlattı! "Sakın binmeyin!"</description>
+    </item>
     <item>
       <title>Cumhuriyet: ‘LGBTİ+ operasyonu’ protestosu! Avukat Kardelen Başak Altınsoy Çağlayan Adliyesi önünden aktardı</title>
       <link>https://www.youtube.com/shorts/TTIDqLknohg</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">3utLzF4kV0g</guid>
       <pubDate>Tue, 15 Sep 2026 06:50:07 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BÜLENT ARINÇ MEYDAN OKUDU! Melih Gökçek'e yönelik sözlerine gelen tepkilere resmen ateş püskürdü!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Silivri'yi ağlatan ayrılık! Amine Cansu Çelik 11 gün sonra kızını gördü: Çocuğu 'teyze' dedi...</title>
-      <link>https://www.youtube.com/watch?v=bxgMsv9Q2dw</link>
-      <guid isPermaLink="false">bxgMsv9Q2dw</guid>
-      <pubDate>Tue, 15 Sep 2026 06:43:57 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Silivri'yi ağlatan ayrılık! Amine Cansu Çelik 11 gün sonra kızını gördü: Çocuğu 'teyze' dedi...</description>
     </item>
   </channel>
 </rss>
