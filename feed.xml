@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 18:35:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 18:40:34 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: Kurtlar Vadisi 'Kaşif Kozinoğlu' bölümünün perde arkası! Senarist Şaşmaz'ın ifadesi ortaya çıktı</title>
       <link>https://www.youtube.com/watch?v=8IL8LKIlDG0</link>
       <guid isPermaLink="false">8IL8LKIlDG0</guid>
       <pubDate>Tue, 15 Sep 2026 18:30:34 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Kurtlar Vadisi 'Kaşif Kozinoğlu' bölümünün perde arkası! Senarist Şaşmaz'ın ifadesi ortaya çıktı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Özgür Özel ve YENİ Parti'ye Yargıtay Engeli! 'Paldır Küldür Parti Kuruldu' İsmail Saymaz Anlattı</title>
+      <link>https://www.youtube.com/watch?v=SPaJ4y9TaiY</link>
+      <guid isPermaLink="false">SPaJ4y9TaiY</guid>
+      <pubDate>Tue, 15 Sep 2026 18:30:27 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Özgür Özel ve YENİ Parti'ye Yargıtay Engeli! 'Paldır Küldür Parti Kuruldu' İsmail Saymaz Anlattı</description>
     </item>
     <item>
       <title>Halk TV: Kaşif Kozinoğlu soruşturmasında yeni ayrıntılar! 2 acil tıp teknisyeninin ifadeleri ortaya çıktı!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">MJRoCKhqXjI</guid>
       <pubDate>Tue, 15 Sep 2026 14:15:24 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BUTLAN CHP'Sİ BİRBİRİNE GİRECEK! O isim Kılıçdaroğlu'nun kurultay planına sert çıktı! İşte detaylar!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: İBB Meclisi'ndeki "Kocan Nerede" Tartışmasına Çoban Ateş Püskürdü! "Kadının Yapması Daha Acayip!"</title>
-      <link>https://www.youtube.com/watch?v=vngH4IPsQ6w</link>
-      <guid isPermaLink="false">vngH4IPsQ6w</guid>
-      <pubDate>Tue, 15 Sep 2026 14:00:37 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: İBB Meclisi'ndeki "Kocan Nerede" Tartışmasına Çoban Ateş Püskürdü! "Kadının Yapması Daha Acayip!"</description>
     </item>
   </channel>
 </rss>
