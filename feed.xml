@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 16:30:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 16:35:25 +0000</lastBuildDate>
     <item>
       <title>Halk TV: HALK TV O RAPORA ULAŞTI! Rojin'in konuştuğu son isim ortaya çıktı! Bomba güvenlik görevlisi detayı!</title>
       <link>https://www.youtube.com/watch?v=7jGqQkl5tP0</link>
       <guid isPermaLink="false">7jGqQkl5tP0</guid>
       <pubDate>Tue, 15 Sep 2026 16:30:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: HALK TV O RAPORA ULAŞTI! Rojin'in konuştuğu son isim ortaya çıktı! Bomba güvenlik görevlisi detayı!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Pusula Portföy Fonlarında Şok Ödeme Krizi! Fonlar Temerrüde Düştü! Özlem Gürses Anlattı</title>
+      <link>https://www.youtube.com/watch?v=awplTcfuyZs</link>
+      <guid isPermaLink="false">awplTcfuyZs</guid>
+      <pubDate>Tue, 15 Sep 2026 16:30:00 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Pusula Portföy Fonlarında Şok Ödeme Krizi! Fonlar Temerrüde Düştü! Özlem Gürses Anlattı</description>
     </item>
     <item>
       <title>Tele2 Haber: Kaşif Kozinoğlu soruşturmasında gazeteci Günday 2. kez tutuklandı!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">reO0h6KmJCk</guid>
       <pubDate>Tue, 15 Sep 2026 13:03:57 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Ülkü Çoban ile Manşet Ötesi (16.09.26)</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Onur Öncü ile Sabah Pusulası (16.09.26)</title>
-      <link>https://www.youtube.com/watch?v=iHM6x0cqVnc</link>
-      <guid isPermaLink="false">iHM6x0cqVnc</guid>
-      <pubDate>Tue, 15 Sep 2026 13:02:25 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Onur Öncü ile Sabah Pusulası (16.09.26)</description>
     </item>
   </channel>
 </rss>
