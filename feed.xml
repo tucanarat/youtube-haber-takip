@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 19:55:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 20:00:55 +0000</lastBuildDate>
     <item>
       <title>Halk TV: BİR AYDA TÜM TABLO DEĞİŞTİ! Kamuoyu araştırmalarında dikkat çeken değişikliğin sebebi ne?</title>
       <link>https://www.youtube.com/watch?v=127rqkyCSHk</link>
       <guid isPermaLink="false">127rqkyCSHk</guid>
       <pubDate>Tue, 15 Sep 2026 19:50:37 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BİR AYDA TÜM TABLO DEĞİŞTİ! Kamuoyu araştırmalarında dikkat çeken değişikliğin sebebi ne?</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: SÖZCÜ TV İRAN'DA! Tebriz Sokaklarında İsrail ve ABD'ye Karşı Savaş Çığlıkları! Çok Özel Görüntüler</title>
+      <link>https://www.youtube.com/watch?v=qYUY7rIDvXo</link>
+      <guid isPermaLink="false">qYUY7rIDvXo</guid>
+      <pubDate>Tue, 15 Sep 2026 19:50:07 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: SÖZCÜ TV İRAN'DA! Tebriz Sokaklarında İsrail ve ABD'ye Karşı Savaş Çığlıkları! Çok Özel Görüntüler</description>
     </item>
     <item>
       <title>Tele2 Haber: Mansur Yavaş'tan Abdülkadir Selvi'ye sert yanıt! Murat Taylan'dan 'Erdoğanlı' fotoğraf yorumu!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">t6_3WUt5f9I</guid>
       <pubDate>Tue, 15 Sep 2026 15:00:37 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BİLAL ERDOĞAN'IN DİLİ TUTULDU! 'Demirtaş' sorusuna verdiği yanıt gündem oldu! Sosyal medya yıkıldı!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Bilal Erdoğan'ın Vasfını Ülkü Çoban Sorguladı... "Babasının Oğlu Olmanın Faydasını Görüyor!"</title>
-      <link>https://www.youtube.com/watch?v=nJIIOZA6aD0</link>
-      <guid isPermaLink="false">nJIIOZA6aD0</guid>
-      <pubDate>Tue, 15 Sep 2026 15:00:34 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Bilal Erdoğan'ın Vasfını Ülkü Çoban Sorguladı... "Babasının Oğlu Olmanın Faydasını Görüyor!"</description>
     </item>
   </channel>
 </rss>
