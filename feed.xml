@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 09:15:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 09:20:36 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SARAY'I AYAKLANDIRACAK İDDİA! Bülent Arınç o çıkışından önce Davutoğlu ile bunu konuşmuş! Şok eder!</title>
+      <link>https://www.youtube.com/watch?v=x_jI1ObSsxU</link>
+      <guid isPermaLink="false">x_jI1ObSsxU</guid>
+      <pubDate>Tue, 15 Sep 2026 09:15:24 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SARAY'I AYAKLANDIRACAK İDDİA! Bülent Arınç o çıkışından önce Davutoğlu ile bunu konuşmuş! Şok eder!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İBB'de Kocan Nerede Kavgası! AKP'li ve CHP'li Üyeler Birbirine Girdi! İsmail Küçükkaya Yorumladı</title>
       <link>https://www.youtube.com/watch?v=P5N4jmdMJWA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ctfLBZFY_Nw</guid>
       <pubDate>Mon, 14 Sep 2026 22:55:14 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Serap Belovacıklı ile Haber Saati</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Senem Toluay Ilgaz ile Öncesi Sonrası</title>
-      <link>https://www.youtube.com/watch?v=ToXUVsCE6_g</link>
-      <guid isPermaLink="false">ToXUVsCE6_g</guid>
-      <pubDate>Mon, 14 Sep 2026 22:54:49 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Senem Toluay Ilgaz ile Öncesi Sonrası</description>
     </item>
   </channel>
 </rss>
