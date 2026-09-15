@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 11:15:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 11:20:37 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: "Ailem Güvende" Operasyonlarını Protesto Eden Eylemciler Gözaltına Alındı!</title>
+      <link>https://www.youtube.com/watch?v=6FBKY5mFoMc</link>
+      <guid isPermaLink="false">6FBKY5mFoMc</guid>
+      <pubDate>Tue, 15 Sep 2026 11:15:20 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "Ailem Güvende" Operasyonlarını Protesto Eden Eylemciler Gözaltına Alındı!</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | İstanbul Emek, Barış ve Demokrasi Güçleri'ne İstanbul Adliyesi Önünde Polis Müdahalesi</title>
+      <link>https://www.youtube.com/watch?v=iQrFLARHK_I</link>
+      <guid isPermaLink="false">iQrFLARHK_I</guid>
+      <pubDate>Tue, 15 Sep 2026 11:14:03 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | İstanbul Emek, Barış ve Demokrasi Güçleri'ne İstanbul Adliyesi Önünde Polis Müdahalesi</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Sinoplu emeklilerden çarpıcı isyan: "30 yıl prim ödedik, aldığımız para 23 bin lira!"</title>
+      <link>https://www.youtube.com/watch?v=uoWKxVVA38c</link>
+      <guid isPermaLink="false">uoWKxVVA38c</guid>
+      <pubDate>Tue, 15 Sep 2026 11:11:19 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Sinoplu emeklilerden çarpıcı isyan: "30 yıl prim ödedik, aldığımız para 23 bin lira!"</description>
+    </item>
     <item>
       <title>Halk TV: FIRTINA KOPTU KOPACAK! Özgür Özel koltukları titretecek adımı attı! MYK'da neler konuşulacak neler!</title>
       <link>https://www.youtube.com/watch?v=ahtDaNkj1Vc</link>
@@ -323,13 +344,6 @@
       <description>ANKA Haber Ajansı kanalından yeni video: Asu Kaya'dan, Adalet Peşinde Aileleri Platformu'nun Adalet Bakanlığı önündeki eylemine destek #Canlı</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | İstanbul Emek, Barış ve Demokrasi Güçleri'ne İstanbul Adliyesi Önünde Polis Müdahalesi</title>
-      <link>https://www.youtube.com/watch?v=iQrFLARHK_I</link>
-      <guid isPermaLink="false">iQrFLARHK_I</guid>
-      <pubDate>Tue, 15 Sep 2026 08:22:05 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | İstanbul Emek, Barış ve Demokrasi Güçleri'ne İstanbul Adliyesi Önünde Polis Müdahalesi</description>
-    </item>
-    <item>
       <title>Cumhuriyet: Silivri'de geç saatlere kadar süren duruşmalara İbrahim Kaboğlu'ndan tepki: İnsani değil...</title>
       <link>https://www.youtube.com/watch?v=YofJXLIvseo</link>
       <guid isPermaLink="false">YofJXLIvseo</guid>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">3ZuwAp3Rq-E</guid>
       <pubDate>Tue, 15 Sep 2026 08:17:40 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Onur Öncü ile Sabah Pusulası | Kurtlar Vadisi gerçek mi oldu? |  Türkiye güvenli mi?</description>
-    </item>
-    <item>
-      <title>Halk TV: ‘Tuğberk İmamoğlu’ gemisinin kaptanı Yaşar Kayhan’ın cansız bedeni Silivri açıklarında bulundu!</title>
-      <link>https://www.youtube.com/shorts/hJ_TvILOTW8</link>
-      <guid isPermaLink="false">hJ_TvILOTW8</guid>
-      <pubDate>Tue, 15 Sep 2026 08:04:15 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ‘Tuğberk İmamoğlu’ gemisinin kaptanı Yaşar Kayhan’ın cansız bedeni Silivri açıklarında bulundu!</description>
-    </item>
-    <item>
-      <title>Halk TV: Ekrem İmamoğlu sosyal medyayı ayağa kaldırdı! Tuzla davasındaki savunmasını paylaştı! İşte o sözler!</title>
-      <link>https://www.youtube.com/watch?v=oHstoSRtKXc</link>
-      <guid isPermaLink="false">oHstoSRtKXc</guid>
-      <pubDate>Tue, 15 Sep 2026 08:04:08 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ekrem İmamoğlu sosyal medyayı ayağa kaldırdı! Tuzla davasındaki savunmasını paylaştı! İşte o sözler!</description>
     </item>
   </channel>
 </rss>
