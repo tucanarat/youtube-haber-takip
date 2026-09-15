@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 08:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 08:45:31 +0000</lastBuildDate>
     <item>
       <title>Cumhuriyet: Beş şehir!-Mustafa Balbay</title>
       <link>https://www.youtube.com/watch?v=tYBseULjmIk</link>
@@ -15,11 +15,25 @@
       <description>Cumhuriyet kanalından yeni video: Beş şehir!-Mustafa Balbay</description>
     </item>
     <item>
+      <title>Tele2 Haber: #CANLI Asu Kaya'dan, Adalet Peşinde Aileleri Platformu'nun Adalet Bakanlığı önündeki eylemine destek</title>
+      <link>https://www.youtube.com/watch?v=L-I1oiiSGEU</link>
+      <guid isPermaLink="false">L-I1oiiSGEU</guid>
+      <pubDate>Tue, 15 Sep 2026 08:36:20 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Asu Kaya'dan, Adalet Peşinde Aileleri Platformu'nun Adalet Bakanlığı önündeki eylemine destek</description>
+    </item>
+    <item>
       <title>SÖZCÜ TV: İktidarda Ortalık Karıştı! Vali AKP'li Vekili Tehdit Etti İddiası! Saygı Öztürk Belge Belge Anlattı</title>
       <link>https://www.youtube.com/watch?v=gwYPPV9bT2s</link>
       <guid isPermaLink="false">gwYPPV9bT2s</guid>
       <pubDate>Tue, 15 Sep 2026 08:30:29 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İktidarda Ortalık Karıştı! Vali AKP'li Vekili Tehdit Etti İddiası! Saygı Öztürk Belge Belge Anlattı</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: Asu Kaya'dan, Adalet Peşinde Aileleri Platformu'nun Adalet Bakanlığı önündeki eylemine destek #Canlı</title>
+      <link>https://www.youtube.com/watch?v=5yIPXgI_5Q8</link>
+      <guid isPermaLink="false">5yIPXgI_5Q8</guid>
+      <pubDate>Tue, 15 Sep 2026 08:24:50 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Asu Kaya'dan, Adalet Peşinde Aileleri Platformu'nun Adalet Bakanlığı önündeki eylemine destek #Canlı</description>
     </item>
     <item>
       <title>Cumhuriyet: Silivri'de geç saatlere kadar süren duruşmalara İbrahim Kaboğlu'ndan tepki: İnsani değil...</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">vqfQQaAQkQM</guid>
       <pubDate>Mon, 14 Sep 2026 22:20:29 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Eski MİT'çi Kaşif Kozinoğlu'nun Şüpheli Ölümü! Silivri’deki Sır Dolu Anlar! Kurtlar Vadisi İtirafı</description>
-    </item>
-    <item>
-      <title>Halk TV: TIR ŞOFÖRLERİ TOPLANDI! Kapıkule yakınında basına konuştular: Patronların iki dudağı arasındayız!</title>
-      <link>https://www.youtube.com/watch?v=xO_CoeHpi38</link>
-      <guid isPermaLink="false">xO_CoeHpi38</guid>
-      <pubDate>Mon, 14 Sep 2026 22:10:10 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: TIR ŞOFÖRLERİ TOPLANDI! Kapıkule yakınında basına konuştular: Patronların iki dudağı arasındayız!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: YENİ Parti İstanbul Milletvekili Suat Özçağdaş, TBMM'de basın toplantısı yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=TjwfL5bCj2o</link>
-      <guid isPermaLink="false">TjwfL5bCj2o</guid>
-      <pubDate>Mon, 14 Sep 2026 22:05:11 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti İstanbul Milletvekili Suat Özçağdaş, TBMM'de basın toplantısı yapıyor #Canlı</description>
     </item>
   </channel>
 </rss>
