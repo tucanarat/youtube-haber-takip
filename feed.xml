@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:00:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:05:27 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: İBB Meclisi’nde skandal sözler! AKP’li üyeden CHP’li üyeye yönelik sözler gündem oldu!</title>
+      <link>https://www.youtube.com/watch?v=_r7GAvJwd18</link>
+      <guid isPermaLink="false">_r7GAvJwd18</guid>
+      <pubDate>Tue, 15 Sep 2026 22:50:38 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İBB Meclisi’nde skandal sözler! AKP’li üyeden CHP’li üyeye yönelik sözler gündem oldu!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: ANKARA KULİSLERİNİ SALLAYAN İDDİA! 2027'de Erken Seçim Mi Geliyor? Erdoğan Düğmeye Basabilir</title>
       <link>https://www.youtube.com/watch?v=e8u15oVQwuQ</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">3KWB-7mkP70</guid>
       <pubDate>Tue, 15 Sep 2026 17:52:18 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: HEDEF RUSYA VE ÇİN! Nevzat Çiçek Trump'ın Şeytani Uzay Planını İfşa Etti</description>
-    </item>
-    <item>
-      <title>Halk TV: SOSYAL MEDYANIN DİLİNE DÜŞTÜ! Bakan Ömer Bolat boş koltuklara böyle seslendi! Görenler inanamadı!</title>
-      <link>https://www.youtube.com/watch?v=A55ickwDf68</link>
-      <guid isPermaLink="false">A55ickwDf68</guid>
-      <pubDate>Tue, 15 Sep 2026 17:45:01 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SOSYAL MEDYANIN DİLİNE DÜŞTÜ! Bakan Ömer Bolat boş koltuklara böyle seslendi! Görenler inanamadı!</description>
     </item>
   </channel>
 </rss>
