@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 20:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 20:10:32 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: İpek Özbey ile Karşı Karşıya | Erol Mütercimler &amp; Nevzat Çiçek | 15 Eylül</title>
+      <link>https://www.youtube.com/watch?v=-WyDIqu9fxg</link>
+      <guid isPermaLink="false">-WyDIqu9fxg</guid>
+      <pubDate>Tue, 15 Sep 2026 20:05:38 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İpek Özbey ile Karşı Karşıya | Erol Mütercimler &amp; Nevzat Çiçek | 15 Eylül</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Murat Taylan: Adalet Bakanlığı önündeki tepkileri kaç televizyon gösteriyor?</title>
+      <link>https://www.youtube.com/watch?v=7u7g8r8giiY</link>
+      <guid isPermaLink="false">7u7g8r8giiY</guid>
+      <pubDate>Tue, 15 Sep 2026 20:00:31 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Murat Taylan: Adalet Bakanlığı önündeki tepkileri kaç televizyon gösteriyor?</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Özlem Gürses ile Sözcü Ana Haber | 15 Eylül</title>
       <link>https://www.youtube.com/watch?v=LbZ8UN--v04</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">NMokSWR16CM</guid>
       <pubDate>Tue, 15 Sep 2026 15:25:10 +0000</pubDate>
       <description>Halk TV kanalından yeni video: KOZİNOĞLU DOSYASINDA YENİ GELİŞME! Gazeteci Selahattin Günday "Örgüt kurma suçundan" tutuklandı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Türkiye'nin Dibinde YENİ İSRAİL Kuruluyor! Netanyahu'nun Şeytani Kıbrıs Planı! Ankara Alarma Geçti</title>
-      <link>https://www.youtube.com/watch?v=2VFwYebCMOU</link>
-      <guid isPermaLink="false">2VFwYebCMOU</guid>
-      <pubDate>Tue, 15 Sep 2026 15:20:42 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Türkiye'nin Dibinde YENİ İSRAİL Kuruluyor! Netanyahu'nun Şeytani Kıbrıs Planı! Ankara Alarma Geçti</description>
-    </item>
-    <item>
-      <title>Halk TV: HALK TV EKRANLARINDA AÇIKLADI! Deniz Yavuzyılmaz'ın ortaya çıkardığı skandal çok can yakar!</title>
-      <link>https://www.youtube.com/watch?v=_KIYDvdNx5s</link>
-      <guid isPermaLink="false">_KIYDvdNx5s</guid>
-      <pubDate>Tue, 15 Sep 2026 15:15:10 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: HALK TV EKRANLARINDA AÇIKLADI! Deniz Yavuzyılmaz'ın ortaya çıkardığı skandal çok can yakar!</description>
     </item>
   </channel>
 </rss>
