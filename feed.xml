@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 09:20:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 09:30:44 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Adalet Peşinde Aileleri Sözcüsü Döne Kaya Gözyaşlarıyla Tepki Gösterdi!</title>
+      <link>https://www.youtube.com/shorts/1lxCZodpjq4</link>
+      <guid isPermaLink="false">1lxCZodpjq4</guid>
+      <pubDate>Tue, 15 Sep 2026 09:20:34 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Adalet Peşinde Aileleri Sözcüsü Döne Kaya Gözyaşlarıyla Tepki Gösterdi!</description>
+    </item>
     <item>
       <title>Halk TV: SARAY'I AYAKLANDIRACAK İDDİA! Bülent Arınç o çıkışından önce Davutoğlu ile bunu konuşmuş! Şok eder!</title>
       <link>https://www.youtube.com/watch?v=x_jI1ObSsxU</link>
       <guid isPermaLink="false">x_jI1ObSsxU</guid>
       <pubDate>Tue, 15 Sep 2026 09:15:24 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SARAY'I AYAKLANDIRACAK İDDİA! Bülent Arınç o çıkışından önce Davutoğlu ile bunu konuşmuş! Şok eder!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Kahramanmaraş Depremindeki Tanıklıklarını Anlatan Asu Kaya'nın Sesi Titredi! "Bir Şişe Su İçin..."</title>
+      <link>https://www.youtube.com/watch?v=UkwDd8gWPTs</link>
+      <guid isPermaLink="false">UkwDd8gWPTs</guid>
+      <pubDate>Tue, 15 Sep 2026 09:13:38 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Kahramanmaraş Depremindeki Tanıklıklarını Anlatan Asu Kaya'nın Sesi Titredi! "Bir Şişe Su İçin..."</description>
     </item>
     <item>
       <title>SÖZCÜ TV: İBB'de Kocan Nerede Kavgası! AKP'li ve CHP'li Üyeler Birbirine Girdi! İsmail Küçükkaya Yorumladı</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">LbZ8UN--v04</guid>
       <pubDate>Mon, 14 Sep 2026 22:56:14 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses ile Sözcü Ana Haber</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Damla Doğan Tuncel ile 1 Saat</title>
-      <link>https://www.youtube.com/watch?v=wRPpDY3kC64</link>
-      <guid isPermaLink="false">wRPpDY3kC64</guid>
-      <pubDate>Mon, 14 Sep 2026 22:55:42 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Damla Doğan Tuncel ile 1 Saat</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Serap Belovacıklı ile Haber Saati</title>
-      <link>https://www.youtube.com/watch?v=ctfLBZFY_Nw</link>
-      <guid isPermaLink="false">ctfLBZFY_Nw</guid>
-      <pubDate>Mon, 14 Sep 2026 22:55:14 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Serap Belovacıklı ile Haber Saati</description>
     </item>
   </channel>
 </rss>
