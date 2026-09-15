@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:51:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:55:25 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: 43 Milyonluk Düğünde Sahte Altın Şoku! Murat Ağırel Fenomenlerin Para Aklama Oyununu İfşa Etti</title>
+      <link>https://www.youtube.com/watch?v=pHjF9hyxe3Q</link>
+      <guid isPermaLink="false">pHjF9hyxe3Q</guid>
+      <pubDate>Tue, 15 Sep 2026 23:50:30 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: 43 Milyonluk Düğünde Sahte Altın Şoku! Murat Ağırel Fenomenlerin Para Aklama Oyununu İfşa Etti</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: KAŞİF KOZİNOĞLU'NUN SIR ÖLÜMÜ! Kurtlar Vadisi Gerçeği ve FETÖ İzi! Silivri'deki Büyük Sır</title>
       <link>https://www.youtube.com/watch?v=-0Llutr789o</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">YcwT65_u3AQ</guid>
       <pubDate>Tue, 15 Sep 2026 18:10:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: YENİ Parti'ye Gönderilen Tebligat Sözcü Tv'de! İsmail Saymaz Bilinmeyenleri Anlattı! AYM'den Uyarı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Yeni Parti'nin ismi değişecek mi? Murat Taylan Yenilik Partisi'nin oy oranını açıkladı</title>
-      <link>https://www.youtube.com/watch?v=u-McZfQqF-Q</link>
-      <guid isPermaLink="false">u-McZfQqF-Q</guid>
-      <pubDate>Tue, 15 Sep 2026 18:00:38 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Yeni Parti'nin ismi değişecek mi? Murat Taylan Yenilik Partisi'nin oy oranını açıkladı</description>
     </item>
   </channel>
 </rss>
