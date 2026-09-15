@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 13:55:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 14:00:53 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Serap Belovacıklı ile Haber Saati | 15 Eylül</title>
+      <link>https://www.youtube.com/watch?v=ctfLBZFY_Nw</link>
+      <guid isPermaLink="false">ctfLBZFY_Nw</guid>
+      <pubDate>Tue, 15 Sep 2026 13:57:10 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Serap Belovacıklı ile Haber Saati | 15 Eylül</description>
+    </item>
+    <item>
+      <title>Halk TV: 7 yıl sonra tahliye edilen Selçuk Mızraklı: Onurlu bir barış için 7 yılımı helal ediyorum!</title>
+      <link>https://www.youtube.com/shorts/_fTGzDOz4ts</link>
+      <guid isPermaLink="false">_fTGzDOz4ts</guid>
+      <pubDate>Tue, 15 Sep 2026 13:54:48 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: 7 yıl sonra tahliye edilen Selçuk Mızraklı: Onurlu bir barış için 7 yılımı helal ediyorum!</description>
+    </item>
     <item>
       <title>Halk TV: YENİ Parti Sözcüsü Zeynel Emre, Parti Genel Merkezi’nde Basın Açıklaması Yaptı (15 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=zZghOHOGLP8</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">YNuVmIv1yL8</guid>
       <pubDate>Tue, 15 Sep 2026 11:00:48 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: LGBTİ+ operasyonunu protesto ederken gözaltına alınmışlardı... Avukatlar serbest bırakıldı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: ŞEMSİYELERİ HAZIRLAYIN! Metrekareye 20 Kilogram Yağış Düşecek! İstanbul İçin Kritik Uyarı</title>
-      <link>https://www.youtube.com/watch?v=AqR7IpoWXf4</link>
-      <guid isPermaLink="false">AqR7IpoWXf4</guid>
-      <pubDate>Tue, 15 Sep 2026 11:00:27 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: ŞEMSİYELERİ HAZIRLAYIN! Metrekareye 20 Kilogram Yağış Düşecek! İstanbul İçin Kritik Uyarı</description>
-    </item>
-    <item>
-      <title>Halk TV: ERDOĞAN O HAMLESİYLE KENDİ SONUNU GETİRECEK! Ortaya öyle belgeler saçıldı ki! Milyonlar ayaklanır!</title>
-      <link>https://www.youtube.com/watch?v=yQ6HmRKYlu8</link>
-      <guid isPermaLink="false">yQ6HmRKYlu8</guid>
-      <pubDate>Tue, 15 Sep 2026 10:50:07 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ERDOĞAN O HAMLESİYLE KENDİ SONUNU GETİRECEK! Ortaya öyle belgeler saçıldı ki! Milyonlar ayaklanır!</description>
     </item>
   </channel>
 </rss>
