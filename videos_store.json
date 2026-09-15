@@ -47225,7 +47225,7 @@
   },
   "ctfLBZFY_Nw": {
     "id": "ctfLBZFY_Nw",
-    "title": "Serap Belovacıklı ile Haber Saati",
+    "title": "#CANLI Serap Belovacıklı ile Haber Saati",
     "link": "https://www.youtube.com/watch?v=ctfLBZFY_Nw",
     "published": "2026-09-14T22:55:14+00:00",
     "published_ts": 1789426514,
@@ -47235,8 +47235,8 @@
     "id": "ToXUVsCE6_g",
     "title": "Senem Toluay Ilgaz ile Öncesi Sonrası | 15 Eylül",
     "link": "https://www.youtube.com/watch?v=ToXUVsCE6_g",
-    "published": "2026-09-14T22:54:49+00:00",
-    "published_ts": 1789426489,
+    "published": "2026-09-15T11:57:17+00:00",
+    "published_ts": 1789473437,
     "channel_name": "SÖZCÜ TV"
   },
   "3OVE1zXyAZ8": {
@@ -47918,5 +47918,13 @@
     "published": "2026-09-15T10:22:04+00:00",
     "published_ts": 1789467724,
     "channel_name": "Halk TV"
+  },
+  "wPjiPaTiWOk": {
+    "id": "wPjiPaTiWOk",
+    "title": "Mansur Yavaş Cezaevine mi Girecek? Abdülkadir Selvioğlu'nun İddialarına Jet Hızında Yanıt!",
+    "link": "https://www.youtube.com/watch?v=wPjiPaTiWOk",
+    "published": "2026-09-15T12:00:03+00:00",
+    "published_ts": 1789473603,
+    "channel_name": "SÖZCÜ TV"
   }
 }

@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 11:55:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 12:00:53 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Mansur Yavaş Cezaevine mi Girecek? Abdülkadir Selvioğlu'nun İddialarına Jet Hızında Yanıt!</title>
+      <link>https://www.youtube.com/watch?v=wPjiPaTiWOk</link>
+      <guid isPermaLink="false">wPjiPaTiWOk</guid>
+      <pubDate>Tue, 15 Sep 2026 12:00:03 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Mansur Yavaş Cezaevine mi Girecek? Abdülkadir Selvioğlu'nun İddialarına Jet Hızında Yanıt!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Senem Toluay Ilgaz ile Öncesi Sonrası | 15 Eylül</title>
+      <link>https://www.youtube.com/watch?v=ToXUVsCE6_g</link>
+      <guid isPermaLink="false">ToXUVsCE6_g</guid>
+      <pubDate>Tue, 15 Sep 2026 11:57:17 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Senem Toluay Ilgaz ile Öncesi Sonrası | 15 Eylül</description>
+    </item>
     <item>
       <title>Halk TV: ERDOĞAN FENA YAKALANDI! İbrahim Kahveci gizli seçim planının ilk perdesini ifşaladı! Ortalık yanar!</title>
       <link>https://www.youtube.com/watch?v=ZFLoJeE986M</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">1lxCZodpjq4</guid>
       <pubDate>Tue, 15 Sep 2026 09:20:34 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Adalet Peşinde Aileleri Sözcüsü Döne Kaya Gözyaşlarıyla Tepki Gösterdi!</description>
-    </item>
-    <item>
-      <title>Halk TV: SARAY'I AYAKLANDIRACAK İDDİA! Bülent Arınç o çıkışından önce Davutoğlu ile bunu konuşmuş! Şok eder!</title>
-      <link>https://www.youtube.com/watch?v=x_jI1ObSsxU</link>
-      <guid isPermaLink="false">x_jI1ObSsxU</guid>
-      <pubDate>Tue, 15 Sep 2026 09:15:24 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SARAY'I AYAKLANDIRACAK İDDİA! Bülent Arınç o çıkışından önce Davutoğlu ile bunu konuşmuş! Şok eder!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Kahramanmaraş Depremindeki Tanıklıklarını Anlatan Asu Kaya'nın Sesi Titredi! "Bir Şişe Su İçin..."</title>
-      <link>https://www.youtube.com/watch?v=UkwDd8gWPTs</link>
-      <guid isPermaLink="false">UkwDd8gWPTs</guid>
-      <pubDate>Tue, 15 Sep 2026 09:13:38 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Kahramanmaraş Depremindeki Tanıklıklarını Anlatan Asu Kaya'nın Sesi Titredi! "Bir Şişe Su İçin..."</description>
     </item>
   </channel>
 </rss>
