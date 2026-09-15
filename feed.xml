@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 17:55:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 18:00:52 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: HEDEF RUSYA VE ÇİN! Nevzat Çiçek Trump'ın Şeytani Uzay Planını İfşa Etti</title>
+      <link>https://www.youtube.com/watch?v=3KWB-7mkP70</link>
+      <guid isPermaLink="false">3KWB-7mkP70</guid>
+      <pubDate>Tue, 15 Sep 2026 17:52:18 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: HEDEF RUSYA VE ÇİN! Nevzat Çiçek Trump'ın Şeytani Uzay Planını İfşa Etti</description>
+    </item>
     <item>
       <title>Halk TV: SOSYAL MEDYANIN DİLİNE DÜŞTÜ! Bakan Ömer Bolat boş koltuklara böyle seslendi! Görenler inanamadı!</title>
       <link>https://www.youtube.com/watch?v=A55ickwDf68</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">zZghOHOGLP8</guid>
       <pubDate>Tue, 15 Sep 2026 13:48:45 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Parti Sözcüsü Zeynel Emre, Parti Genel Merkezi’nde Basın Açıklaması Yaptı (15 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! MİLYONLARIN GÖZÜ ORADAYDI! YENİ Parti'nin isim değişikliği kararı belli oldu!</title>
-      <link>https://www.youtube.com/watch?v=sbW3FYeQitE</link>
-      <guid isPermaLink="false">sbW3FYeQitE</guid>
-      <pubDate>Tue, 15 Sep 2026 13:45:03 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! MİLYONLARIN GÖZÜ ORADAYDI! YENİ Parti'nin isim değişikliği kararı belli oldu!</description>
     </item>
   </channel>
 </rss>
