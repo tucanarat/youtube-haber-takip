@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 08:10:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 08:15:38 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ‘Tuğberk İmamoğlu’ gemisinin kaptanı Yaşar Kayhan’ın cansız bedeni Silivri açıklarında bulundu!</title>
+      <link>https://www.youtube.com/shorts/hJ_TvILOTW8</link>
+      <guid isPermaLink="false">hJ_TvILOTW8</guid>
+      <pubDate>Tue, 15 Sep 2026 08:04:15 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ‘Tuğberk İmamoğlu’ gemisinin kaptanı Yaşar Kayhan’ın cansız bedeni Silivri açıklarında bulundu!</description>
+    </item>
+    <item>
+      <title>Halk TV: Ekrem İmamoğlu sosyal medyayı ayağa kaldırdı! Tuzla davasındaki savunmasını paylaştı! İşte o sözler!</title>
+      <link>https://www.youtube.com/watch?v=oHstoSRtKXc</link>
+      <guid isPermaLink="false">oHstoSRtKXc</guid>
+      <pubDate>Tue, 15 Sep 2026 08:04:08 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Ekrem İmamoğlu sosyal medyayı ayağa kaldırdı! Tuzla davasındaki savunmasını paylaştı! İşte o sözler!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İsmail Küçükkaya ile Günaydın Türkiyem | 15 Eylül</title>
       <link>https://www.youtube.com/watch?v=Ix2yNJkjYw4</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">xnIguJZEVCc</guid>
       <pubDate>Mon, 14 Sep 2026 22:00:16 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Afşin Hatipoğlu Anlatıyor! YENİ Parti'ye Yargıtay'dan İsim Vetosu! Mansur Yavaş Adaylık Kulisleri</description>
-    </item>
-    <item>
-      <title>Halk TV: Ülkü İnanlı’dan yürekleri yakan anlatım! "Amine Cansu Çelik, tam 11 gün kızını görmedi!"</title>
-      <link>https://www.youtube.com/watch?v=wZFslxXRaVs</link>
-      <guid isPermaLink="false">wZFslxXRaVs</guid>
-      <pubDate>Mon, 14 Sep 2026 21:49:48 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ülkü İnanlı’dan yürekleri yakan anlatım! "Amine Cansu Çelik, tam 11 gün kızını görmedi!"</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! Bakırköy’de kentsel dönüşüm nedeniyle boşaltılan binanın çatısı alev alev yandı!</title>
-      <link>https://www.youtube.com/watch?v=OYUXF_KnvDM</link>
-      <guid isPermaLink="false">OYUXF_KnvDM</guid>
-      <pubDate>Mon, 14 Sep 2026 21:46:24 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! Bakırköy’de kentsel dönüşüm nedeniyle boşaltılan binanın çatısı alev alev yandı!</description>
     </item>
   </channel>
 </rss>
