@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 20:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:00:55 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Erol Mütercimler Kaşif Kozinoğlu'nun Şüpheli Ölümünün Sır Perdesini Aralıyor! FETÖ, CIA, Ruzi Nazar</title>
+      <link>https://www.youtube.com/watch?v=PqMUwxQIX-w</link>
+      <guid isPermaLink="false">PqMUwxQIX-w</guid>
+      <pubDate>Tue, 15 Sep 2026 20:50:26 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Erol Mütercimler Kaşif Kozinoğlu'nun Şüpheli Ölümünün Sır Perdesini Aralıyor! FETÖ, CIA, Ruzi Nazar</description>
+    </item>
     <item>
       <title>Halk TV: Halk TV'nin, izleyicisinin desteğiyle ayakta durduğuna işaret eden Uğur Dündar'dan çok önemli çağrı!</title>
       <link>https://www.youtube.com/watch?v=GZxfKj-nePY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">u48TkGe3Kck</guid>
       <pubDate>Tue, 15 Sep 2026 15:50:19 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Bülent Arınç Konuştu! AKP Karıştı! Melih Gökçek Polemiği Büyüyor! Özlem Gürses'ten Çarpıcı Sözler</description>
-    </item>
-    <item>
-      <title>Halk TV: Ankara'da LGBTİ+'lara Yönelik Operasyonlara Polis Müdahalesi! (15 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=y9v2trMoqx4</link>
-      <guid isPermaLink="false">y9v2trMoqx4</guid>
-      <pubDate>Tue, 15 Sep 2026 15:46:44 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ankara'da LGBTİ+'lara Yönelik Operasyonlara Polis Müdahalesi! (15 Eylül 2026)</description>
     </item>
   </channel>
 </rss>
