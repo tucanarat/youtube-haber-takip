@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 15:40:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 15:45:30 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Ankara'da LGBTİ+'lara yönelik operasyonlara karşı protesto #Canlı</title>
+      <link>https://www.youtube.com/watch?v=UdXSAjWb0bQ</link>
+      <guid isPermaLink="false">UdXSAjWb0bQ</guid>
+      <pubDate>Tue, 15 Sep 2026 15:43:41 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Ankara'da LGBTİ+'lara yönelik operasyonlara karşı protesto #Canlı</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: İbrahim Kaboğlu, İstanbul Barosu seçimleri öncesi açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=wCEVK5OQht0</link>
+      <guid isPermaLink="false">wCEVK5OQht0</guid>
+      <pubDate>Tue, 15 Sep 2026 15:34:03 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: İbrahim Kaboğlu, İstanbul Barosu seçimleri öncesi açıklama yapıyor #Canlı</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI Ankara'da LGBTİ+'lara yönelik operasyonlara karşı protesto #Canlı</title>
       <link>https://www.youtube.com/watch?v=tOFuh01MqO0</link>
@@ -15,11 +29,11 @@
       <description>Tele2 Haber kanalından yeni video: #CANLI Ankara'da LGBTİ+'lara yönelik operasyonlara karşı protesto #Canlı</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | Ankara'da LGBTİ+'lara Yönelik Operasyonlara Polis Müdahalesi!</title>
+      <title>Halk TV: Ankara'da LGBTİ+'lara Yönelik Operasyonlara Polis Müdahalesi! (15 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=y9v2trMoqx4</link>
       <guid isPermaLink="false">y9v2trMoqx4</guid>
       <pubDate>Tue, 15 Sep 2026 15:28:52 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Ankara'da LGBTİ+'lara Yönelik Operasyonlara Polis Müdahalesi!</description>
+      <description>Halk TV kanalından yeni video: Ankara'da LGBTİ+'lara Yönelik Operasyonlara Polis Müdahalesi! (15 Eylül 2026)</description>
     </item>
     <item>
       <title>Halk TV: KOZİNOĞLU DOSYASINDA YENİ GELİŞME! Gazeteci Selahattin Günday "Örgüt kurma suçundan" tutuklandı!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">fAhdkMevrjg</guid>
       <pubDate>Tue, 15 Sep 2026 12:50:12 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Meksika'dan gelen yolcunun valizinde 25 kilo uyuşturucu bulundu! Pilot kıyafetli kişiler aranıyor!</description>
-    </item>
-    <item>
-      <title>Halk TV: Kastamonu’da palamut avına çıkan balıkçılar, sahilde yiyecek arayan ayıyla karşılaştı!</title>
-      <link>https://www.youtube.com/shorts/WeEkZoQxQGo</link>
-      <guid isPermaLink="false">WeEkZoQxQGo</guid>
-      <pubDate>Tue, 15 Sep 2026 12:45:58 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Kastamonu’da palamut avına çıkan balıkçılar, sahilde yiyecek arayan ayıyla karşılaştı!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: YENİ Parti Sözcüsü Zeynel Emre, Parti Genel Merkezi’nde basın açıklaması yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=EWqEk0Z_8a0</link>
-      <guid isPermaLink="false">EWqEk0Z_8a0</guid>
-      <pubDate>Tue, 15 Sep 2026 12:41:58 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Sözcüsü Zeynel Emre, Parti Genel Merkezi’nde basın açıklaması yapıyor #Canlı</description>
     </item>
   </channel>
 </rss>
