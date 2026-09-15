@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 11:35:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 11:40:37 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Yavuz Ağıralioğlu ve Ali Babacan ortak açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=hv3tcFL9N4E</link>
+      <guid isPermaLink="false">hv3tcFL9N4E</guid>
+      <pubDate>Tue, 15 Sep 2026 11:37:34 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Yavuz Ağıralioğlu ve Ali Babacan ortak açıklama yapıyor #Canlı</description>
+    </item>
+    <item>
+      <title>Halk TV: Uyuşturucu baronunun masasındaydı: Aliye Nilperi Vatandost 'fuhuş' soruşturmasında gözaltında!</title>
+      <link>https://www.youtube.com/watch?v=gJbsBGDnhHY</link>
+      <guid isPermaLink="false">gJbsBGDnhHY</guid>
+      <pubDate>Tue, 15 Sep 2026 11:35:08 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Uyuşturucu baronunun masasındaydı: Aliye Nilperi Vatandost 'fuhuş' soruşturmasında gözaltında!</description>
+    </item>
     <item>
       <title>Cumhuriyet: İstanbul Adliyesi önünde protesto: İnsanları var oldukları için gözaltına alamazsınız</title>
       <link>https://www.youtube.com/shorts/tBfPDy27uNs</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">L-I1oiiSGEU</guid>
       <pubDate>Tue, 15 Sep 2026 08:36:20 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Asu Kaya'dan, Adalet Peşinde Aileleri Platformu'nun Adalet Bakanlığı önündeki eylemine destek</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İktidarda Ortalık Karıştı! Vali AKP'li Vekili Tehdit Etti İddiası! Saygı Öztürk Belge Belge Anlattı</title>
-      <link>https://www.youtube.com/watch?v=gwYPPV9bT2s</link>
-      <guid isPermaLink="false">gwYPPV9bT2s</guid>
-      <pubDate>Tue, 15 Sep 2026 08:30:29 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İktidarda Ortalık Karıştı! Vali AKP'li Vekili Tehdit Etti İddiası! Saygı Öztürk Belge Belge Anlattı</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Asu Kaya'dan, Adalet Peşinde Aileleri Platformu'nun Adalet Bakanlığı önündeki eylemine destek #Canlı</title>
-      <link>https://www.youtube.com/watch?v=5yIPXgI_5Q8</link>
-      <guid isPermaLink="false">5yIPXgI_5Q8</guid>
-      <pubDate>Tue, 15 Sep 2026 08:24:50 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Asu Kaya'dan, Adalet Peşinde Aileleri Platformu'nun Adalet Bakanlığı önündeki eylemine destek #Canlı</description>
     </item>
   </channel>
 </rss>
