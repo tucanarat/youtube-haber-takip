@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 19:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 19:25:25 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: Öztürk Yılmaz'dan Sözcü TV'de Olay YENİ Parti Çıkışı! Yargıtay'ın İptal Kararının Perde Arkası</title>
       <link>https://www.youtube.com/watch?v=Uu8bZfwL28o</link>
       <guid isPermaLink="false">Uu8bZfwL28o</guid>
       <pubDate>Tue, 15 Sep 2026 19:10:18 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Öztürk Yılmaz'dan Sözcü TV'de Olay YENİ Parti Çıkışı! Yargıtay'ın İptal Kararının Perde Arkası</description>
+    </item>
+    <item>
+      <title>Halk TV: ADALAR’DA SEÇİM KRİZİ! “İçe sindirmede bir sorun varsa orada bir meşruiyet sorunu vardır!”</title>
+      <link>https://www.youtube.com/watch?v=aqzYqquv394</link>
+      <guid isPermaLink="false">aqzYqquv394</guid>
+      <pubDate>Tue, 15 Sep 2026 19:10:12 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ADALAR’DA SEÇİM KRİZİ! “İçe sindirmede bir sorun varsa orada bir meşruiyet sorunu vardır!”</description>
     </item>
     <item>
       <title>Tele2 Haber: Kozmik Oda soruşturması da görür müyüz? Murat Taylan Bülent Arınç'ı hatırlattı!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">RpCOrsDS418</guid>
       <pubDate>Tue, 15 Sep 2026 14:45:36 +0000</pubDate>
       <description>Halk TV kanalından yeni video: DEHŞETE DÜŞÜREN DETAY! Büşra bebek satıldı mı, öldürüldü mü? Avukat Müjde Tozbey o ayrıntıyı anlattı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Rojin Kabaiş’in babası Bilal Erdoğan’dan yardım istedi: 'Ateş düştüğü yeri yakar'</title>
-      <link>https://www.youtube.com/shorts/E-b6pTFf_Iw</link>
-      <guid isPermaLink="false">E-b6pTFf_Iw</guid>
-      <pubDate>Tue, 15 Sep 2026 14:40:35 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Rojin Kabaiş’in babası Bilal Erdoğan’dan yardım istedi: 'Ateş düştüğü yeri yakar'</description>
     </item>
   </channel>
 </rss>
