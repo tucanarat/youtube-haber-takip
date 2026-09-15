@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 10:10:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 10:15:33 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: İsmail Küçükkaya Bilal Erdoğan Planını Anlattı! Selahattin Demirtaş Cevabı Çok Konuşulur</title>
+      <link>https://www.youtube.com/watch?v=XWnZmNESqmU</link>
+      <guid isPermaLink="false">XWnZmNESqmU</guid>
+      <pubDate>Tue, 15 Sep 2026 10:10:16 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya Bilal Erdoğan Planını Anlattı! Selahattin Demirtaş Cevabı Çok Konuşulur</description>
+    </item>
     <item>
       <title>Halk TV: OCAK'TA ASGARİ ÜCRETLİNİN CEBİNE BU PARA GİRECEK! Özgür Erdursun kalem kalem hesapladı! Geri sayım!</title>
       <link>https://www.youtube.com/watch?v=nE2eblO8wR8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">PhLTHHoOiDM</guid>
       <pubDate>Tue, 15 Sep 2026 06:20:12 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Seferihisar Belediyesi'ne 4. dalga operasyonda gözaltına alınmışlardı! 47 kişi adliyeye sevk edildi!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: YENİ Parti Bağcılar İlçe Başkanlığı açılışı / İstanbul #Canlı</title>
-      <link>https://www.youtube.com/watch?v=K-zMS7q9o-w</link>
-      <guid isPermaLink="false">K-zMS7q9o-w</guid>
-      <pubDate>Tue, 15 Sep 2026 05:40:52 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Bağcılar İlçe Başkanlığı açılışı / İstanbul #Canlı</description>
     </item>
   </channel>
 </rss>
