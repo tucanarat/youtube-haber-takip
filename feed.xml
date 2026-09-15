@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 14:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 14:05:26 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: CHP KULİSLERİ KAYNIYOR! "Partiyi Boşalttılar!" Temyiz Krizinin Perde Arkası</title>
+      <link>https://www.youtube.com/watch?v=AlhSEJ8cn48</link>
+      <guid isPermaLink="false">AlhSEJ8cn48</guid>
+      <pubDate>Tue, 15 Sep 2026 14:00:34 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: CHP KULİSLERİ KAYNIYOR! "Partiyi Boşalttılar!" Temyiz Krizinin Perde Arkası</description>
+    </item>
+    <item>
+      <title>Halk TV: İÇİNİZ PARÇALANACAK! Üsküdar tutuklusu Amine Cansu Çelik'e kızı 'teyze' demiş! Sözün bittiği yer!</title>
+      <link>https://www.youtube.com/watch?v=5AQCN0tMTcU</link>
+      <guid isPermaLink="false">5AQCN0tMTcU</guid>
+      <pubDate>Tue, 15 Sep 2026 14:00:28 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İÇİNİZ PARÇALANACAK! Üsküdar tutuklusu Amine Cansu Çelik'e kızı 'teyze' demiş! Sözün bittiği yer!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Serap Belovacıklı ile Haber Saati | 15 Eylül</title>
       <link>https://www.youtube.com/watch?v=ctfLBZFY_Nw</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">ahtDaNkj1Vc</guid>
       <pubDate>Tue, 15 Sep 2026 11:05:11 +0000</pubDate>
       <description>Halk TV kanalından yeni video: FIRTINA KOPTU KOPACAK! Özgür Özel koltukları titretecek adımı attı! MYK'da neler konuşulacak neler!</description>
-    </item>
-    <item>
-      <title>Halk TV: LGBT+ operasyonlarını protesto etmek amacıyla Çağlayan Meydanı’nda toplanan kişiler gözaltına alındı</title>
-      <link>https://www.youtube.com/shorts/wb0vQB54OYE</link>
-      <guid isPermaLink="false">wb0vQB54OYE</guid>
-      <pubDate>Tue, 15 Sep 2026 11:01:02 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: LGBT+ operasyonlarını protesto etmek amacıyla Çağlayan Meydanı’nda toplanan kişiler gözaltına alındı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: LGBTİ+ operasyonunu protesto ederken gözaltına alınmışlardı... Avukatlar serbest bırakıldı</title>
-      <link>https://www.youtube.com/watch?v=YNuVmIv1yL8</link>
-      <guid isPermaLink="false">YNuVmIv1yL8</guid>
-      <pubDate>Tue, 15 Sep 2026 11:00:48 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: LGBTİ+ operasyonunu protesto ederken gözaltına alınmışlardı... Avukatlar serbest bırakıldı</description>
     </item>
   </channel>
 </rss>
