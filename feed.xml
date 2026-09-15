@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 05:55:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 06:00:51 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Pınar Erbaş ile Gecenin Sözü</title>
+      <link>https://www.youtube.com/watch?v=CFEM5arEVDk</link>
+      <guid isPermaLink="false">CFEM5arEVDk</guid>
+      <pubDate>Tue, 15 Sep 2026 05:35:36 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Pınar Erbaş ile Gecenin Sözü</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İpek Özbey ile Karşı Karşıya | Erol Mütercimler &amp; Nevzat Çiçek</title>
+      <link>https://www.youtube.com/watch?v=-WyDIqu9fxg</link>
+      <guid isPermaLink="false">-WyDIqu9fxg</guid>
+      <pubDate>Tue, 15 Sep 2026 05:34:07 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İpek Özbey ile Karşı Karşıya | Erol Mütercimler &amp; Nevzat Çiçek</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Merve Ekinci ile Uyanma Vakti | 15 Eylül</title>
+      <link>https://www.youtube.com/watch?v=_SiNQnwLAmM</link>
+      <guid isPermaLink="false">_SiNQnwLAmM</guid>
+      <pubDate>Tue, 15 Sep 2026 05:11:16 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Merve Ekinci ile Uyanma Vakti | 15 Eylül</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Cumhurbaşkanı Erdoğan, eğitim yılı ve ve eğitim yatırımlarının açılışında konuşuyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=cnqvWrtqfDA</link>
@@ -106,18 +127,11 @@
       <description>SÖZCÜ TV kanalından yeni video: Can Coşkun ile Gündem Masası</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: İsmail Küçükkaya ile Günaydın Türkiyem</title>
+      <title>SÖZCÜ TV: #CANLI İsmail Küçükkaya ile Günaydın Türkiyem</title>
       <link>https://www.youtube.com/watch?v=Ix2yNJkjYw4</link>
       <guid isPermaLink="false">Ix2yNJkjYw4</guid>
       <pubDate>Mon, 14 Sep 2026 22:53:49 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya ile Günaydın Türkiyem</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Merve Ekinci ile Uyanma Vakti</title>
-      <link>https://www.youtube.com/watch?v=_SiNQnwLAmM</link>
-      <guid isPermaLink="false">_SiNQnwLAmM</guid>
-      <pubDate>Mon, 14 Sep 2026 22:53:28 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Merve Ekinci ile Uyanma Vakti</description>
+      <description>SÖZCÜ TV kanalından yeni video: #CANLI İsmail Küçükkaya ile Günaydın Türkiyem</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Akaryakıtta Zam Yağmuru! Mehmet Şimşek Köşeye Sıkıştı! Motorin 100 Liraya Dayandı</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">b6f_2NGZeak</guid>
       <pubDate>Mon, 14 Sep 2026 19:20:23 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: "Tuhaf Paralellikler Var" İsmail Saymaz'dan Çarpıcı Kaşif Kozinoğlu Çıkışı! Kurtlar Vadisi Detayı</description>
-    </item>
-    <item>
-      <title>Halk TV: KURTLAR VADİSİ BOMBASI! Senaristler ifade verdi! Kozinoğlu dosyasında sır perdeleri aralanacak mı?</title>
-      <link>https://www.youtube.com/watch?v=o40PdOzVTsw</link>
-      <guid isPermaLink="false">o40PdOzVTsw</guid>
-      <pubDate>Mon, 14 Sep 2026 19:15:03 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KURTLAR VADİSİ BOMBASI! Senaristler ifade verdi! Kozinoğlu dosyasında sır perdeleri aralanacak mı?</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Ekrem Açıkel ile Hafta Başı | İsmail Saymaz &amp; Can Özçelik | 14 Eylül</title>
-      <link>https://www.youtube.com/watch?v=fpb1VopqVPk</link>
-      <guid isPermaLink="false">fpb1VopqVPk</guid>
-      <pubDate>Mon, 14 Sep 2026 19:04:15 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Ekrem Açıkel ile Hafta Başı | İsmail Saymaz &amp; Can Özçelik | 14 Eylül</description>
     </item>
   </channel>
 </rss>
