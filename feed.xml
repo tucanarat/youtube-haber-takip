@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 07:45:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 07:50:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: TRUMP'A BÜYÜK DARBE! ABD'de yüksek mahkeme, posta yoluyla oy kullanımını sınırlama planını reddetti!</title>
+      <link>https://www.youtube.com/watch?v=HyBt5vMjTkQ</link>
+      <guid isPermaLink="false">HyBt5vMjTkQ</guid>
+      <pubDate>Tue, 15 Sep 2026 07:40:20 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: TRUMP'A BÜYÜK DARBE! ABD'de yüksek mahkeme, posta yoluyla oy kullanımını sınırlama planını reddetti!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: 'Selahattin Demirtaş'ı da Serbest Bırakın' Bilal Erdoğan'a Şok Sözler! Neye Uğradığını Şaşırdı</title>
       <link>https://www.youtube.com/watch?v=cHhUu44Vcl0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">7zg1uHPGYr8</guid>
       <pubDate>Mon, 14 Sep 2026 21:25:22 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ÇOK KONUŞULACAK SÖZLER! MHP'nin planlarını tek tek açıkladı! Dr. Korkmaz'dan flaş açıklamalar!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Yeni Parti'ye Yargıtay'dan Çarpıcı Tebligat! Özgür Özel'e Beklenmedik Engel! Muhalefette İsim Krizi</title>
-      <link>https://www.youtube.com/watch?v=3viWRXBzWcc</link>
-      <guid isPermaLink="false">3viWRXBzWcc</guid>
-      <pubDate>Mon, 14 Sep 2026 21:20:01 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Yeni Parti'ye Yargıtay'dan Çarpıcı Tebligat! Özgür Özel'e Beklenmedik Engel! Muhalefette İsim Krizi</description>
     </item>
   </channel>
 </rss>
