@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 11:10:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 11:15:32 +0000</lastBuildDate>
     <item>
       <title>Halk TV: FIRTINA KOPTU KOPACAK! Özgür Özel koltukları titretecek adımı attı! MYK'da neler konuşulacak neler!</title>
       <link>https://www.youtube.com/watch?v=ahtDaNkj1Vc</link>
@@ -27,6 +27,13 @@
       <guid isPermaLink="false">YNuVmIv1yL8</guid>
       <pubDate>Tue, 15 Sep 2026 11:00:48 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: LGBTİ+ operasyonunu protesto ederken gözaltına alınmışlardı... Avukatlar serbest bırakıldı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: ŞEMSİYELERİ HAZIRLAYIN! Metrekareye 20 Kilogram Yağış Düşecek! İstanbul İçin Kritik Uyarı</title>
+      <link>https://www.youtube.com/watch?v=AqR7IpoWXf4</link>
+      <guid isPermaLink="false">AqR7IpoWXf4</guid>
+      <pubDate>Tue, 15 Sep 2026 11:00:27 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: ŞEMSİYELERİ HAZIRLAYIN! Metrekareye 20 Kilogram Yağış Düşecek! İstanbul İçin Kritik Uyarı</description>
     </item>
     <item>
       <title>Halk TV: ERDOĞAN O HAMLESİYLE KENDİ SONUNU GETİRECEK! Ortaya öyle belgeler saçıldı ki! Milyonlar ayaklanır!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">oHstoSRtKXc</guid>
       <pubDate>Tue, 15 Sep 2026 08:04:08 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Ekrem İmamoğlu sosyal medyayı ayağa kaldırdı! Tuzla davasındaki savunmasını paylaştı! İşte o sözler!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İsmail Küçükkaya ile Günaydın Türkiyem | 15 Eylül</title>
-      <link>https://www.youtube.com/watch?v=Ix2yNJkjYw4</link>
-      <guid isPermaLink="false">Ix2yNJkjYw4</guid>
-      <pubDate>Tue, 15 Sep 2026 08:00:43 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya ile Günaydın Türkiyem | 15 Eylül</description>
     </item>
   </channel>
 </rss>
