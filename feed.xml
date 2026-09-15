@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 16:05:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 16:10:35 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | YENİ Parti Bayrampaşa İlçe Başkanlığı Açılışı!</title>
+      <link>https://www.youtube.com/watch?v=cJNYRhi9F78</link>
+      <guid isPermaLink="false">cJNYRhi9F78</guid>
+      <pubDate>Tue, 15 Sep 2026 16:09:28 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti Bayrampaşa İlçe Başkanlığı Açılışı!</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: YENİ Parti Bayrampaşa İlçe Başkanlığı açılışı / İstanbul #Canlı</title>
+      <link>https://www.youtube.com/watch?v=-rJIewRTCvs</link>
+      <guid isPermaLink="false">-rJIewRTCvs</guid>
+      <pubDate>Tue, 15 Sep 2026 16:05:36 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Bayrampaşa İlçe Başkanlığı açılışı / İstanbul #Canlı</description>
+    </item>
     <item>
       <title>Tele2 Haber: Abdülkadir Selvi'den çok önemli Mansur Yavaş iddiası! Ülkü Çoban'dan kritik "YIPRATILMA" yorumu...</title>
       <link>https://www.youtube.com/watch?v=mhKd6Bf-3iY</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">I8cNLlD57bs</guid>
       <pubDate>Tue, 15 Sep 2026 13:01:22 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İrem Sansak ile Haber Masası (15 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Kurtlar Vadisi'nin Sırrı Yıllar Sonra Çözüldü! Raci Şaşmaz'ın Kaşif Kozinoğlu İfadesi Ortaya Çıktı</title>
-      <link>https://www.youtube.com/watch?v=Ap5NGqek8a8</link>
-      <guid isPermaLink="false">Ap5NGqek8a8</guid>
-      <pubDate>Tue, 15 Sep 2026 13:00:23 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Kurtlar Vadisi'nin Sırrı Yıllar Sonra Çözüldü! Raci Şaşmaz'ın Kaşif Kozinoğlu İfadesi Ortaya Çıktı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "İnsanlıktan Utandığım Anlar..." Bilal Erdoğan'ın Rojin Kabaiş'in Babasına Karşı Tavrı Tepki Çekti!</title>
-      <link>https://www.youtube.com/watch?v=bBJbm5zbRLY</link>
-      <guid isPermaLink="false">bBJbm5zbRLY</guid>
-      <pubDate>Tue, 15 Sep 2026 13:00:07 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "İnsanlıktan Utandığım Anlar..." Bilal Erdoğan'ın Rojin Kabaiş'in Babasına Karşı Tavrı Tepki Çekti!</description>
     </item>
   </channel>
 </rss>
