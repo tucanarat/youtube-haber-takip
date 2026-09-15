@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 14:50:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 14:55:29 +0000</lastBuildDate>
     <item>
       <title>Halk TV: DEHŞETE DÜŞÜREN DETAY! Büşra bebek satıldı mı, öldürüldü mü? Avukat Müjde Tozbey o ayrıntıyı anlattı</title>
       <link>https://www.youtube.com/watch?v=RpCOrsDS418</link>
@@ -76,6 +76,13 @@
       <guid isPermaLink="false">5AQCN0tMTcU</guid>
       <pubDate>Tue, 15 Sep 2026 14:00:28 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İÇİNİZ PARÇALANACAK! Üsküdar tutuklusu Amine Cansu Çelik'e kızı 'teyze' demiş! Sözün bittiği yer!</description>
+    </item>
+    <item>
+      <title>Halk TV: #CANLI | Ece Üner ile Halk Ana Haber | #müdahale</title>
+      <link>https://www.youtube.com/watch?v=PJTxagUpZg0</link>
+      <guid isPermaLink="false">PJTxagUpZg0</guid>
+      <pubDate>Tue, 15 Sep 2026 13:58:15 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Ece Üner ile Halk Ana Haber | #müdahale</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Serap Belovacıklı ile Haber Saati | 15 Eylül</title>
@@ -239,11 +246,11 @@
       <description>Cumhuriyet kanalından yeni video: Bob Ross'u izleyerek ressam oldu: 81 yaşındaki Şahinde Ermiş 20 yıl sonra ikinci sergisini açtı!</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | Gizem Çetin ile Parantez</title>
+      <title>Halk TV: Gizem Çetin ile Parantez  (15 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=4XcMFT8O0m8</link>
       <guid isPermaLink="false">4XcMFT8O0m8</guid>
       <pubDate>Tue, 15 Sep 2026 12:50:37 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Gizem Çetin ile Parantez</description>
+      <description>Halk TV kanalından yeni video: Gizem Çetin ile Parantez  (15 Eylül 2026)</description>
     </item>
     <item>
       <title>Halk TV: BU SÖZLER GÜNDEMİ SARSAR! Ev hapsindeki Levent Üzümcü Halk TV Youtube'a konuştu! İzlemeden geçmeyin!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">HVtKklSdX4E</guid>
       <pubDate>Tue, 15 Sep 2026 11:44:08 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Adalet Peşinde Aileleri Platformu Adalet Bakanlığı önünde: 35 canın bedeli sadece sekiz yıl mı?</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Kozinoğlu soruşturması nereye gidecek? I Gökçeklerin bitmeyen düğün altınları! | Manşet Ötesi</title>
-      <link>https://www.youtube.com/watch?v=iTlWiJYP704</link>
-      <guid isPermaLink="false">iTlWiJYP704</guid>
-      <pubDate>Tue, 15 Sep 2026 11:41:49 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Kozinoğlu soruşturması nereye gidecek? I Gökçeklerin bitmeyen düğün altınları! | Manşet Ötesi</description>
     </item>
   </channel>
 </rss>
