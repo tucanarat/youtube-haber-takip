@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 09:30:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 09:35:37 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI İstanbul Emek, Barış ve Demokrasi Güçleri İstanbul Adliyesi önünde açıklama yapıyor</title>
+      <link>https://www.youtube.com/watch?v=6hDRqfDPc38</link>
+      <guid isPermaLink="false">6hDRqfDPc38</guid>
+      <pubDate>Tue, 15 Sep 2026 09:34:26 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI İstanbul Emek, Barış ve Demokrasi Güçleri İstanbul Adliyesi önünde açıklama yapıyor</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Saygı Öztürk Bomba Kulisi Açıkladı! Mansur Yavaş'ın Gizli Adaylık Planı! Ankara Kulisleri Alev Aldı</title>
+      <link>https://www.youtube.com/watch?v=gZJZ1w0eDQM</link>
+      <guid isPermaLink="false">gZJZ1w0eDQM</guid>
+      <pubDate>Tue, 15 Sep 2026 09:30:39 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Saygı Öztürk Bomba Kulisi Açıkladı! Mansur Yavaş'ın Gizli Adaylık Planı! Ankara Kulisleri Alev Aldı</description>
+    </item>
     <item>
       <title>Tele2 Haber: Adalet Peşinde Aileleri Sözcüsü Döne Kaya Gözyaşlarıyla Tepki Gösterdi!</title>
       <link>https://www.youtube.com/shorts/1lxCZodpjq4</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">YgnMqXJzA2E</guid>
       <pubDate>Mon, 14 Sep 2026 23:30:15 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Londra'ya Tarihi Ayrılık Şoku! Trump Düğmeye Bastı! Birleşik Krallık Parçalanıyor</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Yapay Zekanın Gizlenen Karanlık Yüzü! Psikopat AI Laboratuvardan Kaçtı! Büyük Tehlike Kapımızda</title>
-      <link>https://www.youtube.com/watch?v=4qBIuN3K_5w</link>
-      <guid isPermaLink="false">4qBIuN3K_5w</guid>
-      <pubDate>Mon, 14 Sep 2026 23:00:31 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Yapay Zekanın Gizlenen Karanlık Yüzü! Psikopat AI Laboratuvardan Kaçtı! Büyük Tehlike Kapımızda</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Özlem Gürses ile Sözcü Ana Haber</title>
-      <link>https://www.youtube.com/watch?v=LbZ8UN--v04</link>
-      <guid isPermaLink="false">LbZ8UN--v04</guid>
-      <pubDate>Mon, 14 Sep 2026 22:56:14 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses ile Sözcü Ana Haber</description>
     </item>
   </channel>
 </rss>
