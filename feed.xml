@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:30:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 22:35:31 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Kızıldeniz'de Tehlike! Ortadoğu'da Yeni Cephe! Arap Fars Savaşı Ayak Sesleri! Nevzat Çiçek Anlattı</title>
+      <link>https://www.youtube.com/watch?v=8HOkUVK9z5k</link>
+      <guid isPermaLink="false">8HOkUVK9z5k</guid>
+      <pubDate>Tue, 15 Sep 2026 22:30:19 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Kızıldeniz'de Tehlike! Ortadoğu'da Yeni Cephe! Arap Fars Savaşı Ayak Sesleri! Nevzat Çiçek Anlattı</description>
+    </item>
     <item>
       <title>Halk TV: Alevler gökyüzünü sardı! Avcılar’da TIR yangını paniğe neden oldu!</title>
       <link>https://www.youtube.com/watch?v=wVCA2IRR4g8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">WZFSh2DXdUw</guid>
       <pubDate>Tue, 15 Sep 2026 16:58:31 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Yeni Parti İzmir Milletvekili Gökçe Gökçen, “ailem güvende”operasyonlarının perde arkasını anlattı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Kaşif Kozinoğlu Sır Perdesi Aralandı! Raci Şaşmaz'dan Olay İfadeler! Kurtlar Vadisi, FETÖ...</title>
-      <link>https://www.youtube.com/watch?v=Q9LtUS1np7s</link>
-      <guid isPermaLink="false">Q9LtUS1np7s</guid>
-      <pubDate>Tue, 15 Sep 2026 16:50:14 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Kaşif Kozinoğlu Sır Perdesi Aralandı! Raci Şaşmaz'dan Olay İfadeler! Kurtlar Vadisi, FETÖ...</description>
     </item>
   </channel>
 </rss>
