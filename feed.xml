@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:10:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:15:31 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Avukat Hüseyin Ersöz İsyan Etti! Selahattin Günday'a Akılalmaz Suçlama: 2. Kez Tutuklandı!</title>
+      <link>https://www.youtube.com/watch?v=yYUYW4A6fhU</link>
+      <guid isPermaLink="false">yYUYW4A6fhU</guid>
+      <pubDate>Tue, 15 Sep 2026 23:10:32 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Avukat Hüseyin Ersöz İsyan Etti! Selahattin Günday'a Akılalmaz Suçlama: 2. Kez Tutuklandı!</description>
+    </item>
     <item>
       <title>Halk TV: İBB Meclisi’nde skandal sözler! AKP’li üyeden CHP’li üyeye yönelik sözler gündem oldu!</title>
       <link>https://www.youtube.com/watch?v=_r7GAvJwd18</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">L5GQuX0XdZ4</guid>
       <pubDate>Tue, 15 Sep 2026 18:00:36 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SURİYE SOKAKLARI YANIYOR! Zam protestosu büyüdükçe büyüdü! İşte dünyayı dehşete düşüren görüntüler!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: HEDEF RUSYA VE ÇİN! Nevzat Çiçek Trump'ın Şeytani Uzay Planını İfşa Etti</title>
-      <link>https://www.youtube.com/watch?v=3KWB-7mkP70</link>
-      <guid isPermaLink="false">3KWB-7mkP70</guid>
-      <pubDate>Tue, 15 Sep 2026 17:52:18 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: HEDEF RUSYA VE ÇİN! Nevzat Çiçek Trump'ın Şeytani Uzay Planını İfşa Etti</description>
     </item>
   </channel>
 </rss>
