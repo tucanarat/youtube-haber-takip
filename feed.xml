@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 14:35:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 14:40:35 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Nuri Aslan: Ekrem başkanımızın başlattığı dayanışmayı büyütmeye devam edeceğiz</title>
+      <link>https://www.youtube.com/watch?v=7SUYxy4wcoY</link>
+      <guid isPermaLink="false">7SUYxy4wcoY</guid>
+      <pubDate>Tue, 15 Sep 2026 14:38:28 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Nuri Aslan: Ekrem başkanımızın başlattığı dayanışmayı büyütmeye devam edeceğiz</description>
+    </item>
+    <item>
+      <title>Halk TV: NEFESLER TUTULDU! Özgür Özel'in 'borsa' bombası her şeyi kökten değiştirecek! Neler olacakmış neler!</title>
+      <link>https://www.youtube.com/watch?v=A9iTdYmKqLk</link>
+      <guid isPermaLink="false">A9iTdYmKqLk</guid>
+      <pubDate>Tue, 15 Sep 2026 14:30:33 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: NEFESLER TUTULDU! Özgür Özel'in 'borsa' bombası her şeyi kökten değiştirecek! Neler olacakmış neler!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Kozinoğlu Dosyasının Şifreleri! Rasim Ozan Kütahyalı Neler Biliyor? Kozmik Oda Sırrı | Timur Soykan</title>
       <link>https://www.youtube.com/watch?v=C6Mrbhvu7v0</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">DsaWLOkChms</guid>
       <pubDate>Tue, 15 Sep 2026 11:30:16 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Kaşif Kozinoğlu'nun Sır Raporundan FETÖ'cü General Semih Terzi Çıktı! Yıllar Önce Uyarmış</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: İstanbul Adliyesi önünde protesto: İnsanları var oldukları için gözaltına alamazsınız</title>
-      <link>https://www.youtube.com/shorts/tBfPDy27uNs</link>
-      <guid isPermaLink="false">tBfPDy27uNs</guid>
-      <pubDate>Tue, 15 Sep 2026 11:22:38 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: İstanbul Adliyesi önünde protesto: İnsanları var oldukları için gözaltına alamazsınız</description>
-    </item>
-    <item>
-      <title>Halk TV: ÇAĞLAYAN'DA TANSİYON YÜKSELDİ! Polisten LGBTİ+'lara kuşatma gibi abluka! Çok sayıda kişi gözaltında!</title>
-      <link>https://www.youtube.com/watch?v=Z8_tRzSL9dw</link>
-      <guid isPermaLink="false">Z8_tRzSL9dw</guid>
-      <pubDate>Tue, 15 Sep 2026 11:20:09 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ÇAĞLAYAN'DA TANSİYON YÜKSELDİ! Polisten LGBTİ+'lara kuşatma gibi abluka! Çok sayıda kişi gözaltında!</description>
     </item>
   </channel>
 </rss>
