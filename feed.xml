@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 07:50:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 07:55:27 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: YENİ Partililer Samsun’da: Bu karanlık iktidar gidecek</title>
+      <link>https://www.youtube.com/watch?v=Ue695oHOkY4</link>
+      <guid isPermaLink="false">Ue695oHOkY4</guid>
+      <pubDate>Tue, 15 Sep 2026 07:49:10 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: YENİ Partililer Samsun’da: Bu karanlık iktidar gidecek</description>
+    </item>
     <item>
       <title>Halk TV: TRUMP'A BÜYÜK DARBE! ABD'de yüksek mahkeme, posta yoluyla oy kullanımını sınırlama planını reddetti!</title>
       <link>https://www.youtube.com/watch?v=HyBt5vMjTkQ</link>
@@ -267,11 +274,11 @@
       <description>SÖZCÜ TV kanalından yeni video: Can Coşkun ile Gündem Masası</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: #CANLI İsmail Küçükkaya ile Günaydın Türkiyem</title>
+      <title>SÖZCÜ TV: İsmail Küçükkaya ile Günaydın Türkiyem | 15 Eylül</title>
       <link>https://www.youtube.com/watch?v=Ix2yNJkjYw4</link>
       <guid isPermaLink="false">Ix2yNJkjYw4</guid>
       <pubDate>Mon, 14 Sep 2026 22:53:49 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: #CANLI İsmail Küçükkaya ile Günaydın Türkiyem</description>
+      <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya ile Günaydın Türkiyem | 15 Eylül</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Akaryakıtta Zam Yağmuru! Mehmet Şimşek Köşeye Sıkıştı! Motorin 100 Liraya Dayandı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">2zge2hSM6u8</guid>
       <pubDate>Mon, 14 Sep 2026 21:40:26 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Mansur Yavaş'tan Siyaseti Sarsacak Karar! Adaylık Planının Perde Arkası! Volkan Gültekin Anlattı</description>
-    </item>
-    <item>
-      <title>Halk TV: ÇOK KONUŞULACAK SÖZLER! MHP'nin planlarını tek tek açıkladı! Dr. Korkmaz'dan flaş açıklamalar!</title>
-      <link>https://www.youtube.com/watch?v=7zg1uHPGYr8</link>
-      <guid isPermaLink="false">7zg1uHPGYr8</guid>
-      <pubDate>Mon, 14 Sep 2026 21:25:22 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ÇOK KONUŞULACAK SÖZLER! MHP'nin planlarını tek tek açıkladı! Dr. Korkmaz'dan flaş açıklamalar!</description>
     </item>
   </channel>
 </rss>
