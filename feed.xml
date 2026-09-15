@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 16:20:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 16:25:29 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: Kaşif Kozinoğlu soruşturmasında gazeteci Günday 2. kez tutuklandı!</title>
       <link>https://www.youtube.com/watch?v=_j-_1_Ty8bI</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">MrSLCrSdq6w</guid>
       <pubDate>Tue, 15 Sep 2026 16:15:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BU SORULAR KAÇACAK DELİK ARATIR! Mahmut Tanal, Mehmet Şimşek'i köşeye sıkıştırdı! Neler dedi neler!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Ortadoğu Karıştı! Akaryakıtta Dev Zam! Motorin 100 Liraya Dayandı! Petrol Fırladı Altın Çakıldı</title>
+      <link>https://www.youtube.com/watch?v=ez4lzLPKXJs</link>
+      <guid isPermaLink="false">ez4lzLPKXJs</guid>
+      <pubDate>Tue, 15 Sep 2026 16:10:33 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Ortadoğu Karıştı! Akaryakıtta Dev Zam! Motorin 100 Liraya Dayandı! Petrol Fırladı Altın Çakıldı</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | YENİ Parti Bayrampaşa İlçe Başkanlığı Açılışı!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">iHM6x0cqVnc</guid>
       <pubDate>Tue, 15 Sep 2026 13:02:25 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Onur Öncü ile Sabah Pusulası (16.09.26)</description>
-    </item>
-    <item>
-      <title>Halk TV: Büşra bebeğin kaybında 3 şüpheli sağlık kontrolünde! Babanın sakinliği dikkat çekti</title>
-      <link>https://www.youtube.com/shorts/yvUBGaCMLWA</link>
-      <guid isPermaLink="false">yvUBGaCMLWA</guid>
-      <pubDate>Tue, 15 Sep 2026 13:02:10 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Büşra bebeğin kaybında 3 şüpheli sağlık kontrolünde! Babanın sakinliği dikkat çekti</description>
     </item>
   </channel>
 </rss>
