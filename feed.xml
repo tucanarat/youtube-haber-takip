@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 18:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 18:45:29 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: Kurtlar Vadisi 'Kaşif Kozinoğlu' bölümünün perde arkası! Senarist Şaşmaz'ın ifadesi ortaya çıktı</title>
       <link>https://www.youtube.com/watch?v=8IL8LKIlDG0</link>
       <guid isPermaLink="false">8IL8LKIlDG0</guid>
       <pubDate>Tue, 15 Sep 2026 18:30:34 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Kurtlar Vadisi 'Kaşif Kozinoğlu' bölümünün perde arkası! Senarist Şaşmaz'ın ifadesi ortaya çıktı</description>
+    </item>
+    <item>
+      <title>Halk TV: ÜSKÜDAR'DA SİYASİ KULİSLERİ KARIŞTIRACAK AÇIKLAMA! Usta’dan AKP’ye geçişle ilgili beklenmedik itiraf</title>
+      <link>https://www.youtube.com/watch?v=yv3hcUYxlpk</link>
+      <guid isPermaLink="false">yv3hcUYxlpk</guid>
+      <pubDate>Tue, 15 Sep 2026 18:30:31 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ÜSKÜDAR'DA SİYASİ KULİSLERİ KARIŞTIRACAK AÇIKLAMA! Usta’dan AKP’ye geçişle ilgili beklenmedik itiraf</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Özgür Özel ve YENİ Parti'ye Yargıtay Engeli! 'Paldır Küldür Parti Kuruldu' İsmail Saymaz Anlattı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">C6Mrbhvu7v0</guid>
       <pubDate>Tue, 15 Sep 2026 14:20:16 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Kozinoğlu Dosyasının Şifreleri! Rasim Ozan Kütahyalı Neler Biliyor? Kozmik Oda Sırrı | Timur Soykan</description>
-    </item>
-    <item>
-      <title>Halk TV: BUTLAN CHP'Sİ BİRBİRİNE GİRECEK! O isim Kılıçdaroğlu'nun kurultay planına sert çıktı! İşte detaylar!</title>
-      <link>https://www.youtube.com/watch?v=MJRoCKhqXjI</link>
-      <guid isPermaLink="false">MJRoCKhqXjI</guid>
-      <pubDate>Tue, 15 Sep 2026 14:15:24 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BUTLAN CHP'Sİ BİRBİRİNE GİRECEK! O isim Kılıçdaroğlu'nun kurultay planına sert çıktı! İşte detaylar!</description>
     </item>
   </channel>
 </rss>
