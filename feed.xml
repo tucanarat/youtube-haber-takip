@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 12:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 12:40:35 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: #CANLI Musa Özuğurlu ile Dünya Hali (15.09.2026)</title>
       <link>https://www.youtube.com/watch?v=jDVDNjFT6bk</link>
       <guid isPermaLink="false">jDVDNjFT6bk</guid>
       <pubDate>Tue, 15 Sep 2026 12:34:57 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Musa Özuğurlu ile Dünya Hali (15.09.2026)</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Saygı Öztürk Kulisleri Patlattı! CHP ve Yenilik Partisi Arasında Gizli Görüşmeyi İfşa Etti</title>
+      <link>https://www.youtube.com/watch?v=OM6t3lHa8qE</link>
+      <guid isPermaLink="false">OM6t3lHa8qE</guid>
+      <pubDate>Tue, 15 Sep 2026 12:30:08 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Saygı Öztürk Kulisleri Patlattı! CHP ve Yenilik Partisi Arasında Gizli Görüşmeyi İfşa Etti</description>
     </item>
     <item>
       <title>Halk TV: MHP'DE TAŞLAR YERİNDEN OYNAR! İbrahim Kahveci'den Bahçeli'ye fırtına kopartacak sözler! Kabus olur!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">6hDRqfDPc38</guid>
       <pubDate>Tue, 15 Sep 2026 09:34:26 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI İstanbul Emek, Barış ve Demokrasi Güçleri İstanbul Adliyesi önünde açıklama yapıyor</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Saygı Öztürk Bomba Kulisi Açıkladı! Mansur Yavaş'ın Gizli Adaylık Planı! Ankara Kulisleri Alev Aldı</title>
-      <link>https://www.youtube.com/watch?v=gZJZ1w0eDQM</link>
-      <guid isPermaLink="false">gZJZ1w0eDQM</guid>
-      <pubDate>Tue, 15 Sep 2026 09:30:39 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Saygı Öztürk Bomba Kulisi Açıkladı! Mansur Yavaş'ın Gizli Adaylık Planı! Ankara Kulisleri Alev Aldı</description>
     </item>
   </channel>
 </rss>
