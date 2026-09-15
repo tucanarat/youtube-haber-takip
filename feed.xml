@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 16:45:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 16:50:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: YENİ Parti Bayrampaşa İlçe Başkanlığı Açılışı!</title>
+      <link>https://www.youtube.com/watch?v=cJNYRhi9F78</link>
+      <guid isPermaLink="false">cJNYRhi9F78</guid>
+      <pubDate>Tue, 15 Sep 2026 16:47:09 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YENİ Parti Bayrampaşa İlçe Başkanlığı Açılışı!</description>
+    </item>
     <item>
       <title>Halk TV: HALK TV O RAPORA ULAŞTI! Rojin'in konuştuğu son isim ortaya çıktı! Bomba güvenlik görevlisi detayı!</title>
       <link>https://www.youtube.com/watch?v=7jGqQkl5tP0</link>
@@ -41,13 +48,6 @@
       <guid isPermaLink="false">ez4lzLPKXJs</guid>
       <pubDate>Tue, 15 Sep 2026 16:10:33 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Ortadoğu Karıştı! Akaryakıtta Dev Zam! Motorin 100 Liraya Dayandı! Petrol Fırladı Altın Çakıldı</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti Bayrampaşa İlçe Başkanlığı Açılışı!</title>
-      <link>https://www.youtube.com/watch?v=cJNYRhi9F78</link>
-      <guid isPermaLink="false">cJNYRhi9F78</guid>
-      <pubDate>Tue, 15 Sep 2026 16:09:28 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti Bayrampaşa İlçe Başkanlığı Açılışı!</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti Bayrampaşa İlçe Başkanlığı açılışı / İstanbul #Canlı</title>
@@ -246,11 +246,11 @@
       <description>Halk TV kanalından yeni video: İÇİNİZ PARÇALANACAK! Üsküdar tutuklusu Amine Cansu Çelik'e kızı 'teyze' demiş! Sözün bittiği yer!</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | Ece Üner ile Halk Ana Haber | #müdahale</title>
+      <title>Halk TV: Ece Üner ile Halk Ana Haber | #müdahale (15 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=PJTxagUpZg0</link>
       <guid isPermaLink="false">PJTxagUpZg0</guid>
       <pubDate>Tue, 15 Sep 2026 13:58:15 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Ece Üner ile Halk Ana Haber | #müdahale</description>
+      <description>Halk TV kanalından yeni video: Ece Üner ile Halk Ana Haber | #müdahale (15 Eylül 2026)</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Serap Belovacıklı ile Haber Saati | 15 Eylül</title>
