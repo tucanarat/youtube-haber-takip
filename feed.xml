@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 17:35:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 17:40:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Erişim engeli dalgası büyüyor! Listede Evrensel ve Ali İsmail Korkmaz Vakfı da var!</title>
+      <link>https://www.youtube.com/watch?v=NNpB7Vzlhi0</link>
+      <guid isPermaLink="false">NNpB7Vzlhi0</guid>
+      <pubDate>Tue, 15 Sep 2026 17:30:38 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Erişim engeli dalgası büyüyor! Listede Evrensel ve Ali İsmail Korkmaz Vakfı da var!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Meyve sebzeye operasyon! Murat Taylan tarladan rafa limonun hikayesini anlattı</title>
       <link>https://www.youtube.com/watch?v=7kRJyhpCM1w</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">9yN1ItKjVpw</guid>
       <pubDate>Tue, 15 Sep 2026 13:40:24 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Hasan Atilla Uğur ve Kaşif Kozinoğlu Dosyası: FETÖ Derin Devlet Kurtlar Vadisi! Timur Soykan Anlattı</description>
-    </item>
-    <item>
-      <title>Halk TV: KİLİS'TE NELER OLUYOR? AKP milletvekili Ahmet Salih Dal'ın abisi tutuklandı, il başkanı istifa etti!</title>
-      <link>https://www.youtube.com/watch?v=uwMH_BcG2f0</link>
-      <guid isPermaLink="false">uwMH_BcG2f0</guid>
-      <pubDate>Tue, 15 Sep 2026 13:35:19 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KİLİS'TE NELER OLUYOR? AKP milletvekili Ahmet Salih Dal'ın abisi tutuklandı, il başkanı istifa etti!</description>
     </item>
   </channel>
 </rss>
