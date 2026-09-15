@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 00:10:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 00:15:32 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: CHP Genel Başkanı Kemal Kılıçdaroğlu açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=l2b4i6h7NxY</link>
+      <guid isPermaLink="false">l2b4i6h7NxY</guid>
+      <pubDate>Tue, 15 Sep 2026 00:13:25 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkanı Kemal Kılıçdaroğlu açıklama yapıyor #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: Bursa'da soğuk hava deposunda korkutan yangın! O anlar kameralara saniye saniye böyle yansıdı!</title>
       <link>https://www.youtube.com/shorts/bLAU-0b2W4w</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">q0rIBRThc4A</guid>
       <pubDate>Mon, 14 Sep 2026 18:55:35 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Sibel Tan Çetinkaya’dan İBB Meclisi’nde dikkat çeken sözler! #shorts</description>
-    </item>
-    <item>
-      <title>Halk TV: SON ANDA KURTULDULAR! Rusya Boris Johnson'ın bulunduğu treni vurduğu! 15 dakika farkla kurtuldular!</title>
-      <link>https://www.youtube.com/watch?v=wdlYSdCJQoU</link>
-      <guid isPermaLink="false">wdlYSdCJQoU</guid>
-      <pubDate>Mon, 14 Sep 2026 18:45:20 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON ANDA KURTULDULAR! Rusya Boris Johnson'ın bulunduğu treni vurduğu! 15 dakika farkla kurtuldular!</description>
     </item>
   </channel>
 </rss>
