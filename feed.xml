@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 20:50:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 20:55:25 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Halk TV'nin, izleyicisinin desteğiyle ayakta durduğuna işaret eden Uğur Dündar'dan çok önemli çağrı!</title>
+      <link>https://www.youtube.com/watch?v=GZxfKj-nePY</link>
+      <guid isPermaLink="false">GZxfKj-nePY</guid>
+      <pubDate>Tue, 15 Sep 2026 20:50:19 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Halk TV'nin, izleyicisinin desteğiyle ayakta durduğuna işaret eden Uğur Dündar'dan çok önemli çağrı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: 'Milletvekili Pazarlığı Yapmam' Öztürk Yılmaz'dan Gündem Olacak Özgür Özel ve Kılıçdaroğlu Sözleri!</title>
       <link>https://www.youtube.com/watch?v=upQBac8Ij7E</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">y9v2trMoqx4</guid>
       <pubDate>Tue, 15 Sep 2026 15:46:44 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Ankara'da LGBTİ+'lara Yönelik Operasyonlara Polis Müdahalesi! (15 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: BİNLERCE İNSAN DİKEN ÜSTÜNDE! Katılımevim ve Birevim'de kritik süreç başladı! Piyasalar hareketlendi</title>
-      <link>https://www.youtube.com/watch?v=A8diQn52oUc</link>
-      <guid isPermaLink="false">A8diQn52oUc</guid>
-      <pubDate>Tue, 15 Sep 2026 15:45:34 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BİNLERCE İNSAN DİKEN ÜSTÜNDE! Katılımevim ve Birevim'de kritik süreç başladı! Piyasalar hareketlendi</description>
     </item>
   </channel>
 </rss>
