@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 11:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 11:30:48 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: İstanbul Adliyesi önünde protesto: İnsanları var oldukları için gözaltına alamazsınız</title>
+      <link>https://www.youtube.com/shorts/tBfPDy27uNs</link>
+      <guid isPermaLink="false">tBfPDy27uNs</guid>
+      <pubDate>Tue, 15 Sep 2026 11:22:38 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: İstanbul Adliyesi önünde protesto: İnsanları var oldukları için gözaltına alamazsınız</description>
+    </item>
+    <item>
+      <title>Halk TV: ÇAĞLAYAN'DA TANSİYON YÜKSELDİ! Polisten LGBTİ+'lara kuşatma gibi abluka! Çok sayıda kişi gözaltında!</title>
+      <link>https://www.youtube.com/watch?v=Z8_tRzSL9dw</link>
+      <guid isPermaLink="false">Z8_tRzSL9dw</guid>
+      <pubDate>Tue, 15 Sep 2026 11:20:09 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ÇAĞLAYAN'DA TANSİYON YÜKSELDİ! Polisten LGBTİ+'lara kuşatma gibi abluka! Çok sayıda kişi gözaltında!</description>
+    </item>
     <item>
       <title>Tele2 Haber: "Ailem Güvende" Operasyonlarını Protesto Eden Eylemciler Gözaltına Alındı!</title>
       <link>https://www.youtube.com/watch?v=6FBKY5mFoMc</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">5yIPXgI_5Q8</guid>
       <pubDate>Tue, 15 Sep 2026 08:24:50 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Asu Kaya'dan, Adalet Peşinde Aileleri Platformu'nun Adalet Bakanlığı önündeki eylemine destek #Canlı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Silivri'de geç saatlere kadar süren duruşmalara İbrahim Kaboğlu'ndan tepki: İnsani değil...</title>
-      <link>https://www.youtube.com/watch?v=YofJXLIvseo</link>
-      <guid isPermaLink="false">YofJXLIvseo</guid>
-      <pubDate>Tue, 15 Sep 2026 08:21:24 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Silivri'de geç saatlere kadar süren duruşmalara İbrahim Kaboğlu'ndan tepki: İnsani değil...</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Onur Öncü ile Sabah Pusulası | Kurtlar Vadisi gerçek mi oldu? |  Türkiye güvenli mi?</title>
-      <link>https://www.youtube.com/watch?v=3ZuwAp3Rq-E</link>
-      <guid isPermaLink="false">3ZuwAp3Rq-E</guid>
-      <pubDate>Tue, 15 Sep 2026 08:17:40 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Onur Öncü ile Sabah Pusulası | Kurtlar Vadisi gerçek mi oldu? |  Türkiye güvenli mi?</description>
     </item>
   </channel>
 </rss>
