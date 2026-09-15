@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 14:20:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 14:25:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: BUTLAN CHP'Sİ BİRBİRİNE GİRECEK! O isim Kılıçdaroğlu'nun kurultay planına sert çıktı! İşte detaylar!</title>
+      <link>https://www.youtube.com/watch?v=MJRoCKhqXjI</link>
+      <guid isPermaLink="false">MJRoCKhqXjI</guid>
+      <pubDate>Tue, 15 Sep 2026 14:15:24 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BUTLAN CHP'Sİ BİRBİRİNE GİRECEK! O isim Kılıçdaroğlu'nun kurultay planına sert çıktı! İşte detaylar!</description>
+    </item>
     <item>
       <title>Tele2 Haber: İBB Meclisi'ndeki "Kocan Nerede" Tartışmasına Çoban Ateş Püskürdü! "Kadının Yapması Daha Acayip!"</title>
       <link>https://www.youtube.com/watch?v=vngH4IPsQ6w</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">6FBKY5mFoMc</guid>
       <pubDate>Tue, 15 Sep 2026 11:15:20 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "Ailem Güvende" Operasyonlarını Protesto Eden Eylemciler Gözaltına Alındı!</description>
-    </item>
-    <item>
-      <title>Halk TV: İstanbul Emek, Barış ve Demokrasi Güçleri'ne İstanbul Adliyesi Önünde Polis Müdahalesi</title>
-      <link>https://www.youtube.com/watch?v=iQrFLARHK_I</link>
-      <guid isPermaLink="false">iQrFLARHK_I</guid>
-      <pubDate>Tue, 15 Sep 2026 11:14:03 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İstanbul Emek, Barış ve Demokrasi Güçleri'ne İstanbul Adliyesi Önünde Polis Müdahalesi</description>
     </item>
   </channel>
 </rss>
