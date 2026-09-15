@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 19:30:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 19:35:25 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Mansur Yavaş'tan Abdülkadir Selvi'ye sert yanıt! Murat Taylan'dan 'Erdoğanlı' fotoğraf yorumu!</title>
+      <link>https://www.youtube.com/watch?v=Ca5habcFL4Q</link>
+      <guid isPermaLink="false">Ca5habcFL4Q</guid>
+      <pubDate>Tue, 15 Sep 2026 19:30:38 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Mansur Yavaş'tan Abdülkadir Selvi'ye sert yanıt! Murat Taylan'dan 'Erdoğanlı' fotoğraf yorumu!</description>
+    </item>
+    <item>
+      <title>Halk TV: Uğur Dündar’dan yıllar sonra gelen çarpıcı itiraf! “Bana bunları diyenlerin adaylaştırdığı başkan…”</title>
+      <link>https://www.youtube.com/watch?v=6zdsKEDFFgw</link>
+      <guid isPermaLink="false">6zdsKEDFFgw</guid>
+      <pubDate>Tue, 15 Sep 2026 19:30:07 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Uğur Dündar’dan yıllar sonra gelen çarpıcı itiraf! “Bana bunları diyenlerin adaylaştırdığı başkan…”</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Öztürk Yılmaz'dan Sözcü TV'de Olay YENİ Parti Çıkışı! Yargıtay'ın İptal Kararının Perde Arkası</title>
       <link>https://www.youtube.com/watch?v=Uu8bZfwL28o</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">4XcMFT8O0m8</guid>
       <pubDate>Tue, 15 Sep 2026 14:56:29 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Gizem Çetin ile Parantez  (15 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Damla Doğan Tuncel ile 1 Saat | 15 Eylül</title>
-      <link>https://www.youtube.com/watch?v=wRPpDY3kC64</link>
-      <guid isPermaLink="false">wRPpDY3kC64</guid>
-      <pubDate>Tue, 15 Sep 2026 14:56:18 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Damla Doğan Tuncel ile 1 Saat | 15 Eylül</description>
-    </item>
-    <item>
-      <title>Halk TV: DEHŞETE DÜŞÜREN DETAY! Büşra bebek satıldı mı, öldürüldü mü? Avukat Müjde Tozbey o ayrıntıyı anlattı</title>
-      <link>https://www.youtube.com/watch?v=RpCOrsDS418</link>
-      <guid isPermaLink="false">RpCOrsDS418</guid>
-      <pubDate>Tue, 15 Sep 2026 14:45:36 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: DEHŞETE DÜŞÜREN DETAY! Büşra bebek satıldı mı, öldürüldü mü? Avukat Müjde Tozbey o ayrıntıyı anlattı</description>
     </item>
   </channel>
 </rss>
