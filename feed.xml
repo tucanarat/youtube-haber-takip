@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:20:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 22:25:28 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Alevler gökyüzünü sardı! Avcılar’da TIR yangını paniğe neden oldu!</title>
+      <link>https://www.youtube.com/watch?v=wVCA2IRR4g8</link>
+      <guid isPermaLink="false">wVCA2IRR4g8</guid>
+      <pubDate>Tue, 15 Sep 2026 22:10:32 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Alevler gökyüzünü sardı! Avcılar’da TIR yangını paniğe neden oldu!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Kaşif Kozinoğlu'nun Bilinmeyen Geçmişi! Erol Mütercimler Anlattı! FETÖ Okulları, Orta Asya, Bosna</title>
       <link>https://www.youtube.com/watch?v=q1khxqz7Ywo</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Q9LtUS1np7s</guid>
       <pubDate>Tue, 15 Sep 2026 16:50:14 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Kaşif Kozinoğlu Sır Perdesi Aralandı! Raci Şaşmaz'dan Olay İfadeler! Kurtlar Vadisi, FETÖ...</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti Bayrampaşa İlçe Başkanlığı Açılışı!</title>
-      <link>https://www.youtube.com/watch?v=cJNYRhi9F78</link>
-      <guid isPermaLink="false">cJNYRhi9F78</guid>
-      <pubDate>Tue, 15 Sep 2026 16:47:09 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti Bayrampaşa İlçe Başkanlığı Açılışı!</description>
     </item>
   </channel>
 </rss>
