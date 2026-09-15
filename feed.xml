@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 18:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 18:20:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Kaşif Kozinoğlu soruşturmasında yeni ayrıntılar! 2 acil tıp teknisyeninin ifadeleri ortaya çıktı!</title>
+      <link>https://www.youtube.com/watch?v=O7qutoBRojw</link>
+      <guid isPermaLink="false">O7qutoBRojw</guid>
+      <pubDate>Tue, 15 Sep 2026 18:15:06 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Kaşif Kozinoğlu soruşturmasında yeni ayrıntılar! 2 acil tıp teknisyeninin ifadeleri ortaya çıktı!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Yeni Parti'nin ismi değişecek mi? Murat Taylan Yenilik Partisi'nin oy oranını açıkladı</title>
       <link>https://www.youtube.com/watch?v=u-McZfQqF-Q</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">5AQCN0tMTcU</guid>
       <pubDate>Tue, 15 Sep 2026 14:00:28 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İÇİNİZ PARÇALANACAK! Üsküdar tutuklusu Amine Cansu Çelik'e kızı 'teyze' demiş! Sözün bittiği yer!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Serap Belovacıklı ile Haber Saati | 15 Eylül</title>
-      <link>https://www.youtube.com/watch?v=ctfLBZFY_Nw</link>
-      <guid isPermaLink="false">ctfLBZFY_Nw</guid>
-      <pubDate>Tue, 15 Sep 2026 13:57:10 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Serap Belovacıklı ile Haber Saati | 15 Eylül</description>
     </item>
   </channel>
 </rss>
