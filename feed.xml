@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:30:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:35:25 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: KAŞİF KOZİNOĞLU'NUN SIR ÖLÜMÜ! Kurtlar Vadisi Gerçeği ve FETÖ İzi! Silivri'deki Büyük Sır</title>
+      <link>https://www.youtube.com/watch?v=-0Llutr789o</link>
+      <guid isPermaLink="false">-0Llutr789o</guid>
+      <pubDate>Tue, 15 Sep 2026 23:30:29 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: KAŞİF KOZİNOĞLU'NUN SIR ÖLÜMÜ! Kurtlar Vadisi Gerçeği ve FETÖ İzi! Silivri'deki Büyük Sır</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Avukat Hüseyin Ersöz İsyan Etti! Selahattin Günday'a Akılalmaz Suçlama: 2. Kez Tutuklandı!</title>
       <link>https://www.youtube.com/watch?v=yYUYW4A6fhU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">u-McZfQqF-Q</guid>
       <pubDate>Tue, 15 Sep 2026 18:00:38 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Yeni Parti'nin ismi değişecek mi? Murat Taylan Yenilik Partisi'nin oy oranını açıkladı</description>
-    </item>
-    <item>
-      <title>Halk TV: SURİYE SOKAKLARI YANIYOR! Zam protestosu büyüdükçe büyüdü! İşte dünyayı dehşete düşüren görüntüler!</title>
-      <link>https://www.youtube.com/watch?v=L5GQuX0XdZ4</link>
-      <guid isPermaLink="false">L5GQuX0XdZ4</guid>
-      <pubDate>Tue, 15 Sep 2026 18:00:36 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SURİYE SOKAKLARI YANIYOR! Zam protestosu büyüdükçe büyüdü! İşte dünyayı dehşete düşüren görüntüler!</description>
     </item>
   </channel>
 </rss>
