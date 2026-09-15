@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 00:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 00:05:24 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Bursa'da soğuk hava deposunda korkutan yangın! O anlar kameralara saniye saniye böyle yansıdı!</title>
+      <link>https://www.youtube.com/shorts/bLAU-0b2W4w</link>
+      <guid isPermaLink="false">bLAU-0b2W4w</guid>
+      <pubDate>Mon, 14 Sep 2026 23:55:14 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Bursa'da soğuk hava deposunda korkutan yangın! O anlar kameralara saniye saniye böyle yansıdı!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: İYİ Parti Sözcüsü Buğra Kavuncu açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=T0PUayrqsqc</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">wdlYSdCJQoU</guid>
       <pubDate>Mon, 14 Sep 2026 18:45:20 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SON ANDA KURTULDULAR! Rusya Boris Johnson'ın bulunduğu treni vurduğu! 15 dakika farkla kurtuldular!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Özgür Özel'in Gizli Planı! İsmail Saymaz YENİ Parti Bilinmeyenlerini Anlattı! Muhalefette İsim Krizi</title>
-      <link>https://www.youtube.com/watch?v=rpURk_16OZk</link>
-      <guid isPermaLink="false">rpURk_16OZk</guid>
-      <pubDate>Mon, 14 Sep 2026 18:40:34 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Özgür Özel'in Gizli Planı! İsmail Saymaz YENİ Parti Bilinmeyenlerini Anlattı! Muhalefette İsim Krizi</description>
     </item>
   </channel>
 </rss>
