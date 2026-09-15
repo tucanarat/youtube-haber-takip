@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:00:51 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: ANKARA KULİSLERİNİ SALLAYAN İDDİA! 2027'de Erken Seçim Mi Geliyor? Erdoğan Düğmeye Basabilir</title>
+      <link>https://www.youtube.com/watch?v=e8u15oVQwuQ</link>
+      <guid isPermaLink="false">e8u15oVQwuQ</guid>
+      <pubDate>Tue, 15 Sep 2026 22:50:20 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: ANKARA KULİSLERİNİ SALLAYAN İDDİA! 2027'de Erken Seçim Mi Geliyor? Erdoğan Düğmeye Basabilir</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Özlem Gürses ile Sözcü Ana Haber</title>
       <link>https://www.youtube.com/watch?v=LUhFCNVhui8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">A55ickwDf68</guid>
       <pubDate>Tue, 15 Sep 2026 17:45:01 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SOSYAL MEDYANIN DİLİNE DÜŞTÜ! Bakan Ömer Bolat boş koltuklara böyle seslendi! Görenler inanamadı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Erişim engeli dalgası büyüyor! Listede Evrensel ve Ali İsmail Korkmaz Vakfı da var!</title>
-      <link>https://www.youtube.com/watch?v=NNpB7Vzlhi0</link>
-      <guid isPermaLink="false">NNpB7Vzlhi0</guid>
-      <pubDate>Tue, 15 Sep 2026 17:30:38 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Erişim engeli dalgası büyüyor! Listede Evrensel ve Ali İsmail Korkmaz Vakfı da var!</description>
     </item>
   </channel>
 </rss>
