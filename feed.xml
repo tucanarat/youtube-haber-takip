@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 16:50:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 16:55:25 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Kaşif Kozinoğlu Sır Perdesi Aralandı! Raci Şaşmaz'dan Olay İfadeler! Kurtlar Vadisi, FETÖ...</title>
+      <link>https://www.youtube.com/watch?v=Q9LtUS1np7s</link>
+      <guid isPermaLink="false">Q9LtUS1np7s</guid>
+      <pubDate>Tue, 15 Sep 2026 16:50:14 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Kaşif Kozinoğlu Sır Perdesi Aralandı! Raci Şaşmaz'dan Olay İfadeler! Kurtlar Vadisi, FETÖ...</description>
+    </item>
     <item>
       <title>Halk TV: YENİ Parti Bayrampaşa İlçe Başkanlığı Açılışı!</title>
       <link>https://www.youtube.com/watch?v=cJNYRhi9F78</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">UdSTkGBHN9Y</guid>
       <pubDate>Tue, 15 Sep 2026 13:05:22 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SARAY'DA IŞIKLAR SÖNMEZ! Sibel Tan Çetinkaya'nın sözlerinin yankısı büyük olacak! Meclis buz kesti!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Ülkü Çoban ile Manşet Ötesi (16.09.26)</title>
-      <link>https://www.youtube.com/watch?v=reO0h6KmJCk</link>
-      <guid isPermaLink="false">reO0h6KmJCk</guid>
-      <pubDate>Tue, 15 Sep 2026 13:03:57 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Ülkü Çoban ile Manşet Ötesi (16.09.26)</description>
     </item>
   </channel>
 </rss>
