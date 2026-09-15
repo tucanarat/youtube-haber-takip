@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 13:50:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 13:55:28 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: YENİ Parti Sözcüsü Zeynel Emre, Parti Genel Merkezi’nde Basın Açıklaması Yaptı (15 Eylül 2026)</title>
+      <link>https://www.youtube.com/watch?v=zZghOHOGLP8</link>
+      <guid isPermaLink="false">zZghOHOGLP8</guid>
+      <pubDate>Tue, 15 Sep 2026 13:48:45 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YENİ Parti Sözcüsü Zeynel Emre, Parti Genel Merkezi’nde Basın Açıklaması Yaptı (15 Eylül 2026)</description>
+    </item>
+    <item>
+      <title>Halk TV: SON DAKİKA! MİLYONLARIN GÖZÜ ORADAYDI! YENİ Parti'nin isim değişikliği kararı belli oldu!</title>
+      <link>https://www.youtube.com/watch?v=sbW3FYeQitE</link>
+      <guid isPermaLink="false">sbW3FYeQitE</guid>
+      <pubDate>Tue, 15 Sep 2026 13:45:03 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! MİLYONLARIN GÖZÜ ORADAYDI! YENİ Parti'nin isim değişikliği kararı belli oldu!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Hasan Atilla Uğur ve Kaşif Kozinoğlu Dosyası: FETÖ Derin Devlet Kurtlar Vadisi! Timur Soykan Anlattı</title>
       <link>https://www.youtube.com/watch?v=9yN1ItKjVpw</link>
@@ -22,11 +36,11 @@
       <description>Halk TV kanalından yeni video: KİLİS'TE NELER OLUYOR? AKP milletvekili Ahmet Salih Dal'ın abisi tutuklandı, il başkanı istifa etti!</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | Yavuz Ağıralioğlu Ve Ali Babacan Ortak Açıklama Yapıyor!</title>
+      <title>Halk TV: Yavuz Ağıralioğlu Ve Ali Babacan Ortak Açıklama Yaptı (15 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=uZNLhfIQslI</link>
       <guid isPermaLink="false">uZNLhfIQslI</guid>
       <pubDate>Tue, 15 Sep 2026 13:34:39 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Yavuz Ağıralioğlu Ve Ali Babacan Ortak Açıklama Yapıyor!</description>
+      <description>Halk TV kanalından yeni video: Yavuz Ağıralioğlu Ve Ali Babacan Ortak Açıklama Yaptı (15 Eylül 2026)</description>
     </item>
     <item>
       <title>Halk TV: 'ERDOĞAN' YAZILI MEZAR TAŞINA BÖYLE YANIT VERDİ! Raci Şaşmaz'ın ifadesi ortaya çıktı! Günün bombası!</title>
@@ -83,13 +97,6 @@
       <guid isPermaLink="false">reO0h6KmJCk</guid>
       <pubDate>Tue, 15 Sep 2026 13:03:57 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Ülkü Çoban ile Manşet Ötesi (16.09.26)</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | YENİ Parti Sözcüsü Zeynel Emre, Parti Genel Merkezi’nde Basın Açıklaması Yapıyor!</title>
-      <link>https://www.youtube.com/watch?v=zZghOHOGLP8</link>
-      <guid isPermaLink="false">zZghOHOGLP8</guid>
-      <pubDate>Tue, 15 Sep 2026 13:03:00 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti Sözcüsü Zeynel Emre, Parti Genel Merkezi’nde Basın Açıklaması Yapıyor!</description>
     </item>
     <item>
       <title>Tele2 Haber: #CANLI Onur Öncü ile Sabah Pusulası (16.09.26)</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">yQ6HmRKYlu8</guid>
       <pubDate>Tue, 15 Sep 2026 10:50:07 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ERDOĞAN O HAMLESİYLE KENDİ SONUNU GETİRECEK! Ortaya öyle belgeler saçıldı ki! Milyonlar ayaklanır!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: İki kurucu halk mavalı-Özdemir İnce</title>
-      <link>https://www.youtube.com/watch?v=kaUxUuvtCqc</link>
-      <guid isPermaLink="false">kaUxUuvtCqc</guid>
-      <pubDate>Tue, 15 Sep 2026 10:49:26 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: İki kurucu halk mavalı-Özdemir İnce</description>
     </item>
   </channel>
 </rss>
