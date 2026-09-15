@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 14:28:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 14:30:44 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Kozinoğlu Dosyasının Şifreleri! Rasim Ozan Kütahyalı Neler Biliyor? Kozmik Oda Sırrı | Timur Soykan</title>
+      <link>https://www.youtube.com/watch?v=C6Mrbhvu7v0</link>
+      <guid isPermaLink="false">C6Mrbhvu7v0</guid>
+      <pubDate>Tue, 15 Sep 2026 14:20:16 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Kozinoğlu Dosyasının Şifreleri! Rasim Ozan Kütahyalı Neler Biliyor? Kozmik Oda Sırrı | Timur Soykan</description>
+    </item>
     <item>
       <title>Halk TV: BUTLAN CHP'Sİ BİRBİRİNE GİRECEK! O isim Kılıçdaroğlu'nun kurultay planına sert çıktı! İşte detaylar!</title>
       <link>https://www.youtube.com/watch?v=MJRoCKhqXjI</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Z8_tRzSL9dw</guid>
       <pubDate>Tue, 15 Sep 2026 11:20:09 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ÇAĞLAYAN'DA TANSİYON YÜKSELDİ! Polisten LGBTİ+'lara kuşatma gibi abluka! Çok sayıda kişi gözaltında!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "Ailem Güvende" Operasyonlarını Protesto Eden Eylemciler Gözaltına Alındı!</title>
-      <link>https://www.youtube.com/watch?v=6FBKY5mFoMc</link>
-      <guid isPermaLink="false">6FBKY5mFoMc</guid>
-      <pubDate>Tue, 15 Sep 2026 11:15:20 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "Ailem Güvende" Operasyonlarını Protesto Eden Eylemciler Gözaltına Alındı!</description>
     </item>
   </channel>
 </rss>
