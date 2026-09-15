@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 00:20:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 00:25:27 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: Cumhurbaşkanı Erdoğan, eğitim yılı ve ve eğitim yatırımlarının açılışında konuşuyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=dS8F6_TFDtA</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">l2b4i6h7NxY</guid>
       <pubDate>Tue, 15 Sep 2026 00:13:25 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkanı Kemal Kılıçdaroğlu açıklama yapıyor #Canlı</description>
+    </item>
+    <item>
+      <title>Halk TV: Bakırköy’de kentsel dönüşüm nedeniyle boşaltılan binanın çatısı alev alev yandı! #shorts</title>
+      <link>https://www.youtube.com/shorts/g6T0Vd2slR8</link>
+      <guid isPermaLink="false">g6T0Vd2slR8</guid>
+      <pubDate>Tue, 15 Sep 2026 00:10:31 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Bakırköy’de kentsel dönüşüm nedeniyle boşaltılan binanın çatısı alev alev yandı! #shorts</description>
     </item>
     <item>
       <title>Halk TV: Bursa'da soğuk hava deposunda korkutan yangın! O anlar kameralara saniye saniye böyle yansıdı!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">DIWCA6AmSEU</guid>
       <pubDate>Mon, 14 Sep 2026 19:00:10 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Mansur Yavaş'ın tavrı... İmamoğlu'nun "hatası"... Bahattin Yücel anlatıyor</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İsmail Saymaz'dan Çarpıcı Mansur Yavaş Kulisi! Beştepe Zirvesinin Perde Arkası! Melih Gökçek Çıkışı</title>
-      <link>https://www.youtube.com/watch?v=IR1SgDXenn4</link>
-      <guid isPermaLink="false">IR1SgDXenn4</guid>
-      <pubDate>Mon, 14 Sep 2026 19:00:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İsmail Saymaz'dan Çarpıcı Mansur Yavaş Kulisi! Beştepe Zirvesinin Perde Arkası! Melih Gökçek Çıkışı</description>
     </item>
   </channel>
 </rss>
