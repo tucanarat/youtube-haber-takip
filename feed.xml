@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 18:30:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 18:35:28 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Kurtlar Vadisi 'Kaşif Kozinoğlu' bölümünün perde arkası! Senarist Şaşmaz'ın ifadesi ortaya çıktı</title>
+      <link>https://www.youtube.com/watch?v=8IL8LKIlDG0</link>
+      <guid isPermaLink="false">8IL8LKIlDG0</guid>
+      <pubDate>Tue, 15 Sep 2026 18:30:34 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Kurtlar Vadisi 'Kaşif Kozinoğlu' bölümünün perde arkası! Senarist Şaşmaz'ın ifadesi ortaya çıktı</description>
+    </item>
     <item>
       <title>Halk TV: Kaşif Kozinoğlu soruşturmasında yeni ayrıntılar! 2 acil tıp teknisyeninin ifadeleri ortaya çıktı!</title>
       <link>https://www.youtube.com/watch?v=O7qutoBRojw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">vngH4IPsQ6w</guid>
       <pubDate>Tue, 15 Sep 2026 14:00:37 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: İBB Meclisi'ndeki "Kocan Nerede" Tartışmasına Çoban Ateş Püskürdü! "Kadının Yapması Daha Acayip!"</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: CHP KULİSLERİ KAYNIYOR! "Partiyi Boşalttılar!" Temyiz Krizinin Perde Arkası</title>
-      <link>https://www.youtube.com/watch?v=AlhSEJ8cn48</link>
-      <guid isPermaLink="false">AlhSEJ8cn48</guid>
-      <pubDate>Tue, 15 Sep 2026 14:00:34 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: CHP KULİSLERİ KAYNIYOR! "Partiyi Boşalttılar!" Temyiz Krizinin Perde Arkası</description>
     </item>
   </channel>
 </rss>
