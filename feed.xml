@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 21:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 22:00:52 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Sinem Fıstıkoğlu ile Sansürsüz (15 Eylül 2026)</title>
+      <link>https://www.youtube.com/watch?v=-ZvNfJuf52k</link>
+      <guid isPermaLink="false">-ZvNfJuf52k</guid>
+      <pubDate>Tue, 15 Sep 2026 21:57:29 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Sinem Fıstıkoğlu ile Sansürsüz (15 Eylül 2026)</description>
+    </item>
+    <item>
+      <title>Halk TV: MOTORİN 100 LİRAYA KOŞUYOR! Ertunç Özün’den motorin fiyatlarına dikkat çeken tepki!</title>
+      <link>https://www.youtube.com/watch?v=9Yvg7kHFejA</link>
+      <guid isPermaLink="false">9Yvg7kHFejA</guid>
+      <pubDate>Tue, 15 Sep 2026 21:50:37 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: MOTORİN 100 LİRAYA KOŞUYOR! Ertunç Özün’den motorin fiyatlarına dikkat çeken tepki!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Bülent Arınç Aday mı Oluyor? Kulisler Sarsılacak! Nevzat Çiçek AKP'yi Karıştıran Düğünü Anlattı</title>
       <link>https://www.youtube.com/watch?v=rbjDmguQfmY</link>
@@ -316,13 +330,6 @@
       <description>Halk TV kanalından yeni video: Yeni Parti İzmir Milletvekili Gökçe Gökçen, “ailem güvende”operasyonlarının perde arkasını anlattı!</description>
     </item>
     <item>
-      <title>Halk TV: Sinem Fıstıkoğlu ile Sansürsüz (15 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=-ZvNfJuf52k</link>
-      <guid isPermaLink="false">-ZvNfJuf52k</guid>
-      <pubDate>Tue, 15 Sep 2026 16:52:23 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Sinem Fıstıkoğlu ile Sansürsüz (15 Eylül 2026)</description>
-    </item>
-    <item>
       <title>SÖZCÜ TV: Kaşif Kozinoğlu Sır Perdesi Aralandı! Raci Şaşmaz'dan Olay İfadeler! Kurtlar Vadisi, FETÖ...</title>
       <link>https://www.youtube.com/watch?v=Q9LtUS1np7s</link>
       <guid isPermaLink="false">Q9LtUS1np7s</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">7jGqQkl5tP0</guid>
       <pubDate>Tue, 15 Sep 2026 16:30:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: HALK TV O RAPORA ULAŞTI! Rojin'in konuştuğu son isim ortaya çıktı! Bomba güvenlik görevlisi detayı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Pusula Portföy Fonlarında Şok Ödeme Krizi! Fonlar Temerrüde Düştü! Özlem Gürses Anlattı</title>
-      <link>https://www.youtube.com/watch?v=awplTcfuyZs</link>
-      <guid isPermaLink="false">awplTcfuyZs</guid>
-      <pubDate>Tue, 15 Sep 2026 16:30:00 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Pusula Portföy Fonlarında Şok Ödeme Krizi! Fonlar Temerrüde Düştü! Özlem Gürses Anlattı</description>
     </item>
   </channel>
 </rss>
