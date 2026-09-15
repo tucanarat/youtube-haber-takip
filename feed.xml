@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 21:00:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:05:24 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Asu Kaya'dan, Adalet Peşinde Aileleri Platformu'nun Adalet Bakanlığı önündeki eylemine destek #Canlı</title>
+      <link>https://www.youtube.com/watch?v=5yIPXgI_5Q8</link>
+      <guid isPermaLink="false">5yIPXgI_5Q8</guid>
+      <pubDate>Tue, 15 Sep 2026 20:57:29 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Asu Kaya'dan, Adalet Peşinde Aileleri Platformu'nun Adalet Bakanlığı önündeki eylemine destek #Canlı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Erol Mütercimler Kaşif Kozinoğlu'nun Şüpheli Ölümünün Sır Perdesini Aralıyor! FETÖ, CIA, Ruzi Nazar</title>
       <link>https://www.youtube.com/watch?v=PqMUwxQIX-w</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">pSvo4G5RgZk</guid>
       <pubDate>Tue, 15 Sep 2026 16:00:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: MASKELER DÜŞTÜ! ‘Ailem Güvende’ operasyonlarının asıl hedefi buymuş! Gökçe Gökçen bir bir anlattı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Bülent Arınç Konuştu! AKP Karıştı! Melih Gökçek Polemiği Büyüyor! Özlem Gürses'ten Çarpıcı Sözler</title>
-      <link>https://www.youtube.com/watch?v=u48TkGe3Kck</link>
-      <guid isPermaLink="false">u48TkGe3Kck</guid>
-      <pubDate>Tue, 15 Sep 2026 15:50:19 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Bülent Arınç Konuştu! AKP Karıştı! Melih Gökçek Polemiği Büyüyor! Özlem Gürses'ten Çarpıcı Sözler</description>
     </item>
   </channel>
 </rss>
