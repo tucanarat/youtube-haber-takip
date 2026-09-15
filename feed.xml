@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 10:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 10:45:37 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: İstanbul Emek, Barış ve Demokrasi Güçleri'ne İstanbul Adliyesi önünde polis müdahalesi #Canlı</title>
+      <link>https://www.youtube.com/watch?v=XaqRiFo_dAs</link>
+      <guid isPermaLink="false">XaqRiFo_dAs</guid>
+      <pubDate>Tue, 15 Sep 2026 10:44:24 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: İstanbul Emek, Barış ve Demokrasi Güçleri'ne İstanbul Adliyesi önünde polis müdahalesi #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: Gemi faciasında SKANDAL DETAY! Bayhan ailesinin avukatı anlattı! "Sakın binmeyin!"</title>
       <link>https://www.youtube.com/watch?v=DHDcQzHtIeU</link>
@@ -20,6 +27,13 @@
       <guid isPermaLink="false">TTIDqLknohg</guid>
       <pubDate>Tue, 15 Sep 2026 10:32:54 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: ‘LGBTİ+ operasyonu’ protestosu! Avukat Kardelen Başak Altınsoy Çağlayan Adliyesi önünden aktardı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Putin Boris Johnson'ı Öldürmek mi İstedi? Rus İHA'sı Treni Vurdu Avrupalı Liderler Ölümden Döndü</title>
+      <link>https://www.youtube.com/watch?v=gN9W8a8Wm9Q</link>
+      <guid isPermaLink="false">gN9W8a8Wm9Q</guid>
+      <pubDate>Tue, 15 Sep 2026 10:30:38 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Putin Boris Johnson'ı Öldürmek mi İstedi? Rus İHA'sı Treni Vurdu Avrupalı Liderler Ölümden Döndü</description>
     </item>
     <item>
       <title>Tele2 Haber: "İnsanları örgütlendikleri için gözaltına alamazsınız. Bu hukuksuzluktan vazgeçin."</title>
@@ -125,13 +139,6 @@
       <guid isPermaLink="false">uxfz_JYhJQw</guid>
       <pubDate>Tue, 15 Sep 2026 09:42:20 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Yürekleri ağza getiren anlar! Soba kovasına sıkışan yavru kedi böyle kurtarıldı</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: İstanbul Emek, Barış ve Demokrasi Güçleri'ne İstanbul Adliyesi önünde polis müdahalesi #Canlı</title>
-      <link>https://www.youtube.com/watch?v=XaqRiFo_dAs</link>
-      <guid isPermaLink="false">XaqRiFo_dAs</guid>
-      <pubDate>Tue, 15 Sep 2026 09:35:00 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: İstanbul Emek, Barış ve Demokrasi Güçleri'ne İstanbul Adliyesi önünde polis müdahalesi #Canlı</description>
     </item>
     <item>
       <title>Tele2 Haber: #CANLI İstanbul Emek, Barış ve Demokrasi Güçleri İstanbul Adliyesi önünde açıklama yapıyor</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">8RnO9ru1rSY</guid>
       <pubDate>Tue, 15 Sep 2026 06:58:52 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Deniz Bayramoğlu ile Gün Doğarken | #fatura (15 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: BÜLENT ARINÇ MEYDAN OKUDU! Melih Gökçek'e yönelik sözlerine gelen tepkilere resmen ateş püskürdü!</title>
-      <link>https://www.youtube.com/watch?v=3utLzF4kV0g</link>
-      <guid isPermaLink="false">3utLzF4kV0g</guid>
-      <pubDate>Tue, 15 Sep 2026 06:50:07 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BÜLENT ARINÇ MEYDAN OKUDU! Melih Gökçek'e yönelik sözlerine gelen tepkilere resmen ateş püskürdü!</description>
     </item>
   </channel>
 </rss>
