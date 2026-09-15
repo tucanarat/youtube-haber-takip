@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 21:50:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:55:25 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Bülent Arınç Aday mı Oluyor? Kulisler Sarsılacak! Nevzat Çiçek AKP'yi Karıştıran Düğünü Anlattı</title>
+      <link>https://www.youtube.com/watch?v=rbjDmguQfmY</link>
+      <guid isPermaLink="false">rbjDmguQfmY</guid>
+      <pubDate>Tue, 15 Sep 2026 21:50:33 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Bülent Arınç Aday mı Oluyor? Kulisler Sarsılacak! Nevzat Çiçek AKP'yi Karıştıran Düğünü Anlattı</description>
+    </item>
     <item>
       <title>Halk TV: KATLİAM YAPIP KAÇTILAR! Fatih'te kan donduran olay! Pencereden atladılar, kamera hepsini kaydetti!</title>
       <link>https://www.youtube.com/shorts/Lc-uCiIiYas</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">awplTcfuyZs</guid>
       <pubDate>Tue, 15 Sep 2026 16:30:00 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Pusula Portföy Fonlarında Şok Ödeme Krizi! Fonlar Temerrüde Düştü! Özlem Gürses Anlattı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Kaşif Kozinoğlu soruşturmasında gazeteci Günday 2. kez tutuklandı!</title>
-      <link>https://www.youtube.com/watch?v=_j-_1_Ty8bI</link>
-      <guid isPermaLink="false">_j-_1_Ty8bI</guid>
-      <pubDate>Tue, 15 Sep 2026 16:17:32 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Kaşif Kozinoğlu soruşturmasında gazeteci Günday 2. kez tutuklandı!</description>
     </item>
   </channel>
 </rss>
