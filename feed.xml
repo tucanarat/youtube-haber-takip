@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 08:25:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 08:30:47 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Silivri'de geç saatlere kadar süren duruşmalara İbrahim Kaboğlu'ndan tepki: İnsani değil...</title>
+      <link>https://www.youtube.com/watch?v=YofJXLIvseo</link>
+      <guid isPermaLink="false">YofJXLIvseo</guid>
+      <pubDate>Tue, 15 Sep 2026 08:21:24 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Silivri'de geç saatlere kadar süren duruşmalara İbrahim Kaboğlu'ndan tepki: İnsani değil...</description>
+    </item>
     <item>
       <title>Tele2 Haber: Onur Öncü ile Sabah Pusulası | Kurtlar Vadisi gerçek mi oldu? |  Türkiye güvenli mi?</title>
       <link>https://www.youtube.com/watch?v=3ZuwAp3Rq-E</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">VKrbPV2snzY</guid>
       <pubDate>Mon, 14 Sep 2026 22:02:06 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Eğitim İş Sendikası üyeleri, Milli Eğitim Bakanlığı önünde basın açıklaması yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: Gökmen Karadağ ile Açıkça (14 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=RlQAkBLoQGM</link>
-      <guid isPermaLink="false">RlQAkBLoQGM</guid>
-      <pubDate>Mon, 14 Sep 2026 22:01:34 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Gökmen Karadağ ile Açıkça (14 Eylül 2026)</description>
     </item>
   </channel>
 </rss>
