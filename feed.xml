@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 16:45:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 16:50:37 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Ortadoğu'da Kırmızı Çizgi Aşıldı! Kutsal Topraklarda İHA Alarmı! Husiler &amp; ABD'den Gizli Zirve</title>
+      <link>https://www.youtube.com/watch?v=6U0V2r1r4bs</link>
+      <guid isPermaLink="false">6U0V2r1r4bs</guid>
+      <pubDate>Wed, 16 Sep 2026 16:40:21 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Ortadoğu'da Kırmızı Çizgi Aşıldı! Kutsal Topraklarda İHA Alarmı! Husiler &amp; ABD'den Gizli Zirve</description>
+    </item>
     <item>
       <title>Tele2 Haber: KİLİS'TE YAŞ ÜZÜM FİYATINA PROTESTO! SELA OKUYUP DUA ETTİLER...</title>
       <link>https://www.youtube.com/shorts/G5xVVUTx02s</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">cG2ThflNpL4</guid>
       <pubDate>Wed, 16 Sep 2026 13:22:22 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Akaryakıt fiyatına tarihi zam geliyor: Litre fiyatı 100 TL'yi aşacak</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: "Eşcinsellik Bir Hastalık Değildir!" Hukukçu Tolga Şirin'den Çarpıcı Analiz</title>
-      <link>https://www.youtube.com/watch?v=n2bB52ZYiLA</link>
-      <guid isPermaLink="false">n2bB52ZYiLA</guid>
-      <pubDate>Wed, 16 Sep 2026 13:20:03 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: "Eşcinsellik Bir Hastalık Değildir!" Hukukçu Tolga Şirin'den Çarpıcı Analiz</description>
     </item>
   </channel>
 </rss>
