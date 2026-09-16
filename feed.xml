@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 21:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 21:05:33 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: GİZLİ YÜRÜTÜLEN SÜREÇ!  Bahçeli'nin Öcalan Planının Arkasında Ne Var? Saygı Öztürk'ten Dinleyin</title>
+      <link>https://www.youtube.com/watch?v=Q6sOR9wnIQI</link>
+      <guid isPermaLink="false">Q6sOR9wnIQI</guid>
+      <pubDate>Wed, 16 Sep 2026 21:00:31 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: GİZLİ YÜRÜTÜLEN SÜREÇ!  Bahçeli'nin Öcalan Planının Arkasında Ne Var? Saygı Öztürk'ten Dinleyin</description>
+    </item>
+    <item>
+      <title>Halk TV: Turhan Çömez’den kritik seçim uyarısı! “Millet sandığa güvenini kaybederse…”</title>
+      <link>https://www.youtube.com/watch?v=y7S5JLrjd1g</link>
+      <guid isPermaLink="false">y7S5JLrjd1g</guid>
+      <pubDate>Wed, 16 Sep 2026 21:00:17 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Turhan Çömez’den kritik seçim uyarısı! “Millet sandığa güvenini kaybederse…”</description>
+    </item>
     <item>
       <title>Halk TV: Hukukçu Afşin Hatipoğlu, iktidarın muhalefete yönelik baskını dikkat çeken bir fiille anlattı!</title>
       <link>https://www.youtube.com/watch?v=XPwvkmDwLac</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">rFNDbqx8O64</guid>
       <pubDate>Wed, 16 Sep 2026 16:51:08 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | Sinem Fıstıkoğlu ile Sansürsüz</description>
-    </item>
-    <item>
-      <title>Halk TV: KAVGA ÖLÜMLE BİTTİ! Melikgazi’de bıçaklanan Onur Uyumaz hastanede kurtarılamadı, şüpheli tutuklandı!</title>
-      <link>https://www.youtube.com/shorts/TVYXx1W9G1k</link>
-      <guid isPermaLink="false">TVYXx1W9G1k</guid>
-      <pubDate>Wed, 16 Sep 2026 16:45:37 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KAVGA ÖLÜMLE BİTTİ! Melikgazi’de bıçaklanan Onur Uyumaz hastanede kurtarılamadı, şüpheli tutuklandı!</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti Lideri Özgür Özel, Türkiye'de yaşananları Fransız Le Figaro'ya yazdı!</title>
-      <link>https://www.youtube.com/watch?v=7UQbBEqmyQg</link>
-      <guid isPermaLink="false">7UQbBEqmyQg</guid>
-      <pubDate>Wed, 16 Sep 2026 16:45:31 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti Lideri Özgür Özel, Türkiye'de yaşananları Fransız Le Figaro'ya yazdı!</description>
     </item>
   </channel>
 </rss>
