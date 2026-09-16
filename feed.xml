@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 21:20:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 21:25:27 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Motorinde Tarihi Zirve! 100 Lirayı Aştı! Pompada Büyük Şok! Tabela Değişti Vatandaş İsyanda</title>
+      <link>https://www.youtube.com/watch?v=43ZEF-LeU_s</link>
+      <guid isPermaLink="false">43ZEF-LeU_s</guid>
+      <pubDate>Wed, 16 Sep 2026 21:20:29 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Motorinde Tarihi Zirve! 100 Lirayı Aştı! Pompada Büyük Şok! Tabela Değişti Vatandaş İsyanda</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Mustafa Destici, partisinin genel merkezinde basın toplantısı düzenliyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=7hvGqiU-ROM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">3BOvntR3i_k</guid>
       <pubDate>Wed, 16 Sep 2026 17:00:02 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (16 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Ece Üner ile Halk Ana Haber | #kayıp</title>
-      <link>https://www.youtube.com/watch?v=qI8MBJTLtd4</link>
-      <guid isPermaLink="false">qI8MBJTLtd4</guid>
-      <pubDate>Wed, 16 Sep 2026 16:57:47 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Ece Üner ile Halk Ana Haber | #kayıp</description>
     </item>
   </channel>
 </rss>
