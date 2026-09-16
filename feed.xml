@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 07:40:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 07:45:30 +0000</lastBuildDate>
     <item>
       <title>Cumhuriyet: Türk sinemasının ustası Tarık Akan mezarı başında anıldı... Kardeşi gözyaşlarını tutamadı</title>
       <link>https://www.youtube.com/watch?v=N1LiAePxYjc</link>
@@ -27,6 +27,13 @@
       <guid isPermaLink="false">_554FQm1-1c</guid>
       <pubDate>Wed, 16 Sep 2026 07:32:52 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: MİT'ten yasa dışı veri sorgulama operasyonu: Yazılım şirketi sahibi dahil 5 gözaltı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: YENİ Parti'ye Gönderilen Gizli Tebligat Sözcü TV'de! İSMAİL SAYMAZ YAYINDA OKUDU!</title>
+      <link>https://www.youtube.com/watch?v=vCtaM3PNs3A</link>
+      <guid isPermaLink="false">vCtaM3PNs3A</guid>
+      <pubDate>Wed, 16 Sep 2026 07:30:28 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: YENİ Parti'ye Gönderilen Gizli Tebligat Sözcü TV'de! İSMAİL SAYMAZ YAYINDA OKUDU!</description>
     </item>
     <item>
       <title>Halk TV: AKP DUT YEMİŞ BÜLBÜLE DÖNDÜ! YENİ Partili ismin sözleri Meclis'i yıktı geçti! Erdoğan'a soğuk duş!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">A4fr8sdMpxw</guid>
       <pubDate>Tue, 15 Sep 2026 22:35:41 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: İBB Başkan Vekili Nuri Aslan, Silivri'de Ayçiçeği Hasat Etkinliğinde konuşuyor #Canlı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Kızıldeniz'de Tehlike! Ortadoğu'da Yeni Cephe! Arap Fars Savaşı Ayak Sesleri! Nevzat Çiçek Anlattı</title>
-      <link>https://www.youtube.com/watch?v=8HOkUVK9z5k</link>
-      <guid isPermaLink="false">8HOkUVK9z5k</guid>
-      <pubDate>Tue, 15 Sep 2026 22:30:19 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Kızıldeniz'de Tehlike! Ortadoğu'da Yeni Cephe! Arap Fars Savaşı Ayak Sesleri! Nevzat Çiçek Anlattı</description>
     </item>
   </channel>
 </rss>
