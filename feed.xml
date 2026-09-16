@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 17:00:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 17:05:24 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Yapay Zeka Dünyanın Sonunu mu Getirecek? | Ayşegül İldeniz | İpek Özbey ile Nasıl Olacak?</title>
+      <link>https://www.youtube.com/watch?v=zPgXw-Wufxk</link>
+      <guid isPermaLink="false">zPgXw-Wufxk</guid>
+      <pubDate>Wed, 16 Sep 2026 17:00:07 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Yapay Zeka Dünyanın Sonunu mu Getirecek? | Ayşegül İldeniz | İpek Özbey ile Nasıl Olacak?</description>
+    </item>
+    <item>
+      <title>Halk TV: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (16 Eylül 2026)</title>
+      <link>https://www.youtube.com/watch?v=3BOvntR3i_k</link>
+      <guid isPermaLink="false">3BOvntR3i_k</guid>
+      <pubDate>Wed, 16 Sep 2026 17:00:02 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (16 Eylül 2026)</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Ece Üner ile Halk Ana Haber | #kayıp</title>
       <link>https://www.youtube.com/watch?v=qI8MBJTLtd4</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">sdICl8vC4Fw</guid>
       <pubDate>Wed, 16 Sep 2026 13:40:30 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Husiler Arabistan'ı Vurdu Mekke İttifakı Harekete Geçti! Hakan Fidan'dan Husilere Tehdit!</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti Grup Başkanvekili Ali Mahir Başarır ve CHP Grup Başkanvekili Sevda Kılıç selamlaşmadı!</title>
-      <link>https://www.youtube.com/shorts/Ht5gtB7LmK4</link>
-      <guid isPermaLink="false">Ht5gtB7LmK4</guid>
-      <pubDate>Wed, 16 Sep 2026 13:36:31 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti Grup Başkanvekili Ali Mahir Başarır ve CHP Grup Başkanvekili Sevda Kılıç selamlaşmadı!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: 15 YIL ÖNCEKİ HABERLER TUTUKLAMA GEREKÇESİ Zeynel Lüle ve Faruk Bildirici ile Medyamorfoz (16.09.26)</title>
-      <link>https://www.youtube.com/watch?v=yILHhIJ_BSI</link>
-      <guid isPermaLink="false">yILHhIJ_BSI</guid>
-      <pubDate>Wed, 16 Sep 2026 13:35:08 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: 15 YIL ÖNCEKİ HABERLER TUTUKLAMA GEREKÇESİ Zeynel Lüle ve Faruk Bildirici ile Medyamorfoz (16.09.26)</description>
     </item>
   </channel>
 </rss>
