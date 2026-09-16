@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 18:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 18:20:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: BAKANA SERT ÇIKTI! “Mesele Avrupa’da mazotun kaç lira olduğu değil, emekli kaç litre alabiliyor!”</title>
+      <link>https://www.youtube.com/shorts/oOrq-DmREUo</link>
+      <guid isPermaLink="false">oOrq-DmREUo</guid>
+      <pubDate>Wed, 16 Sep 2026 18:15:23 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BAKANA SERT ÇIKTI! “Mesele Avrupa’da mazotun kaç lira olduğu değil, emekli kaç litre alabiliyor!”</description>
+    </item>
+    <item>
+      <title>Halk TV: Skandalı Deniz Yavuzyılmaz gündeme getirdi: Bakanlığın açıklamasıyla kriz daha da büyüdü!</title>
+      <link>https://www.youtube.com/watch?v=sRMeME969a8</link>
+      <guid isPermaLink="false">sRMeME969a8</guid>
+      <pubDate>Wed, 16 Sep 2026 18:15:14 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Skandalı Deniz Yavuzyılmaz gündeme getirdi: Bakanlığın açıklamasıyla kriz daha da büyüdü!</description>
+    </item>
     <item>
       <title>Halk TV: Seçim için 'start' verilmiş durumda: AKP'nin yeni dönem planında bakın neler yer alıyor!</title>
       <link>https://www.youtube.com/watch?v=kt-pNcnRugI</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">BBZzABqsI8s</guid>
       <pubDate>Wed, 16 Sep 2026 15:00:24 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ANKARA ALEV ALEV! Erdoğan'ın seçim için son hamlesi buymuş! Bomba YENİ Parti planı deşifre oldu!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Erol Mütercimler &amp; Nevzat Çiçek | KARANLIK GERÇEK ORTAYA ÇIKTI! Kaşif Kozinoğlu'nu Kim Öldürdü?</title>
-      <link>https://www.youtube.com/watch?v=RP051BMFg0o</link>
-      <guid isPermaLink="false">RP051BMFg0o</guid>
-      <pubDate>Wed, 16 Sep 2026 15:00:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Erol Mütercimler &amp; Nevzat Çiçek | KARANLIK GERÇEK ORTAYA ÇIKTI! Kaşif Kozinoğlu'nu Kim Öldürdü?</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Damla Doğan Tuncel ile 1 Saat | 16 Eylül</title>
-      <link>https://www.youtube.com/watch?v=dvwmDjR4RZ4</link>
-      <guid isPermaLink="false">dvwmDjR4RZ4</guid>
-      <pubDate>Wed, 16 Sep 2026 14:56:17 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Damla Doğan Tuncel ile 1 Saat | 16 Eylül</description>
     </item>
   </channel>
 </rss>
