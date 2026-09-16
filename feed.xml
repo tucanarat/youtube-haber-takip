@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 23:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 23:30:41 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Seyit Aslan, eski Diyarbakır Büyükşehir Belediye Başkanı Selçuk Mızraklı’yı ziyaret etti</title>
+      <link>https://www.youtube.com/watch?v=r7DbhCpbmto</link>
+      <guid isPermaLink="false">r7DbhCpbmto</guid>
+      <pubDate>Wed, 16 Sep 2026 23:30:26 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Seyit Aslan, eski Diyarbakır Büyükşehir Belediye Başkanı Selçuk Mızraklı’yı ziyaret etti</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Fatih Erbakan, Kahramankazan İlçe Başkanlığı'nın açılışında konuşuyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=YhDdja3DPjw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">X-XcQsTRriQ</guid>
       <pubDate>Wed, 16 Sep 2026 19:00:12 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: YENİ Parti'ye Yargıtay Engeli! AYM Devreye Girdi! Murat Ağırel Tüm Gerçekleri Anlattı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Öcalan'a villa mı yapıldı? Hem Bahçeli'den hem DEM Parti'den açıklama geldi!</title>
-      <link>https://www.youtube.com/watch?v=zmYffhgtmBE</link>
-      <guid isPermaLink="false">zmYffhgtmBE</guid>
-      <pubDate>Wed, 16 Sep 2026 19:00:06 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Öcalan'a villa mı yapıldı? Hem Bahçeli'den hem DEM Parti'den açıklama geldi!</description>
     </item>
   </channel>
 </rss>
