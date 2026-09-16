@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 09:20:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 09:25:24 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Yavuz Ağıralioğlu, Zafer Partisi Genel Başkanı Ümit Özdağ'ı Ziyaret Etti!</title>
+      <link>https://www.youtube.com/watch?v=40jV1dy7eCg</link>
+      <guid isPermaLink="false">40jV1dy7eCg</guid>
+      <pubDate>Wed, 16 Sep 2026 09:19:11 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Yavuz Ağıralioğlu, Zafer Partisi Genel Başkanı Ümit Özdağ'ı Ziyaret Etti!</description>
+    </item>
     <item>
       <title>Halk TV: TÜRKİYE'NİN GÜNDEMİNE OTURAN OLAY! 11 aylık Büşra bebeğe ne oldu? Annenin ifadesi şok etkisi yarattı</title>
       <link>https://www.youtube.com/watch?v=zTvi14CFrNw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">s0lENaT_F9I</guid>
       <pubDate>Wed, 16 Sep 2026 06:30:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Bir İstihbaratçının Sonu: Atilla Uğur, FETÖ, MİT, ROK | Timur Soykan Kozinoğlu Dosyasını Anlattı</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Mahmut Tanal'dan Danıştay önünde açıklama #Canlı</title>
-      <link>https://www.youtube.com/watch?v=ln6MwIxES6s</link>
-      <guid isPermaLink="false">ln6MwIxES6s</guid>
-      <pubDate>Wed, 16 Sep 2026 06:22:44 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Mahmut Tanal'dan Danıştay önünde açıklama #Canlı</description>
     </item>
   </channel>
 </rss>
