@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 23:45:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 23:50:32 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: AKP ve MHP'nin İmralı Oyununu İYİ Parti Bozdu! Müsavat Dervişoğlu'ndan Tarihi Hamle</title>
+      <link>https://www.youtube.com/watch?v=3tE6rsSI9kI</link>
+      <guid isPermaLink="false">3tE6rsSI9kI</guid>
+      <pubDate>Wed, 16 Sep 2026 23:40:26 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: AKP ve MHP'nin İmralı Oyununu İYİ Parti Bozdu! Müsavat Dervişoğlu'ndan Tarihi Hamle</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Seyit Aslan, eski Diyarbakır Büyükşehir Belediye Başkanı Selçuk Mızraklı’yı ziyaret etti</title>
       <link>https://www.youtube.com/watch?v=r7DbhCpbmto</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">sOLC0EE_8nI</guid>
       <pubDate>Wed, 16 Sep 2026 19:00:37 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Selçuk Türkoğlu'ndan Mehmet Şimşek'e tepki: Avrupa kıyasını maaşlarda da yapsana!</description>
-    </item>
-    <item>
-      <title>Halk TV: MHP Lideri Bahçeli'nin, Mansur Yavaş ile ilgili sözleri gündeme damga gibi vurdu!</title>
-      <link>https://www.youtube.com/watch?v=lgSFPQVV_5s</link>
-      <guid isPermaLink="false">lgSFPQVV_5s</guid>
-      <pubDate>Wed, 16 Sep 2026 19:00:18 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: MHP Lideri Bahçeli'nin, Mansur Yavaş ile ilgili sözleri gündeme damga gibi vurdu!</description>
     </item>
   </channel>
 </rss>
