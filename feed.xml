@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 19:10:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 19:15:31 +0000</lastBuildDate>
     <item>
       <title>Halk TV: Selçuk Türkoğlu'ndan Mehmet Şimşek'e tepki: Avrupa kıyasını maaşlarda da yapsana!</title>
       <link>https://www.youtube.com/shorts/sOLC0EE_8nI</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">lgSFPQVV_5s</guid>
       <pubDate>Wed, 16 Sep 2026 19:00:18 +0000</pubDate>
       <description>Halk TV kanalından yeni video: MHP Lideri Bahçeli'nin, Mansur Yavaş ile ilgili sözleri gündeme damga gibi vurdu!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: YENİ Parti'ye Yargıtay Engeli! AYM Devreye Girdi! Murat Ağırel Tüm Gerçekleri Anlattı</title>
+      <link>https://www.youtube.com/watch?v=X-XcQsTRriQ</link>
+      <guid isPermaLink="false">X-XcQsTRriQ</guid>
+      <pubDate>Wed, 16 Sep 2026 19:00:12 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: YENİ Parti'ye Yargıtay Engeli! AYM Devreye Girdi! Murat Ağırel Tüm Gerçekleri Anlattı</description>
     </item>
     <item>
       <title>Tele2 Haber: Öcalan'a villa mı yapıldı? Hem Bahçeli'den hem DEM Parti'den açıklama geldi!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">DRtAj6X6BLo</guid>
       <pubDate>Wed, 16 Sep 2026 15:45:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: PANİK BÜYÜYOR! Katılımevim ve Birevim müşterileri paralarını nasıl geri alacak? Oğuz Demir anlattı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Borsada 5 Şiddetinde Deprem! BIST'te Devre Kesici Devrede! Eski Borsa Başkanına Şok Soruşturma</title>
-      <link>https://www.youtube.com/watch?v=U5OZ50BGTyM</link>
-      <guid isPermaLink="false">U5OZ50BGTyM</guid>
-      <pubDate>Wed, 16 Sep 2026 15:40:24 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Borsada 5 Şiddetinde Deprem! BIST'te Devre Kesici Devrede! Eski Borsa Başkanına Şok Soruşturma</description>
     </item>
   </channel>
 </rss>
