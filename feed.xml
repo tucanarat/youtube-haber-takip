@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 23:30:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 23:35:25 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: Seyit Aslan, eski Diyarbakır Büyükşehir Belediye Başkanı Selçuk Mızraklı’yı ziyaret etti</title>
       <link>https://www.youtube.com/watch?v=r7DbhCpbmto</link>
       <guid isPermaLink="false">r7DbhCpbmto</guid>
       <pubDate>Wed, 16 Sep 2026 23:30:26 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Seyit Aslan, eski Diyarbakır Büyükşehir Belediye Başkanı Selçuk Mızraklı’yı ziyaret etti</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Murat Ağırel İfşa Etti! Kurtlar Vadisi'ndeki FG Plakaları! Kan Donduran Kozinoğlu Detayı! FEÖ Çıkışı</title>
+      <link>https://www.youtube.com/watch?v=Oj-HHuY8Ncc</link>
+      <guid isPermaLink="false">Oj-HHuY8Ncc</guid>
+      <pubDate>Wed, 16 Sep 2026 23:20:21 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Murat Ağırel İfşa Etti! Kurtlar Vadisi'ndeki FG Plakaları! Kan Donduran Kozinoğlu Detayı! FEÖ Çıkışı</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Fatih Erbakan, Kahramankazan İlçe Başkanlığı'nın açılışında konuşuyor #Canlı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">lgSFPQVV_5s</guid>
       <pubDate>Wed, 16 Sep 2026 19:00:18 +0000</pubDate>
       <description>Halk TV kanalından yeni video: MHP Lideri Bahçeli'nin, Mansur Yavaş ile ilgili sözleri gündeme damga gibi vurdu!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: YENİ Parti'ye Yargıtay Engeli! AYM Devreye Girdi! Murat Ağırel Tüm Gerçekleri Anlattı</title>
-      <link>https://www.youtube.com/watch?v=X-XcQsTRriQ</link>
-      <guid isPermaLink="false">X-XcQsTRriQ</guid>
-      <pubDate>Wed, 16 Sep 2026 19:00:12 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: YENİ Parti'ye Yargıtay Engeli! AYM Devreye Girdi! Murat Ağırel Tüm Gerçekleri Anlattı</description>
     </item>
   </channel>
 </rss>
