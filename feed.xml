@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 07:45:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 07:50:35 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ROJİN KABAİŞ CİNAYETİNİN AYDINLANMASI AN MESELESİ! Bomba deliller ortaya çıktı! Kan donduracak detay</title>
+      <link>https://www.youtube.com/watch?v=vfIJ3sBgeUc</link>
+      <guid isPermaLink="false">vfIJ3sBgeUc</guid>
+      <pubDate>Wed, 16 Sep 2026 07:45:37 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ROJİN KABAİŞ CİNAYETİNİN AYDINLANMASI AN MESELESİ! Bomba deliller ortaya çıktı! Kan donduracak detay</description>
+    </item>
     <item>
       <title>Cumhuriyet: Türk sinemasının ustası Tarık Akan mezarı başında anıldı... Kardeşi gözyaşlarını tutamadı</title>
       <link>https://www.youtube.com/watch?v=N1LiAePxYjc</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">CeNc_eKQtnw</guid>
       <pubDate>Tue, 15 Sep 2026 22:43:53 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: #CANLI İsmail Küçükkaya ile Günaydın Türkiyem</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: İBB Başkan Vekili Nuri Aslan, Silivri'de Ayçiçeği Hasat Etkinliğinde konuşuyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=A4fr8sdMpxw</link>
-      <guid isPermaLink="false">A4fr8sdMpxw</guid>
-      <pubDate>Tue, 15 Sep 2026 22:35:41 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: İBB Başkan Vekili Nuri Aslan, Silivri'de Ayçiçeği Hasat Etkinliğinde konuşuyor #Canlı</description>
     </item>
   </channel>
 </rss>
