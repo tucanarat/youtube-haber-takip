@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 19:50:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 19:55:26 +0000</lastBuildDate>
     <item>
       <title>Halk TV: AKBELENLİLER DANIŞTAY’A DAYANDI! Kamulaştırma davasında kritik duruşma!</title>
       <link>https://www.youtube.com/watch?v=7pIqvJaA6vs</link>
       <guid isPermaLink="false">7pIqvJaA6vs</guid>
       <pubDate>Wed, 16 Sep 2026 19:40:33 +0000</pubDate>
       <description>Halk TV kanalından yeni video: AKBELENLİLER DANIŞTAY’A DAYANDI! Kamulaştırma davasında kritik duruşma!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: CHP'de Kan Donduran Atama! İsmail Saymaz Kanser Hastasına Şantaj Yapan Erkan Çakır'ı Anlattı</title>
+      <link>https://www.youtube.com/watch?v=VQeay7FlxPs</link>
+      <guid isPermaLink="false">VQeay7FlxPs</guid>
+      <pubDate>Wed, 16 Sep 2026 19:40:30 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: CHP'de Kan Donduran Atama! İsmail Saymaz Kanser Hastasına Şantaj Yapan Erkan Çakır'ı Anlattı</description>
     </item>
     <item>
       <title>Halk TV: YENİ Partili Umut Akdoğan, akaryakıta yapılan zamları çok çarpıcı bir görüntü ile gündeme taşıdı!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">5a2twNegwpw</guid>
       <pubDate>Wed, 16 Sep 2026 16:20:11 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Mehmet Şimşek Enflasyonun Faturasını Savaşlara Kesti! Özlem Gürses'ten Gündem Olacak Çıkış</description>
-    </item>
-    <item>
-      <title>Halk TV: KAN DONDURAN DETAY! 'Rojin'in sırrı orada' denilen evde bunlar yaşanmş! Meğer kaybolduğu dakikada...</title>
-      <link>https://www.youtube.com/watch?v=wo3FeRdS3Vg</link>
-      <guid isPermaLink="false">wo3FeRdS3Vg</guid>
-      <pubDate>Wed, 16 Sep 2026 16:15:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KAN DONDURAN DETAY! 'Rojin'in sırrı orada' denilen evde bunlar yaşanmş! Meğer kaybolduğu dakikada...</description>
     </item>
   </channel>
 </rss>
