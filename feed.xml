@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 18:00:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 18:05:25 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Seçim için 'start' verilmiş durumda: AKP'nin yeni dönem planında bakın neler yer alıyor!</title>
+      <link>https://www.youtube.com/watch?v=kt-pNcnRugI</link>
+      <guid isPermaLink="false">kt-pNcnRugI</guid>
+      <pubDate>Wed, 16 Sep 2026 18:00:36 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Seçim için 'start' verilmiş durumda: AKP'nin yeni dönem planında bakın neler yer alıyor!</description>
+    </item>
     <item>
       <title>Tele2 Haber: "571 bin takipçim olması suç mu?" Nasuh Mahruki hakkında tahliye kararı!</title>
       <link>https://www.youtube.com/watch?v=sWbyi-6SgZk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">YDNd6d-3exg</guid>
       <pubDate>Wed, 16 Sep 2026 14:51:38 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Bu mahkemeden adalet çıkar mı? YENİ Parti milletvekili Turan taşkın Özer yayınımızda yorumladı</description>
-    </item>
-    <item>
-      <title>Halk TV: Diş hekimini evlilik vaadi ile dolandırdı: Abuzer Gültekin hakkında yakalama kararı çıkarıldı!</title>
-      <link>https://www.youtube.com/watch?v=_q_zvCWd3Pg</link>
-      <guid isPermaLink="false">_q_zvCWd3Pg</guid>
-      <pubDate>Wed, 16 Sep 2026 14:45:32 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Diş hekimini evlilik vaadi ile dolandırdı: Abuzer Gültekin hakkında yakalama kararı çıkarıldı!</description>
     </item>
   </channel>
 </rss>
