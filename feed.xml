@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 20:25:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 20:30:50 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Barış Terkoğlu Öcalan'a Verilen Statüyü Açıkladı! Ankara'yı Ayağa Kaldıracak Detayı İfşa Etti</title>
+      <link>https://www.youtube.com/watch?v=B4PpuwxZoLc</link>
+      <guid isPermaLink="false">B4PpuwxZoLc</guid>
+      <pubDate>Wed, 16 Sep 2026 20:20:29 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Barış Terkoğlu Öcalan'a Verilen Statüyü Açıkladı! Ankara'yı Ayağa Kaldıracak Detayı İfşa Etti</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Gazeteci Masası - İsmail Saymaz, Barış Terkoğlu, Murat Ağırel, Saygı Öztürk | 16 Eylül</title>
       <link>https://www.youtube.com/watch?v=qYv3RWzHeGM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">G5xVVUTx02s</guid>
       <pubDate>Wed, 16 Sep 2026 16:31:37 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: KİLİS'TE YAŞ ÜZÜM FİYATINA PROTESTO! SELA OKUYUP DUA ETTİLER...</description>
-    </item>
-    <item>
-      <title>Halk TV: Av. Ahmet Rodi Polat, "Ailem Güvende" operasyonlarının yarattığı tahribatı anlattı!</title>
-      <link>https://www.youtube.com/shorts/3vUKKRzxEOY</link>
-      <guid isPermaLink="false">3vUKKRzxEOY</guid>
-      <pubDate>Wed, 16 Sep 2026 16:30:38 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Av. Ahmet Rodi Polat, "Ailem Güvende" operasyonlarının yarattığı tahribatı anlattı!</description>
     </item>
   </channel>
 </rss>
