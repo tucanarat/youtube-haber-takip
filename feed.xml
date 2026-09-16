@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 10:20:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 10:25:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Kastamonu açıklarında balıkçıların oltasına takılan palamutlar, yunusların da iştahını açtı!</title>
+      <link>https://www.youtube.com/shorts/CpqDnvWzmc8</link>
+      <guid isPermaLink="false">CpqDnvWzmc8</guid>
+      <pubDate>Wed, 16 Sep 2026 10:22:17 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Kastamonu açıklarında balıkçıların oltasına takılan palamutlar, yunusların da iştahını açtı!</description>
+    </item>
     <item>
       <title>Halk TV: GÖZYAŞLARININ TUTULAMADIĞI AN! Akbelen'de yaşlı kadının sözleri vicdan sızlatır! Sözün bittiği yer!</title>
       <link>https://www.youtube.com/watch?v=nroDoqdf2RQ</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Pi_pEKTBzfQ</guid>
       <pubDate>Wed, 16 Sep 2026 07:18:16 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Akbelen için kritik gün... "KÖYDE AĞACIMIZ KALMADI"</description>
-    </item>
-    <item>
-      <title>Halk TV: ANKARA'DA KIYAMET KOPUYOR! Bahçeli'nin villa açıklaması krizin fitilini ateşleyecek! Meğer Öcalan...</title>
-      <link>https://www.youtube.com/watch?v=uxa3URdsnvU</link>
-      <guid isPermaLink="false">uxa3URdsnvU</guid>
-      <pubDate>Wed, 16 Sep 2026 07:15:10 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ANKARA'DA KIYAMET KOPUYOR! Bahçeli'nin villa açıklaması krizin fitilini ateşleyecek! Meğer Öcalan...</description>
     </item>
   </channel>
 </rss>
