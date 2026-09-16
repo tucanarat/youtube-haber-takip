@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 14:01:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 14:05:32 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Lavrov'dan Avrupalı Liderleri Titretecek Tehdit! Putin Düğmeye Bastı! "Savaş Çok Kısa Sürer!"</title>
+      <link>https://www.youtube.com/watch?v=bRH1G9wd0HI</link>
+      <guid isPermaLink="false">bRH1G9wd0HI</guid>
+      <pubDate>Wed, 16 Sep 2026 14:00:36 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Lavrov'dan Avrupalı Liderleri Titretecek Tehdit! Putin Düğmeye Bastı! "Savaş Çok Kısa Sürer!"</description>
+    </item>
     <item>
       <title>Halk TV: AĞABEYİ BİLE DAYANAMADI! Foçalılar AKP'ye topuklayan Saniye Fıçı'yı yerin dibine soktu! Şok anlar!</title>
       <link>https://www.youtube.com/watch?v=OCulDYRdYc0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">MDUUSaWgkB4</guid>
       <pubDate>Wed, 16 Sep 2026 11:45:22 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI İBB Davasında 82. gün! “Gözaltında rüşvet görüşmesi mi yaptık”</description>
-    </item>
-    <item>
-      <title>Halk TV: 11 aylık Büşra’dan 6 gündür haber yok: Anne ve babanın da aralarında olduğu 10 şüpheli adliyede</title>
-      <link>https://www.youtube.com/shorts/p_raGkUj0tI</link>
-      <guid isPermaLink="false">p_raGkUj0tI</guid>
-      <pubDate>Wed, 16 Sep 2026 11:43:22 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: 11 aylık Büşra’dan 6 gündür haber yok: Anne ve babanın da aralarında olduğu 10 şüpheli adliyede</description>
     </item>
   </channel>
 </rss>
