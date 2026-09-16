@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 21:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 22:00:50 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Sinem Fıstıkoğlu ile Sansürsüz (16 Eylül 2026)</title>
+      <link>https://www.youtube.com/watch?v=rFNDbqx8O64</link>
+      <guid isPermaLink="false">rFNDbqx8O64</guid>
+      <pubDate>Wed, 16 Sep 2026 21:55:47 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Sinem Fıstıkoğlu ile Sansürsüz (16 Eylül 2026)</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İmralı'da 250 Metrekare Ev! Şehit Aileleri Bu İşin Neresinde? Barış Terkoğlu Esti Gürledi</title>
       <link>https://www.youtube.com/watch?v=axz_loKEqfA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">SFpo4s5GKKI</guid>
       <pubDate>Wed, 16 Sep 2026 17:30:04 +0000</pubDate>
       <description>Halk TV kanalından yeni video: AKP'ye geçen Foça Belediye Başkanı Saniye Bora Fıçı'ya yurttaşın öfkesi dinmiyor!</description>
-    </item>
-    <item>
-      <title>Halk TV: GİZEMLİ EV KAMERADA! Halk TV, Rojin Kabaiş soruşturmasındaki ev görüntülerine ulaştı!</title>
-      <link>https://www.youtube.com/shorts/yr9bHdrB2vE</link>
-      <guid isPermaLink="false">yr9bHdrB2vE</guid>
-      <pubDate>Wed, 16 Sep 2026 17:25:14 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: GİZEMLİ EV KAMERADA! Halk TV, Rojin Kabaiş soruşturmasındaki ev görüntülerine ulaştı!</description>
     </item>
   </channel>
 </rss>
