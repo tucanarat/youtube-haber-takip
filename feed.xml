@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 08:20:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 08:25:30 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: YENİ Parti'nin İsmi Değişecek mi? | Kozinoğlu Soruşturmasında Son Durum Ne? | Sabah Pusulası</title>
       <link>https://www.youtube.com/watch?v=iHM6x0cqVnc</link>
       <guid isPermaLink="false">iHM6x0cqVnc</guid>
       <pubDate>Wed, 16 Sep 2026 08:17:20 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: YENİ Parti'nin İsmi Değişecek mi? | Kozinoğlu Soruşturmasında Son Durum Ne? | Sabah Pusulası</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #CANLI İBB Başkan Vekili Nuri Aslan İSKİ Yatırım ve Proje Tanıtım Töreni'nde konuşuyor</title>
+      <link>https://www.youtube.com/watch?v=xrQCa8SUcow</link>
+      <guid isPermaLink="false">xrQCa8SUcow</guid>
+      <pubDate>Wed, 16 Sep 2026 08:17:16 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI İBB Başkan Vekili Nuri Aslan İSKİ Yatırım ve Proje Tanıtım Töreni'nde konuşuyor</description>
     </item>
     <item>
       <title>Halk TV: PİYASALARDA BÜYÜK PANİK! Borsa sert çakıldı, kayıp yüzde 4’ü aştı! İbrahim Kahveci'den kritik uyarı!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">aHCtXUmfRnQ</guid>
       <pubDate>Wed, 16 Sep 2026 05:04:18 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Merve Ekinci ile Uyanma Vakti | 16 Eylül</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: YENİ Parti Bayrampaşa İlçe Başkanlığı açılışı / İstanbul #Canlı</title>
-      <link>https://www.youtube.com/watch?v=-rJIewRTCvs</link>
-      <guid isPermaLink="false">-rJIewRTCvs</guid>
-      <pubDate>Wed, 16 Sep 2026 04:46:13 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Bayrampaşa İlçe Başkanlığı açılışı / İstanbul #Canlı</description>
     </item>
   </channel>
 </rss>
