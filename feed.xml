@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 11:45:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 11:50:32 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: #CANLI Akbelen köylüleri, Enerji ve Tabii Kaynaklar Bakanlığı'na bağlı MAPEG önünde açıklama yapıyor</title>
       <link>https://www.youtube.com/watch?v=61yuRh1RlDI</link>
       <guid isPermaLink="false">61yuRh1RlDI</guid>
-      <pubDate>Wed, 16 Sep 2026 11:39:43 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 11:49:07 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Akbelen köylüleri, Enerji ve Tabii Kaynaklar Bakanlığı'na bağlı MAPEG önünde açıklama yapıyor</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #CANLI YENİ Parti İzmir Milletvekili Ümit Özlale, Parti Genel Merkezi’nde basın açıklaması yapıyor</title>
+      <link>https://www.youtube.com/watch?v=AMnCfvrtves</link>
+      <guid isPermaLink="false">AMnCfvrtves</guid>
+      <pubDate>Wed, 16 Sep 2026 11:47:14 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti İzmir Milletvekili Ümit Özlale, Parti Genel Merkezi’nde basın açıklaması yapıyor</description>
     </item>
     <item>
       <title>Cumhuriyet: Geçim şartları düzelecek mi? 2027 ekonomisi için sokaktaki yurttaş ne bekliyor?</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">SfX5KJIEsVU</guid>
       <pubDate>Wed, 16 Sep 2026 09:00:23 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BU KADARINA DA PES! Hal tedarikçilerine operasyonda skandal detay! Ölüler adına makbuz düzenlemişler</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Erol Mütercimler Kaşif Kozinoğlu Gerçeğini İlk Kez Anlattı! FETÖ, CIA ve Oda TV Kumpası...</title>
-      <link>https://www.youtube.com/watch?v=_rUbw8_oX60</link>
-      <guid isPermaLink="false">_rUbw8_oX60</guid>
-      <pubDate>Wed, 16 Sep 2026 09:00:08 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Erol Mütercimler Kaşif Kozinoğlu Gerçeğini İlk Kez Anlattı! FETÖ, CIA ve Oda TV Kumpası...</description>
     </item>
   </channel>
 </rss>
