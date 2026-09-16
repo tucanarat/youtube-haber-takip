@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 10:41:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 10:45:36 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Seyit Aslan, eski Diyarbakır Büyükşehir Belediye Başkanı Selçuk Mızraklı’yı ziyaret etti</title>
+      <link>https://www.youtube.com/watch?v=r7DbhCpbmto</link>
+      <guid isPermaLink="false">r7DbhCpbmto</guid>
+      <pubDate>Wed, 16 Sep 2026 10:41:57 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Seyit Aslan, eski Diyarbakır Büyükşehir Belediye Başkanı Selçuk Mızraklı’yı ziyaret etti</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: BAHÇELİ KÜPLERE BİNDİ! İktidarda Mansur Yavaş Korkusu mu Başladı? İsmail Küçükkaya'dan Bomba İddia</title>
+      <link>https://www.youtube.com/watch?v=QZkLGjw70U4</link>
+      <guid isPermaLink="false">QZkLGjw70U4</guid>
+      <pubDate>Wed, 16 Sep 2026 10:40:30 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: BAHÇELİ KÜPLERE BİNDİ! İktidarda Mansur Yavaş Korkusu mu Başladı? İsmail Küçükkaya'dan Bomba İddia</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | YENİ Parti Grup Başkanvekili Ali Mahir Başarır, TBMM'de Açıklama Yapıyor!</title>
       <link>https://www.youtube.com/watch?v=Uidifdkft8k</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">FoH2FZnse80</guid>
       <pubDate>Wed, 16 Sep 2026 07:50:58 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Kozinoğlu’nun sır ölümü! - Mustafa Balbay</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Kurtlar Vadisi ve fazlası! - Arif Kızılyalın</title>
-      <link>https://www.youtube.com/watch?v=nPbfxeNsIRI</link>
-      <guid isPermaLink="false">nPbfxeNsIRI</guid>
-      <pubDate>Wed, 16 Sep 2026 07:50:57 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Kurtlar Vadisi ve fazlası! - Arif Kızılyalın</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Politikada analiz-tutarlılık - Öztin Akgüç</title>
-      <link>https://www.youtube.com/watch?v=WphnvuQQyJE</link>
-      <guid isPermaLink="false">WphnvuQQyJE</guid>
-      <pubDate>Wed, 16 Sep 2026 07:50:44 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Politikada analiz-tutarlılık - Öztin Akgüç</description>
     </item>
   </channel>
 </rss>
