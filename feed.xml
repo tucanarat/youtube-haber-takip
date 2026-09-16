@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 13:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 13:30:45 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: 15 Yıl önceki haberler tutuklama gerekçesi! Faruk Bildirici yorumladı...</title>
+      <link>https://www.youtube.com/watch?v=Sdx892tO7xE</link>
+      <guid isPermaLink="false">Sdx892tO7xE</guid>
+      <pubDate>Wed, 16 Sep 2026 13:30:13 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: 15 Yıl önceki haberler tutuklama gerekçesi! Faruk Bildirici yorumladı...</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI İBB Meclisi Eylül 2. Toplantısı</title>
       <link>https://www.youtube.com/watch?v=itnriqytFv0</link>
@@ -20,6 +27,13 @@
       <guid isPermaLink="false">cG2ThflNpL4</guid>
       <pubDate>Wed, 16 Sep 2026 13:22:22 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Akaryakıt fiyatına tarihi zam geliyor: Litre fiyatı 100 TL'yi aşacak</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: "Eşcinsellik Bir Hastalık Değildir!" Hukukçu Tolga Şirin'den Çarpıcı Analiz</title>
+      <link>https://www.youtube.com/watch?v=n2bB52ZYiLA</link>
+      <guid isPermaLink="false">n2bB52ZYiLA</guid>
+      <pubDate>Wed, 16 Sep 2026 13:20:03 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: "Eşcinsellik Bir Hastalık Değildir!" Hukukçu Tolga Şirin'den Çarpıcı Analiz</description>
     </item>
     <item>
       <title>Halk TV: O SAHNELER MERCEK ALTINDA! Kozinoğlu soruşturmasında flaş gelişme! Kurtlar Vadisi'ne FETÖ incelemesi</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">R22ow_8Isqs</guid>
       <pubDate>Wed, 16 Sep 2026 11:09:36 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Başkanvekilleri selamlaşmamayı tercih etti #shorts</description>
-    </item>
-    <item>
-      <title>Halk TV: ANKARA YİNE BAHÇELİ'Yİ KONUŞACAK! Öcalan'a yapılan konut için neler dedi neler! İzlemeden geçmeyin!</title>
-      <link>https://www.youtube.com/watch?v=ql6QTGUxGXM</link>
-      <guid isPermaLink="false">ql6QTGUxGXM</guid>
-      <pubDate>Wed, 16 Sep 2026 11:00:13 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ANKARA YİNE BAHÇELİ'Yİ KONUŞACAK! Öcalan'a yapılan konut için neler dedi neler! İzlemeden geçmeyin!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "Hiçbir Şey Olmasa Bile Bir Şey Olacak Uydurulacak!" Çoban'dan YENİ Parti'ye İsim Tebligatına Tepki!</title>
-      <link>https://www.youtube.com/watch?v=EJ0o-1zewdY</link>
-      <guid isPermaLink="false">EJ0o-1zewdY</guid>
-      <pubDate>Wed, 16 Sep 2026 11:00:10 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "Hiçbir Şey Olmasa Bile Bir Şey Olacak Uydurulacak!" Çoban'dan YENİ Parti'ye İsim Tebligatına Tepki!</description>
     </item>
   </channel>
 </rss>
