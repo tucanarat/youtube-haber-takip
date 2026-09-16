@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 15:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 15:25:32 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Yeni Parti Kapanacak mı? Yunus Emre'den Çarpıcı Bahçeli, Erdoğan ve Mansur Yavaş Açıklaması</title>
+      <link>https://www.youtube.com/watch?v=ieqZm7TyLtc</link>
+      <guid isPermaLink="false">ieqZm7TyLtc</guid>
+      <pubDate>Wed, 16 Sep 2026 15:20:26 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Yeni Parti Kapanacak mı? Yunus Emre'den Çarpıcı Bahçeli, Erdoğan ve Mansur Yavaş Açıklaması</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI Türkiye Belediyeler Birliği Başkanı Vahap Seçer, konuşuyor</title>
       <link>https://www.youtube.com/watch?v=F-iruC_5_Ig</link>
@@ -20,6 +27,13 @@
       <guid isPermaLink="false">2dkWR5Mu9JA</guid>
       <pubDate>Wed, 16 Sep 2026 15:15:17 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ORTALIK FENA KIZIŞTI! İYİ Parti'nin 'villa' klibine MHP'den sert salvolar! Herkes bunu konuşacak!</description>
+    </item>
+    <item>
+      <title>Halk TV: KAN DONDURAN DETAY! 'Rojin'in sırrı orada' denilen evde bunlar yaşanmş! Meğer kaybolduğu dakikada...</title>
+      <link>https://www.youtube.com/watch?v=wo3FeRdS3Vg</link>
+      <guid isPermaLink="false">wo3FeRdS3Vg</guid>
+      <pubDate>Wed, 16 Sep 2026 15:01:46 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KAN DONDURAN DETAY! 'Rojin'in sırrı orada' denilen evde bunlar yaşanmş! Meğer kaybolduğu dakikada...</description>
     </item>
     <item>
       <title>Halk TV: Gizem Çetin ile Parantez  (16 Eylül 2026)</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">RjtuyAleirM</guid>
       <pubDate>Wed, 16 Sep 2026 12:58:11 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: İBB Davası'nda 82. gün! Silivri'de neler oluyor? İrem Karataş anlattı...</description>
-    </item>
-    <item>
-      <title>Halk TV: Kaput açık, motorun üstünde insan! Bursa’da şaşkına çeviren anlar!</title>
-      <link>https://www.youtube.com/shorts/spyf2w2N8fk</link>
-      <guid isPermaLink="false">spyf2w2N8fk</guid>
-      <pubDate>Wed, 16 Sep 2026 12:55:17 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Kaput açık, motorun üstünde insan! Bursa’da şaşkına çeviren anlar!</description>
-    </item>
-    <item>
-      <title>Halk TV: ALİ MAHİR BAŞARIR ÇILGINA DÖNDÜ! 'Erken seçim' sözleri tozu dumana kattı! Erdoğan'a olay çıkış!</title>
-      <link>https://www.youtube.com/watch?v=_e2UcNNJwts</link>
-      <guid isPermaLink="false">_e2UcNNJwts</guid>
-      <pubDate>Wed, 16 Sep 2026 12:45:31 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ALİ MAHİR BAŞARIR ÇILGINA DÖNDÜ! 'Erken seçim' sözleri tozu dumana kattı! Erdoğan'a olay çıkış!</description>
     </item>
   </channel>
 </rss>
