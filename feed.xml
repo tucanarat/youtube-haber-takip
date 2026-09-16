@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 12:55:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 13:00:59 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: İBB Davası'nda 82. gün! Silivri'de neler oluyor? İrem Karataş anlattı...</title>
+      <link>https://www.youtube.com/watch?v=RjtuyAleirM</link>
+      <guid isPermaLink="false">RjtuyAleirM</guid>
+      <pubDate>Wed, 16 Sep 2026 12:58:11 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: İBB Davası'nda 82. gün! Silivri'de neler oluyor? İrem Karataş anlattı...</description>
+    </item>
+    <item>
+      <title>Halk TV: Kaput açık, motorun üstünde insan! Bursa’da şaşkına çeviren anlar!</title>
+      <link>https://www.youtube.com/shorts/spyf2w2N8fk</link>
+      <guid isPermaLink="false">spyf2w2N8fk</guid>
+      <pubDate>Wed, 16 Sep 2026 12:55:17 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Kaput açık, motorun üstünde insan! Bursa’da şaşkına çeviren anlar!</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Gizem Çetin ile Parantez</title>
       <link>https://www.youtube.com/watch?v=k8YbLEqSzJc</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">YhDdja3DPjw</guid>
       <pubDate>Wed, 16 Sep 2026 10:21:34 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Fatih Erbakan, Kahramankazan İlçe Başkanlığı'nın açılışında konuşuyor #Canlı</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Osman Sınav FETÖ Tarafından Tehdit Edildi İddiası! "FETÖ ile Yol Yürümek İstemedi!"</title>
-      <link>https://www.youtube.com/watch?v=eAHqlmmLglY</link>
-      <guid isPermaLink="false">eAHqlmmLglY</guid>
-      <pubDate>Wed, 16 Sep 2026 10:21:26 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Osman Sınav FETÖ Tarafından Tehdit Edildi İddiası! "FETÖ ile Yol Yürümek İstemedi!"</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: KÜÇÜK YATIRIMCI DİKKAT! Borsada Pusula Portföy Krizi! Ünlü Ekonomistten Fon Uyarısı</title>
-      <link>https://www.youtube.com/watch?v=k6ngmt5RSDE</link>
-      <guid isPermaLink="false">k6ngmt5RSDE</guid>
-      <pubDate>Wed, 16 Sep 2026 10:20:38 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: KÜÇÜK YATIRIMCI DİKKAT! Borsada Pusula Portföy Krizi! Ünlü Ekonomistten Fon Uyarısı</description>
     </item>
   </channel>
 </rss>
