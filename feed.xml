@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 11:20:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 11:25:28 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: Fatih Erbakan, Kahramankazan İlçe Başkanlığı'nın açılışında konuşuyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=tTaBOVjTudk</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">JSq2zZk9vbA</guid>
       <pubDate>Wed, 16 Sep 2026 11:16:35 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti İzmir Milletvekili Ümit Özlale, Parti Genel Merkezi’nde basın açıklaması yapıyor #Canlı</description>
+    </item>
+    <item>
+      <title>Halk TV: Çayı asla böyle içmeyin! Kanser riskini üç kat artırıyor: Özellikle bu 2 belirti varsa…</title>
+      <link>https://www.youtube.com/watch?v=M1ToKGOlVAg</link>
+      <guid isPermaLink="false">M1ToKGOlVAg</guid>
+      <pubDate>Wed, 16 Sep 2026 11:15:12 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Çayı asla böyle içmeyin! Kanser riskini üç kat artırıyor: Özellikle bu 2 belirti varsa…</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Başkanvekilleri selamlaşmamayı tercih etti #shorts</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">mt8VKoYSDUM</guid>
       <pubDate>Wed, 16 Sep 2026 08:15:38 +0000</pubDate>
       <description>Halk TV kanalından yeni video: PİYASALARDA BÜYÜK PANİK! Borsa sert çakıldı, kayıp yüzde 4’ü aştı! İbrahim Kahveci'den kritik uyarı!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Anahtar Parti Genel Başkanı Yavuz Ağıralioğlu, Zafer Partisi Genel Başkanı Ümit Özdağ'ı ziyaret etti</title>
-      <link>https://www.youtube.com/watch?v=bRgFMd0N_fo</link>
-      <guid isPermaLink="false">bRgFMd0N_fo</guid>
-      <pubDate>Wed, 16 Sep 2026 08:10:30 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Anahtar Parti Genel Başkanı Yavuz Ağıralioğlu, Zafer Partisi Genel Başkanı Ümit Özdağ'ı ziyaret etti</description>
     </item>
   </channel>
 </rss>
