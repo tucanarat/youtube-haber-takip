@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 22:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 23:01:00 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Kurtlar Vadisi Pusu’da Kan Donduran FETÖ Gerçeği! Tesadüf mü, Sübliminal Mesaj mı?</title>
+      <link>https://www.youtube.com/watch?v=pyHujGmWBhg</link>
+      <guid isPermaLink="false">pyHujGmWBhg</guid>
+      <pubDate>Wed, 16 Sep 2026 23:00:08 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Kurtlar Vadisi Pusu’da Kan Donduran FETÖ Gerçeği! Tesadüf mü, Sübliminal Mesaj mı?</description>
+    </item>
     <item>
       <title>Halk TV: “SANDIĞIN BİR AN ÖNCE GELMESİNİ İSTİYORLAR!” Gizem Özcan’dan çarpıcı seçim yorumu!</title>
       <link>https://www.youtube.com/watch?v=F7Habfvb4Eg</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">_LvN73G9e7Y</guid>
       <pubDate>Wed, 16 Sep 2026 18:39:48 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: İŞ ÇIĞRINDAN ÇIKTI! ÜLKE NEREYE GİDİYOR? Murat Taylan ile Haber-Yorum (16.09.2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: Mustafa Sarıgül: Borsa çöktü, küçük yatırımcı ezildi. Kaybeden yine alın teriyle biriktiren oldu!</title>
-      <link>https://www.youtube.com/shorts/HDs2_d8JSow</link>
-      <guid isPermaLink="false">HDs2_d8JSow</guid>
-      <pubDate>Wed, 16 Sep 2026 18:35:37 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Mustafa Sarıgül: Borsa çöktü, küçük yatırımcı ezildi. Kaybeden yine alın teriyle biriktiren oldu!</description>
     </item>
   </channel>
 </rss>
