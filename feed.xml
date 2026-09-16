@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 22:45:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 22:50:39 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Barış Terkoğlu İlk Kez Açıkladı: Kurtlar Vadisi'nin 'Kozinoğlu'su Sedat Savtak Neler Söyledi?</title>
+      <link>https://www.youtube.com/watch?v=UC4_s1-LP2E</link>
+      <guid isPermaLink="false">UC4_s1-LP2E</guid>
+      <pubDate>Wed, 16 Sep 2026 22:40:20 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Barış Terkoğlu İlk Kez Açıkladı: Kurtlar Vadisi'nin 'Kozinoğlu'su Sedat Savtak Neler Söyledi?</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: CHP Grup Başkanvekili Sevda Erdan Kılıç, TBMM'de açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=FwmRdtRinDI</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">mHQ4PrT_rZ8</guid>
       <pubDate>Wed, 16 Sep 2026 18:30:06 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Murat Taylan: Yeni Parti ile Yenilik Partisi'ni karıştıracak kaç kişi çıkar memlekette?</description>
-    </item>
-    <item>
-      <title>Halk TV: Daltonlar şimdi de Avrupa'ya uzandı: Hüseyin Günay çarpıcı bilgiler Halk TV'de anlattı!</title>
-      <link>https://www.youtube.com/watch?v=3z0Qi5kkwEM</link>
-      <guid isPermaLink="false">3z0Qi5kkwEM</guid>
-      <pubDate>Wed, 16 Sep 2026 18:30:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Daltonlar şimdi de Avrupa'ya uzandı: Hüseyin Günay çarpıcı bilgiler Halk TV'de anlattı!</description>
     </item>
   </channel>
 </rss>
