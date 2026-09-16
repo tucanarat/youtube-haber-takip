@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 20:45:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 20:50:36 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: İmralı'daki Konut Siyasette Krize Yol Açtı! Bahçeli'nin Çarpıcı Öcalan Çıkışı! İsmail Saymaz Anlattı</title>
+      <link>https://www.youtube.com/watch?v=cBdMV_Iz1a0</link>
+      <guid isPermaLink="false">cBdMV_Iz1a0</guid>
+      <pubDate>Wed, 16 Sep 2026 20:40:07 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İmralı'daki Konut Siyasette Krize Yol Açtı! Bahçeli'nin Çarpıcı Öcalan Çıkışı! İsmail Saymaz Anlattı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Barış Terkoğlu Öcalan'a Verilen Statüyü Açıkladı! Ankara'yı Ayağa Kaldıracak Detayı İfşa Etti</title>
       <link>https://www.youtube.com/watch?v=B4PpuwxZoLc</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">GJmZAAqWnxo</guid>
       <pubDate>Wed, 16 Sep 2026 16:45:31 +0000</pubDate>
       <description>Halk TV kanalından yeni video: NASUH MAHRUKİ TAHLİYE EDİLDİ! 15 Temmuz tweet’i yüzünden yargılandı, ceza alıp serbest bırakıldı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Ortadoğu'da Kırmızı Çizgi Aşıldı! Kutsal Topraklarda İHA Alarmı! Husiler &amp; ABD'den Gizli Zirve</title>
-      <link>https://www.youtube.com/watch?v=6U0V2r1r4bs</link>
-      <guid isPermaLink="false">6U0V2r1r4bs</guid>
-      <pubDate>Wed, 16 Sep 2026 16:40:21 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Ortadoğu'da Kırmızı Çizgi Aşıldı! Kutsal Topraklarda İHA Alarmı! Husiler &amp; ABD'den Gizli Zirve</description>
     </item>
   </channel>
 </rss>
