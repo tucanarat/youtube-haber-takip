@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 19:45:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 19:50:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: AKBELENLİLER DANIŞTAY’A DAYANDI! Kamulaştırma davasında kritik duruşma!</title>
+      <link>https://www.youtube.com/watch?v=7pIqvJaA6vs</link>
+      <guid isPermaLink="false">7pIqvJaA6vs</guid>
+      <pubDate>Wed, 16 Sep 2026 19:40:33 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: AKBELENLİLER DANIŞTAY’A DAYANDI! Kamulaştırma davasında kritik duruşma!</description>
+    </item>
     <item>
       <title>Halk TV: YENİ Partili Umut Akdoğan, akaryakıta yapılan zamları çok çarpıcı bir görüntü ile gündeme taşıdı!</title>
       <link>https://www.youtube.com/shorts/FCT00885HyU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">wo3FeRdS3Vg</guid>
       <pubDate>Wed, 16 Sep 2026 16:15:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: KAN DONDURAN DETAY! 'Rojin'in sırrı orada' denilen evde bunlar yaşanmş! Meğer kaybolduğu dakikada...</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: #CANLI İBB Davasında 82. gün! "13 ay yattık, bırakın da anlatalım"</title>
-      <link>https://www.youtube.com/watch?v=MDUUSaWgkB4</link>
-      <guid isPermaLink="false">MDUUSaWgkB4</guid>
-      <pubDate>Wed, 16 Sep 2026 16:13:14 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI İBB Davasında 82. gün! "13 ay yattık, bırakın da anlatalım"</description>
     </item>
   </channel>
 </rss>
