@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 23:10:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 23:15:30 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Fatih Erbakan, Kahramankazan İlçe Başkanlığı'nın açılışında konuşuyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=YhDdja3DPjw</link>
+      <guid isPermaLink="false">YhDdja3DPjw</guid>
+      <pubDate>Wed, 16 Sep 2026 23:14:21 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Fatih Erbakan, Kahramankazan İlçe Başkanlığı'nın açılışında konuşuyor #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: İki kardeşin döviz bürosundaki infazında çarpıcı detaylar: Sahte 1.9 milyon dolar çıktı!</title>
       <link>https://www.youtube.com/watch?v=sQ_1yW6dCHA</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">zmYffhgtmBE</guid>
       <pubDate>Wed, 16 Sep 2026 19:00:06 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Öcalan'a villa mı yapıldı? Hem Bahçeli'den hem DEM Parti'den açıklama geldi!</description>
-    </item>
-    <item>
-      <title>Halk TV: Piyasalarda panik havası hakim: Pusula ile başlayan sarsıntı borsada sert satışlara neden oldu!</title>
-      <link>https://www.youtube.com/watch?v=uO_Hroqw_xA</link>
-      <guid isPermaLink="false">uO_Hroqw_xA</guid>
-      <pubDate>Wed, 16 Sep 2026 18:45:19 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Piyasalarda panik havası hakim: Pusula ile başlayan sarsıntı borsada sert satışlara neden oldu!</description>
     </item>
   </channel>
 </rss>
