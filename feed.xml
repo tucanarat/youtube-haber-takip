@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 12:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 12:40:40 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: İsmail Küçükkaya'dan Bomba Kulis! Davutoğlu ve Binali Yıldırım Karşı Karşıya! Olay Olacak Kriz</title>
+      <link>https://www.youtube.com/watch?v=J1SDbkr_8oE</link>
+      <guid isPermaLink="false">J1SDbkr_8oE</guid>
+      <pubDate>Wed, 16 Sep 2026 12:30:33 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya'dan Bomba Kulis! Davutoğlu ve Binali Yıldırım Karşı Karşıya! Olay Olacak Kriz</description>
+    </item>
     <item>
       <title>Halk TV: MEHMET ŞİMŞEK ARTIK KAÇAMAZ! İmamoğlu operasyonunun faturası korkunç! İbrahim Kahveci açıkladı!</title>
       <link>https://www.youtube.com/watch?v=1WEppwvR2Ow</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">FO3SZizxJZE</guid>
       <pubDate>Wed, 16 Sep 2026 10:13:11 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Akbelen köylüleri kamulaştırma kararına karşı Ankara’da: "Topraklarımızı vermiyoruz!"</description>
-    </item>
-    <item>
-      <title>Halk TV: Ebru Baki ile Para Siyaset | İbrahim Kahveci - Sezin Öney (16 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=WxE0c8RFu2E</link>
-      <guid isPermaLink="false">WxE0c8RFu2E</guid>
-      <pubDate>Wed, 16 Sep 2026 10:00:57 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ebru Baki ile Para Siyaset | İbrahim Kahveci - Sezin Öney (16 Eylül 2026)</description>
     </item>
   </channel>
 </rss>
