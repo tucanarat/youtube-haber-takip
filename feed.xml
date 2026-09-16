@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 09:45:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 09:50:35 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: CHP Grup Başkanvekili Sevda Erdan Kılıç, TBMM'de açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=FwmRdtRinDI</link>
+      <guid isPermaLink="false">FwmRdtRinDI</guid>
+      <pubDate>Wed, 16 Sep 2026 09:40:57 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: CHP Grup Başkanvekili Sevda Erdan Kılıç, TBMM'de açıklama yapıyor #Canlı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: "ERDOĞAN" YAZILI MEZAR TAŞI! Kurtlar Vadisi, MİT ve FETÖ Gerçeği! Raci Şaşmaz'dan Olay İfade</title>
+      <link>https://www.youtube.com/watch?v=3Nrxf4z9jeE</link>
+      <guid isPermaLink="false">3Nrxf4z9jeE</guid>
+      <pubDate>Wed, 16 Sep 2026 09:40:17 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: "ERDOĞAN" YAZILI MEZAR TAŞI! Kurtlar Vadisi, MİT ve FETÖ Gerçeği! Raci Şaşmaz'dan Olay İfade</description>
+    </item>
     <item>
       <title>Tele2 Haber: Mahmut Tanal'dan Akbelen Yaşam Savunucularına Destek! Acele Kamulaştırma Tepkisi: "Anayasa İhlali!"</title>
       <link>https://www.youtube.com/watch?v=_OVw1Hg7q4Q</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">fuPTYPQmMyQ</guid>
       <pubDate>Wed, 16 Sep 2026 06:48:23 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Mersin'de 'Ailem Güvende' operasyonunda gözaltına alınan kişilere ters kelepçe takıldı!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Türk sinemasının unutulmaz isimlerinden Tarık Akan Bakırköy Mezarlığı'nda anılıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=0psUqlx9xZg</link>
-      <guid isPermaLink="false">0psUqlx9xZg</guid>
-      <pubDate>Wed, 16 Sep 2026 06:48:11 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Türk sinemasının unutulmaz isimlerinden Tarık Akan Bakırköy Mezarlığı'nda anılıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Akbelen için kritik gün... Mahmut Tanal Danıştay önünde: Anayasa rafa kaldırılmıştır...</title>
-      <link>https://www.youtube.com/watch?v=CF5b6Pywp_Q</link>
-      <guid isPermaLink="false">CF5b6Pywp_Q</guid>
-      <pubDate>Wed, 16 Sep 2026 06:47:23 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Akbelen için kritik gün... Mahmut Tanal Danıştay önünde: Anayasa rafa kaldırılmıştır...</description>
     </item>
   </channel>
 </rss>
