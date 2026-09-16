@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 19:05:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 19:10:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Selçuk Türkoğlu'ndan Mehmet Şimşek'e tepki: Avrupa kıyasını maaşlarda da yapsana!</title>
+      <link>https://www.youtube.com/shorts/sOLC0EE_8nI</link>
+      <guid isPermaLink="false">sOLC0EE_8nI</guid>
+      <pubDate>Wed, 16 Sep 2026 19:00:37 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Selçuk Türkoğlu'ndan Mehmet Şimşek'e tepki: Avrupa kıyasını maaşlarda da yapsana!</description>
+    </item>
+    <item>
+      <title>Halk TV: MHP Lideri Bahçeli'nin, Mansur Yavaş ile ilgili sözleri gündeme damga gibi vurdu!</title>
+      <link>https://www.youtube.com/watch?v=lgSFPQVV_5s</link>
+      <guid isPermaLink="false">lgSFPQVV_5s</guid>
+      <pubDate>Wed, 16 Sep 2026 19:00:18 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: MHP Lideri Bahçeli'nin, Mansur Yavaş ile ilgili sözleri gündeme damga gibi vurdu!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Öcalan'a villa mı yapıldı? Hem Bahçeli'den hem DEM Parti'den açıklama geldi!</title>
+      <link>https://www.youtube.com/watch?v=zmYffhgtmBE</link>
+      <guid isPermaLink="false">zmYffhgtmBE</guid>
+      <pubDate>Wed, 16 Sep 2026 19:00:06 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Öcalan'a villa mı yapıldı? Hem Bahçeli'den hem DEM Parti'den açıklama geldi!</description>
+    </item>
     <item>
       <title>Halk TV: Piyasalarda panik havası hakim: Pusula ile başlayan sarsıntı borsada sert satışlara neden oldu!</title>
       <link>https://www.youtube.com/watch?v=uO_Hroqw_xA</link>
@@ -218,13 +239,6 @@
       <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses ile Sözcü Ana Haber | 16 Eylül</description>
     </item>
     <item>
-      <title>Tele2 Haber: Öcalan'a villa mı yapıldı? Hem Bahçeli'den hem DEM Parti'den açıklama geldi!</title>
-      <link>https://www.youtube.com/watch?v=zmYffhgtmBE</link>
-      <guid isPermaLink="false">zmYffhgtmBE</guid>
-      <pubDate>Wed, 16 Sep 2026 16:54:35 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Öcalan'a villa mı yapıldı? Hem Bahçeli'den hem DEM Parti'den açıklama geldi!</description>
-    </item>
-    <item>
       <title>Halk TV: #CANLI | Sinem Fıstıkoğlu ile Sansürsüz</title>
       <link>https://www.youtube.com/watch?v=rFNDbqx8O64</link>
       <guid isPermaLink="false">rFNDbqx8O64</guid>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">U5OZ50BGTyM</guid>
       <pubDate>Wed, 16 Sep 2026 15:40:24 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Borsada 5 Şiddetinde Deprem! BIST'te Devre Kesici Devrede! Eski Borsa Başkanına Şok Soruşturma</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: DERİNLEŞEN ÇOCUK YOKSULLUĞU! Asu Kaya, okula aç giden çocukları anlattı...</title>
-      <link>https://www.youtube.com/watch?v=B70nDp_5xNo</link>
-      <guid isPermaLink="false">B70nDp_5xNo</guid>
-      <pubDate>Wed, 16 Sep 2026 15:30:19 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: DERİNLEŞEN ÇOCUK YOKSULLUĞU! Asu Kaya, okula aç giden çocukları anlattı...</description>
-    </item>
-    <item>
-      <title>Halk TV: ELAZIĞ'DA FECİ KAZA! Otomobil ikiye bölündü, iki kişi hayatını kaybetti! Görüntüler dehşet verici!</title>
-      <link>https://www.youtube.com/watch?v=4Pi5ymFBDxE</link>
-      <guid isPermaLink="false">4Pi5ymFBDxE</guid>
-      <pubDate>Wed, 16 Sep 2026 15:30:05 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ELAZIĞ'DA FECİ KAZA! Otomobil ikiye bölündü, iki kişi hayatını kaybetti! Görüntüler dehşet verici!</description>
     </item>
   </channel>
 </rss>
