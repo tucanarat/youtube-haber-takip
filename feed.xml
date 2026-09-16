@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 14:15:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 14:20:34 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Avrupa Hareketlilik Haftası açılışı / Mersin #Canlı</title>
+      <link>https://www.youtube.com/watch?v=4xwAZsMt1gg</link>
+      <guid isPermaLink="false">4xwAZsMt1gg</guid>
+      <pubDate>Wed, 16 Sep 2026 14:18:11 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Avrupa Hareketlilik Haftası açılışı / Mersin #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | CHP'nin Butlan Sözcüsü Müslim Sarı Açıklama Yapıyor!</title>
       <link>https://www.youtube.com/watch?v=EtfCxUiTEyg</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">61yuRh1RlDI</guid>
       <pubDate>Wed, 16 Sep 2026 11:49:07 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Akbelen köylüleri, Enerji ve Tabii Kaynaklar Bakanlığı'na bağlı MAPEG önünde açıklama yapıyor</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: YENİ Parti Ankara milletvekili Umut Akdoğan'dan akaryakıt zammı tepkisi #shorts</title>
-      <link>https://www.youtube.com/shorts/zUpSB7yanpk</link>
-      <guid isPermaLink="false">zUpSB7yanpk</guid>
-      <pubDate>Wed, 16 Sep 2026 11:47:46 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Ankara milletvekili Umut Akdoğan'dan akaryakıt zammı tepkisi #shorts</description>
     </item>
   </channel>
 </rss>
