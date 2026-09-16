@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 22:50:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 22:51:10 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: “SANDIĞIN BİR AN ÖNCE GELMESİNİ İSTİYORLAR!” Gizem Özcan’dan çarpıcı seçim yorumu!</title>
+      <link>https://www.youtube.com/watch?v=F7Habfvb4Eg</link>
+      <guid isPermaLink="false">F7Habfvb4Eg</guid>
+      <pubDate>Wed, 16 Sep 2026 22:40:39 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: “SANDIĞIN BİR AN ÖNCE GELMESİNİ İSTİYORLAR!” Gizem Özcan’dan çarpıcı seçim yorumu!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Barış Terkoğlu İlk Kez Açıkladı: Kurtlar Vadisi'nin 'Kozinoğlu'su Sedat Savtak Neler Söyledi?</title>
       <link>https://www.youtube.com/watch?v=UC4_s1-LP2E</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">HDs2_d8JSow</guid>
       <pubDate>Wed, 16 Sep 2026 18:35:37 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Mustafa Sarıgül: Borsa çöktü, küçük yatırımcı ezildi. Kaybeden yine alın teriyle biriktiren oldu!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Murat Taylan: Yeni Parti ile Yenilik Partisi'ni karıştıracak kaç kişi çıkar memlekette?</title>
-      <link>https://www.youtube.com/watch?v=mHQ4PrT_rZ8</link>
-      <guid isPermaLink="false">mHQ4PrT_rZ8</guid>
-      <pubDate>Wed, 16 Sep 2026 18:30:06 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Murat Taylan: Yeni Parti ile Yenilik Partisi'ni karıştıracak kaç kişi çıkar memlekette?</description>
     </item>
   </channel>
 </rss>
