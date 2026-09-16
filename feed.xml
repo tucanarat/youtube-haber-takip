@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 18:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 18:25:24 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Tarık Akan için kurucusu olduğu Özel Taş İlkokulu'nda anma töreni yapılıyor  #Canlı</title>
+      <link>https://www.youtube.com/watch?v=HAPa6Va4WPA</link>
+      <guid isPermaLink="false">HAPa6Va4WPA</guid>
+      <pubDate>Wed, 16 Sep 2026 18:23:22 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Tarık Akan için kurucusu olduğu Özel Taş İlkokulu'nda anma töreni yapılıyor  #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: BAKANA SERT ÇIKTI! “Mesele Avrupa’da mazotun kaç lira olduğu değil, emekli kaç litre alabiliyor!”</title>
       <link>https://www.youtube.com/shorts/oOrq-DmREUo</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">NcVWXn02h-U</guid>
       <pubDate>Wed, 16 Sep 2026 15:00:25 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "EZGİ APARTMANI' davasında Döne Kaya'nın feryadı ve yargı süreci! Asu Kaya, kararları yorumladı...</description>
-    </item>
-    <item>
-      <title>Halk TV: ANKARA ALEV ALEV! Erdoğan'ın seçim için son hamlesi buymuş! Bomba YENİ Parti planı deşifre oldu!</title>
-      <link>https://www.youtube.com/watch?v=BBZzABqsI8s</link>
-      <guid isPermaLink="false">BBZzABqsI8s</guid>
-      <pubDate>Wed, 16 Sep 2026 15:00:24 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ANKARA ALEV ALEV! Erdoğan'ın seçim için son hamlesi buymuş! Bomba YENİ Parti planı deşifre oldu!</description>
     </item>
   </channel>
 </rss>
