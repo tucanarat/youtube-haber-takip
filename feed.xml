@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 12:12:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 12:15:31 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: TBMM basın koridorunda karşılaşan CHP ve YENİ Parti grup başkanvekilleri selamlaşmamayı tercih etti.</title>
+      <link>https://www.youtube.com/shorts/bWGCk3J_z1o</link>
+      <guid isPermaLink="false">bWGCk3J_z1o</guid>
+      <pubDate>Wed, 16 Sep 2026 12:13:58 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: TBMM basın koridorunda karşılaşan CHP ve YENİ Parti grup başkanvekilleri selamlaşmamayı tercih etti.</description>
+    </item>
     <item>
       <title>Halk TV: YENİ Parti İzmir Milletvekili Ümit Özlale, Parti Genel Merkezi’nde Basın Açıklaması Yaptı!</title>
       <link>https://www.youtube.com/watch?v=1o_fAsFetEQ</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">uYGhyaEvxRU</guid>
       <pubDate>Wed, 16 Sep 2026 09:45:18 +0000</pubDate>
       <description>Halk TV kanalından yeni video: 'SÜREÇ'TE DANANIN KUYRUĞU KOPUYOR! Kritik aşama için gözler önümüzdeki haftada! Ankara yangın yeri!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: CHP Grup Başkanvekili Sevda Erdan Kılıç, TBMM'de açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=FwmRdtRinDI</link>
-      <guid isPermaLink="false">FwmRdtRinDI</guid>
-      <pubDate>Wed, 16 Sep 2026 09:40:57 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP Grup Başkanvekili Sevda Erdan Kılıç, TBMM'de açıklama yapıyor #Canlı</description>
     </item>
   </channel>
 </rss>
