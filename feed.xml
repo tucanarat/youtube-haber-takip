@@ -6,7 +6,28 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 13:20:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 13:25:26 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI İBB Meclisi Eylül 2. Toplantısı</title>
+      <link>https://www.youtube.com/watch?v=itnriqytFv0</link>
+      <guid isPermaLink="false">itnriqytFv0</guid>
+      <pubDate>Wed, 16 Sep 2026 13:24:00 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI İBB Meclisi Eylül 2. Toplantısı</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Akaryakıt fiyatına tarihi zam geliyor: Litre fiyatı 100 TL'yi aşacak</title>
+      <link>https://www.youtube.com/watch?v=cG2ThflNpL4</link>
+      <guid isPermaLink="false">cG2ThflNpL4</guid>
+      <pubDate>Wed, 16 Sep 2026 13:22:22 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Akaryakıt fiyatına tarihi zam geliyor: Litre fiyatı 100 TL'yi aşacak</description>
+    </item>
+    <item>
+      <title>Halk TV: O SAHNELER MERCEK ALTINDA! Kozinoğlu soruşturmasında flaş gelişme! Kurtlar Vadisi'ne FETÖ incelemesi</title>
+      <link>https://www.youtube.com/watch?v=RdJ64ohmCxE</link>
+      <guid isPermaLink="false">RdJ64ohmCxE</guid>
+      <pubDate>Wed, 16 Sep 2026 13:15:05 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: O SAHNELER MERCEK ALTINDA! Kozinoğlu soruşturmasında flaş gelişme! Kurtlar Vadisi'ne FETÖ incelemesi</description>
+    </item>
     <item>
       <title>Cumhuriyet: İmamoğlu, İstanbullulara Yenikapı'dan seslendi: Ben nerede olursam olayım, İstanbul emin ellerde</title>
       <link>https://www.youtube.com/watch?v=mo4C9ND4-jQ</link>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">EJ0o-1zewdY</guid>
       <pubDate>Wed, 16 Sep 2026 11:00:10 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: "Hiçbir Şey Olmasa Bile Bir Şey Olacak Uydurulacak!" Çoban'dan YENİ Parti'ye İsim Tebligatına Tepki!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: NEVZAT ÇİÇEK'TEN BOMBA KULİSLER! İBB İçin 3 Gizli Senaryo! Davutoğlu'nun Nikahının Perde Arkası</title>
-      <link>https://www.youtube.com/watch?v=Bjs5mjg-cR0</link>
-      <guid isPermaLink="false">Bjs5mjg-cR0</guid>
-      <pubDate>Wed, 16 Sep 2026 11:00:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: NEVZAT ÇİÇEK'TEN BOMBA KULİSLER! İBB İçin 3 Gizli Senaryo! Davutoğlu'nun Nikahının Perde Arkası</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti Grup Başkanvekili Ali Mahir Başarır, TBMM'de Açıklama Yaptı!</title>
-      <link>https://www.youtube.com/watch?v=Uidifdkft8k</link>
-      <guid isPermaLink="false">Uidifdkft8k</guid>
-      <pubDate>Wed, 16 Sep 2026 10:57:09 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti Grup Başkanvekili Ali Mahir Başarır, TBMM'de Açıklama Yaptı!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: YENİ Parti Grup Başkanvekili Ali Mahir Başarır, TBMM'de açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=GlO2r_XB_eU</link>
-      <guid isPermaLink="false">GlO2r_XB_eU</guid>
-      <pubDate>Wed, 16 Sep 2026 10:57:03 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Grup Başkanvekili Ali Mahir Başarır, TBMM'de açıklama yapıyor #Canlı</description>
     </item>
   </channel>
 </rss>
