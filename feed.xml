@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 20:30:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 20:35:25 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: Barış Terkoğlu Öcalan'a Verilen Statüyü Açıkladı! Ankara'yı Ayağa Kaldıracak Detayı İfşa Etti</title>
       <link>https://www.youtube.com/watch?v=B4PpuwxZoLc</link>
       <guid isPermaLink="false">B4PpuwxZoLc</guid>
       <pubDate>Wed, 16 Sep 2026 20:20:29 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Barış Terkoğlu Öcalan'a Verilen Statüyü Açıkladı! Ankara'yı Ayağa Kaldıracak Detayı İfşa Etti</description>
+    </item>
+    <item>
+      <title>Halk TV: Hukukçu Ruşen Gültekin, AKP’nin seçimlere ilişkin yaptığı kritik değişikliğe dikkat çekti!</title>
+      <link>https://www.youtube.com/watch?v=vjNAJZO25_c</link>
+      <guid isPermaLink="false">vjNAJZO25_c</guid>
+      <pubDate>Wed, 16 Sep 2026 20:20:04 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Hukukçu Ruşen Gültekin, AKP’nin seçimlere ilişkin yaptığı kritik değişikliğe dikkat çekti!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Gazeteci Masası - İsmail Saymaz, Barış Terkoğlu, Murat Ağırel, Saygı Öztürk | 16 Eylül</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">6U0V2r1r4bs</guid>
       <pubDate>Wed, 16 Sep 2026 16:40:21 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Ortadoğu'da Kırmızı Çizgi Aşıldı! Kutsal Topraklarda İHA Alarmı! Husiler &amp; ABD'den Gizli Zirve</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: KİLİS'TE YAŞ ÜZÜM FİYATINA PROTESTO! SELA OKUYUP DUA ETTİLER...</title>
-      <link>https://www.youtube.com/shorts/G5xVVUTx02s</link>
-      <guid isPermaLink="false">G5xVVUTx02s</guid>
-      <pubDate>Wed, 16 Sep 2026 16:31:37 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: KİLİS'TE YAŞ ÜZÜM FİYATINA PROTESTO! SELA OKUYUP DUA ETTİLER...</description>
     </item>
   </channel>
 </rss>
