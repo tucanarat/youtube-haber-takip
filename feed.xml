@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 15:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 15:10:34 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI Türkiye Belediyeler Birliği Başkanı Vahap Seçer, konuşuyor</title>
+      <link>https://www.youtube.com/watch?v=F-iruC_5_Ig</link>
+      <guid isPermaLink="false">F-iruC_5_Ig</guid>
+      <pubDate>Wed, 16 Sep 2026 15:08:58 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Türkiye Belediyeler Birliği Başkanı Vahap Seçer, konuşuyor</description>
+    </item>
     <item>
       <title>Halk TV: Gizem Çetin ile Parantez  (16 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=k8YbLEqSzJc</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">zPgXw-Wufxk</guid>
       <pubDate>Wed, 16 Sep 2026 12:39:13 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Yapay Zeka Dünyanın Sonunu mu Getirecek? | Ayşegül İldeniz | İpek Özbey ile Nasıl Olacak?</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İsmail Küçükkaya'dan Bomba Kulis! Davutoğlu ve Binali Yıldırım Karşı Karşıya! Olay Olacak Kriz</title>
-      <link>https://www.youtube.com/watch?v=J1SDbkr_8oE</link>
-      <guid isPermaLink="false">J1SDbkr_8oE</guid>
-      <pubDate>Wed, 16 Sep 2026 12:30:33 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya'dan Bomba Kulis! Davutoğlu ve Binali Yıldırım Karşı Karşıya! Olay Olacak Kriz</description>
     </item>
   </channel>
 </rss>
