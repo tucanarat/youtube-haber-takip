@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 18:50:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 18:55:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Piyasalarda panik havası hakim: Pusula ile başlayan sarsıntı borsada sert satışlara neden oldu!</title>
+      <link>https://www.youtube.com/watch?v=uO_Hroqw_xA</link>
+      <guid isPermaLink="false">uO_Hroqw_xA</guid>
+      <pubDate>Wed, 16 Sep 2026 18:45:19 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Piyasalarda panik havası hakim: Pusula ile başlayan sarsıntı borsada sert satışlara neden oldu!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: "Muhalefette Şundan Yoruldum!" Barış Terkoğlu'ndan Yeni Parti'nin İsim Krizine Sert Tepki</title>
+      <link>https://www.youtube.com/watch?v=L9SBYREwPfI</link>
+      <guid isPermaLink="false">L9SBYREwPfI</guid>
+      <pubDate>Wed, 16 Sep 2026 18:40:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: "Muhalefette Şundan Yoruldum!" Barış Terkoğlu'ndan Yeni Parti'nin İsim Krizine Sert Tepki</description>
+    </item>
     <item>
       <title>Tele2 Haber: İŞ ÇIĞRINDAN ÇIKTI! ÜLKE NEREYE GİDİYOR? Murat Taylan ile Haber-Yorum (16.09.2026)</title>
       <link>https://www.youtube.com/watch?v=_LvN73G9e7Y</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">4Pi5ymFBDxE</guid>
       <pubDate>Wed, 16 Sep 2026 15:30:05 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ELAZIĞ'DA FECİ KAZA! Otomobil ikiye bölündü, iki kişi hayatını kaybetti! Görüntüler dehşet verici!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Prof. Dr. Korkut Kanadoğlu, İstanbul Barosu Başkanlığı adaylığını açıklıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=jZ--9v0r3Fw</link>
-      <guid isPermaLink="false">jZ--9v0r3Fw</guid>
-      <pubDate>Wed, 16 Sep 2026 15:25:36 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Prof. Dr. Korkut Kanadoğlu, İstanbul Barosu Başkanlığı adaylığını açıklıyor #Canlı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Yeni Parti Kapanacak mı? Yunus Emre'den Çarpıcı Bahçeli, Erdoğan ve Mansur Yavaş Açıklaması</title>
-      <link>https://www.youtube.com/watch?v=ieqZm7TyLtc</link>
-      <guid isPermaLink="false">ieqZm7TyLtc</guid>
-      <pubDate>Wed, 16 Sep 2026 15:20:26 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Yeni Parti Kapanacak mı? Yunus Emre'den Çarpıcı Bahçeli, Erdoğan ve Mansur Yavaş Açıklaması</description>
     </item>
   </channel>
 </rss>
