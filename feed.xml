@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 11:05:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 11:10:32 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Başkanvekilleri selamlaşmamayı tercih etti #shorts</title>
+      <link>https://www.youtube.com/shorts/R22ow_8Isqs</link>
+      <guid isPermaLink="false">R22ow_8Isqs</guid>
+      <pubDate>Wed, 16 Sep 2026 11:09:36 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Başkanvekilleri selamlaşmamayı tercih etti #shorts</description>
+    </item>
     <item>
       <title>Halk TV: ANKARA YİNE BAHÇELİ'Yİ KONUŞACAK! Öcalan'a yapılan konut için neler dedi neler! İzlemeden geçmeyin!</title>
       <link>https://www.youtube.com/watch?v=ql6QTGUxGXM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">CeNc_eKQtnw</guid>
       <pubDate>Wed, 16 Sep 2026 08:01:01 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya ile Günaydın Türkiyem | 16 Eylül</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! MİLYONLAR BU KARARA KİLİTLENMİŞTİ! CHP'nin kurultay ceza davası yine ertelendi!</title>
-      <link>https://www.youtube.com/watch?v=5SKDr2eMnEw</link>
-      <guid isPermaLink="false">5SKDr2eMnEw</guid>
-      <pubDate>Wed, 16 Sep 2026 08:00:32 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! MİLYONLAR BU KARARA KİLİTLENMİŞTİ! CHP'nin kurultay ceza davası yine ertelendi!</description>
     </item>
   </channel>
 </rss>
