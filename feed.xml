@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 21:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 21:20:31 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Mustafa Destici, partisinin genel merkezinde basın toplantısı düzenliyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=7hvGqiU-ROM</link>
+      <guid isPermaLink="false">7hvGqiU-ROM</guid>
+      <pubDate>Wed, 16 Sep 2026 21:14:55 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Mustafa Destici, partisinin genel merkezinde basın toplantısı düzenliyor #Canlı</description>
+    </item>
+    <item>
+      <title>Halk TV: TIRAŞ PARASI PARTİYE! İzzet amca: “Tıraş olmayacağım, tıraş paramı YENİ Partimize bağışlıyorum.”</title>
+      <link>https://www.youtube.com/shorts/0Uy4Kb8-fM8</link>
+      <guid isPermaLink="false">0Uy4Kb8-fM8</guid>
+      <pubDate>Wed, 16 Sep 2026 21:10:05 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: TIRAŞ PARASI PARTİYE! İzzet amca: “Tıraş olmayacağım, tıraş paramı YENİ Partimize bağışlıyorum.”</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: GİZLİ YÜRÜTÜLEN SÜREÇ!  Bahçeli'nin Öcalan Planının Arkasında Ne Var? Saygı Öztürk'ten Dinleyin</title>
       <link>https://www.youtube.com/watch?v=Q6sOR9wnIQI</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">qI8MBJTLtd4</guid>
       <pubDate>Wed, 16 Sep 2026 16:57:47 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | Ece Üner ile Halk Ana Haber | #kayıp</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Özlem Gürses ile Sözcü Ana Haber | 16 Eylül</title>
-      <link>https://www.youtube.com/watch?v=LUhFCNVhui8</link>
-      <guid isPermaLink="false">LUhFCNVhui8</guid>
-      <pubDate>Wed, 16 Sep 2026 16:57:39 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses ile Sözcü Ana Haber | 16 Eylül</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Sinem Fıstıkoğlu ile Sansürsüz</title>
-      <link>https://www.youtube.com/watch?v=rFNDbqx8O64</link>
-      <guid isPermaLink="false">rFNDbqx8O64</guid>
-      <pubDate>Wed, 16 Sep 2026 16:51:08 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Sinem Fıstıkoğlu ile Sansürsüz</description>
     </item>
   </channel>
 </rss>
