@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 10:05:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 10:10:32 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Ebru Baki ile Para Siyaset | İbrahim Kahveci - Sezin Öney (16 Eylül 2026)</title>
+      <link>https://www.youtube.com/watch?v=WxE0c8RFu2E</link>
+      <guid isPermaLink="false">WxE0c8RFu2E</guid>
+      <pubDate>Wed, 16 Sep 2026 10:00:57 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Ebru Baki ile Para Siyaset | İbrahim Kahveci - Sezin Öney (16 Eylül 2026)</description>
+    </item>
+    <item>
+      <title>Halk TV: 'Yaklaşan seçimler' çıkışı kulisleri hareketlendirmişti! Meğerse Erdoğan'ın sözleri oraya mesajmış!</title>
+      <link>https://www.youtube.com/watch?v=jPLUQ32uxJc</link>
+      <guid isPermaLink="false">jPLUQ32uxJc</guid>
+      <pubDate>Wed, 16 Sep 2026 10:00:38 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: 'Yaklaşan seçimler' çıkışı kulisleri hareketlendirmişti! Meğerse Erdoğan'ın sözleri oraya mesajmış!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: TARİH VERİLDİ: 2 NİSAN! Ankara'da Erken Seçim Depremi! Erdoğan'ın Kulisleri Sallayan Planı</title>
       <link>https://www.youtube.com/watch?v=i5iDuqmeulw</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">BP0u17Pb3dI</guid>
       <pubDate>Wed, 16 Sep 2026 07:03:52 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI İnan Demirel ile Gündemdekiler | Konuk: Yaşar Aydın (16.09.2026)</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Murat Taylan ile Haber-Yorum (16.09.2026)</title>
-      <link>https://www.youtube.com/watch?v=_LvN73G9e7Y</link>
-      <guid isPermaLink="false">_LvN73G9e7Y</guid>
-      <pubDate>Wed, 16 Sep 2026 07:01:04 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Murat Taylan ile Haber-Yorum (16.09.2026)</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: 'Ne Mutlu Türküm Diyene' Yazısı DEM'li Sırrı Sakık'ı Rahatsız Etti! Atatürk'ün Sözlerini Hedef Aldı</title>
-      <link>https://www.youtube.com/watch?v=GlQLODSE6K4</link>
-      <guid isPermaLink="false">GlQLODSE6K4</guid>
-      <pubDate>Wed, 16 Sep 2026 07:00:39 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: 'Ne Mutlu Türküm Diyene' Yazısı DEM'li Sırrı Sakık'ı Rahatsız Etti! Atatürk'ün Sözlerini Hedef Aldı</description>
     </item>
   </channel>
 </rss>
