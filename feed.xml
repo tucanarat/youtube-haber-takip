@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 20:50:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 20:55:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Hukukçu Afşin Hatipoğlu, iktidarın muhalefete yönelik baskını dikkat çeken bir fiille anlattı!</title>
+      <link>https://www.youtube.com/watch?v=XPwvkmDwLac</link>
+      <guid isPermaLink="false">XPwvkmDwLac</guid>
+      <pubDate>Wed, 16 Sep 2026 20:40:19 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Hukukçu Afşin Hatipoğlu, iktidarın muhalefete yönelik baskını dikkat çeken bir fiille anlattı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İmralı'daki Konut Siyasette Krize Yol Açtı! Bahçeli'nin Çarpıcı Öcalan Çıkışı! İsmail Saymaz Anlattı</title>
       <link>https://www.youtube.com/watch?v=cBdMV_Iz1a0</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">7UQbBEqmyQg</guid>
       <pubDate>Wed, 16 Sep 2026 16:45:31 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Parti Lideri Özgür Özel, Türkiye'de yaşananları Fransız Le Figaro'ya yazdı!</description>
-    </item>
-    <item>
-      <title>Halk TV: NASUH MAHRUKİ TAHLİYE EDİLDİ! 15 Temmuz tweet’i yüzünden yargılandı, ceza alıp serbest bırakıldı!</title>
-      <link>https://www.youtube.com/shorts/GJmZAAqWnxo</link>
-      <guid isPermaLink="false">GJmZAAqWnxo</guid>
-      <pubDate>Wed, 16 Sep 2026 16:45:31 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: NASUH MAHRUKİ TAHLİYE EDİLDİ! 15 Temmuz tweet’i yüzünden yargılandı, ceza alıp serbest bırakıldı!</description>
     </item>
   </channel>
 </rss>
