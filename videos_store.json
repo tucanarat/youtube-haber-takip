@@ -50758,5 +50758,53 @@
     "published": "2026-09-16T22:00:01+00:00",
     "published_ts": 1789596001,
     "channel_name": "Halk TV"
+  },
+  "qPefGblUzIg": {
+    "id": "qPefGblUzIg",
+    "title": "Özlem Gürses ile Sözcü Ana Haber",
+    "link": "https://www.youtube.com/watch?v=qPefGblUzIg",
+    "published": "2026-09-16T22:13:55+00:00",
+    "published_ts": 1789596835,
+    "channel_name": "SÖZCÜ TV"
+  },
+  "HT9d36dN0gs": {
+    "id": "HT9d36dN0gs",
+    "title": "Damla Doğan Tuncel ile 1 Saat",
+    "link": "https://www.youtube.com/watch?v=HT9d36dN0gs",
+    "published": "2026-09-16T22:13:15+00:00",
+    "published_ts": 1789596795,
+    "channel_name": "SÖZCÜ TV"
+  },
+  "sQfz26TAPS0": {
+    "id": "sQfz26TAPS0",
+    "title": "Serap Belovacıklı ile Haber Saati",
+    "link": "https://www.youtube.com/watch?v=sQfz26TAPS0",
+    "published": "2026-09-16T22:12:46+00:00",
+    "published_ts": 1789596766,
+    "channel_name": "SÖZCÜ TV"
+  },
+  "1KOqiTRGmCw": {
+    "id": "1KOqiTRGmCw",
+    "title": "Can Coşkun ile Gündem Masası",
+    "link": "https://www.youtube.com/watch?v=1KOqiTRGmCw",
+    "published": "2026-09-16T22:12:15+00:00",
+    "published_ts": 1789596735,
+    "channel_name": "SÖZCÜ TV"
+  },
+  "GeeHviA1c6c": {
+    "id": "GeeHviA1c6c",
+    "title": "İsmail Küçükkaya ile Günaydın Türkiyem",
+    "link": "https://www.youtube.com/watch?v=GeeHviA1c6c",
+    "published": "2026-09-16T22:11:43+00:00",
+    "published_ts": 1789596703,
+    "channel_name": "SÖZCÜ TV"
+  },
+  "xVs40P-XZKs": {
+    "id": "xVs40P-XZKs",
+    "title": "Merve Ekinci ile Uyanma Vakti",
+    "link": "https://www.youtube.com/watch?v=xVs40P-XZKs",
+    "published": "2026-09-16T22:11:07+00:00",
+    "published_ts": 1789596667,
+    "channel_name": "SÖZCÜ TV"
   }
 }
