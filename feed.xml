@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 11:25:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 11:30:43 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: Fatih Erbakan, Kahramankazan İlçe Başkanlığı'nın açılışında konuşuyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=tTaBOVjTudk</link>
       <guid isPermaLink="false">tTaBOVjTudk</guid>
-      <pubDate>Wed, 16 Sep 2026 11:19:45 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 11:29:48 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Fatih Erbakan, Kahramankazan İlçe Başkanlığı'nın açılışında konuşuyor #Canlı</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: Akbelen köylüleri, Enerji ve Tabii Kaynaklar Bakanlığı'na bağlı MAPEG önünde açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=DN6lqXQ-UWs</link>
+      <guid isPermaLink="false">DN6lqXQ-UWs</guid>
+      <pubDate>Wed, 16 Sep 2026 11:27:31 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Akbelen köylüleri, Enerji ve Tabii Kaynaklar Bakanlığı'na bağlı MAPEG önünde açıklama yapıyor #Canlı</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: YENİ Parti İzmir Milletvekili Ümit Özlale, Parti Genel Merkezi’nde basın açıklaması yapıyor #Canlı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">xrQCa8SUcow</guid>
       <pubDate>Wed, 16 Sep 2026 08:17:16 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI İBB Başkan Vekili Nuri Aslan İSKİ Yatırım ve Proje Tanıtım Töreni'nde konuşuyor</description>
-    </item>
-    <item>
-      <title>Halk TV: PİYASALARDA BÜYÜK PANİK! Borsa sert çakıldı, kayıp yüzde 4’ü aştı! İbrahim Kahveci'den kritik uyarı!</title>
-      <link>https://www.youtube.com/watch?v=mt8VKoYSDUM</link>
-      <guid isPermaLink="false">mt8VKoYSDUM</guid>
-      <pubDate>Wed, 16 Sep 2026 08:15:38 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: PİYASALARDA BÜYÜK PANİK! Borsa sert çakıldı, kayıp yüzde 4’ü aştı! İbrahim Kahveci'den kritik uyarı!</description>
     </item>
   </channel>
 </rss>
