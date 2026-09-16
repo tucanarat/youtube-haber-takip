@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 19:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 19:25:27 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: İBB DAVASINDA DİKKAT ÇEKEN SÖZLER! “Örgüt olsa kalır mıydım?” sözleri damga vurdu!</title>
+      <link>https://www.youtube.com/watch?v=syLfHC9QFSk</link>
+      <guid isPermaLink="false">syLfHC9QFSk</guid>
+      <pubDate>Wed, 16 Sep 2026 19:20:20 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İBB DAVASINDA DİKKAT ÇEKEN SÖZLER! “Örgüt olsa kalır mıydım?” sözleri damga vurdu!</description>
+    </item>
     <item>
       <title>Halk TV: Selçuk Türkoğlu'ndan Mehmet Şimşek'e tepki: Avrupa kıyasını maaşlarda da yapsana!</title>
       <link>https://www.youtube.com/shorts/sOLC0EE_8nI</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">2hK2GMJ4E3M</guid>
       <pubDate>Wed, 16 Sep 2026 16:00:14 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Saray Dakikada 71 Bin Harcıyor! Emekli Yokluktan Ağlıyor! Özlem Gürses Canlı Yayında Hesapladı</description>
-    </item>
-    <item>
-      <title>Halk TV: PANİK BÜYÜYOR! Katılımevim ve Birevim müşterileri paralarını nasıl geri alacak? Oğuz Demir anlattı!</title>
-      <link>https://www.youtube.com/watch?v=DRtAj6X6BLo</link>
-      <guid isPermaLink="false">DRtAj6X6BLo</guid>
-      <pubDate>Wed, 16 Sep 2026 15:45:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: PANİK BÜYÜYOR! Katılımevim ve Birevim müşterileri paralarını nasıl geri alacak? Oğuz Demir anlattı!</description>
     </item>
   </channel>
 </rss>
