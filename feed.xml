@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 13:50:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 13:55:29 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: CHP Sözcüsü Müslim Sarı MYK gündemiyle ilgili Basın Toplantısı yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=GyblogGJTMA</link>
+      <guid isPermaLink="false">GyblogGJTMA</guid>
+      <pubDate>Wed, 16 Sep 2026 13:49:15 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: CHP Sözcüsü Müslim Sarı MYK gündemiyle ilgili Basın Toplantısı yapıyor #Canlı</description>
+    </item>
+    <item>
+      <title>Halk TV: SON DAKİKA! Nasuh Mahruki hakkında tahliye kararı verildi! İşte mahkemeye damga vuran sözleri!</title>
+      <link>https://www.youtube.com/watch?v=Zi0nRMKB5RM</link>
+      <guid isPermaLink="false">Zi0nRMKB5RM</guid>
+      <pubDate>Wed, 16 Sep 2026 13:45:16 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! Nasuh Mahruki hakkında tahliye kararı verildi! İşte mahkemeye damga vuran sözleri!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Husiler Arabistan'ı Vurdu Mekke İttifakı Harekete Geçti! Hakan Fidan'dan Husilere Tehdit!</title>
       <link>https://www.youtube.com/watch?v=sdICl8vC4Fw</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">lFVdxt_eUko</guid>
       <pubDate>Wed, 16 Sep 2026 11:33:50 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Geçim şartları düzelecek mi? 2027 ekonomisi için sokaktaki yurttaş ne bekliyor?</description>
-    </item>
-    <item>
-      <title>Halk TV: İMAMOĞLU KÜRSÜDE YER YERİNDEN OYNATTI! O isme sordukları salona buz kestirdi! Gamze Altunay anlattı!</title>
-      <link>https://www.youtube.com/watch?v=q9O8UNPI2FI</link>
-      <guid isPermaLink="false">q9O8UNPI2FI</guid>
-      <pubDate>Wed, 16 Sep 2026 11:30:36 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İMAMOĞLU KÜRSÜDE YER YERİNDEN OYNATTI! O isme sordukları salona buz kestirdi! Gamze Altunay anlattı!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Mansur Yavaş'ı Televizyonda İzleyecek Birini Görevlendirmiş! Devlet Bahçeli'nin Şok Röportajı!</title>
-      <link>https://www.youtube.com/watch?v=MBU8Jm4ETg4</link>
-      <guid isPermaLink="false">MBU8Jm4ETg4</guid>
-      <pubDate>Wed, 16 Sep 2026 11:30:36 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Mansur Yavaş'ı Televizyonda İzleyecek Birini Görevlendirmiş! Devlet Bahçeli'nin Şok Röportajı!</description>
     </item>
   </channel>
 </rss>
