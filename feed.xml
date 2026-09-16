@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 11:15:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 11:20:53 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Fatih Erbakan, Kahramankazan İlçe Başkanlığı'nın açılışında konuşuyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=tTaBOVjTudk</link>
+      <guid isPermaLink="false">tTaBOVjTudk</guid>
+      <pubDate>Wed, 16 Sep 2026 11:19:45 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Fatih Erbakan, Kahramankazan İlçe Başkanlığı'nın açılışında konuşuyor #Canlı</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: YENİ Parti İzmir Milletvekili Ümit Özlale, Parti Genel Merkezi’nde basın açıklaması yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=JSq2zZk9vbA</link>
+      <guid isPermaLink="false">JSq2zZk9vbA</guid>
+      <pubDate>Wed, 16 Sep 2026 11:16:35 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti İzmir Milletvekili Ümit Özlale, Parti Genel Merkezi’nde basın açıklaması yapıyor #Canlı</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Başkanvekilleri selamlaşmamayı tercih etti #shorts</title>
       <link>https://www.youtube.com/shorts/R22ow_8Isqs</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">bRgFMd0N_fo</guid>
       <pubDate>Wed, 16 Sep 2026 08:10:30 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Anahtar Parti Genel Başkanı Yavuz Ağıralioğlu, Zafer Partisi Genel Başkanı Ümit Özdağ'ı ziyaret etti</description>
-    </item>
-    <item>
-      <title>Halk TV: İBB Başkanı Ekrem İmamoğlu'dan YENİ Parti’ye üyelik çağrısı: Gel, üye ol, Türkiye’nin umudu ol!</title>
-      <link>https://www.youtube.com/shorts/MCPdWhmABZY</link>
-      <guid isPermaLink="false">MCPdWhmABZY</guid>
-      <pubDate>Wed, 16 Sep 2026 08:10:02 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İBB Başkanı Ekrem İmamoğlu'dan YENİ Parti’ye üyelik çağrısı: Gel, üye ol, Türkiye’nin umudu ol!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İsmail Küçükkaya ile Günaydın Türkiyem | 16 Eylül</title>
-      <link>https://www.youtube.com/watch?v=CeNc_eKQtnw</link>
-      <guid isPermaLink="false">CeNc_eKQtnw</guid>
-      <pubDate>Wed, 16 Sep 2026 08:01:01 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya ile Günaydın Türkiyem | 16 Eylül</description>
     </item>
   </channel>
 </rss>
