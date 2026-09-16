@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 22:15:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 22:20:31 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: İSKİ Yatırım ve Proje Tanıtım Töreni / İstanbul #Canlı</title>
+      <link>https://www.youtube.com/watch?v=DJmlVfJTl68</link>
+      <guid isPermaLink="false">DJmlVfJTl68</guid>
+      <pubDate>Wed, 16 Sep 2026 22:16:36 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: İSKİ Yatırım ve Proje Tanıtım Töreni / İstanbul #Canlı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Özlem Gürses ile Sözcü Ana Haber</title>
       <link>https://www.youtube.com/watch?v=qPefGblUzIg</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">oOrq-DmREUo</guid>
       <pubDate>Wed, 16 Sep 2026 18:15:23 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BAKANA SERT ÇIKTI! “Mesele Avrupa’da mazotun kaç lira olduğu değil, emekli kaç litre alabiliyor!”</description>
-    </item>
-    <item>
-      <title>Halk TV: Skandalı Deniz Yavuzyılmaz gündeme getirdi: Bakanlığın açıklamasıyla kriz daha da büyüdü!</title>
-      <link>https://www.youtube.com/watch?v=sRMeME969a8</link>
-      <guid isPermaLink="false">sRMeME969a8</guid>
-      <pubDate>Wed, 16 Sep 2026 18:15:14 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Skandalı Deniz Yavuzyılmaz gündeme getirdi: Bakanlığın açıklamasıyla kriz daha da büyüdü!</description>
     </item>
   </channel>
 </rss>
