@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 01:45:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 01:50:31 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: #CANLI YENİ Parti Sözcüsü Zeynel Emre'den flaş açıklamalar</title>
+      <link>https://www.youtube.com/watch?v=GGrYRY6ohWw</link>
+      <guid isPermaLink="false">GGrYRY6ohWw</guid>
+      <pubDate>Wed, 16 Sep 2026 01:48:02 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI YENİ Parti Sözcüsü Zeynel Emre'den flaş açıklamalar</description>
+    </item>
+    <item>
+      <title>ANKA Haber Ajansı: YENİ Parti Sözcüsü Zeynel Emre, Parti Genel Merkezi’nde basın açıklaması yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=EWqEk0Z_8a0</link>
+      <guid isPermaLink="false">EWqEk0Z_8a0</guid>
+      <pubDate>Wed, 16 Sep 2026 01:46:47 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Sözcüsü Zeynel Emre, Parti Genel Merkezi’nde basın açıklaması yapıyor #Canlı</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Yavuz Ağıralioğlu ve Ali Babacan ortak açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=hv3tcFL9N4E</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">mcnsY4dY5FE</guid>
       <pubDate>Tue, 15 Sep 2026 18:50:11 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: 'Acelede Yenilgi Kaçınılmazdır' Erol Mütercimler'den Çarpıcı Analiz! Olay Özgür Özel Sözleri</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Kurtlar Vadisi 'Kaşif Kozinoğlu' bölümünün perde arkası! Senarist Şaşmaz'ın ifadesi ortaya çıktı</title>
-      <link>https://www.youtube.com/watch?v=8IL8LKIlDG0</link>
-      <guid isPermaLink="false">8IL8LKIlDG0</guid>
-      <pubDate>Tue, 15 Sep 2026 18:30:34 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Kurtlar Vadisi 'Kaşif Kozinoğlu' bölümünün perde arkası! Senarist Şaşmaz'ın ifadesi ortaya çıktı</description>
-    </item>
-    <item>
-      <title>Halk TV: ÜSKÜDAR'DA SİYASİ KULİSLERİ KARIŞTIRACAK AÇIKLAMA! Usta’dan AKP’ye geçişle ilgili beklenmedik itiraf</title>
-      <link>https://www.youtube.com/watch?v=yv3hcUYxlpk</link>
-      <guid isPermaLink="false">yv3hcUYxlpk</guid>
-      <pubDate>Tue, 15 Sep 2026 18:30:31 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ÜSKÜDAR'DA SİYASİ KULİSLERİ KARIŞTIRACAK AÇIKLAMA! Usta’dan AKP’ye geçişle ilgili beklenmedik itiraf</description>
     </item>
   </channel>
 </rss>
