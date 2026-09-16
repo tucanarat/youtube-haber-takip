@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 20:10:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 20:15:30 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: Gazeteci Masası - İsmail Saymaz, Barış Terkoğlu, Murat Ağırel, Saygı Öztürk | 16 Eylül</title>
       <link>https://www.youtube.com/watch?v=qYv3RWzHeGM</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">pQtQakdjxj0</guid>
       <pubDate>Wed, 16 Sep 2026 20:00:36 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Murat Ağırel İmralı'daki Yeni Konutun Sırlarını İfşa Etti! Sırrı Sakık'a Canlı Yayında Sert Tepki</description>
+    </item>
+    <item>
+      <title>Halk TV: Turhan Çömez’den iktidara sansür tepkisi! “Kimin nerede konuşacağına onlar karar verecek!”</title>
+      <link>https://www.youtube.com/watch?v=SipnXtEAG84</link>
+      <guid isPermaLink="false">SipnXtEAG84</guid>
+      <pubDate>Wed, 16 Sep 2026 20:00:14 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Turhan Çömez’den iktidara sansür tepkisi! “Kimin nerede konuşacağına onlar karar verecek!”</description>
     </item>
     <item>
       <title>Halk TV: AKBELENLİLER DANIŞTAY’A DAYANDI! Kamulaştırma davasında kritik duruşma!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">3vUKKRzxEOY</guid>
       <pubDate>Wed, 16 Sep 2026 16:30:38 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Av. Ahmet Rodi Polat, "Ailem Güvende" operasyonlarının yarattığı tahribatı anlattı!</description>
-    </item>
-    <item>
-      <title>Halk TV: İBB Başkanı İmamoğlu da dosyada: 'CHP Kurultay' davası için mahkemeden 1 aylık erteleme!</title>
-      <link>https://www.youtube.com/watch?v=50yyXcmit_k</link>
-      <guid isPermaLink="false">50yyXcmit_k</guid>
-      <pubDate>Wed, 16 Sep 2026 16:30:32 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: İBB Başkanı İmamoğlu da dosyada: 'CHP Kurultay' davası için mahkemeden 1 aylık erteleme!</description>
     </item>
   </channel>
 </rss>
