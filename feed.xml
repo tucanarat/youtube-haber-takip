@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 00:10:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 00:15:35 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: TARLADA 8 LİRA, MARKETTE 24 LİRA! Gıda Fiyatları Neden Düşmüyor? AKP'ye Zehir Zemberek Sözler</title>
+      <link>https://www.youtube.com/watch?v=M026_dBslvI</link>
+      <guid isPermaLink="false">M026_dBslvI</guid>
+      <pubDate>Wed, 16 Sep 2026 00:10:19 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: TARLADA 8 LİRA, MARKETTE 24 LİRA! Gıda Fiyatları Neden Düşmüyor? AKP'ye Zehir Zemberek Sözler</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: 43 Milyonluk Düğünde Sahte Altın Şoku! Murat Ağırel Fenomenlerin Para Aklama Oyununu İfşa Etti</title>
       <link>https://www.youtube.com/watch?v=pHjF9hyxe3Q</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">O7qutoBRojw</guid>
       <pubDate>Tue, 15 Sep 2026 18:15:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Kaşif Kozinoğlu soruşturmasında yeni ayrıntılar! 2 acil tıp teknisyeninin ifadeleri ortaya çıktı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: YENİ Parti'ye Gönderilen Tebligat Sözcü Tv'de! İsmail Saymaz Bilinmeyenleri Anlattı! AYM'den Uyarı</title>
-      <link>https://www.youtube.com/watch?v=YcwT65_u3AQ</link>
-      <guid isPermaLink="false">YcwT65_u3AQ</guid>
-      <pubDate>Tue, 15 Sep 2026 18:10:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: YENİ Parti'ye Gönderilen Tebligat Sözcü Tv'de! İsmail Saymaz Bilinmeyenleri Anlattı! AYM'den Uyarı</description>
     </item>
   </channel>
 </rss>
