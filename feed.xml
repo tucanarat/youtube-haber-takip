@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 18:11:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 18:15:30 +0000</lastBuildDate>
     <item>
       <title>Halk TV: Seçim için 'start' verilmiş durumda: AKP'nin yeni dönem planında bakın neler yer alıyor!</title>
       <link>https://www.youtube.com/watch?v=kt-pNcnRugI</link>
       <guid isPermaLink="false">kt-pNcnRugI</guid>
       <pubDate>Wed, 16 Sep 2026 18:00:36 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Seçim için 'start' verilmiş durumda: AKP'nin yeni dönem planında bakın neler yer alıyor!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: YENİ Parti'den Yargıtay'a AYM Resti! Özgür Özel'den Gündem Olacak Çıkış! İsmail Saymaz Anlattı</title>
+      <link>https://www.youtube.com/watch?v=C6o3QBRU6dM</link>
+      <guid isPermaLink="false">C6o3QBRU6dM</guid>
+      <pubDate>Wed, 16 Sep 2026 18:00:15 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: YENİ Parti'den Yargıtay'a AYM Resti! Özgür Özel'den Gündem Olacak Çıkış! İsmail Saymaz Anlattı</description>
     </item>
     <item>
       <title>Tele2 Haber: "571 bin takipçim olması suç mu?" Nasuh Mahruki hakkında tahliye kararı!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">dvwmDjR4RZ4</guid>
       <pubDate>Wed, 16 Sep 2026 14:56:17 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Damla Doğan Tuncel ile 1 Saat | 16 Eylül</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Bu mahkemeden adalet çıkar mı? YENİ Parti milletvekili Turan taşkın Özer yayınımızda yorumladı</title>
-      <link>https://www.youtube.com/shorts/YDNd6d-3exg</link>
-      <guid isPermaLink="false">YDNd6d-3exg</guid>
-      <pubDate>Wed, 16 Sep 2026 14:51:38 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Bu mahkemeden adalet çıkar mı? YENİ Parti milletvekili Turan taşkın Özer yayınımızda yorumladı</description>
     </item>
   </channel>
 </rss>
