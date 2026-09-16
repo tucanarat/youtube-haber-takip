@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 12:15:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 12:20:37 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: TBMM basın koridorunda karşılaşan CHP ve YENİ Parti grup başkanvekilleri selamlaşmamayı tercih etti.</title>
       <link>https://www.youtube.com/shorts/bWGCk3J_z1o</link>
@@ -41,6 +41,13 @@
       <guid isPermaLink="false">AMnCfvrtves</guid>
       <pubDate>Wed, 16 Sep 2026 12:01:45 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti İzmir Milletvekili Ümit Özlale, Parti Genel Merkezi’nde basın açıklaması yapıyor</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: ERDOĞAN "YAKLAŞAN SEÇİM" DEDİ! AKP Düğmeye Bastı! Ankara'da Erken Seçim Hareketliliği</title>
+      <link>https://www.youtube.com/watch?v=JpBsZ7hIOwU</link>
+      <guid isPermaLink="false">JpBsZ7hIOwU</guid>
+      <pubDate>Wed, 16 Sep 2026 12:00:38 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: ERDOĞAN "YAKLAŞAN SEÇİM" DEDİ! AKP Düğmeye Bastı! Ankara'da Erken Seçim Hareketliliği</description>
     </item>
     <item>
       <title>Halk TV: AKP KENDİNİ BÖYLE İHBAR ETTİ! Özgür Çelik öyle bir planı ifşaladı ki! Sözler meydana buz kestirdi!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">fHDKCpQD5ac</guid>
       <pubDate>Wed, 16 Sep 2026 09:51:39 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Mahmut Tanal’dan Akbelen’de sert sözler: "AKP annelerimizi pankart taşımak zorunda bıraktı!"</description>
-    </item>
-    <item>
-      <title>Halk TV: 'SÜREÇ'TE DANANIN KUYRUĞU KOPUYOR! Kritik aşama için gözler önümüzdeki haftada! Ankara yangın yeri!</title>
-      <link>https://www.youtube.com/watch?v=uYGhyaEvxRU</link>
-      <guid isPermaLink="false">uYGhyaEvxRU</guid>
-      <pubDate>Wed, 16 Sep 2026 09:45:18 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: 'SÜREÇ'TE DANANIN KUYRUĞU KOPUYOR! Kritik aşama için gözler önümüzdeki haftada! Ankara yangın yeri!</description>
     </item>
   </channel>
 </rss>
