@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 04:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 04:25:25 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: İbrahim Kaboğlu, İstanbul Barosu seçimleri öncesi açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=wCEVK5OQht0</link>
+      <guid isPermaLink="false">wCEVK5OQht0</guid>
+      <pubDate>Wed, 16 Sep 2026 04:13:03 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: İbrahim Kaboğlu, İstanbul Barosu seçimleri öncesi açıklama yapıyor #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: Gökhan Kayış ile Günaydın Türkiye (16 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=Am3DAR1WpS0</link>
@@ -120,11 +127,11 @@
       <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya ile Günaydın Türkiyem</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: Merve Ekinci ile Uyanma Vakti</title>
+      <title>SÖZCÜ TV: #CANLI Merve Ekinci ile Uyanma Vakti</title>
       <link>https://www.youtube.com/watch?v=aHCtXUmfRnQ</link>
       <guid isPermaLink="false">aHCtXUmfRnQ</guid>
       <pubDate>Tue, 15 Sep 2026 22:43:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Merve Ekinci ile Uyanma Vakti</description>
+      <description>SÖZCÜ TV kanalından yeni video: #CANLI Merve Ekinci ile Uyanma Vakti</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: İBB Başkan Vekili Nuri Aslan, Silivri'de Ayçiçeği Hasat Etkinliğinde konuşuyor #Canlı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">aqzYqquv394</guid>
       <pubDate>Tue, 15 Sep 2026 19:10:12 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ADALAR’DA SEÇİM KRİZİ! “İçe sindirmede bir sorun varsa orada bir meşruiyet sorunu vardır!”</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Kozmik Oda soruşturması da görür müyüz? Murat Taylan Bülent Arınç'ı hatırlattı!</title>
-      <link>https://www.youtube.com/watch?v=dsfguc5T6jw</link>
-      <guid isPermaLink="false">dsfguc5T6jw</guid>
-      <pubDate>Tue, 15 Sep 2026 19:00:25 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Kozmik Oda soruşturması da görür müyüz? Murat Taylan Bülent Arınç'ı hatırlattı!</description>
     </item>
   </channel>
 </rss>
