@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 15:25:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 15:30:48 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Prof. Dr. Korkut Kanadoğlu, İstanbul Barosu Başkanlığı adaylığını açıklıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=jZ--9v0r3Fw</link>
+      <guid isPermaLink="false">jZ--9v0r3Fw</guid>
+      <pubDate>Wed, 16 Sep 2026 15:25:36 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Prof. Dr. Korkut Kanadoğlu, İstanbul Barosu Başkanlığı adaylığını açıklıyor #Canlı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Yeni Parti Kapanacak mı? Yunus Emre'den Çarpıcı Bahçeli, Erdoğan ve Mansur Yavaş Açıklaması</title>
       <link>https://www.youtube.com/watch?v=ieqZm7TyLtc</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Xw2xlmQQPww</guid>
       <pubDate>Wed, 16 Sep 2026 13:00:02 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Partili Umut Akdoğan: Enflasyonu tek haneye indirecektiniz, mazotu üç haneli yaptınız!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: İBB Davası'nda 82. gün! Silivri'de neler oluyor? İrem Karataş anlattı...</title>
-      <link>https://www.youtube.com/watch?v=RjtuyAleirM</link>
-      <guid isPermaLink="false">RjtuyAleirM</guid>
-      <pubDate>Wed, 16 Sep 2026 12:58:11 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: İBB Davası'nda 82. gün! Silivri'de neler oluyor? İrem Karataş anlattı...</description>
     </item>
   </channel>
 </rss>
