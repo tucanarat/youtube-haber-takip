@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 17:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 17:40:33 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: Sıra Kurtlar Vadisi'ne geldi! Murat Taylan Pusu'nun hikayesini anlatıyor...</title>
       <link>https://www.youtube.com/watch?v=miywhDAzO4s</link>
@@ -90,6 +90,13 @@
       <guid isPermaLink="false">LUhFCNVhui8</guid>
       <pubDate>Wed, 16 Sep 2026 16:57:39 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses ile Sözcü Ana Haber | 16 Eylül</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: "571 bin takipçim olması suç mu?" Nasuh Mahruki hakkında tahliye kararı!</title>
+      <link>https://www.youtube.com/watch?v=sWbyi-6SgZk</link>
+      <guid isPermaLink="false">sWbyi-6SgZk</guid>
+      <pubDate>Wed, 16 Sep 2026 16:52:56 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: "571 bin takipçim olması suç mu?" Nasuh Mahruki hakkında tahliye kararı!</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | Sinem Fıstıkoğlu ile Sansürsüz</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">MlB6DMlZxPk</guid>
       <pubDate>Wed, 16 Sep 2026 14:25:04 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: DEPREM DAVALARINDA VİCDANLARI YARALAYAN KARARLAR | Zeynel Lüle ile Ankara Günlüğü | Konuk: Asu Kaya</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Trump'ın Ordusunun Füzeleri Bitti F-35'leri Kullanılamıyor! ABD Ordusunda Çin Paniği Başladı!</title>
-      <link>https://www.youtube.com/watch?v=dVNIwu5eqR8</link>
-      <guid isPermaLink="false">dVNIwu5eqR8</guid>
-      <pubDate>Wed, 16 Sep 2026 14:20:29 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Trump'ın Ordusunun Füzeleri Bitti F-35'leri Kullanılamıyor! ABD Ordusunda Çin Paniği Başladı!</description>
     </item>
   </channel>
 </rss>
