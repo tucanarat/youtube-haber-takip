@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 10:35:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 10:41:00 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | YENİ Parti Grup Başkanvekili Ali Mahir Başarır, TBMM'de Açıklama Yapıyor!</title>
+      <link>https://www.youtube.com/watch?v=Uidifdkft8k</link>
+      <guid isPermaLink="false">Uidifdkft8k</guid>
+      <pubDate>Wed, 16 Sep 2026 10:36:29 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | YENİ Parti Grup Başkanvekili Ali Mahir Başarır, TBMM'de Açıklama Yapıyor!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #CANLI YENİ Parti Grup Başkanvekili Ali Mahir Başarır, TBMM'de açıklama yapıyor</title>
+      <link>https://www.youtube.com/watch?v=oX8NcixwtJY</link>
+      <guid isPermaLink="false">oX8NcixwtJY</guid>
+      <pubDate>Wed, 16 Sep 2026 10:34:19 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti Grup Başkanvekili Ali Mahir Başarır, TBMM'de açıklama yapıyor</description>
+    </item>
     <item>
       <title>Halk TV: KIZILCA KIYAMET KOPACAK! İran destekli Husiler Mekke'ye saldırı düzenledi! Suudiler perişan oldu!</title>
       <link>https://www.youtube.com/watch?v=nDQOBKAdDu4</link>
@@ -83,6 +97,13 @@
       <guid isPermaLink="false">WxE0c8RFu2E</guid>
       <pubDate>Wed, 16 Sep 2026 10:00:57 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Ebru Baki ile Para Siyaset | İbrahim Kahveci - Sezin Öney (16 Eylül 2026)</description>
+    </item>
+    <item>
+      <title>Halk TV: MEHMET ŞİMŞEK ARTIK KAÇAMAZ! İmamoğlu operasyonunun faturası korkunç! İbrahim Kahveci açıkladı!</title>
+      <link>https://www.youtube.com/watch?v=1WEppwvR2Ow</link>
+      <guid isPermaLink="false">1WEppwvR2Ow</guid>
+      <pubDate>Wed, 16 Sep 2026 10:00:56 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: MEHMET ŞİMŞEK ARTIK KAÇAMAZ! İmamoğlu operasyonunun faturası korkunç! İbrahim Kahveci açıkladı!</description>
     </item>
     <item>
       <title>Halk TV: 'Yaklaşan seçimler' çıkışı kulisleri hareketlendirmişti! Meğerse Erdoğan'ın sözleri oraya mesajmış!</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">WphnvuQQyJE</guid>
       <pubDate>Wed, 16 Sep 2026 07:50:44 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Politikada analiz-tutarlılık - Öztin Akgüç</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Türkiye Ortadoğuda ne yapmalı? - Ahmet Süha Umar</title>
-      <link>https://www.youtube.com/watch?v=bxgeso4m2N8</link>
-      <guid isPermaLink="false">bxgeso4m2N8</guid>
-      <pubDate>Wed, 16 Sep 2026 07:50:33 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Türkiye Ortadoğuda ne yapmalı? - Ahmet Süha Umar</description>
-    </item>
-    <item>
-      <title>Halk TV: ROJİN KABAİŞ CİNAYETİNDE BOMBA DELİLLER! Öldürüp cansız bedeni o eve mi götürdüler? Kanınız donacak!</title>
-      <link>https://www.youtube.com/watch?v=vfIJ3sBgeUc</link>
-      <guid isPermaLink="false">vfIJ3sBgeUc</guid>
-      <pubDate>Wed, 16 Sep 2026 07:45:37 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: ROJİN KABAİŞ CİNAYETİNDE BOMBA DELİLLER! Öldürüp cansız bedeni o eve mi götürdüler? Kanınız donacak!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Türk sinemasının ustası Tarık Akan mezarı başında anıldı... Kardeşi gözyaşlarını tutamadı</title>
-      <link>https://www.youtube.com/watch?v=N1LiAePxYjc</link>
-      <guid isPermaLink="false">N1LiAePxYjc</guid>
-      <pubDate>Wed, 16 Sep 2026 07:37:48 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Türk sinemasının ustası Tarık Akan mezarı başında anıldı... Kardeşi gözyaşlarını tutamadı</description>
     </item>
   </channel>
 </rss>
