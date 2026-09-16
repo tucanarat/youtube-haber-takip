@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 17:25:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 17:30:46 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Sıra Kurtlar Vadisi'ne geldi! Murat Taylan Pusu'nun hikayesini anlatıyor...</title>
+      <link>https://www.youtube.com/watch?v=miywhDAzO4s</link>
+      <guid isPermaLink="false">miywhDAzO4s</guid>
+      <pubDate>Wed, 16 Sep 2026 17:30:11 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Sıra Kurtlar Vadisi'ne geldi! Murat Taylan Pusu'nun hikayesini anlatıyor...</description>
+    </item>
     <item>
       <title>Halk TV: İLK KEZ HALK TV'DE GÜNDEME GELDİ: Rojin Kabaiş ile ilgili sarsıcı görüntüler dosyada!</title>
       <link>https://www.youtube.com/watch?v=DlN6b9LbK6o</link>
@@ -69,6 +76,13 @@
       <guid isPermaLink="false">rFNDbqx8O64</guid>
       <pubDate>Wed, 16 Sep 2026 16:51:08 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | Sinem Fıstıkoğlu ile Sansürsüz</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Murat Taylan: Yeni Parti ile Yenilik Partisi'ni karıştıracak kaç kişi çıkar memlekette?</title>
+      <link>https://www.youtube.com/watch?v=mHQ4PrT_rZ8</link>
+      <guid isPermaLink="false">mHQ4PrT_rZ8</guid>
+      <pubDate>Wed, 16 Sep 2026 16:46:33 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Murat Taylan: Yeni Parti ile Yenilik Partisi'ni karıştıracak kaç kişi çıkar memlekette?</description>
     </item>
     <item>
       <title>Halk TV: KAVGA ÖLÜMLE BİTTİ! Melikgazi’de bıçaklanan Onur Uyumaz hastanede kurtarılamadı, şüpheli tutuklandı!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">bRH1G9wd0HI</guid>
       <pubDate>Wed, 16 Sep 2026 14:00:36 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Lavrov'dan Avrupalı Liderleri Titretecek Tehdit! Putin Düğmeye Bastı! "Savaş Çok Kısa Sürer!"</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: 'Özlem Çerçioğlu'nun eşine TOGG kıyağı' haberine erişim engeli! Faruk Bildirici yorumladı...</title>
-      <link>https://www.youtube.com/watch?v=u5Vei8uC204</link>
-      <guid isPermaLink="false">u5Vei8uC204</guid>
-      <pubDate>Wed, 16 Sep 2026 14:00:14 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: 'Özlem Çerçioğlu'nun eşine TOGG kıyağı' haberine erişim engeli! Faruk Bildirici yorumladı...</description>
-    </item>
-    <item>
-      <title>Halk TV: AĞABEYİ BİLE DAYANAMADI! Foçalılar AKP'ye topuklayan Saniye Fıçı'yı yerin dibine soktu! Şok anlar!</title>
-      <link>https://www.youtube.com/watch?v=OCulDYRdYc0</link>
-      <guid isPermaLink="false">OCulDYRdYc0</guid>
-      <pubDate>Wed, 16 Sep 2026 14:00:05 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: AĞABEYİ BİLE DAYANAMADI! Foçalılar AKP'ye topuklayan Saniye Fıçı'yı yerin dibine soktu! Şok anlar!</description>
     </item>
   </channel>
 </rss>
