@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 20:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 20:05:24 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Gazeteci Masası - İsmail Saymaz, Barış Terkoğlu, Murat Ağırel, Saygı Öztürk | 16 Eylül</title>
+      <link>https://www.youtube.com/watch?v=qYv3RWzHeGM</link>
+      <guid isPermaLink="false">qYv3RWzHeGM</guid>
+      <pubDate>Wed, 16 Sep 2026 20:02:39 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Gazeteci Masası - İsmail Saymaz, Barış Terkoğlu, Murat Ağırel, Saygı Öztürk | 16 Eylül</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Murat Ağırel İmralı'daki Yeni Konutun Sırlarını İfşa Etti! Sırrı Sakık'a Canlı Yayında Sert Tepki</title>
+      <link>https://www.youtube.com/watch?v=pQtQakdjxj0</link>
+      <guid isPermaLink="false">pQtQakdjxj0</guid>
+      <pubDate>Wed, 16 Sep 2026 20:00:36 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Murat Ağırel İmralı'daki Yeni Konutun Sırlarını İfşa Etti! Sırrı Sakık'a Canlı Yayında Sert Tepki</description>
+    </item>
     <item>
       <title>Halk TV: AKBELENLİLER DANIŞTAY’A DAYANDI! Kamulaştırma davasında kritik duruşma!</title>
       <link>https://www.youtube.com/watch?v=7pIqvJaA6vs</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">50yyXcmit_k</guid>
       <pubDate>Wed, 16 Sep 2026 16:30:32 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İBB Başkanı İmamoğlu da dosyada: 'CHP Kurultay' davası için mahkemeden 1 aylık erteleme!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Şirin Payzın ve İrfan Değirmenci'nin X hesaplarına engel! Gazetecilere akıl almaz suçlamalar!</title>
-      <link>https://www.youtube.com/watch?v=WW6cjqPQnyc</link>
-      <guid isPermaLink="false">WW6cjqPQnyc</guid>
-      <pubDate>Wed, 16 Sep 2026 16:30:19 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Şirin Payzın ve İrfan Değirmenci'nin X hesaplarına engel! Gazetecilere akıl almaz suçlamalar!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Mehmet Şimşek Enflasyonun Faturasını Savaşlara Kesti! Özlem Gürses'ten Gündem Olacak Çıkış</title>
-      <link>https://www.youtube.com/watch?v=5a2twNegwpw</link>
-      <guid isPermaLink="false">5a2twNegwpw</guid>
-      <pubDate>Wed, 16 Sep 2026 16:20:11 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Mehmet Şimşek Enflasyonun Faturasını Savaşlara Kesti! Özlem Gürses'ten Gündem Olacak Çıkış</description>
     </item>
   </channel>
 </rss>
