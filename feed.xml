@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 16:55:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 17:00:12 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Ece Üner ile Halk Ana Haber | #kayıp</title>
+      <link>https://www.youtube.com/watch?v=qI8MBJTLtd4</link>
+      <guid isPermaLink="false">qI8MBJTLtd4</guid>
+      <pubDate>Wed, 16 Sep 2026 16:57:47 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Ece Üner ile Halk Ana Haber | #kayıp</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Özlem Gürses ile Sözcü Ana Haber | 16 Eylül</title>
+      <link>https://www.youtube.com/watch?v=LUhFCNVhui8</link>
+      <guid isPermaLink="false">LUhFCNVhui8</guid>
+      <pubDate>Wed, 16 Sep 2026 16:57:39 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses ile Sözcü Ana Haber | 16 Eylül</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | Sinem Fıstıkoğlu ile Sansürsüz</title>
       <link>https://www.youtube.com/watch?v=rFNDbqx8O64</link>
@@ -239,13 +253,6 @@
       <description>Halk TV kanalından yeni video: CHP'nin Butlan Sözcüsü Müslim Sarı Açıklama Yaptı!</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | Ece Üner ile Halk Ana Haber | #kayıp</title>
-      <link>https://www.youtube.com/watch?v=qI8MBJTLtd4</link>
-      <guid isPermaLink="false">qI8MBJTLtd4</guid>
-      <pubDate>Wed, 16 Sep 2026 14:34:19 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Ece Üner ile Halk Ana Haber | #kayıp</description>
-    </item>
-    <item>
       <title>Tele2 Haber: "AİLEM GÜVENDE" operasyonları başlatıldı! Asu Kaya'dan iktidara kritik hatırlatma!</title>
       <link>https://www.youtube.com/watch?v=tPzMwTl_wd8</link>
       <guid isPermaLink="false">tPzMwTl_wd8</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">yILHhIJ_BSI</guid>
       <pubDate>Wed, 16 Sep 2026 13:35:08 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: 15 YIL ÖNCEKİ HABERLER TUTUKLAMA GEREKÇESİ Zeynel Lüle ve Faruk Bildirici ile Medyamorfoz (16.09.26)</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: YENİ Partili Akdoğan akaryakıt zammını  şişelerle anlattı</title>
-      <link>https://www.youtube.com/shorts/wOaXEYAQsdE</link>
-      <guid isPermaLink="false">wOaXEYAQsdE</guid>
-      <pubDate>Wed, 16 Sep 2026 13:30:24 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: YENİ Partili Akdoğan akaryakıt zammını  şişelerle anlattı</description>
     </item>
   </channel>
 </rss>
