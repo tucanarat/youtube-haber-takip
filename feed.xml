@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 22:05:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 22:10:34 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Pınar Erbaş ile Gecenin Sözü | 16 Eylül</title>
+      <link>https://www.youtube.com/watch?v=DbqHmeU3-PE</link>
+      <guid isPermaLink="false">DbqHmeU3-PE</guid>
+      <pubDate>Wed, 16 Sep 2026 22:05:45 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Pınar Erbaş ile Gecenin Sözü | 16 Eylül</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Canlı Yayında Tansiyon Yükseldi! İsmail Saymaz ve Serap Belovacıklı Çözüm Süreci Tartışması</title>
       <link>https://www.youtube.com/watch?v=J3Yo11zl7hg</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">qqk-CEBT4-w</guid>
       <pubDate>Wed, 16 Sep 2026 17:42:56 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Ülkü Çoban ile Manşet Ötesi 17.09.26</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: MURAT TAYLAN HERKESİN AKLINDAN GEÇEN SORUYU SORDU "KARIŞTIRACAK KAÇ KİŞİ ÇIKAR MEMLEKETTE?"</title>
-      <link>https://www.youtube.com/shorts/-D0bc2F8Ez8</link>
-      <guid isPermaLink="false">-D0bc2F8Ez8</guid>
-      <pubDate>Wed, 16 Sep 2026 17:41:38 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: MURAT TAYLAN HERKESİN AKLINDAN GEÇEN SORUYU SORDU "KARIŞTIRACAK KAÇ KİŞİ ÇIKAR MEMLEKETTE?"</description>
     </item>
   </channel>
 </rss>
