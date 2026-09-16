@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 17:50:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 17:55:26 +0000</lastBuildDate>
     <item>
       <title>Halk TV: YENİ Parti İstanbul İl Başkanı Özgür Çelik'ten çok çarpıcı sözler: "Savcılar neyi bekliyor?"</title>
       <link>https://www.youtube.com/watch?v=d0k-mKlX7EY</link>
@@ -34,6 +34,13 @@
       <guid isPermaLink="false">-D0bc2F8Ez8</guid>
       <pubDate>Wed, 16 Sep 2026 17:41:38 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: MURAT TAYLAN HERKESİN AKLINDAN GEÇEN SORUYU SORDU "KARIŞTIRACAK KAÇ KİŞİ ÇIKAR MEMLEKETTE?"</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: YENİ Parti'de İsim Krizi Büyüyor! Özgür Özel Düğmeye Bastı! İsmail Saymaz Çarpıcı Planı Anlattı</title>
+      <link>https://www.youtube.com/watch?v=1qTyQsZWWZY</link>
+      <guid isPermaLink="false">1qTyQsZWWZY</guid>
+      <pubDate>Wed, 16 Sep 2026 17:40:04 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: YENİ Parti'de İsim Krizi Büyüyor! Özgür Özel Düğmeye Bastı! İsmail Saymaz Çarpıcı Planı Anlattı</description>
     </item>
     <item>
       <title>Tele2 Haber: Sıra Kurtlar Vadisi'ne geldi! Murat Taylan Pusu'nun hikayesini anlatıyor...</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">_q_zvCWd3Pg</guid>
       <pubDate>Wed, 16 Sep 2026 14:45:32 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Diş hekimini evlilik vaadi ile dolandırdı: Abuzer Gültekin hakkında yakalama kararı çıkarıldı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Dernekler Neden Kapatılıyor? LGBTİ+ Operasyonlarının Perde Arkası! Kıvılcım Kıran Uyardı</title>
-      <link>https://www.youtube.com/watch?v=6CwnG8Z3oq0</link>
-      <guid isPermaLink="false">6CwnG8Z3oq0</guid>
-      <pubDate>Wed, 16 Sep 2026 14:40:34 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Dernekler Neden Kapatılıyor? LGBTİ+ Operasyonlarının Perde Arkası! Kıvılcım Kıran Uyardı</description>
     </item>
   </channel>
 </rss>
