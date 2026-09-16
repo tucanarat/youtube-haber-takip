@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 18:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 19:00:54 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Öcalan'a villa mı yapıldı? Hem Bahçeli'den hem DEM Parti'den açıklama geldi!</title>
+      <link>https://www.youtube.com/watch?v=zmYffhgtmBE</link>
+      <guid isPermaLink="false">zmYffhgtmBE</guid>
+      <pubDate>Wed, 16 Sep 2026 19:00:06 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Öcalan'a villa mı yapıldı? Hem Bahçeli'den hem DEM Parti'den açıklama geldi!</description>
+    </item>
     <item>
       <title>Halk TV: Piyasalarda panik havası hakim: Pusula ile başlayan sarsıntı borsada sert satışlara neden oldu!</title>
       <link>https://www.youtube.com/watch?v=uO_Hroqw_xA</link>
@@ -216,13 +223,6 @@
       <guid isPermaLink="false">LUhFCNVhui8</guid>
       <pubDate>Wed, 16 Sep 2026 16:57:39 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses ile Sözcü Ana Haber | 16 Eylül</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Öcalan'a villa mı yapıldı? Hem Bahçeli'den hem DEM Parti'den açıklama geldi!</title>
-      <link>https://www.youtube.com/watch?v=zmYffhgtmBE</link>
-      <guid isPermaLink="false">zmYffhgtmBE</guid>
-      <pubDate>Wed, 16 Sep 2026 16:54:35 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Öcalan'a villa mı yapıldı? Hem Bahçeli'den hem DEM Parti'den açıklama geldi!</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | Sinem Fıstıkoğlu ile Sansürsüz</title>
