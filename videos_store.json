@@ -48833,7 +48833,7 @@
   },
   "RFyKnY0hT2E": {
     "id": "RFyKnY0hT2E",
-    "title": "Can Coşkun ile Gündem Masası",
+    "title": "#CANLI Can Coşkun ile Gündem Masası",
     "link": "https://www.youtube.com/watch?v=RFyKnY0hT2E",
     "published": "2026-09-15T22:44:17+00:00",
     "published_ts": 1789512257,
@@ -48843,8 +48843,8 @@
     "id": "CeNc_eKQtnw",
     "title": "İsmail Küçükkaya ile Günaydın Türkiyem | 16 Eylül",
     "link": "https://www.youtube.com/watch?v=CeNc_eKQtnw",
-    "published": "2026-09-15T22:43:53+00:00",
-    "published_ts": 1789512233,
+    "published": "2026-09-16T08:01:01+00:00",
+    "published_ts": 1789545661,
     "channel_name": "SÖZCÜ TV"
   },
   "aHCtXUmfRnQ": {
@@ -49222,5 +49222,37 @@
     "published": "2026-09-16T07:54:52+00:00",
     "published_ts": 1789545292,
     "channel_name": "Tele2 Haber"
+  },
+  "tBaUh8wR2XI": {
+    "id": "tBaUh8wR2XI",
+    "title": "Ekrem İmamoğlu'ndan Erdoğan - Yavaş Zirvesine Bomba Yorum! İsmail Küçükkaya Kulisleri Anlattı",
+    "link": "https://www.youtube.com/watch?v=tBaUh8wR2XI",
+    "published": "2026-09-16T08:00:23+00:00",
+    "published_ts": 1789545623,
+    "channel_name": "SÖZCÜ TV"
+  },
+  "_rUbw8_oX60": {
+    "id": "_rUbw8_oX60",
+    "title": "Erol Mütercimler Kaşif Kozinoğlu Gerçeğini İlk Kez Anlattı! FETÖ, CIA ve Oda TV Kumpası...",
+    "link": "https://www.youtube.com/watch?v=_rUbw8_oX60",
+    "published": "2026-09-16T05:18:51+00:00",
+    "published_ts": 1789535931,
+    "channel_name": "SÖZCÜ TV"
+  },
+  "5SKDr2eMnEw": {
+    "id": "5SKDr2eMnEw",
+    "title": "SON DAKİKA! MİLYONLAR BU KARARA KİLİTLENMİŞTİ! CHP'nin kurultay ceza davası yine ertelendi!",
+    "link": "https://www.youtube.com/watch?v=5SKDr2eMnEw",
+    "published": "2026-09-16T08:00:32+00:00",
+    "published_ts": 1789545632,
+    "channel_name": "Halk TV"
+  },
+  "7hvGqiU-ROM": {
+    "id": "7hvGqiU-ROM",
+    "title": "Mustafa Destici, partisinin genel merkezinde basın toplantısı düzenliyor #Canlı",
+    "link": "https://www.youtube.com/watch?v=7hvGqiU-ROM",
+    "published": "2026-09-16T07:56:29+00:00",
+    "published_ts": 1789545389,
+    "channel_name": "ANKA Haber Ajansı"
   }
 }
