@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 04:05:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 04:10:31 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Gökhan Kayış ile Günaydın Türkiye (16 Eylül 2026)</title>
+      <link>https://www.youtube.com/watch?v=Am3DAR1WpS0</link>
+      <guid isPermaLink="false">Am3DAR1WpS0</guid>
+      <pubDate>Wed, 16 Sep 2026 03:59:51 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Gökhan Kayış ile Günaydın Türkiye (16 Eylül 2026)</description>
+    </item>
     <item>
       <title>Cumhuriyet: #CANLI YENİ Parti Sözcüsü Zeynel Emre'den flaş açıklamalar</title>
       <link>https://www.youtube.com/watch?v=GGrYRY6ohWw</link>
@@ -183,6 +190,13 @@
       <description>SÖZCÜ TV kanalından yeni video: Bülent Arınç Aday mı Oluyor? Kulisler Sarsılacak! Nevzat Çiçek AKP'yi Karıştıran Düğünü Anlattı</description>
     </item>
     <item>
+      <title>Halk TV: #CANLI | Deniz Bayramoğlu ile Gün Doğarken | #halimiz</title>
+      <link>https://www.youtube.com/watch?v=-EypbOhy2Pg</link>
+      <guid isPermaLink="false">-EypbOhy2Pg</guid>
+      <pubDate>Tue, 15 Sep 2026 21:33:14 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Deniz Bayramoğlu ile Gün Doğarken | #halimiz</description>
+    </item>
+    <item>
       <title>Halk TV: KATLİAM YAPIP KAÇTILAR! Fatih'te kan donduran olay! Pencereden atladılar, kamera hepsini kaydetti!</title>
       <link>https://www.youtube.com/shorts/Lc-uCiIiYas</link>
       <guid isPermaLink="false">Lc-uCiIiYas</guid>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">dsfguc5T6jw</guid>
       <pubDate>Tue, 15 Sep 2026 19:00:25 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Kozmik Oda soruşturması da görür müyüz? Murat Taylan Bülent Arınç'ı hatırlattı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Tahsin Usta'nın sözleri sonrası Uğur Dündar'dan dikkat çeken Üsküdar çıkışı!</title>
-      <link>https://www.youtube.com/watch?v=vtbAOH0OoKU</link>
-      <guid isPermaLink="false">vtbAOH0OoKU</guid>
-      <pubDate>Tue, 15 Sep 2026 18:50:35 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Tahsin Usta'nın sözleri sonrası Uğur Dündar'dan dikkat çeken Üsküdar çıkışı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: 'Acelede Yenilgi Kaçınılmazdır' Erol Mütercimler'den Çarpıcı Analiz! Olay Özgür Özel Sözleri</title>
-      <link>https://www.youtube.com/watch?v=mcnsY4dY5FE</link>
-      <guid isPermaLink="false">mcnsY4dY5FE</guid>
-      <pubDate>Tue, 15 Sep 2026 18:50:11 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: 'Acelede Yenilgi Kaçınılmazdır' Erol Mütercimler'den Çarpıcı Analiz! Olay Özgür Özel Sözleri</description>
     </item>
   </channel>
 </rss>

@@ -48910,5 +48910,21 @@
     "published": "2026-09-16T00:30:38+00:00",
     "published_ts": 1789518638,
     "channel_name": "SÖZCÜ TV"
+  },
+  "-EypbOhy2Pg": {
+    "id": "-EypbOhy2Pg",
+    "title": "#CANLI | Deniz Bayramoğlu ile Gün Doğarken | #halimiz",
+    "link": "https://www.youtube.com/watch?v=-EypbOhy2Pg",
+    "published": "2026-09-15T21:33:14+00:00",
+    "published_ts": 1789507994,
+    "channel_name": "Halk TV"
+  },
+  "Am3DAR1WpS0": {
+    "id": "Am3DAR1WpS0",
+    "title": "Gökhan Kayış ile Günaydın Türkiye (16 Eylül 2026)",
+    "link": "https://www.youtube.com/watch?v=Am3DAR1WpS0",
+    "published": "2026-09-16T03:59:51+00:00",
+    "published_ts": 1789531191,
+    "channel_name": "Halk TV"
   }
 }
