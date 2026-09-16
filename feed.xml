@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 09:30:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 09:35:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Yavuz Ağıralioğlu, Zafer Partisi Genel Başkanı Ümit Özdağ'ı Ziyaret Etti!</title>
+      <link>https://www.youtube.com/watch?v=40jV1dy7eCg</link>
+      <guid isPermaLink="false">40jV1dy7eCg</guid>
+      <pubDate>Wed, 16 Sep 2026 09:34:52 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Yavuz Ağıralioğlu, Zafer Partisi Genel Başkanı Ümit Özdağ'ı Ziyaret Etti!</description>
+    </item>
     <item>
       <title>Halk TV: Akbelen'de mücadele sürüyor: Köylü su kaynağının geldiği son hali gösterdi!</title>
       <link>https://www.youtube.com/shorts/11zcMAAWGlI</link>
@@ -15,11 +22,11 @@
       <description>Halk TV kanalından yeni video: Akbelen'de mücadele sürüyor: Köylü su kaynağının geldiği son hali gösterdi!</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | Yavuz Ağıralioğlu, Zafer Partisi Genel Başkanı Ümit Özdağ'ı Ziyaret Etti!</title>
-      <link>https://www.youtube.com/watch?v=40jV1dy7eCg</link>
-      <guid isPermaLink="false">40jV1dy7eCg</guid>
-      <pubDate>Wed, 16 Sep 2026 09:19:11 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Yavuz Ağıralioğlu, Zafer Partisi Genel Başkanı Ümit Özdağ'ı Ziyaret Etti!</description>
+      <title>SÖZCÜ TV: BORSADA DEPREM! Yüzde 5 Üzerinde Kayıp! BİST 100 Neden Çakıldı? Fonlar Temerrüde Düştü</title>
+      <link>https://www.youtube.com/watch?v=522MyvGOjHQ</link>
+      <guid isPermaLink="false">522MyvGOjHQ</guid>
+      <pubDate>Wed, 16 Sep 2026 09:20:05 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: BORSADA DEPREM! Yüzde 5 Üzerinde Kayıp! BİST 100 Neden Çakıldı? Fonlar Temerrüde Düştü</description>
     </item>
     <item>
       <title>Halk TV: TÜRKİYE'NİN GÜNDEMİNE OTURAN OLAY! 11 aylık Büşra bebeğe ne oldu? Annenin ifadesi şok etkisi yarattı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">WEa-JmIaBGk</guid>
       <pubDate>Wed, 16 Sep 2026 06:30:29 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İstanbul-İzmir Otoyolu’nda korkutan kaza! 7 araç çarpıştı, 11 kişi yaralandı</description>
-    </item>
-    <item>
-      <title>Halk TV: MİT'TEN NEFES KESEN TAKİP! Sendikalara hizmet veren Aydo Yazılım'a operasyonda 5 kişi gözaltında!</title>
-      <link>https://www.youtube.com/watch?v=wG9BAmRy7iw</link>
-      <guid isPermaLink="false">wG9BAmRy7iw</guid>
-      <pubDate>Wed, 16 Sep 2026 06:30:16 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: MİT'TEN NEFES KESEN TAKİP! Sendikalara hizmet veren Aydo Yazılım'a operasyonda 5 kişi gözaltında!</description>
     </item>
   </channel>
 </rss>
