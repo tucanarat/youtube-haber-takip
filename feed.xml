@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 12:50:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 12:55:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Gizem Çetin ile Parantez</title>
+      <link>https://www.youtube.com/watch?v=k8YbLEqSzJc</link>
+      <guid isPermaLink="false">k8YbLEqSzJc</guid>
+      <pubDate>Wed, 16 Sep 2026 12:52:40 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Gizem Çetin ile Parantez</description>
+    </item>
+    <item>
+      <title>Halk TV: ALİ MAHİR BAŞARIR ÇILGINA DÖNDÜ! 'Erken seçim' sözleri tozu dumana kattı! Erdoğan'a olay çıkış!</title>
+      <link>https://www.youtube.com/watch?v=_e2UcNNJwts</link>
+      <guid isPermaLink="false">_e2UcNNJwts</guid>
+      <pubDate>Wed, 16 Sep 2026 12:45:31 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ALİ MAHİR BAŞARIR ÇILGINA DÖNDÜ! 'Erken seçim' sözleri tozu dumana kattı! Erdoğan'a olay çıkış!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İsmail Küçükkaya'dan Bomba Kulis! Davutoğlu ve Binali Yıldırım Karşı Karşıya! Olay Olacak Kriz</title>
       <link>https://www.youtube.com/watch?v=J1SDbkr_8oE</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">k6ngmt5RSDE</guid>
       <pubDate>Wed, 16 Sep 2026 10:20:38 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: KÜÇÜK YATIRIMCI DİKKAT! Borsada Pusula Portföy Krizi! Ünlü Ekonomistten Fon Uyarısı</description>
-    </item>
-    <item>
-      <title>Halk TV: GÖZYAŞLARININ TUTULAMADIĞI AN! Akbelen'de yaşlı kadının sözleri vicdan sızlatır! Sözün bittiği yer!</title>
-      <link>https://www.youtube.com/watch?v=nroDoqdf2RQ</link>
-      <guid isPermaLink="false">nroDoqdf2RQ</guid>
-      <pubDate>Wed, 16 Sep 2026 10:15:33 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: GÖZYAŞLARININ TUTULAMADIĞI AN! Akbelen'de yaşlı kadının sözleri vicdan sızlatır! Sözün bittiği yer!</description>
-    </item>
-    <item>
-      <title>Halk TV: Akbelen köylüleri kamulaştırma kararına karşı Ankara’da: "Topraklarımızı vermiyoruz!"</title>
-      <link>https://www.youtube.com/shorts/FO3SZizxJZE</link>
-      <guid isPermaLink="false">FO3SZizxJZE</guid>
-      <pubDate>Wed, 16 Sep 2026 10:13:11 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Akbelen köylüleri kamulaştırma kararına karşı Ankara’da: "Topraklarımızı vermiyoruz!"</description>
     </item>
   </channel>
 </rss>
