@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 21:35:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 21:40:32 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Anahtar Parti Genel Başkanı Yavuz Ağıralioğlu, Zafer Partisi Genel Başkanı Ümit Özdağ'ı ziyaret etti</title>
+      <link>https://www.youtube.com/watch?v=bRgFMd0N_fo</link>
+      <guid isPermaLink="false">bRgFMd0N_fo</guid>
+      <pubDate>Wed, 16 Sep 2026 21:33:46 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Anahtar Parti Genel Başkanı Yavuz Ağıralioğlu, Zafer Partisi Genel Başkanı Ümit Özdağ'ı ziyaret etti</description>
+    </item>
+    <item>
+      <title>Halk TV: POLİSTEN BÖYLE KAÇMAYA ÇALIŞTI!  Polisle şüpheli arasındaki kovalamaca saniye saniye kayda geçti!</title>
+      <link>https://www.youtube.com/shorts/j45hM1vIBho</link>
+      <guid isPermaLink="false">j45hM1vIBho</guid>
+      <pubDate>Wed, 16 Sep 2026 21:30:26 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: POLİSTEN BÖYLE KAÇMAYA ÇALIŞTI!  Polisle şüpheli arasındaki kovalamaca saniye saniye kayda geçti!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Motorinde Tarihi Zirve! 100 Lirayı Aştı! Pompada Büyük Şok! Tabela Değişti Vatandaş İsyanda</title>
       <link>https://www.youtube.com/watch?v=43ZEF-LeU_s</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">uYLE6fLsqEk</guid>
       <pubDate>Wed, 16 Sep 2026 17:15:06 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #SONDAKİKA Bülent Arınç hakkında suç duyurusu iddiası! Şok "FETÖ" detayı!</description>
-    </item>
-    <item>
-      <title>Halk TV: TRAFİK FELÇ OLDU! İstanbul’da akşam yoğunluğu yüzde 78’e çıktı, ana yollar durma noktasına geldi!</title>
-      <link>https://www.youtube.com/shorts/N_Z8hW4guP8</link>
-      <guid isPermaLink="false">N_Z8hW4guP8</guid>
-      <pubDate>Wed, 16 Sep 2026 17:05:25 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: TRAFİK FELÇ OLDU! İstanbul’da akşam yoğunluğu yüzde 78’e çıktı, ana yollar durma noktasına geldi!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Murat Taylan'dan LGBT+'lara operasyona tepki: Amaç ne cinsel yönelimini değiştirmek mi?</title>
-      <link>https://www.youtube.com/watch?v=ag0AfvtXx-k</link>
-      <guid isPermaLink="false">ag0AfvtXx-k</guid>
-      <pubDate>Wed, 16 Sep 2026 17:00:39 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Murat Taylan'dan LGBT+'lara operasyona tepki: Amaç ne cinsel yönelimini değiştirmek mi?</description>
     </item>
   </channel>
 </rss>
