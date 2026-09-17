@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 20:25:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:30:42 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Ankara Şehiriçi Özel Halk Otobüsçüler Esnaf Odası üyeleri, mazot zammını protesto ediyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=1HAzwSw52kc</link>
+      <guid isPermaLink="false">1HAzwSw52kc</guid>
+      <pubDate>Thu, 17 Sep 2026 20:26:02 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Ankara Şehiriçi Özel Halk Otobüsçüler Esnaf Odası üyeleri, mazot zammını protesto ediyor #Canlı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Senem Toluay Ilgaz ile Öncesi Sonrası Gece | Barış Terkoğlu &amp; Timur Soykan | 17 Eylül</title>
       <link>https://www.youtube.com/watch?v=-uxQd-SLvio</link>
@@ -20,6 +27,13 @@
       <guid isPermaLink="false">FG0f3nnyjrw</guid>
       <pubDate>Thu, 17 Sep 2026 20:00:38 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İhraç edilen 5 teğmen yeniden gündemde! “İftira” suçlamasıyla ifadeye çağrıldılar</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Mazot 100 lirayı geçti! Neden yükseliyor? Engin Solakoğlu Türkiye-Avrupa açısından anlattı</title>
+      <link>https://www.youtube.com/watch?v=0pfIRtz7XBM</link>
+      <guid isPermaLink="false">0pfIRtz7XBM</guid>
+      <pubDate>Thu, 17 Sep 2026 20:00:28 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Mazot 100 lirayı geçti! Neden yükseliyor? Engin Solakoğlu Türkiye-Avrupa açısından anlattı</description>
     </item>
     <item>
       <title>Halk TV: İran’ın ABD üslerine yönelik saldırıları sonrası ortaya çıkan görüntüler şok etkisi yarattı!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">bUXV5Ych-eg</guid>
       <pubDate>Thu, 17 Sep 2026 16:13:42 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: TERA PORTFÖY'DE NELER YAŞANDI? İŞTE TÜM YAŞANANLARIN ÖZETİ...</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: SPK'dan Deprem Etkisi Yaratan Karar! 130 Fon Tasfiye Edildi! Borsada Tarihi Deprem! 1.1 Trilyon Lira</title>
-      <link>https://www.youtube.com/watch?v=NZ-ooQ2Vljo</link>
-      <guid isPermaLink="false">NZ-ooQ2Vljo</guid>
-      <pubDate>Thu, 17 Sep 2026 16:00:35 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: SPK'dan Deprem Etkisi Yaratan Karar! 130 Fon Tasfiye Edildi! Borsada Tarihi Deprem! 1.1 Trilyon Lira</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: İBB Meclisi'nde Ekrem İmamoğlu ve 'SİYASİ TUTUKLU' tartışması!</title>
-      <link>https://www.youtube.com/watch?v=oDw76veU1LI</link>
-      <guid isPermaLink="false">oDw76veU1LI</guid>
-      <pubDate>Thu, 17 Sep 2026 16:00:29 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: İBB Meclisi'nde Ekrem İmamoğlu ve 'SİYASİ TUTUKLU' tartışması!</description>
     </item>
   </channel>
 </rss>
