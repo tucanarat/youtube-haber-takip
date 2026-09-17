@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 21:50:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 21:55:27 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: “GARANTİ ETMEK İSTİYOR!” Fikret Bila AKP'nin erken seçim planını açıkladı!</title>
+      <link>https://www.youtube.com/watch?v=S73dzHLBS2g</link>
+      <guid isPermaLink="false">S73dzHLBS2g</guid>
+      <pubDate>Thu, 17 Sep 2026 21:45:22 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: “GARANTİ ETMEK İSTİYOR!” Fikret Bila AKP'nin erken seçim planını açıkladı!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Saray'ın Erken Seçim ve Anayasa Oyunu Ortaya Çıktı! Mehmet Uçum'dan Olay Erdoğan İtirafı</title>
+      <link>https://www.youtube.com/watch?v=PXyoiVNcGT4</link>
+      <guid isPermaLink="false">PXyoiVNcGT4</guid>
+      <pubDate>Thu, 17 Sep 2026 21:40:21 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Saray'ın Erken Seçim ve Anayasa Oyunu Ortaya Çıktı! Mehmet Uçum'dan Olay Erdoğan İtirafı</description>
+    </item>
     <item>
       <title>Halk TV: EMEKLİLER 1 KİLO ET İÇİN SABAH 5’TE KUYRUKTA! Sezgin Tanrıkulu et kuyruğundaki gerçeği anlattı!</title>
       <link>https://www.youtube.com/watch?v=pY8WSh1MrIs</link>
@@ -55,6 +69,13 @@
       <guid isPermaLink="false">B0pKSdP6FL0</guid>
       <pubDate>Thu, 17 Sep 2026 20:50:22 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Uşak’ta akşam saatlerindeki sağanak ve dolu sebebiyle kara yollarının bir bölümü trafiğe kapatıldı!</description>
+    </item>
+    <item>
+      <title>Halk TV: Meclis aritmetiğinde büyük hesap! 360 vekil için kritik virajı Gökmen Karadağ açıkladı!</title>
+      <link>https://www.youtube.com/watch?v=we2LdUOLjYw</link>
+      <guid isPermaLink="false">we2LdUOLjYw</guid>
+      <pubDate>Thu, 17 Sep 2026 20:45:05 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Meclis aritmetiğinde büyük hesap! 360 vekil için kritik virajı Gökmen Karadağ açıkladı!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: AKP'nin Erdoğan İçin "Son Kez" Senaryosu! Barış Terkoğlu'ndan Olay Mehmet Uçum Çıkışı! Seçim Sözleri</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">4vCWMZf-W4o</guid>
       <pubDate>Thu, 17 Sep 2026 17:29:58 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Onur Öncü ile Sabah Pusulası (18.09.26)</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: İsmail Küçükkaya'nın iktidar övgüsü | Borsada balon nasıl patladı? | Gürsel Tekin'e güle güle!</title>
-      <link>https://www.youtube.com/watch?v=TVuJHtbpcBc</link>
-      <guid isPermaLink="false">TVuJHtbpcBc</guid>
-      <pubDate>Thu, 17 Sep 2026 17:20:32 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: İsmail Küçükkaya'nın iktidar övgüsü | Borsada balon nasıl patladı? | Gürsel Tekin'e güle güle!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Mehmet Uçum Açıkladı! Erken Seçim Tarihi Belli Oldu! AKP'nin Erdoğan Formülü! Özlem Gürses Anlattı</title>
-      <link>https://www.youtube.com/watch?v=s2nOURhE5Bk</link>
-      <guid isPermaLink="false">s2nOURhE5Bk</guid>
-      <pubDate>Thu, 17 Sep 2026 17:20:29 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Mehmet Uçum Açıkladı! Erken Seçim Tarihi Belli Oldu! AKP'nin Erdoğan Formülü! Özlem Gürses Anlattı</description>
-    </item>
-    <item>
-      <title>Halk TV: BORSA ÇAKILDI, BÜYÜK KIRILMA BAŞLADI! Yüz binlerce vatandaş mağdur oldu! İşte alınacak önlemler...</title>
-      <link>https://www.youtube.com/watch?v=TDwdVGoNP-I</link>
-      <guid isPermaLink="false">TDwdVGoNP-I</guid>
-      <pubDate>Thu, 17 Sep 2026 17:15:28 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BORSA ÇAKILDI, BÜYÜK KIRILMA BAŞLADI! Yüz binlerce vatandaş mağdur oldu! İşte alınacak önlemler...</description>
     </item>
   </channel>
 </rss>
