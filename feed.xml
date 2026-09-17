@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 22:07:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 22:10:33 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: Pınar Erbaş ile Gecenin Sözü | 23 Eylül</title>
       <link>https://www.youtube.com/watch?v=5oEYV-8GSzk</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">MLtPowzwGS4</guid>
       <pubDate>Thu, 17 Sep 2026 22:00:22 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BÜYÜK VURGUNUN ŞİFRELERİ! Murat Birdal, fon yöneticileri ve Telegram arasındaki mekanizmayı anlattı!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: CHP'yi Ayağa Kaldıran İstifa! İstanbul'da Çoğunluk Tehlikede! Barış Terkoğlu Meclis Oyununu Anlattı</title>
+      <link>https://www.youtube.com/watch?v=h-Flm8XwE4o</link>
+      <guid isPermaLink="false">h-Flm8XwE4o</guid>
+      <pubDate>Thu, 17 Sep 2026 22:00:20 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: CHP'yi Ayağa Kaldıran İstifa! İstanbul'da Çoğunluk Tehlikede! Barış Terkoğlu Meclis Oyununu Anlattı</description>
     </item>
     <item>
       <title>Halk TV: Gökmen Karadağ ile Açıkça (17 Eylül 2026)</title>
@@ -41,6 +48,13 @@
       <guid isPermaLink="false">PXyoiVNcGT4</guid>
       <pubDate>Thu, 17 Sep 2026 21:40:21 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Saray'ın Erken Seçim ve Anayasa Oyunu Ortaya Çıktı! Mehmet Uçum'dan Olay Erdoğan İtirafı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: 500 Bin Yatırımcı Ne Yapacak? SPK'dan 130 Fon İçin Şok Tasfiye Kararı! Ramazan Başak Uyardı</title>
+      <link>https://www.youtube.com/watch?v=tewqMOkCD-w</link>
+      <guid isPermaLink="false">tewqMOkCD-w</guid>
+      <pubDate>Thu, 17 Sep 2026 21:20:26 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: 500 Bin Yatırımcı Ne Yapacak? SPK'dan 130 Fon İçin Şok Tasfiye Kararı! Ramazan Başak Uyardı</description>
     </item>
     <item>
       <title>Halk TV: EMEKLİLER 1 KİLO ET İÇİN SABAH 5’TE KUYRUKTA! Sezgin Tanrıkulu et kuyruğundaki gerçeği anlattı!</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">mPYe2SPAvbY</guid>
       <pubDate>Thu, 17 Sep 2026 17:45:34 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Hakkında 'şantaj' ve 'dolandırıcılık' davaları bulunan Erkan Çakır CHP'de yönetici oldu!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İran'da Halk Sokakta! Sözcü Tv Tebriz'de! ABD ve İsrail'e Karşı Meydanda Direniş! Savaşın 200. Günü</title>
-      <link>https://www.youtube.com/watch?v=zsFIb1fDPjQ</link>
-      <guid isPermaLink="false">zsFIb1fDPjQ</guid>
-      <pubDate>Thu, 17 Sep 2026 17:40:15 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İran'da Halk Sokakta! Sözcü Tv Tebriz'de! ABD ve İsrail'e Karşı Meydanda Direniş! Savaşın 200. Günü</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Ülkü Çoban ile Manşet Ötesi (18.09.26)</title>
-      <link>https://www.youtube.com/watch?v=mLQGfC6Ev-U</link>
-      <guid isPermaLink="false">mLQGfC6Ev-U</guid>
-      <pubDate>Thu, 17 Sep 2026 17:30:47 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Ülkü Çoban ile Manşet Ötesi (18.09.26)</description>
     </item>
   </channel>
 </rss>
