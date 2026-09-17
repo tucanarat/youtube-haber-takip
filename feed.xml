@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 12:20:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 12:25:25 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Yavuz Ağıralioğlu, Saadet Partisi Genel Başkanı Mahmut Arıkan'ı ziyaret etti  #Canlı</title>
+      <link>https://www.youtube.com/watch?v=N0qWN58N47A</link>
+      <guid isPermaLink="false">N0qWN58N47A</guid>
+      <pubDate>Thu, 17 Sep 2026 12:22:41 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Yavuz Ağıralioğlu, Saadet Partisi Genel Başkanı Mahmut Arıkan'ı ziyaret etti  #Canlı</description>
+    </item>
     <item>
       <title>Tele2 Haber: Kozinoğlu soruşturması büyüyor! I Türkiye 100 Yılı: Motorin 100 TL! | Ülkü Çoban ile Manşet Ötesi</title>
       <link>https://www.youtube.com/watch?v=qqk-CEBT4-w</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ZqC0njiU__o</guid>
       <pubDate>Thu, 17 Sep 2026 09:20:10 +0000</pubDate>
       <description>Halk TV kanalından yeni video: KILIÇDAROĞLU'NUN DİLİ TUTULACAK! Özgür Özel'den 'CHP'ye dönüş' sorusuna bomba yanıt! Fırtına kopar!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Murat Taylan ile Haber-Yorum (17.09.2026)</title>
-      <link>https://www.youtube.com/watch?v=TVuJHtbpcBc</link>
-      <guid isPermaLink="false">TVuJHtbpcBc</guid>
-      <pubDate>Thu, 17 Sep 2026 09:15:07 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Murat Taylan ile Haber-Yorum (17.09.2026)</description>
     </item>
   </channel>
 </rss>
