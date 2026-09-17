@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 13:25:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 13:30:48 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: BORSA DEPREMİNDE YENİ PERDE! Eski AKP'li vekile soruşturma! Pusula'nın fonları temerrüde düştü!</title>
+      <link>https://www.youtube.com/watch?v=D6rVSb4Gy60</link>
+      <guid isPermaLink="false">D6rVSb4Gy60</guid>
+      <pubDate>Thu, 17 Sep 2026 13:25:28 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BORSA DEPREMİNDE YENİ PERDE! Eski AKP'li vekile soruşturma! Pusula'nın fonları temerrüde düştü!</description>
+    </item>
     <item>
       <title>Halk TV: Yavuz Ağıralioğlu, Saadet Partisi Genel Başkanı Mahmut Arıkan'ı Ziyaret Etti!  (17 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=PtOxRNCTDOo</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Fjqx_mI86tI</guid>
       <pubDate>Thu, 17 Sep 2026 10:33:24 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: SEÇİM TARİHİ BELLİ OLDU! "Erdoğan'ın Adaylığı Kesinleşti!" Mehmet Uçum Açıkladı!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "FETÖ'cüler Öyle Bilgi Kirliliği Yayıyorlar ki..." Hasan Atilla Uğur'dan Gözaltı Açıklaması!</title>
-      <link>https://www.youtube.com/watch?v=fr7qX3NKdRo</link>
-      <guid isPermaLink="false">fr7qX3NKdRo</guid>
-      <pubDate>Thu, 17 Sep 2026 10:26:39 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "FETÖ'cüler Öyle Bilgi Kirliliği Yayıyorlar ki..." Hasan Atilla Uğur'dan Gözaltı Açıklaması!</description>
     </item>
   </channel>
 </rss>
