@@ -6,7 +6,35 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 07:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 07:10:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Motorin 100 lirayı geçti, yurttaşın endişesi büyüdü: “Sebze, meyve, ulaşım… Her şeyi etkileyecek!”</title>
+      <link>https://www.youtube.com/shorts/LhIXo5xAOoA</link>
+      <guid isPermaLink="false">LhIXo5xAOoA</guid>
+      <pubDate>Thu, 17 Sep 2026 07:06:47 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Motorin 100 lirayı geçti, yurttaşın endişesi büyüdü: “Sebze, meyve, ulaşım… Her şeyi etkileyecek!”</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Hopalı taksiciden akaryakıt zamlarına isyan: ”Mazot 100 lirayı aştı, esnaf bitti"</title>
+      <link>https://www.youtube.com/shorts/jgCS_I3bduw</link>
+      <guid isPermaLink="false">jgCS_I3bduw</guid>
+      <pubDate>Thu, 17 Sep 2026 07:06:31 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Hopalı taksiciden akaryakıt zamlarına isyan: ”Mazot 100 lirayı aştı, esnaf bitti"</description>
+    </item>
+    <item>
+      <title>Halk TV: SİLİVRİ’DE HERKES AĞLADI! O soru etkin pişmanlıkçıyı gözyaşlarına boğdu! Gökhan Kayış isyan etti!</title>
+      <link>https://www.youtube.com/watch?v=zzBzHV0LQUg</link>
+      <guid isPermaLink="false">zzBzHV0LQUg</guid>
+      <pubDate>Thu, 17 Sep 2026 07:05:11 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SİLİVRİ’DE HERKES AĞLADI! O soru etkin pişmanlıkçıyı gözyaşlarına boğdu! Gökhan Kayış isyan etti!</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: İBB'den öğrencilere 1 liralık abonman desteği</title>
+      <link>https://www.youtube.com/shorts/XPwbpz8e0TE</link>
+      <guid isPermaLink="false">XPwbpz8e0TE</guid>
+      <pubDate>Thu, 17 Sep 2026 07:03:46 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: İBB'den öğrencilere 1 liralık abonman desteği</description>
+    </item>
     <item>
       <title>Halk TV: Deniz Bayramoğlu ile Gün Doğarken | #yüzübulduk (17 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=X0ap_-QBw4A</link>
@@ -328,34 +356,6 @@
       <guid isPermaLink="false">HT9d36dN0gs</guid>
       <pubDate>Wed, 16 Sep 2026 22:13:15 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Damla Doğan Tuncel ile 1 Saat</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Serap Belovacıklı ile Haber Saati</title>
-      <link>https://www.youtube.com/watch?v=sQfz26TAPS0</link>
-      <guid isPermaLink="false">sQfz26TAPS0</guid>
-      <pubDate>Wed, 16 Sep 2026 22:12:46 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Serap Belovacıklı ile Haber Saati</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Can Coşkun ile Gündem Masası</title>
-      <link>https://www.youtube.com/watch?v=1KOqiTRGmCw</link>
-      <guid isPermaLink="false">1KOqiTRGmCw</guid>
-      <pubDate>Wed, 16 Sep 2026 22:12:15 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Can Coşkun ile Gündem Masası</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: #CANLI İsmail Küçükkaya ile Günaydın Türkiyem</title>
-      <link>https://www.youtube.com/watch?v=GeeHviA1c6c</link>
-      <guid isPermaLink="false">GeeHviA1c6c</guid>
-      <pubDate>Wed, 16 Sep 2026 22:11:43 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: #CANLI İsmail Küçükkaya ile Günaydın Türkiyem</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Pınar Erbaş ile Gecenin Sözü | 16 Eylül</title>
-      <link>https://www.youtube.com/watch?v=DbqHmeU3-PE</link>
-      <guid isPermaLink="false">DbqHmeU3-PE</guid>
-      <pubDate>Wed, 16 Sep 2026 22:05:45 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Pınar Erbaş ile Gecenin Sözü | 16 Eylül</description>
     </item>
   </channel>
 </rss>
