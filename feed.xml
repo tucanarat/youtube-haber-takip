@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 15:25:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 15:30:47 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ERDOĞAN'A YOLUN SONUNU GÖSTERDİ! Remzi Çayır'dan tir tir titretecek sözler! Salon bile buz kesti!</title>
+      <link>https://www.youtube.com/watch?v=s_0EidQf5zU</link>
+      <guid isPermaLink="false">s_0EidQf5zU</guid>
+      <pubDate>Thu, 17 Sep 2026 15:25:27 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ERDOĞAN'A YOLUN SONUNU GÖSTERDİ! Remzi Çayır'dan tir tir titretecek sözler! Salon bile buz kesti!</description>
+    </item>
     <item>
       <title>Halk TV: Hedef Holding'in Patronundan Sonra Destek Bank'ın Sahibi De Gözaltına Alındı!</title>
       <link>https://www.youtube.com/watch?v=WgwyluU5p3s</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">WRNLy4gKdq0</guid>
       <pubDate>Thu, 17 Sep 2026 12:25:55 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: S-400 İsrail’in müttefikine mi veriliyor?-Mehmet Ali Güller</description>
-    </item>
-    <item>
-      <title>Halk TV: Ümit Özdağ’dan Kürtçe tabelalara tepki: Bu hukuksuz, rezil saldırıya sessiz kalmayacağız!</title>
-      <link>https://www.youtube.com/shorts/bS37ExTh6W0</link>
-      <guid isPermaLink="false">bS37ExTh6W0</guid>
-      <pubDate>Thu, 17 Sep 2026 12:25:42 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ümit Özdağ’dan Kürtçe tabelalara tepki: Bu hukuksuz, rezil saldırıya sessiz kalmayacağız!</description>
     </item>
   </channel>
 </rss>
