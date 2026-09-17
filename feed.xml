@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 23:00:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 23:05:25 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: SARAY'IN YENİ SENARYOSU İFŞA OLDU: Erken Seçim Tarihi ve İmralı Detayı Siyaseti Sallar</title>
+      <link>https://www.youtube.com/watch?v=AGBViBnnZvM</link>
+      <guid isPermaLink="false">AGBViBnnZvM</guid>
+      <pubDate>Thu, 17 Sep 2026 23:00:15 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: SARAY'IN YENİ SENARYOSU İFŞA OLDU: Erken Seçim Tarihi ve İmralı Detayı Siyaseti Sallar</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: TRUMP ÇILGINA DÖNDÜ! "İran'ı Çok Sert Vuracağız!" Türkiye Savaşa Mı Çekiliyor?</title>
       <link>https://www.youtube.com/watch?v=7IP1KNaUaPU</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">HtKuO1tQSAo</guid>
       <pubDate>Thu, 17 Sep 2026 19:00:11 +0000</pubDate>
       <description>Halk TV kanalından yeni video: 51. Komando Tugayı Söke’ye kaydırıldı! Türkiye’den Meis’e kritik mesaj!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Engin Solakoğlu: Kaşif Kozinoğlu Fethullahçılar tarafından öldürülmüştür</title>
-      <link>https://www.youtube.com/watch?v=c23kQ-fR2jg</link>
-      <guid isPermaLink="false">c23kQ-fR2jg</guid>
-      <pubDate>Thu, 17 Sep 2026 19:00:09 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Engin Solakoğlu: Kaşif Kozinoğlu Fethullahçılar tarafından öldürülmüştür</description>
     </item>
   </channel>
 </rss>
