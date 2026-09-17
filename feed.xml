@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 16:45:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 16:51:10 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: New York'ta Trump Erdoğan Zirvesi! Tom Barrack'tan Çarpıcı Atatürk Çıkışı! Özlem Gürses Anlattı</title>
+      <link>https://www.youtube.com/watch?v=ZwygyjWG0lA</link>
+      <guid isPermaLink="false">ZwygyjWG0lA</guid>
+      <pubDate>Thu, 17 Sep 2026 16:40:15 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: New York'ta Trump Erdoğan Zirvesi! Tom Barrack'tan Çarpıcı Atatürk Çıkışı! Özlem Gürses Anlattı</description>
+    </item>
     <item>
       <title>Tele2 Haber: Göz göre göre... Tera Portföy'de ne oldu? Borsa İstanbul'a kriz yaşatan olayın özeti!</title>
       <link>https://www.youtube.com/watch?v=s7ZLoC4kwWs</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">DolFijjHxyo</guid>
       <pubDate>Thu, 17 Sep 2026 12:55:05 +0000</pubDate>
       <description>Halk TV kanalından yeni video: ANKARA'DA YER GÖK İNLEYECEK! Özgür Özel'in 'Demirtaş' çıkışı ortalığı kızıştırır! Fitili ateşledi</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Kadir İnanır'ın yeğeni Levent İnanır'dan dikkat çeken 'vasiyet' çıkışı: İrade sorunları vardı...</title>
-      <link>https://www.youtube.com/watch?v=PbbeA5ErQOc</link>
-      <guid isPermaLink="false">PbbeA5ErQOc</guid>
-      <pubDate>Thu, 17 Sep 2026 12:47:30 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Kadir İnanır'ın yeğeni Levent İnanır'dan dikkat çeken 'vasiyet' çıkışı: İrade sorunları vardı...</description>
     </item>
   </channel>
 </rss>
