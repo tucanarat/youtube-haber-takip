@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 19:30:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 19:35:24 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Murat Bakan İktidara Ateş Püskürdü! SPK'dan Deprem Yaratan Karar! Mehmet Şimşek'e Seslendi</title>
+      <link>https://www.youtube.com/watch?v=Nvfe4XTMNrw</link>
+      <guid isPermaLink="false">Nvfe4XTMNrw</guid>
+      <pubDate>Thu, 17 Sep 2026 19:20:30 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Murat Bakan İktidara Ateş Püskürdü! SPK'dan Deprem Yaratan Karar! Mehmet Şimşek'e Seslendi</description>
+    </item>
     <item>
       <title>Halk TV: Gözaltılar artmaya başladı: 900 milyar lira yatırılan 130 fon tasfiye edildi!</title>
       <link>https://www.youtube.com/watch?v=mwEeSvcm5IY</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">BIgaqoqm2oE</guid>
       <pubDate>Thu, 17 Sep 2026 15:20:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Pusula Portföy Başkanı Muhammet Yarız Tutuklandı! Borsa Dünyasında Deprem! Piyasalarda Fırtına</description>
-    </item>
-    <item>
-      <title>Halk TV: MEHMET ŞİMŞEK BU SÖZLERİN ALTINDAN KALKAMAZ! Ali Mahir Başarır ateş püskürdü! Yok böyle sözler!</title>
-      <link>https://www.youtube.com/watch?v=2-62pyjmyuE</link>
-      <guid isPermaLink="false">2-62pyjmyuE</guid>
-      <pubDate>Thu, 17 Sep 2026 15:10:16 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: MEHMET ŞİMŞEK BU SÖZLERİN ALTINDAN KALKAMAZ! Ali Mahir Başarır ateş püskürdü! Yok böyle sözler!</description>
     </item>
   </channel>
 </rss>
