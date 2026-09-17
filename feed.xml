@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 12:15:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 12:20:39 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Kozinoğlu soruşturması büyüyor! I Türkiye 100 Yılı: Motorin 100 TL! | Ülkü Çoban ile Manşet Ötesi</title>
+      <link>https://www.youtube.com/watch?v=qqk-CEBT4-w</link>
+      <guid isPermaLink="false">qqk-CEBT4-w</guid>
+      <pubDate>Thu, 17 Sep 2026 12:16:31 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Kozinoğlu soruşturması büyüyor! I Türkiye 100 Yılı: Motorin 100 TL! | Ülkü Çoban ile Manşet Ötesi</description>
+    </item>
     <item>
       <title>Halk TV: SON DAKİKA! MİLYONLAR BU KARARLA SARSILACAK! Saray, Öcalan'ın görev alacağı komisyonu açıkladı!</title>
       <link>https://www.youtube.com/watch?v=6y8zm8Twa50</link>
       <guid isPermaLink="false">6y8zm8Twa50</guid>
       <pubDate>Thu, 17 Sep 2026 12:10:26 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SON DAKİKA! MİLYONLAR BU KARARLA SARSILACAK! Saray, Öcalan'ın görev alacağı komisyonu açıkladı!</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: #CANLI İBB Davasında 83. gün! Yazışmalardaki “Fatih abi” kim?</title>
+      <link>https://www.youtube.com/watch?v=V7OR-zCbXGU</link>
+      <guid isPermaLink="false">V7OR-zCbXGU</guid>
+      <pubDate>Thu, 17 Sep 2026 12:10:23 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI İBB Davasında 83. gün! Yazışmalardaki “Fatih abi” kim?</description>
     </item>
     <item>
       <title>Cumhuriyet: "‘BABAN NE ZAMAN GELECEK?’ DİYE AĞLAYAN ÇOCUKLARA NE DİYECEĞİZ?"</title>
@@ -97,13 +111,6 @@
       <guid isPermaLink="false">NTuJjwU2ehE</guid>
       <pubDate>Thu, 17 Sep 2026 11:12:13 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Tufan Erhürman, Kıbrıslı Rum Lider Nikos Hristodulidis ile görüşmesinin ardından açıklama yapıyor</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: #CANLI İBB Davasında 83. gün! Yazışmalardaki “Fatih abi” kim?</title>
-      <link>https://www.youtube.com/watch?v=V7OR-zCbXGU</link>
-      <guid isPermaLink="false">V7OR-zCbXGU</guid>
-      <pubDate>Thu, 17 Sep 2026 11:08:19 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI İBB Davasında 83. gün! Yazışmalardaki “Fatih abi” kim?</description>
     </item>
     <item>
       <title>Halk TV: SPK FİŞİ ÇEKTİ, ORTALIK KARIŞTI! 'Param yandı mı?' diyenler kulak versin! İbrahim Kahveci anlattı!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">TVuJHtbpcBc</guid>
       <pubDate>Thu, 17 Sep 2026 09:15:07 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Murat Taylan ile Haber-Yorum (17.09.2026)</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: GÖZ GÖRE GÖRE ÇÖKTÜLER! Borsada Büyük Tuzak! SPK Bilerek mi Bekledi? Kerim Rota'dan Şok İddia</title>
-      <link>https://www.youtube.com/watch?v=LUv53gt82Es</link>
-      <guid isPermaLink="false">LUv53gt82Es</guid>
-      <pubDate>Thu, 17 Sep 2026 09:10:04 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: GÖZ GÖRE GÖRE ÇÖKTÜLER! Borsada Büyük Tuzak! SPK Bilerek mi Bekledi? Kerim Rota'dan Şok İddia</description>
     </item>
   </channel>
 </rss>
