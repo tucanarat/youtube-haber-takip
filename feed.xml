@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 11:10:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 11:15:35 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: CHP Genel Başkanı Kemal Kılıçdaroğlu, CHP Ekonomi Masası toplantısının ardından açıklama yapıyor</title>
+      <link>https://www.youtube.com/watch?v=4yHx3oUyLzI</link>
+      <guid isPermaLink="false">4yHx3oUyLzI</guid>
+      <pubDate>Thu, 17 Sep 2026 11:14:02 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkanı Kemal Kılıçdaroğlu, CHP Ekonomi Masası toplantısının ardından açıklama yapıyor</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: #CANLI İBB Davasında 83. gün! Yazışmalardaki “Fatih abi” kim?</title>
+      <link>https://www.youtube.com/watch?v=V7OR-zCbXGU</link>
+      <guid isPermaLink="false">V7OR-zCbXGU</guid>
+      <pubDate>Thu, 17 Sep 2026 11:08:19 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: #CANLI İBB Davasında 83. gün! Yazışmalardaki “Fatih abi” kim?</description>
+    </item>
     <item>
       <title>Halk TV: SPK FİŞİ ÇEKTİ, ORTALIK KARIŞTI! 'Param yandı mı?' diyenler kulak versin! İbrahim Kahveci anlattı!</title>
       <link>https://www.youtube.com/watch?v=hb6-7RyNQ3M</link>
@@ -64,11 +78,11 @@
       <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Grup Başkanvekili Ali Mahir Başarır, TBMM’de Basın Toplantısı düzenliyor #Canlı</description>
     </item>
     <item>
-      <title>Halk TV: #CANLI | PİYASALAR YANGIN YERİ! Butlan CHP’sinin Genel Başkanı Kılıçdaroğlu Açıklama Yapıyor!</title>
+      <title>Halk TV: PİYASALAR YANGIN YERİ! Butlan CHP’sinin Genel Başkanı Kılıçdaroğlu Açıklama Yaptı!</title>
       <link>https://www.youtube.com/watch?v=FxVNDs_jc9w</link>
       <guid isPermaLink="false">FxVNDs_jc9w</guid>
       <pubDate>Thu, 17 Sep 2026 10:43:23 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | PİYASALAR YANGIN YERİ! Butlan CHP’sinin Genel Başkanı Kılıçdaroğlu Açıklama Yapıyor!</description>
+      <description>Halk TV kanalından yeni video: PİYASALAR YANGIN YERİ! Butlan CHP’sinin Genel Başkanı Kılıçdaroğlu Açıklama Yaptı!</description>
     </item>
     <item>
       <title>Halk TV: Piyasalar alev alev: Hedef Holding ile İnfo Yatırım'ın Namık Kemal Gökalp gözaltına alındı!</title>
@@ -146,13 +160,6 @@
       <guid isPermaLink="false">h5OHkFae1ss</guid>
       <pubDate>Thu, 17 Sep 2026 10:20:08 +0000</pubDate>
       <description>Halk TV kanalından yeni video: AHMET AKIN KİLİTLENDİ! YENİ Partili isimlerin sözleri Meclis'te fırtına koparttı! Gündeme oturacak!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: CHP Genel Başkanı Kemal Kılıçdaroğlu, CHP Ekonomi Masası toplantısının ardından açıklama yapıyor</title>
-      <link>https://www.youtube.com/watch?v=4yHx3oUyLzI</link>
-      <guid isPermaLink="false">4yHx3oUyLzI</guid>
-      <pubDate>Thu, 17 Sep 2026 10:13:45 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkanı Kemal Kılıçdaroğlu, CHP Ekonomi Masası toplantısının ardından açıklama yapıyor</description>
     </item>
     <item>
       <title>SÖZCÜ TV: İsmail Saymaz O Kulisi Patlattı! Muharrem İnce'den Özgür Özel'e Gizli Kalan Tarihi Teklif!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">hDN88Y59WNU</guid>
       <pubDate>Thu, 17 Sep 2026 08:35:35 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: SPK'DAN BORSAYI SARSAN TEDBİR! 130 Fona Tasfiye Kararı! 7 Fona İşlem Yasağı Getirildi</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Özgür Özel'den Operasyon Tepkisi | Benzinde Zam Şampiyonuyuz | Onur Öncü ile Sabah Pusulası</title>
-      <link>https://www.youtube.com/watch?v=LYhvXm2rH3M</link>
-      <guid isPermaLink="false">LYhvXm2rH3M</guid>
-      <pubDate>Thu, 17 Sep 2026 08:34:26 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Özgür Özel'den Operasyon Tepkisi | Benzinde Zam Şampiyonuyuz | Onur Öncü ile Sabah Pusulası</description>
     </item>
   </channel>
 </rss>
