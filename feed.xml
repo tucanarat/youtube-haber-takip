@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 05:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 05:20:42 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI İBB Meclisi'nde öğrenci akbili kavgası! Eylül 2. Toplantısı devam ediyor</title>
+      <link>https://www.youtube.com/watch?v=itnriqytFv0</link>
+      <guid isPermaLink="false">itnriqytFv0</guid>
+      <pubDate>Thu, 17 Sep 2026 04:35:05 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI İBB Meclisi'nde öğrenci akbili kavgası! Eylül 2. Toplantısı devam ediyor</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Avrupa Hareketlilik Haftası açılışı / Mersin #Canlı</title>
       <link>https://www.youtube.com/watch?v=4xwAZsMt1gg</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">qYv3RWzHeGM</guid>
       <pubDate>Wed, 16 Sep 2026 20:02:39 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Gazeteci Masası - İsmail Saymaz, Barış Terkoğlu, Murat Ağırel, Saygı Öztürk | 16 Eylül</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Murat Ağırel İmralı'daki Yeni Konutun Sırlarını İfşa Etti! Sırrı Sakık'a Canlı Yayında Sert Tepki</title>
-      <link>https://www.youtube.com/watch?v=pQtQakdjxj0</link>
-      <guid isPermaLink="false">pQtQakdjxj0</guid>
-      <pubDate>Wed, 16 Sep 2026 20:00:36 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Murat Ağırel İmralı'daki Yeni Konutun Sırlarını İfşa Etti! Sırrı Sakık'a Canlı Yayında Sert Tepki</description>
     </item>
   </channel>
 </rss>
