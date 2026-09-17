@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 10:10:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:15:34 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: CHP Genel Başkanı Kemal Kılıçdaroğlu, CHP Ekonomi Masası toplantısı ardından açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=4yHx3oUyLzI</link>
+      <guid isPermaLink="false">4yHx3oUyLzI</guid>
+      <pubDate>Thu, 17 Sep 2026 10:13:45 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkanı Kemal Kılıçdaroğlu, CHP Ekonomi Masası toplantısı ardından açıklama yapıyor #Canlı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İsmail Saymaz O Kulisi Patlattı! Muharrem İnce'den Özgür Özel'e Gizli Kalan Tarihi Teklif!</title>
+      <link>https://www.youtube.com/watch?v=8CN7Yg5IpaQ</link>
+      <guid isPermaLink="false">8CN7Yg5IpaQ</guid>
+      <pubDate>Thu, 17 Sep 2026 10:10:13 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İsmail Saymaz O Kulisi Patlattı! Muharrem İnce'den Özgür Özel'e Gizli Kalan Tarihi Teklif!</description>
+    </item>
     <item>
       <title>Halk TV: KOZİNOĞLU DOSYASININ UCU HAKAN FİDAN'A DOKUNABİLİR! Büyük detay ortaya çıktı! Beştepe ayağa kalktı!</title>
       <link>https://www.youtube.com/watch?v=6Lp8L6MXtBc</link>
@@ -36,11 +50,11 @@
       <description>SÖZCÜ TV kanalından yeni video: #CANLI Can Coşkun ile Gündem Masası</description>
     </item>
     <item>
-      <title>ANKA Haber Ajansı: YENİ Parti Grup Başkanvekili Ali Mahir Başarır, TBMM’de Basın Toplantı düzenliyor #Canlı</title>
+      <title>ANKA Haber Ajansı: YENİ Parti Grup Başkanvekili Ali Mahir Başarır, TBMM’de Basın Toplantısı düzenliyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=FSTuhHqwiOI</link>
       <guid isPermaLink="false">FSTuhHqwiOI</guid>
       <pubDate>Thu, 17 Sep 2026 09:53:53 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Grup Başkanvekili Ali Mahir Başarır, TBMM’de Basın Toplantı düzenliyor #Canlı</description>
+      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti Grup Başkanvekili Ali Mahir Başarır, TBMM’de Basın Toplantısı düzenliyor #Canlı</description>
     </item>
     <item>
       <title>Halk TV: #CANLI | İrem Sansak ile Haber Masası</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">qSxg_y4XRks</guid>
       <pubDate>Thu, 17 Sep 2026 07:27:34 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Hasan Atilla Uğur ve 3 Kişi Hakkında Şok Gözaltı Kararı! Kaşif Kozinoğlu Dosyanda Bomba Gelişme</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: YENİ Partili Aşkın Genç'ten akaryakıt tepkisi: Motorin artık tabelaya sığmıyor</title>
-      <link>https://www.youtube.com/shorts/ixs8L-uA7Uo</link>
-      <guid isPermaLink="false">ixs8L-uA7Uo</guid>
-      <pubDate>Thu, 17 Sep 2026 07:21:39 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: YENİ Partili Aşkın Genç'ten akaryakıt tepkisi: Motorin artık tabelaya sığmıyor</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! BORSA DEPREMİ SONRASI ACİL TOPLANTI KARARI ALINMIŞTI! Beklenen kritik açıklama yapıldı!</title>
-      <link>https://www.youtube.com/watch?v=OMSj3hZYvyo</link>
-      <guid isPermaLink="false">OMSj3hZYvyo</guid>
-      <pubDate>Thu, 17 Sep 2026 07:20:42 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! BORSA DEPREMİ SONRASI ACİL TOPLANTI KARARI ALINMIŞTI! Beklenen kritik açıklama yapıldı!</description>
     </item>
   </channel>
 </rss>
