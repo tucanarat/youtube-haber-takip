@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 09:40:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 09:45:33 +0000</lastBuildDate>
     <item>
       <title>Cumhuriyet: Sezgin Tanrıkulu 100 liralık banknotu salladı: 1 litre mazot bile alamıyorsunuz</title>
       <link>https://www.youtube.com/shorts/FwzO5QZ1tF8</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">7OADKY42_PU</guid>
       <pubDate>Thu, 17 Sep 2026 09:37:35 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Devlet Memurları Konfederasyonu üyeleri, Milli Eğitim Bakanlığı önünde açıklama yapıyor #Canlı</description>
+    </item>
+    <item>
+      <title>Halk TV: FLAŞ GELİŞME! EMLAK KATILIM DEVREDE! Katılımevim ve Birevim'i satın almak için görüşmeler başladı!</title>
+      <link>https://www.youtube.com/watch?v=wsXXcJ2z51w</link>
+      <guid isPermaLink="false">wsXXcJ2z51w</guid>
+      <pubDate>Thu, 17 Sep 2026 09:35:00 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: FLAŞ GELİŞME! EMLAK KATILIM DEVREDE! Katılımevim ve Birevim'i satın almak için görüşmeler başladı!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: KAŞİF KOZİNOĞLU'NUN SON ANLARI! Saygı Öztürk Yazdı İsmail Saymaz Canlı Yayında Böyle Okudu</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">sk3rvzXdqH8</guid>
       <pubDate>Thu, 17 Sep 2026 07:00:11 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Panik Satışları Patladı! Tera Portföy'den Şok 'Ödeme Yapılamayacak' Açıklaması! Borsada Ne Olacak?</description>
-    </item>
-    <item>
-      <title>Halk TV: Deniz Bayramoğlu ile Gün Doğarken | #yüzübulduk (17 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=X0ap_-QBw4A</link>
-      <guid isPermaLink="false">X0ap_-QBw4A</guid>
-      <pubDate>Thu, 17 Sep 2026 07:00:08 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Deniz Bayramoğlu ile Gün Doğarken | #yüzübulduk (17 Eylül 2026)</description>
     </item>
   </channel>
 </rss>
