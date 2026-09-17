@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 19:00:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 19:05:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: 51. Komando Tugayı Söke’ye kaydırıldı! Türkiye’den Meis’e kritik mesaj!</title>
+      <link>https://www.youtube.com/watch?v=HtKuO1tQSAo</link>
+      <guid isPermaLink="false">HtKuO1tQSAo</guid>
+      <pubDate>Thu, 17 Sep 2026 19:00:11 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: 51. Komando Tugayı Söke’ye kaydırıldı! Türkiye’den Meis’e kritik mesaj!</description>
+    </item>
     <item>
       <title>Halk TV: Mezarı açılan Kaşif Kozinoğlu’nun iki koğuş arkadaşı için gözaltı kararı verildi!</title>
       <link>https://www.youtube.com/watch?v=nGDceic2MA4</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">-sn_2t--tyc</guid>
       <pubDate>Thu, 17 Sep 2026 15:00:19 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: İktidarın Erdoğan'ın Adaylığı ve Erken Seçim Planları Neler? Ülkü Çoban'dan Çarpıcı Yorumlar...</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İsmail Saymaz &amp; Barış Terkoğlu &amp; Murat Ağırel | Kaşif Kozinoğlu, Borsada Deprem, Yeni Parti, FETÖ</title>
-      <link>https://www.youtube.com/watch?v=WBF6xOtYAH0</link>
-      <guid isPermaLink="false">WBF6xOtYAH0</guid>
-      <pubDate>Thu, 17 Sep 2026 15:00:06 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İsmail Saymaz &amp; Barış Terkoğlu &amp; Murat Ağırel | Kaşif Kozinoğlu, Borsada Deprem, Yeni Parti, FETÖ</description>
     </item>
   </channel>
 </rss>
