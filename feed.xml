@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 18:00:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 18:05:28 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Kantinlerde satılacak ürünler ile ilgili yeni liste açıklandı: Bu ürünlerin satışı yasak!</title>
+      <link>https://www.youtube.com/watch?v=Kl6MEYx7ILw</link>
+      <guid isPermaLink="false">Kl6MEYx7ILw</guid>
+      <pubDate>Thu, 17 Sep 2026 18:00:26 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Kantinlerde satılacak ürünler ile ilgili yeni liste açıklandı: Bu ürünlerin satışı yasak!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Adem Metan'ın İsmail Küçükkaya röportajı... Murat Taylan yorumluyor</title>
       <link>https://www.youtube.com/watch?v=WjlnahuCj5U</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">36AEICsRKkQ</guid>
       <pubDate>Thu, 17 Sep 2026 14:10:25 +0000</pubDate>
       <description>Halk TV kanalından yeni video: TİCARET BAKANI YAKAYI ÇABUK ELE VERDİ! Deniz Yavuzyılmaz büyük fiyasokoyu ifşaladı! Meğer Türkiye...</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Miçotakis'in Karşısına Türk Komandosu! Mehmetçik'ten Hodri Meydan! EGE'DE SICAK SAATLER</title>
-      <link>https://www.youtube.com/watch?v=7XwuVVjS0FI</link>
-      <guid isPermaLink="false">7XwuVVjS0FI</guid>
-      <pubDate>Thu, 17 Sep 2026 14:00:21 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Miçotakis'in Karşısına Türk Komandosu! Mehmetçik'ten Hodri Meydan! EGE'DE SICAK SAATLER</description>
     </item>
   </channel>
 </rss>
