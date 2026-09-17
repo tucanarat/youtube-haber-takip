@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 11:20:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 11:25:24 +0000</lastBuildDate>
     <item>
       <title>Halk TV: PİYASALAR YANGIN YERİ! Butlan CHP’sinin Genel Başkanı Kılıçdaroğlu Açıklama Yaptı!</title>
       <link>https://www.youtube.com/watch?v=FxVNDs_jc9w</link>
@@ -174,6 +174,13 @@
       <guid isPermaLink="false">h5OHkFae1ss</guid>
       <pubDate>Thu, 17 Sep 2026 10:20:08 +0000</pubDate>
       <description>Halk TV kanalından yeni video: AHMET AKIN KİLİTLENDİ! YENİ Partili isimlerin sözleri Meclis'te fırtına koparttı! Gündeme oturacak!</description>
+    </item>
+    <item>
+      <title>Halk TV: TÜRKİYE BUNU KONUŞACAK! İBB itirafçısı 'parayı teslim ettim' dediği kişiyi tanımamış! Büyük çöküş!</title>
+      <link>https://www.youtube.com/watch?v=74w4PWjvPKg</link>
+      <guid isPermaLink="false">74w4PWjvPKg</guid>
+      <pubDate>Thu, 17 Sep 2026 10:17:12 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: TÜRKİYE BUNU KONUŞACAK! İBB itirafçısı 'parayı teslim ettim' dediği kişiyi tanımamış! Büyük çöküş!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: İsmail Saymaz O Kulisi Patlattı! Muharrem İnce'den Özgür Özel'e Gizli Kalan Tarihi Teklif!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">EmrRTg4GsPE</guid>
       <pubDate>Thu, 17 Sep 2026 08:48:11 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Zafer Partisi Genel Başkanı Ümit Özdağ, Partisinin Genel Merkezinde Konuştu!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Veliler dikkat! Uzmanından 'sosyal medya' uyarısı</title>
-      <link>https://www.youtube.com/shorts/rIEkTGl_bLc</link>
-      <guid isPermaLink="false">rIEkTGl_bLc</guid>
-      <pubDate>Thu, 17 Sep 2026 08:43:11 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Veliler dikkat! Uzmanından 'sosyal medya' uyarısı</description>
     </item>
   </channel>
 </rss>
