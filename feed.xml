@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 12:00:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 12:05:29 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Ekrem İmamoğlu'ndan İtirafçıyı Hüngür Hüngür Ağlatan O Soru! İBB Davasında Büyük Şok</title>
+      <link>https://www.youtube.com/watch?v=sc169UjkWZs</link>
+      <guid isPermaLink="false">sc169UjkWZs</guid>
+      <pubDate>Thu, 17 Sep 2026 12:00:08 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Ekrem İmamoğlu'ndan İtirafçıyı Hüngür Hüngür Ağlatan O Soru! İBB Davasında Büyük Şok</description>
+    </item>
     <item>
       <title>Halk TV: TÜRKİYE BUNU KONUŞACAK! İBB itirafçısı 'parayı teslim ettim' dediği kişiyi tanımamış! Büyük çöküş!</title>
       <link>https://www.youtube.com/watch?v=74w4PWjvPKg</link>
@@ -20,6 +27,13 @@
       <guid isPermaLink="false">bP4qeR1AWQ4</guid>
       <pubDate>Thu, 17 Sep 2026 11:36:16 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Sermaye piyasalarında yaşananlardan sonra Kemal Kılıçdaroğlu’dan sorular #shorts</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Vergi Uzmanı Açıkladı: iPhone 18 Almak Mantıklı mı? | Mahmut Aydoğmuş | Vergi Kafe</title>
+      <link>https://www.youtube.com/watch?v=DTyTnieB-HQ</link>
+      <guid isPermaLink="false">DTyTnieB-HQ</guid>
+      <pubDate>Thu, 17 Sep 2026 11:32:59 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Vergi Uzmanı Açıkladı: iPhone 18 Almak Mantıklı mı? | Mahmut Aydoğmuş | Vergi Kafe</description>
     </item>
     <item>
       <title>SÖZCÜ TV: TÜRKİYE'Yİ SEL ALACAK! Meteoroloji'den Fırtına Alarmı! İstanbul, Ankara, İzmir İçin Acil Uyarı</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">8OxUL77psGE</guid>
       <pubDate>Thu, 17 Sep 2026 09:02:23 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | SPK'dan 7 Şirketin 130 Fonuna Tasfiye Kararı! Tüm İşlemler Durduruldu! Piyasalar Alev Alev!</description>
-    </item>
-    <item>
-      <title>Halk TV: 'Hayalet' Lakabı İle Bilinen MİT'çi Kaşif Kozinoğlu Soruşturmasında Çok Çarpıcı Gözaltılar!</title>
-      <link>https://www.youtube.com/watch?v=rN4MJd0Er0Q</link>
-      <guid isPermaLink="false">rN4MJd0Er0Q</guid>
-      <pubDate>Thu, 17 Sep 2026 09:00:49 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: 'Hayalet' Lakabı İle Bilinen MİT'çi Kaşif Kozinoğlu Soruşturmasında Çok Çarpıcı Gözaltılar!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: FED Kararı Piyasaları Vurdu! TRUMP ÇILDIRDI! Büyük Enerji Krizi Kapıda! Altın ve Dolarda Ne Olacak?</title>
-      <link>https://www.youtube.com/watch?v=xWX_pnjegNg</link>
-      <guid isPermaLink="false">xWX_pnjegNg</guid>
-      <pubDate>Thu, 17 Sep 2026 08:50:27 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: FED Kararı Piyasaları Vurdu! TRUMP ÇILDIRDI! Büyük Enerji Krizi Kapıda! Altın ve Dolarda Ne Olacak?</description>
     </item>
   </channel>
 </rss>
