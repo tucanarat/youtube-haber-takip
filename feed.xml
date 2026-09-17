@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 17:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 18:00:55 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Adem Metan'ın İsmail Küçükkaya röportajı... Murat Taylan yorumluyor</title>
+      <link>https://www.youtube.com/watch?v=WjlnahuCj5U</link>
+      <guid isPermaLink="false">WjlnahuCj5U</guid>
+      <pubDate>Thu, 17 Sep 2026 18:00:06 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Adem Metan'ın İsmail Küçükkaya röportajı... Murat Taylan yorumluyor</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #CANLI Zeynel Lüle ile Ankara Günlüğü | Konuk: Sevim Kahraman Yanardağ (18.09.26)</title>
+      <link>https://www.youtube.com/watch?v=fBKOJCSCFc8</link>
+      <guid isPermaLink="false">fBKOJCSCFc8</guid>
+      <pubDate>Thu, 17 Sep 2026 17:55:44 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Zeynel Lüle ile Ankara Günlüğü | Konuk: Sevim Kahraman Yanardağ (18.09.26)</description>
+    </item>
     <item>
       <title>Halk TV: Hakkında 'şantaj' ve 'dolandırıcılık' davaları bulunan Erkan Çakır CHP'de yönetici oldu!</title>
       <link>https://www.youtube.com/watch?v=mPYe2SPAvbY</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">7XwuVVjS0FI</guid>
       <pubDate>Thu, 17 Sep 2026 14:00:21 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Miçotakis'in Karşısına Türk Komandosu! Mehmetçik'ten Hodri Meydan! EGE'DE SICAK SAATLER</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Serap Belovacıklı ile Haber Saati | 17 Eylül</title>
-      <link>https://www.youtube.com/watch?v=sQfz26TAPS0</link>
-      <guid isPermaLink="false">sQfz26TAPS0</guid>
-      <pubDate>Thu, 17 Sep 2026 13:58:41 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Serap Belovacıklı ile Haber Saati | 17 Eylül</description>
-    </item>
-    <item>
-      <title>Halk TV: FON BALONU GÖZ GÖRE GÖRE PATLAMIŞ! Bahadır Özgür neler anlattı neler! Her detayı şoke edecek!</title>
-      <link>https://www.youtube.com/watch?v=WZ5aojELQqM</link>
-      <guid isPermaLink="false">WZ5aojELQqM</guid>
-      <pubDate>Thu, 17 Sep 2026 13:55:10 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: FON BALONU GÖZ GÖRE GÖRE PATLAMIŞ! Bahadır Özgür neler anlattı neler! Her detayı şoke edecek!</description>
     </item>
   </channel>
 </rss>
