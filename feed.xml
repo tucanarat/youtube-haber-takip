@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 22:20:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 22:25:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: DOĞAN ÇETİNKAYA ARŞİVLERİ AÇTI! İşte Erdoğan’ın “Son” dediği seçimler!</title>
+      <link>https://www.youtube.com/watch?v=JjW9gYfeYvE</link>
+      <guid isPermaLink="false">JjW9gYfeYvE</guid>
+      <pubDate>Thu, 17 Sep 2026 22:15:10 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: DOĞAN ÇETİNKAYA ARŞİVLERİ AÇTI! İşte Erdoğan’ın “Son” dediği seçimler!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Pınar Erbaş ile Gecenin Sözü | 23 Eylül</title>
       <link>https://www.youtube.com/watch?v=5oEYV-8GSzk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">WjlnahuCj5U</guid>
       <pubDate>Thu, 17 Sep 2026 18:00:06 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Adem Metan'ın İsmail Küçükkaya röportajı... Murat Taylan yorumluyor</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Zeynel Lüle ile Ankara Günlüğü | Konuk: Sevim Kahraman Yanardağ (18.09.26)</title>
-      <link>https://www.youtube.com/watch?v=fBKOJCSCFc8</link>
-      <guid isPermaLink="false">fBKOJCSCFc8</guid>
-      <pubDate>Thu, 17 Sep 2026 17:55:44 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Zeynel Lüle ile Ankara Günlüğü | Konuk: Sevim Kahraman Yanardağ (18.09.26)</description>
     </item>
   </channel>
 </rss>
