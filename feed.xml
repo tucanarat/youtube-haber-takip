@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 21:05:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 21:10:33 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: ODTÜ Kültür ve Kongre Merkezi'nde Araştırma Üniversiteleri Destek Programı düzenleniyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=BAy5nsUVWr0</link>
+      <guid isPermaLink="false">BAy5nsUVWr0</guid>
+      <pubDate>Thu, 17 Sep 2026 21:08:17 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: ODTÜ Kültür ve Kongre Merkezi'nde Araştırma Üniversiteleri Destek Programı düzenleniyor #Canlı</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: FETHULLAHÇILARIN CIA BAĞLANTISI</title>
+      <link>https://www.youtube.com/shorts/fRAJJUTvjyo</link>
+      <guid isPermaLink="false">fRAJJUTvjyo</guid>
+      <pubDate>Thu, 17 Sep 2026 21:00:12 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: FETHULLAHÇILARIN CIA BAĞLANTISI</description>
+    </item>
     <item>
       <title>Halk TV: Yalova otogar yanında yangın: 11 kaplumbağa kurtarıldı! Kaplumbağalar veterinere teslim edildi!</title>
       <link>https://www.youtube.com/shorts/5iGSvIt_2_Y</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">DTyTnieB-HQ</guid>
       <pubDate>Thu, 17 Sep 2026 17:00:07 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Vergi Uzmanı Açıkladı: iPhone 18 Almak Mantıklı mı? | Mahmut Aydoğmuş | Vergi Kafe</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Ece Üner ile Halk Ana Haber | #faturahalka</title>
-      <link>https://www.youtube.com/watch?v=Tkwuu_Un_sE</link>
-      <guid isPermaLink="false">Tkwuu_Un_sE</guid>
-      <pubDate>Thu, 17 Sep 2026 16:56:23 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Ece Üner ile Halk Ana Haber | #faturahalka</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Gürsel Tekin'in kayyımlığı son buldu! Şimdi ne yapacak? Murat Taylan'dan nüktedan çıkış!</title>
-      <link>https://www.youtube.com/watch?v=MKZXrGFnFyw</link>
-      <guid isPermaLink="false">MKZXrGFnFyw</guid>
-      <pubDate>Thu, 17 Sep 2026 16:55:17 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Gürsel Tekin'in kayyımlığı son buldu! Şimdi ne yapacak? Murat Taylan'dan nüktedan çıkış!</description>
     </item>
   </channel>
 </rss>
