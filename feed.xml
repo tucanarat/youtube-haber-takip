@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 22:00:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 22:05:29 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Pınar Erbaş ile Gecenin Sözü | 23 Eylül</title>
+      <link>https://www.youtube.com/watch?v=5oEYV-8GSzk</link>
+      <guid isPermaLink="false">5oEYV-8GSzk</guid>
+      <pubDate>Thu, 17 Sep 2026 22:01:40 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Pınar Erbaş ile Gecenin Sözü | 23 Eylül</description>
+    </item>
+    <item>
+      <title>Halk TV: BÜYÜK VURGUNUN ŞİFRELERİ! Murat Birdal, fon yöneticileri ve Telegram arasındaki mekanizmayı anlattı!</title>
+      <link>https://www.youtube.com/watch?v=MLtPowzwGS4</link>
+      <guid isPermaLink="false">MLtPowzwGS4</guid>
+      <pubDate>Thu, 17 Sep 2026 22:00:22 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BÜYÜK VURGUNUN ŞİFRELERİ! Murat Birdal, fon yöneticileri ve Telegram arasındaki mekanizmayı anlattı!</description>
+    </item>
     <item>
       <title>Halk TV: Gökmen Karadağ ile Açıkça (17 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=tkkqysLqRvw</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">mLQGfC6Ev-U</guid>
       <pubDate>Thu, 17 Sep 2026 17:30:47 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Ülkü Çoban ile Manşet Ötesi (18.09.26)</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Şoförün Mehmet Şimşek'e isyanı gündem oldu: Ya kendinize gelin ya gidin ya!</title>
-      <link>https://www.youtube.com/watch?v=1k5F3DDwMoc</link>
-      <guid isPermaLink="false">1k5F3DDwMoc</guid>
-      <pubDate>Thu, 17 Sep 2026 17:30:27 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Şoförün Mehmet Şimşek'e isyanı gündem oldu: Ya kendinize gelin ya gidin ya!</description>
-    </item>
-    <item>
-      <title>Halk TV: FON TASFİYESİNDE ŞOK DETAY! 'Paramı nasıl alacağım?' diyenler mutlaka dinlesin! Enes Özkan anlattı!</title>
-      <link>https://www.youtube.com/watch?v=RpnEkga8KRE</link>
-      <guid isPermaLink="false">RpnEkga8KRE</guid>
-      <pubDate>Thu, 17 Sep 2026 17:30:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: FON TASFİYESİNDE ŞOK DETAY! 'Paramı nasıl alacağım?' diyenler mutlaka dinlesin! Enes Özkan anlattı!</description>
     </item>
   </channel>
 </rss>
