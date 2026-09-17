@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 09:31:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 09:35:27 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: KAŞİF KOZİNOĞLU'NUN SON ANLARI! Saygı Öztürk Yazdı İsmail Saymaz Canlı Yayında Böyle Okudu</title>
       <link>https://www.youtube.com/watch?v=azfH13cokuM</link>
@@ -323,6 +323,13 @@
       <description>Cumhuriyet kanalından yeni video: İBB'den öğrencilere 1 liralık abonman desteği</description>
     </item>
     <item>
+      <title>SÖZCÜ TV: "SEÇİM MENZİLE GİRDİ!" İsmail Saymaz Erken Seçim İçin Tarih Verdi! Erdoğan ve Yeni Parti Kulisleri</title>
+      <link>https://www.youtube.com/watch?v=Nno5xGR0SH8</link>
+      <guid isPermaLink="false">Nno5xGR0SH8</guid>
+      <pubDate>Thu, 17 Sep 2026 07:02:37 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: "SEÇİM MENZİLE GİRDİ!" İsmail Saymaz Erken Seçim İçin Tarih Verdi! Erdoğan ve Yeni Parti Kulisleri</description>
+    </item>
+    <item>
       <title>SÖZCÜ TV: Panik Satışları Patladı! Tera Portföy'den Şok 'Ödeme Yapılamayacak' Açıklaması! Borsada Ne Olacak?</title>
       <link>https://www.youtube.com/watch?v=sk3rvzXdqH8</link>
       <guid isPermaLink="false">sk3rvzXdqH8</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">WkroJ7qPa90</guid>
       <pubDate>Thu, 17 Sep 2026 06:57:26 +0000</pubDate>
       <description>Halk TV kanalından yeni video: “Bir depo benzin alacaksan çantayla gezeceksin!” Zamlar emekliyi isyan ettirdi</description>
-    </item>
-    <item>
-      <title>Halk TV: #CANLI | Ebru Baki ile Para Siyaset | İbrahim Kahveci - Tuba Torun</title>
-      <link>https://www.youtube.com/watch?v=_zs260MjTPg</link>
-      <guid isPermaLink="false">_zs260MjTPg</guid>
-      <pubDate>Thu, 17 Sep 2026 06:53:29 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: #CANLI | Ebru Baki ile Para Siyaset | İbrahim Kahveci - Tuba Torun</description>
     </item>
   </channel>
 </rss>
