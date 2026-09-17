@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 07:50:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 07:55:25 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: İSMAİL SAYMAZ WHATSAPP YAZIŞMALARINI İSMAİL KÜÇÜKKAYA'YA GÖSTERDİ! Pusula Portföy Gerçekleri</title>
+      <link>https://www.youtube.com/watch?v=MCA4cln5B4Q</link>
+      <guid isPermaLink="false">MCA4cln5B4Q</guid>
+      <pubDate>Thu, 17 Sep 2026 07:50:11 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İSMAİL SAYMAZ WHATSAPP YAZIŞMALARINI İSMAİL KÜÇÜKKAYA'YA GÖSTERDİ! Pusula Portföy Gerçekleri</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Ankara Şehiriçi Özel Halk Otobüsçüler Esnaf Odası üyeleri, mazot zammını protesto ediyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=1HAzwSw52kc</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">07xwrX0c19c</guid>
       <pubDate>Wed, 16 Sep 2026 23:00:19 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Akif Beki’den 2023 seçimi için çarpıcı sözler! “Plan değil, ortada pilav vardı!”</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Kurtlar Vadisi Pusu’da Kan Donduran FETÖ Gerçeği! Tesadüf mü, Sübliminal Mesaj mı?</title>
-      <link>https://www.youtube.com/watch?v=pyHujGmWBhg</link>
-      <guid isPermaLink="false">pyHujGmWBhg</guid>
-      <pubDate>Wed, 16 Sep 2026 23:00:08 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Kurtlar Vadisi Pusu’da Kan Donduran FETÖ Gerçeği! Tesadüf mü, Sübliminal Mesaj mı?</description>
     </item>
   </channel>
 </rss>
