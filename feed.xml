@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 17:10:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 17:15:31 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Aylar önce patlayacak denmiş! Fonlar çöktü fatura yine halka kesilecek! Murat Taylan bir bir anlattı</title>
+      <link>https://www.youtube.com/watch?v=6Jk3c-RkobU</link>
+      <guid isPermaLink="false">6Jk3c-RkobU</guid>
+      <pubDate>Thu, 17 Sep 2026 17:10:21 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Aylar önce patlayacak denmiş! Fonlar çöktü fatura yine halka kesilecek! Murat Taylan bir bir anlattı</description>
+    </item>
     <item>
       <title>Halk TV: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (17 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=KC3WIy_ew1c</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">hOVMtLAqgeo</guid>
       <pubDate>Thu, 17 Sep 2026 13:29:08 +0000</pubDate>
       <description>Halk TV kanalından yeni video: İcradan satılan Soma B Termik Santrali için Ahmet Vehbi Bakırlıoğlu'ndan “kamulaştırılsın” çağrısı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Başarır'dan mazot fiyatına tepki: 200 lirayla iki litre mazot alamıyoruz sen önce bunun hesabını ver</title>
-      <link>https://www.youtube.com/shorts/Avmycscdszo</link>
-      <guid isPermaLink="false">Avmycscdszo</guid>
-      <pubDate>Thu, 17 Sep 2026 13:29:00 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Başarır'dan mazot fiyatına tepki: 200 lirayla iki litre mazot alamıyoruz sen önce bunun hesabını ver</description>
     </item>
   </channel>
 </rss>
