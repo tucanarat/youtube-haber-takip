@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 09:50:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 09:55:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | İrem Sansak ile Haber Masası</title>
+      <link>https://www.youtube.com/watch?v=I6Xx-FrqWvk</link>
+      <guid isPermaLink="false">I6Xx-FrqWvk</guid>
+      <pubDate>Thu, 17 Sep 2026 09:51:08 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | İrem Sansak ile Haber Masası</description>
+    </item>
+    <item>
+      <title>Halk TV: Pusula Portföy fonlarında şok ödeme krizi! 130 milyar liralık çıkış gerçekleşti! Ebru Baki anlattı!</title>
+      <link>https://www.youtube.com/watch?v=QD8YyJnS9D0</link>
+      <guid isPermaLink="false">QD8YyJnS9D0</guid>
+      <pubDate>Thu, 17 Sep 2026 09:50:21 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Pusula Portföy fonlarında şok ödeme krizi! 130 milyar liralık çıkış gerçekleşti! Ebru Baki anlattı!</description>
+    </item>
     <item>
       <title>Cumhuriyet: Sezgin Tanrıkulu 100 liralık banknotu salladı: 1 litre mazot bile alamıyorsunuz</title>
       <link>https://www.youtube.com/shorts/FwzO5QZ1tF8</link>
@@ -139,6 +153,13 @@
       <guid isPermaLink="false">EmrRTg4GsPE</guid>
       <pubDate>Thu, 17 Sep 2026 08:48:11 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Zafer Partisi Genel Başkanı Ümit Özdağ, Partisinin Genel Merkezinde Konuştu!</description>
+    </item>
+    <item>
+      <title>Halk TV: AHMET AKIN KİLİTLENDİ! YENİ Partili isimlerin sözleri Meclis'te fırtına koparttı! Gündeme oturacak!</title>
+      <link>https://www.youtube.com/watch?v=h5OHkFae1ss</link>
+      <guid isPermaLink="false">h5OHkFae1ss</guid>
+      <pubDate>Thu, 17 Sep 2026 08:44:51 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: AHMET AKIN KİLİTLENDİ! YENİ Partili isimlerin sözleri Meclis'te fırtına koparttı! Gündeme oturacak!</description>
     </item>
     <item>
       <title>Cumhuriyet: Veliler dikkat! Uzmanından 'sosyal medya' uyarısı</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">zzBzHV0LQUg</guid>
       <pubDate>Thu, 17 Sep 2026 07:05:11 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SİLİVRİ’DE HERKES AĞLADI! O soru etkin pişmanlıkçıyı gözyaşlarına boğdu! Gökhan Kayış isyan etti!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: İBB'den öğrencilere 1 liralık abonman desteği</title>
-      <link>https://www.youtube.com/shorts/XPwbpz8e0TE</link>
-      <guid isPermaLink="false">XPwbpz8e0TE</guid>
-      <pubDate>Thu, 17 Sep 2026 07:03:46 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: İBB'den öğrencilere 1 liralık abonman desteği</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: "SEÇİM MENZİLE GİRDİ!" İsmail Saymaz Erken Seçim İçin Tarih Verdi! Erdoğan ve Yeni Parti Kulisleri</title>
-      <link>https://www.youtube.com/watch?v=Nno5xGR0SH8</link>
-      <guid isPermaLink="false">Nno5xGR0SH8</guid>
-      <pubDate>Thu, 17 Sep 2026 07:02:37 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: "SEÇİM MENZİLE GİRDİ!" İsmail Saymaz Erken Seçim İçin Tarih Verdi! Erdoğan ve Yeni Parti Kulisleri</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Panik Satışları Patladı! Tera Portföy'den Şok 'Ödeme Yapılamayacak' Açıklaması! Borsada Ne Olacak?</title>
-      <link>https://www.youtube.com/watch?v=sk3rvzXdqH8</link>
-      <guid isPermaLink="false">sk3rvzXdqH8</guid>
-      <pubDate>Thu, 17 Sep 2026 07:00:11 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Panik Satışları Patladı! Tera Portföy'den Şok 'Ödeme Yapılamayacak' Açıklaması! Borsada Ne Olacak?</description>
     </item>
   </channel>
 </rss>
