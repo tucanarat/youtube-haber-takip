@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 07:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 07:25:30 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: YENİ Partili Aşkın Genç'ten akaryakıt tepkisi: Motorin artık tabelaya sığmıyor</title>
+      <link>https://www.youtube.com/shorts/ixs8L-uA7Uo</link>
+      <guid isPermaLink="false">ixs8L-uA7Uo</guid>
+      <pubDate>Thu, 17 Sep 2026 07:21:39 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: YENİ Partili Aşkın Genç'ten akaryakıt tepkisi: Motorin artık tabelaya sığmıyor</description>
+    </item>
+    <item>
+      <title>Halk TV: SON DAKİKA! BORSA DEPREMİ SONRASI ACİL TOPLANTI KARARI ALINMIŞTI! Beklenen kritik açıklama yapıldı!</title>
+      <link>https://www.youtube.com/watch?v=OMSj3hZYvyo</link>
+      <guid isPermaLink="false">OMSj3hZYvyo</guid>
+      <pubDate>Thu, 17 Sep 2026 07:20:42 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! BORSA DEPREMİ SONRASI ACİL TOPLANTI KARARI ALINMIŞTI! Beklenen kritik açıklama yapıldı!</description>
+    </item>
     <item>
       <title>Cumhuriyet: Selçuk Türkoğlu'ndan Mehmet Şimşek'e 'motorin' tepkisi: Maaşları da Avrupa ile kıyaslasana</title>
       <link>https://www.youtube.com/shorts/hoZ3HAPvhsU</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">FwmRdtRinDI</guid>
       <pubDate>Wed, 16 Sep 2026 22:34:31 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: CHP Grup Başkanvekili Sevda Erdan Kılıç, TBMM'de açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: Turhan Çömez’den gelecek seçimler için iddialı çıkış! “Siyasi motivasyonu sokaklardaki açlık olacak”</title>
-      <link>https://www.youtube.com/watch?v=i9BY6QJaceM</link>
-      <guid isPermaLink="false">i9BY6QJaceM</guid>
-      <pubDate>Wed, 16 Sep 2026 22:20:08 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Turhan Çömez’den gelecek seçimler için iddialı çıkış! “Siyasi motivasyonu sokaklardaki açlık olacak”</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Kurtlar Vadisi'ndeki Oyuncu İsmail Saymaz'a Konuştu! Kaşif Kozinoğlu'nun Sır Ölümü Çözülüyor...</title>
-      <link>https://www.youtube.com/watch?v=95BwE9NVV4c</link>
-      <guid isPermaLink="false">95BwE9NVV4c</guid>
-      <pubDate>Wed, 16 Sep 2026 22:20:01 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Kurtlar Vadisi'ndeki Oyuncu İsmail Saymaz'a Konuştu! Kaşif Kozinoğlu'nun Sır Ölümü Çözülüyor...</description>
     </item>
   </channel>
 </rss>
