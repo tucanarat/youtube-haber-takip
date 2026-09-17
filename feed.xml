@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 02:55:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 03:00:52 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: Borsa Çöktü, Küçük Yatırımcı Panikte! Kerim Rota'dan Şok Uyarı ve FED Kararı</title>
       <link>https://www.youtube.com/watch?v=zYDJ-HTLP0k</link>
@@ -295,6 +295,13 @@
       <description>Halk TV kanalından yeni video: Turhan Çömez’den kritik seçim uyarısı! “Millet sandığa güvenini kaybederse…”</description>
     </item>
     <item>
+      <title>Halk TV: #CANLI | Gökhan Kayış ile Günaydın Türkiye</title>
+      <link>https://www.youtube.com/watch?v=zkg38_Crs0g</link>
+      <guid isPermaLink="false">zkg38_Crs0g</guid>
+      <pubDate>Wed, 16 Sep 2026 20:54:51 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Gökhan Kayış ile Günaydın Türkiye</description>
+    </item>
+    <item>
       <title>Halk TV: Hukukçu Afşin Hatipoğlu, iktidarın muhalefete yönelik baskını dikkat çeken bir fiille anlattı!</title>
       <link>https://www.youtube.com/watch?v=XPwvkmDwLac</link>
       <guid isPermaLink="false">XPwvkmDwLac</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">7pIqvJaA6vs</guid>
       <pubDate>Wed, 16 Sep 2026 19:40:33 +0000</pubDate>
       <description>Halk TV kanalından yeni video: AKBELENLİLER DANIŞTAY’A DAYANDI! Kamulaştırma davasında kritik duruşma!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: CHP'de Kan Donduran Atama! İsmail Saymaz Kanser Hastasına Şantaj Yapan Erkan Çakır'ı Anlattı</title>
-      <link>https://www.youtube.com/watch?v=VQeay7FlxPs</link>
-      <guid isPermaLink="false">VQeay7FlxPs</guid>
-      <pubDate>Wed, 16 Sep 2026 19:40:30 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: CHP'de Kan Donduran Atama! İsmail Saymaz Kanser Hastasına Şantaj Yapan Erkan Çakır'ı Anlattı</description>
     </item>
   </channel>
 </rss>
