@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 13:35:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 13:40:35 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Kaşif Kozinoğlu Ölmeden Önce O Notları Kime Verdi? Hasan Atilla Uğur'dan Açıklama! Can Anlattı</title>
+      <link>https://www.youtube.com/watch?v=m25m6uMOkAQ</link>
+      <guid isPermaLink="false">m25m6uMOkAQ</guid>
+      <pubDate>Thu, 17 Sep 2026 13:40:00 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Kaşif Kozinoğlu Ölmeden Önce O Notları Kime Verdi? Hasan Atilla Uğur'dan Açıklama! Can Anlattı</description>
+    </item>
+    <item>
+      <title>Halk TV: Ali Mahir Başarır'dan Mehmet Şimşek'e enflasyon tepkisi!</title>
+      <link>https://www.youtube.com/shorts/8cIH8lvzfZE</link>
+      <guid isPermaLink="false">8cIH8lvzfZE</guid>
+      <pubDate>Thu, 17 Sep 2026 13:38:04 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Ali Mahir Başarır'dan Mehmet Şimşek'e enflasyon tepkisi!</description>
+    </item>
     <item>
       <title>Tele2 Haber: Özgür  Özel: "Öcalan'ın Eve Çıkmasını Değil, Demirtaş’ın Evine Kavuşmasını Konuşmak İsteriz."</title>
       <link>https://www.youtube.com/watch?v=Q_GCLSAxq-M</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">kZOUUoikYaA</guid>
       <pubDate>Thu, 17 Sep 2026 10:55:26 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Can Coşkun ile Gündem Masası | 17 Eylül</description>
-    </item>
-    <item>
-      <title>Halk TV: FED'in faiz kararı altını sarstı, dolar uçuşa geçti! Halk TV piyasanın kalbinde! İşte son durum!</title>
-      <link>https://www.youtube.com/watch?v=u4kUvNftbiQ</link>
-      <guid isPermaLink="false">u4kUvNftbiQ</guid>
-      <pubDate>Thu, 17 Sep 2026 10:50:11 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: FED'in faiz kararı altını sarstı, dolar uçuşa geçti! Halk TV piyasanın kalbinde! İşte son durum!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI YENİ Parti Grup Başkanvekili Ali Mahir Başarır, TBMM’de Basın Toplantısı düzenliyor</title>
-      <link>https://www.youtube.com/watch?v=O0NMNEJzdu4</link>
-      <guid isPermaLink="false">O0NMNEJzdu4</guid>
-      <pubDate>Thu, 17 Sep 2026 10:46:55 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI YENİ Parti Grup Başkanvekili Ali Mahir Başarır, TBMM’de Basın Toplantısı düzenliyor</description>
     </item>
   </channel>
 </rss>
