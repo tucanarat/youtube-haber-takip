@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 19:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 19:25:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Gözaltılar artmaya başladı: 900 milyar lira yatırılan 130 fon tasfiye edildi!</title>
+      <link>https://www.youtube.com/watch?v=mwEeSvcm5IY</link>
+      <guid isPermaLink="false">mwEeSvcm5IY</guid>
+      <pubDate>Thu, 17 Sep 2026 19:15:38 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Gözaltılar artmaya başladı: 900 milyar lira yatırılan 130 fon tasfiye edildi!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: "SPK ve MASAK Uyudu mu?" Ramazan Başak'tan Gündem Yaratacak Borsa Dolandırıcılığı Açıklaması</title>
       <link>https://www.youtube.com/watch?v=OP6ADtJPt1c</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">2-62pyjmyuE</guid>
       <pubDate>Thu, 17 Sep 2026 15:10:16 +0000</pubDate>
       <description>Halk TV kanalından yeni video: MEHMET ŞİMŞEK BU SÖZLERİN ALTINDAN KALKAMAZ! Ali Mahir Başarır ateş püskürdü! Yok böyle sözler!</description>
-    </item>
-    <item>
-      <title>Halk TV: SPK'dan 7 Şirketin 130 Fonuna Tasfiye Kararı! Tüm İşlemler Durduruldu! Piyasalar Alev Alev!</title>
-      <link>https://www.youtube.com/watch?v=8OxUL77psGE</link>
-      <guid isPermaLink="false">8OxUL77psGE</guid>
-      <pubDate>Thu, 17 Sep 2026 15:10:05 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SPK'dan 7 Şirketin 130 Fonuna Tasfiye Kararı! Tüm İşlemler Durduruldu! Piyasalar Alev Alev!</description>
     </item>
   </channel>
 </rss>
