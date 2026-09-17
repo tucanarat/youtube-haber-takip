@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 08:15:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 08:20:34 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: KÜÇÜK YATIRIMCI DİKKAT! BIST 100'de Büyük Panik! Fonlar Batıyor mu, Satış Dalgası Sürecek mi?</title>
       <link>https://www.youtube.com/watch?v=CVERZx1TsXs</link>
       <guid isPermaLink="false">CVERZx1TsXs</guid>
       <pubDate>Thu, 17 Sep 2026 08:10:08 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: KÜÇÜK YATIRIMCI DİKKAT! BIST 100'de Büyük Panik! Fonlar Batıyor mu, Satış Dalgası Sürecek mi?</description>
+    </item>
+    <item>
+      <title>Halk TV: ERDOĞAN'I HESABI BU KEZ TUTMADI! Özgür Özel'in paylaşımı sosyal medyayı ayağa kaldırdı! Saray şaşar!</title>
+      <link>https://www.youtube.com/watch?v=efinOgMffFw</link>
+      <guid isPermaLink="false">efinOgMffFw</guid>
+      <pubDate>Thu, 17 Sep 2026 08:10:02 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ERDOĞAN'I HESABI BU KEZ TUTMADI! Özgür Özel'in paylaşımı sosyal medyayı ayağa kaldırdı! Saray şaşar!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: İsmail Küçükkaya ile Günaydın Türkiyem | 17 Eylül</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">deCJoG1WE04</guid>
       <pubDate>Thu, 17 Sep 2026 00:00:30 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: TEBRİZ'DE TARİHİ KRİZ! Sözcü TV İran'da! Hamaney Bunu Yapabilir! Büyük Tehlike Açığa Çıktı</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: YENİ Parti İzmir Milletvekili Ümit Özlale, Parti Genel Merkezi’nde basın açıklaması yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=JSq2zZk9vbA</link>
-      <guid isPermaLink="false">JSq2zZk9vbA</guid>
-      <pubDate>Thu, 17 Sep 2026 00:00:25 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti İzmir Milletvekili Ümit Özlale, Parti Genel Merkezi’nde basın açıklaması yapıyor #Canlı</description>
     </item>
   </channel>
 </rss>
