@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 14:50:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 14:55:25 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Ece Üner ile Halk Ana Haber | #faturahalka</title>
+      <link>https://www.youtube.com/watch?v=Tkwuu_Un_sE</link>
+      <guid isPermaLink="false">Tkwuu_Un_sE</guid>
+      <pubDate>Thu, 17 Sep 2026 14:51:19 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Ece Üner ile Halk Ana Haber | #faturahalka</description>
+    </item>
+    <item>
+      <title>Halk TV: KILIÇLARI ÇEKTİ! Ümit Özdağ'dan Cumhur'un darmaduman edecek 'villa' sözleri! Demediğini bırakmadı!</title>
+      <link>https://www.youtube.com/watch?v=eBz3Qo2AZNk</link>
+      <guid isPermaLink="false">eBz3Qo2AZNk</guid>
+      <pubDate>Thu, 17 Sep 2026 14:40:07 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: KILIÇLARI ÇEKTİ! Ümit Özdağ'dan Cumhur'un darmaduman edecek 'villa' sözleri! Demediğini bırakmadı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Husiler Kazanıyor Suudi Arabistan'ın Füze Stokları Tükeniyor! Husiler Suudi Uçağını Vurdu</title>
       <link>https://www.youtube.com/watch?v=iiySGWSrjls</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">74w4PWjvPKg</guid>
       <pubDate>Thu, 17 Sep 2026 11:40:06 +0000</pubDate>
       <description>Halk TV kanalından yeni video: TÜRKİYE BUNU KONUŞACAK! İBB itirafçısı 'parayı teslim ettim' dediği kişiyi tanımamış! Büyük çöküş!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Sermaye piyasalarında yaşananlardan sonra Kemal Kılıçdaroğlu’dan sorular #shorts</title>
-      <link>https://www.youtube.com/shorts/bP4qeR1AWQ4</link>
-      <guid isPermaLink="false">bP4qeR1AWQ4</guid>
-      <pubDate>Thu, 17 Sep 2026 11:36:16 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Sermaye piyasalarında yaşananlardan sonra Kemal Kılıçdaroğlu’dan sorular #shorts</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Vergi Uzmanı Açıkladı: iPhone 18 Almak Mantıklı mı? | Mahmut Aydoğmuş | Vergi Kafe</title>
-      <link>https://www.youtube.com/watch?v=DTyTnieB-HQ</link>
-      <guid isPermaLink="false">DTyTnieB-HQ</guid>
-      <pubDate>Thu, 17 Sep 2026 11:32:59 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Vergi Uzmanı Açıkladı: iPhone 18 Almak Mantıklı mı? | Mahmut Aydoğmuş | Vergi Kafe</description>
     </item>
   </channel>
 </rss>
