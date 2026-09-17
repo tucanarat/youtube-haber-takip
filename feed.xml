@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 22:35:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 22:40:33 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Devlet Memurları Konfederasyonu üyeleri, Milli Eğitim Bakanlığı önünde açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=7OADKY42_PU</link>
+      <guid isPermaLink="false">7OADKY42_PU</guid>
+      <pubDate>Thu, 17 Sep 2026 22:39:04 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Devlet Memurları Konfederasyonu üyeleri, Milli Eğitim Bakanlığı önünde açıklama yapıyor #Canlı</description>
+    </item>
+    <item>
+      <title>Halk TV: Meclis salonunda dikkat çeken görüntü! CHP’den istifa etti, AK Parti meclis üyeleri tebrik etti!</title>
+      <link>https://www.youtube.com/watch?v=oGV9tXvIEfg</link>
+      <guid isPermaLink="false">oGV9tXvIEfg</guid>
+      <pubDate>Thu, 17 Sep 2026 22:30:33 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Meclis salonunda dikkat çeken görüntü! CHP’den istifa etti, AK Parti meclis üyeleri tebrik etti!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Barış Terkoğlu Kaşif Kozinoğlu'nun Ölümündeki Kan Donduran İhmalleri Anlattı! Gizli Kalmış Gerçekler</title>
       <link>https://www.youtube.com/watch?v=XJRhb4a2XgE</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">49mohOhjQY8</guid>
       <pubDate>Thu, 17 Sep 2026 18:15:11 +0000</pubDate>
       <description>Halk TV kanalından yeni video: “DEMİRTAŞ’IN EVİNE KAVUŞMASINI KONUŞALIM” Demirtaş ve Öcalan tartışmasında Özgür Özel’den net mesaj!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Barış Terkoğlu Mehmet Şimşek'e Esti Gürledi! Borsadaki 48 Saatlik Türbülansın Perde Arkası</title>
-      <link>https://www.youtube.com/watch?v=bleY34CSxlU</link>
-      <guid isPermaLink="false">bleY34CSxlU</guid>
-      <pubDate>Thu, 17 Sep 2026 18:00:32 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Barış Terkoğlu Mehmet Şimşek'e Esti Gürledi! Borsadaki 48 Saatlik Türbülansın Perde Arkası</description>
-    </item>
-    <item>
-      <title>Halk TV: Kantinlerde satılacak ürünler ile ilgili yeni liste açıklandı: Bu ürünlerin satışı yasak!</title>
-      <link>https://www.youtube.com/watch?v=Kl6MEYx7ILw</link>
-      <guid isPermaLink="false">Kl6MEYx7ILw</guid>
-      <pubDate>Thu, 17 Sep 2026 18:00:26 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Kantinlerde satılacak ürünler ile ilgili yeni liste açıklandı: Bu ürünlerin satışı yasak!</description>
     </item>
   </channel>
 </rss>
