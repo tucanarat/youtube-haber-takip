@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 11:30:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 11:35:27 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: TÜRKİYE'Yİ SEL ALACAK! Meteoroloji'den Fırtına Alarmı! İstanbul, Ankara, İzmir İçin Acil Uyarı</title>
+      <link>https://www.youtube.com/watch?v=jjKDPMxvgH0</link>
+      <guid isPermaLink="false">jjKDPMxvgH0</guid>
+      <pubDate>Thu, 17 Sep 2026 11:30:39 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: TÜRKİYE'Yİ SEL ALACAK! Meteoroloji'den Fırtına Alarmı! İstanbul, Ankara, İzmir İçin Acil Uyarı</description>
+    </item>
     <item>
       <title>Halk TV: PİYASALAR YANGIN YERİ! Butlan CHP’sinin Genel Başkanı Kılıçdaroğlu Açıklama Yaptı!</title>
       <link>https://www.youtube.com/watch?v=FxVNDs_jc9w</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">nhyPAqvymXA</guid>
       <pubDate>Thu, 17 Sep 2026 08:48:28 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Hayvanat bahçesinden kaçan deve kuşu trafiği birbirine kattı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Zafer Partisi Genel Başkanı Ümit Özdağ, Partisinin Genel Merkezinde Konuştu!</title>
-      <link>https://www.youtube.com/watch?v=EmrRTg4GsPE</link>
-      <guid isPermaLink="false">EmrRTg4GsPE</guid>
-      <pubDate>Thu, 17 Sep 2026 08:48:11 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Zafer Partisi Genel Başkanı Ümit Özdağ, Partisinin Genel Merkezinde Konuştu!</description>
     </item>
   </channel>
 </rss>
