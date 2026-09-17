@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 14:05:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 14:10:36 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: Miçotakis'in Karşısına Türk Komandosu! Mehmetçik'ten Hodri Meydan! EGE'DE SICAK SAATLER</title>
       <link>https://www.youtube.com/watch?v=7XwuVVjS0FI</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">sQfz26TAPS0</guid>
       <pubDate>Thu, 17 Sep 2026 13:58:41 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Serap Belovacıklı ile Haber Saati | 17 Eylül</description>
+    </item>
+    <item>
+      <title>Halk TV: FON BALONU GÖZ GÖRE GÖRE PATLAMIŞ! Bahadır Özgür neler anlattı neler! Her detayı şoke edecek!</title>
+      <link>https://www.youtube.com/watch?v=WZ5aojELQqM</link>
+      <guid isPermaLink="false">WZ5aojELQqM</guid>
+      <pubDate>Thu, 17 Sep 2026 13:55:10 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: FON BALONU GÖZ GÖRE GÖRE PATLAMIŞ! Bahadır Özgür neler anlattı neler! Her detayı şoke edecek!</description>
     </item>
     <item>
       <title>Cumhuriyet: #CANLI İBB Davasında 83. gün! Yazışmalardaki “Fatih abi” kim?</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">euYeqnCM4zk</guid>
       <pubDate>Thu, 17 Sep 2026 11:15:47 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Ali Mahir Başarır cebinden parayı çıkardı ve Mehmet Şimşek'e seslendi!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: CHP Genel Başkanı Kemal Kılıçdaroğlu, CHP Ekonomi Masası toplantısının ardından açıklama yapıyor</title>
-      <link>https://www.youtube.com/watch?v=4yHx3oUyLzI</link>
-      <guid isPermaLink="false">4yHx3oUyLzI</guid>
-      <pubDate>Thu, 17 Sep 2026 11:14:02 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: CHP Genel Başkanı Kemal Kılıçdaroğlu, CHP Ekonomi Masası toplantısının ardından açıklama yapıyor</description>
     </item>
   </channel>
 </rss>
