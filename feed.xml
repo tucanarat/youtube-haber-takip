@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 15:45:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 15:50:33 +0000</lastBuildDate>
     <item>
       <title>Halk TV: SON DAKİKA! CHP İstanbul İl Başkanlığı'na kayyum olarak atanan Gürsel Tekin'in görevine son verildi!</title>
       <link>https://www.youtube.com/watch?v=A9ywt5YHd8k</link>
       <guid isPermaLink="false">A9ywt5YHd8k</guid>
       <pubDate>Thu, 17 Sep 2026 15:40:35 +0000</pubDate>
       <description>Halk TV kanalından yeni video: SON DAKİKA! CHP İstanbul İl Başkanlığı'na kayyum olarak atanan Gürsel Tekin'in görevine son verildi!</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: DÜNYAYI SARSACAK KARAR! Avrupa Trump'a Karşı Harekete Geçti! Savaş Çıkartacak Kanada Hamlesi</title>
+      <link>https://www.youtube.com/watch?v=aGTKChvrBXQ</link>
+      <guid isPermaLink="false">aGTKChvrBXQ</guid>
+      <pubDate>Thu, 17 Sep 2026 15:40:16 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: DÜNYAYI SARSACAK KARAR! Avrupa Trump'a Karşı Harekete Geçti! Savaş Çıkartacak Kanada Hamlesi</description>
     </item>
     <item>
       <title>Halk TV: ERDOĞAN'A YOLUN SONUNU GÖSTERDİ! Remzi Çayır'dan tir tir titretecek sözler! Salon bile buz kesti!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">eeJopjdjHik</guid>
       <pubDate>Thu, 17 Sep 2026 12:28:16 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: 25 yıl sonra 9/11- (II)-Ergin Yıldızoğlu</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Tarım ülkesinde gıda sorunu!-Mustafa Balbay</title>
-      <link>https://www.youtube.com/watch?v=E3VaATZzELg</link>
-      <guid isPermaLink="false">E3VaATZzELg</guid>
-      <pubDate>Thu, 17 Sep 2026 12:28:13 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Tarım ülkesinde gıda sorunu!-Mustafa Balbay</description>
     </item>
   </channel>
 </rss>
