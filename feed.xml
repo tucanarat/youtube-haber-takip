@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 18:50:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 18:55:25 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Mezarı açılan Kaşif Kozinoğlu’nun iki koğuş arkadaşı için gözaltı kararı verildi!</title>
+      <link>https://www.youtube.com/watch?v=nGDceic2MA4</link>
+      <guid isPermaLink="false">nGDceic2MA4</guid>
+      <pubDate>Thu, 17 Sep 2026 18:45:32 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Mezarı açılan Kaşif Kozinoğlu’nun iki koğuş arkadaşı için gözaltı kararı verildi!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: SPK 130 Fonu Tasfiye Etti! Küçük Yatırımcıya Kritik Uyarı! Paralar Böyle Dağıtılacakmış</title>
       <link>https://www.youtube.com/watch?v=idqDFhJcpU8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">WBF6xOtYAH0</guid>
       <pubDate>Thu, 17 Sep 2026 15:00:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İsmail Saymaz &amp; Barış Terkoğlu &amp; Murat Ağırel | Kaşif Kozinoğlu, Borsada Deprem, Yeni Parti, FETÖ</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Damla Doğan Tuncel ile 1 Saat | 17 Eylül</title>
-      <link>https://www.youtube.com/watch?v=HT9d36dN0gs</link>
-      <guid isPermaLink="false">HT9d36dN0gs</guid>
-      <pubDate>Thu, 17 Sep 2026 14:57:18 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Damla Doğan Tuncel ile 1 Saat | 17 Eylül</description>
     </item>
   </channel>
 </rss>
