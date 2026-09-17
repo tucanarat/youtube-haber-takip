@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 18:10:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 18:15:34 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Barış Terkoğlu Mehmet Şimşek'e Esti Gürledi! Borsadaki 48 Saatlik Türbülansın Perde Arkası</title>
+      <link>https://www.youtube.com/watch?v=bleY34CSxlU</link>
+      <guid isPermaLink="false">bleY34CSxlU</guid>
+      <pubDate>Thu, 17 Sep 2026 18:00:32 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Barış Terkoğlu Mehmet Şimşek'e Esti Gürledi! Borsadaki 48 Saatlik Türbülansın Perde Arkası</description>
+    </item>
     <item>
       <title>Halk TV: Kantinlerde satılacak ürünler ile ilgili yeni liste açıklandı: Bu ürünlerin satışı yasak!</title>
       <link>https://www.youtube.com/watch?v=Kl6MEYx7ILw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">kiuMiAsfj8E</guid>
       <pubDate>Thu, 17 Sep 2026 14:15:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İsmail Saymaz Bombaları Patlattı! CHP'de İçindeki Şantajcı Krizi, Yeni Parti'ye Gizli Tebligat...</description>
-    </item>
-    <item>
-      <title>Halk TV: TİCARET BAKANI YAKAYI ÇABUK ELE VERDİ! Deniz Yavuzyılmaz büyük fiyasokoyu ifşaladı! Meğer Türkiye...</title>
-      <link>https://www.youtube.com/watch?v=36AEICsRKkQ</link>
-      <guid isPermaLink="false">36AEICsRKkQ</guid>
-      <pubDate>Thu, 17 Sep 2026 14:10:25 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: TİCARET BAKANI YAKAYI ÇABUK ELE VERDİ! Deniz Yavuzyılmaz büyük fiyasokoyu ifşaladı! Meğer Türkiye...</description>
     </item>
   </channel>
 </rss>
