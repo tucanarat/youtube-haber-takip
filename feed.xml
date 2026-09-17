@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 22:15:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 22:20:31 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: Pınar Erbaş ile Gecenin Sözü | 23 Eylül</title>
       <link>https://www.youtube.com/watch?v=5oEYV-8GSzk</link>
@@ -48,6 +48,13 @@
       <guid isPermaLink="false">PXyoiVNcGT4</guid>
       <pubDate>Thu, 17 Sep 2026 21:40:21 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Saray'ın Erken Seçim ve Anayasa Oyunu Ortaya Çıktı! Mehmet Uçum'dan Olay Erdoğan İtirafı</description>
+    </item>
+    <item>
+      <title>Halk TV: Figen Çalıkuşu SPK’yı işaret etti! “Böylesine bir gözetim ve denetim varken nasıl olmuş?”</title>
+      <link>https://www.youtube.com/watch?v=JlMomv88YVc</link>
+      <guid isPermaLink="false">JlMomv88YVc</guid>
+      <pubDate>Thu, 17 Sep 2026 21:30:16 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Figen Çalıkuşu SPK’yı işaret etti! “Böylesine bir gözetim ve denetim varken nasıl olmuş?”</description>
     </item>
     <item>
       <title>SÖZCÜ TV: 500 Bin Yatırımcı Ne Yapacak? SPK'dan 130 Fon İçin Şok Tasfiye Kararı! Ramazan Başak Uyardı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">fBKOJCSCFc8</guid>
       <pubDate>Thu, 17 Sep 2026 17:55:44 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Zeynel Lüle ile Ankara Günlüğü | Konuk: Sevim Kahraman Yanardağ (18.09.26)</description>
-    </item>
-    <item>
-      <title>Halk TV: Hakkında 'şantaj' ve 'dolandırıcılık' davaları bulunan Erkan Çakır CHP'de yönetici oldu!</title>
-      <link>https://www.youtube.com/watch?v=mPYe2SPAvbY</link>
-      <guid isPermaLink="false">mPYe2SPAvbY</guid>
-      <pubDate>Thu, 17 Sep 2026 17:45:34 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Hakkında 'şantaj' ve 'dolandırıcılık' davaları bulunan Erkan Çakır CHP'de yönetici oldu!</description>
     </item>
   </channel>
 </rss>
