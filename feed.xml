@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 10:20:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:25:28 +0000</lastBuildDate>
     <item>
       <title>Halk TV: AHMET AKIN KİLİTLENDİ! YENİ Partili isimlerin sözleri Meclis'te fırtına koparttı! Gündeme oturacak!</title>
       <link>https://www.youtube.com/watch?v=h5OHkFae1ss</link>
@@ -48,6 +48,13 @@
       <guid isPermaLink="false">1KOqiTRGmCw</guid>
       <pubDate>Thu, 17 Sep 2026 10:03:21 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Can Coşkun ile Gündem Masası | 17 Eylül</description>
+    </item>
+    <item>
+      <title>Halk TV: SPK FİŞİ ÇEKTİ, ORTALIK KARIŞTI! 'Param yandı mı?' diyenler kulak versin! İbrahim Kahveci anlattı!</title>
+      <link>https://www.youtube.com/watch?v=hb6-7RyNQ3M</link>
+      <guid isPermaLink="false">hb6-7RyNQ3M</guid>
+      <pubDate>Thu, 17 Sep 2026 09:59:38 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SPK FİŞİ ÇEKTİ, ORTALIK KARIŞTI! 'Param yandı mı?' diyenler kulak versin! İbrahim Kahveci anlattı!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: #CANLI Can Coşkun ile Gündem Masası</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">4zbxyE4nZpM</guid>
       <pubDate>Thu, 17 Sep 2026 07:35:07 +0000</pubDate>
       <description>Halk TV kanalından yeni video: EGE'DE SULAR ISINIYOR! Türkiye'nin o hamlesi Yunanistan'ı korkuttu! Komandolar oraya konuşlandırıldı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Hasan Atilla Uğur ve 3 Kişi Hakkında Şok Gözaltı Kararı! Kaşif Kozinoğlu Dosyanda Bomba Gelişme</title>
-      <link>https://www.youtube.com/watch?v=qSxg_y4XRks</link>
-      <guid isPermaLink="false">qSxg_y4XRks</guid>
-      <pubDate>Thu, 17 Sep 2026 07:27:34 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Hasan Atilla Uğur ve 3 Kişi Hakkında Şok Gözaltı Kararı! Kaşif Kozinoğlu Dosyanda Bomba Gelişme</description>
     </item>
   </channel>
 </rss>
