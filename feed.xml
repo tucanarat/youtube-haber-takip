@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 12:50:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 12:55:27 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | Gizem Çetin ile Parantez</title>
+      <link>https://www.youtube.com/watch?v=F1b0QDQ_Q98</link>
+      <guid isPermaLink="false">F1b0QDQ_Q98</guid>
+      <pubDate>Thu, 17 Sep 2026 12:50:37 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | Gizem Çetin ile Parantez</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Kadir İnanır'ın yeğeni Levent İnanır'dan dikkat çeken 'vasiyet' çıkışı: İrade sorunları vardı...</title>
+      <link>https://www.youtube.com/watch?v=PbbeA5ErQOc</link>
+      <guid isPermaLink="false">PbbeA5ErQOc</guid>
+      <pubDate>Thu, 17 Sep 2026 12:47:30 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Kadir İnanır'ın yeğeni Levent İnanır'dan dikkat çeken 'vasiyet' çıkışı: İrade sorunları vardı...</description>
+    </item>
     <item>
       <title>Tele2 Haber: "'YENİ' ADINI KORUYACAĞIZ!" Özgür Özel'den Kritik Parti İsmi Çıkışı!</title>
       <link>https://www.youtube.com/watch?v=fHMrc3kUXl0</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">73rjdUJUWUw</guid>
       <pubDate>Thu, 17 Sep 2026 10:26:10 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Eğitim ücretsiz, peki erişim? - Ceylan Adanalı</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: İhanet, çürüme, onur ve güven-Ali Apaydın</title>
-      <link>https://www.youtube.com/watch?v=QT2gEmVClrU</link>
-      <guid isPermaLink="false">QT2gEmVClrU</guid>
-      <pubDate>Thu, 17 Sep 2026 10:26:09 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: İhanet, çürüme, onur ve güven-Ali Apaydın</description>
-    </item>
-    <item>
-      <title>Halk TV: AHMET AKIN KİLİTLENDİ! YENİ Partili isimlerin sözleri Meclis'te fırtına koparttı! Gündeme oturacak!</title>
-      <link>https://www.youtube.com/watch?v=h5OHkFae1ss</link>
-      <guid isPermaLink="false">h5OHkFae1ss</guid>
-      <pubDate>Thu, 17 Sep 2026 10:20:08 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: AHMET AKIN KİLİTLENDİ! YENİ Partili isimlerin sözleri Meclis'te fırtına koparttı! Gündeme oturacak!</description>
     </item>
   </channel>
 </rss>
