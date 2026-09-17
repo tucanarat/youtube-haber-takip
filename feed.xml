@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 07:15:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 07:20:34 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Selçuk Türkoğlu'ndan Mehmet Şimşek'e 'motorin' tepkisi: Maaşları da Avrupa ile kıyaslasana</title>
+      <link>https://www.youtube.com/shorts/hoZ3HAPvhsU</link>
+      <guid isPermaLink="false">hoZ3HAPvhsU</guid>
+      <pubDate>Thu, 17 Sep 2026 07:16:59 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Selçuk Türkoğlu'ndan Mehmet Şimşek'e 'motorin' tepkisi: Maaşları da Avrupa ile kıyaslasana</description>
+    </item>
     <item>
       <title>Cumhuriyet: Bursa'da akılalmaz görüntüler: Seyir halindeki otomobilin kaputuna yatıp motor tamir etti!</title>
       <link>https://www.youtube.com/shorts/Q8FwGUoQMx8</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">95BwE9NVV4c</guid>
       <pubDate>Wed, 16 Sep 2026 22:20:01 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Kurtlar Vadisi'ndeki Oyuncu İsmail Saymaz'a Konuştu! Kaşif Kozinoğlu'nun Sır Ölümü Çözülüyor...</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: İSKİ Yatırım ve Proje Tanıtım Töreni / İstanbul #Canlı</title>
-      <link>https://www.youtube.com/watch?v=DJmlVfJTl68</link>
-      <guid isPermaLink="false">DJmlVfJTl68</guid>
-      <pubDate>Wed, 16 Sep 2026 22:16:36 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: İSKİ Yatırım ve Proje Tanıtım Töreni / İstanbul #Canlı</description>
     </item>
   </channel>
 </rss>
