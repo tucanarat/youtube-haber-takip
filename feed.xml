@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 13:45:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 13:50:37 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Ali Mahir Başarır'dan borsa ve KPSS çıkışı!</title>
+      <link>https://www.youtube.com/shorts/D55lxuwyOcg</link>
+      <guid isPermaLink="false">D55lxuwyOcg</guid>
+      <pubDate>Thu, 17 Sep 2026 13:47:25 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Ali Mahir Başarır'dan borsa ve KPSS çıkışı!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #CANLI İBB Meclisi'nde Eylül Ayının 3. Toplantısı Yapılıyor</title>
+      <link>https://www.youtube.com/watch?v=1prDY5z3iNg</link>
+      <guid isPermaLink="false">1prDY5z3iNg</guid>
+      <pubDate>Thu, 17 Sep 2026 13:44:37 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI İBB Meclisi'nde Eylül Ayının 3. Toplantısı Yapılıyor</description>
+    </item>
     <item>
       <title>Halk TV: ROJİN İÇİN 'FETHİ KABİR' BAŞVURUSU! Karanlık bir detay daha ortaya çıktı! İzleyenin tüyleri ürperir!</title>
       <link>https://www.youtube.com/watch?v=OBg5C6Kh-2Y</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">Nno5xGR0SH8</guid>
       <pubDate>Thu, 17 Sep 2026 11:00:06 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: "SEÇİM MENZİLE GİRDİ!" İsmail Saymaz Erken Seçim İçin Tarih Verdi! Erdoğan ve Yeni Parti Kulisleri</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "Ekonomide Kaide Alım Gücüdür!" Motorinde Tarihi Eşik Aşıldı Erdoğan'ın Sözleri Gündeme Geldi!</title>
-      <link>https://www.youtube.com/watch?v=UZiNh8Uj6CE</link>
-      <guid isPermaLink="false">UZiNh8Uj6CE</guid>
-      <pubDate>Thu, 17 Sep 2026 11:00:04 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "Ekonomide Kaide Alım Gücüdür!" Motorinde Tarihi Eşik Aşıldı Erdoğan'ın Sözleri Gündeme Geldi!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: #CANLI Ali Mahir Başarır'dan Meclis'te flaş açıklamalar</title>
-      <link>https://www.youtube.com/watch?v=ny_bvyIWyIU</link>
-      <guid isPermaLink="false">ny_bvyIWyIU</guid>
-      <pubDate>Thu, 17 Sep 2026 10:55:47 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: #CANLI Ali Mahir Başarır'dan Meclis'te flaş açıklamalar</description>
     </item>
   </channel>
 </rss>
