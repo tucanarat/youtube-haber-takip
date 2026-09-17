@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 14:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 14:25:27 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: TİCARET BAKANI YAKAYI ÇABUK ELE VERDİ! Deniz Yavuzyılmaz büyük fiyasokoyu ifşaladı! Meğer Türkiye...</title>
+      <link>https://www.youtube.com/watch?v=36AEICsRKkQ</link>
+      <guid isPermaLink="false">36AEICsRKkQ</guid>
+      <pubDate>Thu, 17 Sep 2026 14:10:25 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: TİCARET BAKANI YAKAYI ÇABUK ELE VERDİ! Deniz Yavuzyılmaz büyük fiyasokoyu ifşaladı! Meğer Türkiye...</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Miçotakis'in Karşısına Türk Komandosu! Mehmetçik'ten Hodri Meydan! EGE'DE SICAK SAATLER</title>
       <link>https://www.youtube.com/watch?v=7XwuVVjS0FI</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">FxVNDs_jc9w</guid>
       <pubDate>Thu, 17 Sep 2026 11:15:54 +0000</pubDate>
       <description>Halk TV kanalından yeni video: PİYASALAR YANGIN YERİ! Butlan CHP’sinin Genel Başkanı Kılıçdaroğlu Açıklama Yaptı!</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Ali Mahir Başarır cebinden parayı çıkardı ve Mehmet Şimşek'e seslendi!</title>
-      <link>https://www.youtube.com/watch?v=euYeqnCM4zk</link>
-      <guid isPermaLink="false">euYeqnCM4zk</guid>
-      <pubDate>Thu, 17 Sep 2026 11:15:47 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Ali Mahir Başarır cebinden parayı çıkardı ve Mehmet Şimşek'e seslendi!</description>
     </item>
   </channel>
 </rss>
