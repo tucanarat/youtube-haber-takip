@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 13:10:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 13:15:35 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: Barış Terkoğlu Gizli Pazarlıkları İfşa Etti! Erdoğan ve Bahçeli'nin Planı Ne? "BAŞTAN ANLAŞMIŞLAR"</title>
+      <link>https://www.youtube.com/watch?v=WyojZmyUZ_s</link>
+      <guid isPermaLink="false">WyojZmyUZ_s</guid>
+      <pubDate>Thu, 17 Sep 2026 13:00:06 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Barış Terkoğlu Gizli Pazarlıkları İfşa Etti! Erdoğan ve Bahçeli'nin Planı Ne? "BAŞTAN ANLAŞMIŞLAR"</description>
+    </item>
     <item>
       <title>Halk TV: İrem Sansak ile Haber Masası (17 Eylül 2026)</title>
       <link>https://www.youtube.com/watch?v=I6Xx-FrqWvk</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">f1LC5TwNoEo</guid>
       <pubDate>Thu, 17 Sep 2026 10:26:15 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Bu daha başlangıç-Gülengül Altınsay</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Trabzonspor’da ‘Reis’li günler-Hayri Güner</title>
-      <link>https://www.youtube.com/watch?v=xTC9mYWCTOM</link>
-      <guid isPermaLink="false">xTC9mYWCTOM</guid>
-      <pubDate>Thu, 17 Sep 2026 10:26:13 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Trabzonspor’da ‘Reis’li günler-Hayri Güner</description>
     </item>
   </channel>
 </rss>
