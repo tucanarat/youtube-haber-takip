@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 07:10:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 07:15:38 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Bursa'da akılalmaz görüntüler: Seyir halindeki otomobilin kaputuna yatıp motor tamir etti!</title>
+      <link>https://www.youtube.com/shorts/Q8FwGUoQMx8</link>
+      <guid isPermaLink="false">Q8FwGUoQMx8</guid>
+      <pubDate>Thu, 17 Sep 2026 07:11:49 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Bursa'da akılalmaz görüntüler: Seyir halindeki otomobilin kaputuna yatıp motor tamir etti!</description>
+    </item>
     <item>
       <title>Halk TV: Motorin 100 lirayı geçti, yurttaşın endişesi büyüdü: “Sebze, meyve, ulaşım… Her şeyi etkileyecek!”</title>
       <link>https://www.youtube.com/shorts/LhIXo5xAOoA</link>
@@ -34,6 +41,13 @@
       <guid isPermaLink="false">XPwbpz8e0TE</guid>
       <pubDate>Thu, 17 Sep 2026 07:03:46 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: İBB'den öğrencilere 1 liralık abonman desteği</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Panik Satışları Patladı! Tera Portföy'den Şok 'Ödeme Yapılamayacak' Açıklaması! Borsada Ne Olacak?</title>
+      <link>https://www.youtube.com/watch?v=sk3rvzXdqH8</link>
+      <guid isPermaLink="false">sk3rvzXdqH8</guid>
+      <pubDate>Thu, 17 Sep 2026 07:00:11 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Panik Satışları Patladı! Tera Portföy'den Şok 'Ödeme Yapılamayacak' Açıklaması! Borsada Ne Olacak?</description>
     </item>
     <item>
       <title>Halk TV: Deniz Bayramoğlu ile Gün Doğarken | #yüzübulduk (17 Eylül 2026)</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">DJmlVfJTl68</guid>
       <pubDate>Wed, 16 Sep 2026 22:16:36 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: İSKİ Yatırım ve Proje Tanıtım Töreni / İstanbul #Canlı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Özlem Gürses ile Sözcü Ana Haber</title>
-      <link>https://www.youtube.com/watch?v=qPefGblUzIg</link>
-      <guid isPermaLink="false">qPefGblUzIg</guid>
-      <pubDate>Wed, 16 Sep 2026 22:13:55 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Özlem Gürses ile Sözcü Ana Haber</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Damla Doğan Tuncel ile 1 Saat</title>
-      <link>https://www.youtube.com/watch?v=HT9d36dN0gs</link>
-      <guid isPermaLink="false">HT9d36dN0gs</guid>
-      <pubDate>Wed, 16 Sep 2026 22:13:15 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Damla Doğan Tuncel ile 1 Saat</description>
     </item>
   </channel>
 </rss>
