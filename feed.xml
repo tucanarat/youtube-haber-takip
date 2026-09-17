@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 14:35:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 14:40:34 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: BAHÇEŞİR TEM OTOYOLU'NDA BÜYÜK FACİA! Tır cayır cayır yandı, Edirne istikameti trafiğe kapatıldı!</title>
+      <link>https://www.youtube.com/watch?v=j1WVrrDZTnQ</link>
+      <guid isPermaLink="false">j1WVrrDZTnQ</guid>
+      <pubDate>Thu, 17 Sep 2026 14:25:33 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BAHÇEŞİR TEM OTOYOLU'NDA BÜYÜK FACİA! Tır cayır cayır yandı, Edirne istikameti trafiğe kapatıldı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İsmail Saymaz Bombaları Patlattı! CHP'de İçindeki Şantajcı Krizi, Yeni Parti'ye Gizli Tebligat...</title>
       <link>https://www.youtube.com/watch?v=kiuMiAsfj8E</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">jjKDPMxvgH0</guid>
       <pubDate>Thu, 17 Sep 2026 11:30:39 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: TÜRKİYE'Yİ SEL ALACAK! Meteoroloji'den Fırtına Alarmı! İstanbul, Ankara, İzmir İçin Acil Uyarı</description>
-    </item>
-    <item>
-      <title>Halk TV: BORSADAKİ FELAKET BÖYLE GELMİŞ! Fon skandalının perde arkasını Ömer Rıfat Gencal anlattı! Şok detay!</title>
-      <link>https://www.youtube.com/watch?v=m50h6DAkaS4</link>
-      <guid isPermaLink="false">m50h6DAkaS4</guid>
-      <pubDate>Thu, 17 Sep 2026 11:25:37 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BORSADAKİ FELAKET BÖYLE GELMİŞ! Fon skandalının perde arkasını Ömer Rıfat Gencal anlattı! Şok detay!</description>
     </item>
   </channel>
 </rss>
