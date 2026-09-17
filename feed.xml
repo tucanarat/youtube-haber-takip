@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 21:15:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 21:20:33 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: ODTÜ Kültür ve Kongre Merkezi'nde Araştırma Üniversiteleri Destek Programı düzenleniyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=BAy5nsUVWr0</link>
       <guid isPermaLink="false">BAy5nsUVWr0</guid>
       <pubDate>Thu, 17 Sep 2026 21:08:17 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: ODTÜ Kültür ve Kongre Merkezi'nde Araştırma Üniversiteleri Destek Programı düzenleniyor #Canlı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İBB Meclisinde Dengeler Değişiyor! Gizli Planı Barış Terkoğlu Anlattı! Kayyum ve Transfer Gerçeği</title>
+      <link>https://www.youtube.com/watch?v=zyAFmElgoPs</link>
+      <guid isPermaLink="false">zyAFmElgoPs</guid>
+      <pubDate>Thu, 17 Sep 2026 21:00:25 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İBB Meclisinde Dengeler Değişiyor! Gizli Planı Barış Terkoğlu Anlattı! Kayyum ve Transfer Gerçeği</description>
     </item>
     <item>
       <title>Tele2 Haber: FETHULLAHÇILARIN CIA BAĞLANTISI</title>
@@ -41,6 +48,13 @@
       <guid isPermaLink="false">qubx1OcEhZ0</guid>
       <pubDate>Thu, 17 Sep 2026 20:40:19 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: AKP'nin Erdoğan İçin "Son Kez" Senaryosu! Barış Terkoğlu'ndan Olay Mehmet Uçum Çıkışı! Seçim Sözleri</description>
+    </item>
+    <item>
+      <title>Halk TV: Mustafa Yılmaz (81) sosyal medyada başlatılan kampanya sayesinde hayalindeki otomobilin sahibi oldu!</title>
+      <link>https://www.youtube.com/shorts/aM3ktwvppbI</link>
+      <guid isPermaLink="false">aM3ktwvppbI</guid>
+      <pubDate>Thu, 17 Sep 2026 20:40:11 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Mustafa Yılmaz (81) sosyal medyada başlatılan kampanya sayesinde hayalindeki otomobilin sahibi oldu!</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Adnan Menderes, Fatin Rüştü Zorlu ve Hasan Polatkan mezarları başında anılıyor #Canlı</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">KC3WIy_ew1c</guid>
       <pubDate>Thu, 17 Sep 2026 17:00:18 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (17 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Motorin 100 Lirayı Aştı! Tabela Değişti Vatandaş İsyanda! 200 TL ile 2 Litre Mazot Alınamıyor</title>
-      <link>https://www.youtube.com/watch?v=Im2g4nLBBTI</link>
-      <guid isPermaLink="false">Im2g4nLBBTI</guid>
-      <pubDate>Thu, 17 Sep 2026 17:00:12 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Motorin 100 Lirayı Aştı! Tabela Değişti Vatandaş İsyanda! 200 TL ile 2 Litre Mazot Alınamıyor</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Vergi Uzmanı Açıkladı: iPhone 18 Almak Mantıklı mı? | Mahmut Aydoğmuş | Vergi Kafe</title>
-      <link>https://www.youtube.com/watch?v=DTyTnieB-HQ</link>
-      <guid isPermaLink="false">DTyTnieB-HQ</guid>
-      <pubDate>Thu, 17 Sep 2026 17:00:07 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Vergi Uzmanı Açıkladı: iPhone 18 Almak Mantıklı mı? | Mahmut Aydoğmuş | Vergi Kafe</description>
     </item>
   </channel>
 </rss>
