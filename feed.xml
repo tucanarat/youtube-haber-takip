@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 17:26:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 17:30:42 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI Onur Öncü ile Sabah Pusulası (18.09.26)</title>
+      <link>https://www.youtube.com/watch?v=4vCWMZf-W4o</link>
+      <guid isPermaLink="false">4vCWMZf-W4o</guid>
+      <pubDate>Thu, 17 Sep 2026 17:29:58 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Onur Öncü ile Sabah Pusulası (18.09.26)</description>
+    </item>
     <item>
       <title>Tele2 Haber: Borsada balon nasıl patladı? | Gürsel Tekin'e güle güle! Murat Taylan ile Haber-Yorum 17.09.26</title>
       <link>https://www.youtube.com/watch?v=TVuJHtbpcBc</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">m25m6uMOkAQ</guid>
       <pubDate>Thu, 17 Sep 2026 13:40:00 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Kaşif Kozinoğlu Ölmeden Önce O Notları Kime Verdi? Hasan Atilla Uğur'dan Açıklama! Can Anlattı</description>
-    </item>
-    <item>
-      <title>Halk TV: Ali Mahir Başarır'dan Mehmet Şimşek'e enflasyon tepkisi!</title>
-      <link>https://www.youtube.com/shorts/8cIH8lvzfZE</link>
-      <guid isPermaLink="false">8cIH8lvzfZE</guid>
-      <pubDate>Thu, 17 Sep 2026 13:38:04 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ali Mahir Başarır'dan Mehmet Şimşek'e enflasyon tepkisi!</description>
     </item>
   </channel>
 </rss>
