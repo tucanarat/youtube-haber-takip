@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 16:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 16:45:34 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Göz göre göre... Tera Portföy'de ne oldu? Borsa İstanbul'a kriz yaşatan olayın özeti!</title>
+      <link>https://www.youtube.com/watch?v=s7ZLoC4kwWs</link>
+      <guid isPermaLink="false">s7ZLoC4kwWs</guid>
+      <pubDate>Thu, 17 Sep 2026 16:30:34 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Göz göre göre... Tera Portföy'de ne oldu? Borsa İstanbul'a kriz yaşatan olayın özeti!</description>
+    </item>
+    <item>
+      <title>Halk TV: ANKARA'DA KONTAK KAPANIYOR! Otobüs şoförlerinden akaryakıt zammına protesto! Böyle rest çektiler!</title>
+      <link>https://www.youtube.com/watch?v=reHImZvaynE</link>
+      <guid isPermaLink="false">reHImZvaynE</guid>
+      <pubDate>Thu, 17 Sep 2026 16:30:33 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ANKARA'DA KONTAK KAPANIYOR! Otobüs şoförlerinden akaryakıt zammına protesto! Böyle rest çektiler!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Zelenski Putin'in Kalesini Vurdu! Avrupa Ukrayna'ya Asker Gönderiyor! Putin Orduya Emri Verdi</title>
       <link>https://www.youtube.com/watch?v=vzz9iXzQJ7o</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">PbbeA5ErQOc</guid>
       <pubDate>Thu, 17 Sep 2026 12:47:30 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Kadir İnanır'ın yeğeni Levent İnanır'dan dikkat çeken 'vasiyet' çıkışı: İrade sorunları vardı...</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: "'YENİ' ADINI KORUYACAĞIZ!" Özgür Özel'den Kritik Parti İsmi Çıkışı!</title>
-      <link>https://www.youtube.com/watch?v=fHMrc3kUXl0</link>
-      <guid isPermaLink="false">fHMrc3kUXl0</guid>
-      <pubDate>Thu, 17 Sep 2026 12:44:36 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: "'YENİ' ADINI KORUYACAĞIZ!" Özgür Özel'den Kritik Parti İsmi Çıkışı!</description>
-    </item>
-    <item>
-      <title>Halk TV: KATILIMEVİM'DE KRİZ SONRASI YENİ SENARYO! Ömer Rıfat Gencal, Emlak Katılım'ın o hamlesini anlattı!</title>
-      <link>https://www.youtube.com/watch?v=ZT9AB_C6ygc</link>
-      <guid isPermaLink="false">ZT9AB_C6ygc</guid>
-      <pubDate>Thu, 17 Sep 2026 12:40:11 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KATILIMEVİM'DE KRİZ SONRASI YENİ SENARYO! Ömer Rıfat Gencal, Emlak Katılım'ın o hamlesini anlattı!</description>
     </item>
   </channel>
 </rss>
