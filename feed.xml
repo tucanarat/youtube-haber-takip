@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 21:25:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 21:30:46 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: EMEKLİLER 1 KİLO ET İÇİN SABAH 5’TE KUYRUKTA! Sezgin Tanrıkulu et kuyruğundaki gerçeği anlattı!</title>
+      <link>https://www.youtube.com/watch?v=pY8WSh1MrIs</link>
+      <guid isPermaLink="false">pY8WSh1MrIs</guid>
+      <pubDate>Thu, 17 Sep 2026 21:15:39 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: EMEKLİLER 1 KİLO ET İÇİN SABAH 5’TE KUYRUKTA! Sezgin Tanrıkulu et kuyruğundaki gerçeği anlattı!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: ODTÜ Kültür ve Kongre Merkezi'nde Araştırma Üniversiteleri Destek Programı düzenleniyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=BAy5nsUVWr0</link>
@@ -41,6 +48,13 @@
       <guid isPermaLink="false">QtcomYpbdwA</guid>
       <pubDate>Thu, 17 Sep 2026 21:00:10 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Erken seçim hesabında kritik ayrıntı! Murat Birdal DEM Parti’yi işaret etti!</description>
+    </item>
+    <item>
+      <title>Halk TV: Uşak’ta akşam saatlerindeki sağanak ve dolu sebebiyle kara yollarının bir bölümü trafiğe kapatıldı!</title>
+      <link>https://www.youtube.com/shorts/B0pKSdP6FL0</link>
+      <guid isPermaLink="false">B0pKSdP6FL0</guid>
+      <pubDate>Thu, 17 Sep 2026 20:50:22 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Uşak’ta akşam saatlerindeki sağanak ve dolu sebebiyle kara yollarının bir bölümü trafiğe kapatıldı!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: AKP'nin Erdoğan İçin "Son Kez" Senaryosu! Barış Terkoğlu'ndan Olay Mehmet Uçum Çıkışı! Seçim Sözleri</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">TDwdVGoNP-I</guid>
       <pubDate>Thu, 17 Sep 2026 17:15:28 +0000</pubDate>
       <description>Halk TV kanalından yeni video: BORSA ÇAKILDI, BÜYÜK KIRILMA BAŞLADI! Yüz binlerce vatandaş mağdur oldu! İşte alınacak önlemler...</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Aylar önce patlayacak denmiş! Fonlar çöktü fatura yine halka kesilecek! Murat Taylan bir bir anlattı</title>
-      <link>https://www.youtube.com/watch?v=6Jk3c-RkobU</link>
-      <guid isPermaLink="false">6Jk3c-RkobU</guid>
-      <pubDate>Thu, 17 Sep 2026 17:10:21 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Aylar önce patlayacak denmiş! Fonlar çöktü fatura yine halka kesilecek! Murat Taylan bir bir anlattı</description>
-    </item>
-    <item>
-      <title>Halk TV: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (17 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=KC3WIy_ew1c</link>
-      <guid isPermaLink="false">KC3WIy_ew1c</guid>
-      <pubDate>Thu, 17 Sep 2026 17:00:18 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Şahin Aybek ile Türkiye Hepimizin Eğitim Hepimizin (17 Eylül 2026)</description>
     </item>
   </channel>
 </rss>
