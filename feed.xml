@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 00:15:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 00:20:30 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Akbelen köylüleri, Enerji ve Tabii Kaynaklar Bakanlığı'na bağlı MAPEG önünde açıklama yapıyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=DN6lqXQ-UWs</link>
+      <guid isPermaLink="false">DN6lqXQ-UWs</guid>
+      <pubDate>Thu, 17 Sep 2026 00:20:21 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Akbelen köylüleri, Enerji ve Tabii Kaynaklar Bakanlığı'na bağlı MAPEG önünde açıklama yapıyor #Canlı</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: TEBRİZ'DE TARİHİ KRİZ! Sözcü TV İran'da! Hamaney Bunu Yapabilir! Büyük Tehlike Açığa Çıktı</title>
       <link>https://www.youtube.com/watch?v=deCJoG1WE04</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">0psUqlx9xZg</guid>
       <pubDate>Wed, 16 Sep 2026 19:23:42 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Türk sinemasının unutulmaz isimlerinden Tarık Akan Bakırköy Mezarlığı'nda anılıyor #Canlı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: İsmail Saymaz'dan Siyaseti Sarsacak Pazarlık İddiası! YENİ Parti'ye Akıl Almaz Teklif</title>
-      <link>https://www.youtube.com/watch?v=adSDtPRkCX0</link>
-      <guid isPermaLink="false">adSDtPRkCX0</guid>
-      <pubDate>Wed, 16 Sep 2026 19:20:32 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İsmail Saymaz'dan Siyaseti Sarsacak Pazarlık İddiası! YENİ Parti'ye Akıl Almaz Teklif</description>
     </item>
   </channel>
 </rss>
