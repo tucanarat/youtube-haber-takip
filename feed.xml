@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 08:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 08:25:30 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Kaşif Kozinoğlu Soruşturması Kapsamında Hasan Atilla Uğur Hakkında Gözaltı Kararı Verildi!</title>
+      <link>https://www.youtube.com/watch?v=vJRnkdKjNL8</link>
+      <guid isPermaLink="false">vJRnkdKjNL8</guid>
+      <pubDate>Thu, 17 Sep 2026 08:19:35 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Kaşif Kozinoğlu Soruşturması Kapsamında Hasan Atilla Uğur Hakkında Gözaltı Kararı Verildi!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: KÜÇÜK YATIRIMCI DİKKAT! BIST 100'de Büyük Panik! Fonlar Batıyor mu, Satış Dalgası Sürecek mi?</title>
       <link>https://www.youtube.com/watch?v=CVERZx1TsXs</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">vudUudnjQ8o</guid>
       <pubDate>Thu, 17 Sep 2026 00:20:12 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: İMAMOĞLU DAVASINDA ŞOK ERTELEME! Özgür Özel Harekete Geçiyor!  Kimse Bunu Beklemiyordu</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: TEBRİZ'DE TARİHİ KRİZ! Sözcü TV İran'da! Hamaney Bunu Yapabilir! Büyük Tehlike Açığa Çıktı</title>
-      <link>https://www.youtube.com/watch?v=deCJoG1WE04</link>
-      <guid isPermaLink="false">deCJoG1WE04</guid>
-      <pubDate>Thu, 17 Sep 2026 00:00:30 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: TEBRİZ'DE TARİHİ KRİZ! Sözcü TV İran'da! Hamaney Bunu Yapabilir! Büyük Tehlike Açığa Çıktı</description>
     </item>
   </channel>
 </rss>
