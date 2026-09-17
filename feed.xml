@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 00:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 00:30:42 +0000</lastBuildDate>
     <item>
       <title>ANKA Haber Ajansı: Akbelen köylüleri, Enerji ve Tabii Kaynaklar Bakanlığı'na bağlı MAPEG önünde açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=DN6lqXQ-UWs</link>
       <guid isPermaLink="false">DN6lqXQ-UWs</guid>
       <pubDate>Thu, 17 Sep 2026 00:20:21 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: Akbelen köylüleri, Enerji ve Tabii Kaynaklar Bakanlığı'na bağlı MAPEG önünde açıklama yapıyor #Canlı</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: İMAMOĞLU DAVASINDA ŞOK ERTELEME! Özgür Özel Harekete Geçiyor!  Kimse Bunu Beklemiyordu</title>
+      <link>https://www.youtube.com/watch?v=vudUudnjQ8o</link>
+      <guid isPermaLink="false">vudUudnjQ8o</guid>
+      <pubDate>Thu, 17 Sep 2026 00:20:12 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İMAMOĞLU DAVASINDA ŞOK ERTELEME! Özgür Özel Harekete Geçiyor!  Kimse Bunu Beklemiyordu</description>
     </item>
     <item>
       <title>SÖZCÜ TV: TEBRİZ'DE TARİHİ KRİZ! Sözcü TV İran'da! Hamaney Bunu Yapabilir! Büyük Tehlike Açığa Çıktı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">FCT00885HyU</guid>
       <pubDate>Wed, 16 Sep 2026 19:30:25 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Partili Umut Akdoğan, akaryakıta yapılan zamları çok çarpıcı bir görüntü ile gündeme taşıdı!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Türk sinemasının unutulmaz isimlerinden Tarık Akan Bakırköy Mezarlığı'nda anılıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=0psUqlx9xZg</link>
-      <guid isPermaLink="false">0psUqlx9xZg</guid>
-      <pubDate>Wed, 16 Sep 2026 19:23:42 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Türk sinemasının unutulmaz isimlerinden Tarık Akan Bakırköy Mezarlığı'nda anılıyor #Canlı</description>
     </item>
   </channel>
 </rss>
