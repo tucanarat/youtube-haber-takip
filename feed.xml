@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 13:40:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 13:45:35 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: ROJİN İÇİN 'FETHİ KABİR' BAŞVURUSU! Karanlık bir detay daha ortaya çıktı! İzleyenin tüyleri ürperir!</title>
+      <link>https://www.youtube.com/watch?v=OBg5C6Kh-2Y</link>
+      <guid isPermaLink="false">OBg5C6Kh-2Y</guid>
+      <pubDate>Thu, 17 Sep 2026 13:40:32 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ROJİN İÇİN 'FETHİ KABİR' BAŞVURUSU! Karanlık bir detay daha ortaya çıktı! İzleyenin tüyleri ürperir!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Kaşif Kozinoğlu Ölmeden Önce O Notları Kime Verdi? Hasan Atilla Uğur'dan Açıklama! Can Anlattı</title>
       <link>https://www.youtube.com/watch?v=m25m6uMOkAQ</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">ny_bvyIWyIU</guid>
       <pubDate>Thu, 17 Sep 2026 10:55:47 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: #CANLI Ali Mahir Başarır'dan Meclis'te flaş açıklamalar</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Can Coşkun ile Gündem Masası | 17 Eylül</title>
-      <link>https://www.youtube.com/watch?v=kZOUUoikYaA</link>
-      <guid isPermaLink="false">kZOUUoikYaA</guid>
-      <pubDate>Thu, 17 Sep 2026 10:55:26 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Can Coşkun ile Gündem Masası | 17 Eylül</description>
     </item>
   </channel>
 </rss>
