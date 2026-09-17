@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 23:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 23:50:32 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Tufan Erhürman, Kıbrıslı Rum Lider Nikos Hristodulidis ile görüşmesinin ardından açıklama yapıyor</title>
+      <link>https://www.youtube.com/watch?v=NTuJjwU2ehE</link>
+      <guid isPermaLink="false">NTuJjwU2ehE</guid>
+      <pubDate>Thu, 17 Sep 2026 23:46:05 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Tufan Erhürman, Kıbrıslı Rum Lider Nikos Hristodulidis ile görüşmesinin ardından açıklama yapıyor</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Kaşif Kozinoğlu Sırrı 15 Yıl Sonra Çözülüyor mu? Ahmet Zeki Üçok'tan Şok FETÖ İddiası!</title>
+      <link>https://www.youtube.com/watch?v=sqbzzNJYl0w</link>
+      <guid isPermaLink="false">sqbzzNJYl0w</guid>
+      <pubDate>Thu, 17 Sep 2026 23:40:29 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Kaşif Kozinoğlu Sırrı 15 Yıl Sonra Çözülüyor mu? Ahmet Zeki Üçok'tan Şok FETÖ İddiası!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Borsa Neden Çakıldı? SPK Müdahalesi ve Küçük Yatırımcıya Kurulan Tuzak! Türkiye Ayağa Kalkacak</title>
       <link>https://www.youtube.com/watch?v=PpQkb-9IAyM</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">Nvfe4XTMNrw</guid>
       <pubDate>Thu, 17 Sep 2026 19:20:30 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Murat Bakan İktidara Ateş Püskürdü! SPK'dan Deprem Yaratan Karar! Mehmet Şimşek'e Seslendi</description>
-    </item>
-    <item>
-      <title>Halk TV: Gözaltılar artmaya başladı: 900 milyar lira yatırılan 130 fon tasfiye edildi!</title>
-      <link>https://www.youtube.com/watch?v=mwEeSvcm5IY</link>
-      <guid isPermaLink="false">mwEeSvcm5IY</guid>
-      <pubDate>Thu, 17 Sep 2026 19:15:38 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Gözaltılar artmaya başladı: 900 milyar lira yatırılan 130 fon tasfiye edildi!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: "SPK ve MASAK Uyudu mu?" Ramazan Başak'tan Gündem Yaratacak Borsa Dolandırıcılığı Açıklaması</title>
-      <link>https://www.youtube.com/watch?v=OP6ADtJPt1c</link>
-      <guid isPermaLink="false">OP6ADtJPt1c</guid>
-      <pubDate>Thu, 17 Sep 2026 19:00:38 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: "SPK ve MASAK Uyudu mu?" Ramazan Başak'tan Gündem Yaratacak Borsa Dolandırıcılığı Açıklaması</description>
     </item>
   </channel>
 </rss>
