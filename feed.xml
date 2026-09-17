@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 08:10:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 08:15:33 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: KÜÇÜK YATIRIMCI DİKKAT! BIST 100'de Büyük Panik! Fonlar Batıyor mu, Satış Dalgası Sürecek mi?</title>
+      <link>https://www.youtube.com/watch?v=CVERZx1TsXs</link>
+      <guid isPermaLink="false">CVERZx1TsXs</guid>
+      <pubDate>Thu, 17 Sep 2026 08:10:08 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: KÜÇÜK YATIRIMCI DİKKAT! BIST 100'de Büyük Panik! Fonlar Batıyor mu, Satış Dalgası Sürecek mi?</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İsmail Küçükkaya ile Günaydın Türkiyem | 17 Eylül</title>
       <link>https://www.youtube.com/watch?v=GeeHviA1c6c</link>
@@ -34,6 +41,20 @@
       <guid isPermaLink="false">EmrRTg4GsPE</guid>
       <pubDate>Thu, 17 Sep 2026 08:03:19 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | Zafer Partisi Genel Başkanı Ümit Özdağ, partisinin genel merkezinde konuşuyor!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: #CANLI Ankara Şehiriçi Özel Halk Otobüsçüler Esnaf Odası üyeleri, mazot zammını protesto ediyor</title>
+      <link>https://www.youtube.com/watch?v=CupDR9w7vyc</link>
+      <guid isPermaLink="false">CupDR9w7vyc</guid>
+      <pubDate>Thu, 17 Sep 2026 08:02:35 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Ankara Şehiriçi Özel Halk Otobüsçüler Esnaf Odası üyeleri, mazot zammını protesto ediyor</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Yaşam Savuncusu Esra Işık: "Biz Bu Yoldan Dönmeyiz!"</title>
+      <link>https://www.youtube.com/shorts/0H0tZOcsxtA</link>
+      <guid isPermaLink="false">0H0tZOcsxtA</guid>
+      <pubDate>Thu, 17 Sep 2026 08:02:02 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Yaşam Savuncusu Esra Işık: "Biz Bu Yoldan Dönmeyiz!"</description>
     </item>
     <item>
       <title>ANKA Haber Ajansı: Zafer Partisi Genel Başkanı Ümit Özdağ, basın toplantısı düzenliyor #Canlı</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">JSq2zZk9vbA</guid>
       <pubDate>Thu, 17 Sep 2026 00:00:25 +0000</pubDate>
       <description>ANKA Haber Ajansı kanalından yeni video: YENİ Parti İzmir Milletvekili Ümit Özlale, Parti Genel Merkezi’nde basın açıklaması yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: AKP ve MHP'nin İmralı Oyununu İYİ Parti Bozdu! Müsavat Dervişoğlu'ndan Tarihi Hamle</title>
-      <link>https://www.youtube.com/watch?v=3tE6rsSI9kI</link>
-      <guid isPermaLink="false">3tE6rsSI9kI</guid>
-      <pubDate>Wed, 16 Sep 2026 23:40:26 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: AKP ve MHP'nin İmralı Oyununu İYİ Parti Bozdu! Müsavat Dervişoğlu'ndan Tarihi Hamle</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Seyit Aslan, eski Diyarbakır Büyükşehir Belediye Başkanı Selçuk Mızraklı’yı ziyaret etti</title>
-      <link>https://www.youtube.com/watch?v=r7DbhCpbmto</link>
-      <guid isPermaLink="false">r7DbhCpbmto</guid>
-      <pubDate>Wed, 16 Sep 2026 23:30:26 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Seyit Aslan, eski Diyarbakır Büyükşehir Belediye Başkanı Selçuk Mızraklı’yı ziyaret etti</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Murat Ağırel İfşa Etti! Kurtlar Vadisi'ndeki FG Plakaları! Kan Donduran Kozinoğlu Detayı! FEÖ Çıkışı</title>
-      <link>https://www.youtube.com/watch?v=Oj-HHuY8Ncc</link>
-      <guid isPermaLink="false">Oj-HHuY8Ncc</guid>
-      <pubDate>Wed, 16 Sep 2026 23:20:21 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Murat Ağırel İfşa Etti! Kurtlar Vadisi'ndeki FG Plakaları! Kan Donduran Kozinoğlu Detayı! FEÖ Çıkışı</description>
     </item>
   </channel>
 </rss>
