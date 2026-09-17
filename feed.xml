@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 07:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 07:45:34 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Ankara Şehiriçi Özel Halk Otobüsçüler Esnaf Odası üyeleri, mazot zammını protesto ediyor #Canlı</title>
+      <link>https://www.youtube.com/watch?v=1HAzwSw52kc</link>
+      <guid isPermaLink="false">1HAzwSw52kc</guid>
+      <pubDate>Thu, 17 Sep 2026 07:36:55 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Ankara Şehiriçi Özel Halk Otobüsçüler Esnaf Odası üyeleri, mazot zammını protesto ediyor #Canlı</description>
+    </item>
     <item>
       <title>Halk TV: EGE'DE SULAR ISINIYOR! Türkiye'nin o hamlesi Yunanistan'ı korkuttu! Komandolar oraya konuşlandırıldı</title>
       <link>https://www.youtube.com/watch?v=4zbxyE4nZpM</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">pyHujGmWBhg</guid>
       <pubDate>Wed, 16 Sep 2026 23:00:08 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Kurtlar Vadisi Pusu’da Kan Donduran FETÖ Gerçeği! Tesadüf mü, Sübliminal Mesaj mı?</description>
-    </item>
-    <item>
-      <title>Halk TV: “SANDIĞIN BİR AN ÖNCE GELMESİNİ İSTİYORLAR!” Gizem Özcan’dan çarpıcı seçim yorumu!</title>
-      <link>https://www.youtube.com/watch?v=F7Habfvb4Eg</link>
-      <guid isPermaLink="false">F7Habfvb4Eg</guid>
-      <pubDate>Wed, 16 Sep 2026 22:40:39 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: “SANDIĞIN BİR AN ÖNCE GELMESİNİ İSTİYORLAR!” Gizem Özcan’dan çarpıcı seçim yorumu!</description>
     </item>
   </channel>
 </rss>
