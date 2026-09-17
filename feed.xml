@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 15:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 15:45:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: SON DAKİKA! CHP İstanbul İl Başkanlığı'na kayyum olarak atanan Gürsel Tekin'in görevine son verildi!</title>
+      <link>https://www.youtube.com/watch?v=A9ywt5YHd8k</link>
+      <guid isPermaLink="false">A9ywt5YHd8k</guid>
+      <pubDate>Thu, 17 Sep 2026 15:40:35 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: SON DAKİKA! CHP İstanbul İl Başkanlığı'na kayyum olarak atanan Gürsel Tekin'in görevine son verildi!</description>
+    </item>
     <item>
       <title>Halk TV: ERDOĞAN'A YOLUN SONUNU GÖSTERDİ! Remzi Çayır'dan tir tir titretecek sözler! Salon bile buz kesti!</title>
       <link>https://www.youtube.com/watch?v=s_0EidQf5zU</link>
@@ -104,6 +111,13 @@
       <guid isPermaLink="false">eBz3Qo2AZNk</guid>
       <pubDate>Thu, 17 Sep 2026 14:40:07 +0000</pubDate>
       <description>Halk TV kanalından yeni video: KILIÇLARI ÇEKTİ! Ümit Özdağ'dan Cumhur'un darmaduman edecek 'villa' sözleri! Demediğini bırakmadı!</description>
+    </item>
+    <item>
+      <title>Halk TV: MİT mensubu Kaşif Kozinoğlu ile ilgili sarsıcı olayı Uğur Dündar, Halk TV YouTube'a anlattı!</title>
+      <link>https://www.youtube.com/watch?v=dACuaHHow5M</link>
+      <guid isPermaLink="false">dACuaHHow5M</guid>
+      <pubDate>Thu, 17 Sep 2026 14:37:23 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: MİT mensubu Kaşif Kozinoğlu ile ilgili sarsıcı olayı Uğur Dündar, Halk TV YouTube'a anlattı!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Husiler Kazanıyor Suudi Arabistan'ın Füze Stokları Tükeniyor! Husiler Suudi Uçağını Vurdu</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">E3VaATZzELg</guid>
       <pubDate>Thu, 17 Sep 2026 12:28:13 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Tarım ülkesinde gıda sorunu!-Mustafa Balbay</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Motorin 100 lirayı aştı! Başarır'dan Mehmet Şimşek'e olay tepki: Önce bunun hesabını ver</title>
-      <link>https://www.youtube.com/watch?v=eAQd0f93Qv0</link>
-      <guid isPermaLink="false">eAQd0f93Qv0</guid>
-      <pubDate>Thu, 17 Sep 2026 12:27:42 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Motorin 100 lirayı aştı! Başarır'dan Mehmet Şimşek'e olay tepki: Önce bunun hesabını ver</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: S-400 İsrail’in müttefikine mi veriliyor?-Mehmet Ali Güller</title>
-      <link>https://www.youtube.com/watch?v=WRNLy4gKdq0</link>
-      <guid isPermaLink="false">WRNLy4gKdq0</guid>
-      <pubDate>Thu, 17 Sep 2026 12:25:55 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: S-400 İsrail’in müttefikine mi veriliyor?-Mehmet Ali Güller</description>
     </item>
   </channel>
 </rss>
