@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 09:10:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 09:15:32 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: GÖZ GÖRE GÖRE ÇÖKTÜLER! Borsada Büyük Tuzak! SPK Bilerek mi Bekledi? Kerim Rota'dan Şok İddia</title>
+      <link>https://www.youtube.com/watch?v=LUv53gt82Es</link>
+      <guid isPermaLink="false">LUv53gt82Es</guid>
+      <pubDate>Thu, 17 Sep 2026 09:10:04 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: GÖZ GÖRE GÖRE ÇÖKTÜLER! Borsada Büyük Tuzak! SPK Bilerek mi Bekledi? Kerim Rota'dan Şok İddia</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Ümit Özdağ, Diyarbakır’daki Kürtçe tabelalarla ilgili suç duyurusunda bulunuyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=2NYnTebpVbs</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">sk3PmsgtPU8</guid>
       <pubDate>Thu, 17 Sep 2026 06:43:58 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Akaryakıtta tarihi eşik aşıldı! Motorin 100 lirayı aştı... "ALLAH SONUMUZU HAYIR ETSİN"</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Akaryakıtta tarihi eşik: Motorin 100 lirayı aştı</title>
-      <link>https://www.youtube.com/shorts/pYx06ys5-90</link>
-      <guid isPermaLink="false">pYx06ys5-90</guid>
-      <pubDate>Thu, 17 Sep 2026 06:37:09 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Akaryakıtta tarihi eşik: Motorin 100 lirayı aştı</description>
     </item>
   </channel>
 </rss>
