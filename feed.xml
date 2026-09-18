@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 18 Sep 2026 10:40:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 10:45:29 +0000</lastBuildDate>
     <item>
       <title>Tele2 Haber: Akın Gürlek'in Skandal "Cumhurbaşkanımızı Tekrar Seçmek İçin" Sözlerine Çoban'dan Tepki!</title>
       <link>https://www.youtube.com/watch?v=sh-x0fJMM3E</link>
       <guid isPermaLink="false">sh-x0fJMM3E</guid>
       <pubDate>Fri, 18 Sep 2026 10:30:31 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: Akın Gürlek'in Skandal "Cumhurbaşkanımızı Tekrar Seçmek İçin" Sözlerine Çoban'dan Tepki!</description>
+    </item>
+    <item>
+      <title>Halk TV: YENİ PARTİ FIRTINASI BURSA'DA ESECEK! Özgür Özel'in şehri ayağa kaldıran ziyareti öncesi son durum!</title>
+      <link>https://www.youtube.com/watch?v=dDfrG6t8tSI</link>
+      <guid isPermaLink="false">dDfrG6t8tSI</guid>
+      <pubDate>Fri, 18 Sep 2026 10:30:08 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YENİ PARTİ FIRTINASI BURSA'DA ESECEK! Özgür Özel'in şehri ayağa kaldıran ziyareti öncesi son durum!</description>
     </item>
     <item>
       <title>Cumhuriyet: Yavuzyılmaz’dan Çin’in DTÖ açıklaması üzerinden iktidara tepki: “Derhal istifa edin”</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">OJzbnPvbKNs</guid>
       <pubDate>Fri, 18 Sep 2026 07:34:08 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Ali Babacan’dan motorin tepkisi: Enflasyonu düşüreceğiz masallarına inanmamalıyız</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: Ünlülere Yönelik Uyuşturucu Operasyonunda 18 Kişi Hakkında Gözaltı Kararı!</title>
-      <link>https://www.youtube.com/watch?v=h57kdZlB8D4</link>
-      <guid isPermaLink="false">h57kdZlB8D4</guid>
-      <pubDate>Fri, 18 Sep 2026 07:33:07 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: Ünlülere Yönelik Uyuşturucu Operasyonunda 18 Kişi Hakkında Gözaltı Kararı!</description>
     </item>
   </channel>
 </rss>
