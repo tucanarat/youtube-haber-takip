@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 18 Sep 2026 11:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 11:25:27 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Akın Gürlek seçim yılını açıkladı! Özgür Özel'den ilk yanıt</title>
+      <link>https://www.youtube.com/shorts/J7trOTf2vPo</link>
+      <guid isPermaLink="false">J7trOTf2vPo</guid>
+      <pubDate>Fri, 18 Sep 2026 11:23:10 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Akın Gürlek seçim yılını açıkladı! Özgür Özel'den ilk yanıt</description>
+    </item>
     <item>
       <title>Cumhuriyet: Borsa İstanbul’da ‘Fon’ depremi... Özgür Özel: "Para kazanların isimleri açıklasın!"</title>
       <link>https://www.youtube.com/shorts/iI2H-zUdzxI</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">qma1zx21ujA</guid>
       <pubDate>Fri, 18 Sep 2026 08:30:37 +0000</pubDate>
       <description>Halk TV kanalından yeni video: TEDBİR KALKTI, GÖREVİ BİTTİ! Gürsel Tekin, il başkanlığını arkasında bu skandallarla bıraktı!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Emaar AVM'de yangın paniği</title>
-      <link>https://www.youtube.com/shorts/CytA0VYz82Q</link>
-      <guid isPermaLink="false">CytA0VYz82Q</guid>
-      <pubDate>Fri, 18 Sep 2026 08:30:33 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Emaar AVM'de yangın paniği</description>
     </item>
   </channel>
 </rss>
