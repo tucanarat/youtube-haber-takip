@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 18 Sep 2026 05:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 05:25:25 +0000</lastBuildDate>
+    <item>
+      <title>ANKA Haber Ajansı: Yavuz Ağıralioğlu, Saadet Partisi Genel Başkanı Mahmut Arıkan'ı ziyaret etti  #Canlı</title>
+      <link>https://www.youtube.com/watch?v=N0qWN58N47A</link>
+      <guid isPermaLink="false">N0qWN58N47A</guid>
+      <pubDate>Fri, 18 Sep 2026 01:19:37 +0000</pubDate>
+      <description>ANKA Haber Ajansı kanalından yeni video: Yavuz Ağıralioğlu, Saadet Partisi Genel Başkanı Mahmut Arıkan'ı ziyaret etti  #Canlı</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Tufan Erhürman, Kıbrıslı Rum Lider Nikos Hristodulidis ile görüşmesinin ardından açıklama yapıyor</title>
       <link>https://www.youtube.com/watch?v=NTuJjwU2ehE</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">RLT-sRPYJEs</guid>
       <pubDate>Thu, 17 Sep 2026 19:30:07 +0000</pubDate>
       <description>Halk TV kanalından yeni video: TARİHTE BİR İLK: Akaryakıta gelen son zamla birlikte hemen her şey zamlanacak!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Murat Bakan İktidara Ateş Püskürdü! SPK'dan Deprem Yaratan Karar! Mehmet Şimşek'e Seslendi</title>
-      <link>https://www.youtube.com/watch?v=Nvfe4XTMNrw</link>
-      <guid isPermaLink="false">Nvfe4XTMNrw</guid>
-      <pubDate>Thu, 17 Sep 2026 19:20:30 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Murat Bakan İktidara Ateş Püskürdü! SPK'dan Deprem Yaratan Karar! Mehmet Şimşek'e Seslendi</description>
     </item>
   </channel>
 </rss>
