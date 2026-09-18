@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 18 Sep 2026 07:30:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 07:35:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Ali Babacan’dan motorin tepkisi: Enflasyonu düşüreceğiz masallarına inanmamalıyız</title>
+      <link>https://www.youtube.com/shorts/OJzbnPvbKNs</link>
+      <guid isPermaLink="false">OJzbnPvbKNs</guid>
+      <pubDate>Fri, 18 Sep 2026 07:34:08 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Ali Babacan’dan motorin tepkisi: Enflasyonu düşüreceğiz masallarına inanmamalıyız</description>
+    </item>
     <item>
       <title>Halk TV: MEHMET ŞİMŞEK'İN 'BORSA' İTİRAFI ORTAYA ÇIKTI! Yatırımcı parasını nasıl alacak? Gökhan Kayış anlattı</title>
       <link>https://www.youtube.com/watch?v=bVcY9L0ffhc</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">sKVL5WphYOI</guid>
       <pubDate>Thu, 17 Sep 2026 21:17:39 +0000</pubDate>
       <description>Halk TV kanalından yeni video: #CANLI | Ebru Baki ile Para Siyaset | İbrahim Kahveci</description>
-    </item>
-    <item>
-      <title>Halk TV: EMEKLİLER 1 KİLO ET İÇİN SABAH 5’TE KUYRUKTA! Sezgin Tanrıkulu et kuyruğundaki gerçeği anlattı!</title>
-      <link>https://www.youtube.com/watch?v=pY8WSh1MrIs</link>
-      <guid isPermaLink="false">pY8WSh1MrIs</guid>
-      <pubDate>Thu, 17 Sep 2026 21:15:39 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: EMEKLİLER 1 KİLO ET İÇİN SABAH 5’TE KUYRUKTA! Sezgin Tanrıkulu et kuyruğundaki gerçeği anlattı!</description>
     </item>
   </channel>
 </rss>
