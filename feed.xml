@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 18 Sep 2026 08:05:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 08:10:37 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Motorin 100 lirayı aştı! Aydınlı çiftçiler isyan etti: Çalışarak fakirleşiyoruz</title>
+      <link>https://www.youtube.com/watch?v=450JydlN7Xs</link>
+      <guid isPermaLink="false">450JydlN7Xs</guid>
+      <pubDate>Fri, 18 Sep 2026 08:08:24 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Motorin 100 lirayı aştı! Aydınlı çiftçiler isyan etti: Çalışarak fakirleşiyoruz</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: İsmail Küçükkaya ile Günaydın Türkiyem | 18 Eylül</title>
       <link>https://www.youtube.com/watch?v=ZJRgnExRGpE</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">JjW9gYfeYvE</guid>
       <pubDate>Thu, 17 Sep 2026 22:15:10 +0000</pubDate>
       <description>Halk TV kanalından yeni video: DOĞAN ÇETİNKAYA ARŞİVLERİ AÇTI! İşte Erdoğan’ın “Son” dediği seçimler!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Pınar Erbaş ile Gecenin Sözü | 23 Eylül</title>
-      <link>https://www.youtube.com/watch?v=5oEYV-8GSzk</link>
-      <guid isPermaLink="false">5oEYV-8GSzk</guid>
-      <pubDate>Thu, 17 Sep 2026 22:01:40 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Pınar Erbaş ile Gecenin Sözü | 23 Eylül</description>
     </item>
   </channel>
 </rss>
