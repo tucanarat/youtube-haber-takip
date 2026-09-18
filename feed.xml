@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 18 Sep 2026 09:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 10:00:52 +0000</lastBuildDate>
     <item>
       <title>Halk TV: #CANLI | İrem Sansak ile Haber Masası</title>
       <link>https://www.youtube.com/watch?v=JxZdQID_I7E</link>
@@ -20,6 +20,13 @@
       <guid isPermaLink="false">hphVZunoU68</guid>
       <pubDate>Fri, 18 Sep 2026 09:45:29 +0000</pubDate>
       <description>Halk TV kanalından yeni video: FON YATIRIMCILARI BU DETAYLARI KAÇIRMASIN! Ebru Baki ödeme takvimini adım adım anlattı! Meğer o ay..</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: BORSADA FON DEPREMİ! Tasfiye Sonrası Paralar Nasıl Ödenecek? Murat Sağman Tek Tek Anlattı</title>
+      <link>https://www.youtube.com/watch?v=WuN3Rwrq2H0</link>
+      <guid isPermaLink="false">WuN3Rwrq2H0</guid>
+      <pubDate>Fri, 18 Sep 2026 09:40:15 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: BORSADA FON DEPREMİ! Tasfiye Sonrası Paralar Nasıl Ödenecek? Murat Sağman Tek Tek Anlattı</description>
     </item>
     <item>
       <title>Halk TV: BAKAN GÜRLEK DUYURDU! İsrail bağlantılı dolandırıcılık şebekesine operasyon! 29 şirket 239 gözaltı!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Ow1nZmgRLOY</guid>
       <pubDate>Fri, 18 Sep 2026 07:00:20 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Murat Taylan ile Haber-Yorum (18.09.2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: Hasan Atilla Uğur'un gözaltına alınma anları ortaya çıktı!</title>
-      <link>https://www.youtube.com/shorts/dtjrtS6_xRo</link>
-      <guid isPermaLink="false">dtjrtS6_xRo</guid>
-      <pubDate>Fri, 18 Sep 2026 06:59:07 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Hasan Atilla Uğur'un gözaltına alınma anları ortaya çıktı!</description>
     </item>
   </channel>
 </rss>
