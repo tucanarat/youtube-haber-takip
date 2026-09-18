@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 18 Sep 2026 10:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 10:05:24 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Ebru Baki ile Para Siyaset | İbrahim Kahveci</title>
+      <link>https://www.youtube.com/watch?v=sKVL5WphYOI</link>
+      <guid isPermaLink="false">sKVL5WphYOI</guid>
+      <pubDate>Fri, 18 Sep 2026 10:01:42 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Ebru Baki ile Para Siyaset | İbrahim Kahveci</description>
+    </item>
     <item>
       <title>Halk TV: #CANLI | İrem Sansak ile Haber Masası</title>
       <link>https://www.youtube.com/watch?v=JxZdQID_I7E</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">J5jb2MaK6Gs</guid>
       <pubDate>Fri, 18 Sep 2026 07:00:31 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Hasan Atilla Uğur Gözaltına Alındı! Görüntüler Ortaya Çıktı! Kaşif Kozinoğlu Dosyası Büyüdü</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Murat Taylan ile Haber-Yorum (18.09.2026)</title>
-      <link>https://www.youtube.com/watch?v=Ow1nZmgRLOY</link>
-      <guid isPermaLink="false">Ow1nZmgRLOY</guid>
-      <pubDate>Fri, 18 Sep 2026 07:00:20 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Murat Taylan ile Haber-Yorum (18.09.2026)</description>
     </item>
   </channel>
 </rss>
