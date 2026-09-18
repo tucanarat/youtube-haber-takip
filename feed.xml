@@ -6,7 +6,35 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 18 Sep 2026 08:10:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 08:15:34 +0000</lastBuildDate>
+    <item>
+      <title>Cumhuriyet: Kadınlar... - Adnan Binyazar</title>
+      <link>https://www.youtube.com/watch?v=1lZQMGDF2KA</link>
+      <guid isPermaLink="false">1lZQMGDF2KA</guid>
+      <pubDate>Fri, 18 Sep 2026 08:11:11 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Kadınlar... - Adnan Binyazar</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Erken seçim koşulları - Sertaç Eş</title>
+      <link>https://www.youtube.com/watch?v=P-pH9fRoWKQ</link>
+      <guid isPermaLink="false">P-pH9fRoWKQ</guid>
+      <pubDate>Fri, 18 Sep 2026 08:10:39 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Erken seçim koşulları - Sertaç Eş</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Bir gariplik var burada - Barış Pehlivan</title>
+      <link>https://www.youtube.com/watch?v=puNcsy5W0Vo</link>
+      <guid isPermaLink="false">puNcsy5W0Vo</guid>
+      <pubDate>Fri, 18 Sep 2026 08:10:35 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Bir gariplik var burada - Barış Pehlivan</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Ankara’nın kuruluşunu anlatan sergi - Tolga Aydoğan</title>
+      <link>https://www.youtube.com/watch?v=7V2jkYSASdk</link>
+      <guid isPermaLink="false">7V2jkYSASdk</guid>
+      <pubDate>Fri, 18 Sep 2026 08:10:34 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Ankara’nın kuruluşunu anlatan sergi - Tolga Aydoğan</description>
+    </item>
     <item>
       <title>Cumhuriyet: Motorin 100 lirayı aştı! Aydınlı çiftçiler isyan etti: Çalışarak fakirleşiyoruz</title>
       <link>https://www.youtube.com/watch?v=450JydlN7Xs</link>
@@ -328,34 +356,6 @@
       <guid isPermaLink="false">2iTo2VQk_EE</guid>
       <pubDate>Thu, 17 Sep 2026 22:37:30 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Damla Doğan Tuncel ile 1 Saat</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: #CANLI Can Coşkun ile Gündem Masası</title>
-      <link>https://www.youtube.com/watch?v=3dW8DDKhlr8</link>
-      <guid isPermaLink="false">3dW8DDKhlr8</guid>
-      <pubDate>Thu, 17 Sep 2026 22:36:45 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: #CANLI Can Coşkun ile Gündem Masası</description>
-    </item>
-    <item>
-      <title>Halk TV: Meclis salonunda dikkat çeken görüntü! CHP’den istifa etti, AK Parti meclis üyeleri tebrik etti!</title>
-      <link>https://www.youtube.com/watch?v=oGV9tXvIEfg</link>
-      <guid isPermaLink="false">oGV9tXvIEfg</guid>
-      <pubDate>Thu, 17 Sep 2026 22:30:33 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Meclis salonunda dikkat çeken görüntü! CHP’den istifa etti, AK Parti meclis üyeleri tebrik etti!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Barış Terkoğlu Kaşif Kozinoğlu'nun Ölümündeki Kan Donduran İhmalleri Anlattı! Gizli Kalmış Gerçekler</title>
-      <link>https://www.youtube.com/watch?v=XJRhb4a2XgE</link>
-      <guid isPermaLink="false">XJRhb4a2XgE</guid>
-      <pubDate>Thu, 17 Sep 2026 22:20:28 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Barış Terkoğlu Kaşif Kozinoğlu'nun Ölümündeki Kan Donduran İhmalleri Anlattı! Gizli Kalmış Gerçekler</description>
-    </item>
-    <item>
-      <title>Halk TV: DOĞAN ÇETİNKAYA ARŞİVLERİ AÇTI! İşte Erdoğan’ın “Son” dediği seçimler!</title>
-      <link>https://www.youtube.com/watch?v=JjW9gYfeYvE</link>
-      <guid isPermaLink="false">JjW9gYfeYvE</guid>
-      <pubDate>Thu, 17 Sep 2026 22:15:10 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: DOĞAN ÇETİNKAYA ARŞİVLERİ AÇTI! İşte Erdoğan’ın “Son” dediği seçimler!</description>
     </item>
   </channel>
 </rss>
