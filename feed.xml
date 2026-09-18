@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 18 Sep 2026 09:15:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 09:20:36 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Çok sayıda ünlü isme gözaltı: Hasan Şaş, Melis Sezen, Sefo ve Aras Bulut İynemli listede olanlar...</title>
+      <link>https://www.youtube.com/watch?v=jAyCRrJDMN8</link>
+      <guid isPermaLink="false">jAyCRrJDMN8</guid>
+      <pubDate>Fri, 18 Sep 2026 09:15:19 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Çok sayıda ünlü isme gözaltı: Hasan Şaş, Melis Sezen, Sefo ve Aras Bulut İynemli listede olanlar...</description>
+    </item>
     <item>
       <title>Halk TV: YENİ Partili Süleyman Bülbül: Mazotun 100 lirayı aştığı bir ortamda bu çiftçi nasıl üretecek?</title>
       <link>https://www.youtube.com/shorts/3EplMkO20ag</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">bE-vctsZoYQ</guid>
       <pubDate>Fri, 18 Sep 2026 06:45:32 +0000</pubDate>
       <description>Halk TV kanalından yeni video: YENİ Parti Lideri Özgür Özel tutuklu Bursa Belediye Başkanı Mustafa Bozbey'i cezaevinde ziyaret etti</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Beşiktaş Marsilya'yı 4 golle devirdi! Orkun Kökçü: Güçlü bir rakibe karşı güçlü başlamak zorundaydık</title>
-      <link>https://www.youtube.com/shorts/AGe9GEoYFGg</link>
-      <guid isPermaLink="false">AGe9GEoYFGg</guid>
-      <pubDate>Fri, 18 Sep 2026 06:40:23 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Beşiktaş Marsilya'yı 4 golle devirdi! Orkun Kökçü: Güçlü bir rakibe karşı güçlü başlamak zorundaydık</description>
     </item>
   </channel>
 </rss>
