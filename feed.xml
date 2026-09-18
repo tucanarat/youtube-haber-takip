@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 18 Sep 2026 09:50:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 09:55:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: #CANLI | İrem Sansak ile Haber Masası</title>
+      <link>https://www.youtube.com/watch?v=JxZdQID_I7E</link>
+      <guid isPermaLink="false">JxZdQID_I7E</guid>
+      <pubDate>Fri, 18 Sep 2026 09:53:19 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: #CANLI | İrem Sansak ile Haber Masası</description>
+    </item>
     <item>
       <title>Halk TV: FON YATIRIMCILARI BU DETAYLARI KAÇIRMASIN! Ebru Baki ödeme takvimini adım adım anlattı! Meğer o ay..</title>
       <link>https://www.youtube.com/watch?v=hphVZunoU68</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">dtjrtS6_xRo</guid>
       <pubDate>Fri, 18 Sep 2026 06:59:07 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Hasan Atilla Uğur'un gözaltına alınma anları ortaya çıktı!</description>
-    </item>
-    <item>
-      <title>Halk TV: KAŞİF KOZİNOĞLU SORUŞTURMASINDA FLAŞ GELİŞME! Hasan Atilla Uğur havalimanında böyle gözaltına alındı</title>
-      <link>https://www.youtube.com/watch?v=i83pFd9Kg64</link>
-      <guid isPermaLink="false">i83pFd9Kg64</guid>
-      <pubDate>Fri, 18 Sep 2026 06:55:33 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: KAŞİF KOZİNOĞLU SORUŞTURMASINDA FLAŞ GELİŞME! Hasan Atilla Uğur havalimanında böyle gözaltına alındı</description>
     </item>
   </channel>
 </rss>
