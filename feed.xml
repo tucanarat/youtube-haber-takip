@@ -6,13 +6,34 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 18 Sep 2026 11:25:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 11:30:48 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: Özgür Özel'den Bozbey ve isim açıklaması!</title>
+      <link>https://www.youtube.com/shorts/EHXBVBqHWXg</link>
+      <guid isPermaLink="false">EHXBVBqHWXg</guid>
+      <pubDate>Fri, 18 Sep 2026 11:27:10 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Özgür Özel'den Bozbey ve isim açıklaması!</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Özgür Özel'den AKP'ye Kritik Erken Seçim Cevabı! "Sandığa Varacağız, Seçimi Alacağız!"</title>
+      <link>https://www.youtube.com/watch?v=dKsWB7YqJ34</link>
+      <guid isPermaLink="false">dKsWB7YqJ34</guid>
+      <pubDate>Fri, 18 Sep 2026 11:26:54 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Özgür Özel'den AKP'ye Kritik Erken Seçim Cevabı! "Sandığa Varacağız, Seçimi Alacağız!"</description>
+    </item>
     <item>
       <title>Cumhuriyet: Akın Gürlek seçim yılını açıkladı! Özgür Özel'den ilk yanıt</title>
       <link>https://www.youtube.com/shorts/J7trOTf2vPo</link>
       <guid isPermaLink="false">J7trOTf2vPo</guid>
       <pubDate>Fri, 18 Sep 2026 11:23:10 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Akın Gürlek seçim yılını açıkladı! Özgür Özel'den ilk yanıt</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: "ÖCALAN'A KÜFRETMESİNLER DE NE YAPSINLAR?" Ümit Özdağ'dan İzlenme Rekorları Kıran Sözler</title>
+      <link>https://www.youtube.com/watch?v=E_b-IubEKsk</link>
+      <guid isPermaLink="false">E_b-IubEKsk</guid>
+      <pubDate>Fri, 18 Sep 2026 11:20:10 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: "ÖCALAN'A KÜFRETMESİNLER DE NE YAPSINLAR?" Ümit Özdağ'dan İzlenme Rekorları Kıran Sözler</description>
     </item>
     <item>
       <title>Cumhuriyet: Borsa İstanbul’da ‘Fon’ depremi... Özgür Özel: "Para kazanların isimleri açıklasın!"</title>
@@ -335,27 +356,6 @@
       <guid isPermaLink="false">_7Kz9TbV19Q</guid>
       <pubDate>Fri, 18 Sep 2026 08:40:39 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: BÜTÜN PARASINI KAYBETTİ! Murat Sağman'dan Kritik Borsa Uyarısı! Zarar Eden Fonlar Kurtarılabilir mi?</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: İBB Meclisi'nde CHP'den İstifa Eden Eray Arda hk. Onur Öncü: Ne Oluyorsa 2023'te Partiye Katılıyor!</title>
-      <link>https://www.youtube.com/shorts/bJ3H6r6C4_E</link>
-      <guid isPermaLink="false">bJ3H6r6C4_E</guid>
-      <pubDate>Fri, 18 Sep 2026 08:36:25 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: İBB Meclisi'nde CHP'den İstifa Eden Eray Arda hk. Onur Öncü: Ne Oluyorsa 2023'te Partiye Katılıyor!</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Hatay'da orman yangını</title>
-      <link>https://www.youtube.com/shorts/1V2f-qbTuic</link>
-      <guid isPermaLink="false">1V2f-qbTuic</guid>
-      <pubDate>Fri, 18 Sep 2026 08:35:41 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Hatay'da orman yangını</description>
-    </item>
-    <item>
-      <title>Halk TV: TEDBİR KALKTI, GÖREVİ BİTTİ! Gürsel Tekin, il başkanlığını arkasında bu skandallarla bıraktı!</title>
-      <link>https://www.youtube.com/watch?v=qma1zx21ujA</link>
-      <guid isPermaLink="false">qma1zx21ujA</guid>
-      <pubDate>Fri, 18 Sep 2026 08:30:37 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: TEDBİR KALKTI, GÖREVİ BİTTİ! Gürsel Tekin, il başkanlığını arkasında bu skandallarla bıraktı!</description>
     </item>
   </channel>
 </rss>
