@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 18 Sep 2026 08:45:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 08:50:31 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: BÜTÜN PARASINI KAYBETTİ! Murat Sağman'dan Kritik Borsa Uyarısı! Zarar Eden Fonlar Kurtarılabilir mi?</title>
+      <link>https://www.youtube.com/watch?v=_7Kz9TbV19Q</link>
+      <guid isPermaLink="false">_7Kz9TbV19Q</guid>
+      <pubDate>Fri, 18 Sep 2026 08:40:39 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: BÜTÜN PARASINI KAYBETTİ! Murat Sağman'dan Kritik Borsa Uyarısı! Zarar Eden Fonlar Kurtarılabilir mi?</description>
+    </item>
     <item>
       <title>Tele2 Haber: İBB Meclisi'nde CHP'den İstifa Eden Eray Arda hk. Onur Öncü: Ne Oluyorsa 2023'te Partiye Katılıyor!</title>
       <link>https://www.youtube.com/shorts/bJ3H6r6C4_E</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">XOacX2Pq9eI</guid>
       <pubDate>Fri, 18 Sep 2026 05:37:16 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Serap Belovacıklı ile Aklın Yolu</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Pınar Erbaş ile Gecenin Sözü</title>
-      <link>https://www.youtube.com/watch?v=uJTiATVXKro</link>
-      <guid isPermaLink="false">uJTiATVXKro</guid>
-      <pubDate>Fri, 18 Sep 2026 05:36:09 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Pınar Erbaş ile Gecenin Sözü</description>
     </item>
   </channel>
 </rss>
