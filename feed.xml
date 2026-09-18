@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 18 Sep 2026 10:30:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 10:35:26 +0000</lastBuildDate>
     <item>
       <title>Cumhuriyet: Yavuzyılmaz’dan Çin’in DTÖ açıklaması üzerinden iktidara tepki: “Derhal istifa edin”</title>
       <link>https://www.youtube.com/shorts/Wqt12YKqAxc</link>
       <guid isPermaLink="false">Wqt12YKqAxc</guid>
       <pubDate>Fri, 18 Sep 2026 10:22:53 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Yavuzyılmaz’dan Çin’in DTÖ açıklaması üzerinden iktidara tepki: “Derhal istifa edin”</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: "ZARAR EDECEKLER!" Borsada Büyük Tehlike! Murat Sağman'dan Yatırımcılara Kritik Uyarı!</title>
+      <link>https://www.youtube.com/watch?v=nqCoh37MVtg</link>
+      <guid isPermaLink="false">nqCoh37MVtg</guid>
+      <pubDate>Fri, 18 Sep 2026 10:20:16 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: "ZARAR EDECEKLER!" Borsada Büyük Tehlike! Murat Sağman'dan Yatırımcılara Kritik Uyarı!</description>
     </item>
     <item>
       <title>Halk TV: ‘KAÇMA’ PLANINA TEDBİR: Tera'nın patronu Emre Tezmen de Bulls'un ortağı Enver Çevik de listede!</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">hy8T2FJ8yZU</guid>
       <pubDate>Fri, 18 Sep 2026 07:30:31 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Aras Bulut İynemli, Sefo, Melis Sezen ve Hasan Şaş Gözaltında! Ünlülere Şafak Operasyonu</description>
-    </item>
-    <item>
-      <title>Halk TV: MEHMET ŞİMŞEK'İN 'BORSA' İTİRAFI ORTAYA ÇIKTI! Yatırımcı parasını nasıl alacak? Gökhan Kayış anlattı</title>
-      <link>https://www.youtube.com/watch?v=bVcY9L0ffhc</link>
-      <guid isPermaLink="false">bVcY9L0ffhc</guid>
-      <pubDate>Fri, 18 Sep 2026 07:25:36 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: MEHMET ŞİMŞEK'İN 'BORSA' İTİRAFI ORTAYA ÇIKTI! Yatırımcı parasını nasıl alacak? Gökhan Kayış anlattı</description>
     </item>
   </channel>
 </rss>
