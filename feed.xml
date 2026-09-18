@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 18 Sep 2026 07:45:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 07:50:37 +0000</lastBuildDate>
     <item>
       <title>Cumhuriyet: Fethiye'yi sağanak vurdu: Turistler sel sularında şişme yatakla yüzdü</title>
       <link>https://www.youtube.com/shorts/SmiUR-LbvSs</link>
@@ -48,6 +48,13 @@
       <guid isPermaLink="false">OJzbnPvbKNs</guid>
       <pubDate>Fri, 18 Sep 2026 07:34:08 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Ali Babacan’dan motorin tepkisi: Enflasyonu düşüreceğiz masallarına inanmamalıyız</description>
+    </item>
+    <item>
+      <title>Tele2 Haber: Ünlülere Yönelik Uyuşturucu Operasyonunda 18 Kişi Hakkında Gözaltı Kararı!</title>
+      <link>https://www.youtube.com/watch?v=h57kdZlB8D4</link>
+      <guid isPermaLink="false">h57kdZlB8D4</guid>
+      <pubDate>Fri, 18 Sep 2026 07:33:07 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Ünlülere Yönelik Uyuşturucu Operasyonunda 18 Kişi Hakkında Gözaltı Kararı!</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Aras Bulut İynemli, Sefo, Melis Sezen ve Hasan Şaş Gözaltında! Ünlülere Şafak Operasyonu</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">tkkqysLqRvw</guid>
       <pubDate>Thu, 17 Sep 2026 21:59:02 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Gökmen Karadağ ile Açıkça (17 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>Halk TV: “GARANTİ ETMEK İSTİYOR!” Fikret Bila AKP'nin erken seçim planını açıkladı!</title>
-      <link>https://www.youtube.com/watch?v=S73dzHLBS2g</link>
-      <guid isPermaLink="false">S73dzHLBS2g</guid>
-      <pubDate>Thu, 17 Sep 2026 21:45:22 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: “GARANTİ ETMEK İSTİYOR!” Fikret Bila AKP'nin erken seçim planını açıkladı!</description>
     </item>
   </channel>
 </rss>
