@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 18 Sep 2026 11:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 11:40:35 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: TOKAT GİBİ SÖZLER! Borsadaki fon balonu patladı, Özgür Özel esti gürledi! Tarihe geçecek çıkış!</title>
+      <link>https://www.youtube.com/watch?v=C_tmO1my7IQ</link>
+      <guid isPermaLink="false">C_tmO1my7IQ</guid>
+      <pubDate>Fri, 18 Sep 2026 11:35:35 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: TOKAT GİBİ SÖZLER! Borsadaki fon balonu patladı, Özgür Özel esti gürledi! Tarihe geçecek çıkış!</description>
+    </item>
     <item>
       <title>ANKA Haber Ajansı: Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Teknofest yarışma alanınında konuşuyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=W6SJU3TkhWg</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">Fo0qjp5oEWY</guid>
       <pubDate>Fri, 18 Sep 2026 08:45:22 +0000</pubDate>
       <description>Halk TV kanalından yeni video: EMNİYETTE FLAŞ ATAMALAR! Gülistan Doku soruşturmasında ifade veren emniyet müdürü merkeze alındı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: BÜTÜN PARASINI KAYBETTİ! Murat Sağman'dan Kritik Borsa Uyarısı! Zarar Eden Fonlar Kurtarılabilir mi?</title>
-      <link>https://www.youtube.com/watch?v=_7Kz9TbV19Q</link>
-      <guid isPermaLink="false">_7Kz9TbV19Q</guid>
-      <pubDate>Fri, 18 Sep 2026 08:40:39 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: BÜTÜN PARASINI KAYBETTİ! Murat Sağman'dan Kritik Borsa Uyarısı! Zarar Eden Fonlar Kurtarılabilir mi?</description>
     </item>
   </channel>
 </rss>
