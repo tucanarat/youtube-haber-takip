@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 18 Sep 2026 09:35:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 09:40:35 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: BAKAN GÜRLEK DUYURDU! İsrail bağlantılı dolandırıcılık şebekesine operasyon! 29 şirket 239 gözaltı!</title>
+      <link>https://www.youtube.com/watch?v=HPSJ56HkYUQ</link>
+      <guid isPermaLink="false">HPSJ56HkYUQ</guid>
+      <pubDate>Fri, 18 Sep 2026 09:30:00 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BAKAN GÜRLEK DUYURDU! İsrail bağlantılı dolandırıcılık şebekesine operasyon! 29 şirket 239 gözaltı!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: "Kozinoğlu Kesinlikle Öldürüldü!" ÜMİT ÖZDAĞ AÇIKLADI! Hasan Atilla Uğur, Cem Ersever, FETÖ Gerçeği</title>
       <link>https://www.youtube.com/watch?v=2iuCM9_CL2M</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">YJiseoY24rE</guid>
       <pubDate>Fri, 18 Sep 2026 06:54:42 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Ercan Soydaş, ücretsiz seyahat kartlarının gelir durumuna göre düzenlenmesi gerektiğini savundu</description>
-    </item>
-    <item>
-      <title>Tele2 Haber: #CANLI Zeynel Lüle ile Ankara Günlüğü | Konuk: Bahattin Yücel (18.09.2026)</title>
-      <link>https://www.youtube.com/watch?v=dcKD2hgSsSw</link>
-      <guid isPermaLink="false">dcKD2hgSsSw</guid>
-      <pubDate>Fri, 18 Sep 2026 06:50:36 +0000</pubDate>
-      <description>Tele2 Haber kanalından yeni video: #CANLI Zeynel Lüle ile Ankara Günlüğü | Konuk: Bahattin Yücel (18.09.2026)</description>
     </item>
   </channel>
 </rss>
