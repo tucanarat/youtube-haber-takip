@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 18 Sep 2026 09:45:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 09:50:33 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: FON YATIRIMCILARI BU DETAYLARI KAÇIRMASIN! Ebru Baki ödeme takvimini adım adım anlattı! Meğer o ay..</title>
+      <link>https://www.youtube.com/watch?v=hphVZunoU68</link>
+      <guid isPermaLink="false">hphVZunoU68</guid>
+      <pubDate>Fri, 18 Sep 2026 09:45:29 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: FON YATIRIMCILARI BU DETAYLARI KAÇIRMASIN! Ebru Baki ödeme takvimini adım adım anlattı! Meğer o ay..</description>
+    </item>
     <item>
       <title>Halk TV: BAKAN GÜRLEK DUYURDU! İsrail bağlantılı dolandırıcılık şebekesine operasyon! 29 şirket 239 gözaltı!</title>
       <link>https://www.youtube.com/watch?v=HPSJ56HkYUQ</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">i83pFd9Kg64</guid>
       <pubDate>Fri, 18 Sep 2026 06:55:33 +0000</pubDate>
       <description>Halk TV kanalından yeni video: KAŞİF KOZİNOĞLU SORUŞTURMASINDA FLAŞ GELİŞME! Hasan Atilla Uğur havalimanında böyle gözaltına alındı</description>
-    </item>
-    <item>
-      <title>Halk TV: Ercan Soydaş, ücretsiz seyahat kartlarının gelir durumuna göre düzenlenmesi gerektiğini savundu</title>
-      <link>https://www.youtube.com/shorts/YJiseoY24rE</link>
-      <guid isPermaLink="false">YJiseoY24rE</guid>
-      <pubDate>Fri, 18 Sep 2026 06:54:42 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Ercan Soydaş, ücretsiz seyahat kartlarının gelir durumuna göre düzenlenmesi gerektiğini savundu</description>
     </item>
   </channel>
 </rss>
