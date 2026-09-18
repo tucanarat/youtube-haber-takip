@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 18 Sep 2026 09:00:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 09:05:26 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: YENİ Partili Süleyman Bülbül: Mazotun 100 lirayı aştığı bir ortamda bu çiftçi nasıl üretecek?</title>
+      <link>https://www.youtube.com/shorts/3EplMkO20ag</link>
+      <guid isPermaLink="false">3EplMkO20ag</guid>
+      <pubDate>Fri, 18 Sep 2026 09:00:50 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: YENİ Partili Süleyman Bülbül: Mazotun 100 lirayı aştığı bir ortamda bu çiftçi nasıl üretecek?</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: Yarım Milyon Yatırımcıya Acil Uyarı! Ziraat ve İş Bankası Devrede! SPK'dan Borsaya Müdahale</title>
       <link>https://www.youtube.com/watch?v=uuDIbYmvqfc</link>
       <guid isPermaLink="false">uuDIbYmvqfc</guid>
       <pubDate>Fri, 18 Sep 2026 09:00:17 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Yarım Milyon Yatırımcıya Acil Uyarı! Ziraat ve İş Bankası Devrede! SPK'dan Borsaya Müdahale</description>
+    </item>
+    <item>
+      <title>Halk TV: BÜYÜK BOMBA PATLADI! Fon tasfiyesinin altından öyle bir bağlantı çıktı ki! İbrahim Kahveci anlattı!</title>
+      <link>https://www.youtube.com/watch?v=BEXbo9Dj01s</link>
+      <guid isPermaLink="false">BEXbo9Dj01s</guid>
+      <pubDate>Fri, 18 Sep 2026 09:00:14 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: BÜYÜK BOMBA PATLADI! Fon tasfiyesinin altından öyle bir bağlantı çıktı ki! İbrahim Kahveci anlattı!</description>
     </item>
     <item>
       <title>Halk TV: Adalet Bakanı Akın Gürlek Adana’da Açıklamalarda Bulundu (18 Eylül 2026)</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">AGe9GEoYFGg</guid>
       <pubDate>Fri, 18 Sep 2026 06:40:23 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Beşiktaş Marsilya'yı 4 golle devirdi! Orkun Kökçü: Güçlü bir rakibe karşı güçlü başlamak zorundaydık</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Özgür Özel'den Bursa Büyükşehir Belediye Başkanı Bozbey'e ziyaret</title>
-      <link>https://www.youtube.com/shorts/XafO9fyZY-k</link>
-      <guid isPermaLink="false">XafO9fyZY-k</guid>
-      <pubDate>Fri, 18 Sep 2026 06:32:56 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Özgür Özel'den Bursa Büyükşehir Belediye Başkanı Bozbey'e ziyaret</description>
-    </item>
-    <item>
-      <title>Halk TV: SON DAKİKA! AKIN GÜRLEK AÇIKLADI! Sermaye piyasası soruşturmasında 20 tutuklama! Borsa alev alev!</title>
-      <link>https://www.youtube.com/watch?v=KDXJStQUACY</link>
-      <guid isPermaLink="false">KDXJStQUACY</guid>
-      <pubDate>Fri, 18 Sep 2026 06:32:50 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SON DAKİKA! AKIN GÜRLEK AÇIKLADI! Sermaye piyasası soruşturmasında 20 tutuklama! Borsa alev alev!</description>
     </item>
   </channel>
 </rss>
