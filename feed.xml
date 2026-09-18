@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 18 Sep 2026 08:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 08:05:30 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: İsmail Küçükkaya ile Günaydın Türkiyem | 18 Eylül</title>
+      <link>https://www.youtube.com/watch?v=ZJRgnExRGpE</link>
+      <guid isPermaLink="false">ZJRgnExRGpE</guid>
+      <pubDate>Fri, 18 Sep 2026 08:04:04 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya ile Günaydın Türkiyem | 18 Eylül</description>
+    </item>
+    <item>
+      <title>Halk TV: İBB CHP Meclis Üyesi Ekrem Eray Arda, CHP’den istifa ettiğini İBB Meclisinde böyle duyurdu!</title>
+      <link>https://www.youtube.com/shorts/_trbiV-HtN4</link>
+      <guid isPermaLink="false">_trbiV-HtN4</guid>
+      <pubDate>Fri, 18 Sep 2026 08:00:49 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: İBB CHP Meclis Üyesi Ekrem Eray Arda, CHP’den istifa ettiğini İBB Meclisinde böyle duyurdu!</description>
+    </item>
     <item>
       <title>SÖZCÜ TV: "EVLENMEK İSTİYOR!" Ümit Özdağ Bombayı Patlattı! Öcalan İddiaları Ankara'yı Sallayacak</title>
       <link>https://www.youtube.com/watch?v=4fiNtlpoSJs</link>
@@ -316,13 +330,6 @@
       <description>SÖZCÜ TV kanalından yeni video: #CANLI Can Coşkun ile Gündem Masası</description>
     </item>
     <item>
-      <title>SÖZCÜ TV: İsmail Küçükkaya ile Günaydın Türkiyem | 18 Eylül</title>
-      <link>https://www.youtube.com/watch?v=ZJRgnExRGpE</link>
-      <guid isPermaLink="false">ZJRgnExRGpE</guid>
-      <pubDate>Thu, 17 Sep 2026 22:36:16 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: İsmail Küçükkaya ile Günaydın Türkiyem | 18 Eylül</description>
-    </item>
-    <item>
       <title>Halk TV: Meclis salonunda dikkat çeken görüntü! CHP’den istifa etti, AK Parti meclis üyeleri tebrik etti!</title>
       <link>https://www.youtube.com/watch?v=oGV9tXvIEfg</link>
       <guid isPermaLink="false">oGV9tXvIEfg</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">5oEYV-8GSzk</guid>
       <pubDate>Thu, 17 Sep 2026 22:01:40 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Pınar Erbaş ile Gecenin Sözü | 23 Eylül</description>
-    </item>
-    <item>
-      <title>Halk TV: BÜYÜK VURGUNUN ŞİFRELERİ! Murat Birdal, fon yöneticileri ve Telegram arasındaki mekanizmayı anlattı!</title>
-      <link>https://www.youtube.com/watch?v=MLtPowzwGS4</link>
-      <guid isPermaLink="false">MLtPowzwGS4</guid>
-      <pubDate>Thu, 17 Sep 2026 22:00:22 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: BÜYÜK VURGUNUN ŞİFRELERİ! Murat Birdal, fon yöneticileri ve Telegram arasındaki mekanizmayı anlattı!</description>
     </item>
   </channel>
 </rss>
