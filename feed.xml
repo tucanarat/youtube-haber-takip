@@ -6,13 +6,20 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 18 Sep 2026 10:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 10:30:45 +0000</lastBuildDate>
     <item>
       <title>Cumhuriyet: Yavuzyılmaz’dan Çin’in DTÖ açıklaması üzerinden iktidara tepki: “Derhal istifa edin”</title>
       <link>https://www.youtube.com/shorts/Wqt12YKqAxc</link>
       <guid isPermaLink="false">Wqt12YKqAxc</guid>
       <pubDate>Fri, 18 Sep 2026 10:22:53 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Yavuzyılmaz’dan Çin’in DTÖ açıklaması üzerinden iktidara tepki: “Derhal istifa edin”</description>
+    </item>
+    <item>
+      <title>Halk TV: ‘KAÇMA’ PLANINA TEDBİR: Tera'nın patronu Emre Tezmen de Bulls'un ortağı Enver Çevik de listede!</title>
+      <link>https://www.youtube.com/watch?v=9L_nVc91--Q</link>
+      <guid isPermaLink="false">9L_nVc91--Q</guid>
+      <pubDate>Fri, 18 Sep 2026 10:15:06 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: ‘KAÇMA’ PLANINA TEDBİR: Tera'nın patronu Emre Tezmen de Bulls'un ortağı Enver Çevik de listede!</description>
     </item>
     <item>
       <title>Cumhuriyet: Sporda engel (niye) yok! - Arif Kızılyalın</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">bVcY9L0ffhc</guid>
       <pubDate>Fri, 18 Sep 2026 07:25:36 +0000</pubDate>
       <description>Halk TV kanalından yeni video: MEHMET ŞİMŞEK'İN 'BORSA' İTİRAFI ORTAYA ÇIKTI! Yatırımcı parasını nasıl alacak? Gökhan Kayış anlattı</description>
-    </item>
-    <item>
-      <title>Halk TV: SARAY'DAN DİKKAT ÇEKEN ÇIKIŞ! Demirtaş o yasadan yararlanıp tahliye edilecek mi? Ankara alev alev!</title>
-      <link>https://www.youtube.com/watch?v=tSz4c2Jh2ZI</link>
-      <guid isPermaLink="false">tSz4c2Jh2ZI</guid>
-      <pubDate>Fri, 18 Sep 2026 07:10:06 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: SARAY'DAN DİKKAT ÇEKEN ÇIKIŞ! Demirtaş o yasadan yararlanıp tahliye edilecek mi? Ankara alev alev!</description>
     </item>
   </channel>
 </rss>
