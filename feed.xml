@@ -6,7 +6,14 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 18 Sep 2026 07:25:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 07:30:42 +0000</lastBuildDate>
+    <item>
+      <title>Halk TV: MEHMET ŞİMŞEK'İN 'BORSA' İTİRAFI ORTAYA ÇIKTI! Yatırımcı parasını nasıl alacak? Gökhan Kayış anlattı</title>
+      <link>https://www.youtube.com/watch?v=bVcY9L0ffhc</link>
+      <guid isPermaLink="false">bVcY9L0ffhc</guid>
+      <pubDate>Fri, 18 Sep 2026 07:25:36 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: MEHMET ŞİMŞEK'İN 'BORSA' İTİRAFI ORTAYA ÇIKTI! Yatırımcı parasını nasıl alacak? Gökhan Kayış anlattı</description>
+    </item>
     <item>
       <title>Halk TV: SARAY'DAN DİKKAT ÇEKEN ÇIKIŞ! Demirtaş o yasadan yararlanıp tahliye edilecek mi? Ankara alev alev!</title>
       <link>https://www.youtube.com/watch?v=tSz4c2Jh2ZI</link>
@@ -85,11 +92,11 @@
       <description>Halk TV kanalından yeni video: Hasan Atilla Uğur'un gözaltına alınma anları ortaya çıktı!</description>
     </item>
     <item>
-      <title>ANKA Haber Ajansı: Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, TEKNOFEST yarışma alanını ziyaret ediyor #Canlı</title>
+      <title>ANKA Haber Ajansı: TEKNOFEST alanını ziyaret eden Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır açıklama yapıyor #Canlı</title>
       <link>https://www.youtube.com/watch?v=iZ98lPjkkVc</link>
       <guid isPermaLink="false">iZ98lPjkkVc</guid>
       <pubDate>Fri, 18 Sep 2026 06:58:58 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, TEKNOFEST yarışma alanını ziyaret ediyor #Canlı</description>
+      <description>ANKA Haber Ajansı kanalından yeni video: TEKNOFEST alanını ziyaret eden Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır açıklama yapıyor #Canlı</description>
     </item>
     <item>
       <title>Halk TV: KAŞİF KOZİNOĞLU SORUŞTURMASINDA FLAŞ GELİŞME! Hasan Atilla Uğur havalimanında böyle gözaltına alındı</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">pY8WSh1MrIs</guid>
       <pubDate>Thu, 17 Sep 2026 21:15:39 +0000</pubDate>
       <description>Halk TV kanalından yeni video: EMEKLİLER 1 KİLO ET İÇİN SABAH 5’TE KUYRUKTA! Sezgin Tanrıkulu et kuyruğundaki gerçeği anlattı!</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: ODTÜ Kültür ve Kongre Merkezi'nde Araştırma Üniversiteleri Destek Programı düzenleniyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=BAy5nsUVWr0</link>
-      <guid isPermaLink="false">BAy5nsUVWr0</guid>
-      <pubDate>Thu, 17 Sep 2026 21:08:17 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: ODTÜ Kültür ve Kongre Merkezi'nde Araştırma Üniversiteleri Destek Programı düzenleniyor #Canlı</description>
     </item>
   </channel>
 </rss>
