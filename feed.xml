@@ -6,7 +6,35 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 18 Sep 2026 07:00:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 07:05:29 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: #CANLI Namık Koçak ve Hüsnü Mahalli ile Forum (18.09.26)</title>
+      <link>https://www.youtube.com/watch?v=qDhbUxPbXv4</link>
+      <guid isPermaLink="false">qDhbUxPbXv4</guid>
+      <pubDate>Fri, 18 Sep 2026 07:04:08 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: #CANLI Namık Koçak ve Hüsnü Mahalli ile Forum (18.09.26)</description>
+    </item>
+    <item>
+      <title>Halk TV: Deniz Bayramoğlu ile Gün Doğarken | #bekliyoruz (17 Eylül 2026)</title>
+      <link>https://www.youtube.com/watch?v=9zjWYeLWYK0</link>
+      <guid isPermaLink="false">9zjWYeLWYK0</guid>
+      <pubDate>Fri, 18 Sep 2026 07:04:03 +0000</pubDate>
+      <description>Halk TV kanalından yeni video: Deniz Bayramoğlu ile Gün Doğarken | #bekliyoruz (17 Eylül 2026)</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Ümit Özdağ İsmail Küçükkaya'nın Sorularını Yanıtlıyor! İmralı'da Villa, Bahçeli, Erdoğan, Seçimler</title>
+      <link>https://www.youtube.com/watch?v=RUhBqPO_ZEo</link>
+      <guid isPermaLink="false">RUhBqPO_ZEo</guid>
+      <pubDate>Fri, 18 Sep 2026 07:03:29 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Ümit Özdağ İsmail Küçükkaya'nın Sorularını Yanıtlıyor! İmralı'da Villa, Bahçeli, Erdoğan, Seçimler</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: Hasan Atilla Uğur Gözaltına Alındı! Görüntüler Ortaya Çıktı! Kaşif Kozinoğlu Dosyası Büyüdü</title>
+      <link>https://www.youtube.com/watch?v=J5jb2MaK6Gs</link>
+      <guid isPermaLink="false">J5jb2MaK6Gs</guid>
+      <pubDate>Fri, 18 Sep 2026 07:00:31 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: Hasan Atilla Uğur Gözaltına Alındı! Görüntüler Ortaya Çıktı! Kaşif Kozinoğlu Dosyası Büyüdü</description>
+    </item>
     <item>
       <title>Tele2 Haber: #CANLI Murat Taylan ile Haber-Yorum (16.09.2026)</title>
       <link>https://www.youtube.com/watch?v=Ow1nZmgRLOY</link>
@@ -111,13 +139,6 @@
       <guid isPermaLink="false">uJTiATVXKro</guid>
       <pubDate>Fri, 18 Sep 2026 05:36:09 +0000</pubDate>
       <description>SÖZCÜ TV kanalından yeni video: Pınar Erbaş ile Gecenin Sözü</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: Ümit Özdağ İsmail Küçükkaya'nın Sorularını Yanıtlıyor! İmralı'da Villa, Bahçeli, Erdoğan, Seçimler</title>
-      <link>https://www.youtube.com/watch?v=RUhBqPO_ZEo</link>
-      <guid isPermaLink="false">RUhBqPO_ZEo</guid>
-      <pubDate>Fri, 18 Sep 2026 05:33:02 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: Ümit Özdağ İsmail Küçükkaya'nın Sorularını Yanıtlıyor! İmralı'da Villa, Bahçeli, Erdoğan, Seçimler</description>
     </item>
     <item>
       <title>SÖZCÜ TV: Merve Ekinci ile Uyanma Vakti | 18 Eylül</title>
@@ -281,13 +302,6 @@
       <description>SÖZCÜ TV kanalından yeni video: 500 Bin Yatırımcı Ne Yapacak? SPK'dan 130 Fon İçin Şok Tasfiye Kararı! Ramazan Başak Uyardı</description>
     </item>
     <item>
-      <title>Halk TV: Deniz Bayramoğlu ile Gün Doğarken | #bekliyoruz (17 Eylül 2026)</title>
-      <link>https://www.youtube.com/watch?v=9zjWYeLWYK0</link>
-      <guid isPermaLink="false">9zjWYeLWYK0</guid>
-      <pubDate>Thu, 17 Sep 2026 21:18:31 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Deniz Bayramoğlu ile Gün Doğarken | #bekliyoruz (17 Eylül 2026)</description>
-    </item>
-    <item>
       <title>Halk TV: #CANLI | Ebru Baki ile Para Siyaset | İbrahim Kahveci</title>
       <link>https://www.youtube.com/watch?v=sKVL5WphYOI</link>
       <guid isPermaLink="false">sKVL5WphYOI</guid>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">B0pKSdP6FL0</guid>
       <pubDate>Thu, 17 Sep 2026 20:50:22 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Uşak’ta akşam saatlerindeki sağanak ve dolu sebebiyle kara yollarının bir bölümü trafiğe kapatıldı!</description>
-    </item>
-    <item>
-      <title>Halk TV: Meclis aritmetiğinde büyük hesap! 360 vekil için kritik virajı Gökmen Karadağ açıkladı!</title>
-      <link>https://www.youtube.com/watch?v=we2LdUOLjYw</link>
-      <guid isPermaLink="false">we2LdUOLjYw</guid>
-      <pubDate>Thu, 17 Sep 2026 20:45:05 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: Meclis aritmetiğinde büyük hesap! 360 vekil için kritik virajı Gökmen Karadağ açıkladı!</description>
-    </item>
-    <item>
-      <title>SÖZCÜ TV: AKP'nin Erdoğan İçin "Son Kez" Senaryosu! Barış Terkoğlu'ndan Olay Mehmet Uçum Çıkışı! Seçim Sözleri</title>
-      <link>https://www.youtube.com/watch?v=qubx1OcEhZ0</link>
-      <guid isPermaLink="false">qubx1OcEhZ0</guid>
-      <pubDate>Thu, 17 Sep 2026 20:40:19 +0000</pubDate>
-      <description>SÖZCÜ TV kanalından yeni video: AKP'nin Erdoğan İçin "Son Kez" Senaryosu! Barış Terkoğlu'ndan Olay Mehmet Uçum Çıkışı! Seçim Sözleri</description>
     </item>
   </channel>
 </rss>
