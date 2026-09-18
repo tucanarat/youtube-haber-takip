@@ -6,7 +6,21 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 18 Sep 2026 11:50:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 11:56:05 +0000</lastBuildDate>
+    <item>
+      <title>Tele2 Haber: Yurttaştan Özgür Özel'e Erken Seçim Uyarısı! "Oyun Peşindeler!"</title>
+      <link>https://www.youtube.com/watch?v=mIlIuA0HYnA</link>
+      <guid isPermaLink="false">mIlIuA0HYnA</guid>
+      <pubDate>Fri, 18 Sep 2026 11:49:25 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: Yurttaştan Özgür Özel'e Erken Seçim Uyarısı! "Oyun Peşindeler!"</description>
+    </item>
+    <item>
+      <title>SÖZCÜ TV: "Aday Olsa Kazanırdı!" Ümit Özdağ’dan İlk Kez Mansur Yavaş İtirafı! Yaşananları Tek Tek Anlattı</title>
+      <link>https://www.youtube.com/watch?v=ey3f0xvH5KY</link>
+      <guid isPermaLink="false">ey3f0xvH5KY</guid>
+      <pubDate>Fri, 18 Sep 2026 11:40:41 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: "Aday Olsa Kazanırdı!" Ümit Özdağ’dan İlk Kez Mansur Yavaş İtirafı! Yaşananları Tek Tek Anlattı</description>
+    </item>
     <item>
       <title>Halk TV: TOKAT GİBİ SÖZLER! Borsadaki fon balonu patladı, Özgür Özel esti gürledi! Tarihe geçecek çıkış!</title>
       <link>https://www.youtube.com/watch?v=C_tmO1my7IQ</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">wsGvbu3Ybhc</guid>
       <pubDate>Fri, 18 Sep 2026 08:57:39 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Adalet Bakanı Akın Gürlek Adana’da Açıklamalarda Bulundu (18 Eylül 2026)</description>
-    </item>
-    <item>
-      <title>ANKA Haber Ajansı: Adalet Bakanı Akın Gürlek Adana’da açıklama yapıyor #Canlı</title>
-      <link>https://www.youtube.com/watch?v=gkUgE_teqrU</link>
-      <guid isPermaLink="false">gkUgE_teqrU</guid>
-      <pubDate>Fri, 18 Sep 2026 08:54:41 +0000</pubDate>
-      <description>ANKA Haber Ajansı kanalından yeni video: Adalet Bakanı Akın Gürlek Adana’da açıklama yapıyor #Canlı</description>
-    </item>
-    <item>
-      <title>Halk TV: EMNİYETTE FLAŞ ATAMALAR! Gülistan Doku soruşturmasında ifade veren emniyet müdürü merkeze alındı!</title>
-      <link>https://www.youtube.com/watch?v=Fo0qjp5oEWY</link>
-      <guid isPermaLink="false">Fo0qjp5oEWY</guid>
-      <pubDate>Fri, 18 Sep 2026 08:45:22 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: EMNİYETTE FLAŞ ATAMALAR! Gülistan Doku soruşturmasında ifade veren emniyet müdürü merkeze alındı!</description>
     </item>
   </channel>
 </rss>
