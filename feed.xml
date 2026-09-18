@@ -6,13 +6,27 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 18 Sep 2026 09:20:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 09:25:29 +0000</lastBuildDate>
+    <item>
+      <title>SÖZCÜ TV: "Kozinoğlu Kesinlikle Öldürüldü!" ÜMİT ÖZDAĞ AÇIKLADI! Hasan Atilla Uğur, Cem Ersever, FETÖ Gerçeği</title>
+      <link>https://www.youtube.com/watch?v=2iuCM9_CL2M</link>
+      <guid isPermaLink="false">2iuCM9_CL2M</guid>
+      <pubDate>Fri, 18 Sep 2026 09:20:14 +0000</pubDate>
+      <description>SÖZCÜ TV kanalından yeni video: "Kozinoğlu Kesinlikle Öldürüldü!" ÜMİT ÖZDAĞ AÇIKLADI! Hasan Atilla Uğur, Cem Ersever, FETÖ Gerçeği</description>
+    </item>
     <item>
       <title>Halk TV: Çok sayıda ünlü isme gözaltı: Hasan Şaş, Melis Sezen, Sefo ve Aras Bulut İynemli listede olanlar...</title>
       <link>https://www.youtube.com/watch?v=jAyCRrJDMN8</link>
       <guid isPermaLink="false">jAyCRrJDMN8</guid>
       <pubDate>Fri, 18 Sep 2026 09:15:19 +0000</pubDate>
       <description>Halk TV kanalından yeni video: Çok sayıda ünlü isme gözaltı: Hasan Şaş, Melis Sezen, Sefo ve Aras Bulut İynemli listede olanlar...</description>
+    </item>
+    <item>
+      <title>Cumhuriyet: Uzmanından 'acil' açıklaması! "Hasta yoğunluğunda artış gözlemliyoruz"</title>
+      <link>https://www.youtube.com/watch?v=lH1bej_C5mg</link>
+      <guid isPermaLink="false">lH1bej_C5mg</guid>
+      <pubDate>Fri, 18 Sep 2026 09:14:14 +0000</pubDate>
+      <description>Cumhuriyet kanalından yeni video: Uzmanından 'acil' açıklaması! "Hasta yoğunluğunda artış gözlemliyoruz"</description>
     </item>
     <item>
       <title>Halk TV: YENİ Partili Süleyman Bülbül: Mazotun 100 lirayı aştığı bir ortamda bu çiftçi nasıl üretecek?</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="false">dcKD2hgSsSw</guid>
       <pubDate>Fri, 18 Sep 2026 06:50:36 +0000</pubDate>
       <description>Tele2 Haber kanalından yeni video: #CANLI Zeynel Lüle ile Ankara Günlüğü | Konuk: Bahattin Yücel</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Ümit Özdağ'dan Balgat'ta taksici esnafına ziyaret: "Akaryakıt zamları ve cezalar esnafı zorluyor"</title>
-      <link>https://www.youtube.com/shorts/FpB4XvsGTkc</link>
-      <guid isPermaLink="false">FpB4XvsGTkc</guid>
-      <pubDate>Fri, 18 Sep 2026 06:49:01 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Ümit Özdağ'dan Balgat'ta taksici esnafına ziyaret: "Akaryakıt zamları ve cezalar esnafı zorluyor"</description>
-    </item>
-    <item>
-      <title>Halk TV: YENİ Parti Lideri Özgür Özel tutuklu Bursa Belediye Başkanı Mustafa Bozbey'i cezaevinde ziyaret etti</title>
-      <link>https://www.youtube.com/shorts/bE-vctsZoYQ</link>
-      <guid isPermaLink="false">bE-vctsZoYQ</guid>
-      <pubDate>Fri, 18 Sep 2026 06:45:32 +0000</pubDate>
-      <description>Halk TV kanalından yeni video: YENİ Parti Lideri Özgür Özel tutuklu Bursa Belediye Başkanı Mustafa Bozbey'i cezaevinde ziyaret etti</description>
     </item>
   </channel>
 </rss>
