@@ -6,7 +6,7 @@
     <atom:link href="https://tucanarat.github.io/youtube-haber-takip/feed.xml" rel="self" type="application/rss+xml" />
     <description>Takip edilen YouTube haber kanallarındaki yeni videolar</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 30 Oct 2026 23:15:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 02:29:31 +0000</lastBuildDate>
     <item>
       <title>SÖZCÜ TV: Simge Fıstıkoğlu İle İyi ki Hafta Sonu</title>
       <link>https://www.youtube.com/watch?v=t71wmROLyV0</link>
@@ -239,6 +239,13 @@
       <description>Tele2 Haber kanalından yeni video: ALİYEV TÜRKİYE'YE NEDEN GELMEDİ? Zengezur koridoru ne oldu? Hüsnü Mahalli ile Dünya Hali</description>
     </item>
     <item>
+      <title>Tele2 Haber: İsrail seçiminden ne sonuç çıktı? Hüsnü Mahalli 'Milli İttifak Hükümeti'ni işaret etti!</title>
+      <link>https://www.youtube.com/watch?v=uAxrdvdjTNE</link>
+      <guid isPermaLink="false">uAxrdvdjTNE</guid>
+      <pubDate>Fri, 30 Oct 2026 17:56:15 +0000</pubDate>
+      <description>Tele2 Haber kanalından yeni video: İsrail seçiminden ne sonuç çıktı? Hüsnü Mahalli 'Milli İttifak Hükümeti'ni işaret etti!</description>
+    </item>
+    <item>
       <title>Tele2 Haber: Bugün başladı! Fon mağdurlarına ne kadar ödeme yapılıyor? Ana paralarını alabilecekler mi?</title>
       <link>https://www.youtube.com/watch?v=lA7QB80_Iqk</link>
       <guid isPermaLink="false">lA7QB80_Iqk</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">gRAeyp0XuMc</guid>
       <pubDate>Fri, 30 Oct 2026 14:39:58 +0000</pubDate>
       <description>Cumhuriyet kanalından yeni video: Dervişoğlu ile Bahçeli'nin o görüntüleri gündem olmuştu! Ülkücü başkandan flaş açıklama....</description>
-    </item>
-    <item>
-      <title>Cumhuriyet: Aliyev zirveye neden katılmadı? Azerbaycan Türkiye geriliminin sebebi ne? | Barış Övgün</title>
-      <link>https://www.youtube.com/watch?v=VjkQQSM5G_8</link>
-      <guid isPermaLink="false">VjkQQSM5G_8</guid>
-      <pubDate>Fri, 30 Oct 2026 14:33:34 +0000</pubDate>
-      <description>Cumhuriyet kanalından yeni video: Aliyev zirveye neden katılmadı? Azerbaycan Türkiye geriliminin sebebi ne? | Barış Övgün</description>
     </item>
   </channel>
 </rss>
